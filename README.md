@@ -20,6 +20,13 @@ Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vr
 
 **Belangrijke beperking:** met alleen sluitingstijden kunnen we niet garanderen dat een zaak op dat moment daadwerkelijk open is of dat bezoekers dan nog worden toegelaten. Daarvoor zijn ook openingsuren en laatste-toegangstijden nodig. Onbekende sluitingstijden worden bij een actief tijdsfilter niet als open weergegeven.
 
+## Kaartweergave en links
+
+- Aankomsttijd: stappen van **30 minuten** in de keuzelijst; **Nu** gebruikt de exacte actuele tijd in Nederland.
+- Alleen locaties met een sluitingstijd **strikt later dan** het gekozen tijdstip worden getoond. Laatste toegang blijft onbekend.
+- Grijze OpenStreetMap-ondergrond. Markers voor sluitingstijden blijven gekleurd.
+- Elke locatiekaart biedt **Website** als een siteadres bekend is, of een link naar een officiële bron voor sluitingstijden waar die beschikbaar is. Waar geen directe site bekend is, staat expliciet **Website zoeken** (Google-zoekopdracht, geen geverifieerde site). Er is ook een Google Maps-link. De kaartpopup toont dezelfde opties.
+
 ## Publiceren via GitHub Pages (gratis)
 
 1. Maak een **openbare** repository `nogergensnaarbinnen` op https://github.com/new (zonder eigen domein nodig).
