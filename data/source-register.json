@@ -3,10 +3,10 @@
   "generated_on": "2026-10-26",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 219,
-    "source_urls": 277,
-    "domains": 160,
-    "direct_website_fields": 140
+    "venues": 222,
+    "source_urls": 287,
+    "domains": 162,
+    "direct_website_fields": 143
   },
   "discovery_sites": [
     {
@@ -61,18 +61,18 @@
   "domains": [
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 54,
-      "linked_venues": 51
+      "source_pages": 55,
+      "linked_venues": 52
     },
     {
       "domain": "ontdek-utrecht.nl",
-      "source_pages": 15,
-      "linked_venues": 32
+      "source_pages": 17,
+      "linked_venues": 34
     },
     {
       "domain": "debuik.nl",
-      "source_pages": 9,
-      "linked_venues": 15
+      "source_pages": 10,
+      "linked_venues": 16
     },
     {
       "domain": "uitutrecht.com",
@@ -175,6 +175,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "moos-utrecht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "puuroost-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -195,6 +200,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "sevilla-utrecht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "stadsschouwburg-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -210,6 +220,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "teds-place.mom",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "thegrandshuffle.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -221,6 +236,11 @@
     },
     {
       "domain": "verseuitjes.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "vind-open.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -770,11 +790,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "teds-place.mom",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "theaterkikker.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -833,11 +848,6 @@
       "domain": "vandestreekbier.nl",
       "source_pages": 1,
       "linked_venues": 2
-    },
-    {
-      "domain": "vind-open.nl",
-      "source_pages": 1,
-      "linked_venues": 1
     },
     {
       "domain": "visitutrechtregion.com",
@@ -3627,6 +3637,30 @@
       "needs_review": false
     },
     {
+      "url": "https://centrumutrecht.nl/company/teds-stadhuisplein/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "teds-stadhuisplein-20261026",
+          "name": "Teds Utrecht Stadhuisplein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://centrumutrecht.nl/company/the-5th-utrecht/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -4249,6 +4283,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.debuik.nl/utrecht/restaurant/sevilla",
+      "domain": "debuik.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "sevilla-utrecht-20261026",
+          "name": "Sevilla Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.debuik.nl/utrecht/restaurant/the-fools",
@@ -6050,6 +6108,59 @@
       "needs_review": false
     },
     {
+      "url": "https://moos-utrecht.nl/",
+      "domain": "moos-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "moos-utrecht-20261026",
+          "name": "MOOS Utrecht",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://moos-utrecht.nl/restaurant-amsterdamsestraatweg/",
+      "domain": "moos-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "moos-utrecht-20261026",
+          "name": "MOOS Utrecht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://morrowutrecht.nl/",
       "domain": "morrowutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -6614,6 +6725,54 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.ontdek-utrecht.nl/locatie/restaurant-moos",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "moos-utrecht-20261026",
+          "name": "MOOS Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.ontdek-utrecht.nl/locatie/sevilla/",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "sevilla-utrecht-20261026",
+          "name": "Sevilla Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.ontdek-utrecht.nl/locatie/t-oude-pothuys",
@@ -7395,6 +7554,59 @@
       "needs_review": false
     },
     {
+      "url": "https://sevilla-utrecht.nl/",
+      "domain": "sevilla-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "sevilla-utrecht-20261026",
+          "name": "Sevilla Utrecht",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://sevilla-utrecht.nl/contact/",
+      "domain": "sevilla-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "sevilla-utrecht-20261026",
+          "name": "Sevilla Utrecht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://soia.nl/",
       "domain": "soia.nl",
       "first_registered_on": "2026-10-26",
@@ -7756,6 +7968,37 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://teds-place.mom/locations/utrecht-stadhuisplein/",
+      "domain": "teds-place.mom",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "teds-stadhuisplein-20261026",
+          "name": "Teds Utrecht Stadhuisplein",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.theaterkikker.nl/je-bezoek/veelgestelde-vragen",
@@ -10506,6 +10749,30 @@
       "needs_review": false
     },
     {
+      "url": "https://vind-open.nl/utrecht/teds-utrecht-stadhuisplein-all-day-food-drinks-930393",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "teds-stadhuisplein-20261026",
+          "name": "Teds Utrecht Stadhuisplein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus",
       "domain": "visitutrechtregion.com",
       "first_registered_on": "2026-10-26",
@@ -11337,6 +11604,16 @@
         "id": "quignon-f8af1d8",
         "name": "Quignon",
         "reason": "Eigen home/contactpagina hebben tegenstrijdige sluitingstijden. Conservatief de vroegste gepubliceerde tijd gebruikt. | Weekendopening volgens officiële contactpagina."
+      },
+      {
+        "id": "sevilla-utrecht-20261026",
+        "name": "Sevilla Utrecht",
+        "reason": "Officiële site noemt vrijdag/zaterdag 00:00. Ontdek Utrecht ondersteunt 00:00; De Buik en andere gidsen melden 01:00. Officiële bron voorrang, maar conflicterende tijd bewaren."
+      },
+      {
+        "id": "teds-stadhuisplein-20261026",
+        "name": "Teds Utrecht Stadhuisplein",
+        "reason": "Eigen vestigingswebsite 09:00-17:00, bij geschikt zomerweer do-zo 09:00-19:00. De Buik en VindOpen vermelden vrijdag/weekend tot 20:00; tijdconflict expliciet behouden, geen latere sluiting aangenomen."
       },
       {
         "id": "tilt-64c83ae",

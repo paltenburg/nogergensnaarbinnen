@@ -6222,7 +6222,12 @@
         "https://www.ontdek-utrecht.nl/locatie/restaurant-moos"
       ],
       "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.1018095,
+        "lon": 5.0985948,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Amsterdamsestraatweg 283, 3551CE Utrecht"
+      },
       "opening": {
         "ma": "10:00",
         "di": "10:00",
@@ -7543,7 +7548,12 @@
         "https://www.debuik.nl/utrecht/restaurant/sevilla"
       ],
       "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.0922506,
+        "lon": 5.1222827,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Korte Jansstraat 5, 3512GM Utrecht"
+      },
       "opening": {
         "ma": "17:00",
         "di": "17:00",
@@ -8082,7 +8092,12 @@
         "https://vind-open.nl/utrecht/teds-utrecht-stadhuisplein-all-day-food-drinks-930393"
       ],
       "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.092197,
+        "lon": 5.120265,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Korte Minrebroederstraat 11, 3512GG Utrecht"
+      },
       "opening": {
         "ma": "09:00",
         "di": "09:00",
