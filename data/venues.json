@@ -3903,7 +3903,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Speciaalbier",
-      "website": "",
+      "website": "https://www.kafebelgie.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/4/"
@@ -3914,7 +3914,9 @@
         "lon": 5.1215103,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 196, 3511NR Utrecht"
-      }
+      },
+      "website_provenance": "official-site-cross-referenced: Utrecht University / venue menu PDF / local listing",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "kitchen-bar-danel-4c5a5ea",
