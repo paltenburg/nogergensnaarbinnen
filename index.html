@@ -146,6 +146,22 @@
       .results .card{flex-basis:245px;width:245px}
       .top .brand p{font-size:11px}
     }
+
+    /* The map is unobstructed: location information is shown in the cards. */
+    .floating,.legend{display:none!important}
+    .card.selected{border:2px solid #d39931!important;background:#fffaf0!important;box-shadow:0 0 0 2px #e5b96342!important}
+    .card-features{font-size:12px;line-height:1.45;color:#536779;margin-top:7px}
+    .card-more{border-top:1px solid #e3eaf0;margin-top:11px;padding-top:9px;font-size:11px;color:#465e6f}
+    .card-more summary{cursor:pointer;color:#07578f;font-size:12px;font-weight:700;list-style-position:inside;min-height:28px}
+    .card-more summary:focus-visible{outline:2px solid #2674b4;outline-offset:3px}
+    .card-more-content{padding-top:5px;line-height:1.5;overflow-wrap:anywhere}
+    .card-more-content p{margin:6px 0}
+    .card-more-content strong{color:#20394d}
+    .card-more-content a{display:block;color:#07578f;margin:8px 0;text-decoration:underline}
+    @media(max-width:880px){
+      .results{align-items:stretch;scroll-padding-inline:10px}
+      .results .card{flex:0 0 min(82vw,315px);width:min(82vw,315px);align-self:stretch}
+    }
   </style>
 </head>
 <body>
@@ -187,7 +203,7 @@
   'use strict';
   const days=['ma','di','wo','do','vr','za','zo'];
   const el=id=>document.getElementById(id);
-  let db={regions:[],places:[]}, map=null, layer=null, pins=new Map(), userMovedMap=false;
+  let db={regions:[],places:[]}, map=null, layer=null, pins=new Map(), cardsById=new Map(), selectedId=null;
   const urlp=new URLSearchParams(location.search);
   const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1'};
   const esc=value=>String(value ?? '').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
@@ -206,19 +222,85 @@
   }
   function mapDirections(p){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([p.name,p.address,p.city,p.country].filter(Boolean).join(', '));}
   function websiteSearch(p){return 'https://www.google.com/search?q='+encodeURIComponent([p.name,p.address,p.city,'officiële website'].filter(Boolean).join(' '));}
-  function mapPopup(p){const s=closing(p);const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());const site=officialWebsite(p);const gmap=mapDirections(p);return `<div class="popup-title">${esc(p.name)}</div><div class="popup-sub">${esc(p.type)} · ${esc(p.address||'Adres onbekend')}, ${esc(p.city)}</div><div class="popup-line"><strong>Sluit:</strong> ${esc(closingLabel(s))} <span style="color:#9db4c8">(${esc(state.day)})</span></div>${p.closing_notes?`<div class="popup-line">${esc(p.closing_notes)}</div>`:''}${p.access?`<div class="popup-line" style="color:#9db4c8">${esc(p.access)}</div>`:''}<a class="popup-link" target="_blank" rel="noopener noreferrer" href="${esc(gmap)}">Route / Maps ↗</a> <a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(site?site.url:websiteSearch(p))}">${site?esc(site.label)+' ↗':'Website zoeken ↗'}</a>${source?`<a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(source)}">Bron sluitingstijden ↗</a>`:''}<div class="popup-ai">Tekst met AI gegenereerd/samengesteld. Controleer gegevens bij de locatie.</div>`;}
-  function openPlace(id){const pin=pins.get(id);if(pin&&map){map.flyTo(pin.getLatLng(),Math.max(map.getZoom(),16),{duration:.6});setTimeout(()=>pin.openPopup(),610);}else{const p=db.places.find(p=>p.id===id); if(p)alert(`Voor ${p.name} is nog geen gecontroleerde kaartpositie beschikbaar.\n${p.address||'Adres onbekend'}`);}}
+
+  function choosePlace(id,fromMap=false){
+    const card=cardsById.get(id);
+    if(!card)return;
+    selectedId=id;
+    for(const [otherId,item] of cardsById){
+      const active=otherId===id;
+      item.classList.toggle('selected',active);
+      const details=item.querySelector('.card-more');
+      if(details)details.open=active;
+    }
+    for(const [otherId,marker] of pins){
+      const active=otherId===id;
+      marker.setStyle({radius:active?11:7,weight:active?3:1.5,color:active?'#1c384c':'#122033'});
+      if(active)marker.bringToFront();
+    }
+    const results=el('results');
+    if(window.matchMedia('(max-width:880px)').matches){
+      const left=card.offsetLeft-results.offsetLeft-10;
+      results.scrollTo({left:Math.max(0,left),behavior:'smooth'});
+      if(fromMap){
+        const headerHeight=document.querySelector('.top')?.getBoundingClientRect().height||0;
+        const position=results.getBoundingClientRect();
+        if(position.bottom>window.innerHeight-15||position.top<headerHeight+6){
+          window.scrollBy({top:position.top-headerHeight-10,behavior:'smooth'});
+        }
+      }
+    }else{
+      results.scrollTo({top:Math.max(0,card.offsetTop-results.offsetTop-12),behavior:'smooth'});
+    }
+  }
+  function openPlace(id){
+    choosePlace(id,false);
+    const pin=pins.get(id);
+    if(pin&&map)map.flyTo(pin.getLatLng(),Math.max(map.getZoom(),15),{duration:.45});
+  }
   function render(){const filtered=db.places.filter(eligible).sort(sortPlaces);el('count').textContent=filtered.length;const geocoded=filtered.filter(p=>Number.isFinite(p.geo?.lat)&&Number.isFinite(p.geo?.lon));el('locatedCount').textContent=`${geocoded.length} op kaart`;
     const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} in deze uitgaansavond/-nacht. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = tijd onbekend.';
     el('visitHint').textContent=state.after?`Alleen locaties die volgens de bekende tijden na ${state.after} sluiten. ${Number(state.after.slice(0,2))<12?'Een tijd na middernacht hoort bij de volgende ochtend. ':''}Openstelling en laatste toegang zijn niet bevestigd.`:'Kies een aankomsttijd per halfuur of gebruik Nu voor de exacte huidige tijd. Vrijdagavond + 04:00 betekent zaterdagochtend 04:00. Laatste toegang is niet altijd bekend.';
-    const out=el('results');out.replaceChildren();const frag=document.createDocumentFragment();if(!filtered.length){out.innerHTML='<div class="empty">Geen locaties bekend die met deze filters later sluiten. Kies een vroeger tijdstip of een ander type.</div>';}else{for(const p of filtered){const card=document.createElement('article');card.className='card';const s=closing(p);const color=colorFor(s);
-      const main=document.createElement('button');main.type='button';main.className='card-main';main.innerHTML=`<div class="card-head"><span class="card-title">${esc(p.name)}</span><span class="time" style="background:${color}">${esc(closingLabel(s))}</span></div><div class="card-desc">${esc(p.type)}<br><em>${esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')}</em></div><div class="card-tags">${p.geo?.lat?'': '<span class="pill">Geen kaartpositie</span>'}${p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':''}${s==='?'?'<span class="pill">Sluiting onbekend</span>':''}</div>`;main.addEventListener('click',()=>openPlace(p.id));card.appendChild(main);
-      const actions=document.createElement('div');actions.className='card-actions';
-      const site=officialWebsite(p);
-      const links=[{label:site?site.label:'Website zoeken',url:site?site.url:websiteSearch(p)},{label:'Google Maps',url:mapDirections(p)}];
+
+    const out=el('results');out.replaceChildren();cardsById.clear();const frag=document.createDocumentFragment();
+    if(selectedId&&!filtered.some(p=>p.id===selectedId))selectedId=null;
+    if(!filtered.length){out.innerHTML='<div class="empty">Geen locaties bekend die met deze filters later sluiten. Kies een vroeger tijdstip of een ander type.</div>';}
+    else for(const p of filtered){
+      const card=document.createElement('article');card.className='card';card.dataset.venueId=p.id;
+      const s=closing(p),color=colorFor(s);
+      const main=document.createElement('button');main.type='button';main.className='card-main';
+      main.innerHTML='<div class="card-head"><span class="card-title">'+esc(p.name)+'</span><span class="time" style="background:'+color+'">'+esc(closingLabel(s))+'</span></div>'
+        +'<div class="card-desc">'+esc(p.type)+'<br><em>'+esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')+'</em></div>'
+        +(p.features?'<div class="card-features">'+esc(p.features)+'</div>':'')
+        +'<div class="card-tags">'+(p.geo?.lat?'':'<span class="pill">Geen kaartpositie</span>')+(p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':'')+(s==='?'?'<span class="pill">Sluiting onbekend</span>':'')+'</div>';
+      main.addEventListener('click',()=>openPlace(p.id));card.appendChild(main);
+      const actions=document.createElement('div');actions.className='card-actions';const site=officialWebsite(p);
+      const links=[{label:site?'Website':'Website zoeken',url:site?site.url:websiteSearch(p)},{label:'Route',url:mapDirections(p)}];
       for(const link of links){const a=document.createElement('a');a.href=link.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=link.label+' ↗';actions.appendChild(a);}
-      card.appendChild(actions);frag.appendChild(card);}out.appendChild(frag);}
-    if(layer){layer.clearLayers();pins.clear();for(const p of geocoded){const color=colorFor(closing(p));const m=L.circleMarker([p.geo.lat,p.geo.lon],{radius:7,color:'#122033',weight:1.5,fillColor:color,fillOpacity:.95});m.bindPopup(()=>mapPopup(p),{maxWidth:270});m.addTo(layer);pins.set(p.id,m);}}
+      card.appendChild(actions);
+      const info=document.createElement('details');info.className='card-more';
+      const summary=document.createElement('summary');summary.textContent='Meer details en bronnen';info.appendChild(summary);
+      const content=document.createElement('div');content.className='card-more-content';
+      const line=(title,value)=>{if(!value)return;const row=document.createElement('p');const strong=document.createElement('strong');strong.textContent=title+': ';row.appendChild(strong);row.appendChild(document.createTextNode(value));content.appendChild(row);};
+      line('Toegang',p.access);line('Opmerking',p.closing_notes);line('Tijdbron',p.closing_quality);line('Nagekeken',p.checked_on);
+      const weekly=document.createElement('p');const label=document.createElement('strong');label.textContent='Sluiting per uitgaansavond: ';weekly.appendChild(label);
+      weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+closingLabel(p.closing?.[d])).join(' · ')));content.appendChild(weekly);
+      const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
+      if(source){const a=document.createElement('a');a.href=source;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Bron sluitingstijden ↗';content.appendChild(a);}
+      if(!source&&p.other_sources?.length){const href=cleanLink(p.other_sources[0]);if(href){const a=document.createElement('a');a.href=href;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Overige bron ↗';content.appendChild(a);}}
+      info.appendChild(content);card.appendChild(info);cardsById.set(p.id,card);
+      if(selectedId===p.id){card.classList.add('selected');info.open=true;}
+      frag.appendChild(card);
+    }
+    out.appendChild(frag);
+    if(layer){layer.clearLayers();pins.clear();for(const p of geocoded){
+      const color=colorFor(closing(p)),active=p.id===selectedId;
+      const marker=L.circleMarker([p.geo.lat,p.geo.lon],{radius:active?11:7,color:active?'#1c384c':'#122033',weight:active?3:1.5,fillColor:color,fillOpacity:.95});
+      const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+closingLabel(closing(p));
+      marker.bindTooltip(tooltip,{direction:'top',offset:[0,-5],opacity:.95});
+      marker.on('click',()=>choosePlace(p.id,true));marker.addTo(layer);pins.set(p.id,marker);
+      if(active)marker.bringToFront();
+    }}
   }
   function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();}
   function fillHalfHourOptions(){
