@@ -170,6 +170,14 @@
       .results .card{height:100%;max-height:100%;overflow-y:auto;overscroll-behavior:contain;overflow-anchor:none}
       #map{overflow-anchor:none}
     }
+
+    .report-button{font:inherit;background:#fff;border:1px solid #c7d2dd;border-radius:7px;padding:5px 8px;color:#855225;font-size:12px;font-weight:700}
+    .report-button:hover{background:#fff1e5;border-color:#a66d43}
+    .report-button:focus-visible{outline:2px solid #2674b4;outline-offset:2px}
+    .report-button:disabled{background:#eff5ed;border-color:#b3c8b2;color:#477245;cursor:default}
+    .report-status{font-size:11px;line-height:1.45;color:#566978;margin-top:5px}
+    .report-status:empty{display:none}
+    .report-status a{color:#07578f;text-decoration:underline}
   </style>
 </head>
 <body>
@@ -211,6 +219,8 @@
   'use strict';
   const days=['ma','di','wo','do','vr','za','zo'];
   const el=id=>document.getElementById(id);
+  // Paste the Google Apps Script /exec URL here after publishing feedback/Code.gs.
+  const FEEDBACK_ENDPOINT='';
   let db={regions:[],places:[]}, map=null, layer=null, pins=new Map(), cardsById=new Map(), selectedId=null;
   const urlp=new URLSearchParams(location.search);
   const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1'};
@@ -230,6 +240,57 @@
   }
   function mapDirections(p){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([p.name,p.address,p.city,p.country].filter(Boolean).join(', '));}
   function websiteSearch(p){return 'https://www.google.com/search?q='+encodeURIComponent([p.name,p.address,p.city,'officiële website'].filter(Boolean).join(' '));}
+
+  function githubFeedbackLink(p){
+    const url=new URL('https://github.com/paltenburg/nogergensnaarbinnen/issues/new');
+    url.searchParams.set('title','Klopt niet: '+p.name);
+    url.searchParams.set('body','Locatie: '+p.name+'\nID: '+p.id+'\nAdres: '+[p.address,p.city].filter(Boolean).join(', ')+'\n\nWat klopt er niet? (vul eventueel aan)');
+    return url.href;
+  }
+  function reportVenue(p,button,status){
+    const endpoint=FEEDBACK_ENDPOINT.trim();
+    if(!endpoint){
+      // GitHub Issues is the honest interim log: only submission creates a record.
+      const url=githubFeedbackLink(p);
+      const link=document.createElement('a');
+      link.href=url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Meld via GitHub ↗';
+      status.replaceChildren(document.createTextNode('Registratie via GitHub: verstuur de melding daar om deze vast te leggen. '),link);
+      window.open(url,'_blank','noopener,noreferrer');
+      return;
+    }
+    let request;
+    try{request=crypto.randomUUID().replace(/-/g,'');}catch(_){request=String(Date.now())+Math.random().toString(16).slice(2).padEnd(19,'0').slice(0,19);}
+    if(!/^[a-f0-9]{32}$/i.test(request)){status.textContent='Melding niet verstuurd. Probeer opnieuw.';return;}
+    const callback='feedbackAck_'+request;
+    button.disabled=true;status.textContent='Melding opslaan…';
+    const script=document.createElement('script');
+    let finished=false;
+    let timeout=null;
+    const cleanup=()=>{if(timeout)clearTimeout(timeout);delete window[callback];script.remove();};
+    const fail=()=>{if(finished)return;finished=true;cleanup();button.disabled=false;status.textContent='Opslaan mislukt. Probeer opnieuw.';};
+    window[callback]=(result)=>{
+      if(finished)return;
+      if(!result||result.ok!==true||result.request!==request){fail();return;}
+      finished=true;cleanup();
+      status.textContent='Oke, we gaan er naar kijken!';
+      button.textContent='Gemeld';button.disabled=true;
+    };
+    try{
+      const url=new URL(endpoint);
+      if(url.protocol!=='https:')throw Error('Endpoint must use HTTPS');
+      url.searchParams.set('callback',callback);
+      url.searchParams.set('request',request);
+      url.searchParams.set('id',p.id);
+      url.searchParams.set('name',p.name);
+      url.searchParams.set('region',p.region||'');
+      url.searchParams.set('_',String(Date.now()));
+      script.src=url.href;
+      script.onerror=fail;
+      timeout=setTimeout(fail,15000);
+      document.head.appendChild(script);
+    }catch(_){fail();}
+  }
+
 
   function choosePlace(id,fromMap=false){
     const card=cardsById.get(id);
@@ -283,7 +344,12 @@
       const actions=document.createElement('div');actions.className='card-actions';const site=officialWebsite(p);
       const links=[{label:site?'Website':'Website zoeken',url:site?site.url:websiteSearch(p)},{label:'Route',url:mapDirections(p)}];
       for(const link of links){const a=document.createElement('a');a.href=link.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=link.label+' ↗';actions.appendChild(a);}
-      card.appendChild(actions);
+      const report=document.createElement('button');
+      report.type='button';report.className='report-button';report.textContent='Klopt niet';
+      const reportStatus=document.createElement('div');reportStatus.className='report-status';reportStatus.setAttribute('role','status');
+      report.addEventListener('click',()=>reportVenue(p,report,reportStatus));
+      actions.appendChild(report);
+      card.appendChild(actions);card.appendChild(reportStatus);
       const info=document.createElement('details');info.className='card-more';
       const summary=document.createElement('summary');summary.textContent='Meer details en bronnen';info.appendChild(summary);
       const content=document.createElement('div');content.className='card-more-content';
