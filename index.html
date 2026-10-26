@@ -355,6 +355,8 @@
       const content=document.createElement('div');content.className='card-more-content';
       const line=(title,value)=>{if(!value)return;const row=document.createElement('p');const strong=document.createElement('strong');strong.textContent=title+': ';row.appendChild(strong);row.appendChild(document.createTextNode(value));content.appendChild(row);};
       line('Toegang',p.access);line('Opmerking',p.closing_notes);line('Tijdbron',p.closing_quality);line('Nagekeken',p.checked_on);
+      if(p.opening)line('Opening per dag',days.map(d=>d.toUpperCase()+' '+closingLabel(p.opening[d])).join(' · '));
+      if(p.last_entry)line('Laatste toegang per dag',days.map(d=>d.toUpperCase()+' '+closingLabel(p.last_entry[d])).join(' · '));
       const weekly=document.createElement('p');const label=document.createElement('strong');label.textContent='Sluiting per uitgaansavond: ';weekly.appendChild(label);
       weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+closingLabel(p.closing?.[d])).join(' · ')));content.appendChild(weekly);
       const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
