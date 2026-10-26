@@ -12,6 +12,14 @@ De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvan
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
+## Filter op aankomsttijd
+
+De hoofdvraag is: **waar kunnen we nog naar binnen?** Kies de uitgaansavond en het tijdstip waarop je wilt aankomen, of klik **Nu** om de actuele Nederlandse tijd te gebruiken. De filtering is **strikt later dan** de gekozen tijd: bij 04:00 valt een locatie met sluitingstijd 04:00 af; 05:00 blijft staan.
+
+Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vrijdagavond, 04:00* betekent zaterdagochtend 04:00. De Nu-knop kiest voor tijdstippen vóór 12:00 de voorgaande uitgaansavond.
+
+**Belangrijke beperking:** met alleen sluitingstijden kunnen we niet garanderen dat een zaak op dat moment daadwerkelijk open is of dat bezoekers dan nog worden toegelaten. Daarvoor zijn ook openingsuren en laatste-toegangstijden nodig. Onbekende sluitingstijden worden bij een actief tijdsfilter niet als open weergegeven.
+
 ## Publiceren via GitHub Pages (gratis)
 
 1. Maak een **openbare** repository `nogergensnaarbinnen` op https://github.com/new (zonder eigen domein nodig).
