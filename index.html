@@ -184,6 +184,7 @@
     .report-status{font-size:11px;line-height:1.45;color:#566978;margin-top:5px}
     .report-status:empty{display:none}
     .report-status a{color:#07578f;text-decoration:underline}
+    .card-event-warning{font-size:11px;font-weight:750;color:#704918;background:#fff4dc;border-radius:6px;margin-top:7px;padding:5px 7px;line-height:1.35}
   </style>
 </head>
 <body>
@@ -270,6 +271,7 @@
     return '#5fc9d7';
   }
   function closingLabel(s){if(!s||s==='?')return 'Onbekend';if(s==='—')return 'Gesloten*';if(s==='Event')return 'Per event';if(s==='Varieert')return 'Wisselend';return s;}
+  function displayClosing(p,s,day=state.day){return p.typical_closing_days?.includes(day)?'≈ '+closingLabel(s):closingLabel(s);}
   function eligible(p){if(p.selection==='Nee')return false;if(!state.uncertain&&p.selection==='Nog te controleren')return false;if(state.region&&p.region!==state.region)return false;if(state.category&&category(p.type)!==state.category)return false;if(state.q){const q=state.q.toLocaleLowerCase('nl');if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;}if(state.after){const closingAt=timeVal(closing(p));const arrivalAt=timeVal(state.after);if(arrivalAt===null||closingAt===null||closingAt<=arrivalAt)return false;const lastAdmission=timeVal(p.last_entry?.[state.day]);if(lastAdmission!==null&&arrivalAt>=lastAdmission)return false;}return true;}
   function sortPlaces(a,b){const va=timeVal(closing(a))??-1,vb=timeVal(closing(b))??-1;return (vb-va)||a.name.localeCompare(b.name,'nl');}
   function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
@@ -378,9 +380,10 @@
       const card=document.createElement('article');card.className='card';card.dataset.venueId=p.id;
       const s=closing(p),color=colorFor(s);
       const main=document.createElement('button');main.type='button';main.className='card-main';
-      main.innerHTML='<div class="card-head"><span class="card-title">'+esc(p.name)+'</span><span class="time" style="background:'+color+'">'+esc(closingLabel(s))+'</span></div>'
+      main.innerHTML='<div class="card-head"><span class="card-title">'+esc(p.name)+'</span><span class="time" style="background:'+color+'">'+esc(displayClosing(p,s))+'</span></div>'
         +'<div class="card-desc">'+esc(p.type)+'<br><em>'+esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')+'</em></div>'
         +(p.features?'<div class="card-features">'+esc(p.features)+'</div>':'')
+        +(p.event_dependent?'<div class="card-event-warning">Alleen bij een evenement'+(p.last_entry_typical_days?.includes(state.day)?' · meestal toegang tot '+esc(p.last_entry?.[state.day]):'')+'</div>':'')
         +'<div class="card-tags">'+(p.geo?.lat?'':'<span class="pill">Geen kaartpositie</span>')+(p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':'')+(s==='?'?'<span class="pill">Sluiting onbekend</span>':'')+'</div>';
       main.addEventListener('click',()=>openPlace(p.id));card.appendChild(main);
       const actions=document.createElement('div');actions.className='card-actions';const site=officialWebsite(p);
@@ -400,7 +403,7 @@
       if(p.opening)line('Opening per dag',days.map(d=>d.toUpperCase()+' '+closingLabel(p.opening[d])).join(' · '));
       if(p.last_entry)line('Laatste toegang per dag',days.map(d=>d.toUpperCase()+' '+closingLabel(p.last_entry[d])).join(' · '));
       const weekly=document.createElement('p');const label=document.createElement('strong');label.textContent='Sluiting per uitgaansavond: ';weekly.appendChild(label);
-      weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+closingLabel(p.closing?.[d])).join(' · ')));content.appendChild(weekly);
+      weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+displayClosing(p,p.closing?.[d],d)).join(' · ')));content.appendChild(weekly);
       const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
       if(source){const a=document.createElement('a');a.href=source;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Bron sluitingstijden ↗';content.appendChild(a);}
       if(!source&&p.other_sources?.length){const href=cleanLink(p.other_sources[0]);if(href){const a=document.createElement('a');a.href=href;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Overige bron ↗';content.appendChild(a);}}
@@ -421,7 +424,7 @@
       for(const p of paintOrder){
       const color=colorFor(closing(p)),active=p.id===selectedId;
       const marker=L.circleMarker([p.geo.lat,p.geo.lon],{radius:active?11:7,color:active?'#1c384c':'#122033',weight:active?3:1.5,fillColor:color,fillOpacity:.95});
-      const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+closingLabel(closing(p));
+      const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+displayClosing(p,closing(p));
       marker.bindTooltip(tooltip,{permanent:active,direction:active?'right':'top',offset:active?[14,-27]:[0,-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
       marker.on('click',()=>choosePlace(p.id,true));marker.addTo(layer);pins.set(p.id,marker);
       if(active)marker.bringToFront();
