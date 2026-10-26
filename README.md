@@ -51,7 +51,7 @@ Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vr
 
 ## Fouten melden (‘Klopt niet’)
 
-Iedere locatie heeft een knop **Klopt niet**. Een gratis Google Apps Script-logger is voorbereid in [`feedback/`](feedback/README.md). Na de eenmalige deployment schrijft elke klik een regel in een privé Google Sheet en verschijnt pas na serverbevestiging **“Oke, we gaan er naar kijken!”**. Tot de logger is geactiveerd opent de knop een vooraf ingevulde GitHub Issue; er wordt dan pas iets gelogd wanneer de bezoeker deze zelf indient. GitHub vereist daarvoor een account. Het echte éénklik-loggen is dus **nog niet live**.
+De knop **Klopt niet** is voorlopig **uit de website verwijderd**, omdat de registratie nog niet is geactiveerd en de alternatieve GitHub-melding verwarrend werkte. De voorbereide Google Apps Script-logger en instructies blijven beschikbaar in [`feedback/`](feedback/README.md), zodat de functie later kan worden teruggezet zodra echte éénklik-registratie is aangesloten.
 
 De markerselectie scrolt op mobiel **alleen horizontaal door de locatiekaartjes**. De pagina en kaart scrollen niet weg. De geselecteerde marker toont een **blijvend naamlabel**.
 
