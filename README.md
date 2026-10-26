@@ -26,6 +26,14 @@ De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvan
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
+## Uiterste toegang en sluitingstijd
+
+De database onderscheidt nu expliciet **uiterste toegang** (`last_entry`) van **sluiting** (`closing`). Beide zijn weekroosters. De applicatie toont **Binnen tot 22:00 · sluit 00:00** alleen als beide tijden bekend zijn én de uiterste toegang eerder valt. Wanneer een eindtijd of toegangstijd gebruikelijk is in plaats van gegarandeerd, verschijnt **≈**.
+
+Het tijdsfilter gebruikt de vroegste grens: na de laatste toegang verdwijnt een zaak uit de resultaten, ook wanneer die nog niet gesloten is. Onbekende toegangstijden worden niet gegokt.
+
+Voor toekomstige regio's kunnen expliciet gekoppelde, gecontroleerde gemeentelijke toelatingsregels gebruikt worden. Voor **Sneek** is de 02:00-uiterste toegang / 04:00-maximale sluiting voor *natte nachthoreca* volgens APV Súdwest-Fryslân vastgelegd, maar deze regel wordt niet automatisch op alle cafés toegepast. Zie [datadefinitie, voorbeeldzaken en officiële bronnen](data/admission-rules.md). De bestaande locatiedatabase bevat momenteel nog geen Sneekse cafés.
+
 ## Filter op aankomsttijd
 
 De hoofdvraag is: **waar kunnen we nog naar binnen?** Kies de uitgaansavond en het tijdstip waarop je wilt aankomen, of klik **Nu** om de actuele Nederlandse tijd te gebruiken. De filtering is **strikt later dan** de gekozen tijd: bij 04:00 valt een locatie met sluitingstijd 04:00 af; 05:00 blijft staan.
