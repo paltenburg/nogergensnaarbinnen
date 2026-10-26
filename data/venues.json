@@ -7065,7 +7065,7 @@
       "id": "sportcafe-olympos-d566186",
       "name": "Sportcafé Olympos",
       "type": "Sportcafé",
-      "address": "",
+      "address": "Uppsalalaan 3",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -7073,25 +7073,36 @@
       "alcohol": "Niet afzonderlijk bevestigd",
       "selection": "Nog te controleren",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "20:00",
+        "zo": "20:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Universiteit Utrecht",
+      "closing_source": "https://www.uu.nl/organisatie/praktische-zaken/facilitair/catering",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Toegankelijkheid voor niet-sporters nog niet geverifieerd.",
       "features": "Sportpark",
       "website": "",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "opening_source": "https://www.uu.nl/organisatie/praktische-zaken/facilitair/catering",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "sportcafe-tropical-feaa132",
