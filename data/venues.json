@@ -6153,8 +6153,8 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Officiële brouwerijwebsite gevolgd; andere gidsen geven afwijkende tijden.",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële tijden wijken af van sommige oudere horecagidsen.",
       "features": "Brouwerij / bier; Bier",
       "website": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
       "other_sources": [
@@ -6169,7 +6169,18 @@
         "matched_address": "Beyaertdreef 5, 3562LG Utrecht"
       },
       "website_provenance": "official-closing-time-source (may be subpage)",
-      "website_checked_on": "2026-10-25"
+      "website_checked_on": "2026-10-25",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "orloff-5c10a36",
