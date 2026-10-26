@@ -163,8 +163,8 @@
       .results .card{flex:0 0 min(82vw,315px);width:min(82vw,315px);align-self:stretch}
     }
     /* Mobile cards expand internally, not vertically: marker taps must keep map in view. */
-    .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:#fff;border:2px solid #dfaa4a;border-radius:8px;padding:6px 10px;box-shadow:0 3px 12px #2941533d;width:max-content;min-width:160px;max-width:min(300px,calc(100vw - 48px));white-space:normal;overflow-wrap:break-word;text-align:center;pointer-events:none}
-    .leaflet-tooltip.selected-name-tooltip.leaflet-tooltip-top:before{border-top-color:#dfaa4a}
+    .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:rgba(255,255,255,.66);border:2px solid rgba(223,170,74,.78);border-radius:8px;padding:6px 10px;box-shadow:0 3px 12px #29415325;backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px);width:max-content;min-width:160px;max-width:min(300px,calc(100vw - 48px));white-space:normal;overflow-wrap:break-word;text-align:center;pointer-events:none}
+    .leaflet-tooltip.selected-name-tooltip.leaflet-tooltip-right:before{border-right-color:rgba(223,170,74,.78)}
     @media(max-width:880px){
       .results{height:240px;max-height:240px;overflow-x:auto;overflow-y:hidden;align-items:stretch;overflow-anchor:none}
       .results .card{height:100%;max-height:100%;overflow-y:auto;overscroll-behavior:contain;overflow-anchor:none}
@@ -308,7 +308,7 @@
       // Permanent name label for the selected location; hover label for the rest.
       const label=marker.getTooltip()?.getContent();
       marker.unbindTooltip();
-      marker.bindTooltip(label,{permanent:active,direction:'top',offset:[0,active?-10:-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
+      marker.bindTooltip(label,{permanent:active,direction:active?'right':'top',offset:active?[14,-27]:[0,-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
       if(active){marker.bringToFront();marker.openTooltip();}
     }
     const results=el('results');
@@ -369,7 +369,7 @@
       const color=colorFor(closing(p)),active=p.id===selectedId;
       const marker=L.circleMarker([p.geo.lat,p.geo.lon],{radius:active?11:7,color:active?'#1c384c':'#122033',weight:active?3:1.5,fillColor:color,fillOpacity:.95});
       const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+closingLabel(closing(p));
-      marker.bindTooltip(tooltip,{permanent:active,direction:'top',offset:[0,active?-10:-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
+      marker.bindTooltip(tooltip,{permanent:active,direction:active?'right':'top',offset:active?[14,-27]:[0,-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
       marker.on('click',()=>choosePlace(p.id,true));marker.addTo(layer);pins.set(p.id,marker);
       if(active)marker.bringToFront();
     }}
