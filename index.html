@@ -162,6 +162,14 @@
       .results{align-items:stretch;scroll-padding-inline:10px}
       .results .card{flex:0 0 min(82vw,315px);width:min(82vw,315px);align-self:stretch}
     }
+    /* Mobile cards expand internally, not vertically: marker taps must keep map in view. */
+    .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:#fff;border:2px solid #dfaa4a;border-radius:8px;padding:5px 8px;box-shadow:0 3px 12px #2941533d;max-width:225px;white-space:normal;text-align:center;pointer-events:none}
+    .leaflet-tooltip.selected-name-tooltip.leaflet-tooltip-top:before{border-top-color:#dfaa4a}
+    @media(max-width:880px){
+      .results{height:240px;max-height:240px;overflow-x:auto;overflow-y:hidden;align-items:stretch;overflow-anchor:none}
+      .results .card{height:100%;max-height:100%;overflow-y:auto;overscroll-behavior:contain;overflow-anchor:none}
+      #map{overflow-anchor:none}
+    }
   </style>
 </head>
 <body>
@@ -236,19 +244,17 @@
     for(const [otherId,marker] of pins){
       const active=otherId===id;
       marker.setStyle({radius:active?11:7,weight:active?3:1.5,color:active?'#1c384c':'#122033'});
-      if(active)marker.bringToFront();
+      // Permanent name label for the selected location; hover label for the rest.
+      const label=marker.getTooltip()?.getContent();
+      marker.unbindTooltip();
+      marker.bindTooltip(label,{permanent:active,direction:'top',offset:[0,active?-10:-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
+      if(active){marker.bringToFront();marker.openTooltip();}
     }
     const results=el('results');
     if(window.matchMedia('(max-width:880px)').matches){
       const left=card.offsetLeft-results.offsetLeft-10;
       results.scrollTo({left:Math.max(0,left),behavior:'smooth'});
-      if(fromMap){
-        const headerHeight=document.querySelector('.top')?.getBoundingClientRect().height||0;
-        const position=results.getBoundingClientRect();
-        if(position.bottom>window.innerHeight-15||position.top<headerHeight+6){
-          window.scrollBy({top:position.top-headerHeight-10,behavior:'smooth'});
-        }
-      }
+      // Marker taps must NEVER vertically scroll the document/map.
     }else{
       results.scrollTo({top:Math.max(0,card.offsetTop-results.offsetTop-12),behavior:'smooth'});
     }
@@ -297,7 +303,7 @@
       const color=colorFor(closing(p)),active=p.id===selectedId;
       const marker=L.circleMarker([p.geo.lat,p.geo.lon],{radius:active?11:7,color:active?'#1c384c':'#122033',weight:active?3:1.5,fillColor:color,fillOpacity:.95});
       const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+closingLabel(closing(p));
-      marker.bindTooltip(tooltip,{direction:'top',offset:[0,-5],opacity:.95});
+      marker.bindTooltip(tooltip,{permanent:active,direction:'top',offset:[0,active?-10:-5],opacity:1,className:active?'selected-name-tooltip':'other-name-tooltip'});
       marker.on('click',()=>choosePlace(p.id,true));marker.addTo(layer);pins.set(p.id,marker);
       if(active)marker.bringToFront();
     }}
