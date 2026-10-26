@@ -1318,7 +1318,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.1002706,
+        "lon": 5.0827875,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nijverheidskade 12, 3534AZ Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page"
     },
@@ -1352,7 +1357,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0931407,
+        "lon": 5.1166496,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 83, 3511AL Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -1447,7 +1457,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0810443,
+        "lon": 5.1245899,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ledig Erf 36, 3582EA Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -3766,7 +3781,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0944882,
+        "lon": 5.1258037,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lucasbolwerk 23, 3512EJ Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -4440,7 +4460,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Toegevoegd met eigen website oktober 2026; niet ter plaatse gecontroleerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0952087,
+        "lon": 5.1268874,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Biltstraat 6, 3572BA Utrecht"
+      }
     },
     {
       "id": "grand-cafe-de-vrienden-45afa11",
@@ -4863,7 +4888,12 @@
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.090081,
+        "lon": 5.1202883,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lijnmarkt 12, 3511KH Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -6390,7 +6420,12 @@
         "https://www.uitutrecht.com/uitgaan/page/6/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0923303,
+        "lon": 5.119405,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ganzenmarkt 16B, 3512GD Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -8285,7 +8320,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0935448,
+        "lon": 5.1202697,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Jansstraat 28, 3512BB Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "Verified official venue page",
       "opening": {
