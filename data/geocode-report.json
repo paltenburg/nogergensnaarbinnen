@@ -51,8 +51,8 @@
     },
     {
       "name": "Café Heen en Weer",
-      "address": "",
-      "reason": "missing-address"
+      "address": "Donkere Gaard 13",
+      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Café Stockholm",
