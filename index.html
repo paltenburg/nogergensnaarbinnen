@@ -177,13 +177,6 @@
       #map{overflow-anchor:none}
     }
 
-    .report-button{font:inherit;background:#fff;border:1px solid #c7d2dd;border-radius:7px;padding:5px 8px;color:#855225;font-size:12px;font-weight:700}
-    .report-button:hover{background:#fff1e5;border-color:#a66d43}
-    .report-button:focus-visible{outline:2px solid #2674b4;outline-offset:2px}
-    .report-button:disabled{background:#eff5ed;border-color:#b3c8b2;color:#477245;cursor:default}
-    .report-status{font-size:11px;line-height:1.45;color:#566978;margin-top:5px}
-    .report-status:empty{display:none}
-    .report-status a{color:#07578f;text-decoration:underline}
     .card-event-warning{font-size:11px;font-weight:750;color:#704918;background:#fff4dc;border-radius:6px;margin-top:7px;padding:5px 7px;line-height:1.35}
     .card-entry-limit{display:flex;gap:4px;flex-wrap:wrap;align-items:baseline;padding:7px 9px;margin-top:8px;background:#fff0dc;border-left:3px solid #bc7419;border-radius:5px;color:#71430c;font-size:12px;line-height:1.35}
     .card-entry-limit strong{font-weight:800}
@@ -411,12 +404,7 @@
       const actions=document.createElement('div');actions.className='card-actions';const site=officialWebsite(p);
       const links=[{label:site?'Website':'Website zoeken',url:site?site.url:websiteSearch(p)},{label:'Route',url:mapDirections(p)}];
       for(const link of links){const a=document.createElement('a');a.href=link.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=link.label+' ↗';actions.appendChild(a);}
-      const report=document.createElement('button');
-      report.type='button';report.className='report-button';report.textContent='Klopt niet';
-      const reportStatus=document.createElement('div');reportStatus.className='report-status';reportStatus.setAttribute('role','status');
-      report.addEventListener('click',()=>reportVenue(p,report,reportStatus));
-      actions.appendChild(report);
-      card.appendChild(actions);card.appendChild(reportStatus);
+      card.appendChild(actions);
       const info=document.createElement('details');info.className='card-more';
       const summary=document.createElement('summary');summary.textContent='Meer details en bronnen';info.appendChild(summary);
       const content=document.createElement('div');content.className='card-more-content';
