@@ -72,7 +72,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Concerten / alternatieve cultuur",
-      "website": "",
+      "website": "https://acu.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/"
@@ -83,7 +83,9 @@
         "lon": 5.1219678,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 71, 3512AK Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "averechts-6ca6b30",
@@ -110,7 +112,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Open podium",
-      "website": "",
+      "website": "https://www.averechts.nl/about",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/"
@@ -121,7 +123,9 @@
         "lon": 5.1179024,
         "method": "PDOK BAG-adres",
         "matched_address": "Lijsterstraat 49, 3514TB Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "b-i-t-o-n-e63cfb6",
@@ -218,7 +222,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Borrel / diner",
-      "website": "",
+      "website": "https://www.opzuidutrecht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
@@ -228,7 +232,9 @@
         "lon": 5.1136142,
         "method": "PDOK BAG-adres",
         "matched_address": "Neerlandiakade 2B, 3525BT Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "bar-basta-5726ebe",
@@ -255,7 +261,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Klein restaurant / borrel",
-      "website": "",
+      "website": "https://barbasta.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
@@ -266,7 +272,9 @@
         "lon": 5.1158059,
         "method": "PDOK BAG-adres",
         "matched_address": "Drieharingstraat 10, 3511BJ Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "bar-bet-039c462",
@@ -293,7 +301,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Borrel / diner",
-      "website": "",
+      "website": "https://bar-bet.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/"
       ],
@@ -303,7 +311,9 @@
         "lon": 5.1214373,
         "method": "PDOK BAG-adres",
         "matched_address": "Wed 1-1, 3512JH Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "bar-beton-76def5a",
@@ -368,7 +378,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Cava / borrel",
-      "website": "",
+      "website": "https://www.barcava.nl/nl",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
@@ -379,7 +389,9 @@
         "lon": 5.1191026,
         "method": "PDOK BAG-adres",
         "matched_address": "Ganzenmarkt 12, 3512GD Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "bar-josefien-a5ca3eb",
@@ -406,7 +418,7 @@
       "checked_on": "",
       "closing_notes": "Alleen verhuur voor privéfeesten op reservering; valt buiten openbare horeca.",
       "features": "Besloten feesten / evenementen",
-      "website": "",
+      "website": "https://barjosefien.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/"
       ],
@@ -416,7 +428,9 @@
         "lon": 5.1227373,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 96, 3512AV Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "bar-kaap-0af2c4b",
@@ -478,7 +492,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officieel: geen vaste sluitingstijd.",
       "features": "Vlaams-Franse apérobar; geopend oktober 2026",
-      "website": "",
+      "website": "https://barpatine.nl/contact/",
       "other_sources": [
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
         "https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht"
@@ -489,7 +503,9 @@
         "lon": 5.1166522,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 101, 3511AE Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "bar-pleur-4b33634",
@@ -663,7 +679,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Taps / kade",
-      "website": "",
+      "website": "https://www.beersbarrels.nl/nl/contactpagina/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -674,7 +690,9 @@
         "lon": 5.1166592,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht aan de Werf 125, 3511AL Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "beers-barrels-veilinghaven-ed5a9be",
@@ -701,7 +719,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Bier / borrel",
-      "website": "",
+      "website": "https://www.beersbarrels.nl/nl/contactpagina/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/"
       ],
@@ -711,7 +729,9 @@
         "lon": 5.1087395,
         "method": "PDOK BAG-adres",
         "matched_address": "Veilinghavenkade 177, 3521AT Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "bierlokaal-de-luifel-5c5dab3",
@@ -738,13 +758,15 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Bier / terras",
-      "website": "",
+      "website": "https://www.luifelutrecht.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "bij-guusjes-fd4468d",
@@ -771,10 +793,12 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Eten en borrelen",
-      "website": "",
+      "website": "https://www.etenbijguusjes.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "binnen-best-b02c865",
@@ -801,7 +825,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Bruin café",
-      "website": "",
+      "website": "https://cafebinnenbest.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/"
@@ -812,7 +836,9 @@
         "lon": 5.1293523,
         "method": "PDOK BAG-adres",
         "matched_address": "Biltstraat 63, 3572AH Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "bodytalk-03fa9ca",
@@ -839,7 +865,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "LHBTIQ+ uitgaanscafé",
-      "website": "",
+      "website": "https://bodytalk-utrecht.metro.bar/?lang=nl",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/",
@@ -851,7 +877,9 @@
         "lon": 5.1169088,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 64, 3511AS Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "boot-122-45b992e",
@@ -1011,13 +1039,15 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Van november tot begin april ook dinsdag gesloten.",
       "features": "Bierproeven; Leidsche Rijn; Brouwerij",
-      "website": "",
+      "website": "https://maximusbrouwerij.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "brouwerij-oudaen-5f28ecd",
@@ -1300,7 +1330,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Centrum",
-      "website": "",
+      "website": "https://www.cafedestad.nl/contact/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -1311,7 +1341,9 @@
         "lon": 5.1256527,
         "method": "PDOK BAG-adres",
         "matched_address": "Lange Jufferstraat 58, 3512EE Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "cafe-de-windhoek-f51951b",
@@ -1375,7 +1407,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële site wijkt af van CentrUtrecht; officiële tijden gebruikt.",
       "features": "Borrel / terras",
-      "website": "",
+      "website": "https://www.dezaak-utrecht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/",
@@ -1387,7 +1419,9 @@
         "lon": 5.1202787,
         "method": "PDOK BAG-adres",
         "matched_address": "Korte Minrebroederstraat 9, 3512GG Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "cafe-derat-7d4767c",
@@ -1414,7 +1448,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële tijden gebruikt; lokale gids wijkt af.",
       "features": "Speciaalbier / whisky",
-      "website": "",
+      "website": "https://www.cafederat.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -1425,7 +1459,9 @@
         "lon": 5.1205798,
         "method": "PDOK BAG-adres",
         "matched_address": "Lange Smeestraat 37, 3511PT Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "cafe-domkop-c1aa362",
@@ -1452,7 +1488,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Sportwedstrijden",
-      "website": "",
+      "website": "https://cafedomkop.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
@@ -1462,7 +1498,9 @@
         "lon": 5.1181327,
         "method": "PDOK BAG-adres",
         "matched_address": "Loeff Berchmakerstraat 34, 3512TD Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-flater-334faf2",
@@ -1489,7 +1527,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Oudegracht",
-      "website": "",
+      "website": "https://www.cafeflater.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -1500,7 +1538,9 @@
         "lon": 5.1175676,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 140, 3511AZ Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-fokus-25837ee",
@@ -1634,7 +1674,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Borrel / terras",
-      "website": "",
+      "website": "https://www.cafekanaalzicht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -1645,7 +1685,9 @@
         "lon": 5.0906157,
         "method": "PDOK BAG-adres",
         "matched_address": "Keulsekade 23, 3531JX Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-keet-b7e333b",
@@ -1709,7 +1751,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Museumkwartier",
-      "website": "",
+      "website": "https://cafelijn4.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -1720,7 +1762,9 @@
         "lon": 5.1232427,
         "method": "PDOK BAG-adres",
         "matched_address": "Twijnstraat 3, 3511ZG Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-lombok-ed33122",
@@ -1747,7 +1791,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Bijgewerkt op 23-10-2026; andere bedrijvengids toont 23:59 voor donderdag/vrijdag.",
       "features": "Bier en buurtcafé",
-      "website": "",
+      "website": "https://cafelombok.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -1755,7 +1799,9 @@
         "lon": 5.0968214,
         "method": "PDOK BAG-adres",
         "matched_address": "Vleutenseweg 228, 3532HP Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-marktzicht-b5942d0",
@@ -1782,7 +1828,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Terras",
-      "website": "",
+      "website": "https://marktzicht030.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/",
@@ -1794,7 +1840,9 @@
         "lon": 5.1183907,
         "method": "PDOK BAG-adres",
         "matched_address": "Breedstraat 4, 3512TW Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-ome-willem-fd1198a",
@@ -1931,7 +1979,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Biltstraat",
-      "website": "",
+      "website": "https://cafetantedoor.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
@@ -1941,7 +1989,9 @@
         "lon": 5.129602,
         "method": "PDOK BAG-adres",
         "matched_address": "Biltstraat 69, 3572AH Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-van-wegen-bef6c2e",
@@ -1968,7 +2018,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Adressen verschillen: oude lijst Lange Koestraat 19; gids noemt 15. Adres kan afwijken tussen gidsen; controle nodig.",
       "features": "Biljart / speciaalbier",
-      "website": "",
+      "website": "https://www.cafevanwegen.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://uitgaanskaart.nl/cafe/utrecht"
@@ -1979,7 +2029,9 @@
         "lon": 5.114193,
         "method": "PDOK BAG-adres",
         "matched_address": "Lange Koestraat 19, 3511RL Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-voortuin-6ee1714",
@@ -2045,7 +2097,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Centrum",
-      "website": "",
+      "website": "https://cafevredenburg.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://uitgaanskaart.nl/cafe/utrecht"
@@ -2056,7 +2108,9 @@
         "lon": 5.1124259,
         "method": "PDOK BAG-adres",
         "matched_address": "Vredenburg 39, 3511BD Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-weerdzicht-d278153",
@@ -2083,7 +2137,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Oudegracht",
-      "website": "",
+      "website": "https://www.cafe-weerdzicht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/",
@@ -2095,7 +2149,9 @@
         "lon": 5.1159258,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 1, 3511AB Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-willem-slok-7402de0",
@@ -2122,7 +2178,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Wijk C",
-      "website": "",
+      "website": "https://willemslok.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/",
@@ -2134,7 +2190,9 @@
         "lon": 5.11229,
         "method": "PDOK BAG-adres",
         "matched_address": "Korte Koestraat 2, 3511RP Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-t-oude-pierement-254647b",
@@ -2161,7 +2219,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Dansen in weekend",
-      "website": "",
+      "website": "https://www.oudepierement.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -2172,7 +2230,9 @@
         "lon": 5.1132871,
         "method": "PDOK BAG-adres",
         "matched_address": "Willemstraat 10, 3511RK Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "cambridgebar-c5c7346",
@@ -2341,7 +2401,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Borrel",
-      "website": "",
+      "website": "https://clubclaar.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
@@ -2352,7 +2412,9 @@
         "lon": 5.1159262,
         "method": "PDOK BAG-adres",
         "matched_address": "Voor Clarenburg 7, 3511JE Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "club-maggy-c0cbd28",
@@ -2379,7 +2441,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Controleer programma: gids kan verouderd zijn.",
       "features": "Clubavonden",
-      "website": "",
+      "website": "https://www.maggy.club/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -2390,7 +2452,9 @@
         "lon": 5.1183468,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht aan de Werf 154, 3511AL Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "club-poema-445cf69",
@@ -2417,7 +2481,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Vaste reguliere clubavonden ma, di, za; extra evenementen mogelijk.",
       "features": "Dance / club",
-      "website": "",
+      "website": "https://clubpoema.nl/faq",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -2428,7 +2492,9 @@
         "lon": 5.1155778,
         "method": "PDOK BAG-adres",
         "matched_address": "Drieharingstraat 22, 3511BJ Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "dbs-ef68f14",
@@ -2455,7 +2521,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Live muziek; locatie verschilt in oudere gidsen",
-      "website": "",
+      "website": "https://dbstudio.nl/cafe/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -2466,7 +2532,9 @@
         "lon": 5.0833383,
         "method": "PDOK BAG-adres",
         "matched_address": "Vlampijpstraat 63, 3534AR Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "de-apotheek-4ced9d6",
@@ -2530,12 +2598,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Bier; Speciaalbier",
-      "website": "",
+      "website": "https://debierkantine.com/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "de-drie-dorstige-herten-d5c9f1a",
@@ -2669,7 +2739,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Culturele evenementen",
-      "website": "",
+      "website": "https://www.kargadoor.nl/",
       "other_sources": [
         "https://www.ontdek-utrecht.nl/collectie/muziekpodia/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -2680,7 +2750,9 @@
         "lon": 5.1168292,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 36, 3511AP Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "de-kromme-haring-7b0d8eb",
@@ -2707,7 +2779,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Craftbeer / brouwerij",
-      "website": "",
+      "website": "https://www.dekrommeharing.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
@@ -2717,7 +2789,9 @@
         "lon": 5.1076387,
         "method": "PDOK BAG-adres",
         "matched_address": "Europalaan 2C, 3526KS Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "de-nijverheid-9a7ba45",
@@ -2783,7 +2857,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Tafeltennis / bar; Tafeltennis / borrel",
-      "website": "",
+      "website": "https://depingpongclub.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/",
@@ -2795,7 +2869,9 @@
         "lon": 5.0992355,
         "method": "PDOK BAG-adres",
         "matched_address": "Concordiastraat 80, 3551EM Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "de-poort-3eccded",
@@ -2822,7 +2898,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Museumkwartier",
-      "website": "",
+      "website": "https://www.eetcafedepoort.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/3/"
@@ -2833,7 +2909,9 @@
         "lon": 5.1236099,
         "method": "PDOK BAG-adres",
         "matched_address": "Tolsteegbarrière 2, 3511ZD Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "de-postillon-de08b1a",
@@ -2994,12 +3072,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Borrel / restaurant",
-      "website": "",
+      "website": "https://deutrechter.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "dito-bfdb022",
@@ -3096,7 +3176,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Leidsche Rijn; dranken aan de bar",
-      "website": "",
+      "website": "https://eetcafedebaron.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -3104,7 +3184,9 @@
         "lon": 5.0635634,
         "method": "PDOK BAG-adres",
         "matched_address": "Brusselplein 185, 3541CH Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "ekko-5a297a7",
@@ -3276,7 +3358,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Zondag tijdelijk gesloten, maandag gesloten in juni/juli/augustus volgens site.",
       "features": "Pub / pubquiz",
-      "website": "",
+      "website": "https://www.florinutrecht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/3/",
@@ -3288,7 +3370,9 @@
         "lon": 5.1239575,
         "method": "PDOK BAG-adres",
         "matched_address": "Nobelstraat 2, 3512EN Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "gastrobar-florijn-1803744",
@@ -3502,7 +3586,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Zelfde gebouw als TivoliVredenburg, afzonderlijke horecalocatie.",
       "features": "Café bij TivoliVredenburg",
-      "website": "",
+      "website": "https://www.cafehetgegevenpaard.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
@@ -3512,7 +3596,9 @@
         "lon": 5.1132241,
         "method": "PDOK BAG-adres",
         "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "hofman-utrecht-bf68a6c",
@@ -3539,7 +3625,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Live muziek / comedy",
-      "website": "",
+      "website": "https://hofman-utrecht.nl/cafe-utrecht",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/4/",
@@ -3552,7 +3638,9 @@
         "lon": 5.1211103,
         "method": "PDOK BAG-adres",
         "matched_address": "Janskerkhof 17A, 3512BM Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "jan-de-winter-720539c",
@@ -3853,7 +3941,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële site, wijkt af van lokale gids. Zelfde gebouw als TivoliVredenburg, afzonderlijke horecalocatie.",
       "features": "Bij TivoliVredenburg; vrij toegankelijk",
-      "website": "",
+      "website": "https://danel-utrecht.nl/contact/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -3861,7 +3949,9 @@
         "lon": 5.1132241,
         "method": "PDOK BAG-adres",
         "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "klein-berlijn-3f60cdd",
@@ -3926,12 +4016,14 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Kroeg",
-      "website": "",
+      "website": "https://kleinemax.nl/over-ons/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "knock-out-comedy-club-59624b0",
@@ -3958,12 +4050,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Stand-upcomedy",
-      "website": "",
+      "website": "https://www.knockoutcomedy.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "kweekvijver-utrecht-c5d2c85",
@@ -4055,7 +4149,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Borrel en cocktails; openingstijden vanaf maar geen sluitingstijden",
-      "website": "",
+      "website": "https://leen-restaurant.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -4063,7 +4157,9 @@
         "lon": 5.1214322,
         "method": "PDOK BAG-adres",
         "matched_address": "Heuveloord 140, 3523CK Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "lebowski-4b66c94",
@@ -4237,7 +4333,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële site noemt alleen openingstijd, gids noemt sluiting.",
       "features": "Bioscoop met openbaar café",
-      "website": "",
+      "website": "https://hartlooper.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -4245,7 +4341,9 @@
         "lon": 5.1241932,
         "method": "PDOK BAG-adres",
         "matched_address": "Tolsteegbrug 1, 3511ZN Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "manners-cocktail-lounge-1a48ee6",
@@ -4309,7 +4407,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Sport / pub",
-      "website": "",
+      "website": "https://www.themick.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/5/"
@@ -4320,7 +4418,9 @@
         "lon": 5.1225583,
         "method": "PDOK BAG-adres",
         "matched_address": "Jansdam 3, 3512HA Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "moira-5421586",
@@ -4456,7 +4556,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Cocktails",
-      "website": "",
+      "website": "https://mr-finch.nl/",
       "other_sources": [
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
@@ -4466,7 +4566,9 @@
         "lon": 5.1160419,
         "method": "PDOK BAG-adres",
         "matched_address": "Drieharingstraat 5, 3511BH Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "nar-6a47576",
@@ -4493,7 +4595,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Ma en di uitsluitend bij programmering; clubnachten en bijzonder programma kunnen afwijken.",
       "features": "Muziek / evenementen",
-      "website": "",
+      "website": "https://www.nar.nl/info/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
@@ -4503,7 +4605,9 @@
         "lon": 5.0840391,
         "method": "PDOK BAG-adres",
         "matched_address": "Nijverheidsweg 6, 3534AM Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "nieuwe-dikke-dries-c9188df",
@@ -4638,14 +4742,16 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Belgisch bier / kerkinterieur",
-      "website": "",
+      "website": "https://www.cafe-olivier.be/nl/locaties/utrecht/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/6/",
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "op-roose-dbd6d71",
@@ -4707,7 +4813,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële brouwerijwebsite gevolgd; andere gidsen geven afwijkende tijden.",
       "features": "Brouwerij / bier; Bier",
-      "website": "",
+      "website": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/6/"
@@ -4718,7 +4824,9 @@
         "lon": 5.1115757,
         "method": "PDOK BAG-adres",
         "matched_address": "Beyaertdreef 5, 3562LG Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "orloff-5c10a36",
@@ -4813,7 +4921,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Wijk C",
-      "website": "",
+      "website": "https://ouwedikkedries.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/6/",
@@ -4825,7 +4933,9 @@
         "lon": 5.1130375,
         "method": "PDOK BAG-adres",
         "matched_address": "Waterstraat 32, 3511BW Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "olearys-e541c8d",
@@ -5175,7 +5285,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële restauranttijden; geen theaterticket nodig. Zelfde gebouw als Beatrix Theater.",
       "features": "Ook zonder theaterticket toegankelijk",
-      "website": "",
+      "website": "https://www.stage-entertainment.nl/theaters/beatrix-theater-utrecht/restaurant-queens",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -5183,7 +5293,9 @@
         "lon": 5.1068375,
         "method": "PDOK BAG-adres",
         "matched_address": "Jaarbeursplein 6A, 3521AL Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "restaurant-west-acdbb97",
@@ -5210,7 +5322,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Borrel, cocktail, bier en wijn",
-      "website": "",
+      "website": "https://restaurantwest.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -5218,7 +5330,9 @@
         "lon": 5.0932982,
         "method": "PDOK BAG-adres",
         "matched_address": "Vleutenseweg 433, 3532HJ Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "rocking-chair-c8ed632",
@@ -5347,7 +5461,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Wijn/cocktailbar en restaurant",
-      "website": "",
+      "website": "https://rubyrose-utrecht.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -5355,7 +5469,9 @@
         "lon": 5.1220369,
         "method": "PDOK BAG-adres",
         "matched_address": "Korte Jansstraat 23, 3512GM Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "rum-club-623b9bd",
@@ -5382,13 +5498,15 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Rum / cocktails",
-      "website": "",
+      "website": "https://rum-club.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/6/",
         "https://www.debuik.nl/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "s-s-r-n-u-dbc8e93",
@@ -5595,7 +5713,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Officiële site noemt alleen openingstijd, gids noemt sluiting.",
       "features": "Bioscoop met openbaar café",
-      "website": "",
+      "website": "https://springhaver.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -5603,7 +5721,9 @@
         "lon": 5.1191633,
         "method": "PDOK BAG-adres",
         "matched_address": "Springweg 50, 3511VS Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "stadsbrouwerij-roodnoot-9455ff5",
@@ -5697,7 +5817,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Live muziek / dansen",
-      "website": "",
+      "website": "https://www.stathe.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/7/"
@@ -5708,7 +5828,9 @@
         "lon": 5.1154103,
         "method": "PDOK BAG-adres",
         "matched_address": "Rozenstraat 15, 3511BV Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "stichtse-taveerne-88f4900",
@@ -5735,12 +5857,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Bruin café",
-      "website": "",
+      "website": "https://www.stichtsetaveerne.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "sumventure-flightbar-9f750e7",
@@ -5946,7 +6070,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Whisky / cocktails",
-      "website": "",
+      "website": "https://www.themaltvault.nl/utrecht",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
@@ -5956,7 +6080,9 @@
         "lon": 5.1167853,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht aan de Werf 54, 3511AC Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "theater-kikker-a410731",
@@ -5983,7 +6109,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Bar opent 1 uur voor voorstelling; geen vaste sluiting.",
       "features": "Foyerbar rond voorstellingen",
-      "website": "",
+      "website": "https://www.theaterkikker.nl/je-bezoek/veelgestelde-vragen",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -5991,7 +6117,9 @@
         "lon": 5.1192287,
         "method": "PDOK BAG-adres",
         "matched_address": "Ganzenmarkt 14, 3512GD Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "theatercafe-de-bastaard-f94da0e",
@@ -6018,7 +6146,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Cultuur / café",
-      "website": "",
+      "website": "https://www.debastaard.nl/contact/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/7/",
@@ -6030,7 +6158,9 @@
         "lon": 5.1200572,
         "method": "PDOK BAG-adres",
         "matched_address": "Jansveld 17, 3512BD Utrecht"
-      }
+      },
+      "website_provenance": "official-site-research",
+      "website_checked_on": "2026-10-26"
     },
     {
       "id": "tijm-d1d43a8",
@@ -6239,7 +6369,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Gids vermeldt later sluitende tijden; officiële site gevolgd.",
       "features": "Dineren en borrelen",
-      "website": "",
+      "website": "https://ubicautrecht.nl/reserveren",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -6247,7 +6377,9 @@
         "lon": 5.1197177,
         "method": "PDOK BAG-adres",
         "matched_address": "Ganzenmarkt 24, 3512GE Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "union-house-35b4945",
@@ -6801,7 +6933,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "Op voorstellingsdagen vanaf 17:00, geen vaste sluiting gepubliceerd. In hetzelfde gebouw als Stadsschouwburg Utrecht.",
       "features": "Restaurant ook toegankelijk zonder theaterkaartje",
-      "website": "",
+      "website": "https://stadsschouwburg-utrecht.nl/eten-drinken/zindering",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -6809,7 +6941,9 @@
         "lon": 5.1273786,
         "method": "PDOK BAG-adres",
         "matched_address": "Lucasbolwerk 24, 3512EJ Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "t-gras-van-de-buren-29923a1",
@@ -6950,7 +7084,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Uitgaan / dansen",
-      "website": "",
+      "website": "https://www.hetpakhuis.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -6961,7 +7095,9 @@
         "lon": 5.1205985,
         "method": "PDOK BAG-adres",
         "matched_address": "Janskerkhof 21, 3512BM Utrecht"
-      }
+      },
+      "website_provenance": "official-closing-time-source (may be subpage)",
+      "website_checked_on": "2026-10-25"
     },
     {
       "id": "t-pandje-323e93f",
