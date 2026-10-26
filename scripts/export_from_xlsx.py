@@ -1,4 +1,4 @@
-"""One-time import of the 2026-10-25 Utrecht spreadsheet into venue JSON.
+"""Legacy one-time bootstrap import of 2026-10-25 spreadsheet (only when JSON absent).
 Usage: python scripts/export_from_xlsx.py /path/to/file.xlsx
 Requires artifact_tool. Existing geocodes are preserved by stable place IDs.
 """
@@ -27,6 +27,11 @@ def closing(v):
 
 def run(infile):
     out=ROOT/'data/venues.json'
+    if out.exists():
+        raise SystemExit(
+            "Refusing to overwrite data/venues.json: this JSON is the canonical venue database. "
+            "Edit it directly; XLSX is only a historical import source or export."
+        )
     cache={}
     if out.exists():
         try:cache={x['id']: x.get('geo') for x in json.loads(out.read_text(encoding='utf-8'))['places']}
