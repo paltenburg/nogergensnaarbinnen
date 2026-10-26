@@ -166,8 +166,14 @@
     .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:rgba(255,255,255,.66);border:2px solid rgba(223,170,74,.78);border-radius:8px;padding:6px 10px;box-shadow:0 3px 12px #29415325;backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px);width:max-content;min-width:160px;max-width:min(300px,calc(100vw - 48px));white-space:normal;overflow-wrap:break-word;text-align:center;pointer-events:none}
     .leaflet-tooltip.selected-name-tooltip.leaflet-tooltip-right:before{border-right-color:rgba(223,170,74,.78)}
     @media(max-width:880px){
-      .results{height:240px;max-height:240px;overflow-x:auto;overflow-y:hidden;align-items:stretch;overflow-anchor:none}
-      .results .card{height:100%;max-height:100%;overflow-y:auto;overscroll-behavior:contain;overflow-anchor:none}
+      /* Horizontal swipes always belong to the card carousel, not individual cards. */
+      .results{height:280px;max-height:280px;min-height:280px;overflow-x:auto;overflow-y:hidden;display:flex;align-items:stretch;scroll-snap-type:x proximity;scroll-padding-inline:10px;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;overflow-anchor:none;touch-action:auto}
+      .results .card{height:100%;max-height:100%;min-height:0;min-width:0;overflow:hidden;display:flex;flex-direction:column;scroll-snap-align:start;overflow-anchor:none;touch-action:auto}
+      .results .card-main,.results .card-actions{flex:0 0 auto}
+      .results .card-more{flex:1 1 auto;min-height:0;overflow:hidden}
+      /* Only the expanded details scroll vertically; the rest of the card
+         leaves sideways swipes to the carousel. */
+      .results .card-more-content{max-height:128px;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:auto;padding-bottom:8px}
       #map{overflow-anchor:none}
     }
 
@@ -313,7 +319,10 @@
     }
     const results=el('results');
     if(window.matchMedia('(max-width:880px)').matches){
-      const left=card.offsetLeft-results.offsetLeft-10;
+      // Rectangles account for display:contents wrappers and current scroll position.
+      const viewport=results.getBoundingClientRect();
+      const target=card.getBoundingClientRect();
+      const left=results.scrollLeft+target.left-viewport.left-10;
       results.scrollTo({left:Math.max(0,left),behavior:'smooth'});
       // Marker taps must NEVER vertically scroll the document/map.
     }else{
