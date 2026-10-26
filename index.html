@@ -167,12 +167,7 @@
   function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
   function officialWebsite(p){
     const url=cleanLink(p.website);
-    if(url)return {url,label:'Website'};
-    if(/offici[eë]le website/i.test(p.closing_quality||'')){
-      const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
-      if(source)return {url:source,label:'Officiële site'};
-    }
-    return null;
+    return url?{url,label:'Website'}:null;
   }
   function mapDirections(p){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([p.name,p.address,p.city,p.country].filter(Boolean).join(', '));}
   function websiteSearch(p){return 'https://www.google.com/search?q='+encodeURIComponent([p.name,p.address,p.city,'officiële website'].filter(Boolean).join(' '));}
