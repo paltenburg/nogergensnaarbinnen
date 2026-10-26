@@ -4,7 +4,7 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 213,
-    "source_urls": 246,
+    "source_urls": 249,
     "domains": 149,
     "direct_website_fields": 134
   },
@@ -80,6 +80,11 @@
       "linked_venues": 13
     },
     {
+      "domain": "clubbasis.nl",
+      "source_pages": 5,
+      "linked_venues": 1
+    },
+    {
       "domain": "beersbarrels.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -96,11 +101,6 @@
     },
     {
       "domain": "cafetilt.nl",
-      "source_pages": 2,
-      "linked_venues": 1
-    },
-    {
-      "domain": "clubbasis.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -3534,6 +3534,54 @@
       "needs_review": false
     },
     {
+      "url": "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/",
+      "domain": "clubbasis.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "basis-709b7a8",
+          "name": "BASIS",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/",
+      "domain": "clubbasis.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "basis-709b7a8",
+          "name": "BASIS",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://clubbasis.nl/events/",
       "domain": "clubbasis.nl",
       "first_registered_on": "2026-10-26",
@@ -3550,12 +3598,40 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-10-25"
+            "sluitingstijden": "2026-10-26"
           },
           "needs_review": false
         }
       ],
-      "last_data_field_checked_on": "2026-10-25",
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://clubbasis.nl/faq/",
+      "domain": "clubbasis.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "laatste_toegang"
+      ],
+      "venues": [
+        {
+          "id": "basis-709b7a8",
+          "name": "BASIS",
+          "roles": [
+            "achtergrond",
+            "laatste_toegang"
+          ],
+          "checked_on": {
+            "laatste_toegang": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
     },

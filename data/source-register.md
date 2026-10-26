@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-26 uit de locatiedatabase en onderzoeksverslagen.
 
-**246 geregistreerde bron-URL's**, 149 domeinen; gekoppeld aan **213 locaties**.
+**249 geregistreerde bron-URL's**, 149 domeinen; gekoppeld aan **213 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -33,11 +33,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | ontdek-utrecht.nl | 13 | 30 |
 | uitutrecht.com | 8 | 133 |
 | debuik.nl | 7 | 13 |
+| clubbasis.nl | 5 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
 | cafetilt.nl | 2 | 1 |
-| clubbasis.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
 | denijverheid.org | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
@@ -422,7 +422,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### clubbasis.nl
 
 - [https://clubbasis.nl/](https://clubbasis.nl/) — website; BASIS; bronveld gecontroleerd: onbekend
-- [https://clubbasis.nl/events/](https://clubbasis.nl/events/) — sluitingstijden; BASIS; bronveld gecontroleerd: 2026-10-25
+- [https://clubbasis.nl/event/basis-rebekah-all-night-long-7/](https://clubbasis.nl/event/basis-rebekah-all-night-long-7/) — achtergrond; BASIS; bronveld gecontroleerd: onbekend
+- [https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/](https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/) — achtergrond; BASIS; bronveld gecontroleerd: onbekend
+- [https://clubbasis.nl/events/](https://clubbasis.nl/events/) — sluitingstijden; BASIS; bronveld gecontroleerd: 2026-10-26
+- [https://clubbasis.nl/faq/](https://clubbasis.nl/faq/) — achtergrond, laatste_toegang; BASIS; bronveld gecontroleerd: 2026-10-26
 
 ### clubclaar.nl
 
