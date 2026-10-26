@@ -35,6 +35,10 @@ jobs:
           git add data/venues.json data/geocode-report.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update gecontroleerde adrescoordinaten [skip ci]'
+            # Changes to the website may arrive while geocoding runs.
+            # Rebase on the newest main to prevent non-fast-forward push failures.
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
