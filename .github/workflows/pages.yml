@@ -6,6 +6,7 @@ on:
       - 'index.html'
       - 'data/**'
       - 'scripts/geocode.py'
+      - 'scripts/build_source_registry.py'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
@@ -28,11 +29,13 @@ jobs:
           python-version: '3.12'
       - name: Adressen op kaart plaatsen (PDOK)
         run: python scripts/geocode.py
-      - name: Geocodes bewaren in masterdatabase
+      - name: Bronnenregister automatisch bijwerken
+        run: python scripts/build_source_registry.py
+      - name: Geocodes en bronnenregister bewaren in masterdatabase
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/venues.json data/geocode-report.json
+          git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md
           if ! git diff --cached --quiet; then
             git commit -m 'Update gecontroleerde adrescoordinaten [skip ci]'
             # Changes to the website may arrive while geocoding runs.
