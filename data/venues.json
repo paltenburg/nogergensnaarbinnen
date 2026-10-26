@@ -1636,7 +1636,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Oudegracht",
-      "website": "",
+      "website": "https://www.cafekalff.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/2/"
@@ -2702,7 +2702,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Studentenuitgaan",
-      "website": "",
+      "website": "https://www.dejansbar.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
@@ -6957,20 +6957,20 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "02:00",
-        "di": "02:00",
-        "wo": "02:00",
-        "do": "03:00",
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "04:00",
         "vr": "04:00",
         "za": "04:00",
-        "zo": "01:00"
+        "zo": "—"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/t-gras-van-de-buren/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://grasvandeburen.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Sluitingstijden en gesloten dagen gecontroleerd op eigen website 26 oktober 2026.",
       "features": "Borrelcafé",
-      "website": "",
+      "website": "https://grasvandeburen.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -7008,7 +7008,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Centrum",
-      "website": "",
+      "website": "https://neutje.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/"
       ],
