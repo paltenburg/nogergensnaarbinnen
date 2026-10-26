@@ -8,7 +8,7 @@ Gratis, zelfstandige interactieve horecakaart. **Utrecht is de eerste regio**, m
 
 ## Directe websitelinks en bronnen
 
-Per 26 oktober 2026 bevatten **133 van de 212** horecarecords een vastgelegde directe website-URL. Voor de overige 79 toont de website een expliciete zoeklink; zo'n zoeklink is geen geverifieerde website. De directe URL's, openings- en sluitingsbronnen, achtergrondlinks en eerdere onderzoeksnotities staan ook in het **[bronnenregister](data/source-register.md)**.
+Per 26 oktober 2026 bevatten **143 van de 222** horecarecords een vastgelegde directe website-URL. Voor de overige 79 toont de website een expliciete zoeklink; zo'n zoeklink is geen geverifieerde website. De directe URL's, openings- en sluitingsbronnen, achtergrondlinks en eerdere onderzoeksnotities staan ook in het **[bronnenregister](data/source-register.md)**.
 
 **Bronnenregister automatisch bijgewerkt:** bij elke nieuwe databankpublicatie verzamelt `scripts/build_source_registry.py` alle beschikbare URL's, koppelt ze aan locaties en gebruiksdoel (website, openingstijden, sluitingstijden, laatste toegang, achtergrond), en bewaart de reeds genoteerde controledatums. De [machineleesbare versie](data/source-register.json) heeft bovendien een lijst met ontbrekende websites en onzekere tijden. Curated vindplaatsen voor nieuwe zaken omvatten Centrum Utrecht, Ontdek Utrecht, Uit Utrecht, Uitagenda en De Buik.
 
@@ -22,7 +22,7 @@ Per 26 oktober 2026 bevatten **133 van de 212** horecarecords een vastgelegde di
 
 Excel- en CSV-bestanden zijn uitsluitend historische momentopnames of eenzijdige exports van de JSON; ze zijn geen tweede beheerdatabank en mogen **nooit** de actuele JSON automatisch overschrijven. Het bronnenregister (`data/source-register.json` en `.md`) wordt automatisch uit de JSON en onderzoeksnotities afgeleid; het is geen onafhankelijke database. Feedbackmeldingen zijn een afzonderlijk logboek en wijzigen horecagegevens niet zonder controle.
 
-De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Inmiddels bevat de masterdatabase **212 locaties**, met aanvullend gevonden zaken en correcties sinds 25 oktober 2026. Bij een deel van de locaties zijn ook openingstijden en soms een tijdstip voor laatste toegang bekend, maar de data is niet uitputtend. Zonder actuele openingstijden én laatste-toegangstijden kan de app **geen 'nu open' of gegarandeerde binnenkomst** beloven.
+De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Inmiddels bevat de masterdatabase **222 locaties**, met aanvullend gevonden zaken en correcties sinds 25 oktober 2026. Bij een deel van de locaties zijn ook openingstijden en soms een tijdstip voor laatste toegang bekend, maar de data is niet uitputtend. Zonder actuele openingstijden én laatste-toegangstijden kan de app **geen 'nu open' of gegarandeerde binnenkomst** beloven.
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
@@ -78,6 +78,10 @@ Open `http://localhost:8000/` in de browser. Bij een lokale eerste run zijn nog 
 ## Uitbreiden naar andere steden
 
 Voeg in `data/venues.json` een regio toe in `regions` en locaties met `region` gelijk aan die regio-ID en de juiste `city`, `country` en `address`. De viewer laat vervolgens automatisch meerdere regio's zien. Het geocodescript ondersteunt Nederlandse adressen via PDOK; voor buitenlandse regio's is een aparte geocoder nodig.
+
+## Systematisch vergelijken met OpenStreetMap
+
+Gebruik in GitHub Actions de handmatig te starten workflow **Controleer ontbrekende Utrechtse horeca in OSM**, of start lokaal `python scripts/audit_osm_venues.py`. Dit vraagt eenmalig de horecaobjecten van de **gemeente Utrecht** op via de Overpass API en vergelijkt namen en adressen met `data/venues.json`. Uitvoer is uitsluitend `data/osm-audit-report.json`: een **controlelijst met mogelijke ontbrekende zaken, duplicaten en adresconflicten**, geen tweede productiedatabase. Kandidaten mogen uitsluitend na controle van alcoholaanbod, publieke toegang, adres, actuele status en (waar mogelijk) officiële openingstijden rechtstreeks aan `data/venues.json` worden toegevoegd. Bij een geblokkeerde of onbereikbare Overpass-server mislukt de audit zonder `venues.json` te wijzigen. Bron: © OpenStreetMap contributors, ODbL; zie https://www.openstreetmap.org/copyright.
 
 ## Bronverversing
 
