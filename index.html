@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#0d1725">
+  <meta name="theme-color" content="#f8fafc">
   <meta name="description" content="Ontdek horeca, cafés en uitgaanslocaties op een kaart. Filter op regio, soort en sluitingstijden.">
   <title>nogergensnaarbinnen · horeca en sluitingstijden</title>
   <link rel="preconnect" href="https://tile.openstreetmap.org">
@@ -55,12 +55,71 @@
     .empty{padding:25px 15px;color:#9fb4c7;font-size:13px;line-height:1.6}.visually-hidden{position:absolute;clip-path:inset(50%);height:1px;width:1px;overflow:hidden;white-space:nowrap}
     @media(max-width:880px){.app{height:auto;min-height:100dvh;display:flex;flex-direction:column}.top{position:sticky;top:0}.top-note{display:none}.sidebar{border-right:0;overflow:visible}.filters{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 10px;padding:13px 15px}.search-wrap,.section-title,.check-line{grid-column:1/-1}.filters .pair{grid-column:1/-1}.results-header{padding:10px 15px}.results{display:flex;overflow:auto;min-height:94px;padding:0 8px 9px;gap:4px}.card{flex:0 0 240px;margin:0 0 3px;width:240px;padding:10px 12px}.card-tags{display:none}.foot{display:none}.mapbox{height:54dvh;min-height:355px;flex:1}.floating{top:10px;right:10px;max-width:190px;padding:8px 10px}.legend{bottom:22px;left:10px;font-size:10px}}
     @media(max-width:520px){.top{padding:12px 15px}.brand h1{font-size:17px}.brand p{font-size:11px}.mark{width:34px;height:34px}.share{padding:8px 10px}.floating{max-width:160px}.floating strong{font-size:11px}.floating p{font-size:10px}}
+
+    /* Duidelijk licht thema; de sluitingstijdkleuren blijven intact. */
+    :root{color:#192d3c;background:#f8fafc;color-scheme:light}
+    body{background:#f8fafc}
+    .top{background:#fff;border-bottom-color:#d9e2e9;box-shadow:0 1px 3px #152b3910}
+    .mark{background:#ffcf79;color:#352b16}
+    .brand p{color:#506476}
+    .top-note{color:#526477}
+    .share{background:#fff;color:#25384a;border-color:#abb9c5}
+    .share:hover{background:#f1f6fa;border-color:#406889}
+    .share:focus-visible,.now-button:focus-visible,.card-actions a:focus-visible,.popup-source:focus-visible,.popup-link:focus-visible{outline:3px solid #2674b4;outline-offset:2px}
+    .sidebar{background:#f8fafc;border-right-color:#d9e2e9}
+    .ai-disclosure{background:#fff8e9;border-bottom-color:#e8d8b6;color:#3c3527}
+    .ai-disclosure p{color:#5b523f}
+    .filters{background:#f8fafc;border-bottom-color:#d9e2e9}
+    .intent-title{font-size:22px;line-height:1.2;font-weight:800;letter-spacing:-.4px;color:#172b3b;margin:2px 0 1px}
+    .section-title{color:#576b7c}
+    label{color:#415467}
+    .search-wrap span{color:#587185}
+    input[type=search],select{border-color:#b9c8d3;background-color:#fff;color:#172b3b}
+    input[type=search]::placeholder{color:#617487}
+    input[type=search]:focus,select:focus{border-color:#27739d;box-shadow:0 0 0 3px #27739d23}
+    select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='m1 1 5 5 5-5' fill='none' stroke='%234a5b6a' stroke-width='1.8'/%3E%3C/svg%3E")}
+    input[type=time]{background:#fff;color:#172b3b;border-color:#b9c8d3;color-scheme:light}
+    input[type=time]:focus{border-color:#27739d;box-shadow:0 0 0 3px #27739d23}
+    .now-button{background:#e5eef4;border-color:#b7cbd9;color:#234e6c}
+    .now-button:hover{background:#d7e7f1}
+    .visit-hint{background:#eef5f8;color:#415a6d;border-left-color:#d99f33}
+    .check-line{color:#344b5e}
+    .check-line input{accent-color:#24688c}
+    .results-header{background:#f8fafc}
+    .results-header span{color:#546879}
+    .card{background:#fff;color:#172536;border-color:#d3dee7;box-shadow:0 1px 2px #2440550a}
+    .card:hover,.card:focus-within{background:#f4f9fc;border-color:#7eacc9}
+    .card-main:focus-visible{outline-color:#2674b4}
+    .card-actions{border-top-color:#e5ebf1}
+    .card-actions a{color:#07578f}
+    .card-actions a:hover{color:#063d68}
+    .card-desc{color:#536779}
+    .card-desc em{color:#617386}
+    .pill{background:#e8edf1;color:#405467}
+    .floating{background:#fffffff2;color:#1d2c3a;border-color:#c6d3dc;box-shadow:0 4px 20px #263c4c1c}
+    .floating p{color:#526576}
+    .legend{background:#fffffff2;color:#243746;border-color:#c6d3dc;box-shadow:0 3px 14px #263c4c1c}
+    .legend-row{color:#405466}
+    .dot{border-color:#33445550}
+    .foot{background:#f1f5f8;border-top-color:#d9e2e9;color:#526879}
+    .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#fff;color:#223443}
+    .leaflet-popup-content-wrapper{box-shadow:0 4px 18px #263c4c32}
+    .leaflet-popup-close-button{color:#556b7d!important}
+    .popup-sub{color:#576d7d}
+    .popup-line span{color:#526779!important}
+    .popup-line[style]{color:#526779!important}
+    .popup-link{background:#f6bf5f;color:#1d2c3a!important}
+    .popup-source{color:#07578f!important}
+    .popup-ai{color:#526779;border-top-color:#d5dfe7}
+    .empty{color:#526779}
+    @media(max-width:880px){.filters .intent-title,.filters .visit-hint{grid-column:1/-1}}
+    @media(max-width:520px){.intent-title{font-size:20px}}
   </style>
 </head>
 <body>
 <div class="app">
   <header class="top">
-    <div class="brand"><span class="mark" aria-hidden="true">✳</span><div><h1>nogergensnaarbinnen</h1><p>Waar kunnen we nog ergens naar binnen?</p></div></div>
+    <div class="brand"><span class="mark" aria-hidden="true">✳</span><div><h1>nogergensnaarbinnen</h1><p>Cafés, bars, clubs & meer — op de kaart</p></div></div>
     <div class="top-right"><span class="top-note">Ontdek je volgende plek</span><button class="share" type="button" id="shareBtn" title="Deel deze kaart met de actieve filters">↗ Deel kaart</button></div>
   </header>
   <aside class="sidebar">
@@ -69,13 +128,13 @@
       <p>Alle teksten en beschrijvingen op deze website zijn met AI gegenereerd of samengesteld. De gegevens zijn deels gebaseerd op externe bronnen, maar niet overal onafhankelijk gecontroleerd. Controleer adres, toegang en tijden bij de locatie zelf.</p>
     </section>
     <div class="filters">
-      <div class="section-title">Ontdek & filter</div>
-      <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
+      <div class="intent-title">Nog ergens naar binnen vanaf:</div>
+      <div class="pair"><div><label for="day">Dag</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Tijd</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div></div></div>
+      <p id="visitHint" class="visit-hint">Kies een aankomsttijd in stappen van 30 minuten, of gebruik Nu voor de exacte huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet bekend.</p>
+            <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
       <div><label for="region">Regio</label><select id="region"><option value="utrecht">Utrecht</option></select></div>
       <div><label for="category">Soort locatie</label><select id="category"><option value="">Alle soorten</option><option value="cafe">Café & kroeg</option><option value="bar">Bar & borrel</option><option value="club">Club & dansen</option><option value="music">Muziek & podium</option><option value="restaurant">Restaurant & eten</option><option value="other">Overig</option></select></div>
-      <div class="pair"><div><label for="day">Uitgaansavond</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Naar binnen om</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div></div></div>
-      <p id="visitHint" class="visit-hint">Kies een aankomsttijd in stappen van 30 minuten, of gebruik Nu voor de exacte huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet bekend.</p>
-      <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
+            <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
     </div>
     <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span></div>
     <div class="results" id="results" aria-live="polite"><div class="empty">Gegevens laden…</div></div>
