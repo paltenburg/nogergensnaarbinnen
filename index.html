@@ -163,7 +163,7 @@
       .results .card{flex:0 0 min(82vw,315px);width:min(82vw,315px);align-self:stretch}
     }
     /* Mobile cards expand internally, not vertically: marker taps must keep map in view. */
-    .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:#fff;border:2px solid #dfaa4a;border-radius:8px;padding:5px 8px;box-shadow:0 3px 12px #2941533d;max-width:225px;white-space:normal;text-align:center;pointer-events:none}
+    .leaflet-tooltip.selected-name-tooltip{font-family:inherit;font-size:13px;font-weight:800;color:#203647;background:#fff;border:2px solid #dfaa4a;border-radius:8px;padding:6px 10px;box-shadow:0 3px 12px #2941533d;width:max-content;min-width:160px;max-width:min(300px,calc(100vw - 48px));white-space:normal;overflow-wrap:break-word;text-align:center;pointer-events:none}
     .leaflet-tooltip.selected-name-tooltip.leaflet-tooltip-top:before{border-top-color:#dfaa4a}
     @media(max-width:880px){
       .results{height:240px;max-height:240px;overflow-x:auto;overflow-y:hidden;align-items:stretch;overflow-anchor:none}
