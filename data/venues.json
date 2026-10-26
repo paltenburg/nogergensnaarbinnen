@@ -1152,17 +1152,17 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://luifelutrecht.nl/",
+      "checked_on": "2026-10-26",
       "closing_notes": "",
       "features": "Bier / terras",
       "website": "https://www.luifelutrecht.nl/",
@@ -1173,7 +1173,18 @@
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": null,
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://luifelutrecht.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "bij-guusjes-fd4468d",
@@ -2433,17 +2444,17 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "—",
+        "zo": "18:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafekeet.nl/",
+      "checked_on": "2026-10-26",
       "closing_notes": "",
       "features": "Kanaalweg",
       "website": "https://www.cafekeet.nl/",
@@ -2458,7 +2469,18 @@
         "matched_address": "Kanaalweg 30, 3526KM Utrecht"
       },
       "website_checked_on": "2026-10-26",
-      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "—",
+        "zo": "13:00"
+      },
+      "opening_source": "https://www.cafekeet.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-lijn-4-2439c07",
@@ -4761,7 +4783,7 @@
       "id": "jan-primus-53f279c",
       "name": "Jan Primus",
       "type": "Kroeg",
-      "address": "",
+      "address": "Jan van Scorelstraat 27",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -4769,17 +4791,17 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "01:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
+      "closing_quality": "Ondernemersvereniging PuurOost",
+      "closing_source": "https://www.puuroost-utrecht.nl/winkels/janprimus-horeca/",
+      "checked_on": "2026-10-26",
       "closing_notes": "",
       "features": "Kroeg",
       "website": "",
@@ -4787,7 +4809,18 @@
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.puuroost-utrecht.nl/winkels/janprimus-horeca/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "jozef-eten-drinken-0f2ce20",
@@ -6303,20 +6336,20 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "01:00",
-        "di": "01:00",
-        "wo": "01:00",
-        "do": "01:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "01:00"
+        "ma": "Varieert",
+        "di": "Varieert",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
       },
-      "closing_quality": "Bedrijfsprofiel",
-      "closing_source": "",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://paloma-utrecht.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen website: vanaf 14:30 op werkdagen en 12:00 in weekend, tot 'laat' zonder vast sluituur.",
       "features": "Spaanse tapas, wijn en muziek",
-      "website": "",
+      "website": "https://paloma-utrecht.nl/",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
@@ -6324,7 +6357,20 @@
         "lon": 5.1171672,
         "method": "PDOK BAG-adres",
         "matched_address": "Mariaplaats 11, 3511LJ Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "14:30",
+        "di": "14:30",
+        "wo": "14:30",
+        "do": "14:30",
+        "vr": "14:30",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://paloma-utrecht.nl/",
+      "opening_checked_on": "2026-10-26",
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "Officiële website"
     },
     {
       "id": "papis-comfort-kitchen-bf4bc0e",
@@ -7371,24 +7417,37 @@
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
-        "di": "01:00",
-        "wo": "01:00",
-        "do": "01:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "00:00"
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/talud9/",
-      "checked_on": "2026-10-25",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.talud9.nl/",
+      "checked_on": "2026-10-26",
       "closing_notes": "",
       "features": "Wijnbar; adres controleren",
-      "website": "",
+      "website": "https://www.talud9.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.talud9.nl/",
+      "opening_checked_on": "2026-10-26",
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "Officiële website"
     },
     {
       "id": "taplokaal-gist-bb8d7ed",
