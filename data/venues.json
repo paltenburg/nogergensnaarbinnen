@@ -162,9 +162,9 @@
       "closing_quality": "Officiële website",
       "closing_source": "https://www.hetpakhuis.nl/",
       "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_notes": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald.",
       "features": "Uitgaan / dansen",
-      "website": "https://www.hetpakhuis.nl/",
+      "website": "https://barpakhuis.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -176,8 +176,19 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Janskerkhof 21, 3512BM Utrecht"
       },
-      "website_provenance": "official-closing-time-source (may be subpage)",
-      "website_checked_on": "2026-10-25"
+      "website_provenance": "Directe officiële website: Bar Pakhuis, Janskerkhof 21",
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://barpakhuis.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "t-pandje-323e93f",
@@ -1086,7 +1097,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Taps / kade",
-      "website": "https://www.beersbarrels.nl/nl/contactpagina/",
+      "website": "https://www.beersbarrels.nl/nl/locaties/utrecht-centrum/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
         "https://www.uitagenda.nl/index.php/utrecht"
@@ -1098,8 +1109,19 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht aan de Werf 125, 3511AL Utrecht"
       },
-      "website_provenance": "official-closing-time-source (may be subpage)",
-      "website_checked_on": "2026-10-25"
+      "website_provenance": "Officiële vestigingspagina",
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "opening_source": "https://www.beersbarrels.nl/nl/locaties/utrecht-centrum/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "beers-barrels-veilinghaven-ed5a9be",
