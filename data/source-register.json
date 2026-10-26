@@ -3,10 +3,10 @@
   "generated_on": "2026-10-26",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 212,
-    "source_urls": 243,
-    "domains": 147,
-    "direct_website_fields": 133
+    "venues": 213,
+    "source_urls": 246,
+    "domains": 149,
+    "direct_website_fields": 134
   },
   "discovery_sites": [
     {
@@ -76,8 +76,8 @@
     },
     {
       "domain": "debuik.nl",
-      "source_pages": 6,
-      "linked_venues": 12
+      "source_pages": 7,
+      "linked_venues": 13
     },
     {
       "domain": "beersbarrels.nl",
@@ -666,6 +666,16 @@
     },
     {
       "domain": "poolenutrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "preview.restaurantconcours.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "restaurantconcours.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -3772,6 +3782,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.debuik.nl/utrecht/restaurant/concours-caf",
+      "domain": "debuik.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-concours-20261026",
+          "name": "Café Concours",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.debuik.nl/utrecht/restaurant/the-fools",
       "domain": "debuik.nl",
       "first_registered_on": "2026-10-26",
@@ -6353,6 +6387,30 @@
       "needs_review": false
     },
     {
+      "url": "https://preview.restaurantconcours.nl/wine-foodbar",
+      "domain": "preview.restaurantconcours.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-concours-20261026",
+          "name": "Café Concours",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.puuroost-utrecht.nl/",
       "domain": "puuroost-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -6449,6 +6507,37 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://restaurantconcours.nl/",
+      "domain": "restaurantconcours.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-concours-20261026",
+          "name": "Café Concours",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://restaurantwest.nl/",

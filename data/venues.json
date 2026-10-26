@@ -1765,7 +1765,12 @@
         "https://www.debuik.nl/utrecht/restaurant/concours-caf"
       ],
       "original_status": "Nieuw gevonden bij vergelijking met landelijke horecagidsen; dagconflict",
-      "geo": null,
+      "geo": {
+        "lat": 52.0949748,
+        "lon": 5.1275115,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Biltstraat 23, 3572AB Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "?",

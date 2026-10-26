@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-26 uit de locatiedatabase en onderzoeksverslagen.
 
-**243 geregistreerde bron-URL's**, 147 domeinen; gekoppeld aan **212 locaties**.
+**246 geregistreerde bron-URL's**, 149 domeinen; gekoppeld aan **213 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -32,7 +32,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | centrumutrecht.nl | 50 | 47 |
 | ontdek-utrecht.nl | 13 | 30 |
 | uitutrecht.com | 8 | 133 |
-| debuik.nl | 6 | 12 |
+| debuik.nl | 7 | 13 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
@@ -151,6 +151,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | paloma-utrecht.nl | 1 | 1 |
 | pandje.com | 1 | 1 |
 | poolenutrecht.nl | 1 | 1 |
+| preview.restaurantconcours.nl | 1 | 1 |
+| restaurantconcours.nl | 1 | 1 |
 | restaurantwest.nl | 1 | 1 |
 | rubyrose-utrecht.nl | 1 | 1 |
 | rum-club.nl | 1 | 1 |
@@ -450,6 +452,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.debuik.nl/utrecht](https://www.debuik.nl/utrecht) — achtergrond, terugkerende_vindplaats; Rosie, Rum Club, Sumventure Flightbar; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/nieuws/aftellen-voor-het-nieuwe-cafe-le-journal-is-begonnen](https://www.debuik.nl/utrecht/nieuws/aftellen-voor-het-nieuwe-cafe-le-journal-is-begonnen) — onderzoeksnotitie; algemene bron; bronveld gecontroleerd: onbekend
+- [https://www.debuik.nl/utrecht/restaurant/concours-caf](https://www.debuik.nl/utrecht/restaurant/concours-caf) — achtergrond; Café Concours; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/restaurant/the-fools](https://www.debuik.nl/utrecht/restaurant/the-fools) — sluitingstijden; The Fools Cocktail Bar; bronveld gecontroleerd: 2026-10-25
 - [https://www.debuik.nl/utrecht/top-10/9x-bruine-utrechtse-kroegen-buiten-het-centrum](https://www.debuik.nl/utrecht/top-10/9x-bruine-utrechtse-kroegen-buiten-het-centrum) — achtergrond; Achter de Koekoek; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open](https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open) — achtergrond; Bar Patine, Bar Pleur, De Troef spelletjescafé, Grand Bar & Brasserie Marie, Kadet (+ 2 meer); bronveld gecontroleerd: onbekend
@@ -713,6 +716,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.poolenutrecht.nl/](https://www.poolenutrecht.nl/) — openingstijden, sluitingstijden, website; Poolcafé Hart van Utrecht; bronveld gecontroleerd: 2026-10-26
 
+### preview.restaurantconcours.nl
+
+- [https://preview.restaurantconcours.nl/wine-foodbar](https://preview.restaurantconcours.nl/wine-foodbar) — achtergrond; Café Concours; bronveld gecontroleerd: onbekend
+
 ### puuroost-utrecht.nl
 
 - [https://www.puuroost-utrecht.nl/](https://www.puuroost-utrecht.nl/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
@@ -722,6 +729,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://quignon.nl/](https://quignon.nl/) — website; Quignon; bronveld gecontroleerd: 2026-10-26
 - [https://quignon.nl/contact/](https://quignon.nl/contact/) — openingstijden, sluitingstijden; Quignon; bronveld gecontroleerd: 2026-10-26
+
+### restaurantconcours.nl
+
+- [https://restaurantconcours.nl/](https://restaurantconcours.nl/) — openingstijden, sluitingstijden, website; Café Concours; bronveld gecontroleerd: 2026-10-26
 
 ### restaurantwest.nl
 
