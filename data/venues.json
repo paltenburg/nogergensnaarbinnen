@@ -6193,6 +6193,49 @@
       }
     },
     {
+      "id": "moos-utrecht-20261026",
+      "name": "MOOS Utrecht",
+      "type": "Café/restaurant",
+      "address": "Amsterdamsestraatweg 283",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens officiële website",
+      "alcohol": "Speciaalbier en wijn bevestigd via Ontdek Utrecht",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële website; afwijkingen in gidsen genoteerd",
+      "closing_source": "https://moos-utrecht.nl/restaurant-amsterdamsestraatweg/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële site geeft vanaf 10:00, Ontdek Utrecht vanaf 11:00 op werkdagen. Officiële bron voorrang.",
+      "features": "Bar, borrel, alcoholische dranken",
+      "website": "https://moos-utrecht.nl/",
+      "other_sources": [
+        "https://www.ontdek-utrecht.nl/locatie/restaurant-moos"
+      ],
+      "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
+      "geo": null,
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://moos-utrecht.nl/restaurant-amsterdamsestraatweg/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "morrow-af608b0",
       "name": "Morrow",
       "type": "All-day café/restobar",
@@ -7470,6 +7513,50 @@
       }
     },
     {
+      "id": "sevilla-utrecht-20261026",
+      "name": "Sevilla Utrecht",
+      "type": "Tapasbar",
+      "address": "Korte Jansstraat 5",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens officiële website",
+      "alcohol": "Wijn en sangria bevestigd op officiële site",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website; afwijkingen in gidsen genoteerd",
+      "closing_source": "https://sevilla-utrecht.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële site noemt vrijdag/zaterdag 00:00. Ontdek Utrecht ondersteunt 00:00; De Buik en andere gidsen melden 01:00. Officiële bron voorrang, maar conflicterende tijd bewaren.",
+      "features": "Bar, borrel, alcoholische dranken",
+      "website": "https://sevilla-utrecht.nl/",
+      "other_sources": [
+        "https://www.ontdek-utrecht.nl/locatie/sevilla/",
+        "https://www.debuik.nl/utrecht/restaurant/sevilla"
+      ],
+      "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
+      "geo": null,
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://sevilla-utrecht.nl/contact/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "slachtstraat-filmtheater-3db7b64",
       "name": "Slachtstraat Filmtheater",
       "type": "Filmtheater/grand café",
@@ -7962,6 +8049,50 @@
         "zo": "09:00"
       },
       "opening_source": "https://teds-place.mom/locations/utrecht-oudegracht/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
+      "id": "teds-stadhuisplein-20261026",
+      "name": "Teds Utrecht Stadhuisplein",
+      "type": "All-day brunchbar",
+      "address": "Korte Minrebroederstraat 11",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens officiële website",
+      "alcohol": "Cocktails en champagne bevestigd op officiële site",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Officiële website; afwijkingen in gidsen genoteerd",
+      "closing_source": "https://teds-place.mom/locations/utrecht-stadhuisplein/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen vestigingswebsite 09:00-17:00, bij geschikt zomerweer do-zo 09:00-19:00. De Buik en VindOpen vermelden vrijdag/weekend tot 20:00; tijdconflict expliciet behouden, geen latere sluiting aangenomen.",
+      "features": "Bar, borrel, alcoholische dranken",
+      "website": "https://teds-place.mom/locations/utrecht-stadhuisplein/",
+      "other_sources": [
+        "https://centrumutrecht.nl/company/teds-stadhuisplein/",
+        "https://vind-open.nl/utrecht/teds-utrecht-stadhuisplein-all-day-food-drinks-930393"
+      ],
+      "original_status": "Nieuw na systematische bronvergelijking 26 okt 2026",
+      "geo": null,
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "opening_source": "https://teds-place.mom/locations/utrecht-stadhuisplein/",
       "opening_checked_on": "2026-10-26"
     },
     {
