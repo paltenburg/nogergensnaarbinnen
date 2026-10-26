@@ -65,7 +65,8 @@ def host_name(url):
 
 
 def main():
-    venues = json.loads((DATA / "venues.json").read_text(encoding="utf-8"))["places"]
+    dataset = json.loads((DATA / "venues.json").read_text(encoding="utf-8"))
+    venues = dataset["places"]
     old_items = {}
     if JSON_PATH.exists():
         previous = json.loads(JSON_PATH.read_text(encoding="utf-8"))
@@ -106,6 +107,12 @@ def main():
             for url in extract_urls(venue.get(field)):
                 register(url, role, venue, venue.get(date_field) if date_field else None)
 
+    # Municipal rules are separate provenance, not inferred per venue.
+    # Only sites explicitly assigned admission_policy_id receive these limits.
+    for policy in dataset.get("admission_policies", []):
+        for url in extract_urls(policy.get("source")):
+            register(url, "gemeentelijke_toegangsregel")
+    
     for note_file in sorted(DATA.glob("research-notes-*.md")):
         for found in NOTE_RE.findall(note_file.read_text(encoding="utf-8")):
             for url in extract_urls(found):
