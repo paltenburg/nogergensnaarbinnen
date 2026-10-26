@@ -35,3 +35,12 @@ De data is een onderzoeksregister, geen garantie van actuele opening of van toeg
 3. Controleer conflictgevallen Café Voortuin, Café Tilt, Le Journal, Nomono en Bar Pakhuis eerst opnieuw.
 4. Registreer naast openen en sluiten ook **laatste toegang** wanneer expliciet genoemd. Een latere sluiting betekent niet automatisch dat je nog binnenkomt.
 5. Controleer datums en evenementen/seasonal exceptions. Onzekere gegevens niet zonder toelichting als definitief presenteren.
+
+## BASIS – gebruikelijke sluitingstijden bij clubnachten (aanvullende controle 26 oktober)
+
+- Officiële kalender: [BASIS Events](https://clubbasis.nl/events/). De clubnacht van afgelopen zaterdag 24 oktober 2026: 23:00–06:00.
+- Vorige zaterdagen 3, 10 en 17 oktober, plus 31 oktober, 7, 21 en 28 november en 5, 12, 19 december zijn gepland/geweest tot **06:00**.
+- Voor zaterdag 26 december 2026 staat **07:00**; dus 06:00 is *gebruikelijk, niet gegarandeerd*.
+- Officiële [FAQ](https://clubbasis.nl/faq/) vermeldt: bij de meeste evenementen gaan de deuren voor nieuwe bezoekers om **04:00** dicht; opnieuw naar binnen kan niet.
+- Specifiek [10 oktober](https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/), [17 oktober](https://clubbasis.nl/event/basis-rebekah-all-night-long-7/) en [26 december](https://clubbasis.nl/event/basis-gweldbatun-all-night-long/) noemen 04:00 als moment waarop de deur sluit.
+- In het register is de **vrijdag- en zaterdagnacht** daarom als *doorgaans 06:00* opgenomen (niet een gegarandeerde vaste sluitingstijd) en **doorgaans laatste toegang 04:00**. Er is geen bewijs dat zonder event toegang mogelijk is. Controleer bij toekomstige bezoeken de actuele evenementenkalender, ook vanwege ticketverkoop en mogelijke uitverkoop.
