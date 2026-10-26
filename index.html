@@ -28,16 +28,23 @@
     input[type=time]{appearance:none;outline:0;border:1px solid #32475e;background:#192b3e;color:#eef3f6;border-radius:9px;padding:10px 6px;width:100%;min-width:0;font-size:13px;color-scheme:dark}
     input[type=time]:focus{border-color:#f3b55b;box-shadow:0 0 0 2px #f3b55b33}
     .time-wrap{display:flex;gap:5px;min-width:0}
-    .time-wrap input{flex:1;min-width:0}
+    .time-wrap select{flex:1;min-width:0;padding-right:22px}
     .now-button{background:#2d445a;border:1px solid #526a7c;color:#f3f6fa;border-radius:8px;padding:0 8px;font-size:12px;font-weight:750;white-space:nowrap}
     .now-button:hover{background:#3d5c72}
     .visit-hint{font-size:11px;line-height:1.5;color:#aabfd0;background:#1a2d41;border-left:3px solid #e7b84d;border-radius:4px;padding:9px 10px;margin:0}.check-line{display:flex;align-items:center;gap:8px;color:#a5b8ca;font-size:12px;cursor:pointer;margin-top:1px}.check-line input{accent-color:#f3b55b;width:16px;height:16px}
     .results-header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 19px 12px}.results-header h2{font-size:15px;margin:0;letter-spacing:-.3px}.results-header span{font-size:12px;color:#9bb1c7}
     .results{overflow:auto;overscroll-behavior:contain;padding:0 11px 18px;flex:1}.card{margin:0 6px 8px;border:1px solid #304257;background:#162638;border-radius:12px;padding:13px 13px 12px;text-align:left;color:#e7edf3;width:calc(100% - 12px);transition:border .15s,background .15s}
-    .card:hover,.card:focus-visible{border-color:#f2b55d;background:#1b3043;outline:none}.card-head{display:flex;gap:8px;align-items:start;justify-content:space-between}.card-title{font-size:14px;font-weight:760;letter-spacing:-.15px;line-height:1.3}.time{white-space:nowrap;font-size:11px;font-weight:800;padding:4px 7px;border-radius:7px;color:#152337;background:#92a4b8}
+    .card:hover,.card:focus-within{border-color:#f2b55d;background:#1b3043}
+    .card-main{width:100%;background:transparent;border:0;text-align:left;color:inherit;cursor:pointer;padding:0;display:block}
+    .card-main:focus-visible{outline:2px solid #f2b55d;outline-offset:3px;border-radius:4px}
+    .card-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:10px;padding-top:9px;border-top:1px solid #304257}
+    .card-actions a{font-size:12px;font-weight:700;text-decoration:underline;text-underline-offset:3px;color:#f5c980}
+    .card-actions a:hover{color:#ffe8ba}.card-head{display:flex;gap:8px;align-items:start;justify-content:space-between}.card-title{font-size:14px;font-weight:760;letter-spacing:-.15px;line-height:1.3}.time{white-space:nowrap;font-size:11px;font-weight:800;padding:4px 7px;border-radius:7px;color:#152337;background:#92a4b8}
     .card-desc{color:#a4b7ca;font-size:12px;line-height:1.5;margin-top:6px}.card-desc em{font-style:normal;color:#809bb3}
     .card-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.pill{font-size:10px;font-weight:700;color:#b9cddd;border-radius:6px;background:#273c50;padding:3px 6px}
-    .mapbox{position:relative;min-width:0;background:#e7e6dc}#map{width:100%;height:100%}
+    .mapbox{position:relative;min-width:0;background:#e8ebec}#map{width:100%;height:100%}
+    /* Only desaturate the basemap. The closing-time markers retain their category colors. */
+    #map .leaflet-tile{filter:grayscale(1) saturate(0) contrast(.93) brightness(1.07)}
     .floating{position:absolute;z-index:390;top:17px;right:17px;background:#122236ed;color:#eef5fa;border:1px solid #354b60;box-shadow:0 6px 25px #101d2c44;backdrop-filter:blur(9px);border-radius:12px;padding:11px 14px;max-width:255px}
     .floating strong{display:block;font-size:13px;margin-bottom:4px}.floating p{font-size:11px;color:#a8bacc;line-height:1.4;margin:0}
     .legend{position:absolute;bottom:24px;left:18px;z-index:390;background:#122236e8;color:#dae5ed;border:1px solid #34506a;border-radius:10px;padding:10px 12px;font-size:11px;box-shadow:0 3px 12px #172c3955}
@@ -66,8 +73,8 @@
       <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
       <div><label for="region">Regio</label><select id="region"><option value="utrecht">Utrecht</option></select></div>
       <div><label for="category">Soort locatie</label><select id="category"><option value="">Alle soorten</option><option value="cafe">Café & kroeg</option><option value="bar">Bar & borrel</option><option value="club">Club & dansen</option><option value="music">Muziek & podium</option><option value="restaurant">Restaurant & eten</option><option value="other">Overig</option></select></div>
-      <div class="pair"><div><label for="day">Uitgaansavond</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Naar binnen om</label><div class="time-wrap"><input type="time" id="after" step="60" aria-describedby="visitHint"><button type="button" id="nowBtn" class="now-button" title="Gebruik de huidige tijd in Nederland">Nu</button></div></div></div>
-      <p id="visitHint" class="visit-hint">Kies een aankomsttijd om te filteren op zaken die pas ná dat moment sluiten. Tijden na middernacht horen bij de volgende ochtend. Opening en laatste toegang zijn niet bevestigd.</p>
+      <div class="pair"><div><label for="day">Uitgaansavond</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Naar binnen om</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div></div></div>
+      <p id="visitHint" class="visit-hint">Kies een aankomsttijd in stappen van 30 minuten, of gebruik Nu voor de exacte huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet bekend.</p>
       <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
     </div>
     <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span></div>
@@ -99,15 +106,53 @@
   function eligible(p){if(p.selection==='Nee')return false;if(!state.uncertain&&p.selection==='Nog te controleren')return false;if(state.region&&p.region!==state.region)return false;if(state.category&&category(p.type)!==state.category)return false;if(state.q){const q=state.q.toLocaleLowerCase('nl');if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;}if(state.after){const closingAt=timeVal(closing(p));const arrivalAt=timeVal(state.after);if(arrivalAt===null||closingAt===null||closingAt<=arrivalAt)return false;}return true;}
   function sortPlaces(a,b){const va=timeVal(closing(a))??-1,vb=timeVal(closing(b))??-1;return (vb-va)||a.name.localeCompare(b.name,'nl');}
   function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
-  function mapPopup(p){const s=closing(p);const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());const website=cleanLink(p.website);const gmap='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([p.name,p.address,p.city,p.country].filter(Boolean).join(', '));return `<div class="popup-title">${esc(p.name)}</div><div class="popup-sub">${esc(p.type)} · ${esc(p.address||'Adres onbekend')}, ${esc(p.city)}</div><div class="popup-line"><strong>Sluit:</strong> ${esc(closingLabel(s))} <span style="color:#9db4c8">(${esc(state.day)})</span></div>${p.closing_notes?`<div class="popup-line">${esc(p.closing_notes)}</div>`:''}${p.access?`<div class="popup-line" style="color:#9db4c8">${esc(p.access)}</div>`:''}<a class="popup-link" target="_blank" rel="noopener noreferrer" href="${esc(gmap)}">Route / Maps ↗</a>${website?` <a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(website)}">Website ↗</a>`:''}${source?`<a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(source)}">Bron sluitingstijden ↗</a>`:''}<div class="popup-ai">Tekst met AI gegenereerd/samengesteld. Controleer gegevens bij de locatie.</div>`;}
+  function officialWebsite(p){
+    const url=cleanLink(p.website);
+    if(url)return {url,label:'Website'};
+    if(/offici[eë]le website/i.test(p.closing_quality||'')){
+      const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
+      if(source)return {url:source,label:'Officiële site'};
+    }
+    return null;
+  }
+  function mapDirections(p){return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([p.name,p.address,p.city,p.country].filter(Boolean).join(', '));}
+  function websiteSearch(p){return 'https://www.google.com/search?q='+encodeURIComponent([p.name,p.address,p.city,'officiële website'].filter(Boolean).join(' '));}
+  function mapPopup(p){const s=closing(p);const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());const site=officialWebsite(p);const gmap=mapDirections(p);return `<div class="popup-title">${esc(p.name)}</div><div class="popup-sub">${esc(p.type)} · ${esc(p.address||'Adres onbekend')}, ${esc(p.city)}</div><div class="popup-line"><strong>Sluit:</strong> ${esc(closingLabel(s))} <span style="color:#9db4c8">(${esc(state.day)})</span></div>${p.closing_notes?`<div class="popup-line">${esc(p.closing_notes)}</div>`:''}${p.access?`<div class="popup-line" style="color:#9db4c8">${esc(p.access)}</div>`:''}<a class="popup-link" target="_blank" rel="noopener noreferrer" href="${esc(gmap)}">Route / Maps ↗</a> <a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(site?site.url:websiteSearch(p))}">${site?esc(site.label)+' ↗':'Website zoeken ↗'}</a>${source?`<a class="popup-source" target="_blank" rel="noopener noreferrer" href="${esc(source)}">Bron sluitingstijden ↗</a>`:''}<div class="popup-ai">Tekst met AI gegenereerd/samengesteld. Controleer gegevens bij de locatie.</div>`;}
   function openPlace(id){const pin=pins.get(id);if(pin&&map){map.flyTo(pin.getLatLng(),Math.max(map.getZoom(),16),{duration:.6});setTimeout(()=>pin.openPopup(),610);}else{const p=db.places.find(p=>p.id===id); if(p)alert(`Voor ${p.name} is nog geen gecontroleerde kaartpositie beschikbaar.\n${p.address||'Adres onbekend'}`);}}
   function render(){const filtered=db.places.filter(eligible).sort(sortPlaces);el('count').textContent=filtered.length;const geocoded=filtered.filter(p=>Number.isFinite(p.geo?.lat)&&Number.isFinite(p.geo?.lon));el('locatedCount').textContent=`${geocoded.length} op kaart`;
     const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} in deze uitgaansavond/-nacht. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = tijd onbekend.';
-    el('visitHint').textContent=state.after?`Alleen locaties die volgens de bekende tijden na ${state.after} sluiten. ${Number(state.after.slice(0,2))<12?'Een tijd na middernacht hoort bij de volgende ochtend. ':''}Openstelling en laatste toegang zijn niet bevestigd.`:'Kies een aankomsttijd of gebruik Nu. Vrijdagavond + 04:00 betekent zaterdagochtend 04:00. Tijden en laatste toegang zijn niet altijd bevestigd.';
-    const out=el('results');out.replaceChildren();const frag=document.createDocumentFragment();if(!filtered.length){out.innerHTML='<div class="empty">Geen locaties bekend die met deze filters later sluiten. Kies een vroeger tijdstip of een ander type.</div>';}else{for(const p of filtered){const c=document.createElement('button');c.type='button';c.className='card';const s=closing(p);const color=colorFor(s);c.innerHTML=`<div class="card-head"><span class="card-title">${esc(p.name)}</span><span class="time" style="background:${color}">${esc(closingLabel(s))}</span></div><div class="card-desc">${esc(p.type)}<br><em>${esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')}</em></div><div class="card-tags">${p.geo?.lat?'': '<span class="pill">Geen kaartpositie</span>'}${p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':''}${s==='?'?'<span class="pill">Sluiting onbekend</span>':''}</div>`;c.addEventListener('click',()=>openPlace(p.id));frag.appendChild(c);}out.appendChild(frag);}
+    el('visitHint').textContent=state.after?`Alleen locaties die volgens de bekende tijden na ${state.after} sluiten. ${Number(state.after.slice(0,2))<12?'Een tijd na middernacht hoort bij de volgende ochtend. ':''}Openstelling en laatste toegang zijn niet bevestigd.`:'Kies een aankomsttijd per halfuur of gebruik Nu voor de exacte huidige tijd. Vrijdagavond + 04:00 betekent zaterdagochtend 04:00. Laatste toegang is niet altijd bekend.';
+    const out=el('results');out.replaceChildren();const frag=document.createDocumentFragment();if(!filtered.length){out.innerHTML='<div class="empty">Geen locaties bekend die met deze filters later sluiten. Kies een vroeger tijdstip of een ander type.</div>';}else{for(const p of filtered){const card=document.createElement('article');card.className='card';const s=closing(p);const color=colorFor(s);
+      const main=document.createElement('button');main.type='button';main.className='card-main';main.innerHTML=`<div class="card-head"><span class="card-title">${esc(p.name)}</span><span class="time" style="background:${color}">${esc(closingLabel(s))}</span></div><div class="card-desc">${esc(p.type)}<br><em>${esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')}</em></div><div class="card-tags">${p.geo?.lat?'': '<span class="pill">Geen kaartpositie</span>'}${p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':''}${s==='?'?'<span class="pill">Sluiting onbekend</span>':''}</div>`;main.addEventListener('click',()=>openPlace(p.id));card.appendChild(main);
+      const actions=document.createElement('div');actions.className='card-actions';
+      const site=officialWebsite(p);
+      const links=[{label:site?site.label:'Website zoeken',url:site?site.url:websiteSearch(p)},{label:'Google Maps',url:mapDirections(p)}];
+      for(const link of links){const a=document.createElement('a');a.href=link.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=link.label+' ↗';actions.appendChild(a);}
+      card.appendChild(actions);frag.appendChild(card);}out.appendChild(frag);}
     if(layer){layer.clearLayers();pins.clear();for(const p of geocoded){const color=colorFor(closing(p));const m=L.circleMarker([p.geo.lat,p.geo.lon],{radius:7,color:'#122033',weight:1.5,fillColor:color,fillOpacity:.95});m.bindPopup(()=>mapPopup(p),{maxWidth:270});m.addTo(layer);pins.set(p.id,m);}}
   }
   function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();}
+  function fillHalfHourOptions(){
+    const select=el('after');
+    const groups=[['Middag en avond',12,24],['Na middernacht',0,12]];
+    for(const [label,start,end] of groups){
+      const group=document.createElement('optgroup');group.label=label;
+      for(let h=start;h<end;h++)for(const m of [0,30]){
+        const time=String(h).padStart(2,'0')+':'+String(m).padStart(2,'0');
+        const option=document.createElement('option');option.value=time;option.textContent=time;group.appendChild(option);
+      }
+      select.appendChild(group);
+    }
+  }
+  function selectArrival(time,label){
+    const select=el('after');
+    const temporary=select.querySelector('option[data-temporary="true"]');
+    if(temporary)temporary.remove();
+    if(time&&!Array.from(select.options).some(option=>option.value===time)){
+      const extra=document.createElement('option');extra.dataset.temporary='true';extra.value=time;extra.textContent=label||time;select.insertBefore(extra,select.options[1]||null);
+    }
+    select.value=time;
+  }
   function useCurrentDutchTime(){
     // Before noon we search the previous night's closing hours.
     const parts=new Intl.DateTimeFormat('nl-NL',{timeZone:'Europe/Amsterdam',weekday:'short',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
@@ -117,12 +162,12 @@
     const hour=Number(part('hour'));
     if(index<0||!Number.isInteger(hour))return;
     el('day').value=days[hour<12?(index+6)%7:index];
-    el('after').value=part('hour').padStart(2,'0')+':'+part('minute').padStart(2,'0');
+    const exact=part('hour').padStart(2,'0')+':'+part('minute').padStart(2,'0');selectArrival(exact,'Nu · '+exact);
     change();
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
     map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
-  async function start(){initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('after').value=state.after;el('search').value=state.q;el('uncertain').checked=state.uncertain;
+  async function start(){initMap();fillHalfHourOptions();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;selectArrival(state.after);el('search').value=state.q;el('uncertain').checked=state.uncertain;
     try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;el('nowBtn').addEventListener('click',useCurrentDutchTime);for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',change);render();const withCoords=db.places.filter(p=>p.geo?.lat&&p.geo?.lon&&p.region===state.region);if(map&&withCoords.length>1){const bounds=L.latLngBounds(withCoords.map(p=>[p.geo.lat,p.geo.lon]));map.fitBounds(bounds.pad(.10),{maxZoom:14});}else if(map){const r=db.regions.find(r=>r.id===state.region);if(r)map.setView(r.center,r.zoom);}
       el('region').addEventListener('change',()=>{const r=db.regions.find(r=>r.id===state.region);if(map&&r)map.flyTo(r.center,r.zoom);});
     }catch(err){el('results').innerHTML=`<div class="empty"><strong>Gegevens niet geladen.</strong><br>${esc(err.message)}<br>Open de website via GitHub Pages of een lokale webserver; rechtstreeks openen als file:// ondersteunt het inlezen van JSON niet altijd.</div>`;el('locatedCount').textContent='Niet beschikbaar';}
