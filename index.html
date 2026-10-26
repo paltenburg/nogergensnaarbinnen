@@ -235,7 +235,40 @@
   function timeVal(s){ if(!/^\d\d:\d\d$/.test(String(s)))return null; let [h,m]=s.split(':').map(Number);if(h>23||m>59)return null; return 60*h+m+(h<12?1440:0); }
   function category(s){s=s.toLocaleLowerCase('nl');if(/nachtclub|club|dans|discotheek/.test(s))return 'club';if(/muziek|podium|theater|concert|cultureel/.test(s))return 'music';if(/restaurant|eetcaf[eé]|bistro|brasserie|restobar|diner/.test(s))return 'restaurant';if(/pub|kroeg|caf[eé]/.test(s))return 'cafe';if(/bar|cocktail|wijn/.test(s))return 'bar';return 'other';}
   function closing(place){return place.closing?.[state.day]||'?';}
-  function colorFor(s){const v=timeVal(s); if(v===null)return '#7a8b9d';if(v>=1620)return '#c96dd8';if(v>=1560)return '#f17c58';if(v>=1440)return '#e7b84d';return '#45bda0';}
+  // A continuous time scale: each half-hour (and intermediate quarter-hour)
+  // has its own color. Order follows the nightlife day through midnight.
+  const closingPalette=[
+    [720, [95,201,215]],   // 12:00 turquoise
+    [1020,[77,189,154]],   // 17:00 teal
+    [1080,[106,196,117]],  // 18:00 green
+    [1140,[152,203,94]],   // 19:00 lime
+    [1200,[199,207,95]],   // 20:00 yellow-green
+    [1260,[229,205,87]],   // 21:00 yellow
+    [1320,[244,178,88]],   // 22:00 amber
+    [1380,[249,145,87]],   // 23:00 orange
+    [1440,[247,115,100]],  // 00:00 coral
+    [1500,[242,99,126]],   // 01:00 pink-red
+    [1560,[225,93,160]],   // 02:00 pink
+    [1620,[198,106,202]],  // 03:00 orchid
+    [1680,[158,116,219]],  // 04:00 violet
+    [1740,[112,140,226]],  // 05:00 indigo-blue
+    [1800,[90,160,224]],   // 06:00 blue
+    [2040,[85,192,223]],   // 10:00 cyan
+    [2160,[95,201,215]]    // next noon (wrap)
+  ];
+  function colorFor(s){
+    const v=timeVal(s);
+    if(v===null)return '#7a8b9d';
+    for(let i=1;i<closingPalette.length;i++){
+      const [end,b]=closingPalette[i];
+      if(v<=end){
+        const [start,a]=closingPalette[i-1];
+        const t=Math.max(0,Math.min(1,(v-start)/(end-start)));
+        return '#'+a.map((n,k)=>Math.round(n+(b[k]-n)*t).toString(16).padStart(2,'0')).join('');
+      }
+    }
+    return '#5fc9d7';
+  }
   function closingLabel(s){if(!s||s==='?')return 'Onbekend';if(s==='—')return 'Gesloten*';if(s==='Event')return 'Per event';if(s==='Varieert')return 'Wisselend';return s;}
   function eligible(p){if(p.selection==='Nee')return false;if(!state.uncertain&&p.selection==='Nog te controleren')return false;if(state.region&&p.region!==state.region)return false;if(state.category&&category(p.type)!==state.category)return false;if(state.q){const q=state.q.toLocaleLowerCase('nl');if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;}if(state.after){const closingAt=timeVal(closing(p));const arrivalAt=timeVal(state.after);if(arrivalAt===null||closingAt===null||closingAt<=arrivalAt)return false;const lastAdmission=timeVal(p.last_entry?.[state.day]);if(lastAdmission!==null&&arrivalAt>=lastAdmission)return false;}return true;}
   function sortPlaces(a,b){const va=timeVal(closing(a))??-1,vb=timeVal(closing(b))??-1;return (vb-va)||a.name.localeCompare(b.name,'nl');}
