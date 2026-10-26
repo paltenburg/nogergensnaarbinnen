@@ -374,7 +374,7 @@
       if(active)marker.bringToFront();
     }}
   }
-  function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();}
+  function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();fitVisibleMarkers();}
   function fillHalfHourOptions(){
     const select=el('after');
     const groups=[['Middag en avond',12,24],['Na middernacht',0,12]];
@@ -408,12 +408,27 @@
     const exact=part('hour').padStart(2,'0')+':'+part('minute').padStart(2,'0');selectArrival(exact,'Nu · '+exact);
     change();
   }
+  function fitVisibleMarkers(){
+    if(!map)return;
+    // Bounds match the currently displayed (filtered) markers, not every database record.
+    map.invalidateSize({pan:false});
+    const visible=[...pins.values()].map(marker=>marker.getLatLng());
+    if(visible.length>=2){
+      // A fixed pixel margin keeps the initial view tight on phones as well as desktops.
+      map.fitBounds(L.latLngBounds(visible),{padding:[18,18],maxZoom:17,animate:false});
+    }else if(visible.length===1){
+      map.setView(visible[0],16,{animate:false});
+    }else{
+      const region=db.regions.find(item=>item.id===state.region);
+      if(region)map.setView(region.center,region.zoom,{animate:false});
+    }
+  }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
     map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
   async function start(){initMap();fillHalfHourOptions();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;selectArrival(state.after);el('search').value=state.q;el('uncertain').checked=state.uncertain;
-    try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;el('nowBtn').addEventListener('click',useCurrentDutchTime);for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',change);render();const withCoords=db.places.filter(p=>p.geo?.lat&&p.geo?.lon&&p.region===state.region);if(map&&withCoords.length>1){const bounds=L.latLngBounds(withCoords.map(p=>[p.geo.lat,p.geo.lon]));map.fitBounds(bounds.pad(.10),{maxZoom:14});}else if(map){const r=db.regions.find(r=>r.id===state.region);if(r)map.setView(r.center,r.zoom);}
-      el('region').addEventListener('change',()=>{const r=db.regions.find(r=>r.id===state.region);if(map&&r)map.flyTo(r.center,r.zoom);});
-      if(map)requestAnimationFrame(()=>map.invalidateSize({pan:false}));
+    try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;el('nowBtn').addEventListener('click',useCurrentDutchTime);for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',change);render();
+      // Wait for the mobile flex layout to settle before calculating initial bounds.
+      if(map)requestAnimationFrame(fitVisibleMarkers);
     }catch(err){el('results').innerHTML=`<div class="empty"><strong>Gegevens niet geladen.</strong><br>${esc(err.message)}<br>Open de website via GitHub Pages of een lokale webserver; rechtstreeks openen als file:// ondersteunt het inlezen van JSON niet altijd.</div>`;el('locatedCount').textContent='Niet beschikbaar';}
   }
   window.addEventListener('resize',()=>{if(map)map.invalidateSize({pan:false});});
