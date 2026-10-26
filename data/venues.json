@@ -1148,7 +1148,7 @@
       "checked_on": "2026-10-25",
       "closing_notes": "",
       "features": "Centrum",
-      "website": "",
+      "website": "https://cafeclaire.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
         "https://uitgaanskaart.nl/cafe/utrecht"
@@ -1159,7 +1159,9 @@
         "lon": 5.1185981,
         "method": "PDOK BAG-adres",
         "matched_address": "Neude 31, 3512AG Utrecht"
-      }
+      },
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
     },
     {
       "id": "cafe-de-achtertuin-61a6f9a",
@@ -1221,14 +1223,16 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Neude / borrel",
-      "website": "",
+      "website": "https://cafedebeurs.com/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/3/",
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
     },
     {
       "id": "cafe-de-binnenstad-f53bd1f",
@@ -1583,7 +1587,7 @@
       "id": "cafe-heen-en-weer-0a8d54c",
       "name": "Café Heen en Weer",
       "type": "Café",
-      "address": "",
+      "address": "Donkere Gaard 13",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -1604,12 +1608,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Café",
-      "website": "",
+      "website": "https://cafeheenenweer.eatbu.com/?lang=nl",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
     },
     {
       "id": "cafe-kalff-f2eb976",
@@ -1714,7 +1720,7 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Kanaalweg",
-      "website": "",
+      "website": "https://www.cafekeet.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
@@ -1724,7 +1730,9 @@
         "lon": 5.1096777,
         "method": "PDOK BAG-adres",
         "matched_address": "Kanaalweg 30, 3526KM Utrecht"
-      }
+      },
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
     },
     {
       "id": "cafe-lijn-4-2439c07",
