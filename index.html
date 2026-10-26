@@ -409,7 +409,16 @@
       frag.appendChild(card);
     }
     out.appendChild(frag);
-    if(layer){layer.clearLayers();pins.clear();for(const p of geocoded){
+    if(layer){
+      layer.clearLayers();pins.clear();
+      // Leaflet stacks newer markers on top. Unknown closing times are drawn
+      // FIRST, then progressively later known times; the selected marker last.
+      const paintOrder=[...geocoded].sort((a,b)=>
+        Number(a.id===selectedId)-Number(b.id===selectedId)||
+        (timeVal(closing(a))??-1)-(timeVal(closing(b))??-1)||
+        a.name.localeCompare(b.name,'nl')
+      );
+      for(const p of paintOrder){
       const color=colorFor(closing(p)),active=p.id===selectedId;
       const marker=L.circleMarker([p.geo.lat,p.geo.lon],{radius:active?11:7,color:active?'#1c384c':'#122033',weight:active?3:1.5,fillColor:color,fillOpacity:.95});
       const tooltip=document.createElement('span');tooltip.textContent=p.name+' · '+closingLabel(closing(p));
