@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-26 uit de locatiedatabase en onderzoeksverslagen.
 
-**250 geregistreerde bron-URL's**, 149 domeinen; gekoppeld aan **213 locaties**.
+**251 geregistreerde bron-URL's**, 150 domeinen; gekoppeld aan **213 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -135,6 +135,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | leclochard-utrecht.nl | 1 | 1 |
 | leen-restaurant.nl | 1 | 1 |
 | lefrenchcafe.nl | 1 | 1 |
+| lokaleregelgeving.overheid.nl | 1 | 0 |
 | maggy.club | 1 | 1 |
 | marktzicht030.nl | 1 | 1 |
 | maximusbrouwerij.nl | 1 | 1 |
@@ -629,6 +630,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://loft88.nl/](https://loft88.nl/) — website; Loft 88 Utrecht; bronveld gecontroleerd: 2026-10-26
 - [https://loft88.nl/vestigingen/](https://loft88.nl/vestigingen/) — openingstijden, sluitingstijden; Loft 88 Utrecht; bronveld gecontroleerd: 2026-10-26
+
+### lokaleregelgeving.overheid.nl
+
+- [https://lokaleregelgeving.overheid.nl/CVDR619964](https://lokaleregelgeving.overheid.nl/CVDR619964) — gemeentelijke_toegangsregel; algemene bron; bronveld gecontroleerd: onbekend
 
 ### luifelutrecht.nl
 

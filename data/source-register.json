@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 213,
-    "source_urls": 250,
-    "domains": 149,
+    "source_urls": 251,
+    "domains": 150,
     "direct_website_fields": 134
   },
   "discovery_sites": [
@@ -588,6 +588,11 @@
       "domain": "lefrenchcafe.nl",
       "source_pages": 1,
       "linked_venues": 1
+    },
+    {
+      "domain": "lokaleregelgeving.overheid.nl",
+      "source_pages": 1,
+      "linked_venues": 0
     },
     {
       "domain": "maggy.club",
@@ -5380,6 +5385,20 @@
       ],
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://lokaleregelgeving.overheid.nl/CVDR619964",
+      "domain": "lokaleregelgeving.overheid.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "gemeentelijke_toegangsregel"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
       "needs_review": false
     },
     {
