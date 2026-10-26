@@ -1,0 +1,248 @@
+{
+  "total": 195,
+  "with_coordinates": 147,
+  "without_coordinates": 48,
+  "added_in_this_run": 147,
+  "unmatched": [
+    {
+      "name": "Achter de Koekoek",
+      "address": "Noortstraat 1",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "B.I.T.O.N.",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Bierlokaal de Luifel",
+      "address": "Neude 35-36",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Bij Guusjes",
+      "address": "'s Gravesandestraat 27",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Boot 122",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "BoulesBitesBar",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Brothers in Law Taphouse",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Brouwerij Maximus",
+      "address": "Pratumplaats 2A",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café de Beurs",
+      "address": "Neude 37-39",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Café Heen en Weer",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Café Stockholm",
+      "address": "Bemuurde Weerd Oostzijde 40",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Chupitos Shooter Bar",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Bierkantine",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Drie Dorstige Herten",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Postillon",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Potdeksel",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Stadsgenoot",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "De Utrechter",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Dito",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "EKKO",
+      "address": "Bemuurde Weerd Westzijde 3",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Jan de Winter",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Jan Primus",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "K-Sjot",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Kaasbar",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "KABUL à GoGo",
+      "address": "Gietijzerstraat 3-5",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Kleine Max",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Knock Out Comedy Club",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "KweekVijver Utrecht",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Le Journal",
+      "address": "Neude 32-34",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Lebowski’s Speakeasy",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Nomono",
+      "address": "Bemuurde Weerd Oostzijde 13",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Olivier",
+      "address": "Achter Clarenburg 6a",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Orloff",
+      "address": "Donkere Gaard 8",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Poolcafé Hart van Utrecht",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Rocking Chair",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Rubens Proeflokaal",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Rum Club",
+      "address": "Oudegracht aan de Werf 111",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Sportcafé Olympos",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Stadsbrouwerij RoodNoot",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Stichtse Taveerne",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Talud9",
+      "address": "Donkere Gaard 9",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Taplokaal Gist",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Tijm",
+      "address": "Donkere Gaard 3",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Vallen Eetcafé-Zalencentrum",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Walden",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Werkspoorcafé",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Wijnbar Kurk",
+      "address": "",
+      "reason": "missing-address"
+    },
+    {
+      "name": "Wijnbar VinVin",
+      "address": "",
+      "reason": "missing-address"
+    }
+  ]
+}

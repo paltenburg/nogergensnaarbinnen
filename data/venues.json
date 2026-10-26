@@ -78,7 +78,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0950465,
+        "lon": 5.1219678,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 71, 3512AK Utrecht"
+      }
     },
     {
       "id": "averechts-6ca6b30",
@@ -111,7 +116,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0979346,
+        "lon": 5.1179024,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lijsterstraat 49, 3514TB Utrecht"
+      }
     },
     {
       "id": "b-i-t-o-n-e63cfb6",
@@ -176,7 +186,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0938106,
+        "lon": 5.1181767,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Loeff Berchmakerstraat 4, 3512TD Utrecht"
+      }
     },
     {
       "id": "bar-bistro-op-zuid-45d1ada",
@@ -208,7 +223,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.062432,
+        "lon": 5.1136142,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Neerlandiakade 2B, 3525BT Utrecht"
+      }
     },
     {
       "id": "bar-basta-5726ebe",
@@ -241,7 +261,12 @@
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0919847,
+        "lon": 5.1158059,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Drieharingstraat 10, 3511BJ Utrecht"
+      }
     },
     {
       "id": "bar-bet-039c462",
@@ -273,7 +298,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0897994,
+        "lon": 5.1214373,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wed 1-1, 3512JH Utrecht"
+      }
     },
     {
       "id": "bar-beton-76def5a",
@@ -306,7 +336,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0896253,
+        "lon": 5.109832,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Stationshal 6, 3511CE Utrecht"
+      }
     },
     {
       "id": "bar-cava-62b2118",
@@ -339,7 +374,12 @@
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0921736,
+        "lon": 5.1191026,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ganzenmarkt 12, 3512GD Utrecht"
+      }
     },
     {
       "id": "bar-josefien-a5ca3eb",
@@ -371,7 +411,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0952278,
+        "lon": 5.1227373,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 96, 3512AV Utrecht"
+      }
     },
     {
       "id": "bar-kaap-0af2c4b",
@@ -401,7 +446,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.1144667,
+        "lon": 5.1055065,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kaap Hoorndreef 66, 3563AW Utrecht"
+      }
     },
     {
       "id": "bar-patine-917d047",
@@ -434,7 +484,12 @@
         "https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht"
       ],
       "original_status": "Opening bevestigd op 8 oktober 2026",
-      "geo": null
+      "geo": {
+        "lat": 52.0926712,
+        "lon": 5.1166522,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 101, 3511AE Utrecht"
+      }
     },
     {
       "id": "bar-pleur-4b33634",
@@ -466,7 +521,12 @@
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open"
       ],
       "original_status": "Aangekondigd; opening niet bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0719708,
+        "lon": 5.1096777,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kanaalweg 30, 3526KM Utrecht"
+      }
     },
     {
       "id": "basis-709b7a8",
@@ -499,7 +559,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
-      "geo": null
+      "geo": {
+        "lat": 52.0928985,
+        "lon": 5.1167486,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 97, 3511AL Utrecht"
+      }
     },
     {
       "id": "bassment-7cf6c51",
@@ -531,7 +596,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0952308,
+        "lon": 5.1229663,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 102, 3512AV Utrecht"
+      }
     },
     {
       "id": "beatrix-theater-royal-bar-6a50c76",
@@ -561,7 +631,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0877792,
+        "lon": 5.1068375,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jaarbeursplein 6A, 3521AL Utrecht"
+      }
     },
     {
       "id": "beers-barrels-centrum-4c4daf0",
@@ -594,7 +669,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0918631,
+        "lon": 5.1166592,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 125, 3511AL Utrecht"
+      }
     },
     {
       "id": "beers-barrels-veilinghaven-ed5a9be",
@@ -626,7 +706,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0825114,
+        "lon": 5.1087395,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Veilinghavenkade 177, 3521AT Utrecht"
+      }
     },
     {
       "id": "bierlokaal-de-luifel-5c5dab3",
@@ -722,7 +807,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0950782,
+        "lon": 5.1293523,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Biltstraat 63, 3572AH Utrecht"
+      }
     },
     {
       "id": "bodytalk-03fa9ca",
@@ -756,7 +846,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0946162,
+        "lon": 5.1169088,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 64, 3511AS Utrecht"
+      }
     },
     {
       "id": "boot-122-45b992e",
@@ -852,7 +947,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.1177651,
+        "lon": 5.0261237,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Strandboulevard 222, 3543MA Utrecht"
+      }
     },
     {
       "id": "brothers-in-law-taphouse-8113a14",
@@ -949,7 +1049,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0928534,
+        "lon": 5.1166492,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 99, 3511AE Utrecht"
+      }
     },
     {
       "id": "cafe-biljart-cobus-e8e0677",
@@ -981,7 +1086,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0763909,
+        "lon": 5.1205348,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jutfaseweg 27, 3522HB Utrecht"
+      }
     },
     {
       "id": "cafe-claire-d29b9e5",
@@ -1014,7 +1124,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0926939,
+        "lon": 5.1185981,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Neude 31, 3512AG Utrecht"
+      }
     },
     {
       "id": "cafe-de-achtertuin-61a6f9a",
@@ -1044,7 +1159,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0939593,
+        "lon": 5.1186012,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 10, 3512AM Utrecht"
+      }
     },
     {
       "id": "cafe-de-beurs-d9ec97a",
@@ -1111,7 +1231,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0907909,
+        "lon": 5.1163689,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voor Clarenburg 4, 3511JE Utrecht"
+      }
     },
     {
       "id": "cafe-de-morgenster-ffab890",
@@ -1143,7 +1268,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0849832,
+        "lon": 5.1222999,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 323, 3511PC Utrecht"
+      }
     },
     {
       "id": "cafe-de-stad-5c6aafd",
@@ -1176,7 +1306,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0947003,
+        "lon": 5.1256527,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Jufferstraat 58, 3512EE Utrecht"
+      }
     },
     {
       "id": "cafe-de-windhoek-f51951b",
@@ -1208,7 +1343,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0912251,
+        "lon": 5.0901249,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Laan van Nieuw-Guinea 39, 3531JC Utrecht"
+      }
     },
     {
       "id": "cafe-de-zaak-516b7d2",
@@ -1242,7 +1382,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0921392,
+        "lon": 5.1202787,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Korte Minrebroederstraat 9, 3512GG Utrecht"
+      }
     },
     {
       "id": "cafe-derat-7d4767c",
@@ -1275,7 +1420,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0859698,
+        "lon": 5.1205798,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Smeestraat 37, 3511PT Utrecht"
+      }
     },
     {
       "id": "cafe-domkop-c1aa362",
@@ -1307,7 +1457,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0945195,
+        "lon": 5.1181327,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Loeff Berchmakerstraat 34, 3512TD Utrecht"
+      }
     },
     {
       "id": "cafe-flater-334faf2",
@@ -1340,7 +1495,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0918929,
+        "lon": 5.1175676,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 140, 3511AZ Utrecht"
+      }
     },
     {
       "id": "cafe-fokus-25837ee",
@@ -1372,7 +1532,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0983061,
+        "lon": 5.1200871,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Koekoekstraat 25, 3514CS Utrecht"
+      }
     },
     {
       "id": "cafe-heen-en-weer-0a8d54c",
@@ -1437,7 +1602,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0949261,
+        "lon": 5.11629,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 47, 3511AC Utrecht"
+      }
     },
     {
       "id": "cafe-kanaalzicht-c06329a",
@@ -1470,7 +1640,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0901228,
+        "lon": 5.0906157,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Keulsekade 23, 3531JX Utrecht"
+      }
     },
     {
       "id": "cafe-keet-b7e333b",
@@ -1502,7 +1677,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0719708,
+        "lon": 5.1096777,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kanaalweg 30, 3526KM Utrecht"
+      }
     },
     {
       "id": "cafe-lijn-4-2439c07",
@@ -1535,7 +1715,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0836209,
+        "lon": 5.1232427,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Twijnstraat 3, 3511ZG Utrecht"
+      }
     },
     {
       "id": "cafe-lombok-ed33122",
@@ -1565,7 +1750,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0931657,
+        "lon": 5.0968214,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vleutenseweg 228, 3532HP Utrecht"
+      }
     },
     {
       "id": "cafe-marktzicht-b5942d0",
@@ -1599,7 +1789,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0951156,
+        "lon": 5.1183907,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Breedstraat 4, 3512TW Utrecht"
+      }
     },
     {
       "id": "cafe-ome-willem-fd1198a",
@@ -1632,7 +1827,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0936499,
+        "lon": 5.1132832,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willemstraat 12, 3511RK Utrecht"
+      }
     },
     {
       "id": "cafe-ons-honk-4709906",
@@ -1665,7 +1865,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0761788,
+        "lon": 5.1204248,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jutfaseweg 28, 3522HC Utrecht"
+      }
     },
     {
       "id": "cafe-stockholm-41ae3c5",
@@ -1731,7 +1936,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0950931,
+        "lon": 5.129602,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Biltstraat 69, 3572AH Utrecht"
+      }
     },
     {
       "id": "cafe-van-wegen-bef6c2e",
@@ -1764,7 +1974,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0936291,
+        "lon": 5.114193,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Koestraat 19, 3511RL Utrecht"
+      }
     },
     {
       "id": "cafe-voortuin-6ee1714",
@@ -1798,7 +2013,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0938088,
+        "lon": 5.1184812,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 4, 3512AM Utrecht"
+      }
     },
     {
       "id": "cafe-vredenburg-2af0720",
@@ -1831,7 +2051,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0930531,
+        "lon": 5.1124259,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vredenburg 39, 3511BD Utrecht"
+      }
     },
     {
       "id": "cafe-weerdzicht-d278153",
@@ -1865,7 +2090,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0960637,
+        "lon": 5.1159258,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 1, 3511AB Utrecht"
+      }
     },
     {
       "id": "cafe-willem-slok-7402de0",
@@ -1899,7 +2129,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0932223,
+        "lon": 5.11229,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Korte Koestraat 2, 3511RP Utrecht"
+      }
     },
     {
       "id": "cafe-t-oude-pierement-254647b",
@@ -1932,7 +2167,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0936127,
+        "lon": 5.1132871,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willemstraat 10, 3511RK Utrecht"
+      }
     },
     {
       "id": "cambridgebar-c5c7346",
@@ -1965,7 +2205,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.0828377,
+        "lon": 5.1723305,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Cambridgelaan 901, 3584DW Utrecht"
+      }
     },
     {
       "id": "camping-ganspoort-a39449c",
@@ -1995,7 +2240,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0761321,
+        "lon": 5.121471,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Helling 87, 3523CB Utrecht"
+      }
     },
     {
       "id": "champaneria-los-amigos-560e1d0",
@@ -2027,7 +2277,12 @@
         "https://www.uitutrecht.com/uitgaan/page/2/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.095131,
+        "lon": 5.1207058,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 56, 3512AR Utrecht"
+      }
     },
     {
       "id": "chupitos-shooter-bar-11cade7",
@@ -2092,7 +2347,12 @@
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0908283,
+        "lon": 5.1159262,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voor Clarenburg 7, 3511JE Utrecht"
+      }
     },
     {
       "id": "club-maggy-c0cbd28",
@@ -2125,7 +2385,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0917678,
+        "lon": 5.1183468,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 154, 3511AL Utrecht"
+      }
     },
     {
       "id": "club-poema-445cf69",
@@ -2158,7 +2423,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0919624,
+        "lon": 5.1155778,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Drieharingstraat 22, 3511BJ Utrecht"
+      }
     },
     {
       "id": "dbs-ef68f14",
@@ -2191,7 +2461,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.1057063,
+        "lon": 5.0833383,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vlampijpstraat 63, 3534AR Utrecht"
+      }
     },
     {
       "id": "de-apotheek-4ced9d6",
@@ -2223,7 +2498,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0893927,
+        "lon": 5.1143221,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Catharijnesingel 57, 3511GE Utrecht"
+      }
     },
     {
       "id": "de-bierkantine-80af740",
@@ -2320,7 +2600,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
-      "geo": null
+      "geo": {
+        "lat": 52.0768342,
+        "lon": 5.1217676,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Helling 7, 3523CB Utrecht"
+      }
     },
     {
       "id": "de-jans-bar-c384b76",
@@ -2352,7 +2637,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.0937993,
+        "lon": 5.1205585,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Janskerkhof 22, 3512BN Utrecht"
+      }
     },
     {
       "id": "de-kargadoor-5132a6b",
@@ -2385,7 +2675,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0953468,
+        "lon": 5.1168292,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 36, 3511AP Utrecht"
+      }
     },
     {
       "id": "de-kromme-haring-7b0d8eb",
@@ -2417,7 +2712,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0757559,
+        "lon": 5.1076387,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Europalaan 2C, 3526KS Utrecht"
+      }
     },
     {
       "id": "de-nijverheid-9a7ba45",
@@ -2451,7 +2751,12 @@
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
-      "geo": null
+      "geo": {
+        "lat": 52.1003491,
+        "lon": 5.0835228,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nijverheidskade 15, 3534AZ Utrecht"
+      }
     },
     {
       "id": "de-ping-pong-club-3e4df3c",
@@ -2485,7 +2790,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0975321,
+        "lon": 5.0992355,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Concordiastraat 80, 3551EM Utrecht"
+      }
     },
     {
       "id": "de-poort-3eccded",
@@ -2518,7 +2828,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0819402,
+        "lon": 5.1236099,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Tolsteegbarrière 2, 3511ZD Utrecht"
+      }
     },
     {
       "id": "de-postillon-de08b1a",
@@ -2647,7 +2962,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0975321,
+        "lon": 5.0992355,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Concordiastraat 80, 3551EM Utrecht"
+      }
     },
     {
       "id": "de-utrechter-0cd006e",
@@ -2744,7 +3064,12 @@
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.094713,
+        "lon": 5.1186159,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Predikherenstraat 21, 3512TM Utrecht"
+      }
     },
     {
       "id": "eetcafe-de-baron-ac00c3c",
@@ -2774,7 +3099,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0974774,
+        "lon": 5.0635634,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Brusselplein 185, 3541CH Utrecht"
+      }
     },
     {
       "id": "ekko-5a297a7",
@@ -2839,7 +3169,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.063856,
+        "lon": 5.1100733,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Eendrachtlaan 100, 3526LB Utrecht"
+      }
     },
     {
       "id": "en-public-fc651ee",
@@ -2871,7 +3206,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0999208,
+        "lon": 5.1280421,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Blauwkapelseweg 30, 3572KC Utrecht"
+      }
     },
     {
       "id": "feestcafe-de-kneus-5b22e78",
@@ -2904,7 +3244,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.092836,
+        "lon": 5.1262905,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nobelstraat 303, 3512EM Utrecht"
+      }
     },
     {
       "id": "florin-utrecht-d3950b7",
@@ -2938,7 +3283,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0932259,
+        "lon": 5.1239575,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nobelstraat 2, 3512EN Utrecht"
+      }
     },
     {
       "id": "gastrobar-florijn-1803744",
@@ -2970,7 +3320,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0870606,
+        "lon": 5.0961267,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Muntkade 1A, 3531AK Utrecht"
+      }
     },
     {
       "id": "ginny-348e59e",
@@ -3002,7 +3357,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0928541,
+        "lon": 5.1260612,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nobelstraat 283, 3512EM Utrecht"
+      }
     },
     {
       "id": "grand-bar-brasserie-marie-05f9f31",
@@ -3035,7 +3395,12 @@
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0900144,
+        "lon": 5.1167621,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 14, 3511LJ Utrecht"
+      }
     },
     {
       "id": "grand-cafe-de-vrienden-45afa11",
@@ -3067,7 +3432,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.0931389,
+        "lon": 5.1248627,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nobelstraat 8, 3512EN Utrecht"
+      }
     },
     {
       "id": "grieks-cafe-athene-59104e7",
@@ -3100,7 +3470,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0950139,
+        "lon": 5.1172094,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jacobijnenstraat 6, 3512TH Utrecht"
+      }
     },
     {
       "id": "het-gegeven-paard-b8698f6",
@@ -3132,7 +3507,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0923541,
+        "lon": 5.1132241,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
+      }
     },
     {
       "id": "hofman-utrecht-bf68a6c",
@@ -3167,7 +3547,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0942392,
+        "lon": 5.1211103,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Janskerkhof 17A, 3512BM Utrecht"
+      }
     },
     {
       "id": "jan-de-winter-720539c",
@@ -3263,7 +3648,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0895047,
+        "lon": 5.1182721,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 50, 3511LM Utrecht"
+      }
     },
     {
       "id": "k-sjot-b8bcdc7",
@@ -3393,7 +3783,12 @@
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.075551,
+        "lon": 5.1068634,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Europalaan 2B, 3526KS Utrecht"
+      }
     },
     {
       "id": "kafe-belgie-b428a39",
@@ -3426,7 +3821,12 @@
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0890523,
+        "lon": 5.1215103,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 196, 3511NR Utrecht"
+      }
     },
     {
       "id": "kitchen-bar-danel-4c5a5ea",
@@ -3456,7 +3856,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0923541,
+        "lon": 5.1132241,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
+      }
     },
     {
       "id": "klein-berlijn-3f60cdd",
@@ -3489,7 +3894,12 @@
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0766602,
+        "lon": 5.1219743,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Helling 22, 3523CC Utrecht"
+      }
     },
     {
       "id": "kleine-max-8fc53ac",
@@ -3648,7 +4058,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0752101,
+        "lon": 5.1214322,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Heuveloord 140, 3523CK Utrecht"
+      }
     },
     {
       "id": "lebowski-4b66c94",
@@ -3681,7 +4096,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0907799,
+        "lon": 5.1208329,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Domplein 17, 3512JD Utrecht"
+      }
     },
     {
       "id": "lebowskis-speakeasy-2a1a46d",
@@ -3746,7 +4166,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0816545,
+        "lon": 5.1234931,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Tolsteegbrug 3, 3511ZN Utrecht"
+      }
     },
     {
       "id": "little-dublin-de45a9d",
@@ -3780,7 +4205,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0899705,
+        "lon": 5.1176925,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 8, 3511LH Utrecht"
+      }
     },
     {
       "id": "louis-hartlooper-complex-cad32d9",
@@ -3810,7 +4240,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0817878,
+        "lon": 5.1241932,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Tolsteegbrug 1, 3511ZN Utrecht"
+      }
     },
     {
       "id": "manners-cocktail-lounge-1a48ee6",
@@ -3842,7 +4277,12 @@
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0833073,
+        "lon": 5.1232871,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Twijnstraat 15, 3511ZG Utrecht"
+      }
     },
     {
       "id": "mick-oconnells-317cc7c",
@@ -3875,7 +4315,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0925151,
+        "lon": 5.1225583,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jansdam 3, 3512HA Utrecht"
+      }
     },
     {
       "id": "moira-5421586",
@@ -3907,7 +4352,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0970887,
+        "lon": 5.1239812,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wolvenstraat 10, 3512CH Utrecht"
+      }
     },
     {
       "id": "molencafe-de-ster-b93b14b",
@@ -3937,7 +4387,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0897095,
+        "lon": 5.1005359,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Molenpark 3, 3531ET Utrecht"
+      }
     },
     {
       "id": "morrow-af608b0",
@@ -3969,7 +4424,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0924094,
+        "lon": 5.1294461,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nachtegaalstraat 29, 3581AB Utrecht"
+      }
     },
     {
       "id": "mr-finch-9c43b18",
@@ -4001,7 +4461,12 @@
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0920859,
+        "lon": 5.1160419,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Drieharingstraat 5, 3511BH Utrecht"
+      }
     },
     {
       "id": "nar-6a47576",
@@ -4033,7 +4498,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.1007404,
+        "lon": 5.0840391,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nijverheidsweg 6, 3534AM Utrecht"
+      }
     },
     {
       "id": "nieuwe-dikke-dries-c9188df",
@@ -4066,7 +4536,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0919923,
+        "lon": 5.1215786,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudkerkhof 36, 3512GL Utrecht"
+      }
     },
     {
       "id": "nieuwe-dikke-dries-oost-73e397f",
@@ -4098,7 +4573,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.087384,
+        "lon": 5.1444286,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willem de Zwijgerstraat 31, 3583HB Utrecht"
+      }
     },
     {
       "id": "nomono-ce51c6e",
@@ -4195,7 +4675,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0723925,
+        "lon": 5.0881156,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Rooseveltlaan 505, 3527AD Utrecht"
+      }
     },
     {
       "id": "oproer-biercafe-2b0210c",
@@ -4228,7 +4713,12 @@
         "https://www.uitutrecht.com/uitgaan/page/6/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.111266,
+        "lon": 5.1115757,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Beyaertdreef 5, 3562LG Utrecht"
+      }
     },
     {
       "id": "orloff-5c10a36",
@@ -4291,7 +4781,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0796096,
+        "lon": 5.1235248,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oosterkade 18, 3582AT Utrecht"
+      }
     },
     {
       "id": "ouwe-dikke-dries-b26481a",
@@ -4325,7 +4820,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0946495,
+        "lon": 5.1130375,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Waterstraat 32, 3511BW Utrecht"
+      }
     },
     {
       "id": "olearys-e541c8d",
@@ -4358,7 +4858,12 @@
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0991003,
+        "lon": 5.115631,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Adelaarstraat 23, 3514CA Utrecht"
+      }
     },
     {
       "id": "paloma-a372d3a",
@@ -4388,7 +4893,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0901054,
+        "lon": 5.1171672,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 11, 3511LJ Utrecht"
+      }
     },
     {
       "id": "papis-comfort-kitchen-bf4bc0e",
@@ -4420,7 +4930,12 @@
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0833073,
+        "lon": 5.1232871,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Twijnstraat 15, 3511ZG Utrecht"
+      }
     },
     {
       "id": "pjay-ec4ee67",
@@ -4453,7 +4968,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0949343,
+        "lon": 5.126799,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Biltstraat 1, 3572AA Utrecht"
+      }
     },
     {
       "id": "poolcafe-hart-van-utrecht-166e067",
@@ -4515,7 +5035,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0848029,
+        "lon": 5.127342,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nieuwegracht 197, 3512LN Utrecht"
+      }
     },
     {
       "id": "quignon-f8af1d8",
@@ -4548,7 +5073,12 @@
         "https://www.uitutrecht.com/uitgaan/page/6/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0921543,
+        "lon": 5.1171458,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 134, 3511AX Utrecht"
+      }
     },
     {
       "id": "restaurant-de-zakkendrager-ae31744",
@@ -4578,7 +5108,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0926076,
+        "lon": 5.1156262,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Zakkendragerssteeg 26, 3511AA Utrecht"
+      }
     },
     {
       "id": "restaurant-pieros-62374f3",
@@ -4608,7 +5143,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0808861,
+        "lon": 5.1244917,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ledig Erf 10, 3582EA Utrecht"
+      }
     },
     {
       "id": "restaurant-queens-4d55fcd",
@@ -4638,7 +5178,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0877792,
+        "lon": 5.1068375,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jaarbeursplein 6A, 3521AL Utrecht"
+      }
     },
     {
       "id": "restaurant-west-acdbb97",
@@ -4668,7 +5213,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0940606,
+        "lon": 5.0932982,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vleutenseweg 433, 3532HJ Utrecht"
+      }
     },
     {
       "id": "rocking-chair-c8ed632",
@@ -4733,7 +5283,12 @@
         "https://www.debuik.nl/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0944145,
+        "lon": 5.1258171,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lucasbolwerk 21, 3512EJ Utrecht"
+      }
     },
     {
       "id": "rubens-proeflokaal-94b7bf6",
@@ -4795,7 +5350,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0928609,
+        "lon": 5.1220369,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Korte Jansstraat 23, 3512GM Utrecht"
+      }
     },
     {
       "id": "rum-club-623b9bd",
@@ -4861,7 +5421,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.095466,
+        "lon": 5.1167966,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 32, 3511AP Utrecht"
+      }
     },
     {
       "id": "slachtstraat-filmtheater-3db7b64",
@@ -4891,7 +5456,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0930925,
+        "lon": 5.1196662,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Slachtstraat 5, 3512BC Utrecht"
+      }
     },
     {
       "id": "soia-66487bc",
@@ -4923,7 +5493,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Actueel aanbod en openingstijden bevestigd op de eigen website (oktober 2026)",
-      "geo": null
+      "geo": {
+        "lat": 52.0949409,
+        "lon": 5.0787975,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kanaalweg 199, 3533HL Utrecht"
+      }
     },
     {
       "id": "sportcafe-olympos-d566186",
@@ -4988,7 +5563,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0677308,
+        "lon": 5.116874,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Verlengde Hoogravenseweg 203, 3523KJ Utrecht"
+      }
     },
     {
       "id": "springhaver-b16db00",
@@ -5018,7 +5598,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0881695,
+        "lon": 5.1191633,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Springweg 50, 3511VS Utrecht"
+      }
     },
     {
       "id": "stadsbrouwerij-roodnoot-9455ff5",
@@ -5080,7 +5665,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0930746,
+        "lon": 5.1273786,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lucasbolwerk 24, 3512EJ Utrecht"
+      }
     },
     {
       "id": "stathe-2a53cb3",
@@ -5113,7 +5703,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0944882,
+        "lon": 5.1154103,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Rozenstraat 15, 3511BV Utrecht"
+      }
     },
     {
       "id": "stichtse-taveerne-88f4900",
@@ -5178,7 +5773,12 @@
         "https://www.debuik.nl/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.1012075,
+        "lon": 5.1211912,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willem van Noortstraat 65, 3514GC Utrecht"
+      }
     },
     {
       "id": "talud9-c1e076b",
@@ -5275,7 +5875,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.093343,
+        "lon": 5.1190352,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Neude 4, 3512AD Utrecht"
+      }
     },
     {
       "id": "the-fools-cocktail-bar-04d8c3e",
@@ -5309,7 +5914,12 @@
         "https://utrechtcocktailweek.nl/index.php/deelnemers/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.088577,
+        "lon": 5.1221872,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Hamburgerstraat 14, 3512NR Utrecht"
+      }
     },
     {
       "id": "the-malt-vault-9ed8152",
@@ -5341,7 +5951,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0948516,
+        "lon": 5.1167853,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 54, 3511AC Utrecht"
+      }
     },
     {
       "id": "theater-kikker-a410731",
@@ -5371,7 +5986,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0922482,
+        "lon": 5.1192287,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ganzenmarkt 14, 3512GD Utrecht"
+      }
     },
     {
       "id": "theatercafe-de-bastaard-f94da0e",
@@ -5405,7 +6025,12 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.094048,
+        "lon": 5.1200572,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jansveld 17, 3512BD Utrecht"
+      }
     },
     {
       "id": "tijm-d1d43a8",
@@ -5469,7 +6094,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0947609,
+        "lon": 5.1256703,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Jufferstraat 62, 3512EE Utrecht"
+      }
     },
     {
       "id": "tivolivredenburg-869d218",
@@ -5502,7 +6132,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
-      "geo": null
+      "geo": {
+        "lat": 52.0923541,
+        "lon": 5.1132241,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
+      }
     },
     {
       "id": "trapop-058033a",
@@ -5535,7 +6170,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.095212,
+        "lon": 5.0668524,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Hof van Monaco 8, 3541DT Utrecht"
+      }
     },
     {
       "id": "tripleclub-dbaf6ca",
@@ -5567,7 +6207,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0934438,
+        "lon": 5.1162078,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Viestraat 1, 3511BK Utrecht"
+      }
     },
     {
       "id": "ubica-b6a63d9",
@@ -5597,7 +6242,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0924584,
+        "lon": 5.1197177,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ganzenmarkt 24, 3512GE Utrecht"
+      }
     },
     {
       "id": "union-house-35b4945",
@@ -5629,7 +6279,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0872534,
+        "lon": 5.121507,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 245A, 3511NL Utrecht"
+      }
     },
     {
       "id": "vallen-eetcafe-zalencentrum-3c0ef4f",
@@ -5691,7 +6346,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0950355,
+        "lon": 5.1168884,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 50, 3511AR Utrecht"
+      }
     },
     {
       "id": "vandestreek-proeflokaal-590917b",
@@ -5721,7 +6381,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.1274745,
+        "lon": 5.0869524,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ontariodreef 43, 3565BC Utrecht"
+      }
     },
     {
       "id": "villa-orloff-c2539fb",
@@ -5754,7 +6419,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0928287,
+        "lon": 5.1264863,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lucasbolwerk 1, 3512EG Utrecht"
+      }
     },
     {
       "id": "vondels-chefs-bar-7fde08a",
@@ -5786,7 +6456,12 @@
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0783504,
+        "lon": 5.1152293,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Croeselaan 270, 3521CL Utrecht"
+      }
     },
     {
       "id": "walden-bd3fa06",
@@ -5850,7 +6525,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Volgens bedrijfsvermelding tijdelijk gesloten; nader controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.1054999,
+        "lon": 5.0801033,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Tractieweg 41, 3534AP Utrecht"
+      }
     },
     {
       "id": "werkspoorcafe-1e5e832",
@@ -5944,7 +6624,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0919402,
+        "lon": 5.1186329,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 158, 3511AZ Utrecht"
+      }
     },
     {
       "id": "wijnbar-vinvin-0f780a8",
@@ -6009,7 +6694,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.093137,
+        "lon": 5.1191399,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Neude 2, 3512AD Utrecht"
+      }
     },
     {
       "id": "winkel-van-sinkel-27c2af5",
@@ -6041,7 +6731,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0919402,
+        "lon": 5.1186329,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 158, 3511AZ Utrecht"
+      }
     },
     {
       "id": "woolloomooloo-0a91b60",
@@ -6074,7 +6769,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren",
-      "geo": null
+      "geo": {
+        "lat": 52.0938857,
+        "lon": 5.1222616,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Janskerkhof 14, 3512BL Utrecht"
+      }
     },
     {
       "id": "zindering-3782b89",
@@ -6104,7 +6804,12 @@
       "website": "",
       "other_sources": [],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0930746,
+        "lon": 5.1273786,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lucasbolwerk 24, 3512EJ Utrecht"
+      }
     },
     {
       "id": "t-gras-van-de-buren-29923a1",
@@ -6137,7 +6842,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0936073,
+        "lon": 5.1198127,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Jansstraat 16, 3512BB Utrecht"
+      }
     },
     {
       "id": "t-neutje-727f3da",
@@ -6169,7 +6879,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0926682,
+        "lon": 5.118539,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Neude 30, 3512AG Utrecht"
+      }
     },
     {
       "id": "t-oude-pothuys-c89ea4d",
@@ -6203,7 +6918,12 @@
         "https://www.ontdek-utrecht.nl/collectie/muziekpodia/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0861697,
+        "lon": 5.121867,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 279, 3511PA Utrecht"
+      }
     },
     {
       "id": "t-pakhuis-e59df99",
@@ -6236,7 +6956,12 @@
         "https://www.uitagenda.nl/index.php/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0938752,
+        "lon": 5.1205985,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Janskerkhof 21, 3512BM Utrecht"
+      }
     },
     {
       "id": "t-pandje-323e93f",
@@ -6269,7 +6994,12 @@
         "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.092948,
+        "lon": 5.1249476,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nobelstraat 193, 3512EM Utrecht"
+      }
     },
     {
       "id": "t-taphuys-508fc53",
@@ -6301,7 +7031,12 @@
         "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.0898804,
+        "lon": 5.1183174,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 3, 3511LH Utrecht"
+      }
     }
   ]
 }
