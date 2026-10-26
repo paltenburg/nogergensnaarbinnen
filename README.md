@@ -6,15 +6,17 @@ Gratis, zelfstandige interactieve horecakaart. **Utrecht is de eerste regio**, m
 
 **Alle teksten, beschrijvingen en samengestelde locatie-informatie op de website zijn met AI gegenereerd of verwerkt.** Het register is mede op externe bronnen gebaseerd, maar niet alle gegevens zijn onafhankelijk of actueel gecontroleerd. Controleer praktische informatie bij de betreffende locatie. Deze melding staat zichtbaar bij de filters en ook in de detailvensters op de kaart.
 
-## Directe websitelinks
+## Directe websitelinks en bronnen
 
-Per 26 oktober 2026 bevatten **77 van de 195** horecarecords een directe website-URL. Dit omvat 9 bestaande links, 42 aanvullend gevonden locatie-websites en 26 URL's die eerder als officiële bron voor sluitingstijden waren vastgelegd. Sommige van die 26 zijn directe subpagina's, geen homepage. Voor 118 records is nog geen directe website ingevuld; de kaart toont daar **Website zoeken** in plaats van een onbevestigde link. Bronnen voor opening/sluiting blijven apart beschikbaar.
+Per 26 oktober 2026 bevatten **133 van de 212** horecarecords een vastgelegde directe website-URL. Voor de overige 79 toont de website een expliciete zoeklink; zo'n zoeklink is geen geverifieerde website. De directe URL's, openings- en sluitingsbronnen, achtergrondlinks en eerdere onderzoeksnotities staan ook in het **[bronnenregister](data/source-register.md)**.
 
-Locaties kunnen beperkte toegang hebben (zoals een af te huren feestlocatie). Een website-URL bevestigt **niet** dat vrije inloop mogelijk is.
+**Bronnenregister automatisch bijgewerkt:** bij elke nieuwe databankpublicatie verzamelt `scripts/build_source_registry.py` alle beschikbare URL's, koppelt ze aan locaties en gebruiksdoel (website, openingstijden, sluitingstijden, laatste toegang, achtergrond), en bewaart de reeds genoteerde controledatums. De [machineleesbare versie](data/source-register.json) heeft bovendien een lijst met ontbrekende websites en onzekere tijden. Curated vindplaatsen voor nieuwe zaken omvatten Centrum Utrecht, Ontdek Utrecht, Uit Utrecht, Uitagenda en De Buik.
+
+**Belangrijk:** het register is geen automatische websitecontrole. Een genoteerde link bewijst niet dat een locatie momenteel open is; bronvelden zonder expliciete controledatum krijgen geen verzonnen datum. Bij de volgende onderzoeksronde moeten de bronnen echt opnieuw worden geraadpleegd en de gegevens mét URL en controle-/wijzigingsdatum worden bijgewerkt.
 
 ## Gegevens
 
-De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Van **33 locaties ontbrak een adres** in die bron. De data is niet uitputtend, en openingstijden zijn niet beschikbaar; alleen sluitingstijden zijn opgenomen. Zonder openingstijden kan de app **geen 'nu open'** garanderen.
+De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Inmiddels bevat de masterdatabase **212 locaties**, met aanvullend gevonden zaken en correcties sinds 25 oktober 2026. Bij een deel van de locaties zijn ook openingstijden en soms een tijdstip voor laatste toegang bekend, maar de data is niet uitputtend. Zonder actuele openingstijden én laatste-toegangstijden kan de app **geen 'nu open' of gegarandeerde binnenkomst** beloven.
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
@@ -29,9 +31,9 @@ Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vr
 ## Kaartweergave en links
 
 - Aankomsttijd: stappen van **30 minuten** in de keuzelijst; **Nu** gebruikt de exacte actuele tijd in Nederland.
-- Alleen locaties met een sluitingstijd **strikt later dan** het gekozen tijdstip worden getoond. Laatste toegang blijft onbekend.
+- Alleen locaties met een sluitingstijd **strikt later dan** het gekozen tijdstip worden getoond. Waar een laatste-toegangstijd bekend is, wordt die ook toegepast. De meeste locaties hebben deze informatie nog niet.
 - Grijze OpenStreetMap-ondergrond. Markers voor sluitingstijden blijven gekleurd.
-- Elke locatiekaart biedt **Website** als een siteadres bekend is, of een link naar een officiële bron voor sluitingstijden waar die beschikbaar is. Waar geen directe site bekend is, staat expliciet **Website zoeken** (Google-zoekopdracht, geen geverifieerde site). Er is ook een Google Maps-link. De kaartpopup toont dezelfde opties.
+- Elke locatiekaart biedt **Website** als een siteadres bekend is, anders expliciet **Website zoeken**. De bronvermelding en extra informatie staan in het bijbehorende kaartje, niet in een grote kaartpopup.
 
 ## Fouten melden (‘Klopt niet’)
 
