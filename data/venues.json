@@ -601,12 +601,14 @@
       "closing_quality": "Geen geverifieerde sluitingstijd",
       "closing_source": "",
       "checked_on": "",
-      "closing_notes": "",
+      "closing_notes": "Geen officieel sluitingsuur gevonden. Eigen pagina's spreken elkaar tegen over ma/di (normale week vs acties); niet aannemen dat de zaak dan open of gesloten is.",
       "features": "Klein restaurant / borrel",
       "website": "https://barbasta.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
-        "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
+        "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/",
+        "https://barbasta.nl/pastadeal/",
+        "https://barbasta.nl/over-ons/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -616,7 +618,19 @@
         "matched_address": "Drieharingstraat 10, 3511BJ Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://barbasta.nl/",
+      "opening_checked_on": "2026-10-26",
+      "opening_notes": "Eigen hoofdpagina noemt ma/di doorgaans gesloten, maar enkele eigen subpagina's vermelden op ma/di vanaf 17:00 en vakantie-uitzonderingen. Ma/di daarom onbekend; overige dagen openen om 12:00. Geen sluitingsuur gepubliceerd."
     },
     {
       "id": "bar-bet-039c462",
@@ -1317,18 +1331,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://bodytalk-utrecht.metro.bar/?lang=nl",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële bedrijfswebsite publiceert volledige weekuren.",
       "features": "LHBTIQ+ uitgaanscafé",
       "website": "https://bodytalk-utrecht.metro.bar/?lang=nl",
       "other_sources": [
@@ -1344,7 +1358,18 @@
         "matched_address": "Oudegracht 64, 3511AS Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://bodytalk-utrecht.metro.bar/?lang=nl",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "boot-122-45b992e",
@@ -1486,6 +1511,92 @@
       "opening_checked_on": "2026-10-26"
     },
     {
+      "id": "broadway-american-steakhouse-20261026",
+      "name": "Broadway American Steakhouse",
+      "type": "Restaurant met bar",
+      "address": "Oudegracht aan de Werf 139",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Eigen website noemt wijn, bier en cocktails, ook aan de bar",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Keukentijden gepubliceerd, geen bar-sluiting bevestigd",
+      "closing_source": "https://www.steaksandribs.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële website vermeldt KEUKENTIJDEN ma-wo 16:30-21:00, do-vr 16:30-21:30, za 16:00-21:30, zo 16:00-21:00; dit zijn NIET bewezen café-openings- of sluitingsuren. Daarom geen tijden ingevuld.",
+      "features": "Cocktails, bar aan de werf",
+      "website": "https://www.steaksandribs.nl/",
+      "other_sources": [
+        "https://www.steaksandribs.nl/"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.steaksandribs.nl/contact/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
+      "id": "broei-utrecht-20261026",
+      "name": "BROEI Utrecht",
+      "type": "Restaurant/borrelcafé",
+      "address": "Oosterkade 24",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Borrelplek volgens eigen site; concreet alcoholaanbod nog afzonderlijk verifiëren",
+      "selection": "Nog te controleren",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.restaurant-broei.com/utrecht",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen site noemt 09:00–23:00, maar enkele gidsen 09:00–22:00; officiële uren hebben voorrang. Alcoholaanbod nog niet rechtstreeks vastgesteld.",
+      "features": "Plantaardig, borrelen, terras",
+      "website": "https://www.restaurant-broei.com/utrecht",
+      "other_sources": [
+        "https://www.debuik.nl/utrecht/restaurant/broei"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "opening_source": "https://www.restaurant-broei.com/utrecht",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "brothers-in-law-taphouse-8113a14",
       "name": "Brothers in Law Taphouse",
       "type": "Biercafé",
@@ -1619,18 +1730,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.oudepierement.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Op ma, di, wo en zo kan de zaak bij gezelligheid tot maximaal 00:00 openblijven. Feesten buiten tijden mogelijk.",
       "features": "Dansen in weekend",
       "website": "https://www.oudepierement.nl/",
       "other_sources": [
@@ -1645,7 +1756,18 @@
         "matched_address": "Willemstraat 10, 3511RK Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.oudepierement.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-biljart-cobus-e8e0677",
@@ -2502,18 +2624,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "20:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafekanaalzicht.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen site geeft café- én keukentijd: lunch apart 12:00-15:00; aangenomen dat cafe/keuken-uren op contactpagina volledige horecavermelding betreffen.",
       "features": "Borrel / terras",
       "website": "https://www.cafekanaalzicht.nl/",
       "other_sources": [
@@ -2528,7 +2650,18 @@
         "matched_address": "Keulsekade 23, 3531JX Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.cafekanaalzicht.nl/contact/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-keet-b7e333b",
@@ -2842,18 +2975,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://cafetantedoor.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Exploitant noemt gepubliceerde sluitingstijden onder voorbehoud: bij gezelligheid kan de zaak langer openblijven; zondag sport soms al vanaf 14:00.",
       "features": "Biltstraat",
       "website": "https://cafetantedoor.nl/",
       "other_sources": [
@@ -2867,7 +3000,18 @@
         "matched_address": "Biltstraat 69, 3572AH Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://cafetantedoor.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "cafe-van-wegen-bef6c2e",
@@ -3285,23 +3429,26 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Website exploitantengroep, ondersteund door De Buik; primaire site zegt 'laat'",
+      "closing_source": "https://werkenbijutrechtsehorecagroep.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen Club Claar-site noemt di-za 11:00 tot 'laat' en zo 12:00 tot 'laat', geen vast sluituur; exploitantengroep en De Buik geven 23:00/01:00/22:00. Andere Centrum Utrecht-gids noemt dinsdag gesloten, dus voor dinsdag is de bronstatus onzeker.",
       "features": "Borrel",
       "website": "https://clubclaar.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/2/",
-        "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/"
+        "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/",
+        "https://clubclaar.nl/contact/",
+        "https://www.debuik.nl/utrecht/restaurant/club-claar",
+        "https://centrumutrecht.nl/company/club-claar/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -3311,7 +3458,18 @@
         "matched_address": "Voor Clarenburg 7, 3511JE Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://werkenbijutrechtsehorecagroep.nl/contact/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "club-maggy-c0cbd28",
@@ -3474,7 +3632,7 @@
       "id": "de-bierkantine-80af740",
       "name": "De Bierkantine",
       "type": "Biercafé",
-      "address": "",
+      "address": "Ravellaan 96",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -3482,18 +3640,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://debierkantine.com/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Adres Ravellaan 96 en reguliere woensdag-zondag opening gecontroleerd op officiële website.",
       "features": "Bier; Speciaalbier",
       "website": "https://debierkantine.com/",
       "other_sources": [
@@ -3502,7 +3660,18 @@
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null,
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://debierkantine.com/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "de-drie-dorstige-herten-d5c9f1a",
@@ -3752,24 +3921,25 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Utrechtse toeristische gids; primaire site niet bevestigd",
+      "closing_source": "https://www.discover-utrecht.com/location/ping-pong-club/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Openingstijden toeristische gids; Cylex volgt dezelfde dagafsluiting, maar sommige andere gidsen geven afwijkende starttijd. Ping Pong Club en De Troef delen het adres maar zijn afzonderlijke horeca-ruimten.",
       "features": "Tafeltennis / bar; Tafeltennis / borrel",
       "website": "https://depingpongclub.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/",
-        "https://www.uitutrecht.com/uitgaan/page/3/"
+        "https://www.uitutrecht.com/uitgaan/page/3/",
+        "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -3779,7 +3949,18 @@
         "matched_address": "Concordiastraat 80, 3551EM Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.discover-utrecht.com/location/ping-pong-club/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "de-poort-3eccded",
@@ -3981,23 +4162,24 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Lokale horecanieuwssite; ondersteund door social profiel",
+      "closing_source": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen.",
       "features": "Bordspellen; pop-up; Ruim 2000 spellen; pop-up",
       "website": "",
       "other_sources": [
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
-        "https://www.uitutrecht.com/uitgaan/page/3/"
+        "https://www.uitutrecht.com/uitgaan/page/3/",
+        "https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -4005,13 +4187,24 @@
         "lon": 5.0992355,
         "method": "PDOK BAG-adres",
         "matched_address": "Concordiastraat 80, 3551EM Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "de-utrechter-0cd006e",
       "name": "De Utrechter",
       "type": "Grand café",
-      "address": "",
+      "address": "Vredenburg 40",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -4019,18 +4212,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://deutrechter.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen website toont vast weekschema; bij besloten evenementen kunnen afwijkingen optreden.",
       "features": "Borrel / restaurant",
       "website": "https://deutrechter.nl/",
       "other_sources": [
@@ -4039,7 +4232,18 @@
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null,
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://deutrechter.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "dito-bfdb022",
@@ -5344,6 +5548,49 @@
       "geo": null
     },
     {
+      "id": "landhuis-in-de-stad-20261026",
+      "name": "Landhuis in de Stad",
+      "type": "Restaurant/borrelcafé",
+      "address": "Park Oog in Al 1",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Borrelarrangement gepubliceerd; specifieke alcoholkaart nog verifiëren",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://landhuisindestad.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Alleen reguliere RESTAURANT-uren overgenomen, niet de afwijkende tijden voor zaalverhuur.",
+      "features": "Parklocatie, restaurant, borrel",
+      "website": "https://landhuisindestad.nl/",
+      "other_sources": [
+        "https://landhuisindestad.nl/restaurant/groepen/"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://landhuisindestad.nl/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "le-french-cafe-20261026",
       "name": "Le French Café",
       "type": "Brasserie / apérobar",
@@ -5932,18 +6179,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://morrowutrecht.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen website vermeldt dagelijks 10:00-23:00.",
       "features": "Borrel / diner",
       "website": "https://morrowutrecht.nl/",
       "other_sources": [
@@ -5957,7 +6204,18 @@
         "matched_address": "Nachtegaalstraat 29, 3581AB Utrecht"
       },
       "website_checked_on": "2026-10-26",
-      "website_provenance": "Verified official venue page"
+      "website_provenance": "Verified official venue page",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://morrowutrecht.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "mr-finch-9c43b18",
@@ -6794,6 +7052,49 @@
       "website_checked_on": "2026-10-25"
     },
     {
+      "id": "restaurant-seven-20261026",
+      "name": "Restaurant Seven Utrecht",
+      "type": "Restaurant/cocktailbar",
+      "address": "Mariaplaats 7",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Cocktails expliciet op eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://sevenutrecht.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen website noemt elke dag opening vanaf 08:30, maar geen sluitingstijd. 'Cocktail Time' is geen sluitingstijd.",
+      "features": "Cocktail Time, borrel zonder reservering",
+      "website": "https://sevenutrecht.nl/",
+      "other_sources": [
+        "https://sevenutrecht.nl/reserveren/"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "08:30",
+        "zo": "08:30"
+      },
+      "opening_source": "https://sevenutrecht.nl/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "restaurant-west-acdbb97",
       "name": "Restaurant West",
       "type": "Café-restaurant",
@@ -7591,6 +7892,49 @@
       "geo": null
     },
     {
+      "id": "teds-oudegracht-20261026",
+      "name": "Teds Utrecht Oudegracht",
+      "type": "All-day brunchbar",
+      "address": "Lichte Gaard 8",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Cocktails en champagne expliciet op eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://teds-place.mom/locations/utrecht-oudegracht/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen locatiepagina noemt 09:00–17:00, bij goed weer zomers do-zo tot 18:00. Lokale Centrum Utrecht-gids noemt 08:00–17:00; voorrang aan primaire bron.",
+      "features": "Brunch, cocktail en borrel",
+      "website": "https://teds-place.mom/locations/utrecht-oudegracht/",
+      "other_sources": [
+        "https://centrumutrecht.nl/company/teds-oudegracht/"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "opening_source": "https://teds-place.mom/locations/utrecht-oudegracht/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "the-5th-e5c8746",
       "name": "The 5th",
       "type": "Grand café",
@@ -7726,22 +8070,24 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
         "zo": "?"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website; zondag conflicteert met lokale gidsen",
+      "closing_source": "https://www.themaltvault.nl/utrecht",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële site noemt alleen woensdag t/m zaterdag. Centrum Utrecht zegt zondag gesloten; Ontdek Utrecht noemt zo 16:00-21:00. Zondag bewust onbekend gelaten, niet als gesloten bevestigd.",
       "features": "Whisky / cocktails",
       "website": "https://www.themaltvault.nl/utrecht",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/page/7/"
+        "https://www.uitutrecht.com/uitgaan/page/7/",
+        "https://centrumutrecht.nl/company/the-malt-vault/",
+        "https://www.ontdek-utrecht.nl/locatie/the-malt-vault/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -7751,7 +8097,18 @@
         "matched_address": "Oudegracht aan de Werf 54, 3511AC Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "17:00",
+        "za": "16:00",
+        "zo": "?"
+      },
+      "opening_source": "https://www.themaltvault.nl/utrecht",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "theater-kikker-a410731",
@@ -7802,18 +8159,18 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.debastaard.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Officiële locatie vermeldt een eenmalige teamsluiting op 20 juli; reguliere weektijden verwerkt.",
       "features": "Cultuur / café",
       "website": "https://www.debastaard.nl/contact/",
       "other_sources": [
@@ -7829,7 +8186,18 @@
         "matched_address": "Jansveld 17, 3512BD Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.debastaard.nl/contact/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "tijm-d1d43a8",
@@ -7950,6 +8318,50 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
       }
+    },
+    {
+      "id": "toque-toque-foodcafe-20261026",
+      "name": "Toque Toque Foodcafé",
+      "type": "Foodcafé/borrelbar",
+      "address": "Oudegracht 138",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar volgens eigen website of lokale horecabron; individuele toegang niet bevestigd",
+      "alcohol": "Bar met bier, wijn, cocktails volgens eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://toque.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Eigen website wijkt af van lokale gids Centrum Utrecht (die 00:00–01:30 noemt); eigen officiële website heeft voorrang.",
+      "features": "Bar, borrel en cocktails",
+      "website": "https://toque.nl/",
+      "other_sources": [
+        "https://centrumutrecht.nl/company/toque-toque/",
+        "https://www.ontdek-utrecht.nl/locatie/toque-toque"
+      ],
+      "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
+      "geo": null,
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://toque.nl/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "trapop-058033a",
