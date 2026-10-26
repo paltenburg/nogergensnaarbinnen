@@ -970,7 +970,7 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Ticket/evenement of mogelijk besloten",
+      "access": "Bij aangekondigde evenementen, doorgaans met toegangsticket; 18+. Volgens FAQ sluiten de deuren bij de meeste evenementen om 04:00; herintrede niet mogelijk.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
@@ -978,19 +978,22 @@
         "di": "—",
         "wo": "—",
         "do": "—",
-        "vr": "Event",
-        "za": "Event",
+        "vr": "06:00",
+        "za": "06:00",
         "zo": "—"
       },
-      "closing_quality": "Officiële website",
+      "closing_quality": "Gebruikelijke eindtijd, afgeleid uit officiële evenementagenda (niet vast)",
       "closing_source": "https://clubbasis.nl/events/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Programma: meerdere clubnachten tot 06:00; niet iedere week identiek.",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Reguliere clubnachten op vrijdag en zaterdag eindigen doorgaans om 06:00, niet gegarandeerd. Officiële evenementen op za 3/10/17/24/31 oktober en meerdere za in november/december 2026 eindigen om 06:00. Uitzondering: za 26 december 2026 tot 07:00. Volgens officiële FAQ sluiten de deuren bij de meeste evenementen om 04:00; kijk altijd naar de agenda en toegangsvoorwaarden van de specifieke avond.",
       "features": "Elektronische muziek",
       "website": "https://clubbasis.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
-        "https://www.uitagenda.nl/index.php/utrecht"
+        "https://www.uitagenda.nl/index.php/utrecht",
+        "https://clubbasis.nl/faq/",
+        "https://clubbasis.nl/event/basis-vinyl-special-36framez-line-o-b2b-roboith-narciss-extended-set/",
+        "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
       "geo": {
@@ -998,7 +1001,27 @@
         "lon": 5.1167486,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht aan de Werf 97, 3511AL Utrecht"
-      }
+      },
+      "typical_closing_days": [
+        "vr",
+        "za"
+      ],
+      "event_dependent": true,
+      "last_entry": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "—"
+      },
+      "last_entry_typical_days": [
+        "vr",
+        "za"
+      ],
+      "last_entry_source": "https://clubbasis.nl/faq/",
+      "last_entry_checked_on": "2026-10-26"
     },
     {
       "id": "bassment-7cf6c51",
