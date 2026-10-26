@@ -1,8 +1,8 @@
 {
   "total": 212,
-  "with_coordinates": 172,
-  "without_coordinates": 40,
-  "added_in_this_run": 0,
+  "with_coordinates": 174,
+  "without_coordinates": 38,
+  "added_in_this_run": 2,
   "unmatched": [
     {
       "name": "B.I.T.O.N.",
@@ -90,11 +90,6 @@
       "reason": "missing-address"
     },
     {
-      "name": "Jan Primus",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "K-Sjot",
       "address": "",
       "reason": "missing-address"
@@ -163,11 +158,6 @@
       "name": "Rum Club",
       "address": "Oudegracht aan de Werf 111",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Sportcafé Olympos",
-      "address": "",
-      "reason": "missing-address"
     },
     {
       "name": "Stadsbrouwerij RoodNoot",

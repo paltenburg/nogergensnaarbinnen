@@ -4809,7 +4809,12 @@
         "https://www.uitutrecht.com/uitgaan/page/4/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0864434,
+        "lon": 5.1444998,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jan van Scorelstraat 27, 3583CJ Utrecht"
+      },
       "opening": {
         "ma": "15:00",
         "di": "15:00",
@@ -7137,7 +7142,12 @@
         "https://www.uitutrecht.com/uitgaan/page/7/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0911512,
+        "lon": 5.1751308,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Uppsalalaan 3, 3584CT Utrecht"
+      },
       "opening": {
         "ma": "17:00",
         "di": "17:00",
