@@ -1540,7 +1540,12 @@
         "https://www.steaksandribs.nl/"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.0915736,
+        "lon": 5.1174874,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 139, 3511AL Utrecht"
+      },
       "opening": {
         "ma": "?",
         "di": "?",
@@ -1583,7 +1588,12 @@
         "https://www.debuik.nl/utrecht/restaurant/broei"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.0792257,
+        "lon": 5.1232727,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oosterkade 24, 3582AV Utrecht"
+      },
       "opening": {
         "ma": "09:00",
         "di": "09:00",
@@ -3658,7 +3668,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.083525,
+        "lon": 5.092867,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ravellaan 96, 3533JR Utrecht"
+      },
       "website_provenance": "official-site-research",
       "website_checked_on": "2026-10-26",
       "opening": {
@@ -4230,7 +4245,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0930199,
+        "lon": 5.1121544,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vredenburg 40, 3511BD Utrecht"
+      },
       "website_provenance": "official-site-research",
       "website_checked_on": "2026-10-26",
       "opening": {
@@ -5577,7 +5597,12 @@
         "https://landhuisindestad.nl/restaurant/groepen/"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.086833,
+        "lon": 5.0924747,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Park Oog in Al 1, 3533HE Utrecht"
+      },
       "opening": {
         "ma": "08:30",
         "di": "08:30",
@@ -7081,7 +7106,12 @@
         "https://sevenutrecht.nl/reserveren/"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.0899392,
+        "lon": 5.1177148,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 7, 3511LH Utrecht"
+      },
       "opening": {
         "ma": "08:30",
         "di": "08:30",
@@ -8350,7 +8380,12 @@
         "https://www.ontdek-utrecht.nl/locatie/toque-toque"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.0918991,
+        "lon": 5.1175429,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 138, 3511AZ Utrecht"
+      },
       "opening": {
         "ma": "10:00",
         "di": "10:00",

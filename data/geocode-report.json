@@ -1,8 +1,8 @@
 {
-  "total": 213,
-  "with_coordinates": 175,
-  "without_coordinates": 38,
-  "added_in_this_run": 0,
+  "total": 219,
+  "with_coordinates": 182,
+  "without_coordinates": 37,
+  "added_in_this_run": 7,
   "unmatched": [
     {
       "name": "B.I.T.O.N.",
@@ -50,17 +50,7 @@
       "reason": "missing-address"
     },
     {
-      "name": "De Bierkantine",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "De Drie Dorstige Herten",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "De Utrechter",
       "address": "",
       "reason": "missing-address"
     },
@@ -178,6 +168,11 @@
       "name": "Taplokaal Gist",
       "address": "",
       "reason": "missing-address"
+    },
+    {
+      "name": "Teds Utrecht Oudegracht",
+      "address": "Lichte Gaard 8",
+      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Tijm",

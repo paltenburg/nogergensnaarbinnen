@@ -3,10 +3,10 @@
   "generated_on": "2026-10-26",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 213,
-    "source_urls": 251,
-    "domains": 150,
-    "direct_website_fields": 134
+    "venues": 219,
+    "source_urls": 277,
+    "domains": 160,
+    "direct_website_fields": 140
   },
   "discovery_sites": [
     {
@@ -61,13 +61,18 @@
   "domains": [
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 50,
-      "linked_venues": 47
+      "source_pages": 54,
+      "linked_venues": 51
     },
     {
       "domain": "ontdek-utrecht.nl",
-      "source_pages": 13,
-      "linked_venues": 30
+      "source_pages": 15,
+      "linked_venues": 32
+    },
+    {
+      "domain": "debuik.nl",
+      "source_pages": 9,
+      "linked_venues": 15
     },
     {
       "domain": "uitutrecht.com",
@@ -75,13 +80,13 @@
       "linked_venues": 133
     },
     {
-      "domain": "debuik.nl",
-      "source_pages": 7,
-      "linked_venues": 13
-    },
-    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
+      "linked_venues": 1
+    },
+    {
+      "domain": "barbasta.nl",
+      "source_pages": 3,
       "linked_venues": 1
     },
     {
@@ -100,7 +105,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafekanaalzicht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafetilt.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "clubclaar.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -128,6 +143,11 @@
       "domain": "elize.cafe",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "landhuisindestad.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "lefebvre.nl",
@@ -170,6 +190,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "sevenutrecht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "stadsschouwburg-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -180,6 +205,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "steaksandribs.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "thegrandshuffle.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -188,6 +218,11 @@
       "domain": "tivolivredenburg.nl",
       "source_pages": 2,
       "linked_venues": 1
+    },
+    {
+      "domain": "verseuitjes.nl",
+      "source_pages": 2,
+      "linked_venues": 2
     },
     {
       "domain": "wijnbarvinvin.nl",
@@ -211,11 +246,6 @@
     },
     {
       "domain": "barbarak.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "barbasta.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -355,11 +385,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "cafekanaalzicht.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "cafekeet.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -400,12 +425,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "clubclaar.nl",
+      "domain": "clubpoema.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
-      "domain": "clubpoema.nl",
+      "domain": "cylex.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -461,6 +486,16 @@
     },
     {
       "domain": "dezaak-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "discover-utrecht.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "duic.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -680,6 +715,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "restaurant-broei.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "restaurantconcours.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -730,6 +770,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "teds-place.mom",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "theaterkikker.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -741,6 +786,11 @@
     },
     {
       "domain": "themick.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "toque.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -785,17 +835,17 @@
       "linked_venues": 2
     },
     {
-      "domain": "verseuitjes.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "vind-open.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
       "domain": "visitutrechtregion.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "werkenbijutrechtsehorecagroep.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -931,6 +981,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
         "website"
       ],
       "venues": [
@@ -938,15 +989,65 @@
           "id": "bar-basta-5726ebe",
           "name": "Bar Basta",
           "roles": [
+            "openingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://barbasta.nl/over-ons/",
+      "domain": "barbasta.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-basta-5726ebe",
+          "name": "Bar Basta",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://barbasta.nl/pastadeal/",
+      "domain": "barbasta.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-basta-5726ebe",
+          "name": "Bar Basta",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -1199,6 +1300,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -1206,10 +1309,14 @@
           "id": "bodytalk-03fa9ca",
           "name": "Bodytalk",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -1929,6 +2036,35 @@
       "needs_review": false
     },
     {
+      "url": "https://www.cafekanaalzicht.nl/contact/",
+      "domain": "cafekanaalzicht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-kanaalzicht-c06329a",
+          "name": "Café Kanaalzicht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.cafekeet.nl/",
       "domain": "cafekeet.nl",
       "first_registered_on": "2026-10-26",
@@ -2025,6 +2161,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -2032,10 +2170,14 @@
           "id": "cafe-tante-door-21cf4d6",
           "name": "Café Tante Door",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -2914,6 +3056,30 @@
       "needs_review": false
     },
     {
+      "url": "https://centrumutrecht.nl/company/club-claar/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-claar-06704c7",
+          "name": "Club Claar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://centrumutrecht.nl/company/club-maggy/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -3437,6 +3603,30 @@
       "needs_review": false
     },
     {
+      "url": "https://centrumutrecht.nl/company/teds-oudegracht/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "teds-oudegracht-20261026",
+          "name": "Teds Utrecht Oudegracht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://centrumutrecht.nl/company/the-5th-utrecht/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -3461,6 +3651,54 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://centrumutrecht.nl/company/the-malt-vault/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "the-malt-vault-9ed8152",
+          "name": "The Malt Vault",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://centrumutrecht.nl/company/toque-toque/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "toque-toque-foodcafe-20261026",
+          "name": "Toque Toque Foodcafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://centrumutrecht.nl/company/union-house/",
@@ -3685,6 +3923,30 @@
       "needs_review": false
     },
     {
+      "url": "https://clubclaar.nl/contact/",
+      "domain": "clubclaar.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-claar-06704c7",
+          "name": "Club Claar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://clubpoema.nl/faq",
       "domain": "clubpoema.nl",
       "first_registered_on": "2026-10-26",
@@ -3712,6 +3974,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-ping-pong-club-3e4df3c",
+          "name": "De Ping Pong Club",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://danel-utrecht.nl/contact/",
@@ -3778,6 +4064,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -3785,10 +4073,14 @@
           "id": "theatercafe-de-bastaard-f94da0e",
           "name": "Theatercafé De Bastaard",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -3804,6 +4096,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -3811,17 +4105,21 @@
           "id": "de-bierkantine-80af740",
           "name": "De Bierkantine",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.debuik.nl/utrecht",
@@ -3878,6 +4176,54 @@
       "venues": [],
       "last_data_field_checked_on": null,
       "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.debuik.nl/utrecht/restaurant/broei",
+      "domain": "debuik.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "broei-utrecht-20261026",
+          "name": "BROEI Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.debuik.nl/utrecht/restaurant/club-claar",
+      "domain": "debuik.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-claar-06704c7",
+          "name": "Club Claar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
       "needs_review": false
     },
     {
@@ -3989,7 +4335,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "grand-bar-brasserie-marie-05f9f31",
@@ -4254,12 +4600,12 @@
           "checked_on": {
             "website": "2026-10-26"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://deutrechter.nl/",
@@ -4268,6 +4614,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -4275,10 +4623,14 @@
           "id": "de-utrechter-0cd006e",
           "name": "De Utrechter",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -4339,6 +4691,59 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.discover-utrecht.com/location/ping-pong-club/",
+      "domain": "discover-utrecht.com",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-ping-pong-club-3e4df3c",
+          "name": "De Ping Pong Club",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht",
+      "domain": "duic.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-troef-spelletjescafe-7a45c78",
+          "name": "De Troef spelletjescafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -5140,6 +5545,61 @@
       "needs_review": false
     },
     {
+      "url": "https://landhuisindestad.nl/",
+      "domain": "landhuisindestad.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "landhuis-in-de-stad-20261026",
+          "name": "Landhuis in de Stad",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://landhuisindestad.nl/restaurant/groepen/",
+      "domain": "landhuisindestad.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "landhuis-in-de-stad-20261026",
+          "name": "Landhuis in de Stad",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.leclochard-utrecht.nl/",
       "domain": "leclochard-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -5596,6 +6056,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -5603,10 +6065,14 @@
           "id": "morrow-af608b0",
           "name": "Morrow",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -5788,7 +6254,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "klein-berlijn-3f60cdd",
@@ -5802,7 +6268,7 @@
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 6,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/",
@@ -6179,6 +6645,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.ontdek-utrecht.nl/locatie/the-malt-vault/",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "the-malt-vault-9ed8152",
+          "name": "The Malt Vault",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.ontdek-utrecht.nl/locatie/toque-toque",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "toque-toque-foodcafe-20261026",
+          "name": "Toque Toque Foodcafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/",
       "domain": "ontdek-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -6358,6 +6872,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -6365,10 +6881,14 @@
           "id": "cafe-t-oude-pierement-254647b",
           "name": "Café ’t Oude Pierement",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -6622,6 +7142,37 @@
       "needs_review": true
     },
     {
+      "url": "https://www.restaurant-broei.com/utrecht",
+      "domain": "restaurant-broei.com",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "broei-utrecht-20261026",
+          "name": "BROEI Utrecht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://restaurantconcours.nl/",
       "domain": "restaurantconcours.nl",
       "first_registered_on": "2026-10-26",
@@ -6785,6 +7336,61 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://sevenutrecht.nl/",
+      "domain": "sevenutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-seven-20261026",
+          "name": "Restaurant Seven Utrecht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://sevenutrecht.nl/reserveren/",
+      "domain": "sevenutrecht.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-seven-20261026",
+          "name": "Restaurant Seven Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -6979,6 +7585,61 @@
       "needs_review": false
     },
     {
+      "url": "https://www.steaksandribs.nl/",
+      "domain": "steaksandribs.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "broadway-american-steakhouse-20261026",
+          "name": "Broadway American Steakhouse",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.steaksandribs.nl/contact/",
+      "domain": "steaksandribs.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "broadway-american-steakhouse-20261026",
+          "name": "Broadway American Steakhouse",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.stichtsetaveerne.nl/",
       "domain": "stichtsetaveerne.nl",
       "first_registered_on": "2026-10-26",
@@ -7056,6 +7717,37 @@
           ],
           "checked_on": {
             "website": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://teds-place.mom/locations/utrecht-oudegracht/",
+      "domain": "teds-place.mom",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "teds-oudegracht-20261026",
+          "name": "Teds Utrecht Oudegracht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
             "openingstijden": "2026-10-26"
           },
           "needs_review": false
@@ -7156,6 +7848,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -7163,10 +7857,14 @@
           "id": "the-malt-vault-9ed8152",
           "name": "The Malt Vault",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-26",
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
           },
           "needs_review": false
         }
@@ -7256,6 +7954,37 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://toque.nl/",
+      "domain": "toque.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "toque-toque-foodcafe-20261026",
+          "name": "Toque Toque Foodcafé",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://ubicautrecht.nl/reserveren",
@@ -7637,7 +8366,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "de-poort-3eccded",
@@ -8742,7 +9471,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "de-drie-dorstige-herten-d5c9f1a",
@@ -8778,7 +9507,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "de-poort-3eccded",
@@ -8823,7 +9552,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "de-utrechter-0cd006e",
@@ -8900,7 +9629,7 @@
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 19,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.uitutrecht.com/uitgaan/page/4/",
@@ -9722,6 +10451,35 @@
       "needs_review": true
     },
     {
+      "url": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef",
+      "domain": "verseuitjes.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-troef-spelletjescafe-7a45c78",
+          "name": "De Troef spelletjescafé",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vind-open.nl/utrecht/caf%C3%A9-restaurant-lombok-931084",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-26",
@@ -9770,6 +10528,35 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://werkenbijutrechtsehorecagroep.nl/contact/",
+      "domain": "werkenbijutrechtsehorecagroep.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "club-claar-06704c7",
+          "name": "Club Claar",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-26",
+            "openingstijden": "2026-10-26"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -10248,12 +11035,12 @@
         "name": "Bij Guusjes"
       },
       {
-        "id": "bodytalk-03fa9ca",
-        "name": "Bodytalk"
-      },
-      {
         "id": "boot-122-45b992e",
         "name": "Boot 122"
+      },
+      {
+        "id": "broadway-american-steakhouse-20261026",
+        "name": "Broadway American Steakhouse"
       },
       {
         "id": "cafe-de-beurs-d9ec97a",
@@ -10268,24 +11055,12 @@
         "name": "Café Heen en Weer"
       },
       {
-        "id": "cafe-kanaalzicht-c06329a",
-        "name": "Café Kanaalzicht"
-      },
-      {
         "id": "cafe-ons-honk-4709906",
         "name": "Café Ons Honk"
       },
       {
         "id": "cafe-stockholm-41ae3c5",
         "name": "Café Stockholm"
-      },
-      {
-        "id": "cafe-tante-door-21cf4d6",
-        "name": "Café Tante Door"
-      },
-      {
-        "id": "cafe-t-oude-pierement-254647b",
-        "name": "Café ’t Oude Pierement"
       },
       {
         "id": "cambridgebar-c5c7346",
@@ -10304,32 +11079,12 @@
         "name": "Chupitos Shooter Bar"
       },
       {
-        "id": "club-claar-06704c7",
-        "name": "Club Claar"
-      },
-      {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
       },
       {
-        "id": "de-bierkantine-80af740",
-        "name": "De Bierkantine"
-      },
-      {
         "id": "de-kargadoor-5132a6b",
         "name": "De Kargadoor"
-      },
-      {
-        "id": "de-ping-pong-club-3e4df3c",
-        "name": "De Ping Pong Club"
-      },
-      {
-        "id": "de-troef-spelletjescafe-7a45c78",
-        "name": "De Troef spelletjescafé"
-      },
-      {
-        "id": "de-utrechter-0cd006e",
-        "name": "De Utrechter"
       },
       {
         "id": "dito-bfdb022",
@@ -10404,10 +11159,6 @@
         "name": "Molencafé De Ster"
       },
       {
-        "id": "morrow-af608b0",
-        "name": "Morrow"
-      },
-      {
         "id": "nieuwe-dikke-dries-oost-73e397f",
         "name": "Nieuwe Dikke Dries Oost"
       },
@@ -10434,6 +11185,10 @@
       {
         "id": "pjay-ec4ee67",
         "name": "Pjay"
+      },
+      {
+        "id": "restaurant-seven-20261026",
+        "name": "Restaurant Seven Utrecht"
       },
       {
         "id": "rocking-chair-c8ed632",
@@ -10474,14 +11229,6 @@
       {
         "id": "taplokaal-gist-bb8d7ed",
         "name": "Taplokaal Gist"
-      },
-      {
-        "id": "the-malt-vault-9ed8152",
-        "name": "The Malt Vault"
-      },
-      {
-        "id": "theatercafe-de-bastaard-f94da0e",
-        "name": "Theatercafé De Bastaard"
       },
       {
         "id": "tijm-d1d43a8",
@@ -10552,9 +11299,29 @@
         "reason": "Controleer programma: gids kan verouderd zijn."
       },
       {
+        "id": "de-bierkantine-80af740",
+        "name": "De Bierkantine",
+        "reason": "Adres Ravellaan 96 en reguliere woensdag-zondag opening gecontroleerd op officiële website."
+      },
+      {
+        "id": "de-ping-pong-club-3e4df3c",
+        "name": "De Ping Pong Club",
+        "reason": "Openingstijden toeristische gids; Cylex volgt dezelfde dagafsluiting, maar sommige andere gidsen geven afwijkende starttijd. Ping Pong Club en De Troef delen het adres maar zijn afzonderlijke horeca-ruimten."
+      },
+      {
+        "id": "de-troef-spelletjescafe-7a45c78",
+        "name": "De Troef spelletjescafé",
+        "reason": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen."
+      },
+      {
         "id": "kitchen-bar-danel-4c5a5ea",
         "name": "Kitchen Bar Danel",
         "reason": "Officiële site, wijkt af van lokale gids. Zelfde gebouw als TivoliVredenburg, afzonderlijke horecalocatie."
+      },
+      {
+        "id": "landhuis-in-de-stad-20261026",
+        "name": "Landhuis in de Stad",
+        "reason": "Alleen reguliere RESTAURANT-uren overgenomen, niet de afwijkende tijden voor zaalverhuur."
       },
       {
         "id": "le-journal-1b1cfeb",
@@ -10575,6 +11342,11 @@
         "id": "tilt-64c83ae",
         "name": "Tilt",
         "reason": "Gidsen vermelden afwijkende sluitingstijden. Eigen site aangehouden."
+      },
+      {
+        "id": "toque-toque-foodcafe-20261026",
+        "name": "Toque Toque Foodcafé",
+        "reason": "Eigen website wijkt af van lokale gids Centrum Utrecht (die 00:00–01:30 noemt); eigen officiële website heeft voorrang."
       },
       {
         "id": "vandestreek-proeflokaal-590917b",

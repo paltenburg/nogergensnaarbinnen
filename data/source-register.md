@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-26 uit de locatiedatabase en onderzoeksverslagen.
 
-**251 geregistreerde bron-URL's**, 150 domeinen; gekoppeld aan **213 locaties**.
+**277 geregistreerde bron-URL's**, 160 domeinen; gekoppeld aan **219 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -29,20 +29,24 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 | Domein | Bron-URL's | Locaties |
 |---|---:|---:|
-| centrumutrecht.nl | 50 | 47 |
-| ontdek-utrecht.nl | 13 | 30 |
+| centrumutrecht.nl | 54 | 51 |
+| ontdek-utrecht.nl | 15 | 32 |
+| debuik.nl | 9 | 15 |
 | uitutrecht.com | 8 | 133 |
-| debuik.nl | 7 | 13 |
 | clubbasis.nl | 6 | 1 |
+| barbasta.nl | 3 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
+| cafekanaalzicht.nl | 2 | 1 |
 | cafetilt.nl | 2 | 1 |
+| clubclaar.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
 | denijverheid.org | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
+| landhuisindestad.nl | 2 | 1 |
 | lefebvre.nl | 2 | 1 |
 | lejournal.nl | 2 | 1 |
 | loft88.nl | 2 | 1 |
@@ -51,16 +55,18 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | puuroost-utrecht.nl | 2 | 1 |
 | quignon.nl | 2 | 1 |
 | rooienel.nl | 2 | 1 |
+| sevenutrecht.nl | 2 | 1 |
 | stadsschouwburg-utrecht.nl | 2 | 2 |
 | stage-entertainment.nl | 2 | 2 |
+| steaksandribs.nl | 2 | 1 |
 | thegrandshuffle.nl | 2 | 1 |
 | tivolivredenburg.nl | 2 | 1 |
+| verseuitjes.nl | 2 | 2 |
 | wijnbarvinvin.nl | 2 | 1 |
 | acu.nl | 1 | 1 |
 | averechts.nl | 1 | 1 |
 | bar-bet.nl | 1 | 1 |
 | barbarak.nl | 1 | 1 |
-| barbasta.nl | 1 | 1 |
 | barcava.nl | 1 | 1 |
 | bardobelo.nl | 1 | 1 |
 | barjosefien.nl | 1 | 1 |
@@ -88,7 +94,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafehetgegevenpaard.nl | 1 | 1 |
 | cafehideout.nl | 1 | 1 |
 | cafekalff.nl | 1 | 1 |
-| cafekanaalzicht.nl | 1 | 1 |
 | cafekeet.nl | 1 | 1 |
 | cafelijn4.nl | 1 | 1 |
 | cafelombok.nl | 1 | 1 |
@@ -97,8 +102,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafevoortuin.nl | 1 | 1 |
 | cafevredenburg.nl | 1 | 1 |
 | campingganspoort.nl | 1 | 1 |
-| clubclaar.nl | 1 | 1 |
 | clubpoema.nl | 1 | 1 |
+| cylex.nl | 1 | 1 |
 | danel-utrecht.nl | 1 | 1 |
 | dbstudio.nl | 1 | 1 |
 | debastaard.nl | 1 | 1 |
@@ -110,6 +115,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | deutrechter.nl | 1 | 1 |
 | dewinkelvansinkel.nl | 1 | 1 |
 | dezaak-utrecht.nl | 1 | 1 |
+| discover-utrecht.com | 1 | 1 |
+| duic.nl | 1 | 1 |
 | eetcafedebaron.nl | 1 | 1 |
 | eetcafedepoort.nl | 1 | 1 |
 | etenbijguusjes.nl | 1 | 1 |
@@ -153,6 +160,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | pandje.com | 1 | 1 |
 | poolenutrecht.nl | 1 | 1 |
 | preview.restaurantconcours.nl | 1 | 1 |
+| restaurant-broei.com | 1 | 1 |
 | restaurantconcours.nl | 1 | 1 |
 | restaurantwest.nl | 1 | 1 |
 | rubyrose-utrecht.nl | 1 | 1 |
@@ -163,9 +171,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | stichtsetaveerne.nl | 1 | 1 |
 | talud9.nl | 1 | 1 |
 | taphuys.nl | 1 | 1 |
+| teds-place.mom | 1 | 1 |
 | theaterkikker.nl | 1 | 1 |
 | themaltvault.nl | 1 | 1 |
 | themick.nl | 1 | 1 |
+| toque.nl | 1 | 1 |
 | ubicautrecht.nl | 1 | 1 |
 | uitagenda.nl | 1 | 74 |
 | uitgaanskaart.nl | 1 | 21 |
@@ -174,9 +184,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | utrechtcocktailweek.nl | 1 | 6 |
 | uu.nl | 1 | 1 |
 | vandestreekbier.nl | 1 | 2 |
-| verseuitjes.nl | 1 | 1 |
 | vind-open.nl | 1 | 1 |
 | visitutrechtregion.com | 1 | 1 |
+| werkenbijutrechtsehorecagroep.nl | 1 | 1 |
 | wijnbar-kurk.nl | 1 | 1 |
 | willemslok.nl | 1 | 1 |
 
@@ -201,7 +211,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### barbasta.nl
 
-- [https://barbasta.nl/](https://barbasta.nl/) — website; Bar Basta; bronveld gecontroleerd: 2026-10-26
+- [https://barbasta.nl/](https://barbasta.nl/) — openingstijden, website; Bar Basta; bronveld gecontroleerd: 2026-10-26
+- [https://barbasta.nl/over-ons/](https://barbasta.nl/over-ons/) — achtergrond; Bar Basta; bronveld gecontroleerd: onbekend
+- [https://barbasta.nl/pastadeal/](https://barbasta.nl/pastadeal/) — achtergrond; Bar Basta; bronveld gecontroleerd: onbekend
 
 ### barcava.nl
 
@@ -234,7 +246,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### bodytalk-utrecht.metro.bar
 
-- [https://bodytalk-utrecht.metro.bar/?lang=nl](https://bodytalk-utrecht.metro.bar/?lang=nl) — website; Bodytalk; bronveld gecontroleerd: 2026-10-26
+- [https://bodytalk-utrecht.metro.bar/?lang=nl](https://bodytalk-utrecht.metro.bar/?lang=nl) — openingstijden, sluitingstijden, website; Bodytalk; bronveld gecontroleerd: 2026-10-26
 
 ### boot122.nl
 
@@ -329,6 +341,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafekanaalzicht.nl
 
 - [https://www.cafekanaalzicht.nl/](https://www.cafekanaalzicht.nl/) — website; Café Kanaalzicht; bronveld gecontroleerd: 2026-10-26
+- [https://www.cafekanaalzicht.nl/contact/](https://www.cafekanaalzicht.nl/contact/) — openingstijden, sluitingstijden; Café Kanaalzicht; bronveld gecontroleerd: 2026-10-26
 
 ### cafekeet.nl
 
@@ -344,7 +357,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cafetantedoor.nl
 
-- [https://cafetantedoor.nl/](https://cafetantedoor.nl/) — website; Café Tante Door; bronveld gecontroleerd: 2026-10-26
+- [https://cafetantedoor.nl/](https://cafetantedoor.nl/) — openingstijden, sluitingstijden, website; Café Tante Door; bronveld gecontroleerd: 2026-10-26
 
 ### cafetilt.nl
 
@@ -396,6 +409,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://centrumutrecht.nl/company/cafe-vredenburg/](https://centrumutrecht.nl/company/cafe-vredenburg/) — sluitingstijden; Café Vredenburg; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/cafe-weerdzicht/](https://centrumutrecht.nl/company/cafe-weerdzicht/) — sluitingstijden; Café Weerdzicht; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/cafe-willem-slok/](https://centrumutrecht.nl/company/cafe-willem-slok/) — sluitingstijden; Café Willem Slok; bronveld gecontroleerd: 2026-10-25
+- [https://centrumutrecht.nl/company/club-claar/](https://centrumutrecht.nl/company/club-claar/) — achtergrond; Club Claar; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/club-maggy/](https://centrumutrecht.nl/company/club-maggy/) — sluitingstijden; Club Maggy; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/de-jans-bar/](https://centrumutrecht.nl/company/de-jans-bar/) — sluitingstijden; De Jans Bar; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/do-belo/](https://centrumutrecht.nl/company/do-belo/) — openingstijden, sluitingstijden; Do Belo; bronveld gecontroleerd: 2026-10-26
@@ -416,7 +430,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://centrumutrecht.nl/company/springhaver/](https://centrumutrecht.nl/company/springhaver/) — sluitingstijden; Springhaver; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/stadskasteel-oudaen/](https://centrumutrecht.nl/company/stadskasteel-oudaen/) — sluitingstijden; Brouwerij Oudaen; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/t-taphuys-utrecht/](https://centrumutrecht.nl/company/t-taphuys-utrecht/) — sluitingstijden; ’t Taphuys; bronveld gecontroleerd: 2026-10-25
+- [https://centrumutrecht.nl/company/teds-oudegracht/](https://centrumutrecht.nl/company/teds-oudegracht/) — achtergrond; Teds Utrecht Oudegracht; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/the-5th-utrecht/](https://centrumutrecht.nl/company/the-5th-utrecht/) — sluitingstijden; The 5th; bronveld gecontroleerd: 2026-10-25
+- [https://centrumutrecht.nl/company/the-malt-vault/](https://centrumutrecht.nl/company/the-malt-vault/) — achtergrond; The Malt Vault; bronveld gecontroleerd: onbekend
+- [https://centrumutrecht.nl/company/toque-toque/](https://centrumutrecht.nl/company/toque-toque/) — achtergrond; Toque Toque Foodcafé; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/union-house/](https://centrumutrecht.nl/company/union-house/) — sluitingstijden; Union House; bronveld gecontroleerd: 2026-10-25
 - [https://centrumutrecht.nl/company/winkel-van-sinkel/](https://centrumutrecht.nl/company/winkel-van-sinkel/) — sluitingstijden; Winkel van Sinkel; bronveld gecontroleerd: 2026-10-25
 
@@ -432,10 +449,15 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### clubclaar.nl
 
 - [https://clubclaar.nl/](https://clubclaar.nl/) — website; Club Claar; bronveld gecontroleerd: 2026-10-26
+- [https://clubclaar.nl/contact/](https://clubclaar.nl/contact/) — achtergrond; Club Claar; bronveld gecontroleerd: onbekend
 
 ### clubpoema.nl
 
 - [https://clubpoema.nl/faq](https://clubpoema.nl/faq) — sluitingstijden, website; Club Poema; bronveld gecontroleerd: 2026-10-25
+
+### cylex.nl
+
+- [https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html](https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html) — achtergrond; De Ping Pong Club; bronveld gecontroleerd: onbekend
 
 ### danel-utrecht.nl
 
@@ -447,16 +469,18 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### debastaard.nl
 
-- [https://www.debastaard.nl/contact/](https://www.debastaard.nl/contact/) — website; Theatercafé De Bastaard; bronveld gecontroleerd: 2026-10-26
+- [https://www.debastaard.nl/contact/](https://www.debastaard.nl/contact/) — openingstijden, sluitingstijden, website; Theatercafé De Bastaard; bronveld gecontroleerd: 2026-10-26
 
 ### debierkantine.com
 
-- [https://debierkantine.com/](https://debierkantine.com/) — website; De Bierkantine; bronveld gecontroleerd: 2026-10-26
+- [https://debierkantine.com/](https://debierkantine.com/) — openingstijden, sluitingstijden, website; De Bierkantine; bronveld gecontroleerd: 2026-10-26
 
 ### debuik.nl
 
 - [https://www.debuik.nl/utrecht](https://www.debuik.nl/utrecht) — achtergrond, terugkerende_vindplaats; Rosie, Rum Club, Sumventure Flightbar; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/nieuws/aftellen-voor-het-nieuwe-cafe-le-journal-is-begonnen](https://www.debuik.nl/utrecht/nieuws/aftellen-voor-het-nieuwe-cafe-le-journal-is-begonnen) — onderzoeksnotitie; algemene bron; bronveld gecontroleerd: onbekend
+- [https://www.debuik.nl/utrecht/restaurant/broei](https://www.debuik.nl/utrecht/restaurant/broei) — achtergrond; BROEI Utrecht; bronveld gecontroleerd: onbekend
+- [https://www.debuik.nl/utrecht/restaurant/club-claar](https://www.debuik.nl/utrecht/restaurant/club-claar) — achtergrond; Club Claar; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/restaurant/concours-caf](https://www.debuik.nl/utrecht/restaurant/concours-caf) — achtergrond; Café Concours; bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/restaurant/the-fools](https://www.debuik.nl/utrecht/restaurant/the-fools) — sluitingstijden; The Fools Cocktail Bar; bronveld gecontroleerd: 2026-10-25
 - [https://www.debuik.nl/utrecht/top-10/9x-bruine-utrechtse-kroegen-buiten-het-centrum](https://www.debuik.nl/utrecht/top-10/9x-bruine-utrechtse-kroegen-buiten-het-centrum) — achtergrond; Achter de Koekoek; bronveld gecontroleerd: onbekend
@@ -491,7 +515,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### deutrechter.nl
 
-- [https://deutrechter.nl/](https://deutrechter.nl/) — website; De Utrechter; bronveld gecontroleerd: 2026-10-26
+- [https://deutrechter.nl/](https://deutrechter.nl/) — openingstijden, sluitingstijden, website; De Utrechter; bronveld gecontroleerd: 2026-10-26
 
 ### dewinkelvansinkel.nl
 
@@ -500,6 +524,14 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### dezaak-utrecht.nl
 
 - [https://www.dezaak-utrecht.nl/](https://www.dezaak-utrecht.nl/) — website; Café De Zaak; bronveld gecontroleerd: 2026-10-25
+
+### discover-utrecht.com
+
+- [https://www.discover-utrecht.com/location/ping-pong-club/](https://www.discover-utrecht.com/location/ping-pong-club/) — openingstijden, sluitingstijden; De Ping Pong Club; bronveld gecontroleerd: 2026-10-26
+
+### duic.nl
+
+- [https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht](https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht) — achtergrond; De Troef spelletjescafé; bronveld gecontroleerd: onbekend
 
 ### eetcafedebaron.nl
 
@@ -604,6 +636,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.knockoutcomedy.nl/](https://www.knockoutcomedy.nl/) — website; Knock Out Comedy Club; bronveld gecontroleerd: 2026-10-26
 
+### landhuisindestad.nl
+
+- [https://landhuisindestad.nl/](https://landhuisindestad.nl/) — openingstijden, sluitingstijden, website; Landhuis in de Stad; bronveld gecontroleerd: 2026-10-26
+- [https://landhuisindestad.nl/restaurant/groepen/](https://landhuisindestad.nl/restaurant/groepen/) — achtergrond; Landhuis in de Stad; bronveld gecontroleerd: onbekend
+
 ### leclochard-utrecht.nl
 
 - [https://www.leclochard-utrecht.nl/](https://www.leclochard-utrecht.nl/) — website; Bar en Bistro Le Clochard; bronveld gecontroleerd: 2026-10-26
@@ -659,7 +696,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### morrowutrecht.nl
 
-- [https://morrowutrecht.nl/](https://morrowutrecht.nl/) — website; Morrow; bronveld gecontroleerd: 2026-10-26
+- [https://morrowutrecht.nl/](https://morrowutrecht.nl/) — openingstijden, sluitingstijden, website; Morrow; bronveld gecontroleerd: 2026-10-26
 
 ### mr-finch.nl
 
@@ -691,6 +728,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.ontdek-utrecht.nl/locatie/klein-berlijn/](https://www.ontdek-utrecht.nl/locatie/klein-berlijn/) — openingstijden, sluitingstijden; Klein Berlijn; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/lebowski](https://www.ontdek-utrecht.nl/locatie/lebowski) — openingstijden, sluitingstijden; Lebowski; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/t-oude-pothuys](https://www.ontdek-utrecht.nl/locatie/t-oude-pothuys) — openingstijden, sluitingstijden; ’t Oude Pothuys; bronveld gecontroleerd: 2026-10-26
+- [https://www.ontdek-utrecht.nl/locatie/the-malt-vault/](https://www.ontdek-utrecht.nl/locatie/the-malt-vault/) — achtergrond; The Malt Vault; bronveld gecontroleerd: onbekend
+- [https://www.ontdek-utrecht.nl/locatie/toque-toque](https://www.ontdek-utrecht.nl/locatie/toque-toque) — achtergrond; Toque Toque Foodcafé; bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/](https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/) — achtergrond; Brisa, Do Belo, En Public, Gastrobar Florijn, Morrow (+ 3 meer); bronveld gecontroleerd: onbekend
 
 ### oproerbrouwerij.nl
@@ -707,7 +746,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### oudepierement.nl
 
-- [https://www.oudepierement.nl/](https://www.oudepierement.nl/) — website; Café ’t Oude Pierement; bronveld gecontroleerd: 2026-10-26
+- [https://www.oudepierement.nl/](https://www.oudepierement.nl/) — openingstijden, sluitingstijden, website; Café ’t Oude Pierement; bronveld gecontroleerd: 2026-10-26
 
 ### ouwedikkedries.nl
 
@@ -739,6 +778,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://quignon.nl/](https://quignon.nl/) — website; Quignon; bronveld gecontroleerd: 2026-10-26
 - [https://quignon.nl/contact/](https://quignon.nl/contact/) — openingstijden, sluitingstijden; Quignon; bronveld gecontroleerd: 2026-10-26
 
+### restaurant-broei.com
+
+- [https://www.restaurant-broei.com/utrecht](https://www.restaurant-broei.com/utrecht) — openingstijden, sluitingstijden, website; BROEI Utrecht; bronveld gecontroleerd: 2026-10-26
+
 ### restaurantconcours.nl
 
 - [https://restaurantconcours.nl/](https://restaurantconcours.nl/) — openingstijden, sluitingstijden, website; Café Concours; bronveld gecontroleerd: 2026-10-26
@@ -759,6 +802,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### rum-club.nl
 
 - [https://rum-club.nl/](https://rum-club.nl/) — website; Rum Club; bronveld gecontroleerd: 2026-10-26
+
+### sevenutrecht.nl
+
+- [https://sevenutrecht.nl/](https://sevenutrecht.nl/) — openingstijden, sluitingstijden, website; Restaurant Seven Utrecht; bronveld gecontroleerd: 2026-10-26
+- [https://sevenutrecht.nl/reserveren/](https://sevenutrecht.nl/reserveren/) — achtergrond; Restaurant Seven Utrecht; bronveld gecontroleerd: onbekend
 
 ### soia.nl
 
@@ -782,6 +830,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.stathe.nl/](https://www.stathe.nl/) — website; Stathe; bronveld gecontroleerd: 2026-10-26
 
+### steaksandribs.nl
+
+- [https://www.steaksandribs.nl/](https://www.steaksandribs.nl/) — achtergrond, website; Broadway American Steakhouse; bronveld gecontroleerd: onbekend
+- [https://www.steaksandribs.nl/contact/](https://www.steaksandribs.nl/contact/) — openingstijden, sluitingstijden; Broadway American Steakhouse; bronveld gecontroleerd: 2026-10-26
+
 ### stichtsetaveerne.nl
 
 - [https://www.stichtsetaveerne.nl/](https://www.stichtsetaveerne.nl/) — website; Stichtse Taveerne; bronveld gecontroleerd: 2026-10-26
@@ -794,6 +847,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.taphuys.nl/utrecht/](https://www.taphuys.nl/utrecht/) — openingstijden, website; ’t Taphuys; bronveld gecontroleerd: 2026-10-26
 
+### teds-place.mom
+
+- [https://teds-place.mom/locations/utrecht-oudegracht/](https://teds-place.mom/locations/utrecht-oudegracht/) — openingstijden, sluitingstijden, website; Teds Utrecht Oudegracht; bronveld gecontroleerd: 2026-10-26
+
 ### theaterkikker.nl
 
 - [https://www.theaterkikker.nl/je-bezoek/veelgestelde-vragen](https://www.theaterkikker.nl/je-bezoek/veelgestelde-vragen) — sluitingstijden, website; Theater Kikker; bronveld gecontroleerd: 2026-10-25
@@ -805,7 +862,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### themaltvault.nl
 
-- [https://www.themaltvault.nl/utrecht](https://www.themaltvault.nl/utrecht) — website; The Malt Vault; bronveld gecontroleerd: 2026-10-26
+- [https://www.themaltvault.nl/utrecht](https://www.themaltvault.nl/utrecht) — openingstijden, sluitingstijden, website; The Malt Vault; bronveld gecontroleerd: 2026-10-26
 
 ### themick.nl
 
@@ -815,6 +872,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.tivolivredenburg.nl/](https://www.tivolivredenburg.nl/) — website; TivoliVredenburg; bronveld gecontroleerd: onbekend
 - [https://www.tivolivredenburg.nl/bezoek/](https://www.tivolivredenburg.nl/bezoek/) — sluitingstijden; TivoliVredenburg; bronveld gecontroleerd: 2026-10-25
+
+### toque.nl
+
+- [https://toque.nl/](https://toque.nl/) — openingstijden, sluitingstijden, website; Toque Toque Foodcafé; bronveld gecontroleerd: 2026-10-26
 
 ### ubicautrecht.nl
 
@@ -862,6 +923,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### verseuitjes.nl
 
 - [https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono](https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono) — onderzoeksnotitie, openingstijden, sluitingstijden, terugkerende_vindplaats; Nomono; bronveld gecontroleerd: 2026-10-26
+- [https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef](https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef) — openingstijden, sluitingstijden; De Troef spelletjescafé; bronveld gecontroleerd: 2026-10-26
 
 ### vind-open.nl
 
@@ -870,6 +932,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### visitutrechtregion.com
 
 - [https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus](https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus) — sluitingstijden; Brouwerij Maximus; bronveld gecontroleerd: 2026-10-25
+
+### werkenbijutrechtsehorecagroep.nl
+
+- [https://werkenbijutrechtsehorecagroep.nl/contact/](https://werkenbijutrechtsehorecagroep.nl/contact/) — openingstijden, sluitingstijden; Club Claar; bronveld gecontroleerd: 2026-10-26
 
 ### wijnbar-kurk.nl
 
