@@ -7684,20 +7684,20 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://cafetilt.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Gidsen vermelden afwijkende sluitingstijden. Eigen site aangehouden.",
       "features": "Spelletjes / speciaalbier",
-      "website": "",
+      "website": "https://cafetilt.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/7/",
@@ -7709,7 +7709,20 @@
         "lon": 5.1256703,
         "method": "PDOK BAG-adres",
         "matched_address": "Lange Jufferstraat 62, 3512EE Utrecht"
-      }
+      },
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "Eigen website",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://cafetilt.nl/contact/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "tivolivredenburg-869d218",
@@ -8437,20 +8450,20 @@
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "00:00",
-        "di": "00:00",
-        "wo": "00:00",
-        "do": "00:00",
-        "vr": "00:00",
-        "za": "00:00",
-        "zo": "00:00"
+        "ma": "Varieert",
+        "di": "Varieert",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/wijncafe-lefebvre/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://lefebvre.nl/contact/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Gidsen vermelden afwijkende sluitingstijden. Eigen site aangehouden.",
       "features": "Wijn / borrel",
-      "website": "",
+      "website": "https://lefebvre.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/8/"
@@ -8461,7 +8474,20 @@
         "lon": 5.1191399,
         "method": "PDOK BAG-adres",
         "matched_address": "Neude 2, 3512AD Utrecht"
-      }
+      },
+      "website_checked_on": "2026-10-26",
+      "website_provenance": "Eigen website",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://lefebvre.nl/contact/",
+      "opening_checked_on": "2026-10-26"
     },
     {
       "id": "winkel-van-sinkel-27c2af5",
