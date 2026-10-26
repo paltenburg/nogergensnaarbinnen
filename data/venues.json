@@ -1735,6 +1735,50 @@
       "opening_checked_on": "2026-10-26"
     },
     {
+      "id": "cafe-concours-20261026",
+      "name": "Café Concours",
+      "type": "Wijn- en foodbar",
+      "address": "Biltstraat 23",
+      "city": "Utrecht",
+      "region": "utrecht",
+      "country": "Nederland",
+      "access": "Openbaar; eigen site noemt binnenlopen zonder reservering",
+      "alcohol": "Wijnbar volgens eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website, weekdagconflict tussen productiesite en previewsite",
+      "closing_source": "https://restaurantconcours.nl/",
+      "checked_on": "2026-10-26",
+      "closing_notes": "Productiesite vermeldt wo–zo 16:00–23:00, previewsite di–za 15:00–23:00. Dinsdag en zondag zijn daarom onbekend, niet als gesloten/open bevestigd. Wo–za sluiten beide bronnen om 23:00. Openingstijd wo–za conservatief 16:00 overgenomen; kan 15:00 zijn. Controle nodig bij eigenaar.",
+      "features": "Borrel, wijn, foodbar",
+      "website": "https://restaurantconcours.nl/",
+      "other_sources": [
+        "https://preview.restaurantconcours.nl/wine-foodbar",
+        "https://www.debuik.nl/utrecht/restaurant/concours-caf"
+      ],
+      "original_status": "Nieuw gevonden bij vergelijking met landelijke horecagidsen; dagconflict",
+      "geo": null,
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "?"
+      },
+      "opening_source": "https://restaurantconcours.nl/",
+      "opening_checked_on": "2026-10-26"
+    },
+    {
       "id": "cafe-de-achtertuin-61a6f9a",
       "name": "Café de Achtertuin",
       "type": "Café/dansbar",
