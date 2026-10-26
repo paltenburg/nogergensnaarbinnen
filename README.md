@@ -2,6 +2,10 @@
 
 Gratis, zelfstandige interactieve horecakaart. **Utrecht is de eerste regio**, maar de naam en gegevensstructuur zijn niet aan Utrecht gebonden.
 
+## Vermelding van AI-inhoud
+
+**Alle teksten, beschrijvingen en samengestelde locatie-informatie op de website zijn met AI gegenereerd of verwerkt.** Het register is mede op externe bronnen gebaseerd, maar niet alle gegevens zijn onafhankelijk of actueel gecontroleerd. Controleer praktische informatie bij de betreffende locatie. Deze melding staat zichtbaar bij de filters en ook in de detailvensters op de kaart.
+
 ## Gegevens
 
 De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Van **33 locaties ontbrak een adres** in die bron. De data is niet uitputtend, en openingstijden zijn niet beschikbaar; alleen sluitingstijden zijn opgenomen. Zonder openingstijden kan de app **geen 'nu open'** garanderen.
