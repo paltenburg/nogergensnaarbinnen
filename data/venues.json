@@ -1021,7 +1021,9 @@
         "za"
       ],
       "last_entry_source": "https://clubbasis.nl/faq/",
-      "last_entry_checked_on": "2026-10-26"
+      "last_entry_checked_on": "2026-10-26",
+      "last_entry_quality": "Gebruikelijke uiterste toegang bij de meeste evenementen (officiële FAQ)",
+      "last_entry_notes": "Afhankelijk van evenement; zie de specifieke clubnacht."
     },
     {
       "id": "bassment-7cf6c51",
@@ -1704,7 +1706,9 @@
         "zo": "—"
       },
       "last_entry_source": "https://cafecobus.nl/wie-zijn-wij/",
-      "last_entry_checked_on": "2026-10-26"
+      "last_entry_checked_on": "2026-10-26",
+      "last_entry_quality": "Officiële website (regel na 22:00 geen nieuwe klanten)",
+      "last_entry_notes": "Dinsdag sluit het café al om 20:00, zodat toegang en sluiting samenvallen."
     },
     {
       "id": "cafe-claire-d29b9e5",
@@ -8798,6 +8802,23 @@
       },
       "website_provenance": "official-closing-time-source (may be subpage)",
       "website_checked_on": "2026-10-25"
+    }
+  ],
+  "admission_policies": [
+    {
+      "id": "sudwest-fryslan-natte-nachthoreca",
+      "municipality": "Súdwest-Fryslân",
+      "locality_example": "Sneek",
+      "venue_class": "natte nachthoreca",
+      "max_last_entry": "02:00",
+      "max_closing": "04:00",
+      "policy_type": "legal_maxima_not_actual_venue_hours",
+      "applicable_only_when_explicitly_assigned": true,
+      "source": "https://lokaleregelgeving.overheid.nl/CVDR619964",
+      "law_reference": "Algemene Plaatselijke Verordening 2021 gemeente Súdwest-Fryslân, artikel 2:29 lid 2 onder a; actuele versie geldig vanaf 8 juli 2026",
+      "checked_on": "2026-10-26",
+      "exceptions": "Een vergunningvoorschrift, ontheffing of bijzondere dag kan hiervan afwijken. Niet toepassen op gewone cafés zonder bevestigde classificatie of op alle horecalocaties van Sneek.",
+      "guidance": "Ken admission_policy_id alleen aan een venue toe na verificatie van de categorie en eventuele individuele toestemming."
     }
   ]
 }
