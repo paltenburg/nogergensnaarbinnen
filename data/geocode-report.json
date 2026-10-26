@@ -1,14 +1,9 @@
 {
-  "total": 195,
-  "with_coordinates": 147,
-  "without_coordinates": 48,
-  "added_in_this_run": 0,
+  "total": 210,
+  "with_coordinates": 165,
+  "without_coordinates": 45,
+  "added_in_this_run": 18,
   "unmatched": [
-    {
-      "name": "Achter de Koekoek",
-      "address": "Noortstraat 1",
-      "reason": "no-exact-PDOK-match"
-    },
     {
       "name": "B.I.T.O.N.",
       "address": "",
@@ -75,17 +70,7 @@
       "reason": "missing-address"
     },
     {
-      "name": "De Postillon",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "De Potdeksel",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "De Stadsgenoot",
       "address": "",
       "reason": "missing-address"
     },
@@ -98,6 +83,11 @@
       "name": "Dito",
       "address": "",
       "reason": "missing-address"
+    },
+    {
+      "name": "Eetcafé De Vingerhoed",
+      "address": "Donkere Gaard 11",
+      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "EKKO",
@@ -143,6 +133,11 @@
       "name": "KweekVijver Utrecht",
       "address": "",
       "reason": "missing-address"
+    },
+    {
+      "name": "Le French Café",
+      "address": "Voorstraat 16-18",
+      "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Le Journal",
@@ -225,22 +220,12 @@
       "reason": "missing-address"
     },
     {
-      "name": "Walden",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "Werkspoorcafé",
       "address": "",
       "reason": "missing-address"
     },
     {
       "name": "Wijnbar Kurk",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Wijnbar VinVin",
       "address": "",
       "reason": "missing-address"
     }

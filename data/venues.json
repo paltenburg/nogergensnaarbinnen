@@ -288,7 +288,12 @@
         "https://www.debuik.nl/utrecht/top-10/9x-bruine-utrechtse-kroegen-buiten-het-centrum"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": {
+        "lat": 52.100395,
+        "lon": 5.1197519,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willem van Noortstraat 1, 3514GA Utrecht"
+      }
     },
     {
       "id": "acu-3dba8aa",
@@ -520,7 +525,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0781842,
+        "lon": 5.130969,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Gansstraat 164, 3582EP Utrecht"
+      }
     },
     {
       "id": "bar-basta-5726ebe",
@@ -742,7 +752,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0892075,
+        "lon": 5.1263495,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ridderhofstad 2, 3512KL Utrecht"
+      }
     },
     {
       "id": "bar-josefien-a5ca3eb",
@@ -2041,7 +2056,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0890724,
+        "lon": 5.1179558,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Mariaplaats 44, 3511LL Utrecht"
+      }
     },
     {
       "id": "cafe-elize-wagenstraat-20261026",
@@ -2084,7 +2104,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0901461,
+        "lon": 5.1341956,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wagenstraat 50, 3581WR Utrecht"
+      }
     },
     {
       "id": "cafe-flater-334faf2",
@@ -2942,7 +2967,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0894831,
+        "lon": 5.1354407,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Burgemeester Reigerstraat 45, 3581KL Utrecht"
+      }
     },
     {
       "id": "champaneria-los-amigos-560e1d0",
@@ -3591,7 +3621,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0892373,
+        "lon": 5.1209414,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lijnmarkt 50, 3511KJ Utrecht"
+      },
       "website_provenance": "Official business site verified from current 2026 online research",
       "website_checked_on": "2026-10-26",
       "opening": {
@@ -3668,7 +3703,12 @@
         "https://www.uitutrecht.com/uitgaan/page/3/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0951333,
+        "lon": 5.1185745,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Breedstraat 8, 3512TW Utrecht"
+      },
       "opening": {
         "ma": "15:00",
         "di": "15:00",
@@ -4292,7 +4332,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0850737,
+        "lon": 5.1673053,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Weg tot de Wetenschap 400, 3584CN Utrecht"
+      }
     },
     {
       "id": "grieks-cafe-athene-59104e7",
@@ -5200,7 +5245,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0952198,
+        "lon": 5.1220783,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 80, 3512AT Utrecht"
+      }
     },
     {
       "id": "louis-hartlooper-complex-cad32d9",
@@ -5317,7 +5367,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0921034,
+        "lon": 5.1159188,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Drieharingstraat 9, 3511BH Utrecht"
+      }
     },
     {
       "id": "mick-oconnells-317cc7c",
@@ -6368,7 +6423,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.1074214,
+        "lon": 5.1069502,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jagerskade 15, 3552TL Utrecht"
+      }
     },
     {
       "id": "rosie-4524621",
@@ -6591,7 +6651,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0844931,
+        "lon": 5.1757405,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Heidelberglaan 15, 3584CS Utrecht"
+      }
     },
     {
       "id": "slachtstraat-filmtheater-3db7b64",
@@ -7133,7 +7198,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0907065,
+        "lon": 5.1151969,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Rijnkade 5, 3511LC Utrecht"
+      }
     },
     {
       "id": "the-malt-vault-9ed8152",
@@ -7512,7 +7582,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0952308,
+        "lon": 5.1229663,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 102, 3512AV Utrecht"
+      }
     },
     {
       "id": "union-house-35b4945",
@@ -7758,7 +7833,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0908512,
+        "lon": 5.120788,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Domplein 16, 3512JD Utrecht"
+      },
       "website_provenance": "Official business site verified from current 2026 online research",
       "website_checked_on": "2026-10-26",
       "opening": {
@@ -7883,7 +7963,12 @@
       "website_checked_on": "2026-10-26",
       "other_sources": [],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0922931,
+        "lon": 5.1229616,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Keistraat 8, 3512HV Utrecht"
+      }
     },
     {
       "id": "wijnbar-kurk-2422637",
@@ -7982,7 +8067,12 @@
         "https://www.uitutrecht.com/uitgaan/page/8/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0945562,
+        "lon": 5.1186604,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Predikherenstraat 19, 3512TL Utrecht"
+      },
       "website_provenance": "Official business site verified from current 2026 online research",
       "website_checked_on": "2026-10-26",
       "opening": {
