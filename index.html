@@ -114,6 +114,38 @@
     .empty{color:#526779}
     @media(max-width:880px){.filters .intent-title,.filters .visit-hint{grid-column:1/-1}}
     @media(max-width:520px){.intent-title{font-size:20px}}
+
+    /* Narrow screens prioritize: day/time -> map -> results -> secondary controls. */
+    .extra-filters{display:contents}
+    .extra-title{display:none}
+    @media(max-width:880px){
+      .app{display:flex;flex-direction:column;height:auto;min-height:100dvh}
+      .top{order:0;position:sticky;top:0;z-index:800}
+      .sidebar,.filters,.mapbox{display:contents}
+      .ai-disclosure{display:none!important}
+      .intent-title{order:1;display:block;flex:none;background:#fff;margin:0;padding:13px 15px 3px;font-size:20px}
+      .pair{order:2;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px;flex:none;background:#fff;padding:3px 15px 13px;border-bottom:1px solid #d9e2e9}
+      .filters .pair{grid-column:auto}
+      #map{order:3;position:relative;inset:auto;display:block;flex:none;width:100%;height:45dvh;min-height:320px;background:#e8ebec}
+      .results-header{order:4;flex:none;padding:13px 15px 9px}
+      .results{order:5;display:flex;flex:0 0 auto;overflow-x:auto;overflow-y:hidden;min-height:0;padding:0 10px 14px;gap:8px;overscroll-behavior-x:contain}
+      .results .card{flex:0 0 260px;width:260px;margin:0;padding:12px}
+      .extra-filters{order:6;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;background:#fff;border-top:1px solid #dce5ec;border-bottom:1px solid #dce5ec;padding:13px 15px 16px}
+      .extra-title{display:block;grid-column:1/-1;font-size:14px;font-weight:750;color:#273d4e}
+      .extra-filters .search-wrap,.extra-filters .check-line{grid-column:1/-1}
+      .visit-hint{order:7;flex:none;margin:13px 15px 0}
+      .foot{order:8;display:block;background:transparent;border:0;padding:12px 15px;color:#526879}
+      .floating{order:9;display:block;position:static;flex:none;max-width:none;margin:6px 15px;padding:9px 12px;box-shadow:none}
+      .legend{order:10;display:block;position:static;flex:none;margin:10px 15px 20px;box-shadow:none}
+      .legend-row{display:inline-flex;margin:5px 12px 5px 0}
+      .mapbox{background:transparent}
+    }
+    @media(max-width:520px){
+      .intent-title{font-size:19px}
+      #map{height:43dvh;min-height:290px}
+      .results .card{flex-basis:245px;width:245px}
+      .top .brand p{font-size:11px}
+    }
   </style>
 </head>
 <body>
@@ -131,10 +163,13 @@
       <div class="intent-title">Nog ergens naar binnen vanaf:</div>
       <div class="pair"><div><label for="day">Dag</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Tijd</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div></div></div>
       <p id="visitHint" class="visit-hint">Kies een aankomsttijd in stappen van 30 minuten, of gebruik Nu voor de exacte huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet bekend.</p>
-            <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
+      <div class="extra-filters">
+        <div class="extra-title">Meer filters</div>
+        <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
       <div><label for="region">Regio</label><select id="region"><option value="utrecht">Utrecht</option></select></div>
       <div><label for="category">Soort locatie</label><select id="category"><option value="">Alle soorten</option><option value="cafe">Café & kroeg</option><option value="bar">Bar & borrel</option><option value="club">Club & dansen</option><option value="music">Muziek & podium</option><option value="restaurant">Restaurant & eten</option><option value="other">Overig</option></select></div>
-            <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
+        <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
+      </div>
     </div>
     <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span></div>
     <div class="results" id="results" aria-live="polite"><div class="empty">Gegevens laden…</div></div>
