@@ -16,6 +16,12 @@ Per 26 oktober 2026 bevatten **133 van de 212** horecarecords een vastgelegde di
 
 ## Gegevens
 
+### Eén gezaghebbende database
+
+**`data/venues.json` is de enige bron van waarheid voor horecalocaties.** Voeg nieuwe locaties, correcties, openingstijden, sluitingstijden, websites, bron-URL's en controledatums direct in dit bestand toe. Houd de bestaande locatie-ID's stabiel en verifieer eerst op naam én adres of een zaak al voorkomt. Laat onbekende en tegenstrijdige gegevens expliciet als zodanig staan; overschrijf niet blind met resultaten uit een andere gids.
+
+Excel- en CSV-bestanden zijn uitsluitend historische momentopnames of eenzijdige exports van de JSON; ze zijn geen tweede beheerdatabank en mogen **nooit** de actuele JSON automatisch overschrijven. Het bronnenregister (`data/source-register.json` en `.md`) wordt automatisch uit de JSON en onderzoeksnotities afgeleid; het is geen onafhankelijke database. Feedbackmeldingen zijn een afzonderlijk logboek en wijzigen horecagegevens niet zonder controle.
+
 De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Inmiddels bevat de masterdatabase **212 locaties**, met aanvullend gevonden zaken en correcties sinds 25 oktober 2026. Bij een deel van de locaties zijn ook openingstijden en soms een tijdstip voor laatste toegang bekend, maar de data is niet uitputtend. Zonder actuele openingstijden én laatste-toegangstijden kan de app **geen 'nu open' of gegarandeerde binnenkomst** beloven.
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
@@ -67,7 +73,7 @@ Voeg in `data/venues.json` een regio toe in `regions` en locaties met `region` g
 
 ## Bronverversing
 
-Het oorspronkelijke XLSX-bestand blijft als projectbron beschikbaar. Een nieuwe import kan met `python scripts/export_from_xlsx.py /pad/naar/bron.xlsx`; hiervoor is `artifact_tool` nodig. Bestaande geocodes met dezelfde stabiele locatie-ID blijven behouden. Meer praktisch: bijgewerkte locaties kunnen rechtstreeks in `data/venues.json` worden aangepast, daarna opnieuw gepubliceerd.
+Het oorspronkelijke XLSX-bestand blijft uitsluitend als historische projectbron beschikbaar. **Bewerk altijd `data/venues.json` rechtstreeks.** Het oude script `scripts/export_from_xlsx.py` is alleen geschikt voor eenmalige initiële migratie naar een nog niet bestaande JSON en weigert een bestaande masterdatabase te vervangen. Push de JSON-wijziging naar `main`; de GitHub Actions-workflow kan vervolgens coördinaten bijwerken, het afgeleide bronnenregister regenereren en de webkaart publiceren.
 
 ## Techniek / gebruik
 
