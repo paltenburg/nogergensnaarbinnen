@@ -4,7 +4,7 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 213,
-    "source_urls": 249,
+    "source_urls": 250,
     "domains": 149,
     "direct_website_fields": 134
   },
@@ -81,7 +81,7 @@
     },
     {
       "domain": "clubbasis.nl",
-      "source_pages": 5,
+      "source_pages": 6,
       "linked_venues": 1
     },
     {
@@ -3534,13 +3534,28 @@
       "needs_review": false
     },
     {
+      "url": "https://clubbasis.nl/event/basis-gweldbatun-all-night-long/",
+      "domain": "clubbasis.nl",
+      "first_registered_on": "2026-10-26",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "onderzoeksnotitie"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
       "url": "https://clubbasis.nl/event/basis-rebekah-all-night-long-7/",
       "domain": "clubbasis.nl",
       "first_registered_on": "2026-10-26",
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond"
+        "achtergrond",
+        "onderzoeksnotitie"
       ],
       "venues": [
         {
@@ -3564,7 +3579,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond"
+        "achtergrond",
+        "onderzoeksnotitie"
       ],
       "venues": [
         {
@@ -3588,6 +3604,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "onderzoeksnotitie",
         "sluitingstijden"
       ],
       "venues": [
@@ -3615,7 +3632,8 @@
       "manual_review_note": "",
       "roles": [
         "achtergrond",
-        "laatste_toegang"
+        "laatste_toegang",
+        "onderzoeksnotitie"
       ],
       "venues": [
         {
