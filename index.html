@@ -44,7 +44,7 @@
     .card-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.pill{font-size:10px;font-weight:700;color:#b9cddd;border-radius:6px;background:#273c50;padding:3px 6px}
     .mapbox{position:relative;min-width:0;background:#e8ebec}#map{position:absolute;inset:0;width:100%;height:100%}
     /* Only desaturate the basemap. The closing-time markers retain their category colors. */
-    #map .leaflet-tile{filter:var(--basemap-filter, grayscale(1) saturate(0) contrast(.93) brightness(1.07))}
+    #map .leaflet-tile{filter:var(--basemap-filter, saturate(.55) contrast(.95) brightness(1.06))}
     .floating{position:absolute;z-index:390;top:17px;right:17px;background:#122236ed;color:#eef5fa;border:1px solid #354b60;box-shadow:0 6px 25px #101d2c44;backdrop-filter:blur(9px);border-radius:12px;padding:11px 14px;max-width:255px}
     .floating strong{display:block;font-size:13px;margin-bottom:4px}.floating p{font-size:11px;color:#a8bacc;line-height:1.4;margin:0}
     .legend{position:absolute;bottom:24px;left:18px;z-index:390;background:#122236e8;color:#dae5ed;border:1px solid #34506a;border-radius:10px;padding:10px 12px;font-size:11px;box-shadow:0 3px 12px #172c3955}
@@ -221,12 +221,12 @@
       <div><label for="category">Soort locatie</label><select id="category"><option value="">Alle soorten</option><option value="cafe">Café & kroeg</option><option value="bar">Bar & borrel</option><option value="club">Club & dansen</option><option value="music">Muziek & podium</option><option value="restaurant">Restaurant & eten</option><option value="other">Overig</option></select></div>
         <label class="check-line"><input id="uncertain" type="checkbox"> Ook locaties met onduidelijke toegang</label>
         <div class="map-style-control">
-          <button id="mapStyleToggle" class="map-style-toggle" type="button" aria-controls="mapStylePanel" aria-expanded="false"><span>◈ Achtergrondkaart</span><span class="map-style-current" id="mapStyleCurrent">Grijs ▾</span></button>
+          <button id="mapStyleToggle" class="map-style-toggle" type="button" aria-controls="mapStylePanel" aria-expanded="false"><span>◈ Achtergrondkaart</span><span class="map-style-current" id="mapStyleCurrent">Pastel ▾</span></button>
           <div id="mapStylePanel" class="map-style-panel" hidden>
             <div class="map-style-options" role="group" aria-label="Kleurschema achtergrondkaart">
-              <label class="map-style-option"><input type="radio" name="mapStyle" value="gray" checked><span class="map-style-swatch" style="background:linear-gradient(145deg,#f0f0ee 0 45%,#d6d8d6 45% 55%,#bdbfbd 55% 100%)"></span>Grijs</label>
+              <label class="map-style-option"><input type="radio" name="mapStyle" value="gray"><span class="map-style-swatch" style="background:linear-gradient(145deg,#f0f0ee 0 45%,#d6d8d6 45% 55%,#bdbfbd 55% 100%)"></span>Grijs</label>
               <label class="map-style-option"><input type="radio" name="mapStyle" value="color"><span class="map-style-swatch" style="background:linear-gradient(145deg,#cce4b7 0 37%,#f3e5c7 37% 63%,#9ac8df 63%)"></span>Kleur</label>
-              <label class="map-style-option"><input type="radio" name="mapStyle" value="soft"><span class="map-style-swatch" style="background:linear-gradient(145deg,#dbe7d2 0 37%,#f2ecdd 37% 63%,#bfdae7 63%)"></span>Pastel</label>
+              <label class="map-style-option"><input type="radio" name="mapStyle" value="soft" checked><span class="map-style-swatch" style="background:linear-gradient(145deg,#dbe7d2 0 37%,#f2ecdd 37% 63%,#bfdae7 63%)"></span>Pastel</label>
               <label class="map-style-option"><input type="radio" name="mapStyle" value="warm"><span class="map-style-swatch" style="background:linear-gradient(145deg,#d8d4ac 0 37%,#f3e0bc 37% 63%,#c5b5a0 63%)"></span>Warm</label>
               <label class="map-style-option"><input type="radio" name="mapStyle" value="cool"><span class="map-style-swatch" style="background:linear-gradient(145deg,#bedbd7 0 37%,#dce8ea 37% 63%,#95bdd6 63%)"></span>Koel</label>
               <label class="map-style-option"><input type="radio" name="mapStyle" value="dark"><span class="map-style-swatch" style="background:linear-gradient(145deg,#344a53 0 37%,#243740 37% 63%,#182a3b 63%)"></span>Donker</label>
@@ -266,7 +266,7 @@
   };
   function savedMapStyle(){try{return localStorage.getItem('ngnb-map-style');}catch(_){return null;}}
   const initialMapStyle=urlp.has('kaart')?urlp.get('kaart'):savedMapStyle();
-  const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1',mapStyle:mapStyles[initialMapStyle]?initialMapStyle:'gray'};
+  const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1',mapStyle:mapStyles[initialMapStyle]?initialMapStyle:'soft'};
   const esc=value=>String(value ?? '').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
   const cleanLink=value=>/^https?:\/\//i.test(String(value))?String(value):'';
   function timeVal(s){ if(!/^\d\d:\d\d$/.test(String(s)))return null; let [h,m]=s.split(':').map(Number);if(h>23||m>59)return null; return 60*h+m+(h<12?1440:0); }
