@@ -29,6 +29,9 @@
     input[type=time]:focus{border-color:#f3b55b;box-shadow:0 0 0 2px #f3b55b33}
     .time-wrap{display:flex;gap:5px;min-width:0}
     .time-wrap select{flex:1;min-width:0;padding-right:22px}
+    .custom-time-row{margin-top:7px}
+    .custom-time-row[hidden]{display:none}
+    .custom-time-row input[type=time]{width:100%}
     .now-button{background:#2d445a;border:1px solid #526a7c;color:#f3f6fa;border-radius:8px;padding:0 8px;font-size:12px;font-weight:750;white-space:nowrap}
     .now-button:hover{background:#3d5c72}
     .visit-hint{font-size:11px;line-height:1.5;color:#aabfd0;background:#1a2d41;border-left:3px solid #e7b84d;border-radius:4px;padding:9px 10px;margin:0}.check-line{display:flex;align-items:center;gap:8px;color:#a5b8ca;font-size:12px;cursor:pointer;margin-top:1px}.check-line input{accent-color:#f3b55b;width:16px;height:16px}
@@ -212,8 +215,8 @@
     </section>
     <div class="filters">
       <div class="intent-title">Nog ergens naar binnen vanaf:</div>
-      <div class="pair"><div><label for="day">Dag</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Tijd</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div></div></div>
-      <p id="visitHint" class="visit-hint">Kies een aankomsttijd in stappen van 30 minuten, of gebruik Nu voor de exacte huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet bekend.</p>
+      <div class="pair"><div><label for="day">Dag</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Tijd</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div><div class="custom-time-row" id="customTimeRow" hidden><label for="customTime">Exact tijdstip</label><input id="customTime" type="time" step="60" aria-describedby="visitHint"></div></div></div>
+      <p id="visitHint" class="visit-hint">Kies een aankomsttijd of 'Ander tijdstip' voor een exacte tijd. Met Nu gebruik je de huidige tijd. Sluiting moet ná aankomst liggen; laatste toegang is niet overal bekend.</p>
       <div class="extra-filters">
         <div class="extra-title">Meer filters</div>
         <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
@@ -491,18 +494,28 @@
       if(active)marker.bringToFront();
     }}
   }
-  function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();fitVisibleMarkers();}
-  function fillHalfHourOptions(){
+  function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value==='__custom__'?el('customTime').value:el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();fitVisibleMarkers();}
+  function fillArrivalOptions(){
     const select=el('after');
-    const groups=[['Middag en avond',12,24],['Na middernacht',0,12]];
-    for(const [label,start,end] of groups){
+    // Keep the default list short; specific half-hour or minute values remain available.
+    const groups=[
+      ['Overdag',['12:00','14:00','16:00']],
+      ['Avond',['17:00','18:00','19:00','20:00','21:00','22:00','23:00']],
+      ['Nacht',['00:00','01:00','02:00','03:00','04:00','05:00','06:00']]
+    ];
+    for(const [label,times] of groups){
       const group=document.createElement('optgroup');group.label=label;
-      for(let h=start;h<end;h++)for(const m of [0,30]){
-        const time=String(h).padStart(2,'0')+':'+String(m).padStart(2,'0');
+      for(const time of times){
         const option=document.createElement('option');option.value=time;option.textContent=time;group.appendChild(option);
       }
       select.appendChild(group);
     }
+    const exact=document.createElement('option');exact.value='__custom__';exact.textContent='Ander tijdstip…';select.appendChild(exact);
+  }
+  function toggleCustomTime(){
+    const custom=el('after').value==='__custom__';
+    el('customTimeRow').hidden=!custom;
+    if(custom)el('customTime').focus();
   }
   function selectArrival(time,label){
     const select=el('after');
@@ -512,6 +525,7 @@
       const extra=document.createElement('option');extra.dataset.temporary='true';extra.value=time;extra.textContent=label||time;select.insertBefore(extra,select.options[1]||null);
     }
     select.value=time;
+    el('customTimeRow').hidden=true;
   }
   function useCurrentDutchTime(){
     // Between midnight and 06:00, show the previous nightlife evening.
@@ -567,8 +581,10 @@
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
     map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
-  async function start(){initMapStyle();initMap();fillHalfHourOptions();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;selectArrival(state.after);el('search').value=state.q;el('uncertain').checked=state.uncertain;
-    try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;el('nowBtn').addEventListener('click',useCurrentDutchTime);for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='day'||id==='after')state.sameDayMorning=false;change();});render();
+  async function start(){initMapStyle();initMap();fillArrivalOptions();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;selectArrival(state.after);el('search').value=state.q;el('uncertain').checked=state.uncertain;
+    try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;el('nowBtn').addEventListener('click',useCurrentDutchTime);
+      el('customTime').addEventListener('input',()=>{state.sameDayMorning=false;change();});
+      for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='day'||id==='after')state.sameDayMorning=false;if(id==='after')toggleCustomTime();change();});render();
       // Wait for the mobile flex layout to settle before calculating initial bounds.
       if(map)requestAnimationFrame(fitVisibleMarkers);
     }catch(err){el('results').innerHTML=`<div class="empty"><strong>Gegevens niet geladen.</strong><br>${esc(err.message)}<br>Open de website via GitHub Pages of een lokale webserver; rechtstreeks openen als file:// ondersteunt het inlezen van JSON niet altijd.</div>`;el('locatedCount').textContent='Niet beschikbaar';}
