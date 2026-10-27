@@ -1,6 +1,6 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-10-26 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-10-27 uit de locatiedatabase en onderzoeksverslagen.
 
 **287 geregistreerde bron-URL's**, 162 domeinen; gekoppeld aan **222 locaties**.
 
