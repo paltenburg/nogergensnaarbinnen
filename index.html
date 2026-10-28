@@ -243,6 +243,55 @@
       .visit-hint{order:6;flex:none;display:block;max-width:none;margin:10px 15px 0;padding:8px 10px;font-size:10px;line-height:1.4}
       .foot{order:7;flex:none;display:block;padding:11px 15px 13px;border:0;background:transparent;font-size:10px;line-height:1.4}
     }
+
+    /* Mobile: the map is also full-viewport, with lightweight controls floating
+       above it and a horizontally swipeable strip of locations at the bottom. */
+    .mobile-filters-toggle,.mobile-filters-close,.mobile-filter-info,.mobile-filters-backdrop{display:none}
+    @media(max-width:880px){
+      html,body{height:100%;overflow:hidden}
+      .app{--mobile-cards-height:clamp(180px,31dvh,250px);position:relative;display:block;height:100dvh;min-height:0;overflow:hidden}
+      .mapbox{display:block;position:fixed;inset:0;width:100%;height:100dvh;min-height:0;z-index:0;background:#e8ebec}
+      #map{display:block;position:absolute;inset:0;width:100%;height:100%;min-height:0;overflow-anchor:none}
+      .top{position:fixed;top:calc(env(safe-area-inset-top,0px) + 7px);left:8px;right:8px;z-index:850;display:flex;width:auto;padding:11px 12px;border:1px solid #d7e1e8;border-radius:13px;background:#fffffff0;box-shadow:0 4px 17px #20394c2a;backdrop-filter:blur(9px)}
+      .sidebar,.filters{display:contents}
+      .intent-title{position:fixed;top:calc(env(safe-area-inset-top,0px) + 73px);left:8px;right:8px;z-index:740;display:block;margin:0;padding:10px 12px 3px;font-size:16px;line-height:1.25;border:1px solid #d7e1e8;border-bottom:0;border-radius:12px 12px 0 0;background:#fffffff1;box-shadow:0 3px 12px #20394c1f}
+      .pair,.filters .pair{position:fixed;top:calc(env(safe-area-inset-top,0px) + 107px);left:8px;right:8px;z-index:740;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:9px;margin:0;padding:6px 11px 12px;border:1px solid #d7e1e8;border-top:0;border-radius:0 0 12px 12px;background:#fffffff1;box-shadow:0 5px 16px #20394c24}
+      .pair select{padding:10px 26px 10px 8px;font-size:13px}
+      .pair label{font-size:11px}
+      .now-button{padding:0 8px}
+      .results-header{position:fixed;bottom:calc(var(--mobile-cards-height) + env(safe-area-inset-bottom,0px) + 11px);left:8px;right:8px;z-index:740;display:flex;align-items:center;gap:7px;margin:0;padding:7px 10px;background:#fffffff0;border:1px solid #d7e1e8;border-radius:11px;box-shadow:0 3px 15px #20394c26;backdrop-filter:blur(8px)}
+      .results-header h2{font-size:14px;white-space:nowrap}
+      .results-header #locatedCount{margin-left:auto;white-space:nowrap;font-size:11px}
+      .mobile-filters-toggle{display:inline-block;flex:none;border:1px solid #aac1d2;border-radius:8px;background:#e9f3f9;color:#25506e;font-size:12px;font-weight:750;padding:7px 9px}
+      .mobile-filters-toggle:focus-visible,.mobile-filters-close:focus-visible{outline:3px solid #2674b4;outline-offset:2px}
+      .results{position:fixed;bottom:calc(env(safe-area-inset-bottom,0px) + 8px);left:8px;right:8px;z-index:730;display:flex;align-items:stretch;gap:8px;width:auto;height:var(--mobile-cards-height);max-height:var(--mobile-cards-height);min-height:var(--mobile-cards-height);margin:0;padding:0 1px 4px;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;scroll-padding-inline:1px;overscroll-behavior-x:contain;background:transparent}
+      .results .card{flex:0 0 min(79vw,315px);width:min(79vw,315px);min-width:0;height:100%;max-height:100%;min-height:0;align-self:stretch;margin:0;padding:10px 12px;overflow:hidden;display:flex;flex-direction:column;background:#fffffff5;box-shadow:0 3px 17px #163b5136;backdrop-filter:blur(8px)}
+      .results .card-main,.results .card-actions{flex:0 0 auto}
+      .results .card-more{flex:1 1 auto;min-height:0;overflow:hidden}
+      .results .card-more-content{max-height:120px;overflow-y:auto;overscroll-behavior-y:contain}
+      .results .empty{background:#fffffff0;border-radius:10px}
+      .visit-hint,.foot{display:none}
+      .extra-filters{display:none}
+      .mobile-filters-backdrop{display:none;position:fixed;inset:0;z-index:1050;border:0;background:#12243680}
+      body.mobile-filters-open .mobile-filters-backdrop{display:block}
+      body.mobile-filters-open .extra-filters{position:fixed;top:calc(env(safe-area-inset-top,0px) + 73px);left:12px;right:12px;bottom:calc(env(safe-area-inset-bottom,0px) + 12px);z-index:1100;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start;gap:14px 11px;width:auto;min-height:0;max-height:none;margin:0;padding:13px 15px 20px;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;border:1px solid #c4d6e4;border-radius:15px;background:#fff;box-shadow:0 14px 40px #152b4066}
+      .mobile-filters-close{display:block;grid-column:1/-1;justify-self:end;padding:8px 12px;border:1px solid #b6c9d6;border-radius:8px;background:#edf4f9;color:#244457;font-size:13px;font-weight:750}
+      .extra-filters .extra-title{display:block;grid-column:1/-1;font-size:17px;font-weight:800}
+      .extra-filters .search-wrap,.extra-filters .check-line,.extra-filters .map-style-control{grid-column:1/-1}
+      .mobile-filter-info{display:block;grid-column:1/-1;margin:2px 0 0;padding:10px 11px;border-left:3px solid #d99f33;border-radius:5px;background:#eef5f8;color:#415a6d;font-size:11px;line-height:1.5}
+      .map-style-options{grid-template-columns:repeat(3,minmax(0,1fr))}
+      #map .leaflet-bottom.leaflet-right{bottom:calc(var(--mobile-cards-height) + 59px)}
+    }
+    @media(max-width:880px) and (max-height:590px){
+      .app{--mobile-cards-height:clamp(142px,27dvh,190px)}
+      .results .card{padding:9px 10px}
+      .results .card-desc{margin-top:3px}
+    }
+    @media(max-width:350px){
+      .results-header #locatedCount{font-size:10px}
+      .top .brand p{display:none}
+      .map-style-options{grid-template-columns:repeat(2,minmax(0,1fr))}
+    }
   </style>
 </head>
 <body>
@@ -256,7 +305,8 @@
       <div class="intent-title">Nog ergens naar binnen vanaf:</div>
       <div class="pair"><div><label for="day">Dag</label><select id="day"><option value="ma">Maandag</option><option value="di">Dinsdag</option><option value="wo">Woensdag</option><option value="do">Donderdag</option><option value="vr">Vrijdag</option><option value="za">Zaterdag</option><option value="zo">Zondag</option></select></div><div><label for="after">Verder vanaf</label><div class="time-wrap"><select id="after" aria-describedby="visitHint"><option value="">Elk tijdstip</option></select><button type="button" id="nowBtn" class="now-button" title="Gebruik de exacte huidige tijd in Nederland">Nu</button></div><div class="custom-time-row" id="customTimeRow" hidden><label for="customTime">Exact tijdstip</label><input id="customTime" type="time" step="60" aria-describedby="visitHint"></div></div></div>
       <p id="visitHint" class="visit-hint">Kies de sluitingstijd van de zaak waar je bent, of gebruik Nu. We zoeken zaken die later sluiten. Bekende openings- en laatste toegangstijden tellen mee; reistijd niet.</p>
-      <div class="extra-filters">
+      <div class="extra-filters" id="extraFilters">
+        <button type="button" class="mobile-filters-close" id="mobileFiltersClose">Sluiten ×</button>
         <div class="extra-title">Meer filters</div>
         <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
       <div><label for="region">Regio</label><select id="region"><option value="utrecht">Utrecht</option></select></div>
@@ -276,9 +326,10 @@
             <p class="map-style-note">Alleen de achtergrondkaart verandert. De kleuren van de sluitingstijdstippen blijven hetzelfde.</p>
           </div>
         </div>
+        <p class="mobile-filter-info" id="mobileFilterInfo">Niet alle openingstijden en uiterste toegangstijden zijn bekend. Controleer die bij de locatie.</p>
       </div>
     </div>
-    <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span></div>
+    <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span><button type="button" id="mobileFiltersToggle" class="mobile-filters-toggle" aria-controls="extraFilters" aria-expanded="false">Filters</button></div>
     <div class="results" id="results" aria-live="polite"><div class="empty">Gegevens laden…</div></div>
     <div class="foot">Sluit een zaak ná je aankomsttijd, dan is binnenkomen <strong>niet gegarandeerd</strong>: openingstijden, laatste toegang en toegangsvoorwaarden ontbreken soms. Controleer bij de locatie.</div>
   </aside>
@@ -287,6 +338,7 @@
     <div class="floating"><strong id="mapTitle">Utrecht</strong><p id="mapCaption">Locaties met gecontroleerde coördinaten verschijnen als stippen.</p></div>
     <div class="legend"><strong>Kleur per sluitingstijd</strong><p>Elke exacte sluitingstijd krijgt een eigen kleur. Van groen via geel en oranje naar roze, paars en blauw. Grijs betekent onbekend of wisselend.</p></div>
   </main>
+  <button type="button" id="mobileFiltersBackdrop" class="mobile-filters-backdrop" aria-label="Sluit filters"></button>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
@@ -440,6 +492,32 @@
   }
 
 
+  function setMobileFilters(open,restoreFocus=false){
+    if(open&&window.matchMedia('(min-width:881px)').matches)return;
+    document.body.classList.toggle('mobile-filters-open',open);
+    el('mobileFiltersToggle').setAttribute('aria-expanded',String(open));
+    const panel=el('extraFilters');
+    if(open){
+      panel.setAttribute('role','dialog');
+      panel.setAttribute('aria-modal','true');
+      panel.setAttribute('aria-label','Meer filters');
+      el('mobileFiltersClose').focus();
+    }else{
+      panel.removeAttribute('role');
+      panel.removeAttribute('aria-modal');
+      panel.removeAttribute('aria-label');
+      if(restoreFocus)el('mobileFiltersToggle').focus();
+    }
+  }
+  function initMobileFilters(){
+    el('mobileFiltersToggle').addEventListener('click',()=>setMobileFilters(true));
+    el('mobileFiltersClose').addEventListener('click',()=>setMobileFilters(false,true));
+    el('mobileFiltersBackdrop').addEventListener('click',()=>setMobileFilters(false,true));
+    document.addEventListener('keydown',event=>{
+      if(event.key==='Escape'&&document.body.classList.contains('mobile-filters-open'))setMobileFilters(false,true);
+    });
+  }
+
   function choosePlace(id,fromMap=false){
     const card=cardsById.get(id);
     if(!card)return;
@@ -478,6 +556,7 @@
   function render(){const filtered=db.places.filter(eligible).sort(sortPlaces);el('count').textContent=filtered.length;const geocoded=filtered.filter(p=>Number.isFinite(p.geo?.lat)&&Number.isFinite(p.geo?.lon));el('locatedCount').textContent=`${geocoded.length} op kaart`;
     const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} ${state.sameDayMorning?'op deze dag':'in deze uitgaansavond/-nacht'}. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = tijd onbekend.';
     el('visitHint').textContent=state.after?`Nog open na ${state.after} volgens bekende tijden. ${state.sameDayMorning?'Dit is de ochtend van de gekozen dag. ':Number(state.after.slice(0,2))<12?'Dit is de volgende ochtend van de gekozen uitgaansdag. ':''}Bekende openings- en laatste toegangstijden tellen mee; onbekende toegang en reistijd blijven onzeker.`:'Kies de sluitingstijd van de zaak waar je bent, per halfuur, of gebruik Nu. We tonen zaken die daarna nog open zijn. Bekende openings- en laatste toegangstijden tellen mee; reistijd niet.';
+    el('mobileFilterInfo').textContent=el('visitHint').textContent+' '+document.querySelector('.foot').textContent;
 
     const out=el('results');out.replaceChildren();cardsById.clear();const frag=document.createDocumentFragment();
     if(selectedId&&!filtered.some(p=>p.id===selectedId))selectedId=null;
@@ -648,7 +727,7 @@
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
     map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
-  async function start(){initMapStyle();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('search').value=state.q;el('uncertain').checked=state.uncertain;
+  async function start(){initMapStyle();initMobileFilters();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('search').value=state.q;el('uncertain').checked=state.uncertain;
     try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;fillArrivalOptions();el('nowBtn').addEventListener('click',useCurrentDutchTime);
       el('customTime').addEventListener('input',()=>{state.sameDayMorning=false;change();});
       for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='day'||id==='after')state.sameDayMorning=false;if(id==='after')toggleCustomTime();change();if(id==='day'||id==='region'||id==='uncertain')fillArrivalOptions();});render();
@@ -656,7 +735,10 @@
       if(map)requestAnimationFrame(fitVisibleMarkers);
     }catch(err){el('results').innerHTML=`<div class="empty"><strong>Gegevens niet geladen.</strong><br>${esc(err.message)}<br>Open de website via GitHub Pages of een lokale webserver; rechtstreeks openen als file:// ondersteunt het inlezen van JSON niet altijd.</div>`;el('locatedCount').textContent='Niet beschikbaar';}
   }
-  window.addEventListener('resize',()=>{if(map)map.invalidateSize({pan:false});});
+  window.addEventListener('resize',()=>{
+    if(window.innerWidth>880&&document.body.classList.contains('mobile-filters-open'))setMobileFilters(false);
+    if(map)map.invalidateSize({pan:false});
+  });
   el('shareBtn').addEventListener('click',async()=>{encodeFilters();const link=location.href;try{if(navigator.share){await navigator.share({title:'nogergensnaarbinnen',url:link});return;}if(navigator.clipboard?.writeText){await navigator.clipboard.writeText(link);const btn=el('shareBtn');btn.textContent='✓ Link gekopieerd';setTimeout(()=>btn.textContent='↗ Deel kaart',2200);return;}}catch(e){if(e.name==='AbortError')return;}prompt('Kopieer deze link:',link);});
   start();
 })();
