@@ -11146,7 +11146,7 @@
       },
       "closing_quality": "Officiële website geeft uitsluitend uiterste sluiting (01:45), niet een gegarandeerde exacte sluiting; 01:45 dus niet als vast tijdstip in closing ingevuld.",
       "closing_source": "https://cafedekroonsneek.nl/",
-      "closing_notes": "Officiële site (29-10-2026): wo/do vanaf 16:00, vr/za/zo vanaf 14:00; ma/di gesloten; sluiting UITERLIJK 01:45, bij speciale avonden/Sneekweek afwijkingen. Geen expliciete laatste toegang. Andere gidsen noemen 03:00/04:00, maar die wijken af van de huidige eigen site. Door ontbrekende exacte sluiting/laatste toegang is het café bij een streng tijdsfilter mogelijk niet zichtbaar; later UI voor 'uiterlijk'-tijden maken.",
+      "closing_notes": "Officiële site (29-10-2026): wo/do vanaf 16:00, vr/za/zo vanaf 14:00; ma/di gesloten; sluiting UITERLIJK 01:45, bij speciale avonden/Sneekweek afwijkingen. Geen expliciete laatste toegang en geen exact sluitingsuur. De UI toont 'Uiterlijk 01:45' als bovengrens; de zaak wordt bij een streng tijdsfilter niet als gegarandeerd toegankelijk getoond. Andere gidsen noemen 03:00/04:00, maar wijken af van de huidige eigen site.",
       "features": "Café; terras, sportwedstrijden, vrijdag/zaterdag dj; entree gratis volgens eigen site",
       "website": "https://cafedekroonsneek.nl/",
       "other_sources": [
