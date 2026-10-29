@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**411 geregistreerde bron-URL's**, 216 domeinen; gekoppeld aan **410 locaties**.
+**415 geregistreerde bron-URL's**, 219 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -51,13 +51,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | friesland.nl | 7 | 8 |
 | clubbasis.nl | 6 | 1 |
 | waterlandvanfriesland.nl | 6 | 6 |
+| grootsneek.nl | 4 | 4 |
 | oozo.nl | 4 | 2 |
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
 | barbasta.nl | 3 | 1 |
 | bestrestos.nl | 3 | 3 |
-| grootsneek.nl | 3 | 2 |
 | noah-eetcafe.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
 | beersbarrels.nl | 2 | 2 |
@@ -107,7 +107,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | tivolivredenburg.nl | 2 | 1 |
 | visitwadden.nl | 2 | 1 |
 | wijnbarvinvin.nl | 2 | 1 |
-| 1841.nl | 1 | 1 |
+| 1841.nl | 1 | 3 |
 | aan-de-gracht.nl | 1 | 1 |
 | acu.nl | 1 | 1 |
 | agendaleeuwarden.nl | 1 | 0 |
@@ -179,9 +179,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | espressobar-smuk.nl | 1 | 1 |
 | etenbijguusjes.nl | 1 | 1 |
 | feestcafedekneus.nl | 1 | 1 |
+| fenixsneek.nl | 1 | 1 |
 | fietsroutenetwerk.nl | 1 | 1 |
 | findglocal.com | 1 | 1 |
 | florinutrecht.nl | 1 | 1 |
+| funda.nl | 1 | 1 |
 | gastrobarflorijn.nl | 1 | 1 |
 | grandcafelebowski.nl | 1 | 1 |
 | grandcafeliving.nl | 1 | 1 |
@@ -198,6 +200,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | kabulagogo.nl | 1 | 1 |
 | kabulagogo.weticket.io | 1 | 1 |
 | kafebelgie.nl | 1 | 1 |
+| karaokebarnachtegaal.nl | 1 | 1 |
 | kargadoor.nl | 1 | 1 |
 | kleinberlijn.de | 1 | 1 |
 | lc.nl | 1 | 1 |
@@ -265,7 +268,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### 1841.nl
 
-- [https://1841.nl/](https://1841.nl/) — achtergrond; Club 1841; bronveld gecontroleerd: onbekend
+- [https://1841.nl/](https://1841.nl/) — achtergrond; Club 1841, Fenix Sneek, Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
 
 ### aan-de-gracht.nl
 
@@ -735,6 +738,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://feestcafedekneus.nl/](https://feestcafedekneus.nl/) — website; Feestcafé de Kneus; bronveld gecontroleerd: 2026-10-26
 
+### fenixsneek.nl
+
+- [https://fenixsneek.nl/](https://fenixsneek.nl/) — openingstijden, sluitingstijden, website; Fenix Sneek; bronveld gecontroleerd: 2026-10-29
+
 ### fietsroutenetwerk.nl
 
 - [https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit](https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit) — achtergrond; Restaurant De Kajuit; bronveld gecontroleerd: onbekend
@@ -756,6 +763,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk](https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk) — achtergrond; Espressobar Smûk; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek](https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek) — achtergrond, openingstijden, sluitingstijden; Café De Spoek; bronveld gecontroleerd: 2026-10-29
 - [https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes](https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes) — achtergrond, terugkerende_vindplaats; De Babbelaar, Eetcafé 't Roodhert; bronveld gecontroleerd: onbekend
+
+### funda.nl
+
+- [https://www.funda.nl/detail/koop/sneek/huis-kruizebroederstraat-25/43634638/](https://www.funda.nl/detail/koop/sneek/huis-kruizebroederstraat-25/43634638/) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
 
 ### gastrobarflorijn.nl
 
@@ -779,7 +790,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### grootsneek.nl
 
-- [https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca](https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca) — achtergrond; Club 1841; bronveld gecontroleerd: onbekend
+- [https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca](https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca) — achtergrond; Club 1841, Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
+- [https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-](https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-) — achtergrond; Fenix Sneek; bronveld gecontroleerd: onbekend
 - [https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht](https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek](https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek) — achtergrond, sluitingstijden; Café 't Skûtsje; bronveld gecontroleerd: 2026-10-29
 
@@ -836,6 +848,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### kafebelgie.nl
 
 - [https://www.kafebelgie.nl/](https://www.kafebelgie.nl/) — website; Kafé België; bronveld gecontroleerd: 2026-10-26
+
+### karaokebarnachtegaal.nl
+
+- [https://karaokebarnachtegaal.nl/](https://karaokebarnachtegaal.nl/) — openingstijden, sluitingstijden, website; Karaokebar de Nachtegaal; bronveld gecontroleerd: 2026-10-29
 
 ### kargadoor.nl
 

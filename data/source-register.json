@@ -3,10 +3,10 @@
   "generated_on": "2026-10-29",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 410,
-    "source_urls": 411,
-    "domains": 216,
-    "direct_website_fields": 162
+    "venues": 412,
+    "source_urls": 415,
+    "domains": 219,
+    "direct_website_fields": 164
   },
   "discovery_sites": [
     {
@@ -184,6 +184,11 @@
       "linked_venues": 6
     },
     {
+      "domain": "grootsneek.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
       "domain": "oozo.nl",
       "source_pages": 4,
       "linked_venues": 2
@@ -212,11 +217,6 @@
       "domain": "bestrestos.nl",
       "source_pages": 3,
       "linked_venues": 3
-    },
-    {
-      "domain": "grootsneek.nl",
-      "source_pages": 3,
-      "linked_venues": 2
     },
     {
       "domain": "noah-eetcafe.nl",
@@ -466,7 +466,7 @@
     {
       "domain": "1841.nl",
       "source_pages": 1,
-      "linked_venues": 1
+      "linked_venues": 3
     },
     {
       "domain": "aan-de-gracht.nl",
@@ -824,6 +824,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "fenixsneek.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "fietsroutenetwerk.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -835,6 +840,11 @@
     },
     {
       "domain": "florinutrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "funda.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -915,6 +925,11 @@
     },
     {
       "domain": "kafebelgie.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "karaokebarnachtegaal.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1243,10 +1258,28 @@
           ],
           "checked_on": {},
           "needs_review": true
+        },
+        {
+          "id": "fenix-sneek-kleine-kerkstraat-4c",
+          "name": "Fenix Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "karaokebar-de-nachtegaal-sneek",
+          "name": "Karaokebar de Nachtegaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 1,
+      "linked_venue_count": 3,
       "needs_review": true
     },
     {
@@ -6301,6 +6334,37 @@
       "needs_review": false
     },
     {
+      "url": "https://fenixsneek.nl/",
+      "domain": "fenixsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "fenix-sneek-kleine-kerkstraat-4c",
+          "name": "Fenix Sneek",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit",
       "domain": "fietsroutenetwerk.nl",
       "first_registered_on": "2026-10-29",
@@ -6580,6 +6644,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.funda.nl/detail/koop/sneek/huis-kruizebroederstraat-25/43634638/",
+      "domain": "funda.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "mootz-sneek-0f73107",
+          "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://gastrobarflorijn.nl/",
       "domain": "gastrobarflorijn.nl",
       "first_registered_on": "2026-10-26",
@@ -6738,6 +6826,39 @@
         {
           "id": "club-1841-sneek-dab7a53",
           "name": "Club 1841",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "karaokebar-de-nachtegaal-sneek",
+          "name": "Karaokebar de Nachtegaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-",
+      "domain": "grootsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "fenix-sneek-kleine-kerkstraat-4c",
+          "name": "Fenix Sneek",
           "roles": [
             "achtergrond"
           ],
@@ -7210,6 +7331,37 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://karaokebarnachtegaal.nl/",
+      "domain": "karaokebarnachtegaal.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "karaokebar-de-nachtegaal-sneek",
+          "name": "Karaokebar de Nachtegaal",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.kargadoor.nl/",
@@ -17383,6 +17535,10 @@
         "name": "Feestcafé Het Swaentje"
       },
       {
+        "id": "fenix-sneek-kleine-kerkstraat-4c",
+        "name": "Fenix Sneek"
+      },
+      {
         "id": "ginny-348e59e",
         "name": "Ginny"
       },
@@ -17517,6 +17673,10 @@
       {
         "id": "kafee-8-drachten-e7c0e2d",
         "name": "Kafee 8"
+      },
+      {
+        "id": "karaokebar-de-nachtegaal-sneek",
+        "name": "Karaokebar de Nachtegaal"
       },
       {
         "id": "kb-food-drinks-dokkum-b461630",
@@ -18387,6 +18547,11 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
+        "id": "fenix-sneek-kleine-kerkstraat-4c",
+        "name": "Fenix Sneek",
+        "reason": "Aangekondigd rooster op eigen site: wo/do 12:00–01:00, vr/za 12:00–04:00, zo 12:00–01:00; 1841.nl noemt zondag 12:00–04:00. Omdat verbouwing/heropening in juli 2026 nog voor november werd verwacht en geen actuele feitelijke opening is bevestigd, zijn opening en sluiting als onbekend opgeslagen. Controleer officiële openingsdatum en zondagverschil; geen laatste toegang bekend."
+      },
+      {
         "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
         "name": "Grand Café Abdij Dokkum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18532,6 +18697,11 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
+        "id": "karaokebar-de-nachtegaal-sneek",
+        "name": "Karaokebar de Nachtegaal",
+        "reason": "Officiële website en 1841.nl vermelden do/vr/za 21:00–04:00. Feitelijke publieke heropening van het 1841-complex nog niet bevestigd; rooster daarom niet actief in de filter. Laatste toegang onbekend. Eigen website noemt geen afzonderlijk huisnummer, koepelsite geeft Kleine Kerkstraat 4."
+      },
+      {
         "id": "kb-food-drinks-dokkum-b461630",
         "name": "KB Food & Drinks",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18570,6 +18740,11 @@
         "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
         "name": "Ma Kelly's Muziekcafé",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "mootz-sneek-0f73107",
+        "name": "Mootz",
+        "reason": "Mootz is een historische discotheek en de onderneming is niet langer actief. Een actuele Funda-verkoopadvertentie voor Kruizebroederstraat 25 vermeldt dat de begane grond van 23 en 25 momenteel als woonkamer, slaapkamer en hobbybakkerij is ingericht; horeca zou pas na verbouwing opnieuw mogelijk zijn. Er is geen onderbouwde huidige horeca-opvolger. De nog aanwezige HFS-/kaartvermeldingen zijn kennelijk historische of onbevestigde data; neem hun tijden niet over."
       },
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",

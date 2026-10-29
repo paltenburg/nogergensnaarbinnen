@@ -16774,7 +16774,13 @@
         "https://1841.nl/",
         "https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-"
       ],
-      "original_status": "Nieuw horecaconcept en gepubliceerde bedrijfswebsite bevestigd 29-10-2026; publieke ingebruikname nog niet onafhankelijk bevestigd. Niet standaard tonen."
+      "original_status": "Nieuw horecaconcept en gepubliceerde bedrijfswebsite bevestigd 29-10-2026; publieke ingebruikname nog niet onafhankelijk bevestigd. Niet standaard tonen.",
+      "geo": {
+        "lat": 53.032908,
+        "lon": 5.6599098,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kleine Kerkstraat 4c, 8601CN Sneek"
+      }
     },
     {
       "id": "karaokebar-de-nachtegaal-sneek",
@@ -16819,7 +16825,13 @@
         "https://1841.nl/",
         "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca"
       ],
-      "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen."
+      "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen.",
+      "geo": {
+        "lat": 53.0328451,
+        "lon": 5.6599243,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kleine Kerkstraat 4a, 8601CN Sneek"
+      }
     }
   ],
   "admission_policies": [
