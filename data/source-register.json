@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 408,
-    "source_urls": 363,
-    "domains": 192,
-    "direct_website_fields": 156
+    "source_urls": 383,
+    "domains": 204,
+    "direct_website_fields": 158
   },
   "discovery_sites": [
     {
@@ -194,9 +194,24 @@
       "linked_venues": 1
     },
     {
+      "domain": "noah-eetcafe.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "oozo.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "uitagenda.nl",
       "source_pages": 3,
       "linked_venues": 74
+    },
+    {
+      "domain": "vind-open.nl",
+      "source_pages": 3,
+      "linked_venues": 3
     },
     {
       "domain": "beersbarrels.nl",
@@ -235,6 +250,16 @@
     },
     {
       "domain": "clubclaar.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "companyinfo.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "dartsgids.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -349,6 +374,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "sneek.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "stadsschouwburg-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -389,11 +419,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "vind-open.nl",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
       "domain": "visitwadden.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -401,6 +426,11 @@
     {
       "domain": "wijnbarvinvin.nl",
       "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "1841.nl",
+      "source_pages": 1,
       "linked_venues": 1
     },
     {
@@ -412,6 +442,11 @@
       "domain": "agendaleeuwarden.nl",
       "source_pages": 1,
       "linked_venues": 0
+    },
+    {
+      "domain": "allebiz.nl",
+      "source_pages": 1,
+      "linked_venues": 1
     },
     {
       "domain": "averechts.nl",
@@ -455,6 +490,11 @@
     },
     {
       "domain": "barwalden.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "bestrestos.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -619,12 +659,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "clubpoema.nl",
+      "domain": "club1841.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
-      "domain": "companyinfo.nl",
+      "domain": "clubpoema.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -640,6 +680,11 @@
     },
     {
       "domain": "dbstudio.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "de.restaurantguru.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -739,6 +784,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "findglocal.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "florinutrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -760,6 +810,11 @@
     },
     {
       "domain": "grasvandeburen.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "grootsneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -790,6 +845,11 @@
     },
     {
       "domain": "hofman-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "ietstedoen.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1106,6 +1166,30 @@
   ],
   "sources": [
     {
+      "url": "https://1841.nl/",
+      "domain": "1841.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-1841-sneek-dab7a53",
+          "name": "Club 1841",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://acu.nl/",
       "domain": "acu.nl",
       "first_registered_on": "2026-10-26",
@@ -1144,6 +1228,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 0,
       "needs_review": false
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-singeltje-sneek-2a92fa4",
+          "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.averechts.nl/about",
@@ -1550,6 +1658,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504",
+      "domain": "bestrestos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-singeltje-sneek-2a92fa4",
+          "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.biton.nl/",
@@ -4264,6 +4396,34 @@
       "needs_review": true
     },
     {
+      "url": "https://club1841.nl/",
+      "domain": "club1841.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "club-1841-sneek-dab7a53",
+          "name": "Club 1841",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://clubbasis.nl/",
       "domain": "clubbasis.nl",
       "first_registered_on": "2026-10-26",
@@ -4511,6 +4671,30 @@
       "needs_review": true
     },
     {
+      "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/rock-cafe-sneek-sneek-88298779-000054172764",
+      "domain": "companyinfo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "rock-cafe-sneek-sneek-5795887",
+          "name": "Rock Café Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-26",
@@ -4564,6 +4748,54 @@
       "needs_review": true
     },
     {
+      "url": "https://dartsgids.nl/agenda/slt-sneek-slt-broukster-bouncers/",
+      "domain": "dartsgids.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-singeltje-sneek-2a92fa4",
+          "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dartsgids.nl/locaties/cafe-t-singeltje/",
+      "domain": "dartsgids.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-singeltje-sneek-2a92fa4",
+          "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dbstudio.nl/cafe/",
       "domain": "dbstudio.nl",
       "first_registered_on": "2026-10-26",
@@ -4589,6 +4821,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://de.restaurantguru.com/Rock-Cafe-Sneek-Sneek",
+      "domain": "de.restaurantguru.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "rock-cafe-sneek-sneek-5795887",
+          "name": "Rock Café Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -5755,6 +6011,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.florinutrecht.nl/",
       "domain": "florinutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -6032,6 +6312,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca",
+      "domain": "grootsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-1841-sneek-dab7a53",
+          "name": "Club 1841",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hartlooper.nl/",
       "domain": "hartlooper.nl",
       "first_registered_on": "2026-10-26",
@@ -6197,6 +6501,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://ietstedoen.nl/en/event/4446/",
+      "domain": "ietstedoen.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "rock-cafe-sneek-sneek-5795887",
+          "name": "Rock Café Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -7224,6 +7552,80 @@
       "needs_review": false
     },
     {
+      "url": "https://www.noah-eetcafe.nl/",
+      "domain": "noah-eetcafe.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.noah-eetcafe.nl/contact",
+      "domain": "noah-eetcafe.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.noah-eetcafe.nl/menukaart",
+      "domain": "noah-eetcafe.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.nomono-utrecht.nl/",
       "domain": "nomono-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -7972,6 +8374,78 @@
       "needs_review": true
     },
     {
+      "url": "https://www.oozo.nl/bedrijfspanden/sudwest-fryslan/sneek/sneek-binnen-de-grachten/40078/horecagelegenheid-prins-hendrikkade-18-sneek",
+      "domain": "oozo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-het-plein-sneek-b93134f",
+          "name": "Grand Café Het Plein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/1103517/grandcaf-het-plein",
+      "domain": "oozo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-het-plein-sneek-b93134f",
+          "name": "Grand Café Het Plein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/224324/grand-cafe-het-plein",
+      "domain": "oozo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-het-plein-sneek-b93134f",
+          "name": "Grand Café Het Plein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
       "domain": "oproerbrouwerij.nl",
       "first_registered_on": "2026-10-26",
@@ -8694,6 +9168,65 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.sneek.nl/zien-doen/club-1841",
+      "domain": "sneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "club-1841-sneek-dab7a53",
+          "name": "Club 1841",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.sneek.nl/zien-doen/rock-cafe-sneek",
+      "domain": "sneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "rock-cafe-sneek-sneek-5795887",
+          "name": "Rock Café Sneek",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://soia.nl/",
@@ -11654,7 +12187,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "rock-cafe-sneek-sneek-5795887",
@@ -11663,7 +12196,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
@@ -14010,6 +14543,37 @@
       "needs_review": true
     },
     {
+      "url": "https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://vind-open.nl/utrecht/caf%C3%A9-restaurant-lombok-931084",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-26",
@@ -14871,10 +15435,6 @@
         "name": "Champañeria Los Amigos"
       },
       {
-        "id": "club-1841-sneek-dab7a53",
-        "name": "Club 1841"
-      },
-      {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
       },
@@ -15285,10 +15845,6 @@
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",
         "name": "Njoy Poolcentrum"
-      },
-      {
-        "id": "noah-eetcafe-sneek-sneek-e3c270c",
-        "name": "NOAH Eetcafé Sneek"
       },
       {
         "id": "oka-18-west-terschelling-34ccd0e",
@@ -15897,10 +16453,6 @@
         "name": "Champañeria Los Amigos"
       },
       {
-        "id": "club-1841-sneek-dab7a53",
-        "name": "Club 1841"
-      },
-      {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
       },
@@ -16277,10 +16829,6 @@
         "name": "Njoy Poolcentrum"
       },
       {
-        "id": "noah-eetcafe-sneek-sneek-e3c270c",
-        "name": "NOAH Eetcafé Sneek"
-      },
-      {
         "id": "nomono-ce51c6e",
         "name": "Nomono"
       },
@@ -16335,10 +16883,6 @@
       {
         "id": "restaurant-seven-20261026",
         "name": "Restaurant Seven Utrecht"
-      },
-      {
-        "id": "rock-cafe-sneek-sneek-5795887",
-        "name": "Rock Café Sneek"
       },
       {
         "id": "rocking-chair-c8ed632",
@@ -16538,7 +17082,7 @@
       {
         "id": "cafe-t-singeltje-sneek-2a92fa4",
         "name": "Café 't Singeltje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Adres en café-/dartsfunctie door meerdere gidsen genoemd. Verschillende niet-officiële bronnen geven tegenstrijdige sluitingstijden (22:00 of 00:00), daarom geen van beide als vast rooster ingevuld. Dartsgids heeft een toekomstige wedstrijd 19-12-2026 op dit adres, maar dat bevestigt geen dagelijkse opening. Laatste toegang onbekend; actuele exploitatie nog afzonderlijk te bevestigen."
       },
       {
         "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
@@ -16868,7 +17412,7 @@
       {
         "id": "club-1841-sneek-dab7a53",
         "name": "Club 1841",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Sneek.nl vermeldt expliciet tijdelijk gesloten wegens verbouwing. GrootSneek 10/26 juli 2026 meldt geplande heropening medio november 2026, exacte datum nog niet bekend. Officiële website toont vrijdag/zaterdag 23:00–04:00 als toekomstig rooster; niet als momenteel open publiceren. Opnieuw controleren vanaf november 2026. Geen uiterste toegang vastgesteld."
       },
       {
         "id": "club-maggy-c0cbd28",
@@ -17131,11 +17675,6 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
-        "id": "grand-cafe-het-plein-sneek-b93134f",
-        "name": "Grand Café Het Plein",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "grand-cafe-it-skippershus-koudum-04a6af3",
         "name": "Grand Café It Skippershûs",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -17296,11 +17835,6 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
-        "id": "noah-eetcafe-sneek-sneek-e3c270c",
-        "name": "NOAH Eetcafé Sneek",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "nomono-ce51c6e",
         "name": "Nomono",
         "reason": "23-24 oktober proefgedraaid, volledig open vanaf 30 oktober 2026 volgens nieuwslokalen; officieel kanaal vermeldt nog verbouwing. Tot bevestiging niet als open tonen."
@@ -17343,11 +17877,6 @@
       {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
         "name": "Restaurant Café Centrum",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "rock-cafe-sneek-sneek-5795887",
-        "name": "Rock Café Sneek",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
