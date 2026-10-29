@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 408,
-    "source_urls": 383,
-    "domains": 204,
-    "direct_website_fields": 158
+    "source_urls": 398,
+    "domains": 211,
+    "direct_website_fields": 160
   },
   "discovery_sites": [
     {
@@ -174,14 +174,14 @@
       "linked_venues": 1
     },
     {
+      "domain": "friesland.nl",
+      "source_pages": 6,
+      "linked_venues": 7
+    },
+    {
       "domain": "waterlandvanfriesland.nl",
       "source_pages": 6,
       "linked_venues": 6
-    },
-    {
-      "domain": "friesland.nl",
-      "source_pages": 4,
-      "linked_venues": 5
     },
     {
       "domain": "verseuitjes.nl",
@@ -215,6 +215,11 @@
     },
     {
       "domain": "beersbarrels.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "bestrestos.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -259,12 +264,22 @@
       "linked_venues": 2
     },
     {
+      "domain": "cylex.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "dartsgids.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
     {
       "domain": "dehelling.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dekajuit.com",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -290,6 +305,11 @@
     },
     {
       "domain": "elize.cafe",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "grootsneek.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -344,6 +364,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "ondernemendsneek.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "puuroost-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -357,6 +382,11 @@
       "domain": "restaurant273.com",
       "source_pages": 2,
       "linked_venues": 1
+    },
+    {
+      "domain": "restaurantguru.com",
+      "source_pages": 2,
+      "linked_venues": 2
     },
     {
       "domain": "rooienel.nl",
@@ -494,11 +524,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "bestrestos.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "biton.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -560,6 +585,11 @@
     },
     {
       "domain": "cafedebeurs.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafedekroonsneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -665,11 +695,6 @@
     },
     {
       "domain": "clubpoema.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "cylex.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -784,6 +809,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "fietsroutenetwerk.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "findglocal.com",
       "source_pages": 1,
       "linked_venues": 1
@@ -814,7 +844,7 @@
       "linked_venues": 1
     },
     {
-      "domain": "grootsneek.nl",
+      "domain": "grootfryslan.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -904,6 +934,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "lekkerindebuurt.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "lokaleregelgeving.overheid.nl",
       "source_pages": 1,
       "linked_venues": 0
@@ -945,11 +980,6 @@
     },
     {
       "domain": "nomono-utrecht.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "ondernemendsneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1060,6 +1090,11 @@
     },
     {
       "domain": "tastytrails.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "theater.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1660,6 +1695,37 @@
       "needs_review": false
     },
     {
+      "url": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
+      "domain": "bestrestos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504",
       "domain": "bestrestos.nl",
       "first_registered_on": "2026-10-29",
@@ -2097,6 +2163,40 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://cafedekroonsneek.nl/",
+      "domain": "cafedekroonsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-kroon-sneek-ac3c15b",
+          "name": "Café De Kroon",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafedepostillon.nl/",
@@ -4695,6 +4795,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-26",
@@ -5316,6 +5440,65 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.dekajuit.com/",
+      "domain": "dekajuit.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.dekajuit.com/openingstijden/",
+      "domain": "dekajuit.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.dekrommeharing.nl/",
@@ -6011,6 +6194,30 @@
       "needs_review": false
     },
     {
+      "url": "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit",
+      "domain": "fietsroutenetwerk.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9",
       "domain": "findglocal.com",
       "first_registered_on": "2026-10-29",
@@ -6098,6 +6305,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -6127,6 +6358,30 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek",
@@ -6312,6 +6567,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/18690/pop-up-restaurant-in-sneek",
+      "domain": "grootfryslan.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+          "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca",
       "domain": "grootsneek.nl",
       "first_registered_on": "2026-10-29",
@@ -6324,6 +6607,30 @@
         {
           "id": "club-1841-sneek-dab7a53",
           "name": "Club 1841",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht",
+      "domain": "grootsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
           "roles": [
             "achtergrond"
           ],
@@ -7131,6 +7438,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.lekkerindebuurt.nl/vof-eetcafe-de-lachende-koe-in-sneek/",
+      "domain": "lekkerindebuurt.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+          "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://loft88.nl/",
       "domain": "loft88.nl",
       "first_registered_on": "2026-10-26",
@@ -7649,6 +7980,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje",
+      "domain": "ondernemendsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -8926,6 +9281,58 @@
       "needs_review": false
     },
     {
+      "url": "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
+      "domain": "restaurantguru.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://restaurantguru.com/De-Lachende-Koe-Sneek",
+      "domain": "restaurantguru.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+          "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://restaurantwest.nl/",
       "domain": "restaurantwest.nl",
       "first_registered_on": "2026-10-26",
@@ -9789,6 +10196,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.theater.nl/restaurant/sneek-cafe-de-kroon",
+      "domain": "theater.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-kroon-sneek-ac3c15b",
+          "name": "Café De Kroon",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12118,15 +12549,6 @@
           "needs_review": false
         },
         {
-          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
-          "name": "Café Restaurant De Kajuit",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
           "id": "club-1841-sneek-dab7a53",
           "name": "Club 1841",
           "roles": [
@@ -12188,6 +12610,15 @@
           ],
           "checked_on": {},
           "needs_review": false
+        },
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
         },
         {
           "id": "rock-cafe-sneek-sneek-5795887",
@@ -15255,10 +15686,6 @@
         "name": "Café De Kleine Beurs"
       },
       {
-        "id": "cafe-de-kroon-sneek-ac3c15b",
-        "name": "Café De Kroon"
-      },
-      {
         "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
         "name": "Café De Laatste Stuiver"
       },
@@ -15377,10 +15804,6 @@
       {
         "id": "cafe-rednick-harlingen-11c235b",
         "name": "Café Rednick"
-      },
-      {
-        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
-        "name": "Café Restaurant De Kajuit"
       },
       {
         "id": "cafe-restaurant-de-smidte-workum-f7236eb",
@@ -16069,10 +16492,6 @@
         "name": "'t Kannet"
       },
       {
-        "id": "t-ouwe-vat-sneek-4873eaa",
-        "name": "'t Ouwe Vat"
-      },
-      {
         "id": "achter-de-koekoek-3ed99c6",
         "name": "Achter de Koekoek"
       },
@@ -16181,10 +16600,6 @@
         "name": "Café 't Skoffeltsje"
       },
       {
-        "id": "cafe-t-skutsje-sneek-550e03d",
-        "name": "Café 't Skûtsje"
-      },
-      {
         "id": "cafe-t-skutsje-harlingen-ea324fd",
         "name": "Café 't Skûtsje"
       },
@@ -16271,10 +16686,6 @@
       {
         "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
         "name": "Café De Kleine Beurs"
-      },
-      {
-        "id": "cafe-de-kroon-sneek-ac3c15b",
-        "name": "Café De Kroon"
       },
       {
         "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
@@ -16395,10 +16806,6 @@
       {
         "id": "cafe-rednick-harlingen-11c235b",
         "name": "Café Rednick"
-      },
-      {
-        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
-        "name": "Café Restaurant De Kajuit"
       },
       {
         "id": "cafe-restaurant-de-smidte-workum-f7236eb",
@@ -16559,10 +16966,6 @@
       {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
         "name": "Eetcafé De Gondel"
-      },
-      {
-        "id": "eetcafe-de-lachende-koe-sneek-267ea95",
-        "name": "Eetcafé De Lachende Koe"
       },
       {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
@@ -16881,6 +17284,10 @@
         "name": "Restaurant Café Centrum"
       },
       {
+        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+        "name": "Restaurant De Kajuit"
+      },
+      {
         "id": "restaurant-seven-20261026",
         "name": "Restaurant Seven Utrecht"
       },
@@ -17002,7 +17409,7 @@
       {
         "id": "t-ouwe-vat-sneek-4873eaa",
         "name": "'t Ouwe Vat",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Meerdere gidsen geven dagelijks 13:00–02:00, maar de eigen domeinnaam ouwevat.nl (vermeld bij Friesland.nl) was 29-10-2026 niet bereikbaar. Tijden dus voorlopige gidsgegevens, geen bevestigde officiële opening. Laatste toegang onbekend. BAG matcht Leeuwarderweg 2a terwijl bronnen 2 vermelden; geocode nog te verifiëren."
       },
       {
         "id": "amelander-bierbrouwerij-ballum-32e95e9",
@@ -17092,7 +17499,7 @@
       {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "GrootSneek 26-07-2024: pand verkocht, eigenaar zoekt nieuwe uitbater; RestaurantGuru (gecontroleerd 29-10-2026) vermeldt tijdelijk gesloten en een oudere bezoeker meldt sluiting sinds september. Oude gidsuren 10:00–00:00 niet als actuele opening gebruiken. Geen heropening bevestigd."
       },
       {
         "id": "cafe-t-skutsje-harlingen-ea324fd",
@@ -17202,7 +17609,7 @@
       {
         "id": "cafe-de-kroon-sneek-ac3c15b",
         "name": "Café De Kroon",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële site (29-10-2026): wo/do vanaf 16:00, vr/za/zo vanaf 14:00; ma/di gesloten; sluiting UITERLIJK 01:45, bij speciale avonden/Sneekweek afwijkingen. Geen expliciete laatste toegang. Andere gidsen noemen 03:00/04:00, maar die wijken af van de huidige eigen site. Door ontbrekende exacte sluiting/laatste toegang is het café bij een streng tijdsfilter mogelijk niet zichtbaar; later UI voor 'uiterlijk'-tijden maken."
       },
       {
         "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
@@ -17352,11 +17759,6 @@
       {
         "id": "cafe-rednick-harlingen-11c235b",
         "name": "Café Rednick",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
-        "name": "Café Restaurant De Kajuit",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
@@ -17557,11 +17959,6 @@
       {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
         "name": "Eetcafé De Gondel",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "eetcafe-de-lachende-koe-sneek-267ea95",
-        "name": "Eetcafé De Lachende Koe",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
@@ -17878,6 +18275,11 @@
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
         "name": "Restaurant Café Centrum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+        "name": "Restaurant De Kajuit",
+        "reason": "Officiële site: dagelijks vanaf 11:00. Exacte sluiting en laatste toegang niet genoemd. Derdenbronnen geven 22:00, maar dit is niet bevestigd door de zaak; een PDF-menukaart van november 2025 noemt alleen do–zo en kan verouderd zijn. Geen 22:00 als zekerheid overnemen."
       },
       {
         "id": "schotse-vier-midsland-6021740",

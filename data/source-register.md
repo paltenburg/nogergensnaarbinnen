@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**383 geregistreerde bron-URL's**, 204 domeinen; gekoppeld aan **408 locaties**.
+**398 geregistreerde bron-URL's**, 211 domeinen; gekoppeld aan **408 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -49,8 +49,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | debuik.nl | 10 | 16 |
 | uitutrecht.com | 8 | 132 |
 | clubbasis.nl | 6 | 1 |
+| friesland.nl | 6 | 7 |
 | waterlandvanfriesland.nl | 6 | 6 |
-| friesland.nl | 4 | 5 |
 | verseuitjes.nl | 4 | 4 |
 | barbasta.nl | 3 | 1 |
 | noah-eetcafe.nl | 3 | 1 |
@@ -58,6 +58,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | uitagenda.nl | 3 | 74 |
 | vind-open.nl | 3 | 3 |
 | beersbarrels.nl | 2 | 2 |
+| bestrestos.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
 | cafefokks.nl | 2 | 1 |
@@ -66,13 +67,16 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | chupitos.nl | 2 | 1 |
 | clubclaar.nl | 2 | 1 |
 | companyinfo.nl | 2 | 2 |
+| cylex.nl | 2 | 2 |
 | dartsgids.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
+| dekajuit.com | 2 | 1 |
 | denijverheid.org | 2 | 1 |
 | dokkum.nl | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
+| grootsneek.nl | 2 | 2 |
 | insolence-restaurant.nl | 2 | 1 |
 | kleinemax.nl | 2 | 1 |
 | knockoutcomedy.nl | 2 | 1 |
@@ -83,9 +87,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | luifelutrecht.nl | 2 | 1 |
 | margiesutrecht.nl | 2 | 1 |
 | moos-utrecht.nl | 2 | 1 |
+| ondernemendsneek.nl | 2 | 2 |
 | puuroost-utrecht.nl | 2 | 1 |
 | quignon.nl | 2 | 1 |
 | restaurant273.com | 2 | 1 |
+| restaurantguru.com | 2 | 2 |
 | rooienel.nl | 2 | 1 |
 | sevenutrecht.nl | 2 | 1 |
 | sevilla-utrecht.nl | 2 | 1 |
@@ -113,7 +119,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | barpakhuis.nl | 1 | 1 |
 | barpatine.nl | 1 | 1 |
 | barwalden.nl | 1 | 1 |
-| bestrestos.nl | 1 | 1 |
 | biton.nl | 1 | 1 |
 | bodytalk-utrecht.metro.bar | 1 | 1 |
 | bolsward.nl | 1 | 0 |
@@ -127,6 +132,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafeclaire.nl | 1 | 1 |
 | cafedebeuntjes.nl | 1 | 1 |
 | cafedebeurs.com | 1 | 1 |
+| cafedekroonsneek.nl | 1 | 1 |
 | cafedepostillon.nl | 1 | 1 |
 | cafedepotdeksel.nl | 1 | 1 |
 | cafederat.nl | 1 | 1 |
@@ -148,7 +154,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | campingganspoort.nl | 1 | 1 |
 | club1841.nl | 1 | 1 |
 | clubpoema.nl | 1 | 1 |
-| cylex.nl | 1 | 1 |
 | danel-utrecht.nl | 1 | 1 |
 | dbstudio.nl | 1 | 1 |
 | de.restaurantguru.com | 1 | 1 |
@@ -171,13 +176,14 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | eetcafevallen.nl | 1 | 1 |
 | etenbijguusjes.nl | 1 | 1 |
 | feestcafedekneus.nl | 1 | 1 |
+| fietsroutenetwerk.nl | 1 | 1 |
 | findglocal.com | 1 | 1 |
 | florinutrecht.nl | 1 | 1 |
 | gastrobarflorijn.nl | 1 | 1 |
 | grandcafelebowski.nl | 1 | 1 |
 | grandcafeliving.nl | 1 | 1 |
 | grasvandeburen.nl | 1 | 1 |
-| grootsneek.nl | 1 | 1 |
+| grootfryslan.nl | 1 | 1 |
 | hartlooper.nl | 1 | 1 |
 | hemel-aarde.nl | 1 | 1 |
 | hetoudetolhuys.nl | 1 | 1 |
@@ -195,6 +201,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | leclochard-utrecht.nl | 1 | 1 |
 | leen-restaurant.nl | 1 | 1 |
 | lefrenchcafe.nl | 1 | 1 |
+| lekkerindebuurt.nl | 1 | 1 |
 | lokaleregelgeving.overheid.nl | 1 | 0 |
 | maggy.club | 1 | 1 |
 | marktzicht030.nl | 1 | 1 |
@@ -204,7 +211,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nar.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
-| ondernemendsneek.nl | 1 | 1 |
 | oproerbrouwerij.nl | 1 | 1 |
 | opzuidutrecht.nl | 1 | 1 |
 | oudaen.nl | 1 | 1 |
@@ -227,6 +233,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | talud9.nl | 1 | 1 |
 | taphuys.nl | 1 | 1 |
 | tastytrails.nl | 1 | 1 |
+| theater.nl | 1 | 1 |
 | theaterkikker.nl | 1 | 1 |
 | themaltvault.nl | 1 | 1 |
 | themick.nl | 1 | 1 |
@@ -316,6 +323,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### bestrestos.nl
 
+- [https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504](https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504) — achtergrond, openingstijden, sluitingstijden; 't Ouwe Vat; bronveld gecontroleerd: 2026-10-29
 - [https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504](https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
 
 ### biton.nl
@@ -374,6 +382,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafedebeurs.com
 
 - [https://cafedebeurs.com/](https://cafedebeurs.com/) — website; Café de Beurs; bronveld gecontroleerd: 2026-10-26
+
+### cafedekroonsneek.nl
+
+- [https://cafedekroonsneek.nl/](https://cafedekroonsneek.nl/) — achtergrond, openingstijden, sluitingstijden, website; Café De Kroon; bronveld gecontroleerd: 2026-10-29
 
 ### cafedepostillon.nl
 
@@ -565,6 +577,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cylex.nl
 
+- [https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html](https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html](https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html) — achtergrond; De Ping Pong Club; bronveld gecontroleerd: onbekend
 
 ### danel-utrecht.nl
@@ -617,6 +630,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### dejongensvanjoure.nl
 
 - [https://www.dejongensvanjoure.nl/](https://www.dejongensvanjoure.nl/) — website; Grand Café De Jongens van Joure; bronveld gecontroleerd: 2026-10-29
+
+### dekajuit.com
+
+- [https://www.dekajuit.com/](https://www.dekajuit.com/) — achtergrond, website; Restaurant De Kajuit; bronveld gecontroleerd: 2026-10-29
+- [https://www.dekajuit.com/openingstijden/](https://www.dekajuit.com/openingstijden/) — achtergrond, openingstijden, sluitingstijden; Restaurant De Kajuit; bronveld gecontroleerd: 2026-10-29
 
 ### dekrommeharing.nl
 
@@ -703,6 +721,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://feestcafedekneus.nl/](https://feestcafedekneus.nl/) — website; Feestcafé de Kneus; bronveld gecontroleerd: 2026-10-26
 
+### fietsroutenetwerk.nl
+
+- [https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit](https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit) — achtergrond; Restaurant De Kajuit; bronveld gecontroleerd: onbekend
+
 ### findglocal.com
 
 - [https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9](https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9) — achtergrond; NOAH Eetcafé Sneek; bronveld gecontroleerd: onbekend
@@ -714,7 +736,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### friesland.nl
 
 - [https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe](https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe) — achtergrond, openingstijden, sluitingstijden; Grand Café Post-Plaza; bronveld gecontroleerd: 2026-10-29
+- [https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels](https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels) — achtergrond, openingstijden, sluitingstijden; Grand Café Levels; bronveld gecontroleerd: 2026-10-29
+- [https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit](https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit) — achtergrond; Restaurant De Kajuit; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek](https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek) — achtergrond, openingstijden, sluitingstijden; Café De Spoek; bronveld gecontroleerd: 2026-10-29
 - [https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes](https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes) — achtergrond, terugkerende_vindplaats; De Babbelaar, Eetcafé 't Roodhert; bronveld gecontroleerd: onbekend
 
@@ -734,9 +758,14 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://grasvandeburen.nl/](https://grasvandeburen.nl/) — sluitingstijden, website; ’t Gras van de Buren; bronveld gecontroleerd: 2026-10-26
 
+### grootfryslan.nl
+
+- [https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/18690/pop-up-restaurant-in-sneek](https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/18690/pop-up-restaurant-in-sneek) — achtergrond, sluitingstijden; Eetcafé De Lachende Koe; bronveld gecontroleerd: 2026-10-29
+
 ### grootsneek.nl
 
 - [https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca](https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca) — achtergrond; Club 1841; bronveld gecontroleerd: onbekend
+- [https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht](https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 
 ### hartlooper.nl
 
@@ -836,6 +865,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.lejournal.nl/](https://www.lejournal.nl/) — achtergrond, website; Le Journal; bronveld gecontroleerd: onbekend
 - [https://www.lejournal.nl/verbouwing](https://www.lejournal.nl/verbouwing) — onderzoeksnotitie, openingstijden, sluitingstijden; Le Journal; bronveld gecontroleerd: 2026-10-26
 
+### lekkerindebuurt.nl
+
+- [https://www.lekkerindebuurt.nl/vof-eetcafe-de-lachende-koe-in-sneek/](https://www.lekkerindebuurt.nl/vof-eetcafe-de-lachende-koe-in-sneek/) — achtergrond; Eetcafé De Lachende Koe; bronveld gecontroleerd: onbekend
+
 ### loft88.nl
 
 - [https://loft88.nl/](https://loft88.nl/) — website; Loft 88 Utrecht; bronveld gecontroleerd: 2026-10-26
@@ -900,6 +933,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### ondernemendsneek.nl
 
+- [https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje](https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://www.ondernemendsneek.nl/leden/overzicht/fokks](https://www.ondernemendsneek.nl/leden/overzicht/fokks) — achtergrond; Café Fokk's; bronveld gecontroleerd: onbekend
 
 ### ontdek-utrecht.nl
@@ -988,6 +1022,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### restaurantconcours.nl
 
 - [https://restaurantconcours.nl/](https://restaurantconcours.nl/) — openingstijden, sluitingstijden, website; Café Concours; bronveld gecontroleerd: 2026-10-26
+
+### restaurantguru.com
+
+- [https://restaurantguru.com/Cafe-t-Skutsje-Sneek](https://restaurantguru.com/Cafe-t-Skutsje-Sneek) — achtergrond, sluitingstijden; Café 't Skûtsje; bronveld gecontroleerd: 2026-10-29
+- [https://restaurantguru.com/De-Lachende-Koe-Sneek](https://restaurantguru.com/De-Lachende-Koe-Sneek) — achtergrond; Eetcafé De Lachende Koe; bronveld gecontroleerd: onbekend
 
 ### restaurantwest.nl
 
@@ -1082,6 +1121,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://teds-place.mom/locations/utrecht-oudegracht/](https://teds-place.mom/locations/utrecht-oudegracht/) — openingstijden, sluitingstijden, website; Teds Utrecht Oudegracht; bronveld gecontroleerd: 2026-10-26
 - [https://teds-place.mom/locations/utrecht-stadhuisplein/](https://teds-place.mom/locations/utrecht-stadhuisplein/) — openingstijden, sluitingstijden, website; Teds Utrecht Stadhuisplein; bronveld gecontroleerd: 2026-10-26
+
+### theater.nl
+
+- [https://www.theater.nl/restaurant/sneek-cafe-de-kroon](https://www.theater.nl/restaurant/sneek-cafe-de-kroon) — achtergrond; Café De Kroon; bronveld gecontroleerd: onbekend
 
 ### theaterkikker.nl
 
