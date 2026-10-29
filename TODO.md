@@ -24,7 +24,7 @@
 
 ## Eerstvolgende uitvoerbare stap
 
-**A2 — Sneek, vervolg:** controleer `Mootz` (nog onbevestigd) en doe een systematische ontdekking van ontbrekende cafés in Sneek met maximaal vier nieuwe kandidaten. Verifieer elke kandidaat op naam, adres, actuele exploitatie, officiële website, alcoholaanbod, opening/sluiting, laatste toegang en duplicaten. Daarna verder met A2a–e en de nieuwe controlepunten A2f–h. Start de eerste weekaudit pas vanaf 2 november 2026 10:00 (Nederlandse tijd).
+**A2 — Sneek, vervolg:** controleer `Mootz` (nog onbevestigd) en doe een systematische ontdekking van ontbrekende cafés in Sneek met maximaal vier nieuwe kandidaten. Verifieer elke kandidaat op naam, adres, actuele exploitatie, officiële website, alcoholaanbod, opening/sluiting, laatste toegang en duplicaten. Daarna verder met A2a–e en de nieuwe controlepunten A2f–i. Start de eerste weekaudit pas vanaf 2 november 2026 10:00 (Nederlandse tijd).
 
 ## Taken
 
