@@ -207,17 +207,18 @@
       .foot{order:8;display:block;background:transparent;border:0;padding:14px 24px 22px}
     }
 
-    /* Desktop: all interface controls float over the full-screen map.
-       Mobile keeps its own map-first page layout. */
+    /* Desktop: a single compact sidebar over the full-screen map.
+       The title and selectors form one continuous panel. */
     @media(min-width:881px){
       html,body{height:100%;overflow:hidden}
       .app{position:relative;display:block;height:100dvh;min-height:0;overflow:hidden}
       .mapbox{display:block;position:fixed;inset:0;width:100%;height:100dvh;min-width:0;z-index:0;background:#e8ebec}
       #map{display:block;position:absolute;inset:0;width:100%;height:100%;min-height:0}
-      .top{position:fixed;top:14px;left:16px;right:16px;z-index:850;display:flex;align-items:center;min-height:64px;max-height:64px;width:auto;grid-column:auto;padding:10px 17px;border:1px solid #d7e1e8;border-radius:14px;background:#fffffff0;box-shadow:none;backdrop-filter:blur(10px)}
-      .sidebar{position:fixed;top:calc(14px + 64px + 10px);left:16px;bottom:16px;width:min(405px,calc(100vw - 32px));height:auto;min-height:0;z-index:700;display:flex;flex-direction:column;overflow:hidden;background:#fffffff4;border:1px solid #cbd8e2;border-radius:15px;box-shadow:0 9px 34px #1b324a35;backdrop-filter:blur(12px)}
+      .top{position:fixed;top:15px;left:17px;right:auto;z-index:850;display:flex;align-items:center;min-height:66px;max-height:66px;width:min(403px,calc(100vw - 34px));grid-column:auto;padding:11px 15px;border:0;border-bottom:1px solid #e1e8ed;border-radius:14px 14px 0 0;background:#fffffff4;box-shadow:none;backdrop-filter:none}
+      .top .brand h1{font-size:20px;line-height:1.2;letter-spacing:-.45px}
+      .sidebar{position:fixed;top:14px;left:16px;bottom:16px;width:min(405px,calc(100vw - 32px));height:auto;min-height:0;z-index:700;display:flex;flex-direction:column;overflow:hidden;padding-top:68px;background:#fffffff4;border:1px solid #cbd8e2;border-radius:15px;box-shadow:0 8px 28px #1b324a28;backdrop-filter:blur(12px)}
       .filters{display:contents}
-      .pair{order:2;flex:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.18fr);gap:9px;margin:0;padding:9px 15px 14px;background:transparent;border:0}
+      .pair{order:2;flex:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.18fr);gap:9px;margin:0;padding:13px 15px 14px;background:transparent;border:0}
       .results-header{order:3;flex:none;margin:0;padding:12px 16px 10px;border-top:1px solid #dce5ec;background:transparent}
       .results{order:4;flex:1 1 auto;display:block;min-height:125px;max-height:none;height:auto;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;scroll-snap-type:none;scrollbar-gutter:stable;padding:0 9px 13px;gap:0}
       .results .card{display:block;flex:none;width:calc(100% - 12px);min-width:0;max-width:none;height:auto;min-height:0;max-height:none;margin:0 6px 9px;padding:13px;overflow:visible;scroll-snap-align:none}
@@ -228,7 +229,11 @@
       .extra-title{display:block;grid-column:1/-1;margin:0;font-size:14px;font-weight:750;color:#273d4e}
       .extra-filters .search-wrap,.extra-filters .check-line,.extra-filters .map-style-control{grid-column:1/-1;max-width:none}
       .visit-hint{order:6;flex:none;display:block;max-width:none;margin:10px 15px 0;padding:8px 10px;font-size:10px;line-height:1.4}
-      .foot{order:7;flex:none;display:block;padding:11px 15px 13px;border:0;background:transparent;font-size:10px;line-height:1.4}
+      .foot{order:7;flex:none;display:none;padding:11px 15px 13px;border:0;background:transparent;font-size:10px;line-height:1.4}
+      /* Keep explanatory notes under secondary filters, not as permanent
+         blocks covering the bottom of the location list. */
+      .visit-hint{display:none}
+      .extra-filters .mobile-filter-info{display:block;grid-column:1/-1;margin:2px 0 0;padding:9px 10px;border:0;border-radius:7px;background:#edf4f8;color:#4a6071;font-size:11px;line-height:1.45}
     }
 
     /* Mobile: the map is also full-viewport, with lightweight controls floating
