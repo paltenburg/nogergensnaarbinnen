@@ -839,8 +839,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.ontdek-utrecht.nl/](https://www.ontdek-utrecht.nl/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/](https://www.ontdek-utrecht.nl/collectie/borrel-hotspots/) — achtergrond; Bar Basta, Bar Cava, Club Claar, De Nijverheid, De Ping Pong Club (+ 1 meer); bronveld gecontroleerd: onbekend
-- [https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/](https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/) — achtergrond; ’t Pandje, Bodytalk, Café Marktzicht, Café Voortuin, Florin Utrecht (+ 2 meer); bronveld gecontroleerd: onbekend
-- [https://www.ontdek-utrecht.nl/collectie/muziekpodia/](https://www.ontdek-utrecht.nl/collectie/muziekpodia/) — achtergrond; ’t Oude Pothuys, De Helling, De Kargadoor, De Nijverheid, EKKO (+ 2 meer); bronveld gecontroleerd: onbekend
+- [https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/](https://www.ontdek-utrecht.nl/collectie/horeca-hotspots-in-het-universiteitskwartier/) — achtergrond; Bodytalk, Café Marktzicht, Café Voortuin, Florin Utrecht, Hofman Utrecht (+ 2 meer); bronveld gecontroleerd: onbekend
+- [https://www.ontdek-utrecht.nl/collectie/muziekpodia/](https://www.ontdek-utrecht.nl/collectie/muziekpodia/) — achtergrond; De Helling, De Kargadoor, De Nijverheid, EKKO, Hofman Utrecht (+ 2 meer); bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/locatie/cafe-tilt](https://www.ontdek-utrecht.nl/locatie/cafe-tilt) — onderzoeksnotitie; algemene bron; bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/locatie/cafe-voortuin/](https://www.ontdek-utrecht.nl/locatie/cafe-voortuin/) — onderzoeksnotitie, openingstijden, sluitingstijden; Café Voortuin; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/cerveceria-boulevard](https://www.ontdek-utrecht.nl/locatie/cerveceria-boulevard) — openingstijden, sluitingstijden; Cerveceria Boulevard; bronveld gecontroleerd: 2026-10-26
@@ -1039,7 +1039,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.uitagenda.nl/dokkum](https://www.uitagenda.nl/dokkum) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
 - [https://www.uitagenda.nl/drachten](https://www.uitagenda.nl/drachten) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
-- [https://www.uitagenda.nl/index.php/utrecht](https://www.uitagenda.nl/index.php/utrecht) — achtergrond, terugkerende_vindplaats; ’t Gras van de Buren, ’t Oude Pothuys, ’t Pakhuis, Achter de Koekoek, ACU (+ 69 meer); bronveld gecontroleerd: onbekend
+- [https://www.uitagenda.nl/index.php/utrecht](https://www.uitagenda.nl/index.php/utrecht) — achtergrond, terugkerende_vindplaats; Achter de Koekoek, ACU, Averechts, Back & Fourth, Bar & Bistro Op Zuid (+ 69 meer); bronveld gecontroleerd: onbekend
 
 ### uitgaanskaart.nl
 
@@ -1079,8 +1079,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### uitutrecht.com
 
-- [https://www.uitutrecht.com/uitgaan/](https://www.uitutrecht.com/uitgaan/) — achtergrond, terugkerende_vindplaats; ’t Gras van de Buren, ’t Neutje, ’t Oude Pothuys, ’t Pakhuis, ’t Pandje (+ 20 meer); bronveld gecontroleerd: onbekend
-- [https://www.uitutrecht.com/uitgaan/page/2/](https://www.uitutrecht.com/uitgaan/page/2/) — achtergrond; Brothers in Law Taphouse, Brouwerij Maximus, Café ’t Oude Pierement, Café Biljart Cobus, Café Claire (+ 28 meer); bronveld gecontroleerd: onbekend
+- [https://www.uitutrecht.com/uitgaan/](https://www.uitutrecht.com/uitgaan/) — achtergrond, terugkerende_vindplaats; Achter de Koekoek, ACU, Averechts, B.I.T.O.N., Back & Fourth (+ 20 meer); bronveld gecontroleerd: onbekend
+- [https://www.uitutrecht.com/uitgaan/page/2/](https://www.uitutrecht.com/uitgaan/page/2/) — achtergrond; Brothers in Law Taphouse, Brouwerij Maximus, Café Biljart Cobus, Café Claire, Café De Binnenstad (+ 28 meer); bronveld gecontroleerd: onbekend
 - [https://www.uitutrecht.com/uitgaan/page/3/](https://www.uitutrecht.com/uitgaan/page/3/) — achtergrond; Café de Beurs, De Bierkantine, De Drie Dorstige Herten, De Kromme Haring, De Nijverheid (+ 14 meer); bronveld gecontroleerd: onbekend
 - [https://www.uitutrecht.com/uitgaan/page/4/](https://www.uitutrecht.com/uitgaan/page/4/) — achtergrond; Café Heen en Weer, Hofman Utrecht, Jan de Winter, Jan Primus, K-Sjot (+ 7 meer); bronveld gecontroleerd: onbekend
 - [https://www.uitutrecht.com/uitgaan/page/5/](https://www.uitutrecht.com/uitgaan/page/5/) — achtergrond; Le Journal, Lebowski, Ledig Erf, Little Dublin, Mick O’Connells (+ 5 meer); bronveld gecontroleerd: onbekend

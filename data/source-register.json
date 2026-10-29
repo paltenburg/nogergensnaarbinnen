@@ -7276,15 +7276,6 @@
       ],
       "venues": [
         {
-          "id": "t-pandje-323e93f",
-          "name": "’t Pandje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
           "id": "bodytalk-03fa9ca",
           "name": "Bodytalk",
           "roles": [
@@ -7337,6 +7328,15 @@
           ],
           "checked_on": {},
           "needs_review": true
+        },
+        {
+          "id": "t-pandje-323e93f",
+          "name": "’t Pandje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
@@ -7353,15 +7353,6 @@
         "achtergrond"
       ],
       "venues": [
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
         {
           "id": "de-helling-8b22e2e",
           "name": "De Helling",
@@ -7415,6 +7406,15 @@
           ],
           "checked_on": {},
           "needs_review": false
+        },
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
@@ -9465,33 +9465,6 @@
       ],
       "venues": [
         {
-          "id": "t-gras-van-de-buren-29923a1",
-          "name": "’t Gras van de Buren",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pakhuis-e59df99",
-          "name": "’t Pakhuis",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
           "id": "achter-de-koekoek-3ed99c6",
           "name": "Achter de Koekoek",
           "roles": [
@@ -9593,15 +9566,6 @@
         {
           "id": "brouwerij-oudaen-5f28ecd",
           "name": "Brouwerij Oudaen",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "cafe-t-oude-pierement-254647b",
-          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -9755,6 +9719,15 @@
         {
           "id": "cafe-willem-slok-7402de0",
           "name": "Café Willem Slok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "cafe-t-oude-pierement-254647b",
+          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -9969,15 +9942,6 @@
           "needs_review": false
         },
         {
-          "id": "olearys-e541c8d",
-          "name": "O’Leary’s",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
           "id": "olivier-ad29c9c",
           "name": "Olivier",
           "roles": [
@@ -10007,6 +9971,15 @@
         {
           "id": "ouwe-dikke-dries-b26481a",
           "name": "Ouwe Dikke Dries",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "olearys-e541c8d",
+          "name": "O’Leary’s",
           "roles": [
             "achtergrond"
           ],
@@ -10124,6 +10097,33 @@
         {
           "id": "woolloomooloo-0a91b60",
           "name": "Woolloomooloo",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-gras-van-de-buren-29923a1",
+          "name": "’t Gras van de Buren",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pakhuis-e59df99",
+          "name": "’t Pakhuis",
           "roles": [
             "achtergrond"
           ],
@@ -12303,60 +12303,6 @@
       ],
       "venues": [
         {
-          "id": "t-gras-van-de-buren-29923a1",
-          "name": "’t Gras van de Buren",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-neutje-727f3da",
-          "name": "’t Neutje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pakhuis-e59df99",
-          "name": "’t Pakhuis",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pandje-323e93f",
-          "name": "’t Pandje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "t-taphuys-508fc53",
-          "name": "’t Taphuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
           "id": "achter-de-koekoek-3ed99c6",
           "name": "Achter de Koekoek",
           "roles": [
@@ -12526,6 +12472,60 @@
           ],
           "checked_on": {},
           "needs_review": false
+        },
+        {
+          "id": "t-gras-van-de-buren-29923a1",
+          "name": "’t Gras van de Buren",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-neutje-727f3da",
+          "name": "’t Neutje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pakhuis-e59df99",
+          "name": "’t Pakhuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pandje-323e93f",
+          "name": "’t Pandje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "t-taphuys-508fc53",
+          "name": "’t Taphuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
@@ -12554,15 +12554,6 @@
         {
           "id": "brouwerij-maximus-f8e6ec6",
           "name": "Brouwerij Maximus",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "cafe-t-oude-pierement-254647b",
-          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -12770,6 +12761,15 @@
         {
           "id": "cafe-willem-slok-7402de0",
           "name": "Café Willem Slok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "cafe-t-oude-pierement-254647b",
+          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -14411,10 +14411,6 @@
         "name": "'t Kannet"
       },
       {
-        "id": "t-oude-pothuys-c89ea4d",
-        "name": "’t Oude Pothuys"
-      },
-      {
         "id": "t-ouwe-vat-sneek-4873eaa",
         "name": "'t Ouwe Vat"
       },
@@ -15207,10 +15203,6 @@
         "name": "NOAH Eetcafé Sneek"
       },
       {
-        "id": "olearys-e541c8d",
-        "name": "O’Leary’s"
-      },
-      {
         "id": "oka-18-west-terschelling-34ccd0e",
         "name": "Oka 18"
       },
@@ -15229,6 +15221,10 @@
       {
         "id": "orloff-aan-de-kade-a3c16fd",
         "name": "Orloff aan de Kade"
+      },
+      {
+        "id": "olearys-e541c8d",
+        "name": "O’Leary’s"
       },
       {
         "id": "paddy-o-ryan-leeuwarden-20f2717",
@@ -15417,6 +15413,10 @@
       {
         "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
         "name": "ZeeVaert Bar & Rotisserie"
+      },
+      {
+        "id": "t-oude-pothuys-c89ea4d",
+        "name": "’t Oude Pothuys"
       }
     ],
     "unknown_friday_closing": [
@@ -16201,10 +16201,6 @@
         "name": "Nomono"
       },
       {
-        "id": "olearys-e541c8d",
-        "name": "O’Leary’s"
-      },
-      {
         "id": "oka-18-west-terschelling-34ccd0e",
         "name": "Oka 18"
       },
@@ -16219,6 +16215,10 @@
       {
         "id": "orloff-aan-de-kade-a3c16fd",
         "name": "Orloff aan de Kade"
+      },
+      {
+        "id": "olearys-e541c8d",
+        "name": "O’Leary’s"
       },
       {
         "id": "paddy-o-ryan-leeuwarden-20f2717",
@@ -16367,29 +16367,14 @@
     ],
     "possible_conflicts_or_closures": [
       {
-        "id": "t-gras-van-de-buren-29923a1",
-        "name": "’t Gras van de Buren",
-        "reason": "Sluitingstijden en gesloten dagen gecontroleerd op eigen website 26 oktober 2026."
-      },
-      {
         "id": "t-kannet-heerenveen-75a1ed4",
         "name": "'t Kannet",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
-        "id": "t-oude-pothuys-c89ea4d",
-        "name": "’t Oude Pothuys",
-        "reason": "Gids noemt 00:00 alle dagen; controleer bij livemuziek. | Voorgaande Centrum Utrecht-gids noemde 00:00 elke dag; officiële regiogids noemt tot 03:00 do-za."
-      },
-      {
         "id": "t-ouwe-vat-sneek-4873eaa",
         "name": "'t Ouwe Vat",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "t-pakhuis-e59df99",
-        "name": "’t Pakhuis",
-        "reason": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald."
       },
       {
         "id": "amelander-bierbrouwerij-ballum-32e95e9",
@@ -17390,6 +17375,21 @@
         "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
         "name": "ZeeVaert Bar & Rotisserie",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "t-gras-van-de-buren-29923a1",
+        "name": "’t Gras van de Buren",
+        "reason": "Sluitingstijden en gesloten dagen gecontroleerd op eigen website 26 oktober 2026."
+      },
+      {
+        "id": "t-oude-pothuys-c89ea4d",
+        "name": "’t Oude Pothuys",
+        "reason": "Gids noemt 00:00 alle dagen; controleer bij livemuziek. | Voorgaande Centrum Utrecht-gids noemde 00:00 elke dag; officiële regiogids noemt tot 03:00 do-za."
+      },
+      {
+        "id": "t-pakhuis-e59df99",
+        "name": "’t Pakhuis",
+        "reason": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald."
       }
     ]
   }

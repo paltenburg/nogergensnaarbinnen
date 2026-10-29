@@ -1,132 +1,145 @@
 {
-  "total": 224,
-  "with_coordinates": 199,
-  "without_coordinates": 25,
-  "added_in_this_run": 14,
+  "total": 408,
+  "with_coordinates": 385,
+  "without_coordinates": 23,
+  "added_in_this_run": 186,
   "unmatched": [
-    {
-      "name": "B.I.T.O.N.",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Bar Patine",
-      "address": "Oudegracht 101-103",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "Bierlokaal de Luifel",
-      "address": "Neude 35-36",
-      "reason": "no-number-or-unparseable-address"
-    },
     {
       "name": "Bij Guusjes",
       "address": "'s Gravesandestraat 27",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Brouwerij Maximus",
       "address": "Pratumplaats 2A",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Café de Beurs",
-      "address": "Neude 37-39",
-      "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Café Heen en Weer",
       "address": "Donkere Gaard 13",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Café Stockholm",
       "address": "Bemuurde Weerd Oostzijde 40",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Dito",
-      "address": "",
-      "reason": "missing-address"
     },
     {
       "name": "Eetcafé De Vingerhoed",
       "address": "Donkere Gaard 11",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "EKKO",
       "address": "Bemuurde Weerd Westzijde 3",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Het Oude Tolhuys",
-      "address": "Weg naar Rhijnauwen 13-15",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "KABUL à GoGo",
-      "address": "Gietijzerstraat 3-5",
-      "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Kleine Max",
       "address": "J.P. Coenstraat 69",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "KweekVijver Utrecht",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Le French Café",
-      "address": "Voorstraat 16-18",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "Le Journal",
-      "address": "Neude 32-34",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "Lebowski’s Speakeasy",
-      "address": "",
-      "reason": "missing-address"
     },
     {
       "name": "Nomono",
       "address": "Bemuurde Weerd Oostzijde 13",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Olivier",
       "address": "Achter Clarenburg 6a",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Orloff",
       "address": "Donkere Gaard 8",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Rum Club",
       "address": "Oudegracht aan de Werf 111",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Talud9",
       "address": "Donkere Gaard 9",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Teds Utrecht Oudegracht",
       "address": "Lichte Gaard 8",
+      "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Tijm",
       "address": "Donkere Gaard 3",
+      "city": "Utrecht",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café Bar 't Skûtsje",
+      "address": "Noordkade 106b",
+      "city": "Drachten",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café Hopper",
+      "address": "Burgemeester Wuiteweg 24",
+      "city": "Drachten",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Grand Café Bowling de Kaden",
+      "address": "Zuidkade 75",
+      "city": "Drachten",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Grand Café Levels",
+      "address": "Grote Bredeplaats 24",
+      "city": "Harlingen",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Bar Dancing De Ponderosa",
+      "address": "Oranjewal 48",
+      "city": "Dokkum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Wijn-, Tap- & Eethuis Amicaal",
+      "address": "Halbertsmaplein 14",
+      "city": "Grou",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café Restaurant De Smidte",
+      "address": "Súd 106-108",
+      "city": "Workum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "De Babbelaar",
+      "address": "Schoolstraat 12",
+      "city": "Burgum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Eetcafé De Pleats",
+      "address": "Weachswal 2",
+      "city": "Woudsend",
       "reason": "no-exact-PDOK-match"
     }
   ]
