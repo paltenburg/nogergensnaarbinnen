@@ -11362,16 +11362,17 @@
       },
       "closing_quality": "Historische zaak; onderneming Mootz Sneek (KvK 51144964) volgens Oozo niet langer actief. Geen bevestiging van huidige exploitatie onder deze naam.",
       "closing_source": "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/231771/mootz-sneek",
-      "closing_notes": "Partyflock toont als laatste evenement 7 augustus 2017; bedrijfsvermelding zegt niet langer actief. HFS Freelancers noemt zonder actuele onderbouwing dagelijks 18:00 en vr/za tot 04:00; dit botst met de bedrijfsstatus en is niet overgenomen. Zoek eventuele opvolger op Kruizebroederstraat 23–25.",
+      "closing_notes": "Mootz is een historische discotheek en de onderneming is niet langer actief. Een actuele Funda-verkoopadvertentie voor Kruizebroederstraat 25 vermeldt dat de begane grond van 23 en 25 momenteel als woonkamer, slaapkamer en hobbybakkerij is ingericht; horeca zou pas na verbouwing opnieuw mogelijk zijn. Er is geen onderbouwde huidige horeca-opvolger. De nog aanwezige HFS-/kaartvermeldingen zijn kennelijk historische of onbevestigde data; neem hun tijden niet over.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/sneek",
         "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/231771/mootz-sneek",
         "https://partyflock.nl/location/13782/archive",
-        "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz"
+        "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz",
+        "https://www.funda.nl/detail/koop/sneek/huis-kruizebroederstraat-25/43634638/"
       ],
-      "original_status": "Mootz Sneek als onderneming niet meer actief volgens KvK-afgeleid Oozo-profiel (gecontroleerd 29-10-2026); huidige horecanaam/nieuwe uitbater op adres onbekend. Uitgesloten uit resultaten, niet noodzakelijk pand definitief gesloten.",
+      "original_status": "Niet actief als horeca volgens KvK-afgeleide bron en huidige vastgoedadvertentie (gecontroleerd 29-10-2026). Begane grond 23–25 momenteel woon-/hobbygebruik volgens Funda; geen horeca-opvolger bevestigd.",
       "geo": {
         "lat": 53.033468,
         "lon": 5.6586761,
@@ -16729,6 +16730,96 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Grootzand 4, 8601AW Sneek"
       }
+    },
+    {
+      "id": "fenix-sneek-kleine-kerkstraat-4c",
+      "name": "Fenix Sneek",
+      "type": "Bar / muziekcafé",
+      "address": "Kleine Kerkstraat 4C",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "checked_on": "2026-10-29",
+      "website_checked_on": "2026-10-29",
+      "access": "Officiële website vermeldt 18+ met legitimatieplicht; feitelijke publieke opening per 29-10-2026 nog niet bevestigd.",
+      "alcohol": "Officiële website vermeldt bars, borrels en drankjes; specifiek assortiment niet gecontroleerd.",
+      "opening_quality": "Eigen website toont toekomstig weekrooster, maar geen bevestiging van daadwerkelijke ingebruikname na verbouwing van het 1841-complex.",
+      "closing_quality": "Officiële sites geven onderling afwijkende zondaguren (Fenix-site tot 01:00, koepelsite tot 04:00); feitelijke opening en sluiting niet bevestigd.",
+      "opening_source": "https://fenixsneek.nl/",
+      "closing_source": "https://fenixsneek.nl/",
+      "closing_notes": "Aangekondigd rooster op eigen site: wo/do 12:00–01:00, vr/za 12:00–04:00, zo 12:00–01:00; 1841.nl noemt zondag 12:00–04:00. Omdat verbouwing/heropening in juli 2026 nog voor november werd verwacht en geen actuele feitelijke opening is bevestigd, zijn opening en sluiting als onbekend opgeslagen. Controleer officiële openingsdatum en zondagverschil; geen laatste toegang bekend.",
+      "features": "Nieuwe bar met muziek en dansvloer, onderdeel 1841-complex; 18+",
+      "website": "https://fenixsneek.nl/",
+      "website_provenance": "De eigen site noemt Fenix, adres Kleine Kerkstraat 4C en horecafunctie; koepel 1841.nl linkt naar deze site.",
+      "other_sources": [
+        "https://1841.nl/",
+        "https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-"
+      ],
+      "original_status": "Nieuw horecaconcept en gepubliceerde bedrijfswebsite bevestigd 29-10-2026; publieke ingebruikname nog niet onafhankelijk bevestigd. Niet standaard tonen."
+    },
+    {
+      "id": "karaokebar-de-nachtegaal-sneek",
+      "name": "Karaokebar de Nachtegaal",
+      "type": "Karaokebar / feestcafé",
+      "address": "Kleine Kerkstraat 4",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "checked_on": "2026-10-29",
+      "website_checked_on": "2026-10-29",
+      "access": "Eigen website noemt gratis entree; feitelijke publieke opening per 29-10-2026 nog niet bevestigd.",
+      "alcohol": "Officiële karaokebarwebsite noemt bar, drankjes en borrels; specifieke alcoholkaart niet bevestigd.",
+      "opening_quality": "Eigen website toont donderdag tot zaterdag 21:00–04:00 als rooster; daadwerkelijke opening na verbouwing van het complex niet bevestigd.",
+      "closing_quality": "Eigen website toont donderdag tot zaterdag 04:00 als eindtijd; niet als actuele gegarandeerde sluiting opgeslagen zolang exploitatie niet is bevestigd.",
+      "opening_source": "https://karaokebarnachtegaal.nl/",
+      "closing_source": "https://karaokebarnachtegaal.nl/",
+      "closing_notes": "Officiële website en 1841.nl vermelden do/vr/za 21:00–04:00. Feitelijke publieke heropening van het 1841-complex nog niet bevestigd; rooster daarom niet actief in de filter. Laatste toegang onbekend. Eigen website noemt geen afzonderlijk huisnummer, koepelsite geeft Kleine Kerkstraat 4.",
+      "features": "Karaoke, feestcafé, groepen en borrels; nieuw concept in 1841-complex",
+      "website": "https://karaokebarnachtegaal.nl/",
+      "website_provenance": "Officiële eigen site en 1841.nl bevestigen concept, bedrijfswebsite en complexadres Kleine Kerkstraat 4.",
+      "other_sources": [
+        "https://1841.nl/",
+        "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca"
+      ],
+      "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen."
     }
   ],
   "admission_policies": [
