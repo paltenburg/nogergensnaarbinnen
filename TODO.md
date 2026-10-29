@@ -20,7 +20,7 @@
 - Friesland: **5/184** met websiteveld ingevuld; **11** met een bron voor sluitingsinformatie. Dit is **geen** garantie dat die bronnen of de uren volledig juist zijn.
 - Friesland: **1** record met een bron voor laatste toegang.
 - Nieuwe Friese records zijn grotendeels **onbevestigde gidsvermeldingen**. De bulkimport bewijst niet dat de genoemde zaken bestaan, nog open zijn, aan de vermelde adressen zitten of alcohol schenken.
-- Periodieke controles voor Utrecht én heel Friesland zijn opgenomen in **de uurlijkse taak** met een wekelijkse controlefrequentie en regionale roulatie; de aparte wekelijkse automatisering is uitgeschakeld. Het afgeleide bronnenregister bevat Friese vindplaatsen.
+- Periodieke controles zijn opgenomen in **de uurlijkse taak** met een wekelijkse controlefrequentie en **dynamische roulatie over alle actieve regio's** (momenteel Utrecht en Friesland). De aparte wekelijkse automatisering is uitgeschakeld. Het afgeleide bronnenregister bevat Friese vindplaatsen.
 
 ## Eerstvolgende uitvoerbare stap
 
@@ -58,21 +58,23 @@ Voor **ieder** record: controleer of naam, adres en huidige exploitatie kloppen;
 
 Er is **geen afzonderlijke wekelijkse automatisering meer**. De uurlijkse taak is de enige eigenaar van **alle handmatige wijzigingen** aan `data/venues.json`, `TODO.md` en het bronregister. De oude wekelijkse taak is op 29 oktober 2026 uitgeschakeld. Alle onderstaande terugkerende controles blijven echter onderdeel van de werkzaamheden.
 
-**Frequentieregel:** vanaf **maandag 2 november 2026 om 10:00 Nederlandse tijd** is per kalenderweek een auditronde verschuldigd. De uurlijkse taak moet bij elke uitvoering eerst vaststellen of de audit voor de huidige ISO-week al volledig is afgerond. Is deze verschuldigd, pak dan vóór een gewone uitbreidingsbatch een hanteerbare audit-subtaak op. Werk bij een volgende uurlijkse uitvoering verder aan de onvoltooide audit totdat zowel Utrecht als de gekozen Friese deelgebieden zijn onderzocht. Voorkom dat één uitgebreide audit ten onrechte als volledig afgevinkt wordt na slechts één onderzochte locatie. Hebben acute fouten voorrang, documenteer de reden en keer daarna naar de audit terug.
+**Reikwijdte:** de periodieke controle geldt voor **alle regio's met opgenomen horecalocaties in de actuele masterdatabase** `data/venues.json`; dus niet alleen Utrecht en Friesland. Leid bij het begin van iedere audit automatisch de actieve regio-ID's af uit de aanwezige locaties en `db.regions`. Nieuwe provincies/gemeenten/steden vallen **onmiddellijk bij de volgende wekelijkse audit** binnen de scope, zonder handmatige update van de automatisering. Regio's zonder locaties hoeven nog niet op actuele zaken gecontroleerd te worden, maar blijven wel kandidaat voor het aparte uitbreidingswerk.
 
-**Per wekelijkse ronde:**
-1. **Utrecht-stad**: zoek nieuw geopende, heropende, hernoemde of gesloten publieke horeca; controleer officiële sites, geselecteerde bestaande sluitings- en laatste-binnenkomsttijden, geocodes, dubbelen en verouderde adressen. Controleer bij de start Le Journal (heropening aangekondigd 2 november), Nomono (vanaf 30 oktober) en De Prediker (vanaf half november): een aankondiging bewijst geen actuele openstelling.
-2. **Friesland**: controleer een **roulerende** geografische selectie, verdeeld over alle gemeenten, kleine dorpen én Vlieland, Terschelling, Ameland en Schiermonnikoog. Verschuif de roulatie elke week aan de hand van het controlelog. Raadpleeg bij voorkeur primaire websites plus het afgeleide bronnenregister en andere locale/officiële gidsen en eventueel OSM-kandidaten.
-3. **Datakwaliteit**: zoek websites, echte opening/sluiting en uiterste toegang; bevestig actuele exploitatie, naam, adres en alcoholaanbod/toegang. Leg bron-URL en **alleen werkelijk uitgevoerde controledatums** vast; laat ontbrekende informatie onbekend. Gemeentelijke APV-maxima voor natte nachthoreca niet als openingstijden van cafés gebruiken. Behoud stabiele locatie-ID's, vermijd duplicaten en controleer gewijzigde namen.
-4. **Opslaan**: schrijf uitsluitend geverifieerde correcties rechtstreeks naar `data/venues.json` en laat de bestaande workflow het bronnenregister regenereren. Controleer de actuele GitHub-versie vlak voor iedere commit. Bij conflicten eerst opnieuw lezen en wijzigen; niet blind overschrijven.
-5. **Loggen**: leg per uitgevoerde auditbatch vast: datum, ISO-week, gecontroleerde gemeenten/plaatsen/eilanden, gebruikte bronnen, aantallen toegevoegd/gewijzigd/afgewezen, openstaande onzekerheden en commit. Als een audit meerdere uitvoeringen nodig heeft, noteer **in behandeling** met de volgende subtaak. Markeer pas als **volledig** wanneer zowel Utrecht als de geplande Friese roulatie voor die week zijn afgewerkt.
+**Frequentieregel:** vanaf **maandag 2 november 2026 om 10:00 Nederlandse tijd** is per ISO-week een auditronde verschuldigd. De uurlijkse taak moet vaststellen of de huidige weekaudit nog openstaat. Maak aan het begin een **regiolijst op basis van de actuele database**, met voor elke regio een uitvoerbare, roulerende geografische auditdeelbatch. Voer per uur bij voorrang één open auditdeelbatch uit, leg per regio de status vast en werk vervolgens de volgende af; een audit is pas volledig als **alle actieve regio's** die week een daadwerkelijk onderzochte batch hebben gehad. Nieuwe regio die gedurende de week wordt toegevoegd: voeg die aan de nog openstaande auditscope toe, ook als de ronde eerder als klaar was vastgelegd. Raakt de uitvoering overbelast, verdeel de audit in extra uurlijkse batches en behoud capaciteit voor urgente fouten en verdere uitbreiding; documenteer achterstand en geef geen vals 'voltooid' signaal.
 
-Wanneer de **landelijke uitbreiding** start (fase D), neem ook de nieuwe regio's in de geografische roulatie op. Utrecht en Friesland blijven onderdeel van periodieke controles. Verdeel de landelijke controle in haalbare rondes; voorkom dat groei van het aantal regio's de gewone kwaliteitscontrole helemaal verdringt.
+**Per regio per wekelijkse ronde:**
+1. **Geografische roulatie en ontdekking:** onderzoek een haalbare selectie steden/dorpen/wijken/locaties; wissel deze iedere week volgens het voorgaande auditlog, zodat het onderzoek op termijn de hele regio omvat (ook kleine kernen en eilanden). Zoek nieuwe, heropende, hernoemde en gesloten publiek toegankelijke cafés, pubs, bars, clubs en soortgelijke horeca waar alcohol verkrijgbaar is; vergelijk officiële sites, lokale gidsen, actueel nieuws en waar nodig OSM-kandidaten.
+2. **Gegevens controleren:** verifieer adres, naam, actuele exploitatie, officiële website, dagrooster, werkelijke sluiting, uiterste toegang, seizoens- en evenementenafwijkingen, geocodes en duplicaten. Noteer bron-URL en werkelijke controledatum; vul geen onbekenden met aannames of APV-maxima.
+3. **Bijzondere vervolgpunten:** blijf de Utrechtse aangekondigde heropeningen van Le Journal (2 november 2026), Nomono (30 oktober) en De Prediker (half november) volgen zolang relevant, zonder een aankondiging als reeds geopende zaak aan te merken. Frieslands gemeenten en vier Waddeneilanden blijven expliciet onderdeel van de roulatie; andere provincies krijgen zodra ze records hebben **dezelfde** aandacht.
+4. **Opslaan:** de uurlijkse taak is de enige geplande schrijver naar `data/venues.json`; schrijf uitsluitend geverifieerde correcties via GitHub, telkens op basis van de recentste versie en SHA. De bestaande GitHub Actions kunnen het afgeleide bronnenregister regenereren. Bij conflicten opnieuw inlezen en reconciliëren; nooit blind overschrijven.
+5. **Loggen:** noteer **per actieve regio en per ISO-week** gecontroleerde plaatsen/deelgebieden, brondomeinen/URL's, aantal nagekeken/gewijzigd/toegevoegd/afgewezen, onzekerheden en commit-SHA. Bewaar tevens de **volgende** geografische roulatiestap. Zet voor onafgeronde regio's 'open' of 'in behandeling', nooit 'afgerond'. Een afgeronde weekronde betekent niet dat alle horecalocaties van die regio opnieuw zijn nagekeken; uitsluitend de afgesproken roulerende steekproef/auditbatch.
+
+**Voorbeeld huidige scope (2026-10-29):** Utrecht-stad en Friesland, omdat dit de enige twee regio's in de database zijn. Zodra Groningen, Drenthe of een andere regio daadwerkelijk wordt toegevoegd, verschijnt deze automatisch in de auditplanning. Een aparte wijziging van het schema is daarvoor niet vereist.
 
 **Auditstatus bij inrichting (2026-10-29):**
 - Laatst volledig afgeronde auditweek: **geen geregistreerd**.
 - Eerstvolgende audit: **ISO-week 2026-W45**, vanaf **2026-11-02 10:00 Europe/Amsterdam**.
-- Friese rotatiepositie: **nog niet gestart** — begin in de eerste ronde met een beperkt geografisch deelgebied, registreer daarna de onderzochte plaatsen en rouleer verder.
+- Roulatiestatus per actieve regio: **nog niet gestart** — maak de huidige regiolijst bij de eerstvolgende audit aan, registreer per regio werkelijk onderzochte plaatsen en houd de volgende deelgebieden bij.
 - Geen audit als 'afgerond' markeren zonder werkelijk uitgevoerde controles.
 
 ### Auditlog (aanvullen na iedere ronde)
@@ -83,7 +85,7 @@ Wanneer de **landelijke uitbreiding** start (fase D), neem ook de nieuwe regio's
 
 - [ ] **C1. Utrechtse bestaande records blijven roulerend op actualiteit controleren**.
 - [ ] **C2. Controle aangekondigde (her)openingen in Utrecht op de werkelijke openingsdatum**, niet op basis van aankondigingen automatisch als open markeren.
-- [ ] **C3. Periodieke ontdekking van nieuwe horecalocaties in Friesland en Utrecht**, met bronregister en directe GitHub-updates van bevestigde wijzigingen.
+- [ ] **C3. Periodieke ontdekking van nieuwe horecalocaties in álle actieve regio's** (aanvankelijk Utrecht en Friesland), met bronregister en directe GitHub-updates van bevestigde wijzigingen.
 
 ## D. Uitbreiden naar heel Nederland — **ná voldoende controle van Friesland**
 
@@ -123,7 +125,7 @@ Leg in een voortgangsnotitie vast of de volgende voorwaarden zijn gehaald:
 
 ### D3. Landelijke periodieke actualisatie
 
-- [ ] **D3. Breid de wekelijkse controleroulatie binnen de uurlijkse automatisering uit zodra de landelijke uitbreiding gestart is**; behoud hercontroles van Utrecht en Friesland. Maak géén tweede schrijvende automatisering.
+- [x] **D3. Koppel wekelijkse controleroulatie dynamisch aan alle actieve regio's in de database.** Iedere toegevoegde regio wordt vanzelf onderdeel van de volgende weekaudit; er is geen tweede schrijvende automatisering. Controleer de werking bij de eerstvolgende daadwerkelijke nieuwe regio en behoud de normale checks op Utrecht en Friesland.
 - [ ] **D3a. Houd per regio/gemeente bij** wanneer een ontdekkings- en actualiteitsronde echt is uitgevoerd, welke bronnen gecontroleerd zijn en waar nog hiaten zijn.
 
 ## Al afgerond (beperkte betekenis)
@@ -142,6 +144,7 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — Auditscope gegeneraliseerd:** de weekaudit controleert voortaan alle actieve database-regio's en voegt nieuwe regio's automatisch toe; niet hardcoded Utrecht/Friesland. Per regio een geografische deelbatch en weeklog; D3-configuratie afgerond, eerste echte uitvoering nog niet getest.
 - **2026-10-29 — Automatiseringen samengevoegd:** de aparte wekelijkse databasecheck is uitgeschakeld; de uurlijkse uitvoering beheert voortaan ook de wekelijkse audit en houdt het auditlog bij. 
 - **2026-10-29 — Landelijke vervolgfase gepland:** na het halen van D0 eerst landelijke regio-indeling D1, daarna D2 per provincie, vervolgens D3 landelijke updatechecks. Er zijn door dit besluit nog geen nieuwe provincies of locaties toegevoegd.
 - **2026-10-29 — Startlijst aangemaakt** op basis van de reeds gedane GitHub-wijzigingen en resterende fouten. Eerste vervolgstap: **A1**.
