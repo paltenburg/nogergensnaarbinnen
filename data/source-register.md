@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**418 geregistreerde bron-URL's**, 220 domeinen; gekoppeld aan **412 locaties**.
+**420 geregistreerde bron-URL's**, 222 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -112,6 +112,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | acu.nl | 1 | 1 |
 | agendaleeuwarden.nl | 1 | 0 |
 | allebiz.nl | 1 | 1 |
+| allecijfers.nl | 1 | 1 |
 | averechts.nl | 1 | 1 |
 | bar-bet.nl | 1 | 1 |
 | barbarak.nl | 1 | 1 |
@@ -200,6 +201,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | kaasbarutrecht.nl | 1 | 1 |
 | kabulagogo.nl | 1 | 1 |
 | kabulagogo.weticket.io | 1 | 1 |
+| kadastralekaart.com | 1 | 1 |
 | kafebelgie.nl | 1 | 1 |
 | karaokebarnachtegaal.nl | 1 | 1 |
 | kargadoor.nl | 1 | 1 |
@@ -286,6 +288,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### allebiz.nl
 
 - [https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522](https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
+
+### allecijfers.nl
+
+- [https://allecijfers.nl/weg/leeuwarderweg-sneek/](https://allecijfers.nl/weg/leeuwarderweg-sneek/) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 
 ### averechts.nl
 
@@ -850,6 +856,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### kabulagogo.weticket.io
 
 - [https://kabulagogo.weticket.io/](https://kabulagogo.weticket.io/) — achtergrond, website; KABUL à GoGo; bronveld gecontroleerd: onbekend
+
+### kadastralekaart.com
+
+- [https://kadastralekaart.com/adres/sneek-kleinzand-1/1900200000314225](https://kadastralekaart.com/adres/sneek-kleinzand-1/1900200000314225) — achtergrond; Espressobar Smûk; bronveld gecontroleerd: onbekend
 
 ### kafebelgie.nl
 

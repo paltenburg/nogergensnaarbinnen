@@ -1,8 +1,8 @@
 {
   "total": 412,
-  "with_coordinates": 389,
-  "without_coordinates": 23,
-  "added_in_this_run": 0,
+  "with_coordinates": 387,
+  "without_coordinates": 25,
+  "added_in_this_run": 24,
   "unmatched": [
     {
       "name": "Bij Guusjes",
@@ -140,6 +140,18 @@
       "name": "Eetcafé De Pleats",
       "address": "Weachswal 2",
       "city": "Woudsend",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "It Reade Hynder",
+      "address": "'t Noard 6",
+      "city": "Wommels",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Karaokebar de Nachtegaal",
+      "address": "Kleine Kerkstraat 4",
+      "city": "Sneek",
       "reason": "no-exact-PDOK-match"
     }
   ]

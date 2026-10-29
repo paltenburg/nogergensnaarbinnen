@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 418,
-    "domains": 220,
+    "source_urls": 420,
+    "domains": 222,
     "direct_website_fields": 164
   },
   "discovery_sites": [
@@ -489,6 +489,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "allecijfers.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "averechts.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -925,6 +930,11 @@
     },
     {
       "domain": "kabulagogo.weticket.io",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "kadastralekaart.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1366,6 +1376,30 @@
         {
           "id": "cafe-t-singeltje-sneek-2a92fa4",
           "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://allecijfers.nl/weg/leeuwarderweg-sneek/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
           "roles": [
             "achtergrond"
           ],
@@ -7358,6 +7392,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://kadastralekaart.com/adres/sneek-kleinzand-1/1900200000314225",
+      "domain": "kadastralekaart.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "espressobar-smuk-sneek-kleinzand-1",
+          "name": "Espressobar Smûk",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.kafebelgie.nl/",
