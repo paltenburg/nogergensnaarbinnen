@@ -16639,7 +16639,7 @@
       "selection": "Voorlopig",
       "opening": {
         "ma": "11:00",
-        "di": "?",
+        "di": "09:00",
         "wo": "09:00",
         "do": "09:00",
         "vr": "09:00",
@@ -16648,18 +16648,18 @@
       },
       "closing": {
         "ma": "17:30",
-        "di": "?",
+        "di": "17:30",
         "wo": "17:30",
         "do": "17:30",
         "vr": "17:30",
         "za": "17:30",
         "zo": "17:00"
       },
-      "opening_quality": "Eigen website gecontroleerd 29-10-2026. Dinsdag onzeker: eigen site noemt 09:00–17:30, regionale toerismesite en VindOpen noemen dinsdag gesloten.",
-      "closing_quality": "Eigen website voor ma en wo–zo; dinsdag tegenstrijdige brongegevens, dus onbekend.",
+      "opening_quality": "Officiële website op 29-10-2026 opnieuw gecontroleerd: dinsdag 09:00–17:30 en expliciet 'zeven dagen per week open'. Regionale toerismesite Friesland.nl, Cylex en VindOpen noemen dinsdag gesloten; bronconflict blijft vermeld. RestaurantGuru en BestRestos vermelden eveneens dinsdag 09:00–17:30. Website van de zaak als primaire bron gevolgd; geen live garantie.",
+      "closing_quality": "Eigen website voor ma–zo; dinsdag 09:00–17:30 expliciet door de zaak opgegeven, ondanks afwijkende derdenvermeldingen. Laatste toegang onbekend.",
       "opening_source": "https://espressobar-smuk.nl/",
       "closing_source": "https://espressobar-smuk.nl/",
-      "closing_notes": "Dinsdag niet als zeker open tonen: eigen site 09:00–17:30, Friesland.nl en VindOpen 28-09-2026 zeggen gesloten. Laatste toegang niet afzonderlijk vermeld; geen avondhoreca.",
+      "closing_notes": "Dinsdag: eigen site vermeldt expliciet 09:00–17:30 en 'zeven dagen per week open'; Friesland.nl, Cylex en VindOpen noemen dinsdag gesloten. Officiële uren als primaire bron gebruikt (29-10-2026), maar actuele afwijking mogelijk; controleer vóór vertrek. Laatste toegang niet afzonderlijk vermeld; geen avondhoreca.",
       "features": "Koffie, lunch en borrel met bier, wijn en cocktails; overdag geopend",
       "website": "https://espressobar-smuk.nl/",
       "website_provenance": "Eigen site, Sneek.nl en Friesland.nl bevestigen naam, adres en alcoholaanbod.",
@@ -16687,7 +16687,7 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen website biedt restaurantbezoek, reserveringen en borrelarrangementen; vrije inloop voor uitsluitend drank niet afzonderlijk bevestigd.",
+      "access": "Officiële site nodigt expliciet uit om langs te komen voor een borrel ('Kom lekker borrelen', 'Kom gezellig langs'); geen verplichte maaltijd genoemd. Reservering voor alleen een drankje niet afzonderlijk uitgesloten of vereist.",
       "alcohol": "Eigen website biedt High-Wine, High-Beer, cocktails en bieren van de tap.",
       "selection": "Voorlopig",
       "opening": {
@@ -16712,7 +16712,7 @@
       "closing_quality": "Niet door eigen website bevestigd; gidsen noemen 22:00, niet als feit overgenomen.",
       "opening_source": "",
       "closing_source": "",
-      "closing_notes": "Meerdere gidsen geven dagelijks 12:00–22:00 (o.a. BestRestos bijgewerkt 20-10-2026), maar eigen site geeft geen expliciet dagelijks rooster. Laatste toegang en eventuele alleen-borrelen-toegang onbekend. Met tijdsfilter niet tonen totdat betrouwbare eindtijd is bevestigd.",
+      "closing_notes": "Eigen website biedt borrel en nodigt uit om langs te komen, maar geeft geen expliciet dagelijks openings-/sluitingsrooster. Derden noemen 12:00–22:00; niet als zekerheid overgenomen. Laatste toegang onbekend. De 16:00-grens op de eigen site betreft uitsluitend online reserveren voor dezelfde dag, NIET de sluiting of uiterste toegang.",
       "features": "Restaurant, borrel, speciaalbier, high wine/high beer, terras aan de gracht",
       "website": "https://aan-de-gracht.nl/",
       "website_provenance": "Eigen site bevestigt naam, Grootzand 4, drankarrangementen en exploitatie; Sneek.nl bevestigt adres en speciaalbier/wijn.",
@@ -16721,7 +16721,7 @@
         "https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504",
         "https://restaurantaandegracht.nl/"
       ],
-      "original_status": "Actuele restaurantwebsite aanwezig en drankenaanbod bevestigd 29-10-2026. Exacte openings- en sluitingstijden niet officieel bevestigd.",
+      "original_status": "Officiële restaurantwebsite op 29-10-2026 opnieuw gecontroleerd: drankenkaart, borrelkaart en expliciete uitnodiging tot borrelen zonder maaltijd; geen bevestigd dagrooster of laatste toegang.",
       "website_checked_on": "2026-10-29",
       "checked_on": "2026-10-29",
       "geo": {
