@@ -2212,12 +2212,12 @@
           "checked_on": {
             "website": "2026-10-29"
           },
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://cafefokks.nl/info/",
@@ -2244,12 +2244,12 @@
             "openingstijden": "2026-10-29",
             "laatste_toegang": "2026-10-29"
           },
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://cafefokus.nl/",
@@ -7267,12 +7267,12 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://www.ontdek-utrecht.nl/",
@@ -11582,7 +11582,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "cafe-restaurant-de-kajuit-sneek-651e053",
@@ -16759,11 +16759,6 @@
         "id": "cafe-domkop-c1aa362",
         "name": "Café Domkop",
         "reason": "Eigen pagina vermeldt maandag alleen op verzoek; andere contactpagina heeft afwijkende tijden voor zaterdag."
-      },
-      {
-        "id": "cafe-fokk-s-sneek-108e0b5",
-        "name": "Café Fokk's",
-        "reason": "De officiële site vermeldt dagelijks 21:00 tot 02:00–04:00. De werkelijke sluitingstijd verschilt; daarom geen vaste 04:00 aangenomen. Laatste toegang expliciet 02:00. Let op: een actief tijdsfilter kan wisselende sluitingstijden momenteel uitsluiten."
       },
       {
         "id": "cafe-gewoan-sven-harlingen-dccd931",
