@@ -322,7 +322,7 @@
         <p class="mobile-filter-info" id="mobileFilterInfo">Niet alle openingstijden en uiterste toegangstijden zijn bekend. Controleer die bij de locatie.</p>
       </div>
     </div>
-    <div class="results-header"><h2>Locaties <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span><button type="button" id="mobileFiltersToggle" class="mobile-filters-toggle" aria-controls="extraFilters" aria-expanded="false">Filters</button></div>
+    <div class="results-header"><h2><span id="activeRegionName">Utrecht</span> · <span id="count">…</span></h2><span id="locatedCount">Kaart laden…</span><button type="button" id="mobileFiltersToggle" class="mobile-filters-toggle" aria-controls="extraFilters" aria-expanded="false">Filters</button></div>
     <div class="results" id="results" aria-live="polite"><div class="empty">Gegevens laden…</div></div>
     <div class="foot">Sluit een zaak ná je aankomsttijd, dan is binnenkomen <strong>niet gegarandeerd</strong>: openingstijden, laatste toegang en toegangsvoorwaarden ontbreken soms. Controleer bij de locatie.</div>
   </aside>
@@ -610,7 +610,7 @@
     }
   }
   function render(){const filtered=db.places.filter(eligible).sort(sortPlaces);el('count').textContent=filtered.length;const geocoded=filtered.filter(p=>Number.isFinite(p.geo?.lat)&&Number.isFinite(p.geo?.lon));el('locatedCount').textContent=`${geocoded.length} op kaart`;
-    const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} ${state.sameDayMorning?'op deze dag':'in deze uitgaansavond/-nacht'}. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = geen exacte sluitingstijd.';
+    const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('activeRegionName').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} ${state.sameDayMorning?'op deze dag':'in deze uitgaansavond/-nacht'}. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = geen exacte sluitingstijd.';
     el('visitHint').textContent=state.after?`Nog open na ${state.after} volgens bekende tijden. ${state.sameDayMorning?'Dit is de ochtend van de gekozen dag. ':Number(state.after.slice(0,2))<12?'Dit is de volgende ochtend van de gekozen uitgaansdag. ':''}Bekende openings- en laatste toegangstijden tellen mee; onbekende toegang en reistijd blijven onzeker.`:'Kies de sluitingstijd van de zaak waar je bent, per halfuur, of gebruik Nu. We tonen zaken die daarna nog open zijn. Bekende openings- en laatste toegangstijden tellen mee; reistijd niet.';
     el('mobileFilterInfo').textContent=el('visitHint').textContent+' '+document.querySelector('.foot').textContent;
 
@@ -767,43 +767,34 @@
   // Keep the list and selected region in sync with where the user pans/zooms.
   // Consider ALL known venue locations, not just the currently filtered markers:
   // otherwise another region would never become selectable on the map.
+  // Detect the region geographically from the actual Leaflet map center.
+  // This is intentionally independent of DOM overlay sizes, screen pixels,
+  // zoom level, currently rendered markers and the selected time filter.
+  // Touch interaction on phones can otherwise leave the region unchanged.
   function regionAtMapCenter(){
-    if(!map||!db.regions.length)return null;
-    const padding=mapContentPadding(),size=map.getSize();
-    const left=padding.left,right=size.x-padding.right;
-    const top=padding.top,bottom=size.y-padding.bottom;
-    if(right<=left||bottom<=top)return null;
-
-    // Compare venues INSIDE the unobstructed map viewport, using screen
-    // distances rather than a fixed number of kilometres. On mobile, a
-    // zoomed-out map can cover many kilometres per pixel; the old 18 km
-    // limit prevented the region from switching even when it was in view.
-    const width=right-left,height=bottom-top;
-    const centerX=(left+right)/2,centerY=(top+bottom)/2;
+    if(!map||!db.regions?.length||!db.places?.length)return null;
+    const center=map.getCenter();
     const available=new Set(db.regions.map(region=>region.id));
-    const nearestByRegion=new Map();
+    const nearest=new Map();
     for(const place of db.places){
       if(!available.has(place.region))continue;
-      const lat=place.geo?.lat,lon=place.geo?.lon;
+      const lat=Number(place.geo?.lat),lon=Number(place.geo?.lon);
       if(!Number.isFinite(lat)||!Number.isFinite(lon))continue;
-      const point=map.latLngToContainerPoint([lat,lon]);
-      if(point.x<left||point.x>right||point.y<top||point.y>bottom)continue;
-      const score=Math.hypot((point.x-centerX)/width,(point.y-centerY)/height);
-      if(score<(nearestByRegion.get(place.region)??Infinity)){
-        nearestByRegion.set(place.region,score);
-      }
+      const distance=map.distance(center,L.latLng(lat,lon));
+      const current=nearest.get(place.region);
+      if(current===undefined||distance<current)nearest.set(place.region,distance);
     }
-
-    if(!nearestByRegion.size)return null; // Do not switch while viewing empty areas.
-    let next=null,best=Infinity;
-    for(const [region,score] of nearestByRegion){
-      if(score<best){next=region;best=score;}
+    let candidate=null,best=Infinity;
+    for(const [region,distance] of nearest){
+      if(distance<best){candidate=region;best=distance;}
     }
-    // Keep the current region when two regions are similarly close.
-    // This avoids switching back and forth near a boundary when panning.
-    const current=nearestByRegion.get(state.region);
-    if(current!==undefined&&current<=best+0.08)return state.region;
-    return next;
+    // On entirely unknown parts of the country, leave the existing region
+    // selected rather than guessing from an arbitrarily distant café.
+    if(best>50000)return null;
+    const previous=nearest.get(state.region);
+    // A 20% hysteresis margin prevents region hopping near borders.
+    if(previous!==undefined&&previous<=best*1.2+1500)return state.region;
+    return candidate;
   }
   function syncRegionFromMap(){
     if(!db.places.length)return;
@@ -856,7 +847,7 @@
     });
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
-    map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);map.on('moveend',syncRegionFromMap);}
+    map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);map.on('moveend',syncRegionFromMap);map.on('zoomend',syncRegionFromMap);}
   async function start(){initMapStyle();initMobileFilters();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('search').value=state.q;el('uncertain').checked=state.uncertain;
     try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;fillArrivalOptions();el('nowBtn').addEventListener('click',useCurrentDutchTime);
       el('customTime').addEventListener('input',()=>{state.sameDayMorning=false;change();});
