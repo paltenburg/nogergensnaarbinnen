@@ -10748,12 +10748,6 @@
         "https://de.restaurantguru.com/Rock-Cafe-Sneek-Sneek"
       ],
       "original_status": "Naam en adres bevestigd via Sneek.nl, KVK-bron april 2026 en concertvermelding 17 oktober 2026; opening op specifiek moment niet live geverifieerd.",
-      "geo": {
-        "lat": 53.0325493,
-        "lon": 5.6601722,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Marktstraat 29A, 8601CS Sneek"
-      },
       "opening": {
         "ma": "?",
         "di": "?",
@@ -10853,12 +10847,6 @@
         "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca"
       ],
       "original_status": "TIJDELIJK GESLOTEN: brand 2024, verbouwing 2026; op 29-10-2026 geen onafhankelijke bevestiging van heropening. Gepland medio november 2026, niet gegarandeerd.",
-      "geo": {
-        "lat": 53.0328451,
-        "lon": 5.6599243,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Kleine Kerkstraat 4a, 8601CN Sneek"
-      },
       "website_provenance": "Officiële Club 1841-site en koepelsite 1841.nl bevestigen naam en Kleine Kerkstraat 4B (club) / 4 (complex).",
       "website_checked_on": "2026-10-29",
       "checked_on": "2026-10-29"
@@ -11215,15 +11203,10 @@
         "https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html",
         "https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
         "https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331",
-        "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat"
+        "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat",
+        "https://allecijfers.nl/weg/leeuwarderweg-sneek/"
       ],
       "original_status": "Actuele VVV Friesland-vermelding noemt caféfunctie, speciaalbier en Leeuwarderweg 2; onderneming `t Ouwe Vat Sneek B.V. (KvK 93398344) wordt door registeraggregator op hetzelfde adres vermeld (geactualiseerd 12-02-2026). Exploitatie aannemelijk, maar actuele openingstijden en laatste toegang uitsluitend via derdenbronnen.",
-      "geo": {
-        "lat": 53.0339487,
-        "lon": 5.6662191,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Leeuwarderweg 2a, 8605AH Sneek"
-      },
       "opening": {
         "ma": "13:00",
         "di": "13:00",
@@ -11236,7 +11219,8 @@
       "opening_source": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
       "opening_checked_on": "2026-10-29",
       "website_provenance": "Mogelijk officieel domein ouwevat.nl vermeld door Friesland.nl en toeristische gids, maar op 29-10-2026 niet bereikbaar; daarom niet als werkende eigen website gepubliceerd.",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "geocode_notes": "BAG-afgeleide adressenlijst toont Leeuwarderweg 2 als bijeenkomstfunctie, 2a als afzonderlijke kantoorfunctie. Onjuiste 2a-marker verwijderd 29-10-2026. Exacte 2-marker opnieuw via aangescherpte PDOK-geocoder laten bepalen; bij geen exacte match blijft geo onbekend."
     },
     {
       "id": "cafe-restaurant-de-kajuit-sneek-651e053",
@@ -12897,13 +12881,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/dokkum"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.3242818,
-        "lon": 5.9981355,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Keppelstraat 4A, 9101MV Dokkum"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
@@ -13113,13 +13091,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/bolsward"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.0623421,
-        "lon": 5.5186591,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Bargefenne 11A, 8701KD Bolsward"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-t-diekje-bolsward-89f46bb",
@@ -13365,13 +13337,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/joure"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.9717618,
-        "lon": 5.7887806,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Grienedyk 6a, 8501AX Joure"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "stoker-koffiebar-joure-b54d49f",
@@ -13401,13 +13367,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/joure"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.9692851,
-        "lon": 5.7925478,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Midstraat 7a, 8501AC Joure"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "grand-cafe-de-jongens-van-joure-joure-de09c9b",
@@ -13524,13 +13484,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.844618,
-        "lon": 5.7101037,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Langestreek 2A, 8531HV Lemmer"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-the-british-pub-lemmer-c67c65e",
@@ -13560,13 +13514,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.8444431,
-        "lon": 5.7102721,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Oudesluis 7A, 8531HS Lemmer"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "restaurant-cafe-centrum-lemmer-c3d666a",
@@ -13776,13 +13724,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/wolvega"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.8758464,
-        "lon": 5.9993902,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Van Harenstraat 36A, 8471JE Wolvega"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "pub-84-wolvega-dda02b5",
@@ -13812,13 +13754,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/wolvega"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.8766943,
-        "lon": 6.0019392,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Heerenveenseweg 2A, 8471BE Wolvega"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-de-babbel-wolvega-be5a7b9",
@@ -14406,13 +14342,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/west-terschelling"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.3575583,
-        "lon": 5.2138506,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Westerbuurtstraat 27A, 8881AC West-Terschelling"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-de-richel-west-terschelling-47de150",
@@ -14442,13 +14372,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/west-terschelling"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.3707272,
-        "lon": 5.2374523,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Hoofdweg 8A, 8881HA West-Terschelling"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-de-dammesaan-midsland-448a367",
@@ -14694,13 +14618,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/nes"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.4452043,
-        "lon": 5.7730509,
-        "method": "PDOK BAG-adres",
-        "matched_address": "van Heeckerenstraat 10a, 9163GZ Nes"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
@@ -15270,13 +15188,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/stavoren"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.8993395,
-        "lon": 5.5829319,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Meerweg 4C, 8561AT Balk"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
@@ -15444,13 +15356,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.0555781,
-        "lon": 5.4029619,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Markt 11A, 8754CM Makkum"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
@@ -15516,13 +15422,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/bolsward"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.0766115,
-        "lon": 5.6363709,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Slypsterwei 1a, 8736JD Reahûs"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "it-reade-hynder-wommels-0121f4b",
@@ -15565,13 +15465,7 @@
         "zo": "10:00"
       },
       "opening_source": "https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder",
-      "opening_checked_on": "2026-10-29",
-      "geo": {
-        "lat": 53.1091598,
-        "lon": 5.5888002,
-        "method": "PDOK BAG-adres",
-        "matched_address": "'t Noard 6a, 8731BB Wommels"
-      }
+      "opening_checked_on": "2026-10-29"
     },
     {
       "id": "cafe-de-otterbar-witmarsum-52640a7",
@@ -15781,13 +15675,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.1519462,
-        "lon": 5.8441798,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Kerkbuurt 1a, 9005NZ Wergea"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
@@ -16213,13 +16101,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/nes"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.3502882,
-        "lon": 5.8656474,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Farrewei 22A, 9171LM Blije"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
@@ -16285,13 +16167,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/schiermonnikoog"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.4021445,
-        "lon": 6.0830086,
-        "method": "PDOK BAG-adres",
-        "matched_address": "De Buorren 32A, 9136PV Peazens"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-de-bunte-bok-ljussens-56481fb",
@@ -16357,13 +16233,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/schiermonnikoog"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.4019563,
-        "lon": 6.014932,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Dykstrjitte 2A, 9141TJ Wierum"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
@@ -16393,13 +16263,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/ballum"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.2765444,
-        "lon": 5.6601324,
-        "method": "PDOK BAG-adres",
-        "matched_address": "van Harenstraat 54A, 9076BX St.-Annaparochie"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
@@ -16573,13 +16437,7 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.1151696,
-        "lon": 5.4413003,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Grote Buren 1A, 8749GC Pingjum"
-      }
+      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
     },
     {
       "id": "spot-langweer-langweer-86e2261",
@@ -16669,18 +16527,14 @@
       "other_sources": [
         "https://www.sneek.nl/zien-doen/espressobar-smuk",
         "https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk",
-        "https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470"
+        "https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470",
+        "https://kadastralekaart.com/adres/sneek-kleinzand-1/1900200000314225"
       ],
       "original_status": "Actuele zaak en adres bevestigd via eigen site en lokale toeristische gids; geen live beschikbaarheidsgarantie.",
       "website_checked_on": "2026-10-29",
       "opening_checked_on": "2026-10-29",
       "checked_on": "2026-10-29",
-      "geo": {
-        "lat": 53.0325694,
-        "lon": 5.662485,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Kleinzand 1A, 8601BE Sneek"
-      }
+      "geocode_notes": "BAG-bron bevestigt Kleinzand 1 als bijeenkomstfunctie; de eerder automatisch toegewezen 1A is een apart woonadres. Onjuiste 1A-marker verwijderd 29-10-2026. Exacte 1-marker opnieuw via aangescherpte PDOK-geocoder laten bepalen; bij geen exacte match blijft geo onbekend."
     },
     {
       "id": "aan-de-gracht-sneek-grootzand-4",
@@ -16828,13 +16682,7 @@
         "https://1841.nl/",
         "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca"
       ],
-      "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen.",
-      "geo": {
-        "lat": 53.0328451,
-        "lon": 5.6599243,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Kleine Kerkstraat 4a, 8601CN Sneek"
-      }
+      "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen."
     }
   ],
   "admission_policies": [
