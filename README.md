@@ -34,6 +34,15 @@ Het tijdsfilter gebruikt de vroegste grens: na de laatste toegang verdwijnt een 
 
 Voor toekomstige regio's kunnen expliciet gekoppelde, gecontroleerde gemeentelijke toelatingsregels gebruikt worden. Voor **Sneek** is de 02:00-uiterste toegang / 04:00-maximale sluiting voor *natte nachthoreca* volgens APV Súdwest-Fryslân vastgelegd, maar deze regel wordt niet automatisch op alle cafés toegepast. Zie [datadefinitie, voorbeeldzaken en officiële bronnen](data/admission-rules.md). De bestaande locatiedatabase bevat momenteel nog geen Sneekse cafés.
 
+
+## Uitbreiding: Friesland (29 oktober 2026)
+
+De provinciale regio `friesland` omvat het **hele vasteland én de vier bewoonde Friese Waddeneilanden**. De eerste import omvat **184 locaties uit 59 woonplaatsen**; samen met Utrecht zijn het **408 records** (stand van deze import). De dekking is **nog niet uitputtend**: landelijke/provinciale gidsen vermelden honderden potentiële cafés en uitgaansgelegenheden, en ook kleine dorpen, seizoenslocaties en evenementen vragen vervolgonderzoek. Niets in de import claimt dat alle cafés in Fryslân zijn opgenomen.
+
+Per nieuw record is de herkomst van naam/adres vastgelegd in `other_sources`; dit is een **gidsvermelding**, geen individueel bewijs dat de zaak momenteel open is. Voor de meeste Friese zaken staat `closing` op `?`, omdat een verifieerbaar weekrooster ontbreekt. Alleen expliciet gecontroleerde openings-/sluitingsroosters hebben `opening_source` / `closing_source` en een echte controledatum. De applicatie toont deze onbekenden bij een actief aankomsttijdfilter terecht niet als gegarandeerd open. De eerste import bevat tien gecontroleerde weekroosters. Een eventuele `last_entry` wordt pas gevuld wanneer de locatie of officiële bron die grens bevestigt; gemeentelijke normen zijn **geen** bedrijfstijden.
+
+De bestaande **wekelijkse Utrecht-horecadatabasecontrole** volgt vanaf deze uitbreiding ook Friesland, met een roulerende gemeente-/plaatsgerichte controle en speciale aandacht voor de eilanden. Prioriteit: (1) actuele status en duplicaten, (2) tijdroosters uit officiële bronnen, (3) uiterste toegang afzonderlijk van sluiting, (4) officiële website en precieze adressen, (5) ontbrekende plaatsen en locaties. De seedbronnen voor deze ronden staan in `scripts/build_source_registry.py` en verschijnen in het gegenereerde bronnenregister. Een generator verifieert websites niet zelfstandig.
+
 ## Filter op aankomsttijd
 
 De hoofdvraag is: **waar kunnen we nog naar binnen?** Kies de uitgaansavond en het tijdstip waarop je wilt aankomen, of klik **Nu** om de actuele Nederlandse tijd te gebruiken. De filtering is **strikt later dan** de gekozen tijd: bij 04:00 valt een locatie met sluitingstijd 04:00 af; 05:00 blijft staan.
