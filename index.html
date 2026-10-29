@@ -395,7 +395,20 @@
     return '#5fc9d7';
   }
   function closingLabel(s){if(!s||s==='?')return 'Onbekend';if(s==='—')return 'Gesloten*';if(s==='Event')return 'Per event';if(s==='Varieert')return 'Wisselend';return s;}
-  function displayClosing(p,s,day=state.day){return p.typical_closing_days?.includes(day)?'≈ '+closingLabel(s):closingLabel(s);}
+  // A closing window is distinct from the last time a guest may enter.
+  // Keep both endpoints explicit; do not turn a range into a fixed closing time.
+  function closingWindow(p,day=state.day){
+    const range=p.closing_range?.[day];
+    if(!range)return null;
+    const earliest=timeVal(range.earliest),latest=timeVal(range.latest);
+    if(earliest===null||latest===null||earliest>latest)return null;
+    return {earliest,latest,earliestText:range.earliest,latestText:range.latest};
+  }
+  function displayClosing(p,s,day=state.day){
+    const range=closingWindow(p,day);
+    const value=range?range.earliestText+'–'+range.latestText:closingLabel(s);
+    return p.typical_closing_days?.includes(day)?'≈ '+value:value;
+  }
   function effectiveAdmission(p,day=state.day){
     // A venue-specific entry limit can coexist with an explicitly assigned law.
     // If both apply, use the earliest restriction. No policy is inferred from city.
@@ -411,7 +424,10 @@
   }
   function entryBeforeClosing(p,day=state.day){
     const entry=effectiveAdmission(p,day);
-    return entry&&timeVal(p.closing?.[day])!==null&&timeVal(entry.time)<timeVal(p.closing[day])?entry:null;
+    if(!entry||p.closing?.[day]==='—')return null;
+    const closes=timeVal(p.closing?.[day]);
+    // A known entry cutoff still deserves prominent display if closing is variable.
+    return closes===null||timeVal(entry.time)<closes?entry:null;
   }
   function displayAdmission(entry){return (entry.approx?'≈ ':'')+entry.time;}
   function openAtSelectedTime(p,arrivalAt){
@@ -424,8 +440,36 @@
     const openingAt=h*60+m+(h<6&&!state.sameDayMorning?1440:0);
     return arrivalAt>=openingAt;
   }
-  function eligible(p){if(p.selection==='Nee')return false;if(!state.uncertain&&p.selection==='Nog te controleren')return false;if(state.region&&p.region!==state.region)return false;if(state.category&&category(p.type)!==state.category)return false;if(state.q){const q=state.q.toLocaleLowerCase('nl');if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;}if(state.after){const closingAt=timeVal(closing(p));const arrivalAt=arrivalVal();if(arrivalAt===null||closingAt===null||closingAt<=arrivalAt)return false;if(!openAtSelectedTime(p,arrivalAt))return false;const admission=effectiveAdmission(p,state.day);const lastAdmission=timeVal(admission?.time);if(lastAdmission!==null&&arrivalAt>=lastAdmission)return false;}return true;}
-  function sortPlaces(a,b){const va=timeVal(closing(a))??-1,vb=timeVal(closing(b))??-1;return (vb-va)||a.name.localeCompare(b.name,'nl');}
+  function eligible(p){
+    if(p.selection==='Nee'||(!state.uncertain&&p.selection==='Nog te controleren'))return false;
+    if(state.region&&p.region!==state.region)return false;
+    if(state.category&&category(p.type)!==state.category)return false;
+    if(state.q){
+      const q=state.q.toLocaleLowerCase('nl');
+      if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;
+    }
+    if(state.after){
+      const arrivalAt=arrivalVal(),closes=timeVal(closing(p));
+      const window=closingWindow(p),admission=effectiveAdmission(p,state.day);
+      const lastAdmission=timeVal(admission?.time);
+      if(arrivalAt===null||closing(p)==='—')return false;
+      // A known exact closing time or the earliest end of a verified closing
+      // window must still be respected, even when a last-entry limit is known.
+      if(closes!==null&&arrivalAt>=closes)return false;
+      if(window&&arrivalAt>=window.earliest)return false;
+      // Without a known closing time, only a documented last-entry deadline
+      // provides enough information to include a venue in timed results.
+      if(closes===null&&!window&&lastAdmission===null)return false;
+      if(lastAdmission!==null&&arrivalAt>=lastAdmission)return false;
+      if(!openAtSelectedTime(p,arrivalAt))return false;
+    }
+    return true;
+  }
+  function sortPlaces(a,b){
+    const sortingTime=p=>timeVal(closing(p))??closingWindow(p)?.latest??-1;
+    const va=sortingTime(a),vb=sortingTime(b);
+    return (vb-va)||a.name.localeCompare(b.name,'nl');
+  }
   function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');if(state.sameDayMorning)p.set('ochtend','1');p.set('kaart',state.mapStyle);history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
   function officialWebsite(p){
     const url=cleanLink(p.website);
@@ -556,7 +600,7 @@
     }
   }
   function render(){const filtered=db.places.filter(eligible).sort(sortPlaces);el('count').textContent=filtered.length;const geocoded=filtered.filter(p=>Number.isFinite(p.geo?.lat)&&Number.isFinite(p.geo?.lon));el('locatedCount').textContent=`${geocoded.length} op kaart`;
-    const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} ${state.sameDayMorning?'op deze dag':'in deze uitgaansavond/-nacht'}. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = tijd onbekend.';
+    const region=db.regions.find(r=>r.id===state.region);el('mapTitle').textContent=region?.name||'Alle regio’s';el('mapCaption').textContent=state.after?`Sluiten volgens bron ná ${state.after} ${state.sameDayMorning?'op deze dag':'in deze uitgaansavond/-nacht'}. Binnenkomen niet gegarandeerd.`:'Selecteer een stip voor details; grijze stip = geen exacte sluitingstijd.';
     el('visitHint').textContent=state.after?`Nog open na ${state.after} volgens bekende tijden. ${state.sameDayMorning?'Dit is de ochtend van de gekozen dag. ':Number(state.after.slice(0,2))<12?'Dit is de volgende ochtend van de gekozen uitgaansdag. ':''}Bekende openings- en laatste toegangstijden tellen mee; onbekende toegang en reistijd blijven onzeker.`:'Kies de sluitingstijd van de zaak waar je bent, per halfuur, of gebruik Nu. We tonen zaken die daarna nog open zijn. Bekende openings- en laatste toegangstijden tellen mee; reistijd niet.';
     el('mobileFilterInfo').textContent=el('visitHint').textContent+' '+document.querySelector('.foot').textContent;
 
@@ -637,7 +681,10 @@
     const values=db.places.filter(p=>p.selection!=='Nee'
       &&(state.uncertain||p.selection!=='Nog te controleren')
       &&(!state.region||p.region===state.region))
-      .map(p=>timeVal(p.closing?.[state.day])).filter(v=>v!==null);
+      .flatMap(p=>{
+        const exact=timeVal(p.closing?.[state.day]),window=closingWindow(p);
+        return exact!==null?[exact]:window?[window.earliest,window.latest]:[];
+      });
     const earliest=values.length?Math.min(...values):1020; // 17:00 fallback if no data
     const latest=values.length?Math.max(...values):1800;
     const first=Math.ceil(earliest/30)*30;
