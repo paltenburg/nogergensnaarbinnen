@@ -11052,31 +11052,35 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
+      "closing_quality": "Historische vestiging; journalistieke bron uit 2018 zegt dat De Lachende Koe aan Kleinzand 35 toen al vertrokken was; niet als actuele horeca tonen.",
+      "closing_source": "https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/18690/pop-up-restaurant-in-sneek",
+      "closing_notes": "GrootFryslân (29-11-2018) beschrijft dat hier voorheen De Lachende Koe en daarna De Oude Vlaming zaten. RestaurantGuru vermeldt De Lachende Koe Sneek als permanent gesloten. De huidige exploitant van Kleinzand 35 is niet bevestigd; niet verwarren met gelijknamige zaken in andere plaatsen.",
+      "features": "Historische eetcafévermelding; niet langer actief bevestigd",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/18690/pop-up-restaurant-in-sneek",
+        "https://restaurantguru.com/De-Lachende-Koe-Sneek",
+        "https://www.lekkerindebuurt.nl/vof-eetcafe-de-lachende-koe-in-sneek/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "HISTORISCH/GESLOTEN: op Kleinzand 35 al vóór november 2018 vervangen door een ander restaurant. Op 29-10-2026 geen heropening als De Lachende Koe gevonden.",
       "geo": {
         "lat": 53.032684,
         "lon": 5.6635456,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleinzand 35, 8601BE Sneek"
-      }
+      },
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-t-skutsje-sneek-550e03d",
@@ -11088,31 +11092,35 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Tijdelijk gesloten volgens recente bedrijvengids, geen bevestigde heropening na verkoop in 2024.",
+      "closing_source": "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
+      "closing_notes": "GrootSneek 26-07-2024: pand verkocht, eigenaar zoekt nieuwe uitbater; RestaurantGuru (gecontroleerd 29-10-2026) vermeldt tijdelijk gesloten en een oudere bezoeker meldt sluiting sinds september. Oude gidsuren 10:00–00:00 niet als actuele opening gebruiken. Geen heropening bevestigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht",
+        "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
+        "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "NIET ALS OPEN TONEN: tijdelijke sluiting in bron vermeld; heropening en nieuwe exploitant niet vastgesteld. Dit is geen bevestiging van definitieve sluiting.",
       "geo": {
         "lat": 53.0336922,
         "lon": 5.6651099,
         "method": "PDOK BAG-adres",
         "matched_address": "Oosterdijk 72, 8601BV Sneek"
-      }
+      },
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-de-kroon-sneek-ac3c15b",
@@ -11122,33 +11130,56 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Volgens officiële site gratis entree, woensdag t/m zondag; actuele toegang op specifieke avond niet live bevestigd.",
+      "alcohol": "Eigen website vermeldt tapbier, wijn, shotjes en mixdrankjes.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Officiële website geeft uitsluitend uiterste sluiting (01:45), niet een gegarandeerde exacte sluiting; 01:45 dus niet als vast tijdstip in closing ingevuld.",
+      "closing_source": "https://cafedekroonsneek.nl/",
+      "closing_notes": "Officiële site (29-10-2026): wo/do vanaf 16:00, vr/za/zo vanaf 14:00; ma/di gesloten; sluiting UITERLIJK 01:45, bij speciale avonden/Sneekweek afwijkingen. Geen expliciete laatste toegang. Andere gidsen noemen 03:00/04:00, maar die wijken af van de huidige eigen site. Door ontbrekende exacte sluiting/laatste toegang is het café bij een streng tijdsfilter mogelijk niet zichtbaar; later UI voor 'uiterlijk'-tijden maken.",
+      "features": "Café; terras, sportwedstrijden, vrijdag/zaterdag dj; entree gratis volgens eigen site",
+      "website": "https://cafedekroonsneek.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://cafedekroonsneek.nl/",
+        "https://www.theater.nl/restaurant/sneek-cafe-de-kroon"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële website bevestigt naam, adres, drankaanbod en openingsdagen op 29-10-2026. Exacte sluiting en uiterste toegang onbekend.",
       "geo": {
         "lat": 53.0328389,
         "lon": 5.6664982,
         "method": "PDOK BAG-adres",
         "matched_address": "Jousterkade 10, 8601BN Sneek"
-      }
+      },
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Officiële eigen site bevestigt Café de Kroon, Jousterkade 10 Sneek, actueel 2026-programma, drankaanbod en weekopeningen.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://cafedekroonsneek.nl/",
+      "opening_checked_on": "2026-10-29",
+      "closing_latest": {
+        "wo": "01:45",
+        "do": "01:45",
+        "vr": "01:45",
+        "za": "01:45",
+        "zo": "01:45"
+      },
+      "checked_on": "2026-10-29"
     },
     {
       "id": "t-ouwe-vat-sneek-4873eaa",
@@ -11159,43 +11190,59 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Friesland.nl noemt speciaalbieren en caféfunctie.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
+      "closing_quality": "Derdenbronnen, o.a. BestRestos bijgewerkt 21-10-2026 en Cylex 28-09-2026; niet rechtstreeks door de zaak bevestigd.",
+      "closing_source": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
+      "closing_notes": "Meerdere gidsen geven dagelijks 13:00–02:00, maar de eigen domeinnaam ouwevat.nl (vermeld bij Friesland.nl) was 29-10-2026 niet bereikbaar. Tijden dus voorlopige gidsgegevens, geen bevestigde officiële opening. Laatste toegang onbekend. BAG matcht Leeuwarderweg 2a terwijl bronnen 2 vermelden; geocode nog te verifiëren.",
+      "features": "Bruin café; speciaalbier, darts, terras aan het water; zomers keuken",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
+        "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
+        "https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen bedrijfsidentiteit bevestigd door actuele regionale toerismevermelding en KvK-aggregator; dagrooster alleen derdenbronnen, laatste toegang niet geverifieerd.",
       "geo": {
         "lat": 53.0339487,
         "lon": 5.6662191,
         "method": "PDOK BAG-adres",
         "matched_address": "Leeuwarderweg 2a, 8605AH Sneek"
-      }
+      },
+      "opening": {
+        "ma": "13:00",
+        "di": "13:00",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
+      "opening_checked_on": "2026-10-29",
+      "website_provenance": "Mogelijk officieel domein ouwevat.nl vermeld door Friesland.nl en toeristische gids, maar op 29-10-2026 niet bereikbaar; daarom niet als werkende eigen website gepubliceerd.",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-restaurant-de-kajuit-sneek-651e053",
-      "name": "Café Restaurant De Kajuit",
-      "type": "Eetcafé",
+      "name": "Restaurant De Kajuit",
+      "type": "Restaurant / café",
       "address": "Jachthaven de Domp 1",
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Officiële site vermeldt borrel en aparte borrelkaart; drankaanbod aanwezig.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -11206,21 +11253,39 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Eigen site vermeldt dagelijks geopend vanaf 11:00, maar geen eindtijd. Oudere eigen PDF uit 2025 geeft andere weekdagen; actuele website heeft voorrang voor opening, sluiting blijft onbekend.",
+      "closing_source": "https://www.dekajuit.com/openingstijden/",
+      "closing_notes": "Officiële site: dagelijks vanaf 11:00. Exacte sluiting en laatste toegang niet genoemd. Derdenbronnen geven 22:00, maar dit is niet bevestigd door de zaak; een PDF-menukaart van november 2025 noemt alleen do–zo en kan verouderd zijn. Geen 22:00 als zekerheid overnemen.",
+      "features": "Restaurant/café aan de jachthaven; lunch, borrel, diner, terras; privéfeesten",
+      "website": "https://www.dekajuit.com/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.dekajuit.com/",
+        "https://www.dekajuit.com/openingstijden/",
+        "https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit",
+        "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site met 2026-copyright bevestigt actuele vestiging en dagelijks beginuur op 29-10-2026; exacte sluiting niet officieel gevonden.",
       "geo": {
         "lat": 53.0350878,
         "lon": 5.6766471,
         "method": "PDOK BAG-adres",
         "matched_address": "Jachthaven de Domp 1, 8605CP Sneek"
-      }
+      },
+      "website_provenance": "Eigen officiële site vermeldt naam Restaurant De Kajuit, Jachthaven De Domp 1, Sneek, telefoon en horecaaanbod.",
+      "website_checked_on": "2026-10-29",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.dekajuit.com/openingstijden/",
+      "opening_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "grand-cafe-de-walrus-sneek-4998266",
