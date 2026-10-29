@@ -12063,7 +12063,9 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/drachten",
         "https://cafebarskutsje.jouwweb.nl/",
-        "https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279"
+        "https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279",
+        "https://cafebartskutsje.intropagina.nl/",
+        "https://allecijfers.nl/weg/noordkade-drachten/"
       ],
       "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
       "website_checked_on": "2026-10-29",
@@ -12080,7 +12082,8 @@
       },
       "opening_source": "https://cafebarskutsje.jouwweb.nl/",
       "opening_checked_on": "2026-10-29",
-      "opening_quality": "Eigen site noemt woensdag t/m zondag vanaf 18:00 tot 'de laatste uurtjes'; geen exacte sluiting. Externe gids meldt dinsdag geopend en woensdag gesloten; conflict."
+      "opening_quality": "Eigen site noemt woensdag t/m zondag vanaf 18:00 tot 'de laatste uurtjes'; geen exacte sluiting. Externe gids meldt dinsdag geopend en woensdag gesloten; conflict.",
+      "geocode_notes": "Officiële/bedrijfseigen vermelding noemt Noordkade 106b. BAG-afgeleide adreslijst Noordkade (peildatum 2026) toont 106 en 106a, maar geen 106b. 106a is een afzonderlijke bijeenkomst-/winkelunit en mag niet zonder bewijs als 106b worden gegeocodeerd. Bezoekingang of correcte unit nog verifiëren; geen marker."
     },
     {
       "id": "cafe-hopper-drachten-a7ebfcb",
@@ -12163,7 +12166,9 @@
       "website": "https://www.bowlingdekaden.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/drachten",
-        "https://www.bowlingdekaden.nl/"
+        "https://www.bowlingdekaden.nl/",
+        "https://secure.bowlingnbf.nl/bowlingcentra/toon/16/drachten/grand-caf-bowling-de-kaden",
+        "https://allecijfers.nl/weg/zuidkade-drachten/"
       ],
       "original_status": "Officiële bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29; geen live garantie van actuele toegankelijkheid.",
       "website_checked_on": "2026-10-29",
@@ -12180,7 +12185,8 @@
       "opening_source": "https://www.bowlingdekaden.nl/",
       "opening_checked_on": "2026-10-29",
       "opening_quality": "Officiële site 29-10-2026: ma/di op reservering, wo 14–19, do 14–22, vr/za 14–24, zo 14–22. Groepen en schoolvakanties afwijkend.",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "geocode_notes": "Bedrijfs-/gidsadres Zuidkade 75, bowlingfederatie noemt 75-78. BAG-afgeleide adressenlijst 2026 bevat op deze plek Zuidkade 78 als bijeenkomstfunctie maar géén 75. Zonder bevestiging van de specifieke publieke ingang geen 78-marker op basis van de range overnemen. Exacte locatie blijft open."
     },
     {
       "id": "njoy-poolcentrum-drachten-f14f10e",
@@ -12354,7 +12360,9 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen",
         "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
-        "https://www.levels-harlingen.nl/"
+        "https://www.levels-harlingen.nl/",
+        "https://allecijfers.nl/postcode/8861BB/",
+        "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606"
       ],
       "original_status": "Officiële bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29; geen live garantie van actuele toegankelijkheid.",
       "checked_on": "2026-10-29",
@@ -12371,7 +12379,8 @@
       "opening_checked_on": "2026-10-29",
       "website_checked_on": "2026-10-29",
       "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29: https://www.levels-harlingen.nl/",
-      "opening_quality": "Officiële eigen website: ma/wo/do/zo 10–22, vr/za 10–00; dinsdag ontbreekt. Regiogids noemt dinsdag 10–22, niet onafhankelijk bevestigd door zaak."
+      "opening_quality": "Officiële eigen website: ma/wo/do/zo 10–22, vr/za 10–00; dinsdag ontbreekt. Regiogids noemt dinsdag 10–22, niet onafhankelijk bevestigd door zaak.",
+      "geocode_notes": "Eigen website én VVV noemen Grote Bredeplaats 24 (8861BB). BAG-afgeleide adressenlijst postcode 8861BB (peildatum juli 2026) bevat 22 en 26, niet 24; een bedrijfsregisterafgeleide bron vermeldt 22. Dit is een echt adresconflict, niet automatisch bewijs dat de publieke ingang 22 is. Houd officieel gecommuniceerde 24 in het record; geen marker op 22/26 zonder bevestiging."
     },
     {
       "id": "eetcafe-nooitgedagt-harlingen-49e8985",
@@ -14041,7 +14050,8 @@
       },
       "opening_source": "https://amicaalgrou.nl/",
       "opening_checked_on": "2026-10-29",
-      "opening_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld."
+      "opening_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld.",
+      "geocode_notes": "Eigen website bevestigt Halbertsmaplein 14. Strikte PDOK BAG-adresmatch voor 14 ontbreekt nog; geen adres van naburige unit overnemen. Onderzoek officiële BAG-spelling, postcode en eventuele huisnummertoevoeging voordat een marker wordt gezet."
     },
     {
       "id": "cafe-restaurant-de-smidte-workum-f7236eb",
@@ -14071,7 +14081,9 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/stavoren",
         "https://desmidte.nl/",
-        "https://workum.nl/de/aktivitat/restaurant-de-smidte/"
+        "https://workum.nl/de/aktivitat/restaurant-de-smidte/",
+        "https://workum.nl/frl/aktiviteit/restaurant-de-smidte/",
+        "https://allecijfers.nl/postcode/8711CX/"
       ],
       "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
       "website_checked_on": "2026-10-29",
@@ -14088,7 +14100,8 @@
       },
       "opening_source": "https://desmidte.nl/",
       "opening_checked_on": "2026-10-29",
-      "opening_quality": "Eigen website vermeldt dinsdag t/m zondag vanaf 17:00, geen sluitingstijd; maandag niet genoemd."
+      "opening_quality": "Eigen website vermeldt dinsdag t/m zondag vanaf 17:00, geen sluitingstijd; maandag niet genoemd.",
+      "geocode_notes": "Bedrijfs-/toeristische adresvermelding Súd 106-108 (8711 CX), een bereik van twee huisnummers. Zonder bron voor de publieke ingang niet een van de adressen 106 of 108 als exact markerpunt kiezen. Strikte PDOK-match blijft ontbreken."
     },
     {
       "id": "de-heeren-van-heeres-workum-20eccd7",
@@ -15505,10 +15518,12 @@
       "other_sources": [
         "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
         "https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
-        "https://eetcafedepleats.nl/"
+        "https://eetcafedepleats.nl/",
+        "https://www.waterlandvanfriesland.nl/en/locations/1896387451/eetcafe-de-pleats"
       ],
       "original_status": "VVV-pagina met seizoensroosters gecontroleerd 29-10-2026; eigen domein niet bereikbaar, actuele opening en seizoen nog niet bevestigd.",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "geocode_notes": "Regionale VVV bevestigt Weachswal 2 (8551 NL Woudsend); strikte PDOK BAG-adresmatch ontbreekt. Geen nabijgelegen adres gebruiken; BAG-straatnaam/nummer en ingang moeten nog gecontroleerd worden."
     },
     {
       "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
@@ -15684,7 +15699,8 @@
         "https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder",
         "https://www.itreadehynder.nl/contact/",
         "https://allecijfers.nl/postcode/8731BB/",
-        "https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren"
+        "https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe"
       ],
       "original_status": "Eigen site met actuele 2026-jubileumagenda, officiële contactgegevens en weekrooster direct gecontroleerd 29-10-2026. Exploitatie aannemelijk actief; geen live beschikbaarheidsgarantie.",
       "checked_on": "2026-10-29",
@@ -15702,7 +15718,7 @@
       "website_provenance": "Eigen website bevestigt Grand Café It Reade Hynder, It Noard 6 te Wommels, telefoon en 2026-jubileumactiviteiten. Actuele pagina rechtstreeks gecontroleerd 29-10-2026.",
       "website_checked_on": "2026-10-29",
       "opening_quality": "Eigen site direct gecontroleerd 29-10-2026: ma 16:00–21:00, di uitsluitend op afspraak, wo 11:00–21:00, do 10:30–21:00, vr/za vanaf 10:30, zo vanaf 11:00. VVV Friesland noemt een afwijkend, kennelijk niet synchroon bijgewerkt rooster (ma–wo gesloten, do–zo 10:00–00:30). Eigen rooster voorrang.",
-      "geocode_notes": "BAG-afgeleide postcodebron bevestigt 't Noard 6 als bijeenkomstfunctie, maar de strikte PDOK-geocoder leverde nog geen exacte match. Eigen site spelt de straat 'It Noard'. Geen marker op 6a/6b/6c zetten zonder exacte BAG-match."
+      "geocode_notes": "BAG-afgeleide postcode 8731BB toont exact 't Noard 6 als bijeenkomstfunctie (zonder suffix), met afzonderlijke 6a–6h. VVV gebruikt 'It Noard 6'; BAG noemt 't Noard 6. Strikte PDOK-geocoder leverde geen match, mogelijk spelling-/zoekprobleem. Niet naar 6a–6h verplaatsen; exact 6 opnieuw via postcode zoeken."
     },
     {
       "id": "cafe-de-otterbar-witmarsum-52640a7",
@@ -16962,10 +16978,11 @@
       "other_sources": [
         "https://1841.nl/",
         "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca",
-        "https://allecijfers.nl/postcode/8601CN/"
+        "https://allecijfers.nl/postcode/8601CN/",
+        "https://karaokebarnachtegaal.nl/"
       ],
       "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen.",
-      "geocode_notes": "BAG-afgeleide https://allecijfers.nl/postcode/8601CN/ toont op Kleine Kerkstraat 4 alleen 4a (winkel), 4b (bijeenkomst) en 4c (bijeenkomst), geen kaal nummer 4. Het concept heeft nog geen door de zaak bevestigd eigen huislettersuffix. Daarom geen marker van een ander concept in het 1841-complex overnemen."
+      "geocode_notes": "BAG-afgeleide bron toont op Kleine Kerkstraat 4 alleen 4a, 4b en 4c; de karaokebar heeft geen afzonderlijk door het bedrijf bevestigd suffix. 1841-complex bevat meerdere concepten. Geen 4a/4b/4c toewijzen zonder expliciet bewijs; kaartmarker blijft ontbreken."
     }
   ],
   "admission_policies": [
