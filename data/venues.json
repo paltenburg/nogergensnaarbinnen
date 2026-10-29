@@ -12043,8 +12043,8 @@
       "city": "Drachten",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site omschrijft openbaar café voor jong en oud met klaverjasavond.",
+      "alcohol": "Eigen site noemt café; alcoholassortiment alleen door gids bevestigd, niet expliciet door eigen website.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -12055,15 +12055,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt woensdag t/m zondag vanaf 18:00 tot 'de laatste uurtjes'; geen exacte sluiting. Externe gids meldt dinsdag geopend en woensdag gesloten; conflict.",
+      "closing_source": "https://cafebarskutsje.jouwweb.nl/",
+      "closing_notes": "Eigen site noemt wo–zo vanaf 18:00, geen sluitingsuur. Gids https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279 noemt dinsdag 18–00 en woensdag gesloten; beide dagen niet als bevestigd gesloten/open behandeld. Geen laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://cafebarskutsje.jouwweb.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://uitgaanskaart.nl/cafe/drachten",
+        "https://cafebarskutsje.jouwweb.nl/",
+        "https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
+      "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Zelf als café gepresenteerde website rechtstreeks gecontroleerd 29-10-2026, bevestigt Noordkade 106B en weekpatroon; publicatiedatum uren ontbreekt.",
+      "checked_on": "2026-10-29",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://cafebarskutsje.jouwweb.nl/",
+      "opening_checked_on": "2026-10-29",
+      "opening_quality": "Eigen site noemt woensdag t/m zondag vanaf 18:00 tot 'de laatste uurtjes'; geen exacte sluiting. Externe gids meldt dinsdag geopend en woensdag gesloten; conflict."
     },
     {
       "id": "cafe-hopper-drachten-a7ebfcb",
@@ -13977,8 +13994,8 @@
       "city": "Grou",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website verwelkomt bezoekers ook voor een borrel, zonder maaltijdverplichting.",
+      "alcohol": "Eigen site noemt speciaalbieren, wijnen en borrelplanken.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13989,15 +14006,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld.",
+      "closing_source": "https://amicaalgrou.nl/",
+      "closing_notes": "Dezelfde eigen website toont onderling tegenstrijdige ma/di-uren (historische coronaregels versus huidige footer); beide dagen onbekend. Geen sluiting of laatste toegang op site. Externe gidsen noemen uiteenlopende sluitingstijden, niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://amicaalgrou.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://amicaalgrou.nl/",
+        "https://amicaalgrou.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
+      "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Eigen site gecontroleerd 29-10-2026, bevestigt adres, uitbaters en drankaanbod; officiële site bevat intern tegenstrijdige informatie over ma/di.",
+      "checked_on": "2026-10-29",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://amicaalgrou.nl/",
+      "opening_checked_on": "2026-10-29",
+      "opening_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld."
     },
     {
       "id": "cafe-restaurant-de-smidte-workum-f7236eb",
@@ -14007,11 +14042,11 @@
       "city": "Workum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen restaurant/café verwelkomt gasten voor een biertje; alleen drankje zonder maaltijd niet expliciet bevestigd.",
+      "alcohol": "Eigen website noemt bier en wisselend bierassortiment.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "?",
         "wo": "?",
         "do": "?",
@@ -14019,15 +14054,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website vermeldt dinsdag t/m zondag vanaf 17:00, geen sluitingstijd; maandag niet genoemd.",
+      "closing_source": "https://desmidte.nl/",
+      "closing_notes": "Eigen website: di–zo vanaf 17:00, maandag niet geopend volgens weekpatroon. Sluitingstijden en laatste toegang ontbreken. Gidsen spreken elkaar tegen over eindtijden; niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://desmidte.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://desmidte.nl/",
+        "https://workum.nl/de/aktivitat/restaurant-de-smidte/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
+      "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Eigen site rechtstreeks gecontroleerd 29-10-2026; desmidte.com verwijst door naar desmidte.nl; adres Súd 106-108 bevestigd.",
+      "checked_on": "2026-10-29",
+      "opening": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://desmidte.nl/",
+      "opening_checked_on": "2026-10-29",
+      "opening_quality": "Eigen website vermeldt dinsdag t/m zondag vanaf 17:00, geen sluitingstijd; maandag niet genoemd."
     },
     {
       "id": "de-heeren-van-heeres-workum-20eccd7",
@@ -15417,8 +15469,8 @@
       "city": "Woudsend",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "VVV Friesland beschrijft cafédeel waar gasten voor een drankje kunnen komen, los van restaurant.",
+      "alcohol": "VVV beschrijft cafédeel met drankjes; specifiek alcoholaanbod nog niet door eigen zaak bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15429,15 +15481,18 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "VVV-pagina noemt winter-/voorseizoen-/hoogseizoenroosters zonder expliciete geldigheidsdata; actueel seizoen niet met eigen zaak bevestigd.",
+      "closing_source": "https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
+      "closing_notes": "VVV Friesland vermeldt winter: ma/di gesloten, wo–za 16–02, zo 16–00; voorseizoen vanaf 18 april: ma/di gesloten, wo/do 16–02, vr/za 12–02, zo 12–00; hoogseizoen juli/aug: ma–za 12–02, zo 12–00. Omdat publicatiejaar/seizoensovergang niet duidelijk is en eigen domein eetcafedepleats.nl niet toegankelijk was op 29-10-2026, geen van deze roosters als actuele exacte tijden ingevoerd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1"
+        "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
+        "https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
+        "https://eetcafedepleats.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
+      "original_status": "VVV-pagina met seizoensroosters gecontroleerd 29-10-2026; eigen domein niet bereikbaar, actuele opening en seizoen nog niet bevestigd.",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
