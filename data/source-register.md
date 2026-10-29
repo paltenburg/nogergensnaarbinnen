@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**415 geregistreerde bron-URL's**, 219 domeinen; gekoppeld aan **412 locaties**.
+**418 geregistreerde bron-URL's**, 220 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -49,8 +49,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | debuik.nl | 10 | 16 |
 | uitutrecht.com | 8 | 132 |
 | friesland.nl | 7 | 8 |
+| waterlandvanfriesland.nl | 7 | 7 |
 | clubbasis.nl | 6 | 1 |
-| waterlandvanfriesland.nl | 6 | 6 |
 | grootsneek.nl | 4 | 4 |
 | oozo.nl | 4 | 2 |
 | sneek.nl | 4 | 4 |
@@ -58,6 +58,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | vind-open.nl | 4 | 4 |
 | barbasta.nl | 3 | 1 |
 | bestrestos.nl | 3 | 3 |
+| hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
 | beersbarrels.nl | 2 | 2 |
@@ -78,7 +79,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | eetcafedevingerhoed.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
-| hfsfreelancers.nl | 2 | 2 |
 | insolence-restaurant.nl | 2 | 1 |
 | kleinemax.nl | 2 | 1 |
 | knockoutcomedy.nl | 2 | 1 |
@@ -156,6 +156,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | campingganspoort.nl | 1 | 1 |
 | club1841.nl | 1 | 1 |
 | clubpoema.nl | 1 | 1 |
+| compadex.com | 1 | 1 |
 | danel-utrecht.nl | 1 | 1 |
 | dbstudio.nl | 1 | 1 |
 | de.restaurantguru.com | 1 | 1 |
@@ -583,6 +584,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://clubpoema.nl/faq](https://clubpoema.nl/faq) — sluitingstijden, website; Club Poema; bronveld gecontroleerd: 2026-10-25
 
+### compadex.com
+
+- [https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331](https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
+
 ### companyinfo.nl
 
 - [https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811](https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811) — achtergrond; K-Sjot; bronveld gecontroleerd: onbekend
@@ -814,6 +819,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### hfsfreelancers.nl
 
 - [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
+- [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht](https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht) — achtergrond; KweekVijver Utrecht; bronveld gecontroleerd: onbekend
 
 ### hofman-utrecht.nl
@@ -1308,6 +1314,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond; Café Restaurant De Watersport, Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1](https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1) — achtergrond, openingstijden, sluitingstijden; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
+- [https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder](https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder) — achtergrond, openingstijden, sluitingstijden; It Reade Hynder; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure](https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure) — achtergrond, openingstijden, sluitingstijden; Grand Café De Jongens van Joure; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer](https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer) — achtergrond, openingstijden, sluitingstijden; SPOT Langweer; bronveld gecontroleerd: 2026-10-29

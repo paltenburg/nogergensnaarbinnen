@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 415,
-    "domains": 219,
+    "source_urls": 418,
+    "domains": 220,
     "direct_website_fields": 164
   },
   "discovery_sites": [
@@ -174,14 +174,14 @@
       "linked_venues": 8
     },
     {
+      "domain": "waterlandvanfriesland.nl",
+      "source_pages": 7,
+      "linked_venues": 7
+    },
+    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
-    },
-    {
-      "domain": "waterlandvanfriesland.nl",
-      "source_pages": 6,
-      "linked_venues": 6
     },
     {
       "domain": "grootsneek.nl",
@@ -215,6 +215,11 @@
     },
     {
       "domain": "bestrestos.nl",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
+      "domain": "hfsfreelancers.nl",
       "source_pages": 3,
       "linked_venues": 3
     },
@@ -315,11 +320,6 @@
     },
     {
       "domain": "elize.cafe",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
-      "domain": "hfsfreelancers.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -705,6 +705,11 @@
     },
     {
       "domain": "clubpoema.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "compadex.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -4855,6 +4860,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811",
       "domain": "companyinfo.nl",
       "first_registered_on": "2026-10-29",
@@ -7051,6 +7080,30 @@
         {
           "id": "mootz-sneek-0f73107",
           "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
           "roles": [
             "achtergrond"
           ],
@@ -15707,6 +15760,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder",
       "domain": "waterlandvanfriesland.nl",
       "first_registered_on": "2026-10-29",
@@ -17924,7 +18001,7 @@
       {
         "id": "t-ouwe-vat-sneek-4873eaa",
         "name": "'t Ouwe Vat",
-        "reason": "Meerdere gidsen geven dagelijks 13:00–02:00, maar de eigen domeinnaam ouwevat.nl (vermeld bij Friesland.nl) was 29-10-2026 niet bereikbaar. Tijden dus voorlopige gidsgegevens, geen bevestigde officiële opening. Laatste toegang onbekend. BAG matcht Leeuwarderweg 2a terwijl bronnen 2 vermelden; geocode nog te verifiëren."
+        "reason": "BestRestos (bijgewerkt 21-10-2026), Cylex (28-09-2026) en andere gidsen noemen dagelijks 13:00–02:00; geen bedrijfsbevestiging van die tijden. Eigen domein ouwevat.nl vermeld door VVV Friesland maar op 29-10-2026 niet bereikbaar. Laatste toegang onbekend. VVV en registeraggregator geven Leeuwarderweg 2, BAG-match van geocoder is 2a; exacte marker/ingang niet bewezen. HFS geeft op sommige dagen 14:00 i.p.v. 13:00, dus ook opening niet onomstreden."
       },
       {
         "id": "amelander-bierbrouwerij-ballum-32e95e9",
