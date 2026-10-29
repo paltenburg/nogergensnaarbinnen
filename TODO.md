@@ -13,6 +13,16 @@
 5. Markeer taken pas als voltooid na controle. Lukt een stap niet, documenteer het obstakel en ga zo nodig door met een onafhankelijke stap.
 6. De actieve **uurlijkse TODO-automatisering** doet zowel doorlopende uitbreidingsbatches als de periodieke broncontroles hieronder. Er is geen tweede actieve wekelijkse schrijver. Bij handmatig 'ga door' wordt dezelfde lijst gebruikt. Elke uitvoering moet worden gevalideerd en hier worden vastgelegd.
 
+## Werktempo per uurlijkse uitvoering (verhoogd op 29 oktober 2026)
+
+**Doel: circa tweemaal zoveel inhoudelijk afgerond werk per uitvoering** als bij de eerste uurlijkse rondes, **zonder** minder zorgvuldig onderzoek of zwakkere verificatie. De frequentie blijft één keer per uur.
+
+- Neem normaal **minstens twee samenhangende, zelfstandig controleerbare TODO-deeltaken of onderzoeksbatches** achter elkaar mee, als de uitvoering dat toelaat. Voor reguliere venuecontroles is **circa 8–10 locaties per ronde** een praktisch richtgetal in plaats van maximaal 5, mits voldoende betrouwbare primaire bronnen te vinden zijn. Voor ingewikkelde bugs of inhoudelijke tegenstrijdigheden kan één grote, volledig geteste taak terecht de hele uitvoering kosten.
+- Werk na de eerste batch direct verder met de volgende open taak, zolang er uitvoeringsruimte is; stop niet automatisch na één onderzochte zaak of één commit. Bij een verschuldigde weekaudit: probeer eveneens **twee geografische/deelregio-batches** af te ronden, met per regio een afzonderlijke voortgangsregistratie. De audit is nooit voltooid zolang actieve regio's ontbreken.
+- Grotere batches mogen meerdere GitHub-commits bevatten. Lees de laatste SHA opnieuw vóór elke wijziging, controleer na opslaan, en leg per afgeronde stap de bron, controledatum, aanpassing en eventuele twijfel vast. Update dit TODO-document aan het einde met **beide** uitgevoerde stappen en de volgende stap.
+- **Kwaliteit gaat vóór aantallen:** geen ongefundeerde sluitingsuren, niet alle onzekere locaties als bevestigd markeren, geen dubbelen en geen incomplete operatie als voltooid melden. Als er onvoldoende betrouwbare gegevens beschikbaar zijn, werk een andere openstaande taak af en meld de blokkade.
+- Rapporteer bij elke uitvoer hoeveel locaties, controles, subtaken en commits **daadwerkelijk** zijn afgerond. Een verdubbeling is een **inspannings- en capaciteitsdoel**, geen garantie dat elke ronde exact tweemaal zo veel geverifieerde data oplevert.
+
 ## Huidige momentopname (29 oktober 2026)
 
 - 412 locaties in de masterdatabase: 224 Utrecht, 188 Friesland (29-10-2026; 2 nieuwe Sneker concepten als `Nog te controleren` toegevoegd, niet als geopende zaken).
@@ -152,6 +162,7 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — Werktempo uurlijkse taak verhoogd:** richtdoel circa 2× meer inhoudelijk werk, standaard twee afgeronde deelbatches per uitvoering of 8–10 locaties bij normale venuecontrole; ook bij weekaudits. Verificatie, GitHub-validatie en bronvastlegging onveranderd verplicht. Dit is een werkdoel, geen garantie op identieke doorlooptijden.
 - **2026-10-29 — Tweede mobiele regiowisselcorrectie:** de gebruiker bevestigde dat de eerste mobiele fix niet werkte. Regioherkenning nu op Leaflet `getCenter()` + dichtstbijzijnde gegeocodeerde zaak (zonder scherm-overlay/pixelafhankelijkheid) met hysterese; expliciete regionaam in het kaartjeshoofd. Zes scenarios geslaagd; echte telefooncontrole en Pages-publicatie nog open, zie B2. Commit `bfe247f43f191b75541858b3f88157d628fd5f65`.
 - **2026-10-29 — Mobiele regio-automatiek verbeterd:** de vaste 18-km-regiogrens vervangen door detectie van geografische locaties binnen de onbedekte kaartviewport, met hysterese tegen onrustig heen-en-weer schakelen. Zes gesimuleerde scenario's + JS-syntax correct; live mobiel nog open onder B2. Commit `cf9034cdbd744f888d40590996e69ed301a4cc52`.
 - **2026-10-29 — A2a hercontrole + A2f appcorrectie (Sneek):** 1841-complex nagekeken via https://1841.nl/, https://www.sneek.nl/zien-doen/club-1841 en https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-; geen hard bewijs van publieke heropening vóór november, geen nieuwe horecazaken toegevoegd. De geocodes van Club 1841 (adres 4B) en Nachtegaal (adres 4) matchen BAG 4a; Fenix 4C matcht wel 4c. Dit zijn onopgeloste adres-/precisiepunten; geen coördinaten verzonnen. A2f: https://cafedekroonsneek.nl/ bevestigt 'uiterlijk 01:45', niet exact. index.html commit `f7bfc97dfef82416f6115511ad7a23ebc2d4bdc8`, data/venues.json commit `7fe64bc3b33968c3b8172ac84486bc74f5537dd0`; 1 bestaande recordnotitie bijgewerkt, 412 records totaal (224 Utrecht, 188 Friesland). 13 JS-gevallen geslaagd incl. Café Fokk's; browser-/deploycontrole nog open. Volgende A2j Smûk-dinsdag en A2k BAG.
