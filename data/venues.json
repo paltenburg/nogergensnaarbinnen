@@ -10876,9 +10876,9 @@
         "za": "Varieert",
         "zo": "Varieert"
       },
-      "closing_quality": "Officiële website; geen vaste dagelijkse sluitingstijd",
+      "closing_quality": "Officiële website; sluitingsmarge 02:00–04:00 en laatste toegang 02:00, geen vast dagelijks sluitingsuur",
       "closing_source": "https://cafefokks.nl/info/",
-      "closing_notes": "De officiële site vermeldt dagelijks 21:00 tot 02:00–04:00. De werkelijke sluitingstijd verschilt; daarom geen vaste 04:00 aangenomen. Laatste toegang expliciet 02:00. Let op: een actief tijdsfilter kan wisselende sluitingstijden momenteel uitsluiten.",
+      "closing_notes": "De officiële site vermeldt dagelijks 21:00 tot 02:00–04:00. De sluiting varieert tussen 02:00 en 04:00; vanaf 02:00 worden geen nieuwe bezoekers binnengelaten. Voor aankomst vóór 02:00 geldt het opgegeven openingsrooster; afwijkingen op de dag zelf blijven mogelijk.",
       "features": "Feestcafé; uitgaan/dansen",
       "website": "https://cafefokks.nl/",
       "other_sources": [
@@ -10918,7 +10918,37 @@
       "last_entry_source": "https://cafefokks.nl/info/",
       "last_entry_checked_on": "2026-10-29",
       "last_entry_notes": "De website zegt: 'Vanaf 02:00 mag er niemand meer binnengelaten worden.' Geen aanname op basis van gemeentelijke APV.",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "closing_range": {
+        "ma": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "di": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "wo": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "do": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "vr": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "za": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        },
+        "zo": {
+          "earliest": "02:00",
+          "latest": "04:00"
+        }
+      }
     },
     {
       "id": "cafe-t-singeltje-sneek-2a92fa4",
