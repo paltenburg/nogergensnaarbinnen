@@ -3426,7 +3426,12 @@
         "https://chupitos.nl/locations/utrecht/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0939446,
+        "lon": 5.1181705,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Loeff Berchmakerstraat 10, 3512TD Utrecht"
+      },
       "opening": {
         "ma": "?",
         "di": "22:00",
@@ -3732,7 +3737,12 @@
         "https://www.ontdek-utrecht.nl/locatie/de-drie-dorstige-herten/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0873262,
+        "lon": 5.1234055,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lange Nieuwstraat 47, 3512PC Utrecht"
+      },
       "opening": {
         "ma": "?",
         "di": "?",
@@ -5114,7 +5124,12 @@
         "https://centrumutrecht.nl/company/cafe-jan-de-winter/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0896166,
+        "lon": 5.1212619,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 170, 3511NP Utrecht"
+      }
     },
     {
       "id": "jan-primus-53f279c",
@@ -5232,7 +5247,12 @@
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.0915287,
+        "lon": 5.1184006,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht aan de Werf 157, 3511AL Utrecht"
+      }
     },
     {
       "id": "kaasbar-e81b132",
@@ -5560,7 +5580,12 @@
         "https://www.knockoutcomedy.nl/contact"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0882706,
+        "lon": 5.1211642,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 205, 3511NH Utrecht"
+      },
       "website_provenance": "official-site-research",
       "website_checked_on": "2026-10-26",
       "event_dependent": true
@@ -7283,7 +7308,12 @@
         "https://www.ontdek-utrecht.nl/locatie/rocking-chair/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null
+      "geo": {
+        "lat": 52.1012141,
+        "lon": 5.120686,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willem van Noortstraat 88, 3514GG Utrecht"
+      }
     },
     {
       "id": "rooie-nel-20261026",
@@ -7804,7 +7834,12 @@
         "https://stadsbrouwerijroodnoot.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0975135,
+        "lon": 5.07273,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oude Vleutenseweg 35, 3541BE Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "16:00",
@@ -7924,7 +7959,12 @@
         "https://www.stichtsetaveerne.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0828279,
+        "lon": 5.1233011,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Twijnstraat 43, 3511ZH Utrecht"
+      },
       "website_provenance": "official-site-research",
       "website_checked_on": "2026-10-29",
       "opening": {
@@ -8054,7 +8094,12 @@
         "https://www.taplokaalgist.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0765511,
+        "lon": 5.121416,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Helling 9, 3523CB Utrecht"
+      },
       "opening": {
         "ma": "16:00",
         "di": "16:00",
@@ -8822,7 +8867,12 @@
         "https://eetcafevallen.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.1031242,
+        "lon": 5.0121437,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Stationsstraat 49, 3451BW Vleuten"
+      },
       "website_checked_on": "2026-10-29"
     },
     {
@@ -9088,7 +9138,12 @@
         "https://www.ontdek-utrecht.nl/locatie/werkspoorcafe"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.1057233,
+        "lon": 5.0791753,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Tractieweg 43, 3534AP Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "—",
@@ -9491,7 +9546,12 @@
         "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/2/cocktailbar-273"
       ],
       "original_status": "Handmatig toegevoegd na raadpleging primaire of expliciet vermelde bronnen op 29 oktober 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.0864773,
+        "lon": 5.1217622,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oudegracht 273, 3511NN Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "—",
@@ -9535,7 +9595,12 @@
         "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/628/insolence"
       ],
       "original_status": "Handmatig toegevoegd na raadpleging primaire of expliciet vermelde bronnen op 29 oktober 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.0957427,
+        "lon": 5.1383649,
+        "method": "PDOK BAG-adres",
+        "matched_address": "F.C. Dondersstraat 2, 3572JG Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "—",
@@ -9580,7 +9645,12 @@
         "https://tastytrails.nl/hotspots/bars/utrecht-krijgt-er-met-de-prediker-een-nieuwe-speakeasy-bij/"
       ],
       "original_status": "Handmatig toegevoegd na raadpleging primaire of expliciet vermelde bronnen op 29 oktober 2026",
-      "geo": null,
+      "geo": {
+        "lat": 52.0943588,
+        "lon": 5.1187163,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Predikherenstraat 9, 3512TL Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "—",

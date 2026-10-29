@@ -3,10 +3,10 @@
   "generated_on": "2026-10-29",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 222,
-    "source_urls": 287,
-    "domains": 162,
-    "direct_website_fields": 143
+    "venues": 224,
+    "source_urls": 309,
+    "domains": 172,
+    "direct_website_fields": 150
   },
   "discovery_sites": [
     {
@@ -61,13 +61,13 @@
   "domains": [
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 55,
-      "linked_venues": 52
+      "source_pages": 56,
+      "linked_venues": 53
     },
     {
       "domain": "ontdek-utrecht.nl",
-      "source_pages": 17,
-      "linked_venues": 34
+      "source_pages": 19,
+      "linked_venues": 36
     },
     {
       "domain": "debuik.nl",
@@ -77,12 +77,17 @@
     {
       "domain": "uitutrecht.com",
       "source_pages": 8,
-      "linked_venues": 133
+      "linked_venues": 132
     },
     {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
+    },
+    {
+      "domain": "verseuitjes.nl",
+      "source_pages": 4,
+      "linked_venues": 4
     },
     {
       "domain": "barbasta.nl",
@@ -115,6 +120,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "chupitos.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "clubclaar.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -143,6 +153,21 @@
       "domain": "elize.cafe",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "insolence-restaurant.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "kleinemax.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "knockoutcomedy.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "landhuisindestad.nl",
@@ -190,6 +215,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "restaurant273.com",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "rooienel.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -220,6 +250,16 @@
       "linked_venues": 1
     },
     {
+      "domain": "stichtsetaveerne.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "taplokaalgist.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "teds-place.mom",
       "source_pages": 2,
       "linked_venues": 2
@@ -233,11 +273,6 @@
       "domain": "tivolivredenburg.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "verseuitjes.nl",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "vind-open.nl",
@@ -450,6 +485,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "companyinfo.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cylex.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -481,6 +521,11 @@
     },
     {
       "domain": "dekrommeharing.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "delindebar.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -526,6 +571,11 @@
     },
     {
       "domain": "eetcafedepoort.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafevallen.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -616,16 +666,6 @@
     },
     {
       "domain": "kleinberlijn.de",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "kleinemax.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "knockoutcomedy.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -770,12 +810,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "stathe.nl",
+      "domain": "stadsbrouwerijroodnoot.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
-      "domain": "stichtsetaveerne.nl",
+      "domain": "stathe.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -786,6 +826,11 @@
     },
     {
       "domain": "taphuys.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "tastytrails.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -866,6 +911,11 @@
     },
     {
       "domain": "willemslok.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "zoek.officielebekendmakingen.nl",
       "source_pages": 1,
       "linked_venues": 1
     }
@@ -2786,6 +2836,30 @@
       "needs_review": false
     },
     {
+      "url": "https://centrumutrecht.nl/company/cafe-jan-de-winter/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "jan-de-winter-720539c",
+          "name": "Jan de Winter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://centrumutrecht.nl/company/cafe-kalff/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -3787,6 +3861,63 @@
       "needs_review": false
     },
     {
+      "url": "https://chupitos.nl/?pagename=utrecht",
+      "domain": "chupitos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "chupitos-shooter-bar-11cade7",
+          "name": "Chupitos Shooter Bar",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://chupitos.nl/locations/utrecht/",
+      "domain": "chupitos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "chupitos-shooter-bar-11cade7",
+          "name": "Chupitos Shooter Bar",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://clubbasis.nl/",
       "domain": "clubbasis.nl",
       "first_registered_on": "2026-10-26",
@@ -4008,6 +4139,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811",
+      "domain": "companyinfo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "k-sjot-b8bcdc7",
+          "name": "K-Sjot",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
@@ -4564,6 +4719,38 @@
       "needs_review": false
     },
     {
+      "url": "https://delindebar.nl/",
+      "domain": "delindebar.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "proeflokaal-de-lindebar-52a6285",
+          "name": "Proeflokaal de Lindebar",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.demorgensterutrecht.nl/",
       "domain": "demorgensterutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -4914,6 +5101,34 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://eetcafevallen.nl/",
+      "domain": "eetcafevallen.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "vallen-eetcafe-zalencentrum-3c0ef4f",
+          "name": "Vallen Eetcafé-Zalencentrum",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://ekko.nl/",
@@ -5392,6 +5607,61 @@
       "needs_review": false
     },
     {
+      "url": "https://insolence-restaurant.nl/",
+      "domain": "insolence-restaurant.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "insolence-20261029",
+          "name": "Insolence",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://insolence-restaurant.nl/contact/",
+      "domain": "insolence-restaurant.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "insolence-20261029",
+          "name": "Insolence",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.kaasbarutrecht.nl/",
       "domain": "kaasbarutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -5548,13 +5818,12 @@
       "needs_review": false
     },
     {
-      "url": "https://kleinemax.nl/over-ons/",
+      "url": "https://kleinemax.nl/",
       "domain": "kleinemax.nl",
-      "first_registered_on": "2026-10-26",
+      "first_registered_on": "2026-10-29",
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -5562,17 +5831,46 @@
           "id": "kleine-max-8fc53ac",
           "name": "Kleine Max",
           "roles": [
-            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-25",
-            "sluitingstijden": "2026-10-25"
+            "website": "2026-10-29"
           },
           "needs_review": false
         }
       ],
-      "last_data_field_checked_on": "2026-10-25",
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://kleinemax.nl/contact/",
+      "domain": "kleinemax.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "kleine-max-8fc53ac",
+          "name": "Kleine Max",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -5599,6 +5897,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.knockoutcomedy.nl/contact",
+      "domain": "knockoutcomedy.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "knock-out-comedy-club-59624b0",
+          "name": "Knock Out Comedy Club",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
     },
@@ -5803,6 +6125,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
         "website"
       ],
       "venues": [
@@ -5810,6 +6133,7 @@
           "id": "le-journal-1b1cfeb",
           "name": "Le Journal",
           "roles": [
+            "achtergrond",
             "website"
           ],
           "checked_on": {},
@@ -6617,6 +6941,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
         "openingstijden",
         "sluitingstijden"
       ],
@@ -6625,6 +6950,7 @@
           "id": "de-drie-dorstige-herten-d5c9f1a",
           "name": "De Drie Dorstige Herten",
           "roles": [
+            "achtergrond",
             "openingstijden",
             "sluitingstijden"
           ],
@@ -6751,6 +7077,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.ontdek-utrecht.nl/locatie/rocking-chair/",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "rocking-chair-c8ed632",
+          "name": "Rocking Chair",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.ontdek-utrecht.nl/locatie/sevilla/",
       "domain": "ontdek-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -6850,6 +7200,37 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.ontdek-utrecht.nl/locatie/werkspoorcafe",
+      "domain": "ontdek-utrecht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "werkspoorcafe-1e5e832",
+          "name": "Werkspoorcafé",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/",
@@ -7332,6 +7713,62 @@
       "needs_review": true
     },
     {
+      "url": "https://www.restaurant273.com/",
+      "domain": "restaurant273.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cocktailbar-273-20261029",
+          "name": "Cocktailbar 273",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.restaurant273.com/cocktailbar",
+      "domain": "restaurant273.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cocktailbar-273-20261029",
+          "name": "Cocktailbar 273",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://restaurantconcours.nl/",
       "domain": "restaurantconcours.nl",
       "first_registered_on": "2026-10-26",
@@ -7661,6 +8098,40 @@
       "needs_review": false
     },
     {
+      "url": "https://stadsbrouwerijroodnoot.nl/",
+      "domain": "stadsbrouwerijroodnoot.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "stadsbrouwerij-roodnoot-9455ff5",
+          "name": "Stadsbrouwerij RoodNoot",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://stadsschouwburg-utrecht.nl/eten-drinken/zindering",
       "domain": "stadsschouwburg-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -7868,14 +8339,45 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-10-29"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-26",
+      "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
+    },
+    {
+      "url": "https://www.stichtsetaveerne.nl/contact/",
+      "domain": "stichtsetaveerne.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "stichtse-taveerne-88f4900",
+          "name": "Stichtse Taveerne",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.talud9.nl/",
@@ -7937,6 +8439,87 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.taplokaalgist.nl/",
+      "domain": "taplokaalgist.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "taplokaal-gist-bb8d7ed",
+          "name": "Taplokaal Gist",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.taplokaalgist.nl/contact/",
+      "domain": "taplokaalgist.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "taplokaal-gist-bb8d7ed",
+          "name": "Taplokaal Gist",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://tastytrails.nl/hotspots/bars/utrecht-krijgt-er-met-de-prediker-een-nieuwe-speakeasy-bij/",
+      "domain": "tastytrails.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-prediker-20261029",
+          "name": "De Prediker",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://teds-place.mom/locations/utrecht-oudegracht/",
@@ -9645,7 +10228,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "club-claar-06704c7",
@@ -10182,20 +10765,11 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "rosie-4524621",
           "name": "Rosie",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "rubens-proeflokaal-94b7bf6",
-          "name": "Rubens Proeflokaal",
           "roles": [
             "achtergrond"
           ],
@@ -10222,7 +10796,7 @@
         }
       ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 12,
+      "linked_venue_count": 11,
       "needs_review": true
     },
     {
@@ -10287,7 +10861,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "sumventure-flightbar-9f750e7",
@@ -10694,6 +11268,30 @@
       "needs_review": true
     },
     {
+      "url": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/2/cocktailbar-273",
+      "domain": "verseuitjes.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cocktailbar-273-20261029",
+          "name": "Cocktailbar 273",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/6/de-troef",
       "domain": "verseuitjes.nl",
       "first_registered_on": "2026-10-26",
@@ -10719,6 +11317,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/628/insolence",
+      "domain": "verseuitjes.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "insolence-20261029",
+          "name": "Insolence",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -10939,6 +11561,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-140677.html",
+      "domain": "zoek.officielebekendmakingen.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-prediker-20261029",
+          "name": "De Prediker",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     }
   ],
   "next_review": {
@@ -11012,16 +11658,16 @@
         "name": "Champañeria Los Amigos"
       },
       {
-        "id": "chupitos-shooter-bar-11cade7",
-        "name": "Chupitos Shooter Bar"
-      },
-      {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
       },
       {
         "id": "de-drie-dorstige-herten-d5c9f1a",
         "name": "De Drie Dorstige Herten"
+      },
+      {
+        "id": "de-prediker-20261029",
+        "name": "De Prediker"
       },
       {
         "id": "de-stadsgenoot-c71911a",
@@ -11140,10 +11786,6 @@
         "name": "Pjay"
       },
       {
-        "id": "proeflokaal-de-lindebar-52a6285",
-        "name": "Proeflokaal de Lindebar"
-      },
-      {
         "id": "restaurant-de-zakkendrager-ae31744",
         "name": "Restaurant De Zakkendrager"
       },
@@ -11158,10 +11800,6 @@
       {
         "id": "rosie-4524621",
         "name": "Rosie"
-      },
-      {
-        "id": "rubens-proeflokaal-94b7bf6",
-        "name": "Rubens Proeflokaal"
       },
       {
         "id": "s-s-r-n-u-dbc8e93",
@@ -11180,20 +11818,12 @@
         "name": "Sportcafé Tropical"
       },
       {
-        "id": "stadsbrouwerij-roodnoot-9455ff5",
-        "name": "Stadsbrouwerij RoodNoot"
-      },
-      {
         "id": "stadsschouwburg-utrecht-fc1adf8",
         "name": "Stadsschouwburg Utrecht"
       },
       {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
-      },
-      {
-        "id": "taplokaal-gist-bb8d7ed",
-        "name": "Taplokaal Gist"
       },
       {
         "id": "the-5th-e5c8746",
@@ -11218,10 +11848,6 @@
       {
         "id": "union-house-35b4945",
         "name": "Union House"
-      },
-      {
-        "id": "vallen-eetcafe-zalencentrum-3c0ef4f",
-        "name": "Vallen Eetcafé-Zalencentrum"
       },
       {
         "id": "vandestreek-oudegracht-006de2b",
@@ -11340,10 +11966,6 @@
       {
         "id": "champaneria-los-amigos-560e1d0",
         "name": "Champañeria Los Amigos"
-      },
-      {
-        "id": "chupitos-shooter-bar-11cade7",
-        "name": "Chupitos Shooter Bar"
       },
       {
         "id": "de-apotheek-4ced9d6",
@@ -11466,10 +12088,6 @@
         "name": "Rosie"
       },
       {
-        "id": "rubens-proeflokaal-94b7bf6",
-        "name": "Rubens Proeflokaal"
-      },
-      {
         "id": "s-s-r-n-u-dbc8e93",
         "name": "S.S.R-N.U."
       },
@@ -11482,20 +12100,8 @@
         "name": "Sportcafé Tropical"
       },
       {
-        "id": "stadsbrouwerij-roodnoot-9455ff5",
-        "name": "Stadsbrouwerij RoodNoot"
-      },
-      {
-        "id": "stichtse-taveerne-88f4900",
-        "name": "Stichtse Taveerne"
-      },
-      {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
-      },
-      {
-        "id": "taplokaal-gist-bb8d7ed",
-        "name": "Taplokaal Gist"
       },
       {
         "id": "tijm-d1d43a8",
@@ -11524,10 +12130,6 @@
       {
         "id": "was-3ef3647",
         "name": "WAS."
-      },
-      {
-        "id": "werkspoorcafe-1e5e832",
-        "name": "Werkspoorcafé"
       },
       {
         "id": "woolloomooloo-0a91b60",
@@ -11561,6 +12163,11 @@
         "reason": "Eigen pagina vermeldt maandag alleen op verzoek; andere contactpagina heeft afwijkende tijden voor zaterdag."
       },
       {
+        "id": "chupitos-shooter-bar-11cade7",
+        "name": "Chupitos Shooter Bar",
+        "reason": "Officiële vestigingspagina noemt dinsdag t/m zaterdag. Maandag en zondag niet afzonderlijk als gesloten bevestigd; laatste toegang niet gepubliceerd."
+      },
+      {
         "id": "club-maggy-c0cbd28",
         "name": "Club Maggy",
         "reason": "Controleer programma: gids kan verouderd zijn."
@@ -11576,9 +12183,19 @@
         "reason": "Openingstijden toeristische gids; Cylex volgt dezelfde dagafsluiting, maar sommige andere gidsen geven afwijkende starttijd. Ping Pong Club en De Troef delen het adres maar zijn afzonderlijke horeca-ruimten."
       },
       {
+        "id": "de-prediker-20261029",
+        "name": "De Prediker",
+        "reason": "Opening voor half november 2026 aangekondigd maar niet als feitelijk geopend geverifieerd (29 oktober). Adres bevestigd door gemeentelijke aanvraag, geen bewijs dat horecavergunning reeds verleend is. Niet opnemen in publiek zoekresultaat tot heropeningscontrole."
+      },
+      {
         "id": "de-troef-spelletjescafe-7a45c78",
         "name": "De Troef spelletjescafé",
         "reason": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen."
+      },
+      {
+        "id": "insolence-20261029",
+        "name": "Insolence",
+        "reason": "Openingstijden bevestigd via officiële contactpagina; het adres vermeldt elders een afwijkende postcode, daarom alleen straat en huisnummer vastgelegd."
       },
       {
         "id": "kitchen-bar-danel-4c5a5ea",
@@ -11593,7 +12210,7 @@
       {
         "id": "le-journal-1b1cfeb",
         "name": "Le Journal",
-        "reason": "Tijdelijk gesloten door ingrijpende renovatie sinds 4 januari 2026; heropening begin november 2026 aangekondigd. Tijden zijn historisch en voorlopig onbruikbaar."
+        "reason": "Vanwege verbouwing tijdelijk gesloten; officiële site kondigt heropening op 2 november 2026 aan. Tot bevestiging van feitelijke heropening niet opnemen als geopend; nieuwe openings- en sluitingstijden nog onbekend. Controle nodig op of na 2 november."
       },
       {
         "id": "nomono-ce51c6e",
@@ -11609,6 +12226,11 @@
         "id": "sevilla-utrecht-20261026",
         "name": "Sevilla Utrecht",
         "reason": "Officiële site noemt vrijdag/zaterdag 00:00. Ontdek Utrecht ondersteunt 00:00; De Buik en andere gidsen melden 01:00. Officiële bron voorrang, maar conflicterende tijd bewaren."
+      },
+      {
+        "id": "stichtse-taveerne-88f4900",
+        "name": "Stichtse Taveerne",
+        "reason": "Contactpagina toont reguliere uren; homepage noemt afwijkende openingstijden voor juli/augustus. In oktober reguliere uren aangehouden."
       },
       {
         "id": "teds-stadhuisplein-20261026",

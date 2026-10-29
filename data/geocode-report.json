@@ -1,8 +1,8 @@
 {
-  "total": 222,
-  "with_coordinates": 185,
-  "without_coordinates": 37,
-  "added_in_this_run": 0,
+  "total": 224,
+  "with_coordinates": 199,
+  "without_coordinates": 25,
+  "added_in_this_run": 14,
   "unmatched": [
     {
       "name": "B.I.T.O.N.",
@@ -45,16 +45,6 @@
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Chupitos Shooter Bar",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "De Drie Dorstige Herten",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "Dito",
       "address": "",
       "reason": "missing-address"
@@ -75,29 +65,14 @@
       "reason": "no-number-or-unparseable-address"
     },
     {
-      "name": "Jan de Winter",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "K-Sjot",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "KABUL à GoGo",
       "address": "Gietijzerstraat 3-5",
       "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Kleine Max",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Knock Out Comedy Club",
-      "address": "",
-      "reason": "missing-address"
+      "address": "J.P. Coenstraat 69",
+      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "KweekVijver Utrecht",
@@ -135,39 +110,14 @@
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Rocking Chair",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Rubens Proeflokaal",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "Rum Club",
       "address": "Oudegracht aan de Werf 111",
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Stadsbrouwerij RoodNoot",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Stichtse Taveerne",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
       "name": "Talud9",
       "address": "Donkere Gaard 9",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Taplokaal Gist",
-      "address": "",
-      "reason": "missing-address"
     },
     {
       "name": "Teds Utrecht Oudegracht",
@@ -178,16 +128,6 @@
       "name": "Tijm",
       "address": "Donkere Gaard 3",
       "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Vallen Eetcafé-Zalencentrum",
-      "address": "",
-      "reason": "missing-address"
-    },
-    {
-      "name": "Werkspoorcafé",
-      "address": "",
-      "reason": "missing-address"
     }
   ]
 }
