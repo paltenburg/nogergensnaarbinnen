@@ -48,7 +48,7 @@ Voor **ieder** record: controleer of naam, adres en huidige exploitatie kloppen;
 
 ### B. App en datalogica
 
-- [ ] **B1. Wisselende sluitingstijden met bekende laatste toegang:** onderzoek en herstel de tijdsfilterlogica. Voorbeeld: Café Fokk's heeft expliciete uiterste toegang 02:00, maar geen vaste sluiting per dag; momenteel verdwijnt het café bij actieve tijdsfilters. Toon geen gegarandeerde opening zonder onderbouwing.
+- [x] **B1. Wisselende sluitingstijden met bekende laatste toegang:** filter ondersteunt nu een geverifieerde sluitingsmarge in `closing_range` (per dag `earliest`/`latest`) en gebruikt de bekende laatste toegang als afzonderlijke, harde grens. Café Fokk's toont `02:00–04:00` en prominent `Binnen tot 02:00`; vóór 02:00 wordt het café meegenomen, vanaf 02:00 uitgesloten. Onbekende sluiting zonder aantoonbare laatste toegang blijft bij een tijdsfilter uitgesloten. JS-syntax en tijdgrensgevallen getest op 29-10-2026; live-browsercontrole blijft een aparte B2/B4-taak.
 - [ ] **B2. Verificatie van regio-automatiek op de live site** in plaats van alleen code- en geografische functietests; ook overgang in beide richtingen en terugscrollen testen.
 - [ ] **B3. Datakwaliteitsrapport per regio**: website ontbreekt, sluiting onbekend, laatste toegang onbekend, geen exacte coördinaten, leeftijd van broncontrole en mogelijke duplicaten.
 - [ ] **B4. Publicatiecontrole na grotere datasets**: workflowstatus, geocoder-meldingen, kaartweergave en performance mobiel/desktop.
@@ -144,6 +144,7 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — B1 afgerond (logische tests):** Café Fokk's bron https://cafefokks.nl/info/ geeft open vanaf 21:00, sluit tussen 02:00 en 04:00, laatste toegang 02:00. Tijdgrenzen 20:30, 21:00, 23:30, 00:30, 01:30, 01:59, 02:00, 02:30 en 03:30 getest; één bestaand record met exacte sluiting opnieuw getest. Wijzigingen index.html commit `8067adbaf57f2c8d17c38fa472e335af5df5970a` en data/venues.json commit `ac0a275cee88ba46c51e9e966ae54962eaf1703c`. Live UI-verificatie niet uitgevoerd.
 - **2026-10-29 — Auditscope gegeneraliseerd:** de weekaudit controleert voortaan alle actieve database-regio's en voegt nieuwe regio's automatisch toe; niet hardcoded Utrecht/Friesland. Per regio een geografische deelbatch en weeklog; D3-configuratie afgerond, eerste echte uitvoering nog niet getest.
 - **2026-10-29 — Automatiseringen samengevoegd:** de aparte wekelijkse databasecheck is uitgeschakeld; de uurlijkse uitvoering beheert voortaan ook de wekelijkse audit en houdt het auditlog bij. 
 - **2026-10-29 — Landelijke vervolgfase gepland:** na het halen van D0 eerst landelijke regio-indeling D1, daarna D2 per provincie, vervolgens D3 landelijke updatechecks. Er zijn door dit besluit nog geen nieuwe provincies of locaties toegevoegd.
