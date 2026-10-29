@@ -11,7 +11,7 @@
 3. Voer per beurt een afgebakende batch helemaal uit: onderzoek, gegevens vastleggen, GitHub-commit, validatie en deze takenlijst bijwerken.
 4. Bewaar bij elke batch welke locaties/velden echt zijn geverifieerd, bron-URL's, controledatums, nog openstaande twijfel en eventuele fouten.
 5. Markeer taken pas als voltooid na controle. Lukt een stap niet, documenteer het obstakel en ga zo nodig door met een onafhankelijke stap.
-6. De actieve **uurlijkse TODO-automatisering** kan kleine batches zelfstandig hervatten; bij handmatig 'ga door' gebeurt dat eveneens. Elke uitvoering moet worden gevalideerd en hier worden vastgelegd. De wekelijkse databasecheck is een afzonderlijke taak. Voeg toekomstige fasen aan de lijst toe in plaats van grote verzoeken stilzwijgend af te breken.
+6. De actieve **uurlijkse TODO-automatisering** doet zowel doorlopende uitbreidingsbatches als de periodieke broncontroles hieronder. Er is geen tweede actieve wekelijkse schrijver. Bij handmatig 'ga door' wordt dezelfde lijst gebruikt. Elke uitvoering moet worden gevalideerd en hier worden vastgelegd.
 
 ## Huidige momentopname (29 oktober 2026)
 
@@ -20,7 +20,7 @@
 - Friesland: **5/184** met websiteveld ingevuld; **11** met een bron voor sluitingsinformatie. Dit is **geen** garantie dat die bronnen of de uren volledig juist zijn.
 - Friesland: **1** record met een bron voor laatste toegang.
 - Nieuwe Friese records zijn grotendeels **onbevestigde gidsvermeldingen**. De bulkimport bewijst niet dat de genoemde zaken bestaan, nog open zijn, aan de vermelde adressen zitten of alcohol schenken.
-- De automatische wekelijkse controle is op Utrecht én heel Friesland ingesteld, met regionale roulatie; het afgeleide bronnenregister bevat Friese vindplaatsen.
+- Periodieke controles voor Utrecht én heel Friesland zijn opgenomen in **de uurlijkse taak** met een wekelijkse controlefrequentie en regionale roulatie; de aparte wekelijkse automatisering is uitgeschakeld. Het afgeleide bronnenregister bevat Friese vindplaatsen.
 
 ## Eerstvolgende uitvoerbare stap
 
@@ -53,6 +53,31 @@ Voor **ieder** record: controleer of naam, adres en huidige exploitatie kloppen;
 - [ ] **B3. Datakwaliteitsrapport per regio**: website ontbreekt, sluiting onbekend, laatste toegang onbekend, geen exacte coördinaten, leeftijd van broncontrole en mogelijke duplicaten.
 - [ ] **B4. Publicatiecontrole na grotere datasets**: workflowstatus, geocoder-meldingen, kaartweergave en performance mobiel/desktop.
 - [ ] **B5. Beoordeel of de regio-indeling op termijn per gemeente/stad of dynamisch op kaartzicht moet werken**, zodat Friesland niet één enorme lijst wordt.
+
+## Periodieke broncontrole — uitgevoerd door dezelfde uurlijkse taak
+
+Er is **geen afzonderlijke wekelijkse automatisering meer**. De uurlijkse taak is de enige eigenaar van **alle handmatige wijzigingen** aan `data/venues.json`, `TODO.md` en het bronregister. De oude wekelijkse taak is op 29 oktober 2026 uitgeschakeld. Alle onderstaande terugkerende controles blijven echter onderdeel van de werkzaamheden.
+
+**Frequentieregel:** vanaf **maandag 2 november 2026 om 10:00 Nederlandse tijd** is per kalenderweek een auditronde verschuldigd. De uurlijkse taak moet bij elke uitvoering eerst vaststellen of de audit voor de huidige ISO-week al volledig is afgerond. Is deze verschuldigd, pak dan vóór een gewone uitbreidingsbatch een hanteerbare audit-subtaak op. Werk bij een volgende uurlijkse uitvoering verder aan de onvoltooide audit totdat zowel Utrecht als de gekozen Friese deelgebieden zijn onderzocht. Voorkom dat één uitgebreide audit ten onrechte als volledig afgevinkt wordt na slechts één onderzochte locatie. Hebben acute fouten voorrang, documenteer de reden en keer daarna naar de audit terug.
+
+**Per wekelijkse ronde:**
+1. **Utrecht-stad**: zoek nieuw geopende, heropende, hernoemde of gesloten publieke horeca; controleer officiële sites, geselecteerde bestaande sluitings- en laatste-binnenkomsttijden, geocodes, dubbelen en verouderde adressen. Controleer bij de start Le Journal (heropening aangekondigd 2 november), Nomono (vanaf 30 oktober) en De Prediker (vanaf half november): een aankondiging bewijst geen actuele openstelling.
+2. **Friesland**: controleer een **roulerende** geografische selectie, verdeeld over alle gemeenten, kleine dorpen én Vlieland, Terschelling, Ameland en Schiermonnikoog. Verschuif de roulatie elke week aan de hand van het controlelog. Raadpleeg bij voorkeur primaire websites plus het afgeleide bronnenregister en andere locale/officiële gidsen en eventueel OSM-kandidaten.
+3. **Datakwaliteit**: zoek websites, echte opening/sluiting en uiterste toegang; bevestig actuele exploitatie, naam, adres en alcoholaanbod/toegang. Leg bron-URL en **alleen werkelijk uitgevoerde controledatums** vast; laat ontbrekende informatie onbekend. Gemeentelijke APV-maxima voor natte nachthoreca niet als openingstijden van cafés gebruiken. Behoud stabiele locatie-ID's, vermijd duplicaten en controleer gewijzigde namen.
+4. **Opslaan**: schrijf uitsluitend geverifieerde correcties rechtstreeks naar `data/venues.json` en laat de bestaande workflow het bronnenregister regenereren. Controleer de actuele GitHub-versie vlak voor iedere commit. Bij conflicten eerst opnieuw lezen en wijzigen; niet blind overschrijven.
+5. **Loggen**: leg per uitgevoerde auditbatch vast: datum, ISO-week, gecontroleerde gemeenten/plaatsen/eilanden, gebruikte bronnen, aantallen toegevoegd/gewijzigd/afgewezen, openstaande onzekerheden en commit. Als een audit meerdere uitvoeringen nodig heeft, noteer **in behandeling** met de volgende subtaak. Markeer pas als **volledig** wanneer zowel Utrecht als de geplande Friese roulatie voor die week zijn afgewerkt.
+
+Wanneer de **landelijke uitbreiding** start (fase D), neem ook de nieuwe regio's in de geografische roulatie op. Utrecht en Friesland blijven onderdeel van periodieke controles. Verdeel de landelijke controle in haalbare rondes; voorkom dat groei van het aantal regio's de gewone kwaliteitscontrole helemaal verdringt.
+
+**Auditstatus bij inrichting (2026-10-29):**
+- Laatst volledig afgeronde auditweek: **geen geregistreerd**.
+- Eerstvolgende audit: **ISO-week 2026-W45**, vanaf **2026-11-02 10:00 Europe/Amsterdam**.
+- Friese rotatiepositie: **nog niet gestart** — begin in de eerste ronde met een beperkt geografisch deelgebied, registreer daarna de onderzochte plaatsen en rouleer verder.
+- Geen audit als 'afgerond' markeren zonder werkelijk uitgevoerde controles.
+
+### Auditlog (aanvullen na iedere ronde)
+
+- Nog geen volledig uitgevoerde ronde.
 
 ### C. Utrecht en terugkerende checks
 
@@ -98,7 +123,7 @@ Leg in een voortgangsnotitie vast of de volgende voorwaarden zijn gehaald:
 
 ### D3. Landelijke periodieke actualisatie
 
-- [ ] **D3. Pas de wekelijkse controle-automatisering aan zodra uitbreiding echt is gestart** zodat ook nieuwe Nederlandse regio's in een gedocumenteerde roulatie komen. Behoud hercontroles van Utrecht en Friesland; voorkom overlap/conflicten met de uurlijkse TODO-automatisering.
+- [ ] **D3. Breid de wekelijkse controleroulatie binnen de uurlijkse automatisering uit zodra de landelijke uitbreiding gestart is**; behoud hercontroles van Utrecht en Friesland. Maak géén tweede schrijvende automatisering.
 - [ ] **D3a. Houd per regio/gemeente bij** wanneer een ontdekkings- en actualiteitsronde echt is uitgevoerd, welke bronnen gecontroleerd zijn en waar nog hiaten zijn.
 
 ## Al afgerond (beperkte betekenis)
@@ -117,5 +142,6 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — Automatiseringen samengevoegd:** de aparte wekelijkse databasecheck is uitgeschakeld; de uurlijkse uitvoering beheert voortaan ook de wekelijkse audit en houdt het auditlog bij. 
 - **2026-10-29 — Landelijke vervolgfase gepland:** na het halen van D0 eerst landelijke regio-indeling D1, daarna D2 per provincie, vervolgens D3 landelijke updatechecks. Er zijn door dit besluit nog geen nieuwe provincies of locaties toegevoegd.
 - **2026-10-29 — Startlijst aangemaakt** op basis van de reeds gedane GitHub-wijzigingen en resterende fouten. Eerste vervolgstap: **A1**.
