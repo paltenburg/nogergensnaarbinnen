@@ -727,7 +727,7 @@
     }
     // Do not select an arbitrary region when navigating elsewhere in NL.
     // A margin around mapped venues also covers towns between them.
-    return distance<=35000?nearest:null;
+    return distance<=18000?nearest:null;
   }
   function syncRegionFromMap(){
     if(!db.places.length)return;
