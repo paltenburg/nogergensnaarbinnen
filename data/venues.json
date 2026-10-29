@@ -12913,25 +12913,28 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Definitief gesloten na afscheidsfeest op 21 februari 2026; bevestigd door regionale nieuwsreportage van 25 februari 2026",
+      "closing_source": "https://www.rtvnof.nl/laatste-keer-feest-in-de-ponderosa-dokkum-ik-wie-ek-wol-best-emosjoneel/",
+      "closing_notes": "RTV NOF (25-02-2026) bevestigt dat de laatste feestavond op 21-02-2026 was, het pand is verkocht en wordt leeg opgeleverd. Niet tonen als geopende horeca. Adresconflict: inventarisatie noemt Oranjewal 48; Cylex noemt Oranjewal 38. Historisch huisnummer nog niet opgelost; geen marker verzinnen. Geen nieuwe horecabestemming bevestigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://uitgaanskaart.nl/dokkum",
+        "https://www.rtvnof.nl/laatste-keer-feest-in-de-ponderosa-dokkum-ik-wie-ek-wol-best-emosjoneel/",
+        "https://www.cylex.nl/bedrijf/bar-dancing-de-ponderosa-10818322.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd."
+      "original_status": "Definitieve sluiting bevestigd 30-10-2026 via RTV NOF-bericht 25-02-2026 over laatste feest op 21-02-2026.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "kb-food-drinks-dokkum-b461630",
