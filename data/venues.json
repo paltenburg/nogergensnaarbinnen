@@ -414,11 +414,11 @@
       "id": "b-i-t-o-n-e63cfb6",
       "name": "B.I.T.O.N.",
       "type": "Studentencafé",
-      "address": "",
+      "address": "Lucasbolwerk 16",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Toegangsvoorwaarden nog verifiëren",
+      "access": "Verenigingssociëteit, doorgaans voor leden; openbare avonden/feesten afzonderlijk controleren.",
       "alcohol": "Niet afzonderlijk bevestigd",
       "selection": "Nog te controleren",
       "closing": {
@@ -435,12 +435,14 @@
       "checked_on": "",
       "closing_notes": "",
       "features": "Studentenvereniging; toegang controleren",
-      "website": "",
+      "website": "https://www.biton.nl/",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/"
+        "https://www.uitutrecht.com/uitgaan/",
+        "https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; toegangsregels controleren; adres niet geverifieerd",
-      "geo": null
+      "geo": null,
+      "website_checked_on": "2026-10-29"
     },
     {
       "id": "back-fourth-c714b19",
@@ -4293,7 +4295,7 @@
       "id": "dito-bfdb022",
       "name": "Dito",
       "type": "Kroeg",
-      "address": "",
+      "address": "Herculesplein 329",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -4316,7 +4318,8 @@
       "features": "Kroeg",
       "website": "",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/page/3/"
+        "https://www.uitutrecht.com/uitgaan/page/3/",
+        "https://www.uitutrecht.com/uitgaan/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null
@@ -5594,13 +5597,13 @@
       "id": "kweekvijver-utrecht-c5d2c85",
       "name": "KweekVijver Utrecht",
       "type": "Kroeg",
-      "address": "",
+      "address": "Burgemeester ter Pelkwijklaan 174",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
+      "access": "Volgens een horecagids vooral besloten evenementen; vrije publieke toegang nog niet bevestigd.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -5613,11 +5616,12 @@
       "closing_quality": "Geen geverifieerde sluitingstijd",
       "closing_source": "",
       "checked_on": "",
-      "closing_notes": "",
+      "closing_notes": "Niet als gewone inloopkroeg weergeven zolang reguliere openbare toegang niet is bevestigd.",
       "features": "Kroeg",
       "website": "",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/page/4/"
+        "https://www.uitutrecht.com/uitgaan/page/4/",
+        "https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null
@@ -5850,11 +5854,11 @@
       "id": "lebowskis-speakeasy-2a1a46d",
       "name": "Lebowski’s Speakeasy",
       "type": "Cocktailbar",
-      "address": "",
+      "address": "Domplein 17",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
+      "access": "Verborgen bar binnen Grand Café Lebowski, vooraf reserveren kan; tijden en vrije inloop afzonderlijk controleren.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
@@ -5869,11 +5873,12 @@
       "closing_quality": "Geen geverifieerde sluitingstijd",
       "closing_source": "",
       "checked_on": "",
-      "closing_notes": "",
+      "closing_notes": "Aparte bar in hetzelfde pand als Grand Café Lebowski; geen eigen gecontroleerde sluitingstijden beschikbaar.",
       "features": "Cocktailweek; exacte locatie niet bevestigd",
       "website": "",
       "other_sources": [
-        "https://utrechtcocktailweek.nl/index.php/deelnemers/"
+        "https://utrechtcocktailweek.nl/index.php/deelnemers/",
+        "https://centrumutrecht.nl/company/grand-cafe-lebowski/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null
