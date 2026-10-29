@@ -85,10 +85,13 @@ def geo(place):
         if (found_street != wanted_street and
                 difflib.SequenceMatcher(None, found_street, wanted_street).ratio() < .93):
             continue
-        if suffix:
-            found_suffix = norm(candidate.get("huisletter") or "")
-            if found_suffix != norm(suffix):
-                continue
+        # BAG sub-addresses are distinct verblijfsobjecten. A query for
+        # number 1 must NOT silently accept 1A, 1B or 1-001.
+        # This previously misplaced several cafés on residential units.
+        found_suffix = norm(candidate.get("huisletter") or "")
+        found_addition = norm(candidate.get("huisnummertoevoeging") or "")
+        if found_suffix != norm(suffix) or found_addition:
+            continue
         point = extract_point(candidate.get("centroide_ll"))
         if point:
             lat, lon = point
