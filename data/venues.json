@@ -10670,32 +10670,50 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Officiële menukaart noemt borrel en drankjes; cocktails vermeld in eigen bericht 09-09-2026.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
         "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "do": "22:30",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:30"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Gidsvermelding (VindOpen, bijgewerkt 25-08-2026); niet officieel bevestigd. Alleen do–zo ingevuld, overeenkomstig recente socialemediavermelding.",
+      "closing_source": "https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804",
+      "closing_notes": "Officiële website bevestigt vestiging, maar toont in opgehaalde tekst geen uren. VindOpen noemt dagelijks tijden; bericht van Noah op 09-09-2026 zegt Sneek do t/m zo vanaf 11:00. Ma–wo daarom bewust onbekend gelaten wegens tegenspraak. Eindtijden do–zo zijn van derde partij, niet officieel geverifieerd. Uiterste toegang onbekend.",
+      "features": "Eetcafé; lunch, borrel, diner; cocktailaanbod volgens recente eigen berichten",
+      "website": "https://www.noah-eetcafe.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.noah-eetcafe.nl/contact",
+        "https://www.noah-eetcafe.nl/menukaart",
+        "https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804",
+        "https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële eigen site bevestigt naam/adres; recente eigen berichten op socialemedia-aggregator (september 2026) bevestigen activiteiten, maar weekrooster niet volledig officieel bevestigd.",
       "geo": {
         "lat": 53.0322425,
         "lon": 5.6602581,
         "method": "PDOK BAG-adres",
         "matched_address": "Marktstraat 28, 8601CV Sneek"
-      }
+      },
+      "website_provenance": "Officiële site vermeldt NOAH Eetcafé Sneek met Marktstraat 28 en telefoon 0515 745 035.",
+      "website_checked_on": "2026-10-29",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804",
+      "opening_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "rock-cafe-sneek-sneek-5795887",
@@ -10706,32 +10724,50 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Geregistreerd als exploitatie van drinkgelegenheden (SBI 5630), KVK-bron 08-04-2026.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
         "wo": "?",
         "do": "?",
-        "vr": "?",
-        "za": "?",
+        "vr": "04:00",
+        "za": "04:00",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
+      "closing_quality": "Stads-/toeristische Sneek-gids noemt vrijdag en zaterdag 20:30–04:00; overige dagen niet officieel vastgesteld",
+      "closing_source": "https://www.sneek.nl/zien-doen/rock-cafe-sneek",
+      "closing_notes": "Tijden vr/za volgens Sneek.nl; donderdag 21:00–02:00 wordt door Restaurant Guru vermeld maar is niet op Sneek.nl bevestigd. Geen uiterste toegang gevonden. Vermelde eigen website brand.page/rockcafesneek geeft bij controle 404; daarom niet als werkende officiële website opgenomen. Geocode matcht BAG-huisnummer 29A i.p.v. vermeld 29: handmatig nagaan.",
+      "features": "Livemuziek; vrijdag en zaterdag 20:30–04:00 volgens Sneek.nl",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.sneek.nl/zien-doen/rock-cafe-sneek",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/rock-cafe-sneek-sneek-88298779-000054172764",
+        "https://ietstedoen.nl/en/event/4446/",
+        "https://de.restaurantguru.com/Rock-Cafe-Sneek-Sneek"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Naam en adres bevestigd via Sneek.nl, KVK-bron april 2026 en concertvermelding 17 oktober 2026; opening op specifiek moment niet live geverifieerd.",
       "geo": {
         "lat": 53.0325493,
         "lon": 5.6601722,
         "method": "PDOK BAG-adres",
         "matched_address": "Marktstraat 29A, 8601CS Sneek"
-      }
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "20:30",
+        "za": "20:30",
+        "zo": "?"
+      },
+      "opening_source": "https://www.sneek.nl/zien-doen/rock-cafe-sneek",
+      "opening_checked_on": "2026-10-29",
+      "website_provenance": "Sneek.nl linkt brand.page/rockcafesneek; URL gaf 404 op 29-10-2026. Instagram @rockcafesneek niet rechtstreeks geverifieerd; websiteveld leeg gelaten.",
+      "website_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "irish-pub-de-poort-van-cleef-sneek-5acde60",
@@ -10788,37 +10824,44 @@
       "id": "club-1841-sneek-dab7a53",
       "name": "Club 1841",
       "type": "Club",
-      "address": "Kleine Kerkstraat 4",
+      "address": "Kleine Kerkstraat 4B",
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Voorheen publieke nachtclub (18+); tijdelijk gesloten tijdens verbouwing.",
+      "alcohol": "Club/bar volgens officiële website; exploitatie momenteel opgeschort.",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Tijdelijk gesloten sinds brand mei 2024 en verbouwing; website toont beoogd rooster vr/za 23:00–04:00 maar dat bewijst geen heropening.",
+      "closing_source": "https://www.sneek.nl/zien-doen/club-1841",
+      "closing_notes": "Sneek.nl vermeldt expliciet tijdelijk gesloten wegens verbouwing. GrootSneek 10/26 juli 2026 meldt geplande heropening medio november 2026, exacte datum nog niet bekend. Officiële website toont vrijdag/zaterdag 23:00–04:00 als toekomstig rooster; niet als momenteel open publiceren. Opnieuw controleren vanaf november 2026. Geen uiterste toegang vastgesteld.",
+      "features": "Nachtclub (18+); heropening na verbouwing aangekondigd, datum onzeker",
+      "website": "https://club1841.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://club1841.nl/",
+        "https://1841.nl/",
+        "https://www.sneek.nl/zien-doen/club-1841",
+        "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "TIJDELIJK GESLOTEN: brand 2024, verbouwing 2026; op 29-10-2026 geen onafhankelijke bevestiging van heropening. Gepland medio november 2026, niet gegarandeerd.",
       "geo": {
         "lat": 53.0328451,
         "lon": 5.6599243,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleine Kerkstraat 4a, 8601CN Sneek"
-      }
+      },
+      "website_provenance": "Officiële Club 1841-site en koepelsite 1841.nl bevestigen naam en Kleine Kerkstraat 4B (club) / 4 (complex).",
+      "website_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "grand-cafe-het-plein-sneek-b93134f",
@@ -10830,7 +10873,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -10840,21 +10883,27 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Exploitatie niet bevestigd; historische handelsnaam, geen actuele openingstijden",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Oozo markeert één inschrijving uit 2013 als niet langer actief, maar er is ook een tweede inschrijving van Grandcafé het Plein uit 2014. Pand Prins Hendrikkade 18 stond sinds februari 2024 te huur; geen bewijs gevonden dat de horecazaak in oktober 2026 open is. Grandcafehetplein.nl hoort bij een ANDERE zaak op Texel (De Koog) en is niet de officiële website van dit record.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/224324/grand-cafe-het-plein",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/1103517/grandcaf-het-plein",
+        "https://www.oozo.nl/bedrijfspanden/sudwest-fryslan/sneek/sneek-binnen-de-grachten/40078/horecagelegenheid-prins-hendrikkade-18-sneek"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "ACTUALITEIT ONBEVESTIGD: historische KvK-vermelding en huuradvertentie, geen bewijs van huidige exploitatie; niet als actieve zaak tonen zonder nieuwe bevestiging.",
       "geo": {
         "lat": 53.0336355,
         "lon": 5.6610216,
         "method": "PDOK BAG-adres",
         "matched_address": "Prins Hendrikkade 18, 8601CB Sneek"
-      }
+      },
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Geen actuele officiële website van Grand Café Het Plein Sneek gevonden; gelijknamige website betreft De Koog op Texel.",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-fokk-s-sneek-108e0b5",
@@ -10959,7 +11008,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Drankaanbod volgens café-/dartsgids, niet op eigen website gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10970,21 +11019,28 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Gidsen spreken elkaar tegen: 14:00–22:00 (BestRestos, 27-09-2026) versus 14:00–00:00 (AlleBiz/Cylex; Cylex laatst 2024). Geen eigen bron.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
+      "closing_notes": "Adres en café-/dartsfunctie door meerdere gidsen genoemd. Verschillende niet-officiële bronnen geven tegenstrijdige sluitingstijden (22:00 of 00:00), daarom geen van beide als vast rooster ingevuld. Dartsgids heeft een toekomstige wedstrijd 19-12-2026 op dit adres, maar dat bevestigt geen dagelijkse opening. Laatste toegang onbekend; actuele exploitatie nog afzonderlijk te bevestigen.",
+      "features": "Café en dartslocatie volgens Friese Darts Bond-/dartsvermeldingen",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504",
+        "https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522",
+        "https://dartsgids.nl/locaties/cafe-t-singeltje/",
+        "https://dartsgids.nl/agenda/slt-sneek-slt-broukster-bouncers/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gidsen en dartsagenda noemen de zaak aan Singel 67; geen actuele eigen website of onafhankelijk bewijs van vast weekrooster gevonden. Status blijft voorlopig.",
       "geo": {
         "lat": 53.0303433,
         "lon": 5.6615483,
         "method": "PDOK BAG-adres",
         "matched_address": "Singel 67, 8601AH Sneek"
-      }
+      },
+      "website_checked_on": "2026-10-29",
+      "website_provenance": "Geen actuele officiële website gevonden. Oude gidslink singel67.hyves.nl is niet bruikbaar als hedendaagse officiële site.",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "eetcafe-de-lachende-koe-sneek-267ea95",
