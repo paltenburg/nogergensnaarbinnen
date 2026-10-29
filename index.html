@@ -705,6 +705,41 @@
     bottom=Math.min(bottom,Math.max(18,size.y-top-60));
     return {left,right,top,bottom};
   }
+  // Keep the list and selected region in sync with where the user pans/zooms.
+  // Consider ALL known venue locations, not just the currently filtered markers:
+  // otherwise another region would never become selectable on the map.
+  function regionAtMapCenter(){
+    if(!map||!db.regions.length)return null;
+    const padding=mapContentPadding(),size=map.getSize();
+    // Use the uncovered area of the map, rather than the center under overlays.
+    const center=map.containerPointToLatLng([
+      (padding.left+size.x-padding.right)/2,
+      (padding.top+size.y-padding.bottom)/2
+    ]);
+    const available=new Set(db.regions.map(r=>r.id));
+    let nearest=null,distance=Infinity;
+    for(const place of db.places){
+      if(!available.has(place.region))continue;
+      const lat=place.geo?.lat,lon=place.geo?.lon;
+      if(!Number.isFinite(lat)||!Number.isFinite(lon))continue;
+      const meters=map.distance(center,L.latLng(lat,lon));
+      if(meters<distance){nearest=place.region;distance=meters;}
+    }
+    // Do not select an arbitrary region when navigating elsewhere in NL.
+    // A margin around mapped venues also covers towns between them.
+    return distance<=35000?nearest:null;
+  }
+  function syncRegionFromMap(){
+    if(!db.places.length)return;
+    const next=regionAtMapCenter();
+    if(!next||next===state.region)return;
+    state.region=next;
+    el('region').value=next;
+    fillArrivalOptions();
+    encodeFilters();
+    render();
+    // Do NOT call fitVisibleMarkers(): this was a user-controlled map movement.
+  }
   function fitVisibleMarkers(){
     if(!map)return;
     // Markers should fit in the area not covered by floating controls.
@@ -745,7 +780,7 @@
     });
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
-    map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);}
+    map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);map.on('moveend',syncRegionFromMap);}
   async function start(){initMapStyle();initMobileFilters();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('search').value=state.q;el('uncertain').checked=state.uncertain;
     try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;fillArrivalOptions();el('nowBtn').addEventListener('click',useCurrentDutchTime);
       el('customTime').addEventListener('input',()=>{state.sameDayMorning=false;change();});
