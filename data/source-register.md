@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**443 geregistreerde bron-URL's**, 233 domeinen; gekoppeld aan **412 locaties**.
+**445 geregistreerde bron-URL's**, 234 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -59,6 +59,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
 | barbasta.nl | 3 | 1 |
+| cylex.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
@@ -72,7 +73,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | chupitos.nl | 2 | 1 |
 | clubclaar.nl | 2 | 1 |
 | companyinfo.nl | 2 | 2 |
-| cylex.nl | 2 | 2 |
 | dartsgids.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
 | dekajuit.com | 2 | 1 |
@@ -244,6 +244,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | restaurantaandegracht.nl | 1 | 1 |
 | restaurantconcours.nl | 1 | 1 |
 | restaurantwest.nl | 1 | 1 |
+| rtvnof.nl | 1 | 1 |
 | rubyrose-utrecht.nl | 1 | 1 |
 | rum-club.nl | 1 | 1 |
 | soia.nl | 1 | 1 |
@@ -630,6 +631,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cylex.nl
 
 - [https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html](https://www.cylex.nl/bedrijf/bar-%27t-ouwe-vat-10704308.html) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
+- [https://www.cylex.nl/bedrijf/bar-dancing-de-ponderosa-10818322.html](https://www.cylex.nl/bedrijf/bar-dancing-de-ponderosa-10818322.html) — achtergrond; Bar Dancing De Ponderosa; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html](https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html) — achtergrond; De Ping Pong Club; bronveld gecontroleerd: onbekend
 
 ### danel-utrecht.nl
@@ -1161,6 +1163,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://rooienel.nl/](https://rooienel.nl/) — website; Rooie Nel; bronveld gecontroleerd: 2026-10-26
 - [https://rooienel.nl/contact/](https://rooienel.nl/contact/) — openingstijden, sluitingstijden; Rooie Nel; bronveld gecontroleerd: 2026-10-26
+
+### rtvnof.nl
+
+- [https://www.rtvnof.nl/laatste-keer-feest-in-de-ponderosa-dokkum-ik-wie-ek-wol-best-emosjoneel/](https://www.rtvnof.nl/laatste-keer-feest-in-de-ponderosa-dokkum-ik-wie-ek-wol-best-emosjoneel/) — achtergrond, sluitingstijden; Bar Dancing De Ponderosa; bronveld gecontroleerd: 2026-10-30
 
 ### rubyrose-utrecht.nl
 

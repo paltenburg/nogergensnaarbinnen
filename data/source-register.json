@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-10-29",
+  "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 443,
-    "domains": 233,
+    "source_urls": 445,
+    "domains": 234,
     "direct_website_fields": 172
   },
   "discovery_sites": [
@@ -224,6 +224,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cylex.nl",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
       "domain": "hfsfreelancers.nl",
       "source_pages": 3,
       "linked_venues": 3
@@ -285,11 +290,6 @@
     },
     {
       "domain": "companyinfo.nl",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
-      "domain": "cylex.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -1145,6 +1145,11 @@
     },
     {
       "domain": "restaurantwest.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "rtvnof.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -5255,6 +5260,30 @@
         {
           "id": "t-ouwe-vat-sneek-4873eaa",
           "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/bar-dancing-de-ponderosa-10818322.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+          "name": "Bar Dancing De Ponderosa",
           "roles": [
             "achtergrond"
           ],
@@ -10614,6 +10643,34 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.rtvnof.nl/laatste-keer-feest-in-de-ponderosa-dokkum-ik-wie-ek-wol-best-emosjoneel/",
+      "domain": "rtvnof.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+          "name": "Bar Dancing De Ponderosa",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://rubyrose-utrecht.nl/",
@@ -17804,10 +17861,6 @@
         "name": "Bar Café Populair"
       },
       {
-        "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
-        "name": "Bar Dancing De Ponderosa"
-      },
-      {
         "id": "bar-de-bock-harlingen-33ab930",
         "name": "Bar de Bock"
       },
@@ -18713,7 +18766,7 @@
       {
         "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
         "name": "Bar Dancing De Ponderosa",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "RTV NOF (25-02-2026) bevestigt dat de laatste feestavond op 21-02-2026 was, het pand is verkocht en wordt leeg opgeleverd. Niet tonen als geopende horeca. Adresconflict: inventarisatie noemt Oranjewal 48; Cylex noemt Oranjewal 38. Historisch huisnummer nog niet opgelost; geen marker verzinnen. Geen nieuwe horecabestemming bevestigd."
       },
       {
         "id": "bar-de-bock-harlingen-33ab930",
