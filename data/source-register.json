@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 421,
-    "domains": 222,
-    "direct_website_fields": 164
+    "source_urls": 426,
+    "domains": 223,
+    "direct_website_fields": 165
   },
   "discovery_sites": [
     {
@@ -185,8 +185,8 @@
     },
     {
       "domain": "grootsneek.nl",
-      "source_pages": 4,
-      "linked_venues": 4
+      "source_pages": 5,
+      "linked_venues": 5
     },
     {
       "domain": "oozo.nl",
@@ -207,6 +207,11 @@
       "domain": "vind-open.nl",
       "source_pages": 4,
       "linked_venues": 4
+    },
+    {
+      "domain": "allecijfers.nl",
+      "source_pages": 3,
+      "linked_venues": 3
     },
     {
       "domain": "barbasta.nl",
@@ -330,6 +335,11 @@
     },
     {
       "domain": "insolence-restaurant.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "itreadehynder.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -490,11 +500,6 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "allecijfers.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1376,6 +1381,54 @@
         {
           "id": "cafe-t-singeltje-sneek-2a92fa4",
           "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://allecijfers.nl/postcode/8601CN/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "karaokebar-de-nachtegaal-sneek",
+          "name": "Karaokebar de Nachtegaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://allecijfers.nl/postcode/8731BB/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
           "roles": [
             "achtergrond"
           ],
@@ -6934,6 +6987,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren",
+      "domain": "grootsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-",
       "domain": "grootsneek.nl",
       "first_registered_on": "2026-10-29",
@@ -7336,6 +7413,62 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.itreadehynder.nl/",
+      "domain": "itreadehynder.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.itreadehynder.nl/contact/",
+      "domain": "itreadehynder.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -15872,27 +16005,20 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "openingstijden",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "it-reade-hynder-wommels-0121f4b",
           "name": "It Reade Hynder",
           "roles": [
-            "achtergrond",
-            "openingstijden",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "sluitingstijden": "2026-10-29",
-            "openingstijden": "2026-10-29"
-          },
+          "checked_on": {},
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16834,10 +16960,6 @@
       {
         "id": "it-houtsje-heerenveen-d2248cf",
         "name": "It Houtsje"
-      },
-      {
-        "id": "it-reade-hynder-wommels-0121f4b",
-        "name": "It Reade Hynder"
       },
       {
         "id": "jan-de-winter-720539c",
@@ -17816,6 +17938,10 @@
       {
         "id": "it-houtsje-heerenveen-d2248cf",
         "name": "It Houtsje"
+      },
+      {
+        "id": "it-reade-hynder-wommels-0121f4b",
+        "name": "It Reade Hynder"
       },
       {
         "id": "jan-de-winter-720539c",
@@ -18848,7 +18974,7 @@
       {
         "id": "it-reade-hynder-wommels-0121f4b",
         "name": "It Reade Hynder",
-        "reason": "Regiogids bevat tegenstrijdige beschrijvende tekst over maandag; expliciet weekrooster zegt ma–wo gesloten; review gewenst."
+        "reason": "Eigen website op 29-10-2026 rechtstreeks gecontroleerd: ma 16:00–21:00, dinsdag op afspraak, wo 11:00–21:00, do 10:30–21:00, vrijdag en zaterdag vanaf 10:30 tot 'sluit', zondag vanaf 11:00 tot 'sluit'. Voor vr/za/zo geen exact einduur; geen laatste toegang. VVV https://www.friesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder toont strijdig rooster (ma–wo gesloten en do–zo 10:00–00:30). Het bedrijf zelf heeft voorrang. BAG https://allecijfers.nl/postcode/8731BB/ bevestigt 't Noard 6 als bijeenkomstfunctie; exacte PDOK-coördinaat nog niet gevonden."
       },
       {
         "id": "kafee-8-drachten-e7c0e2d",

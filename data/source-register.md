@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**421 geregistreerde bron-URL's**, 222 domeinen; gekoppeld aan **412 locaties**.
+**426 geregistreerde bron-URL's**, 223 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -51,11 +51,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | friesland.nl | 7 | 8 |
 | waterlandvanfriesland.nl | 7 | 7 |
 | clubbasis.nl | 6 | 1 |
-| grootsneek.nl | 4 | 4 |
+| grootsneek.nl | 5 | 5 |
 | oozo.nl | 4 | 2 |
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
+| allecijfers.nl | 3 | 3 |
 | barbasta.nl | 3 | 1 |
 | bestrestos.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
@@ -81,6 +82,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | elize.cafe | 2 | 2 |
 | findglocal.com | 2 | 2 |
 | insolence-restaurant.nl | 2 | 1 |
+| itreadehynder.nl | 2 | 1 |
 | kleinemax.nl | 2 | 1 |
 | knockoutcomedy.nl | 2 | 1 |
 | landhuisindestad.nl | 2 | 1 |
@@ -113,7 +115,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | acu.nl | 1 | 1 |
 | agendaleeuwarden.nl | 1 | 0 |
 | allebiz.nl | 1 | 1 |
-| allecijfers.nl | 1 | 1 |
 | averechts.nl | 1 | 1 |
 | bar-bet.nl | 1 | 1 |
 | barbarak.nl | 1 | 1 |
@@ -291,6 +292,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### allecijfers.nl
 
+- [https://allecijfers.nl/postcode/8601CN/](https://allecijfers.nl/postcode/8601CN/) — achtergrond; Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
+- [https://allecijfers.nl/postcode/8731BB/](https://allecijfers.nl/postcode/8731BB/) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/weg/leeuwarderweg-sneek/](https://allecijfers.nl/weg/leeuwarderweg-sneek/) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 
 ### averechts.nl
@@ -803,6 +806,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### grootsneek.nl
 
 - [https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca](https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca) — achtergrond; Club 1841, Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
+- [https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren](https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 - [https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-](https://www.grootsneek.nl/nieuws/in-bedrijf/139410/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca-als-de-stad-meer-bezoekers-trekt-profiteert-iedereen-) — achtergrond; Fenix Sneek; bronveld gecontroleerd: onbekend
 - [https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht](https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek](https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek) — achtergrond, sluitingstijden; Café 't Skûtsje; bronveld gecontroleerd: 2026-10-29
@@ -845,6 +849,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### irishpubsneek.nl
 
 - [https://www.irishpubsneek.nl/](https://www.irishpubsneek.nl/) — achtergrond, openingstijden, sluitingstijden, website; Irish Pub De Poort van Cleef; bronveld gecontroleerd: 2026-10-29
+
+### itreadehynder.nl
+
+- [https://www.itreadehynder.nl/](https://www.itreadehynder.nl/) — openingstijden, sluitingstijden, website; It Reade Hynder; bronveld gecontroleerd: 2026-10-29
+- [https://www.itreadehynder.nl/contact/](https://www.itreadehynder.nl/contact/) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 
 ### kaasbarutrecht.nl
 
@@ -1326,7 +1335,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond; Café Restaurant De Watersport, Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1](https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1) — achtergrond, openingstijden, sluitingstijden; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
-- [https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder](https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder) — achtergrond, openingstijden, sluitingstijden; It Reade Hynder; bronveld gecontroleerd: 2026-10-29
+- [https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder](https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure](https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure) — achtergrond, openingstijden, sluitingstijden; Grand Café De Jongens van Joure; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer](https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer) — achtergrond, openingstijden, sluitingstijden; SPOT Langweer; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/plan-je-bezoek/eten-en-drinken/cafes-en-bars](https://www.waterlandvanfriesland.nl/nl/plan-je-bezoek/eten-en-drinken/cafes-en-bars) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
