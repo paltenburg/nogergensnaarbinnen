@@ -12128,7 +12128,13 @@
       "opening_checked_on": "2026-10-29",
       "opening_quality": "Officiële contactpagina 29-10-2026: ma/di gesloten; wo 17–00; do/vr/za 11:30–00; zo 12–17.",
       "checked_on": "2026-10-29",
-      "geocode_notes": "Oud adres Burgemeester Wuiteweg 24 is volgens Go-Kids alternatief navigatieadres; eigen bezoekadres Laweiplein 1. Exacte geocode nog uit te voeren."
+      "geocode_notes": "Oud adres Burgemeester Wuiteweg 24 is volgens Go-Kids alternatief navigatieadres; eigen bezoekadres Laweiplein 1. Exacte geocode nog uit te voeren.",
+      "geo": {
+        "lat": 53.102932,
+        "lon": 6.0978873,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Laweiplein 1, 9203KL Drachten"
+      }
     },
     {
       "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",

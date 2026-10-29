@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 426,
-    "domains": 223,
-    "direct_website_fields": 165
+    "source_urls": 433,
+    "domains": 228,
+    "direct_website_fields": 169
   },
   "discovery_sites": [
     {
@@ -164,14 +164,14 @@
       "linked_venues": 16
     },
     {
+      "domain": "friesland.nl",
+      "source_pages": 8,
+      "linked_venues": 8
+    },
+    {
       "domain": "uitutrecht.com",
       "source_pages": 8,
       "linked_venues": 132
-    },
-    {
-      "domain": "friesland.nl",
-      "source_pages": 7,
-      "linked_venues": 8
     },
     {
       "domain": "waterlandvanfriesland.nl",
@@ -332,6 +332,11 @@
       "domain": "findglocal.com",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "hopperdrachten.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "insolence-restaurant.nl",
@@ -574,6 +579,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "bowlingdekaden.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "brisa.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -744,6 +754,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "debabbelaar.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "debastaard.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -869,6 +884,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "go-kids.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "grandcafelebowski.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -985,6 +1005,11 @@
     },
     {
       "domain": "lekkerindebuurt.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "levels-harlingen.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2072,6 +2097,40 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.bowlingdekaden.nl/",
+      "domain": "bowlingdekaden.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+          "name": "Grand Café Bowling de Kaden",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://brisa.nl/",
@@ -5197,6 +5256,40 @@
       "needs_review": false
     },
     {
+      "url": "https://www.debabbelaar.com/",
+      "domain": "debabbelaar.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-babbelaar-burgum-5796776",
+          "name": "De Babbelaar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.debastaard.nl/contact/",
       "domain": "debastaard.nl",
       "first_registered_on": "2026-10-26",
@@ -6616,6 +6709,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-babbelaar-burgum-5796776",
+          "name": "De Babbelaar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -6646,29 +6763,22 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "openingstijden",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "grand-cafe-levels-harlingen-fe09531",
           "name": "Grand Café Levels",
           "roles": [
-            "achtergrond",
-            "openingstijden",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "sluitingstijden": "2026-10-29",
-            "openingstijden": "2026-10-29"
-          },
-          "needs_review": false
+          "checked_on": {},
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit",
@@ -6838,6 +6948,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://go-kids.nl/friesland/eten-en-drinken/theatercafe-hopper-bij-de-lawei-in-drachten",
+      "domain": "go-kids.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-hopper-drachten-a7ebfcb",
+          "name": "Theatercafé Hopper",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://grandcafelebowski.nl/",
@@ -7302,6 +7436,63 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://hopperdrachten.nl/",
+      "domain": "hopperdrachten.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-hopper-drachten-a7ebfcb",
+          "name": "Theatercafé Hopper",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hopperdrachten.nl/contact/",
+      "domain": "hopperdrachten.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-hopper-drachten-a7ebfcb",
+          "name": "Theatercafé Hopper",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://ietstedoen.nl/en/event/4446/",
@@ -8085,6 +8276,40 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.levels-harlingen.nl/",
+      "domain": "levels-harlingen.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-levels-harlingen-fe09531",
+          "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12156,15 +12381,6 @@
           "needs_review": true
         },
         {
-          "id": "cafe-hopper-drachten-a7ebfcb",
-          "name": "Café Hopper",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
           "id": "cafe-it-alde-ste-ureterp-a8f9378",
           "name": "Café It Alde Ste",
           "roles": [
@@ -12248,6 +12464,15 @@
         {
           "id": "njoy-poolcentrum-drachten-f14f10e",
           "name": "Njoy Poolcentrum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-hopper-drachten-a7ebfcb",
+          "name": "Theatercafé Hopper",
           "roles": [
             "achtergrond"
           ],
@@ -12498,7 +12723,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "grand-cafe-promenade-harlingen-f6e911b",
@@ -16554,10 +16779,6 @@
         "name": "Café Het Raadhuys"
       },
       {
-        "id": "cafe-hopper-drachten-a7ebfcb",
-        "name": "Café Hopper"
-      },
-      {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste"
       },
@@ -16660,10 +16881,6 @@
       {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
-      },
-      {
-        "id": "de-babbelaar-burgum-5796776",
-        "name": "De Babbelaar"
       },
       {
         "id": "de-bocht-fen-gune-franeker-1bf8b1f",
@@ -16842,10 +17059,6 @@
         "name": "Grand Café Abdij Dokkum"
       },
       {
-        "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
-        "name": "Grand Café Bowling de Kaden"
-      },
-      {
         "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
         "name": "Grand Café Brood Ameland"
       },
@@ -16892,10 +17105,6 @@
       {
         "id": "grand-cafe-kade-stavoren-1996c93",
         "name": "Grand Café Kade"
-      },
-      {
-        "id": "grand-cafe-levels-harlingen-fe09531",
-        "name": "Grand Café Levels"
       },
       {
         "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
@@ -17560,10 +17769,6 @@
         "name": "Café Het Raadhuys"
       },
       {
-        "id": "cafe-hopper-drachten-a7ebfcb",
-        "name": "Café Hopper"
-      },
-      {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste"
       },
@@ -17662,10 +17867,6 @@
       {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
-      },
-      {
-        "id": "de-babbelaar-burgum-5796776",
-        "name": "De Babbelaar"
       },
       {
         "id": "de-bocht-fen-gune-franeker-1bf8b1f",
@@ -17830,10 +18031,6 @@
       {
         "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
         "name": "Grand Café Abdij Dokkum"
-      },
-      {
-        "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
-        "name": "Grand Café Bowling de Kaden"
       },
       {
         "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
@@ -18522,11 +18719,6 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
-        "id": "cafe-hopper-drachten-a7ebfcb",
-        "name": "Café Hopper",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18639,7 +18831,7 @@
       {
         "id": "de-babbelaar-burgum-5796776",
         "name": "De Babbelaar",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Oud bronadres Schoolstraat 12 onjuist; eigen site én Friesland.nl bevestigen Jonkheer H.B. van Sminiaplein 3. De Babbelaar Drachten is andere vestiging; niet verwisselen. Laatste toegang onbekend."
       },
       {
         "id": "de-bierkantine-80af740",
@@ -18844,7 +19036,7 @@
       {
         "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
         "name": "Grand Café Bowling de Kaden",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Maandag/dinsdag uitsluitend op reservering; geen vast tijdvenster. Officiële pagina noemt afwijkende herfstvakantie- en feestdagenopening. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
@@ -18895,6 +19087,11 @@
         "id": "grand-cafe-kade-stavoren-1996c93",
         "name": "Grand Café Kade",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-levels-harlingen-fe09531",
+        "name": "Grand Café Levels",
+        "reason": "Eigen site noemt dinsdag niet; ondanks regiogids di 10–22 is dinsdag onbekend gehouden. Geen laatste toegang vermeld. 29-10-2026."
       },
       {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
@@ -19145,6 +19342,11 @@
         "id": "the-pub-public-underground-bar-harlingen-5144488",
         "name": "The Pub - Public Underground Bar",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-hopper-drachten-a7ebfcb",
+        "name": "Theatercafé Hopper",
+        "reason": "Oud adres Burgemeester Wuiteweg 24 is navigatie-alternatief voor De Lawei; eigen site vermeldt Laweiplein 1 als bezoekadres. Laatste toegang onbekend."
       },
       {
         "id": "tilt-64c83ae",
