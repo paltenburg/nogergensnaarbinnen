@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 445,
-    "domains": 234,
+    "source_urls": 455,
+    "domains": 236,
     "direct_website_fields": 172
   },
   "discovery_sites": [
@@ -169,13 +169,18 @@
       "linked_venues": 10
     },
     {
+      "domain": "allecijfers.nl",
+      "source_pages": 8,
+      "linked_venues": 8
+    },
+    {
       "domain": "uitutrecht.com",
       "source_pages": 8,
       "linked_venues": 132
     },
     {
       "domain": "waterlandvanfriesland.nl",
-      "source_pages": 7,
+      "source_pages": 8,
       "linked_venues": 7
     },
     {
@@ -187,11 +192,6 @@
       "domain": "grootsneek.nl",
       "source_pages": 5,
       "linked_venues": 5
-    },
-    {
-      "domain": "allecijfers.nl",
-      "source_pages": 4,
-      "linked_venues": 4
     },
     {
       "domain": "bestrestos.nl",
@@ -244,6 +244,11 @@
       "linked_venues": 74
     },
     {
+      "domain": "visitwadden.nl",
+      "source_pages": 3,
+      "linked_venues": 2
+    },
+    {
       "domain": "amicaalgrou.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -287,6 +292,11 @@
       "domain": "clubclaar.nl",
       "source_pages": 2,
       "linked_venues": 1
+    },
+    {
+      "domain": "compadex.com",
+      "source_pages": 2,
+      "linked_venues": 2
     },
     {
       "domain": "companyinfo.nl",
@@ -479,12 +489,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "visitwadden.nl",
+      "domain": "wijnbarvinvin.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
     {
-      "domain": "wijnbarvinvin.nl",
+      "domain": "workum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -610,6 +620,11 @@
     },
     {
       "domain": "cafebarskutsje.jouwweb.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafebartskutsje.intropagina.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -740,11 +755,6 @@
     },
     {
       "domain": "clubpoema.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "compadex.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1164,6 +1174,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "secure.bowlingnbf.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "soia.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1295,11 +1310,6 @@
     },
     {
       "domain": "willemslok.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "workum.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1472,6 +1482,30 @@
       "needs_review": true
     },
     {
+      "url": "https://allecijfers.nl/postcode/8711CX/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+          "name": "Café Restaurant De Smidte",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://allecijfers.nl/postcode/8731BB/",
       "domain": "allecijfers.nl",
       "first_registered_on": "2026-10-29",
@@ -1496,6 +1530,30 @@
       "needs_review": true
     },
     {
+      "url": "https://allecijfers.nl/postcode/8861BB/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-levels-harlingen-fe09531",
+          "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://allecijfers.nl/weg/leeuwarderweg-sneek/",
       "domain": "allecijfers.nl",
       "first_registered_on": "2026-10-29",
@@ -1508,6 +1566,54 @@
         {
           "id": "t-ouwe-vat-sneek-4873eaa",
           "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://allecijfers.nl/weg/noordkade-drachten/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+          "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://allecijfers.nl/weg/zuidkade-drachten/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+          "name": "Grand Café Bowling de Kaden",
           "roles": [
             "achtergrond"
           ],
@@ -2418,6 +2524,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafebartskutsje.intropagina.nl/",
+      "domain": "cafebartskutsje.intropagina.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+          "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -5174,6 +5304,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-levels-harlingen-fe09531",
+          "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331",
@@ -8102,6 +8256,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
         "openingstijden",
         "sluitingstijden",
         "website"
@@ -8111,6 +8266,7 @@
           "id": "karaokebar-de-nachtegaal-sneek",
           "name": "Karaokebar de Nachtegaal",
           "roles": [
+            "achtergrond",
             "openingstijden",
             "sluitingstijden",
             "website"
@@ -10723,6 +10879,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://secure.bowlingnbf.nl/bowlingcentra/toon/16/drachten/grand-caf-bowling-de-kaden",
+      "domain": "secure.bowlingnbf.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+          "name": "Grand Café Bowling de Kaden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://sevenutrecht.nl/",
@@ -16468,6 +16648,54 @@
       "needs_review": false
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/en/locations/1896387451/eetcafe-de-pleats",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-pleats-woudsend-0d71b79",
+          "name": "Eetcafé De Pleats",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
       "domain": "waterlandvanfriesland.nl",
       "first_registered_on": "2026-10-29",
@@ -16801,6 +17029,30 @@
       "url": "https://workum.nl/de/aktivitat/restaurant-de-smidte/",
       "domain": "workum.nl",
       "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+          "name": "Café Restaurant De Smidte",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://workum.nl/frl/aktiviteit/restaurant-de-smidte/",
+      "domain": "workum.nl",
+      "first_registered_on": "2026-10-30",
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [

@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**445 geregistreerde bron-URL's**, 234 domeinen; gekoppeld aan **412 locaties**.
+**455 geregistreerde bron-URL's**, 236 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -48,11 +48,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | ontdek-utrecht.nl | 19 | 36 |
 | debuik.nl | 10 | 16 |
 | friesland.nl | 10 | 10 |
+| allecijfers.nl | 8 | 8 |
 | uitutrecht.com | 8 | 132 |
-| waterlandvanfriesland.nl | 7 | 7 |
+| waterlandvanfriesland.nl | 8 | 7 |
 | clubbasis.nl | 6 | 1 |
 | grootsneek.nl | 5 | 5 |
-| allecijfers.nl | 4 | 4 |
 | bestrestos.nl | 4 | 4 |
 | oozo.nl | 4 | 2 |
 | sneek.nl | 4 | 4 |
@@ -63,6 +63,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
+| visitwadden.nl | 3 | 2 |
 | amicaalgrou.nl | 2 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
@@ -72,6 +73,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafetilt.nl | 2 | 1 |
 | chupitos.nl | 2 | 1 |
 | clubclaar.nl | 2 | 1 |
+| compadex.com | 2 | 2 |
 | companyinfo.nl | 2 | 2 |
 | dartsgids.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
@@ -110,8 +112,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | teds-place.mom | 2 | 2 |
 | thegrandshuffle.nl | 2 | 1 |
 | tivolivredenburg.nl | 2 | 1 |
-| visitwadden.nl | 2 | 1 |
 | wijnbarvinvin.nl | 2 | 1 |
+| workum.nl | 2 | 1 |
 | 1841.nl | 1 | 3 |
 | aan-de-gracht.nl | 1 | 1 |
 | acu.nl | 1 | 1 |
@@ -137,6 +139,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafe-olivier.be | 1 | 1 |
 | cafe-weerdzicht.nl | 1 | 1 |
 | cafebarskutsje.jouwweb.nl | 1 | 1 |
+| cafebartskutsje.intropagina.nl | 1 | 1 |
 | cafebinnenbest.nl | 1 | 1 |
 | cafeclaire.nl | 1 | 1 |
 | cafedebeuntjes.nl | 1 | 1 |
@@ -163,7 +166,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | campingganspoort.nl | 1 | 1 |
 | club1841.nl | 1 | 1 |
 | clubpoema.nl | 1 | 1 |
-| compadex.com | 1 | 1 |
 | danel-utrecht.nl | 1 | 1 |
 | dbstudio.nl | 1 | 1 |
 | de.restaurantguru.com | 1 | 1 |
@@ -247,6 +249,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | rtvnof.nl | 1 | 1 |
 | rubyrose-utrecht.nl | 1 | 1 |
 | rum-club.nl | 1 | 1 |
+| secure.bowlingnbf.nl | 1 | 1 |
 | soia.nl | 1 | 1 |
 | springhaver.nl | 1 | 1 |
 | stadsbrouwerijroodnoot.nl | 1 | 1 |
@@ -274,7 +277,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
 | wijnbar-kurk.nl | 1 | 1 |
 | willemslok.nl | 1 | 1 |
-| workum.nl | 1 | 1 |
 | zoek.officielebekendmakingen.nl | 1 | 1 |
 | zuidoostfriesland.nl | 1 | 0 |
 
@@ -304,8 +306,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### allecijfers.nl
 
 - [https://allecijfers.nl/postcode/8601CN/](https://allecijfers.nl/postcode/8601CN/) — achtergrond; Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
+- [https://allecijfers.nl/postcode/8711CX/](https://allecijfers.nl/postcode/8711CX/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/postcode/8731BB/](https://allecijfers.nl/postcode/8731BB/) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
+- [https://allecijfers.nl/postcode/8861BB/](https://allecijfers.nl/postcode/8861BB/) — achtergrond; Grand Café Levels; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/weg/leeuwarderweg-sneek/](https://allecijfers.nl/weg/leeuwarderweg-sneek/) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
+- [https://allecijfers.nl/weg/noordkade-drachten/](https://allecijfers.nl/weg/noordkade-drachten/) — achtergrond; Café Bar 't Skûtsje; bronveld gecontroleerd: onbekend
+- [https://allecijfers.nl/weg/zuidkade-drachten/](https://allecijfers.nl/weg/zuidkade-drachten/) — achtergrond; Grand Café Bowling de Kaden; bronveld gecontroleerd: onbekend
 - [https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/](https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
 
 ### amicaalgrou.nl
@@ -410,6 +416,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafebarskutsje.jouwweb.nl
 
 - [https://cafebarskutsje.jouwweb.nl/](https://cafebarskutsje.jouwweb.nl/) — achtergrond, openingstijden, sluitingstijden, website; Café Bar 't Skûtsje; bronveld gecontroleerd: 2026-10-29
+
+### cafebartskutsje.intropagina.nl
+
+- [https://cafebartskutsje.intropagina.nl/](https://cafebartskutsje.intropagina.nl/) — achtergrond; Café Bar 't Skûtsje; bronveld gecontroleerd: onbekend
 
 ### cafebinnenbest.nl
 
@@ -621,6 +631,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### compadex.com
 
+- [https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606](https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606) — achtergrond; Grand Café Levels; bronveld gecontroleerd: onbekend
 - [https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331](https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 
 ### companyinfo.nl
@@ -928,7 +939,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### karaokebarnachtegaal.nl
 
-- [https://karaokebarnachtegaal.nl/](https://karaokebarnachtegaal.nl/) — openingstijden, sluitingstijden, website; Karaokebar de Nachtegaal; bronveld gecontroleerd: 2026-10-29
+- [https://karaokebarnachtegaal.nl/](https://karaokebarnachtegaal.nl/) — achtergrond, openingstijden, sluitingstijden, website; Karaokebar de Nachtegaal; bronveld gecontroleerd: 2026-10-29
 
 ### kargadoor.nl
 
@@ -1176,6 +1187,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://rum-club.nl/](https://rum-club.nl/) — website; Rum Club; bronveld gecontroleerd: 2026-10-26
 
+### secure.bowlingnbf.nl
+
+- [https://secure.bowlingnbf.nl/bowlingcentra/toon/16/drachten/grand-caf-bowling-de-kaden](https://secure.bowlingnbf.nl/bowlingcentra/toon/16/drachten/grand-caf-bowling-de-kaden) — achtergrond; Grand Café Bowling de Kaden; bronveld gecontroleerd: onbekend
+
 ### sevenutrecht.nl
 
 - [https://sevenutrecht.nl/](https://sevenutrecht.nl/) — openingstijden, sluitingstijden, website; Restaurant Seven Utrecht; bronveld gecontroleerd: 2026-10-26
@@ -1388,9 +1403,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.visitwadden.nl/nl/bezoeken/](https://www.visitwadden.nl/nl/bezoeken/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
 - [https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan](https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan) — achtergrond, openingstijden, sluitingstijden; Halve Maan; bronveld gecontroleerd: 2026-10-29
+- [https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe](https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 
 ### waterlandvanfriesland.nl
 
+- [https://www.waterlandvanfriesland.nl/en/locations/1896387451/eetcafe-de-pleats](https://www.waterlandvanfriesland.nl/en/locations/1896387451/eetcafe-de-pleats) — achtergrond; Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond; Café Restaurant De Watersport, Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1](https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1) — achtergrond, openingstijden, sluitingstijden; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
@@ -1419,6 +1436,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### workum.nl
 
 - [https://workum.nl/de/aktivitat/restaurant-de-smidte/](https://workum.nl/de/aktivitat/restaurant-de-smidte/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
+- [https://workum.nl/frl/aktiviteit/restaurant-de-smidte/](https://workum.nl/frl/aktiviteit/restaurant-de-smidte/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
 
 ### zoek.officielebekendmakingen.nl
 
