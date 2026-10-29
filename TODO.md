@@ -24,18 +24,19 @@
 
 ## Eerstvolgende uitvoerbare stap
 
-**Sneek — eerste controlebatch van maximaal vijf locaties:** controleer
-`Rock Café Sneek`, `NOAH Eetcafé Sneek`, `Club 1841`,
-`Grand Café Het Plein` en `Café 't Singeltje`.
-
-Voor **ieder** record: controleer of naam, adres en huidige exploitatie kloppen; zoek de officiële website; zoek het echte weekrooster, sluiting en eventuele uiterste toegang; noteer eigen/andere bronnen en controledatum; leg onbekenden als onbekend vast. Controleer ook eventuele hernoeming, verhuizing en duplicaten. Commit daarna de gecontroleerde wijzigingen naar `data/venues.json`, controleer of ze juist zijn opgeslagen, en vul hieronder de voortgang aan.
+**A2 — Sneek, vervolgcontrolebatch:** controleer `Eetcafé De Lachende Koe`, `Café 't Skûtsje`, `Café De Kroon`, `'t Ouwe Vat` en `Café Restaurant De Kajuit` (maximaal vijf locaties). Onderzoek naam, adres, exploitatie, officiële website, weekrooster, laatste toegang en mogelijke duplicaten; leg bronnen en onzekerheden per record vast. Daarna verder met overige Sneker locaties en de heropeningschecks hieronder.
 
 ## Taken
 
 ### A. Kwaliteit en volledigheid van Friesland
 
-- [ ] **A1. Sneek — pilotbatch (5 locaties)** zoals hierboven, inclusief verifieerbare brongegevens en status van eventuele niet-bestaande/verouderde records.
-- [ ] **A2. Sneek — overige bestaande locaties** (kleine batches) controleren; ontbrekende cafés zoeken via officiële zaken, lokale gidsen en OSM-kandidaten.
+- [x] **A1. Sneek — pilotbatch (5 locaties)** onderzocht en alle vijf records bijgewerkt 29-10-2026 (commit `ed974b49bac1ade3b288f322a2c0c39e532763fe`). **Niet** alle openingstijden of exploitaties volledig bevestigd; openstaande onzekerheden en vervolgstappen hieronder.
+- [ ] **A2. Sneek — overige bestaande locaties** (kleine batches) controleren; ontbrekende cafés zoeken via officiële zaken, lokale gidsen en OSM-kandidaten. Eerstvolgende vijf staan hierboven.
+- [ ] **A2a. Heropening Club 1841 en nieuwe concepten**: op/na medio november 2026 daadwerkelijk vaststellen of Club 1841 heropend is; pas dan selectie `Nee` aanpassen en gepubliceerde vrijdag-/zaterdaguren activeren. Onderzoek tevens Fenix Sneek (Kleine Kerkstraat 4C) en Karaokebar de Nachtegaal als nieuwe afzonderlijke locaties: eigen sites `https://fenixsneek.nl/`, `https://karaokebarnachtegaal.nl/`, koepel `https://1841.nl/` tonen toekomstige roosters maar bewijzen nog geen daadwerkelijke opening. Controleer ook eventuele hernoeming van Alcatraz/Neighbours.
+- [ ] **A2b. Rock Café Sneek**: eigen link `https://brand.page/rockcafesneek` geeft 404; zoek bevestigde werkende eigen site of officieel sociaal profiel. Controleer donderdaguren (gids noemt 21:00–02:00, Sneek.nl alleen vr/za). Controleer BAG-adres: geocode matcht 29A, bron noemt Marktstraat 29.
+- [ ] **A2c. NOAH Eetcafé Sneek**: controleer rechtstreeks de werkelijke dagen/uren: actuele eigen socialemediavermelding zegt do–zo vanaf 11:00, maar VindOpen vermeldt ook ma–wo; do–zo-eindtijden voorlopig alleen via gids. Controleer uiterste toegang.
+- [ ] **A2d. Café 't Singeltje**: officiële site ontbreekt, actuele exploitatie en sluiting 22:00 versus 00:00 blijven onzeker. Geen van beide als zeker rooster invullen.
+- [ ] **A2e. Grand Café Het Plein**: actuele exploitatie op Prins Hendrikkade 18 onbekend; historische KvK-vermeldingen en huuradvertentie gevonden, maar geen actueel open-bewijs. Niet verwarren met `grandcafehetplein.nl` op Texel.
 - [ ] **A3. Leeuwarden** — huidige records controleren en ontbrekende uitgaanshoreca toevoegen, in batches.
 - [ ] **A4. Heerenveen en Drachten** — verificatie en aanvullingen, in batches.
 - [ ] **A5. Harlingen, Franeker, Bolsward en Dokkum** — verificatie en aanvullingen.
@@ -144,6 +145,7 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — A1 vijf Sneker locaties onderzocht en opgeslagen** (commit `ed974b49bac1ade3b288f322a2c0c39e532763fe`; 408 locaties, 5 bestaande records gewijzigd, 0 toegevoegd, 0 verwijderd, geen dubbele adressen binnen de vijf). **Rock Café Sneek**: Sneek.nl bevestigt Marktstraat 29 en vr/za 20:30–04:00, recente optredens in 2026; officiële brand.page-link is dood, andere dagen onbekend. Bronnen: https://www.sneek.nl/zien-doen/rock-cafe-sneek, https://ietstedoen.nl/en/event/4446/. **NOAH Eetcafé Sneek**: officiële site https://www.noah-eetcafe.nl/contact bevestigt Marktstraat 28; do–zo-uren als niet-officieel gemarkeerde gidsgegevens opgenomen, ma–wo wegens bronconflict onbekend; https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804 en https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9. **Club 1841**: tijdelijk gesloten wegens brand/verbouwing; selectie `Nee`, officiële site https://club1841.nl/ en https://www.sneek.nl/zien-doen/club-1841; heropening medio november was alleen een plan (https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca). **Grand Café Het Plein**: status `Nog te controleren` i.v.m. historische KvK/huuradvertentie; https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/224324/grand-cafe-het-plein. **Café 't Singeltje**: conflicterende gidsuren, geen eigen site, onbekend gehouden; https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504 en https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522. **Volgende:** A2 (vijf andere Sneker locaties), plus A2a–e-vervolgchecks. Geen live-browsercheck van de site uitgevoerd.
 - **2026-10-29 — B1 afgerond (logische tests):** Café Fokk's bron https://cafefokks.nl/info/ geeft open vanaf 21:00, sluit tussen 02:00 en 04:00, laatste toegang 02:00. Tijdgrenzen 20:30, 21:00, 23:30, 00:30, 01:30, 01:59, 02:00, 02:30 en 03:30 getest; één bestaand record met exacte sluiting opnieuw getest. Wijzigingen index.html commit `8067adbaf57f2c8d17c38fa472e335af5df5970a` en data/venues.json commit `ac0a275cee88ba46c51e9e966ae54962eaf1703c`. Live UI-verificatie niet uitgevoerd.
 - **2026-10-29 — Auditscope gegeneraliseerd:** de weekaudit controleert voortaan alle actieve database-regio's en voegt nieuwe regio's automatisch toe; niet hardcoded Utrecht/Friesland. Per regio een geografische deelbatch en weeklog; D3-configuratie afgerond, eerste echte uitvoering nog niet getest.
 - **2026-10-29 — Automatiseringen samengevoegd:** de aparte wekelijkse databasecheck is uitgeschakeld; de uurlijkse uitvoering beheert voortaan ook de wekelijkse audit en houdt het auditlog bij. 
