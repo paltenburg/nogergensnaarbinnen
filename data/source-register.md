@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**433 geregistreerde bron-URL's**, 228 domeinen; gekoppeld aan **412 locaties**.
+**443 geregistreerde bron-URL's**, 233 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -47,21 +47,22 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | uitgaanskaart.nl | 21 | 200 |
 | ontdek-utrecht.nl | 19 | 36 |
 | debuik.nl | 10 | 16 |
-| friesland.nl | 8 | 8 |
+| friesland.nl | 10 | 10 |
 | uitutrecht.com | 8 | 132 |
 | waterlandvanfriesland.nl | 7 | 7 |
 | clubbasis.nl | 6 | 1 |
 | grootsneek.nl | 5 | 5 |
+| allecijfers.nl | 4 | 4 |
+| bestrestos.nl | 4 | 4 |
 | oozo.nl | 4 | 2 |
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
-| allecijfers.nl | 3 | 3 |
 | barbasta.nl | 3 | 1 |
-| bestrestos.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
+| amicaalgrou.nl | 2 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
@@ -135,6 +136,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | brothersinlawtaphouse.nl | 1 | 1 |
 | cafe-olivier.be | 1 | 1 |
 | cafe-weerdzicht.nl | 1 | 1 |
+| cafebarskutsje.jouwweb.nl | 1 | 1 |
 | cafebinnenbest.nl | 1 | 1 |
 | cafeclaire.nl | 1 | 1 |
 | cafedebeuntjes.nl | 1 | 1 |
@@ -174,6 +176,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | delindebar.nl | 1 | 1 |
 | demorgensterutrecht.nl | 1 | 1 |
 | depingpongclub.nl | 1 | 1 |
+| desmidte.nl | 1 | 1 |
 | deutrechter.nl | 1 | 1 |
 | dewalrussneek.nl | 1 | 1 |
 | dewinkelvansinkel.nl | 1 | 1 |
@@ -181,6 +184,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | discover-utrecht.com | 1 | 1 |
 | duic.nl | 1 | 1 |
 | eetcafedebaron.nl | 1 | 1 |
+| eetcafedepleats.nl | 1 | 1 |
 | eetcafedepoort.nl | 1 | 1 |
 | eetcafevallen.nl | 1 | 1 |
 | espressobar-smuk.nl | 1 | 1 |
@@ -269,6 +273,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
 | wijnbar-kurk.nl | 1 | 1 |
 | willemslok.nl | 1 | 1 |
+| workum.nl | 1 | 1 |
 | zoek.officielebekendmakingen.nl | 1 | 1 |
 | zuidoostfriesland.nl | 1 | 0 |
 
@@ -300,6 +305,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://allecijfers.nl/postcode/8601CN/](https://allecijfers.nl/postcode/8601CN/) — achtergrond; Karaokebar de Nachtegaal; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/postcode/8731BB/](https://allecijfers.nl/postcode/8731BB/) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/weg/leeuwarderweg-sneek/](https://allecijfers.nl/weg/leeuwarderweg-sneek/) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
+- [https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/](https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
+
+### amicaalgrou.nl
+
+- [https://amicaalgrou.nl/](https://amicaalgrou.nl/) — achtergrond, openingstijden, sluitingstijden, website; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: 2026-10-29
+- [https://amicaalgrou.nl/contact/](https://amicaalgrou.nl/contact/) — achtergrond; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: onbekend
 
 ### averechts.nl
 
@@ -353,6 +364,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504](https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504) — achtergrond; Restaurant Aan de Gracht; bronveld gecontroleerd: onbekend
 - [https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504](https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504) — achtergrond, openingstijden, sluitingstijden; 't Ouwe Vat; bronveld gecontroleerd: 2026-10-29
 - [https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504](https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
+- [https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279](https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279) — achtergrond; Café Bar 't Skûtsje; bronveld gecontroleerd: onbekend
 
 ### biton.nl
 
@@ -393,6 +405,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafe-weerdzicht.nl
 
 - [https://www.cafe-weerdzicht.nl/](https://www.cafe-weerdzicht.nl/) — website; Café Weerdzicht; bronveld gecontroleerd: 2026-10-26
+
+### cafebarskutsje.jouwweb.nl
+
+- [https://cafebarskutsje.jouwweb.nl/](https://cafebarskutsje.jouwweb.nl/) — achtergrond, openingstijden, sluitingstijden, website; Café Bar 't Skûtsje; bronveld gecontroleerd: 2026-10-29
 
 ### cafebinnenbest.nl
 
@@ -697,6 +713,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://depingpongclub.nl/](https://depingpongclub.nl/) — website; De Ping Pong Club; bronveld gecontroleerd: 2026-10-26
 
+### desmidte.nl
+
+- [https://desmidte.nl/](https://desmidte.nl/) — achtergrond, openingstijden, sluitingstijden, website; Café Restaurant De Smidte; bronveld gecontroleerd: 2026-10-29
+
 ### deutrechter.nl
 
 - [https://deutrechter.nl/](https://deutrechter.nl/) — openingstijden, sluitingstijden, website; De Utrechter; bronveld gecontroleerd: 2026-10-26
@@ -729,6 +749,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### eetcafedebaron.nl
 
 - [https://eetcafedebaron.nl/](https://eetcafedebaron.nl/) — sluitingstijden, website; Eetcafé De Baron; bronveld gecontroleerd: 2026-10-25
+
+### eetcafedepleats.nl
+
+- [https://eetcafedepleats.nl/](https://eetcafedepleats.nl/) — achtergrond; Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 
 ### eetcafedepoort.nl
 
@@ -785,12 +809,14 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### friesland.nl
 
 - [https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe](https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe) — achtergrond, openingstijden, sluitingstijden; Grand Café Post-Plaza; bronveld gecontroleerd: 2026-10-29
+- [https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond, sluitingstijden; Eetcafé De Pleats; bronveld gecontroleerd: 2026-10-29
 - [https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar](https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels](https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels) — achtergrond; Grand Café Levels; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit](https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit) — achtergrond; Restaurant De Kajuit; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk](https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk) — achtergrond; Espressobar Smûk; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek](https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek) — achtergrond, openingstijden, sluitingstijden; Café De Spoek; bronveld gecontroleerd: 2026-10-29
+- [https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal](https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal) — achtergrond; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes](https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes) — achtergrond, terugkerende_vindplaats; De Babbelaar, Eetcafé 't Roodhert; bronveld gecontroleerd: onbekend
 
 ### funda.nl
@@ -1383,6 +1409,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### willemslok.nl
 
 - [https://willemslok.nl/](https://willemslok.nl/) — website; Café Willem Slok; bronveld gecontroleerd: 2026-10-26
+
+### workum.nl
+
+- [https://workum.nl/de/aktivitat/restaurant-de-smidte/](https://workum.nl/de/aktivitat/restaurant-de-smidte/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
 
 ### zoek.officielebekendmakingen.nl
 

@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 433,
-    "domains": 228,
-    "direct_website_fields": 169
+    "source_urls": 443,
+    "domains": 233,
+    "direct_website_fields": 172
   },
   "discovery_sites": [
     {
@@ -165,8 +165,8 @@
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 8,
-      "linked_venues": 8
+      "source_pages": 10,
+      "linked_venues": 10
     },
     {
       "domain": "uitutrecht.com",
@@ -189,6 +189,16 @@
       "linked_venues": 5
     },
     {
+      "domain": "allecijfers.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
+      "domain": "bestrestos.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
       "domain": "oozo.nl",
       "source_pages": 4,
       "linked_venues": 2
@@ -209,19 +219,9 @@
       "linked_venues": 4
     },
     {
-      "domain": "allecijfers.nl",
-      "source_pages": 3,
-      "linked_venues": 3
-    },
-    {
       "domain": "barbasta.nl",
       "source_pages": 3,
       "linked_venues": 1
-    },
-    {
-      "domain": "bestrestos.nl",
-      "source_pages": 3,
-      "linked_venues": 3
     },
     {
       "domain": "hfsfreelancers.nl",
@@ -237,6 +237,11 @@
       "domain": "uitagenda.nl",
       "source_pages": 3,
       "linked_venues": 74
+    },
+    {
+      "domain": "amicaalgrou.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "beersbarrels.nl",
@@ -604,6 +609,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafebarskutsje.jouwweb.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafebinnenbest.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -799,6 +809,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "desmidte.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "deutrechter.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -830,6 +845,11 @@
     },
     {
       "domain": "eetcafedebaron.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafedepleats.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1274,6 +1294,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "workum.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "zoek.officielebekendmakingen.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1478,6 +1503,88 @@
         {
           "id": "t-ouwe-vat-sneek-4873eaa",
           "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/",
+      "domain": "allecijfers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-babbelaar-burgum-5796776",
+          "name": "De Babbelaar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://amicaalgrou.nl/",
+      "domain": "amicaalgrou.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+          "name": "Wijn-, Tap- & Eethuis Amicaal",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://amicaalgrou.nl/contact/",
+      "domain": "amicaalgrou.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+          "name": "Wijn-, Tap- & Eethuis Amicaal",
           "roles": [
             "achtergrond"
           ],
@@ -1975,6 +2082,30 @@
       "needs_review": true
     },
     {
+      "url": "https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279",
+      "domain": "bestrestos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+          "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.biton.nl/",
       "domain": "biton.nl",
       "first_registered_on": "2026-10-29",
@@ -2250,6 +2381,40 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://cafebarskutsje.jouwweb.nl/",
+      "domain": "cafebarskutsje.jouwweb.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+          "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafebinnenbest.nl/",
@@ -5981,6 +6146,40 @@
       "needs_review": true
     },
     {
+      "url": "https://desmidte.nl/",
+      "domain": "desmidte.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+          "name": "Café Restaurant De Smidte",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://deutrechter.nl/",
       "domain": "deutrechter.nl",
       "first_registered_on": "2026-10-26",
@@ -6219,6 +6418,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://eetcafedepleats.nl/",
+      "domain": "eetcafedepleats.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-pleats-woudsend-0d71b79",
+          "name": "Eetcafé De Pleats",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.eetcafedepoort.nl/",
@@ -6709,6 +6932,34 @@
       "needs_review": false
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-pleats-woudsend-0d71b79",
+          "name": "Eetcafé De Pleats",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -6858,6 +7109,30 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+          "name": "Wijn-, Tap- & Eethuis Amicaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes",
@@ -16466,6 +16741,30 @@
       "needs_review": false
     },
     {
+      "url": "https://workum.nl/de/aktivitat/restaurant-de-smidte/",
+      "domain": "workum.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+          "name": "Café Restaurant De Smidte",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-140677.html",
       "domain": "zoek.officielebekendmakingen.nl",
       "first_registered_on": "2026-10-29",
@@ -16629,10 +16928,6 @@
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
         "name": "Café Bak"
-      },
-      {
-        "id": "cafe-bar-t-skutsje-drachten-7164f2f",
-        "name": "Café Bar 't Skûtsje"
       },
       {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
@@ -16813,10 +17108,6 @@
       {
         "id": "cafe-rednick-harlingen-11c235b",
         "name": "Café Rednick"
-      },
-      {
-        "id": "cafe-restaurant-de-smidte-workum-f7236eb",
-        "name": "Café Restaurant De Smidte"
       },
       {
         "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
@@ -17457,10 +17748,6 @@
       {
         "id": "werkspoorcafe-1e5e832",
         "name": "Werkspoorcafé"
-      },
-      {
-        "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
-        "name": "Wijn-, Tap- & Eethuis Amicaal"
       },
       {
         "id": "wijnbar-vino-ae6ef03",
@@ -18531,7 +18818,7 @@
       {
         "id": "cafe-bar-t-skutsje-drachten-7164f2f",
         "name": "Café Bar 't Skûtsje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site noemt wo–zo vanaf 18:00, geen sluitingsuur. Gids https://bestrestos.nl/restaurant/cafe-bar--t-skutsje-drachten-3279 noemt dinsdag 18–00 en woensdag gesloten; beide dagen niet als bevestigd gesloten/open behandeld. Geen laatste toegang."
       },
       {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
@@ -18756,7 +19043,7 @@
       {
         "id": "cafe-restaurant-de-smidte-workum-f7236eb",
         "name": "Café Restaurant De Smidte",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website: di–zo vanaf 17:00, maandag niet geopend volgens weekpatroon. Sluitingstijden en laatste toegang ontbreken. Gidsen spreken elkaar tegen over eindtijden; niet overgenomen."
       },
       {
         "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
@@ -18956,7 +19243,7 @@
       {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
         "name": "Eetcafé De Pleats",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "VVV Friesland vermeldt winter: ma/di gesloten, wo–za 16–02, zo 16–00; voorseizoen vanaf 18 april: ma/di gesloten, wo/do 16–02, vr/za 12–02, zo 12–00; hoogseizoen juli/aug: ma–za 12–02, zo 12–00. Omdat publicatiejaar/seizoensovergang niet duidelijk is en eigen domein eetcafedepleats.nl niet toegankelijk was op 29-10-2026, geen van deze roosters als actuele exacte tijden ingevoerd. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-de-richel-west-terschelling-47de150",
@@ -19391,7 +19678,7 @@
       {
         "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
         "name": "Wijn-, Tap- & Eethuis Amicaal",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Dezelfde eigen website toont onderling tegenstrijdige ma/di-uren (historische coronaregels versus huidige footer); beide dagen onbekend. Geen sluiting of laatste toegang op site. Externe gidsen noemen uiteenlopende sluitingstijden, niet overgenomen."
       },
       {
         "id": "wijncafe-lefebvre-cb700cd",

@@ -1,7 +1,7 @@
 {
   "total": 412,
-  "with_coordinates": 388,
-  "without_coordinates": 24,
+  "with_coordinates": 389,
+  "without_coordinates": 23,
   "added_in_this_run": 1,
   "unmatched": [
     {
@@ -122,12 +122,6 @@
       "name": "Café Restaurant De Smidte",
       "address": "Súd 106-108",
       "city": "Workum",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "De Babbelaar",
-      "address": "Jonkheer H.B. van Sminiaplein 3",
-      "city": "Burgum",
       "reason": "no-exact-PDOK-match"
     },
     {

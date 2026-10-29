@@ -14278,7 +14278,13 @@
       "opening_checked_on": "2026-10-29",
       "opening_quality": "Eigen site vestiging Burgum 29-10-2026: ma 11–22, di gesloten, wo/do 11–22, vr/za 11–00, zo 11–22.",
       "checked_on": "2026-10-29",
-      "geocode_notes": "Eigen website schrijft afgekort Jonkheer H.B. van Sminiaplein 3. BAG-afgeleide adresbron bevestigt volledige officiële straatnaam Jonkheer Hobbe Baerdt van Sminiaplein 3 (zonder suffix), postcode 9251 BK. Strikte geocoder moet dit exacte adres opnieuw matchen; 3A/3B zijn andere BAG-objecten."
+      "geocode_notes": "Eigen website schrijft afgekort Jonkheer H.B. van Sminiaplein 3. BAG-afgeleide adresbron bevestigt volledige officiële straatnaam Jonkheer Hobbe Baerdt van Sminiaplein 3 (zonder suffix), postcode 9251 BK. Strikte geocoder moet dit exacte adres opnieuw matchen; 3A/3B zijn andere BAG-objecten.",
+      "geo": {
+        "lat": 53.1925552,
+        "lon": 5.9881243,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jonkheer Hobbe Baerdt van Sminiaplein 3, 9251BK Burgum"
+      }
     },
     {
       "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
