@@ -16670,7 +16670,13 @@
       "original_status": "Actuele zaak en adres bevestigd via eigen site en lokale toeristische gids; geen live beschikbaarheidsgarantie.",
       "website_checked_on": "2026-10-29",
       "opening_checked_on": "2026-10-29",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "geo": {
+        "lat": 53.0325694,
+        "lon": 5.662485,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kleinzand 1A, 8601BE Sneek"
+      }
     },
     {
       "id": "aan-de-gracht-sneek-grootzand-4",
@@ -16716,7 +16722,13 @@
       ],
       "original_status": "Actuele restaurantwebsite aanwezig en drankenaanbod bevestigd 29-10-2026. Exacte openings- en sluitingstijden niet officieel bevestigd.",
       "website_checked_on": "2026-10-29",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "geo": {
+        "lat": 53.0320237,
+        "lon": 5.6615142,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Grootzand 4, 8601AW Sneek"
+      }
     }
   ],
   "admission_policies": [

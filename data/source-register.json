@@ -3,10 +3,10 @@
   "generated_on": "2026-10-29",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 408,
-    "source_urls": 398,
-    "domains": 211,
-    "direct_website_fields": 160
+    "venues": 410,
+    "source_urls": 411,
+    "domains": 216,
+    "direct_website_fields": 162
   },
   "discovery_sites": [
     {
@@ -169,14 +169,14 @@
       "linked_venues": 132
     },
     {
+      "domain": "friesland.nl",
+      "source_pages": 7,
+      "linked_venues": 8
+    },
+    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
-    },
-    {
-      "domain": "friesland.nl",
-      "source_pages": 6,
-      "linked_venues": 7
     },
     {
       "domain": "waterlandvanfriesland.nl",
@@ -184,7 +184,22 @@
       "linked_venues": 6
     },
     {
+      "domain": "oozo.nl",
+      "source_pages": 4,
+      "linked_venues": 2
+    },
+    {
+      "domain": "sneek.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
       "domain": "verseuitjes.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
+      "domain": "vind-open.nl",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -194,12 +209,17 @@
       "linked_venues": 1
     },
     {
-      "domain": "noah-eetcafe.nl",
+      "domain": "bestrestos.nl",
       "source_pages": 3,
-      "linked_venues": 1
+      "linked_venues": 3
     },
     {
-      "domain": "oozo.nl",
+      "domain": "grootsneek.nl",
+      "source_pages": 3,
+      "linked_venues": 2
+    },
+    {
+      "domain": "noah-eetcafe.nl",
       "source_pages": 3,
       "linked_venues": 1
     },
@@ -209,17 +229,7 @@
       "linked_venues": 74
     },
     {
-      "domain": "vind-open.nl",
-      "source_pages": 3,
-      "linked_venues": 3
-    },
-    {
       "domain": "beersbarrels.nl",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
-      "domain": "bestrestos.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -309,7 +319,7 @@
       "linked_venues": 2
     },
     {
-      "domain": "grootsneek.nl",
+      "domain": "hfsfreelancers.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -404,11 +414,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "sneek.nl",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
       "domain": "stadsschouwburg-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -460,6 +465,11 @@
     },
     {
       "domain": "1841.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "aan-de-gracht.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -799,6 +809,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "espressobar-smuk.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "etenbijguusjes.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -869,11 +884,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "hfsfreelancers.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "hofman-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -915,6 +925,11 @@
     },
     {
       "domain": "kleinberlijn.de",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "lc.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1019,6 +1034,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "partyflock.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "poolenutrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1030,6 +1050,11 @@
     },
     {
       "domain": "restaurant-broei.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "restaurantaandegracht.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1221,6 +1246,32 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://aan-de-gracht.nl/",
+      "domain": "aan-de-gracht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "aan-de-gracht-sneek-grootzand-4",
+          "name": "Restaurant Aan de Gracht",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -1693,6 +1744,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504",
+      "domain": "bestrestos.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "aan-de-gracht-sneek-grootzand-4",
+          "name": "Restaurant Aan de Gracht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
@@ -6142,6 +6217,38 @@
       "needs_review": false
     },
     {
+      "url": "https://espressobar-smuk.nl/",
+      "domain": "espressobar-smuk.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "espressobar-smuk-sneek-kleinzand-1",
+          "name": "Espressobar Smûk",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.etenbijguusjes.nl/",
       "domain": "etenbijguusjes.nl",
       "first_registered_on": "2026-10-26",
@@ -6372,6 +6479,30 @@
         {
           "id": "cafe-restaurant-de-kajuit-sneek-651e053",
           "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "espressobar-smuk-sneek-kleinzand-1",
+          "name": "Espressobar Smûk",
           "roles": [
             "achtergrond"
           ],
@@ -6643,6 +6774,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek",
+      "domain": "grootsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hartlooper.nl/",
       "domain": "hartlooper.nl",
       "first_registered_on": "2026-10-26",
@@ -6755,6 +6914,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "mootz-sneek-0f73107",
+          "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -7231,6 +7414,30 @@
         {
           "id": "landhuis-in-de-stad-20261026",
           "name": "Landhuis in de Stad",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece",
+      "domain": "lc.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
           "roles": [
             "achtergrond"
           ],
@@ -8801,6 +9008,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/231771/mootz-sneek",
+      "domain": "oozo.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "mootz-sneek-0f73107",
+          "name": "Mootz",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.oproerbrouwerij.nl/pages/oproer-biercafe-utrecht",
       "domain": "oproerbrouwerij.nl",
       "first_registered_on": "2026-10-26",
@@ -9007,6 +9242,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://partyflock.nl/location/13782/archive",
+      "domain": "partyflock.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "mootz-sneek-0f73107",
+          "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.poolenutrecht.nl/",
@@ -9250,6 +9509,30 @@
       "needs_review": false
     },
     {
+      "url": "https://restaurantaandegracht.nl/",
+      "domain": "restaurantaandegracht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "aan-de-gracht-sneek-grootzand-4",
+          "name": "Restaurant Aan de Gracht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://restaurantconcours.nl/",
       "domain": "restaurantconcours.nl",
       "first_registered_on": "2026-10-26",
@@ -9287,24 +9570,20 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "cafe-t-skutsje-sneek-550e03d",
           "name": "Café 't Skûtsje",
           "roles": [
-            "achtergrond",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "sluitingstijden": "2026-10-29"
-          },
+          "checked_on": {},
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -9577,6 +9856,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.sneek.nl/zien-doen/aan-de-gracht",
+      "domain": "sneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "aan-de-gracht-sneek-grootzand-4",
+          "name": "Restaurant Aan de Gracht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.sneek.nl/zien-doen/club-1841",
       "domain": "sneek.nl",
       "first_registered_on": "2026-10-29",
@@ -9601,6 +9904,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.sneek.nl/zien-doen/espressobar-smuk",
+      "domain": "sneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "espressobar-smuk-sneek-kleinzand-1",
+          "name": "Espressobar Smûk",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -14974,6 +15301,30 @@
       "needs_review": true
     },
     {
+      "url": "https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "espressobar-smuk-sneek-kleinzand-1",
+          "name": "Espressobar Smûk",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-29",
@@ -16600,6 +16951,10 @@
         "name": "Café 't Skoffeltsje"
       },
       {
+        "id": "cafe-t-skutsje-sneek-550e03d",
+        "name": "Café 't Skûtsje"
+      },
+      {
         "id": "cafe-t-skutsje-harlingen-ea324fd",
         "name": "Café 't Skûtsje"
       },
@@ -17212,10 +17567,6 @@
         "name": "Molencafé De Ster"
       },
       {
-        "id": "mootz-sneek-0f73107",
-        "name": "Mootz"
-      },
-      {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
         "name": "Muziekcafé Scooter's"
       },
@@ -17278,6 +17629,10 @@
       {
         "id": "pub-de-steeg-holwert-910e0a2",
         "name": "Pub De Steeg"
+      },
+      {
+        "id": "aan-de-gracht-sneek-grootzand-4",
+        "name": "Restaurant Aan de Gracht"
       },
       {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
@@ -17499,7 +17854,7 @@
       {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje",
-        "reason": "GrootSneek 26-07-2024: pand verkocht, eigenaar zoekt nieuwe uitbater; RestaurantGuru (gecontroleerd 29-10-2026) vermeldt tijdelijk gesloten en een oudere bezoeker meldt sluiting sinds september. Oude gidsuren 10:00–00:00 niet als actuele opening gebruiken. Geen heropening bevestigd."
+        "reason": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen."
       },
       {
         "id": "cafe-t-skutsje-harlingen-ea324fd",
@@ -18022,6 +18377,11 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
+        "id": "espressobar-smuk-sneek-kleinzand-1",
+        "name": "Espressobar Smûk",
+        "reason": "Dinsdag niet als zeker open tonen: eigen site 09:00–17:30, Friesland.nl en VindOpen 28-09-2026 zeggen gesloten. Laatste toegang niet afzonderlijk vermeld; geen avondhoreca."
+      },
+      {
         "id": "feestcafe-het-swaentje-balk-f467edc",
         "name": "Feestcafé Het Swaentje",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18212,11 +18572,6 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
-        "id": "mootz-sneek-0f73107",
-        "name": "Mootz",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
         "name": "Muziekcafé Scooter's",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18270,6 +18625,11 @@
         "id": "quignon-f8af1d8",
         "name": "Quignon",
         "reason": "Eigen home/contactpagina hebben tegenstrijdige sluitingstijden. Conservatief de vroegste gepubliceerde tijd gebruikt. | Weekendopening volgens officiële contactpagina."
+      },
+      {
+        "id": "aan-de-gracht-sneek-grootzand-4",
+        "name": "Restaurant Aan de Gracht",
+        "reason": "Meerdere gidsen geven dagelijks 12:00–22:00 (o.a. BestRestos bijgewerkt 20-10-2026), maar eigen site geeft geen expliciet dagelijks rooster. Laatste toegang en eventuele alleen-borrelen-toegang onbekend. Met tijdsfilter niet tonen totdat betrouwbare eindtijd is bevestigd."
       },
       {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
