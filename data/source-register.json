@@ -3,10 +3,10 @@
   "generated_on": "2026-10-29",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 224,
-    "source_urls": 309,
-    "domains": 172,
-    "direct_website_fields": 150
+    "venues": 408,
+    "source_urls": 360,
+    "domains": 190,
+    "direct_website_fields": 155
   },
   "discovery_sites": [
     {
@@ -56,13 +56,102 @@
       "url": "https://www.uu.nl/organisatie/praktische-zaken/facilitair/catering",
       "recheck_for": "Campuslocaties en toegang",
       "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uitgaanskaart Fryslân",
+      "url": "https://uitgaanskaart.nl/provincie/friesland",
+      "recheck_for": "Provinciebrede gids; controle op ontbrekende kroegen, bars, clubs, nieuwe of gesloten adressen; naam/adres verifiëren",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Friesland.nl horeca",
+      "url": "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes",
+      "recheck_for": "Friese toeristische gids, dorpshoreca en expliciete weekroosters",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Waterland van Friesland cafés",
+      "url": "https://www.waterlandvanfriesland.nl/nl/plan-je-bezoek/eten-en-drinken/cafes-en-bars",
+      "recheck_for": "Zuidwest-Friesland inclusief Sneek, Bolsward, Lemmer, Woudsend en de meren",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Visit Leeuwarden uitgaan",
+      "url": "https://visitleeuwarden.com/doen/uitgaan/",
+      "recheck_for": "Cafés, muziekcafés en clubs Leeuwarden; openingen, sluitingen en adressen",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Agenda Leeuwarden",
+      "url": "https://agendaleeuwarden.nl/hotspots/?soort=cafes-uitgaan",
+      "recheck_for": "Lokale uitgaanslocaties en openingsnieuws",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Dokkum horeca",
+      "url": "https://dokkum.nl/eten-en-drinken/",
+      "recheck_for": "Nieuw en bestaand horecaanbod Dokkum",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Visit Wadden",
+      "url": "https://www.visitwadden.nl/nl/bezoeken/",
+      "recheck_for": "Wadden, eilanden en noordelijke kustplaatsen",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "ZuidoostFriesland horeca",
+      "url": "https://www.zuidoostfriesland.nl/bezoeken/eten-drinken/alle-horecagelegenheden",
+      "recheck_for": "Drachten, Heerenveen, Wolvega, Appelscha en overige zuidoostelijke plaatsen",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Bolsward horeca",
+      "url": "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+      "recheck_for": "Nieuwe of gesloten cafés rond Bargefenne en binnenstad",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uitagenda Drachten",
+      "url": "https://www.uitagenda.nl/drachten",
+      "recheck_for": "Locaties Drachten, cafés en uitgaanscentra",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uitagenda Dokkum",
+      "url": "https://www.uitagenda.nl/dokkum",
+      "recheck_for": "Kroegen en evenementlocaties Dokkum",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uit Sneek uitgaan",
+      "url": "https://uitsneek.com/uitgaan/",
+      "recheck_for": "Sneekse horeca; gids is niet zelf voldoende bewijs voor openingstijden",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uit Leeuwarden uitgaan",
+      "url": "https://uitleeuwarden.com/uitgaan/",
+      "recheck_for": "Horecagids Leeuwarden; verifieer status en adres onafhankelijk",
+      "last_exhaustive_check_on": null
+    },
+    {
+      "name": "Uit Heerenveen uitgaan",
+      "url": "https://uitheerenveen.com/uitgaan/",
+      "recheck_for": "Heerenveense uitgaanslocaties; actuele status en adres afzonderlijk controleren",
+      "last_exhaustive_check_on": null
     }
   ],
   "domains": [
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 56,
-      "linked_venues": 53
+      "source_pages": 57,
+      "linked_venues": 54
+    },
+    {
+      "domain": "uitgaanskaart.nl",
+      "source_pages": 21,
+      "linked_venues": 200
     },
     {
       "domain": "ontdek-utrecht.nl",
@@ -85,6 +174,16 @@
       "linked_venues": 1
     },
     {
+      "domain": "waterlandvanfriesland.nl",
+      "source_pages": 6,
+      "linked_venues": 6
+    },
+    {
+      "domain": "friesland.nl",
+      "source_pages": 4,
+      "linked_venues": 5
+    },
+    {
       "domain": "verseuitjes.nl",
       "source_pages": 4,
       "linked_venues": 4
@@ -93,6 +192,11 @@
       "domain": "barbasta.nl",
       "source_pages": 3,
       "linked_venues": 1
+    },
+    {
+      "domain": "uitagenda.nl",
+      "source_pages": 3,
+      "linked_venues": 74
     },
     {
       "domain": "beersbarrels.nl",
@@ -136,6 +240,11 @@
     },
     {
       "domain": "denijverheid.org",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dokkum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -280,6 +389,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "visitwadden.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "wijnbarvinvin.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -288,6 +402,11 @@
       "domain": "acu.nl",
       "source_pages": 1,
       "linked_venues": 1
+    },
+    {
+      "domain": "agendaleeuwarden.nl",
+      "source_pages": 1,
+      "linked_venues": 0
     },
     {
       "domain": "averechts.nl",
@@ -335,9 +454,19 @@
       "linked_venues": 1
     },
     {
+      "domain": "biton.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "bodytalk-utrecht.metro.bar",
       "source_pages": 1,
       "linked_venues": 1
+    },
+    {
+      "domain": "bolsward.nl",
+      "source_pages": 1,
+      "linked_venues": 0
     },
     {
       "domain": "boot122.nl",
@@ -401,6 +530,11 @@
     },
     {
       "domain": "cafederat.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafedespoek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -520,6 +654,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dejongensvanjoure.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "dekrommeharing.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -541,6 +680,11 @@
     },
     {
       "domain": "deutrechter.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dewalrussneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -635,7 +779,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "hfsfreelancers.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "hofman-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "irishpubsneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -820,6 +974,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "studentenwegwijzer.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "talud9.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -860,14 +1019,19 @@
       "linked_venues": 1
     },
     {
-      "domain": "uitagenda.nl",
+      "domain": "uitheerenveen.com",
       "source_pages": 1,
-      "linked_venues": 74
+      "linked_venues": 0
     },
     {
-      "domain": "uitgaanskaart.nl",
+      "domain": "uitleeuwarden.com",
       "source_pages": 1,
-      "linked_venues": 21
+      "linked_venues": 0
+    },
+    {
+      "domain": "uitsneek.com",
+      "source_pages": 1,
+      "linked_venues": 0
     },
     {
       "domain": "ulubar.nl",
@@ -895,6 +1059,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "visitleeuwarden.com",
+      "source_pages": 1,
+      "linked_venues": 0
+    },
+    {
       "domain": "visitutrechtregion.com",
       "source_pages": 1,
       "linked_venues": 1
@@ -918,6 +1087,11 @@
       "domain": "zoek.officielebekendmakingen.nl",
       "source_pages": 1,
       "linked_venues": 1
+    },
+    {
+      "domain": "zuidoostfriesland.nl",
+      "source_pages": 1,
+      "linked_venues": 0
     }
   ],
   "sources": [
@@ -945,6 +1119,20 @@
       ],
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://agendaleeuwarden.nl/hotspots/?soort=cafes-uitgaan",
+      "domain": "agendaleeuwarden.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
       "needs_review": false
     },
     {
@@ -1354,6 +1542,32 @@
       "needs_review": false
     },
     {
+      "url": "https://www.biton.nl/",
+      "domain": "biton.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "b-i-t-o-n-e63cfb6",
+          "name": "B.I.T.O.N.",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://bodytalk-utrecht.metro.bar/?lang=nl",
       "domain": "bodytalk-utrecht.metro.bar",
       "first_registered_on": "2026-10-26",
@@ -1383,6 +1597,20 @@
       ],
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+      "domain": "bolsward.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
       "needs_review": false
     },
     {
@@ -1815,6 +2043,32 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.cafedespoek.nl/",
+      "domain": "cafedespoek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-spoek-leeuwarden-6d9baae",
+          "name": "Café De Spoek",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.cafedestad.nl/",
@@ -3297,6 +3551,30 @@
       "needs_review": false
     },
     {
+      "url": "https://centrumutrecht.nl/company/grand-cafe-lebowski/",
+      "domain": "centrumutrecht.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "lebowskis-speakeasy-2a1a46d",
+          "name": "Lebowski’s Speakeasy",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://centrumutrecht.nl/company/hofman-utrecht/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -4690,6 +4968,32 @@
       "needs_review": false
     },
     {
+      "url": "https://www.dejongensvanjoure.nl/",
+      "domain": "dejongensvanjoure.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-jongens-van-joure-joure-de09c9b",
+          "name": "Grand Café De Jongens van Joure",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.dekrommeharing.nl/",
       "domain": "dekrommeharing.nl",
       "first_registered_on": "2026-10-26",
@@ -4885,6 +5189,32 @@
       "needs_review": false
     },
     {
+      "url": "https://www.dewalrussneek.nl/",
+      "domain": "dewalrussneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-walrus-sneek-4998266",
+          "name": "Grand Café De Walrus",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://dewinkelvansinkel.nl/",
       "domain": "dewinkelvansinkel.nl",
       "first_registered_on": "2026-10-26",
@@ -4967,6 +5297,51 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://dokkum.nl/eten-en-drinken/",
+      "domain": "dokkum.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
+      "domain": "dokkum.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-artisante-dokkum-284998e",
+          "name": "Stadscafé Artisante",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht",
@@ -5344,6 +5719,133 @@
       "needs_review": false
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+          "name": "Grand Café Post-Plaza",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-levels-harlingen-fe09531",
+          "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-spoek-leeuwarden-6d9baae",
+          "name": "Café De Spoek",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "terugkerende_vindplaats"
+      ],
+      "venues": [
+        {
+          "id": "de-babbelaar-burgum-5796776",
+          "name": "De Babbelaar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-t-roodhert-burgum-549ff10",
+          "name": "Eetcafé 't Roodhert",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
       "url": "https://gastrobarflorijn.nl/",
       "domain": "gastrobarflorijn.nl",
       "first_registered_on": "2026-10-26",
@@ -5578,6 +6080,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "kweekvijver-utrecht-c5d2c85",
+          "name": "KweekVijver Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hofman-utrecht.nl/cafe-utrecht",
       "domain": "hofman-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -5651,6 +6177,40 @@
             "sluitingstijden"
           ],
           "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.irishpubsneek.nl/",
+      "domain": "irishpubsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "irish-pub-de-poort-van-cleef-sneek-5acde60",
+          "name": "Irish Pub De Poort van Cleef",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29",
             "sluitingstijden": "2026-10-29",
             "openingstijden": "2026-10-29"
           },
@@ -6716,6 +7276,15 @@
       ],
       "venues": [
         {
+          "id": "t-pandje-323e93f",
+          "name": "’t Pandje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
           "id": "bodytalk-03fa9ca",
           "name": "Bodytalk",
           "roles": [
@@ -6768,15 +7337,6 @@
           ],
           "checked_on": {},
           "needs_review": true
-        },
-        {
-          "id": "t-pandje-323e93f",
-          "name": "’t Pandje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
@@ -6793,6 +7353,15 @@
         "achtergrond"
       ],
       "venues": [
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
         {
           "id": "de-helling-8b22e2e",
           "name": "De Helling",
@@ -6846,15 +7415,6 @@
           ],
           "checked_on": {},
           "needs_review": false
-        },
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
@@ -8380,6 +8940,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/",
+      "domain": "studentenwegwijzer.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "b-i-t-o-n-e63cfb6",
+          "name": "B.I.T.O.N.",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.talud9.nl/",
       "domain": "talud9.nl",
       "first_registered_on": "2026-10-26",
@@ -8842,6 +9426,34 @@
       "needs_review": false
     },
     {
+      "url": "https://www.uitagenda.nl/dokkum",
+      "domain": "uitagenda.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.uitagenda.nl/drachten",
+      "domain": "uitagenda.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
       "url": "https://www.uitagenda.nl/index.php/utrecht",
       "domain": "uitagenda.nl",
       "first_registered_on": "2026-10-26",
@@ -8852,6 +9464,33 @@
         "terugkerende_vindplaats"
       ],
       "venues": [
+        {
+          "id": "t-gras-van-de-buren-29923a1",
+          "name": "’t Gras van de Buren",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pakhuis-e59df99",
+          "name": "’t Pakhuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
         {
           "id": "achter-de-koekoek-3ed99c6",
           "name": "Achter de Koekoek",
@@ -8954,6 +9593,15 @@
         {
           "id": "brouwerij-oudaen-5f28ecd",
           "name": "Brouwerij Oudaen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "cafe-t-oude-pierement-254647b",
+          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -9107,15 +9755,6 @@
         {
           "id": "cafe-willem-slok-7402de0",
           "name": "Café Willem Slok",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "cafe-t-oude-pierement-254647b",
-          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -9330,6 +9969,15 @@
           "needs_review": false
         },
         {
+          "id": "olearys-e541c8d",
+          "name": "O’Leary’s",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
           "id": "olivier-ad29c9c",
           "name": "Olivier",
           "roles": [
@@ -9359,15 +10007,6 @@
         {
           "id": "ouwe-dikke-dries-b26481a",
           "name": "Ouwe Dikke Dries",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "olearys-e541c8d",
-          "name": "O’Leary’s",
           "roles": [
             "achtergrond"
           ],
@@ -9490,28 +10129,25 @@
           ],
           "checked_on": {},
           "needs_review": true
-        },
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 74,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/akkrum",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
         {
-          "id": "t-gras-van-de-buren-29923a1",
-          "name": "’t Gras van de Buren",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pakhuis-e59df99",
-          "name": "’t Pakhuis",
+          "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+          "name": "Eetcafé Kromme Knilles",
           "roles": [
             "achtergrond"
           ],
@@ -9520,7 +10156,1567 @@
         }
       ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 74,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/ballum",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "amelander-bierbrouwerij-ballum-32e95e9",
+          "name": "Amelander Bierbrouwerij",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
+          "name": "Café 't Bildt",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-boerderij-ballum-984f881",
+          "name": "Eetcafé De Boerderij",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
+          "name": "Eetcafé De Smalle Kant",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 4,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/bolsward",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-diekje-bolsward-89f46bb",
+          "name": "Café 't Diekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-finne-reahus-fedc896",
+          "name": "Café De Finne",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-otterbar-witmarsum-52640a7",
+          "name": "Café De Otterbar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-it-kin-net-bolsward-75feb60",
+          "name": "Café It Kin Net",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-freonskip-blauwhuis-6bea40d",
+          "name": "De Freonskip",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+          "name": "De Hut van Oom Tom",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-55-bolsward-c23ffd7",
+          "name": "Eetcafé 55",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-bullock-bolsward-e66a509",
+          "name": "Grand Café Bullock",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 9,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/drachten",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-waldmantsje-drachten-acaeeab",
+          "name": "Café 't Waldmantsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+          "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-lits-rottevalle-27df1a4",
+          "name": "Café De Lits",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-het-raadhuys-drachten-085a1a5",
+          "name": "Café Het Raadhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-hopper-drachten-a7ebfcb",
+          "name": "Café Hopper",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-it-alde-ste-ureterp-a8f9378",
+          "name": "Café It Alde Ste",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
+          "name": "Café Kompenije",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-pietje-bel-drachten-5eb1428",
+          "name": "Café Pietje Bel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-sportlust-houtigehage-5fee14e",
+          "name": "Café Sportlust",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-tsjoch-drachten-c5fc2de",
+          "name": "Café Tsjoch",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "danscafe-tante-sientje-drachten-b8e305c",
+          "name": "Danscafé Tante Sientje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+          "name": "Grand Café Bowling de Kaden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "kafee-8-drachten-e7c0e2d",
+          "name": "Kafee 8",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
+          "name": "Ma Kelly's Muziekcafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Poolcentrum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 15,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/grou",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+          "name": "Café Bar De Welp",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-d-oude-oost-grou-006c9f7",
+          "name": "Café d'Oude Oost",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-fantast-jirnsum-c4f5cbd",
+          "name": "De Fantast",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
+          "name": "Eetcafé De 2 Gemeenten",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+          "name": "Eetcafé De Gondel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-jan-wergea-08f70f7",
+          "name": "Grand Café Jan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "treemter-grou-dbe48b6",
+          "name": "Treemter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+          "name": "Wijn-, Tap- & Eethuis Amicaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 8,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/harlingen",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-1908-franeker-8dcc574",
+          "name": "Bar 1908",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "bar-de-bock-harlingen-33ab930",
+          "name": "Bar de Bock",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-noorderke-harlingen-9f9ff92",
+          "name": "Café 't Noorderke",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-skutsje-harlingen-ea324fd",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-harmonie-sexbierum-384aca7",
+          "name": "Café De Harmonie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-hollandse-kus-pingjum-9c0a58a",
+          "name": "Café De Hollandse Kus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+          "name": "Café De Kleine Beurs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-den-smeerpaal-harlingen-2b618ef",
+          "name": "Café Den Smeerpaal",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-gewoan-sven-harlingen-dccd931",
+          "name": "Café Gewoán Sven",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-rednick-harlingen-11c235b",
+          "name": "Café Rednick",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+          "name": "Café Restaurant De Zwaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-romano-makkum-9aa61f4",
+          "name": "Café Romano",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+          "name": "De Bocht fen Guné",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+          "name": "Eetcafé Nooitgedagt",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-de-doelen-franeker-8aee2be",
+          "name": "Grand Café De Doelen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-levels-harlingen-fe09531",
+          "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "grand-cafe-promenade-harlingen-f6e911b",
+          "name": "Grand Café Promenade",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "harbour-pub-harlingen-7da020c",
+          "name": "Harbour Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Havenbrouwerij Het Brouwdok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
+          "name": "Herberg De Gekroonde Leeuw",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "tapperij-t-noord-franeker-340a463",
+          "name": "Tapperij 't Noord",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "the-pub-public-underground-bar-harlingen-5144488",
+          "name": "The Pub - Public Underground Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 22,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/heerenveen",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-kannet-heerenveen-75a1ed4",
+          "name": "'t Kannet",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+          "name": "Café 't Skoffeltsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-bak-heerenveen-8f34eb5",
+          "name": "Café Bak",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-bleeker-heerenveen-84c5dae",
+          "name": "Café Bleeker",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+          "name": "Café De Blauwe Kater",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-oase-heerenveen-051008c",
+          "name": "Café De Oase",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-swetser-heerenveen-7013b57",
+          "name": "Café De Swetser",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-kroeg-heerenveen-9b76232",
+          "name": "De Kroeg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "het-stamcafe-heerenveen-b1c29a4",
+          "name": "Het Stamcafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "it-houtsje-heerenveen-d2248cf",
+          "name": "It Houtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+          "name": "Paultje Café Restaurant",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+          "name": "Snooker & Pool Centrum Heerenveen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 12,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/hollum",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bok-hollum-f23e5ba",
+          "name": "Café Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-welvaart-hollum-8afd4cb",
+          "name": "De Welvaart",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "herberg-de-zwaan-hollum-b0512f5",
+          "name": "Herberg De Zwaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 3,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/joure",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-hert-joure-175cdd8",
+          "name": "Café 't Hert",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-syl-joure-a95c827",
+          "name": "Café 't Syl",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-de-jongens-van-joure-joure-de09c9b",
+          "name": "Grand Café De Jongens van Joure",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
+          "name": "Grand Café De Oranjerie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "stoker-koffiebar-joure-b54d49f",
+          "name": "Stoker Koffiebar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 5,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/leeuwarden",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+          "name": "Café De Ouwe Stoep",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+          "name": "Café de Pastorie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-rus-leeuwarden-9df98c2",
+          "name": "Café De Rus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-spoek-leeuwarden-6d9baae",
+          "name": "Café De Spoek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+          "name": "Café de Strohoed",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-twin-leeuwarden-0003bb5",
+          "name": "Café De Twin",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-zaak-leeuwarden-cc89001",
+          "name": "Café De Zaak",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-us-mem-leeuwarden-21a91b5",
+          "name": "Café Us Mem",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+          "name": "Café-Bar 't Hoekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "club-z-leeuwarden-aecf644",
+          "name": "Club Z",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+          "name": "De Dikke van Dale",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-markies-leeuwarden-d3d3930",
+          "name": "De Markies",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-prins-h-leeuwarden-bde2dfe",
+          "name": "De Prins 'H.'",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-toeter-leeuwarden-f8ed332",
+          "name": "De Toeter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-spinoza-leeuwarden-0c56246",
+          "name": "Eetcafé Spinoza",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "elzibar-leeuwarden-a07b14c",
+          "name": "Elzibar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+          "name": "Grand Café De Brass",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+          "name": "Grand Café Post-Plaza",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+          "name": "Het Wapen van Leeuwarden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+          "name": "Muziekcafé Scooter's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "oranje-bierhuis-leeuwarden-bf11768",
+          "name": "Oranje Bierhuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "paddy-o-ryan-leeuwarden-20f2717",
+          "name": "Paddy O'Ryan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+          "name": "Swing- & Poolcafé Big Ben",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+          "name": "Vrienden van Leeuwarden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 25,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/lemmer",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-cafe-populair-lemmer-415cf0f",
+          "name": "Bar Café Populair",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+          "name": "Café De Laatste Stuiver",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-le-duc-lemmer-adc5a8b",
+          "name": "Café Le Duc",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-held-van-63-lemmer-de72104",
+          "name": "De Held van 63",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+          "name": "Eetcafé De Eerste Aanleg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-the-british-pub-lemmer-c67c65e",
+          "name": "Eetcafé The British Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "lange-piet-lemmer-c0e9ba4",
+          "name": "Lange Piet",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Café Centrum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 8,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/nes",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
+          "name": "Café De Drie Gemeenten",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+          "name": "Grand Café Brood Ameland",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
+          "name": "Herberg De Waard van Ternaard",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "nes-cafe-nes-b14449a",
+          "name": "Nes Café",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "pub-de-steeg-holwert-910e0a2",
+          "name": "Pub De Steeg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "spoarke-blije-blije-0cf8177",
+          "name": "Spoarke Blije",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 6,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/schiermonnikoog",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-bunte-bok-ljussens-56481fb",
+          "name": "Café De Bûnte Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-kalkman-wierum-bc9219c",
+          "name": "Café De Kalkman",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-zwarte-arend-peazens-5a1a203",
+          "name": "Café De Zwarte Arend",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+          "name": "Het Oude Boothuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "tox-bar-schiermonnikoog-09b0f73",
+          "name": "Tox Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 5,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/sneek",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-ouwe-vat-sneek-4873eaa",
+          "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-singeltje-sneek-2a92fa4",
+          "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-kroon-sneek-ac3c15b",
+          "name": "Café De Kroon",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-fokk-s-sneek-108e0b5",
+          "name": "Café Fokk's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+          "name": "Café Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "club-1841-sneek-dab7a53",
+          "name": "Club 1841",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+          "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-de-walrus-sneek-4998266",
+          "name": "Grand Café De Walrus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "grand-cafe-het-plein-sneek-b93134f",
+          "name": "Grand Café Het Plein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "irish-pub-de-poort-van-cleef-sneek-5acde60",
+          "name": "Irish Pub De Poort van Cleef",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "mootz-sneek-0f73107",
+          "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "noah-eetcafe-sneek-sneek-e3c270c",
+          "name": "NOAH Eetcafé Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "rock-cafe-sneek-sneek-5795887",
+          "name": "Rock Café Sneek",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 14,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/stavoren",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bistro-workum-workum-e121155",
+          "name": "Bistro Workum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "bruin-cafe-licorne-bakhuizen-841e786",
+          "name": "Bruin Café Licorne",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-t-syltsje-bakhuizen-319434c",
+          "name": "Café 't Syltsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-boekanier-hindeloopen-eb8a931",
+          "name": "Café De Boekanier",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+          "name": "Café Restaurant De Smidte",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-spoarsicht-workum-cbd3e82",
+          "name": "Café Spoarsicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-heeren-van-heeres-workum-20eccd7",
+          "name": "De Heeren van Heeres",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-spoorzicht-koudum-aa73210",
+          "name": "Eetcafé Spoorzicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
+          "name": "Eetcafé Tante Sjuul",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "feestcafe-het-swaentje-balk-f467edc",
+          "name": "Feestcafé Het Swaentje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+          "name": "Grand Café It Skippershûs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-kade-stavoren-1996c93",
+          "name": "Grand Café Kade",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "hcr-teernstra-balk-83c5930",
+          "name": "HCR Teernstra",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "waterherberg-it-beaken-heeg-d7ee148",
+          "name": "Waterherberg It Beaken",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 14,
       "needs_review": true
     },
     {
@@ -9728,6 +11924,374 @@
       "needs_review": true
     },
     {
+      "url": "https://uitgaanskaart.nl/cafe/vlieland",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+          "name": "Grand Café De Oude Stoep",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "island-pub-vlieland-f6793f0",
+          "name": "Island Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bar & Rotisserie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 3,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/west-terschelling",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+          "name": "Café 't Zwaantje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-zomer-west-terschelling-54c8f87",
+          "name": "Café de Zomer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-lieman-west-terschelling-3808f8b",
+          "name": "Café Lieman",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "De Vijfpoort",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-dammesaan-midsland-448a367",
+          "name": "Eetcafé de Dammesaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-richel-west-terschelling-47de150",
+          "name": "Eetcafé De Richel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+          "name": "Eetcafé Storm",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+          "name": "Grand Café Restaurant Zeezicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "Ke-Rijf Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "oka-18-west-terschelling-34ccd0e",
+          "name": "Oka 18",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "schotse-vier-midsland-6021740",
+          "name": "Schotse Vier",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 11,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/cafe/wolvega",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-suc-6-wolvega-a6e956e",
+          "name": "Bar Suc 6",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-babbel-wolvega-be5a7b9",
+          "name": "Café De Babbel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-landerije-steggerda-2dfe96e",
+          "name": "Café De Landerije",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
+          "name": "Café De Schieve Deure",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-wever-oldeholtpade-83fe9b9",
+          "name": "Eetcafé Wever",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "pub-84-wolvega-dda02b5",
+          "name": "Pub '84",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 6,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/dokkum",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+          "name": "Bar Dancing De Ponderosa",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-de-swalker-dokkum-0b7b92d",
+          "name": "Café De Swalker",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "club33-dokkum-e7228a2",
+          "name": "Club33",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
+          "name": "Grand Café Abdij Dokkum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-de-waegh-dokkum-7305178",
+          "name": "Grand Café de Waegh",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "halve-maan-dokkum-a6661d3",
+          "name": "Halve Maan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "kb-food-drinks-dokkum-b461630",
+          "name": "KB Food & Drinks",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "stadscafe-artisante-dokkum-284998e",
+          "name": "Stadscafé Artisante",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 8,
+      "needs_review": true
+    },
+    {
+      "url": "https://uitgaanskaart.nl/provincie/friesland",
+      "domain": "uitgaanskaart.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://uitheerenveen.com/uitgaan/",
+      "domain": "uitheerenveen.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://uitleeuwarden.com/uitgaan/",
+      "domain": "uitleeuwarden.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://uitsneek.com/uitgaan/",
+      "domain": "uitsneek.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
       "url": "https://www.uitutrecht.com/uitgaan/",
       "domain": "uitutrecht.com",
       "first_registered_on": "2026-10-26",
@@ -9738,6 +12302,60 @@
         "terugkerende_vindplaats"
       ],
       "venues": [
+        {
+          "id": "t-gras-van-de-buren-29923a1",
+          "name": "’t Gras van de Buren",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-neutje-727f3da",
+          "name": "’t Neutje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "t-oude-pothuys-c89ea4d",
+          "name": "’t Oude Pothuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pakhuis-e59df99",
+          "name": "’t Pakhuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "t-pandje-323e93f",
+          "name": "’t Pandje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "t-taphuys-508fc53",
+          "name": "’t Taphuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
         {
           "id": "achter-de-koekoek-3ed99c6",
           "name": "Achter de Koekoek",
@@ -9901,53 +12519,8 @@
           "needs_review": false
         },
         {
-          "id": "t-gras-van-de-buren-29923a1",
-          "name": "’t Gras van de Buren",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-neutje-727f3da",
-          "name": "’t Neutje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "t-oude-pothuys-c89ea4d",
-          "name": "’t Oude Pothuys",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pakhuis-e59df99",
-          "name": "’t Pakhuis",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "t-pandje-323e93f",
-          "name": "’t Pandje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "t-taphuys-508fc53",
-          "name": "’t Taphuys",
+          "id": "dito-bfdb022",
+          "name": "Dito",
           "roles": [
             "achtergrond"
           ],
@@ -9956,7 +12529,7 @@
         }
       ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 24,
+      "linked_venue_count": 25,
       "needs_review": true
     },
     {
@@ -9981,6 +12554,15 @@
         {
           "id": "brouwerij-maximus-f8e6ec6",
           "name": "Brouwerij Maximus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        },
+        {
+          "id": "cafe-t-oude-pierement-254647b",
+          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -10188,15 +12770,6 @@
         {
           "id": "cafe-willem-slok-7402de0",
           "name": "Café Willem Slok",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
-          "id": "cafe-t-oude-pierement-254647b",
-          "name": "Café ’t Oude Pierement",
           "roles": [
             "achtergrond"
           ],
@@ -10573,7 +13146,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
@@ -11126,7 +13699,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "manners-cocktail-lounge-1a48ee6",
@@ -11167,7 +13740,7 @@
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 6,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.uu.nl/organisatie/praktische-zaken/facilitair/catering",
@@ -11395,6 +13968,20 @@
       "needs_review": true
     },
     {
+      "url": "https://visitleeuwarden.com/doen/uitgaan/",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
       "url": "https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus",
       "domain": "visitutrechtregion.com",
       "first_registered_on": "2026-10-26",
@@ -11418,6 +14005,222 @@
       ],
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "halve-maan-dokkum-a6661d3",
+          "name": "Halve Maan",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
+          "name": "Café Restaurant De Watersport",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-pleats-woudsend-0d71b79",
+          "name": "Eetcafé De Pleats",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-walrus-sneek-4998266",
+          "name": "Grand Café De Walrus",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "it-reade-hynder-wommels-0121f4b",
+          "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-jongens-van-joure-joure-de09c9b",
+          "name": "Grand Café De Jongens van Joure",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "spot-langweer-langweer-86e2261",
+          "name": "SPOT Langweer",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://www.waterlandvanfriesland.nl/nl/plan-je-bezoek/eten-en-drinken/cafes-en-bars",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
       "needs_review": false
     },
     {
@@ -11585,25 +14388,67 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.zuidoostfriesland.nl/bezoeken/eten-drinken/alle-horecagelegenheden",
+      "domain": "zuidoostfriesland.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "terugkerende_vindplaats"
+      ],
+      "venues": [],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 0,
+      "needs_review": false
     }
   ],
   "next_review": {
     "missing_websites": [
       {
+        "id": "t-kannet-heerenveen-75a1ed4",
+        "name": "'t Kannet"
+      },
+      {
+        "id": "t-oude-pothuys-c89ea4d",
+        "name": "’t Oude Pothuys"
+      },
+      {
+        "id": "t-ouwe-vat-sneek-4873eaa",
+        "name": "'t Ouwe Vat"
+      },
+      {
         "id": "achter-de-koekoek-3ed99c6",
         "name": "Achter de Koekoek"
       },
       {
-        "id": "b-i-t-o-n-e63cfb6",
-        "name": "B.I.T.O.N."
+        "id": "amelander-bierbrouwerij-ballum-32e95e9",
+        "name": "Amelander Bierbrouwerij"
       },
       {
         "id": "back-fourth-c714b19",
         "name": "Back & Fourth"
       },
       {
+        "id": "bar-1908-franeker-8dcc574",
+        "name": "Bar 1908"
+      },
+      {
         "id": "bar-beton-76def5a",
         "name": "Bar Beton"
+      },
+      {
+        "id": "bar-cafe-populair-lemmer-415cf0f",
+        "name": "Bar Café Populair"
+      },
+      {
+        "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+        "name": "Bar Dancing De Ponderosa"
+      },
+      {
+        "id": "bar-de-bock-harlingen-33ab930",
+        "name": "Bar de Bock"
       },
       {
         "id": "bar-kaap-0af2c4b",
@@ -11614,6 +14459,14 @@
         "name": "Bar Pleur"
       },
       {
+        "id": "bar-suc-6-wolvega-a6e956e",
+        "name": "Bar Suc 6"
+      },
+      {
+        "id": "bar-sybs-leeuwarden-71570c8",
+        "name": "Bar Sybs"
+      },
+      {
         "id": "bassment-7cf6c51",
         "name": "Bassment"
       },
@@ -11622,16 +14475,244 @@
         "name": "Beatrix Theater (Royal Bar)"
       },
       {
+        "id": "bistro-workum-workum-e121155",
+        "name": "Bistro Workum"
+      },
+      {
+        "id": "bruin-cafe-licorne-bakhuizen-841e786",
+        "name": "Bruin Café Licorne"
+      },
+      {
+        "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
+        "name": "Café 't Bildt"
+      },
+      {
+        "id": "cafe-t-diekje-bolsward-89f46bb",
+        "name": "Café 't Diekje"
+      },
+      {
+        "id": "cafe-t-hert-joure-175cdd8",
+        "name": "Café 't Hert"
+      },
+      {
+        "id": "cafe-t-noorderke-harlingen-9f9ff92",
+        "name": "Café 't Noorderke"
+      },
+      {
+        "id": "cafe-t-singeltje-sneek-2a92fa4",
+        "name": "Café 't Singeltje"
+      },
+      {
+        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+        "name": "Café 't Skoffeltsje"
+      },
+      {
+        "id": "cafe-t-skutsje-sneek-550e03d",
+        "name": "Café 't Skûtsje"
+      },
+      {
+        "id": "cafe-t-skutsje-harlingen-ea324fd",
+        "name": "Café 't Skûtsje"
+      },
+      {
+        "id": "cafe-t-syl-joure-a95c827",
+        "name": "Café 't Syl"
+      },
+      {
+        "id": "cafe-t-syltsje-bakhuizen-319434c",
+        "name": "Café 't Syltsje"
+      },
+      {
+        "id": "cafe-t-waldmantsje-drachten-acaeeab",
+        "name": "Café 't Waldmantsje"
+      },
+      {
+        "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+        "name": "Café 't Zwaantje"
+      },
+      {
+        "id": "cafe-bak-heerenveen-8f34eb5",
+        "name": "Café Bak"
+      },
+      {
+        "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+        "name": "Café Bar 't Skûtsje"
+      },
+      {
+        "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+        "name": "Café Bar De Welp"
+      },
+      {
+        "id": "cafe-bleeker-heerenveen-84c5dae",
+        "name": "Café Bleeker"
+      },
+      {
+        "id": "cafe-bok-hollum-f23e5ba",
+        "name": "Café Bok"
+      },
+      {
+        "id": "cafe-d-oude-oost-grou-006c9f7",
+        "name": "Café d'Oude Oost"
+      },
+      {
         "id": "cafe-de-achtertuin-61a6f9a",
         "name": "Café de Achtertuin"
+      },
+      {
+        "id": "cafe-de-babbel-wolvega-be5a7b9",
+        "name": "Café De Babbel"
       },
       {
         "id": "cafe-de-binnenstad-f53bd1f",
         "name": "Café De Binnenstad"
       },
       {
+        "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+        "name": "Café De Blauwe Kater"
+      },
+      {
+        "id": "cafe-de-boekanier-hindeloopen-eb8a931",
+        "name": "Café De Boekanier"
+      },
+      {
+        "id": "cafe-de-bunte-bok-ljussens-56481fb",
+        "name": "Café De Bûnte Bok"
+      },
+      {
+        "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
+        "name": "Café De Drie Gemeenten"
+      },
+      {
+        "id": "cafe-de-finne-reahus-fedc896",
+        "name": "Café De Finne"
+      },
+      {
+        "id": "cafe-de-harmonie-sexbierum-384aca7",
+        "name": "Café De Harmonie"
+      },
+      {
+        "id": "cafe-de-hollandse-kus-pingjum-9c0a58a",
+        "name": "Café De Hollandse Kus"
+      },
+      {
+        "id": "cafe-de-kalkman-wierum-bc9219c",
+        "name": "Café De Kalkman"
+      },
+      {
+        "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+        "name": "Café De Kleine Beurs"
+      },
+      {
+        "id": "cafe-de-kroon-sneek-ac3c15b",
+        "name": "Café De Kroon"
+      },
+      {
+        "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+        "name": "Café De Laatste Stuiver"
+      },
+      {
+        "id": "cafe-de-landerije-steggerda-2dfe96e",
+        "name": "Café De Landerije"
+      },
+      {
+        "id": "cafe-de-lits-rottevalle-27df1a4",
+        "name": "Café De Lits"
+      },
+      {
+        "id": "cafe-de-oase-heerenveen-051008c",
+        "name": "Café De Oase"
+      },
+      {
+        "id": "cafe-de-otterbar-witmarsum-52640a7",
+        "name": "Café De Otterbar"
+      },
+      {
+        "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+        "name": "Café De Ouwe Stoep"
+      },
+      {
+        "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+        "name": "Café de Pastorie"
+      },
+      {
+        "id": "cafe-de-rus-leeuwarden-9df98c2",
+        "name": "Café De Rus"
+      },
+      {
+        "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
+        "name": "Café De Schieve Deure"
+      },
+      {
+        "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+        "name": "Café de Strohoed"
+      },
+      {
+        "id": "cafe-de-swalker-dokkum-0b7b92d",
+        "name": "Café De Swalker"
+      },
+      {
+        "id": "cafe-de-swetser-heerenveen-7013b57",
+        "name": "Café De Swetser"
+      },
+      {
+        "id": "cafe-de-twin-leeuwarden-0003bb5",
+        "name": "Café De Twin"
+      },
+      {
         "id": "cafe-de-windhoek-f51951b",
         "name": "Café de Windhoek"
+      },
+      {
+        "id": "cafe-de-zaak-leeuwarden-cc89001",
+        "name": "Café De Zaak"
+      },
+      {
+        "id": "cafe-de-zomer-west-terschelling-54c8f87",
+        "name": "Café de Zomer"
+      },
+      {
+        "id": "cafe-de-zwarte-arend-peazens-5a1a203",
+        "name": "Café De Zwarte Arend"
+      },
+      {
+        "id": "cafe-den-smeerpaal-harlingen-2b618ef",
+        "name": "Café Den Smeerpaal"
+      },
+      {
+        "id": "cafe-fokk-s-sneek-108e0b5",
+        "name": "Café Fokk's"
+      },
+      {
+        "id": "cafe-gewoan-sven-harlingen-dccd931",
+        "name": "Café Gewoán Sven"
+      },
+      {
+        "id": "cafe-het-raadhuys-drachten-085a1a5",
+        "name": "Café Het Raadhuys"
+      },
+      {
+        "id": "cafe-hopper-drachten-a7ebfcb",
+        "name": "Café Hopper"
+      },
+      {
+        "id": "cafe-it-alde-ste-ureterp-a8f9378",
+        "name": "Café It Alde Ste"
+      },
+      {
+        "id": "cafe-it-kin-net-bolsward-75feb60",
+        "name": "Café It Kin Net"
+      },
+      {
+        "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
+        "name": "Café Kompenije"
+      },
+      {
+        "id": "cafe-le-duc-lemmer-adc5a8b",
+        "name": "Café Le Duc"
+      },
+      {
+        "id": "cafe-lieman-west-terschelling-3808f8b",
+        "name": "Café Lieman"
       },
       {
         "id": "cafe-ome-willem-fd1198a",
@@ -11642,8 +14723,56 @@
         "name": "Café Ons Honk"
       },
       {
+        "id": "cafe-pietje-bel-drachten-5eb1428",
+        "name": "Café Pietje Bel"
+      },
+      {
+        "id": "cafe-rednick-harlingen-11c235b",
+        "name": "Café Rednick"
+      },
+      {
+        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+        "name": "Café Restaurant De Kajuit"
+      },
+      {
+        "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+        "name": "Café Restaurant De Smidte"
+      },
+      {
+        "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
+        "name": "Café Restaurant De Watersport"
+      },
+      {
+        "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+        "name": "Café Restaurant De Zwaan"
+      },
+      {
+        "id": "cafe-romano-makkum-9aa61f4",
+        "name": "Café Romano"
+      },
+      {
+        "id": "cafe-spoarsicht-workum-cbd3e82",
+        "name": "Café Spoarsicht"
+      },
+      {
+        "id": "cafe-sportlust-houtigehage-5fee14e",
+        "name": "Café Sportlust"
+      },
+      {
         "id": "cafe-stockholm-41ae3c5",
         "name": "Café Stockholm"
+      },
+      {
+        "id": "cafe-tsjoch-drachten-c5fc2de",
+        "name": "Café Tsjoch"
+      },
+      {
+        "id": "cafe-us-mem-leeuwarden-21a91b5",
+        "name": "Café Us Mem"
+      },
+      {
+        "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+        "name": "Café-Bar 't Hoekje"
       },
       {
         "id": "cambridgebar-c5c7346",
@@ -11658,36 +14787,192 @@
         "name": "Champañeria Los Amigos"
       },
       {
+        "id": "club-1841-sneek-dab7a53",
+        "name": "Club 1841"
+      },
+      {
+        "id": "club-z-leeuwarden-aecf644",
+        "name": "Club Z"
+      },
+      {
+        "id": "club33-dokkum-e7228a2",
+        "name": "Club33"
+      },
+      {
+        "id": "danscafe-tante-sientje-drachten-b8e305c",
+        "name": "Danscafé Tante Sientje"
+      },
+      {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
+      },
+      {
+        "id": "de-babbelaar-burgum-5796776",
+        "name": "De Babbelaar"
+      },
+      {
+        "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+        "name": "De Bocht fen Guné"
+      },
+      {
+        "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+        "name": "De Dikke van Dale"
       },
       {
         "id": "de-drie-dorstige-herten-d5c9f1a",
         "name": "De Drie Dorstige Herten"
       },
       {
+        "id": "de-fantast-jirnsum-c4f5cbd",
+        "name": "De Fantast"
+      },
+      {
+        "id": "de-freonskip-blauwhuis-6bea40d",
+        "name": "De Freonskip"
+      },
+      {
+        "id": "de-heeren-van-heeres-workum-20eccd7",
+        "name": "De Heeren van Heeres"
+      },
+      {
+        "id": "de-held-van-63-lemmer-de72104",
+        "name": "De Held van 63"
+      },
+      {
+        "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+        "name": "De Hut van Oom Tom"
+      },
+      {
+        "id": "de-kroeg-heerenveen-9b76232",
+        "name": "De Kroeg"
+      },
+      {
+        "id": "de-markies-leeuwarden-d3d3930",
+        "name": "De Markies"
+      },
+      {
         "id": "de-prediker-20261029",
         "name": "De Prediker"
+      },
+      {
+        "id": "de-prins-h-leeuwarden-bde2dfe",
+        "name": "De Prins 'H.'"
       },
       {
         "id": "de-stadsgenoot-c71911a",
         "name": "De Stadsgenoot"
       },
       {
+        "id": "de-toeter-leeuwarden-f8ed332",
+        "name": "De Toeter"
+      },
+      {
         "id": "de-troef-spelletjescafe-7a45c78",
         "name": "De Troef spelletjescafé"
+      },
+      {
+        "id": "de-vijfpoort-formerum-fa6312a",
+        "name": "De Vijfpoort"
+      },
+      {
+        "id": "de-welvaart-hollum-8afd4cb",
+        "name": "De Welvaart"
       },
       {
         "id": "dito-bfdb022",
         "name": "Dito"
       },
       {
+        "id": "eetcafe-t-roodhert-burgum-549ff10",
+        "name": "Eetcafé 't Roodhert"
+      },
+      {
+        "id": "eetcafe-55-bolsward-c23ffd7",
+        "name": "Eetcafé 55"
+      },
+      {
+        "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
+        "name": "Eetcafé De 2 Gemeenten"
+      },
+      {
+        "id": "eetcafe-de-boerderij-ballum-984f881",
+        "name": "Eetcafé De Boerderij"
+      },
+      {
+        "id": "eetcafe-de-dammesaan-midsland-448a367",
+        "name": "Eetcafé de Dammesaan"
+      },
+      {
+        "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+        "name": "Eetcafé De Eerste Aanleg"
+      },
+      {
+        "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+        "name": "Eetcafé De Gondel"
+      },
+      {
+        "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+        "name": "Eetcafé De Lachende Koe"
+      },
+      {
+        "id": "eetcafe-de-pleats-woudsend-0d71b79",
+        "name": "Eetcafé De Pleats"
+      },
+      {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Eetcafé De Richel"
+      },
+      {
+        "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
+        "name": "Eetcafé De Smalle Kant"
+      },
+      {
+        "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+        "name": "Eetcafé Kromme Knilles"
+      },
+      {
+        "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+        "name": "Eetcafé Nooitgedagt"
+      },
+      {
+        "id": "eetcafe-spinoza-leeuwarden-0c56246",
+        "name": "Eetcafé Spinoza"
+      },
+      {
+        "id": "eetcafe-spoorzicht-koudum-aa73210",
+        "name": "Eetcafé Spoorzicht"
+      },
+      {
+        "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+        "name": "Eetcafé Storm"
+      },
+      {
+        "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
+        "name": "Eetcafé Tante Sjuul"
+      },
+      {
+        "id": "eetcafe-the-british-pub-lemmer-c67c65e",
+        "name": "Eetcafé The British Pub"
+      },
+      {
+        "id": "eetcafe-wever-oldeholtpade-83fe9b9",
+        "name": "Eetcafé Wever"
+      },
+      {
         "id": "eleven-bar-7223a88",
         "name": "Eleven Bar"
       },
       {
+        "id": "elzibar-leeuwarden-a07b14c",
+        "name": "Elzibar"
+      },
+      {
         "id": "en-public-fc651ee",
         "name": "En Public"
+      },
+      {
+        "id": "feestcafe-het-swaentje-balk-f467edc",
+        "name": "Feestcafé Het Swaentje"
       },
       {
         "id": "ginny-348e59e",
@@ -11698,12 +14983,132 @@
         "name": "Grand Bar & Brasserie Marie"
       },
       {
+        "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
+        "name": "Grand Café Abdij Dokkum"
+      },
+      {
+        "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+        "name": "Grand Café Bowling de Kaden"
+      },
+      {
+        "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+        "name": "Grand Café Brood Ameland"
+      },
+      {
+        "id": "grand-cafe-bullock-bolsward-e66a509",
+        "name": "Grand Café Bullock"
+      },
+      {
+        "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+        "name": "Grand Café De Brass"
+      },
+      {
+        "id": "grand-cafe-de-doelen-franeker-8aee2be",
+        "name": "Grand Café De Doelen"
+      },
+      {
+        "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
+        "name": "Grand Café De Oranjerie"
+      },
+      {
+        "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+        "name": "Grand Café De Oude Stoep"
+      },
+      {
         "id": "grand-cafe-de-vrienden-45afa11",
         "name": "Grand Café De Vrienden"
       },
       {
+        "id": "grand-cafe-de-waegh-dokkum-7305178",
+        "name": "Grand Café de Waegh"
+      },
+      {
+        "id": "grand-cafe-het-plein-sneek-b93134f",
+        "name": "Grand Café Het Plein"
+      },
+      {
+        "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+        "name": "Grand Café It Skippershûs"
+      },
+      {
+        "id": "grand-cafe-jan-wergea-08f70f7",
+        "name": "Grand Café Jan"
+      },
+      {
+        "id": "grand-cafe-kade-stavoren-1996c93",
+        "name": "Grand Café Kade"
+      },
+      {
+        "id": "grand-cafe-levels-harlingen-fe09531",
+        "name": "Grand Café Levels"
+      },
+      {
+        "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+        "name": "Grand Café Post-Plaza"
+      },
+      {
+        "id": "grand-cafe-promenade-harlingen-f6e911b",
+        "name": "Grand Café Promenade"
+      },
+      {
+        "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+        "name": "Grand Café Restaurant Zeezicht"
+      },
+      {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
+      },
+      {
+        "id": "halve-maan-dokkum-a6661d3",
+        "name": "Halve Maan"
+      },
+      {
+        "id": "harbour-pub-harlingen-7da020c",
+        "name": "Harbour Pub"
+      },
+      {
+        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+        "name": "Havenbrouwerij Het Brouwdok"
+      },
+      {
+        "id": "hcr-teernstra-balk-83c5930",
+        "name": "HCR Teernstra"
+      },
+      {
+        "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
+        "name": "Herberg De Gekroonde Leeuw"
+      },
+      {
+        "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
+        "name": "Herberg De Waard van Ternaard"
+      },
+      {
+        "id": "herberg-de-zwaan-hollum-b0512f5",
+        "name": "Herberg De Zwaan"
+      },
+      {
+        "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+        "name": "Het Oude Boothuis"
+      },
+      {
+        "id": "het-stamcafe-heerenveen-b1c29a4",
+        "name": "Het Stamcafé"
+      },
+      {
+        "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+        "name": "Het Wapen van Leeuwarden"
+      },
+      {
+        "id": "island-pub-vlieland-f6793f0",
+        "name": "Island Pub"
+      },
+      {
+        "id": "it-houtsje-heerenveen-d2248cf",
+        "name": "It Houtsje"
+      },
+      {
+        "id": "it-reade-hynder-wommels-0121f4b",
+        "name": "It Reade Hynder"
       },
       {
         "id": "jan-de-winter-720539c",
@@ -11726,8 +15131,24 @@
         "name": "Kadet"
       },
       {
+        "id": "kafee-8-drachten-e7c0e2d",
+        "name": "Kafee 8"
+      },
+      {
+        "id": "kb-food-drinks-dokkum-b461630",
+        "name": "KB Food & Drinks"
+      },
+      {
+        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+        "name": "Ke-Rijf Bar"
+      },
+      {
         "id": "kweekvijver-utrecht-c5d2c85",
         "name": "KweekVijver Utrecht"
+      },
+      {
+        "id": "lange-piet-lemmer-c0e9ba4",
+        "name": "Lange Piet"
       },
       {
         "id": "lebowskis-speakeasy-2a1a46d",
@@ -11742,6 +15163,10 @@
         "name": "Little Dublin"
       },
       {
+        "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
+        "name": "Ma Kelly's Muziekcafé"
+      },
+      {
         "id": "manners-cocktail-lounge-1a48ee6",
         "name": "Manners Cocktail Lounge"
       },
@@ -11754,6 +15179,18 @@
         "name": "Molencafé De Ster"
       },
       {
+        "id": "mootz-sneek-0f73107",
+        "name": "Mootz"
+      },
+      {
+        "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+        "name": "Muziekcafé Scooter's"
+      },
+      {
+        "id": "nes-cafe-nes-b14449a",
+        "name": "Nes Café"
+      },
+      {
         "id": "nieuwe-dikke-dries-c9188df",
         "name": "Nieuwe Dikke Dries"
       },
@@ -11762,8 +15199,28 @@
         "name": "Nieuwe Dikke Dries Oost"
       },
       {
+        "id": "njoy-poolcentrum-drachten-f14f10e",
+        "name": "Njoy Poolcentrum"
+      },
+      {
+        "id": "noah-eetcafe-sneek-sneek-e3c270c",
+        "name": "NOAH Eetcafé Sneek"
+      },
+      {
+        "id": "olearys-e541c8d",
+        "name": "O’Leary’s"
+      },
+      {
+        "id": "oka-18-west-terschelling-34ccd0e",
+        "name": "Oka 18"
+      },
+      {
         "id": "op-roose-dbd6d71",
         "name": "Op Roose"
+      },
+      {
+        "id": "oranje-bierhuis-leeuwarden-bf11768",
+        "name": "Oranje Bierhuis"
       },
       {
         "id": "orloff-5c10a36",
@@ -11774,16 +15231,32 @@
         "name": "Orloff aan de Kade"
       },
       {
-        "id": "olearys-e541c8d",
-        "name": "O’Leary’s"
+        "id": "paddy-o-ryan-leeuwarden-20f2717",
+        "name": "Paddy O'Ryan"
       },
       {
         "id": "papis-comfort-kitchen-bf4bc0e",
         "name": "Papi’s Comfort Kitchen"
       },
       {
+        "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+        "name": "Paultje Café Restaurant"
+      },
+      {
         "id": "pjay-ec4ee67",
         "name": "Pjay"
+      },
+      {
+        "id": "pub-84-wolvega-dda02b5",
+        "name": "Pub '84"
+      },
+      {
+        "id": "pub-de-steeg-holwert-910e0a2",
+        "name": "Pub De Steeg"
+      },
+      {
+        "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+        "name": "Restaurant Café Centrum"
       },
       {
         "id": "restaurant-de-zakkendrager-ae31744",
@@ -11792,6 +15265,10 @@
       {
         "id": "restaurant-pieros-62374f3",
         "name": "Restaurant Piero’s"
+      },
+      {
+        "id": "rock-cafe-sneek-sneek-5795887",
+        "name": "Rock Café Sneek"
       },
       {
         "id": "rocking-chair-c8ed632",
@@ -11806,8 +15283,20 @@
         "name": "S.S.R-N.U."
       },
       {
+        "id": "schotse-vier-midsland-6021740",
+        "name": "Schotse Vier"
+      },
+      {
         "id": "slachtstraat-filmtheater-3db7b64",
         "name": "Slachtstraat Filmtheater"
+      },
+      {
+        "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+        "name": "Snooker & Pool Centrum Heerenveen"
+      },
+      {
+        "id": "spoarke-blije-blije-0cf8177",
+        "name": "Spoarke Blije"
       },
       {
         "id": "sportcafe-olympos-d566186",
@@ -11818,12 +15307,32 @@
         "name": "Sportcafé Tropical"
       },
       {
+        "id": "spot-langweer-langweer-86e2261",
+        "name": "SPOT Langweer"
+      },
+      {
+        "id": "stadscafe-artisante-dokkum-284998e",
+        "name": "Stadscafé Artisante"
+      },
+      {
         "id": "stadsschouwburg-utrecht-fc1adf8",
         "name": "Stadsschouwburg Utrecht"
       },
       {
+        "id": "stoker-koffiebar-joure-b54d49f",
+        "name": "Stoker Koffiebar"
+      },
+      {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
+      },
+      {
+        "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+        "name": "Swing- & Poolcafé Big Ben"
+      },
+      {
+        "id": "tapperij-t-noord-franeker-340a463",
+        "name": "Tapperij 't Noord"
       },
       {
         "id": "the-5th-e5c8746",
@@ -11834,12 +15343,24 @@
         "name": "The Fools Cocktail Bar"
       },
       {
+        "id": "the-pub-public-underground-bar-harlingen-5144488",
+        "name": "The Pub - Public Underground Bar"
+      },
+      {
         "id": "tijm-d1d43a8",
         "name": "Tijm"
       },
       {
+        "id": "tox-bar-schiermonnikoog-09b0f73",
+        "name": "Tox Bar"
+      },
+      {
         "id": "trapop-058033a",
         "name": "Trapop"
+      },
+      {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Treemter"
       },
       {
         "id": "tripleclub-dbaf6ca",
@@ -11866,12 +15387,24 @@
         "name": "Vondels Chefs Bar"
       },
       {
+        "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+        "name": "Vrienden van Leeuwarden"
+      },
+      {
         "id": "was-3ef3647",
         "name": "WAS."
       },
       {
+        "id": "waterherberg-it-beaken-heeg-d7ee148",
+        "name": "Waterherberg It Beaken"
+      },
+      {
         "id": "werkspoorcafe-1e5e832",
         "name": "Werkspoorcafé"
+      },
+      {
+        "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+        "name": "Wijn-, Tap- & Eethuis Amicaal"
       },
       {
         "id": "wijnbar-vino-ae6ef03",
@@ -11882,11 +15415,19 @@
         "name": "Woolloomooloo"
       },
       {
-        "id": "t-oude-pothuys-c89ea4d",
-        "name": "’t Oude Pothuys"
+        "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+        "name": "ZeeVaert Bar & Rotisserie"
       }
     ],
     "unknown_friday_closing": [
+      {
+        "id": "t-kannet-heerenveen-75a1ed4",
+        "name": "'t Kannet"
+      },
+      {
+        "id": "t-ouwe-vat-sneek-4873eaa",
+        "name": "'t Ouwe Vat"
+      },
       {
         "id": "achter-de-koekoek-3ed99c6",
         "name": "Achter de Koekoek"
@@ -11896,8 +15437,16 @@
         "name": "ACU"
       },
       {
+        "id": "amelander-bierbrouwerij-ballum-32e95e9",
+        "name": "Amelander Bierbrouwerij"
+      },
+      {
         "id": "b-i-t-o-n-e63cfb6",
         "name": "B.I.T.O.N."
+      },
+      {
+        "id": "bar-1908-franeker-8dcc574",
+        "name": "Bar 1908"
       },
       {
         "id": "bar-basta-5726ebe",
@@ -11906,6 +15455,18 @@
       {
         "id": "bar-beton-76def5a",
         "name": "Bar Beton"
+      },
+      {
+        "id": "bar-cafe-populair-lemmer-415cf0f",
+        "name": "Bar Café Populair"
+      },
+      {
+        "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+        "name": "Bar Dancing De Ponderosa"
+      },
+      {
+        "id": "bar-de-bock-harlingen-33ab930",
+        "name": "Bar de Bock"
       },
       {
         "id": "bar-josefien-a5ca3eb",
@@ -11920,12 +15481,24 @@
         "name": "Bar Pleur"
       },
       {
+        "id": "bar-suc-6-wolvega-a6e956e",
+        "name": "Bar Suc 6"
+      },
+      {
+        "id": "bar-sybs-leeuwarden-71570c8",
+        "name": "Bar Sybs"
+      },
+      {
         "id": "bassment-7cf6c51",
         "name": "Bassment"
       },
       {
         "id": "bij-guusjes-fd4468d",
         "name": "Bij Guusjes"
+      },
+      {
+        "id": "bistro-workum-workum-e121155",
+        "name": "Bistro Workum"
       },
       {
         "id": "boot-122-45b992e",
@@ -11936,24 +15509,296 @@
         "name": "Broadway American Steakhouse"
       },
       {
+        "id": "bruin-cafe-licorne-bakhuizen-841e786",
+        "name": "Bruin Café Licorne"
+      },
+      {
+        "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
+        "name": "Café 't Bildt"
+      },
+      {
+        "id": "cafe-t-diekje-bolsward-89f46bb",
+        "name": "Café 't Diekje"
+      },
+      {
+        "id": "cafe-t-hert-joure-175cdd8",
+        "name": "Café 't Hert"
+      },
+      {
+        "id": "cafe-t-noorderke-harlingen-9f9ff92",
+        "name": "Café 't Noorderke"
+      },
+      {
+        "id": "cafe-t-singeltje-sneek-2a92fa4",
+        "name": "Café 't Singeltje"
+      },
+      {
+        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+        "name": "Café 't Skoffeltsje"
+      },
+      {
+        "id": "cafe-t-skutsje-sneek-550e03d",
+        "name": "Café 't Skûtsje"
+      },
+      {
+        "id": "cafe-t-skutsje-harlingen-ea324fd",
+        "name": "Café 't Skûtsje"
+      },
+      {
+        "id": "cafe-t-syl-joure-a95c827",
+        "name": "Café 't Syl"
+      },
+      {
+        "id": "cafe-t-syltsje-bakhuizen-319434c",
+        "name": "Café 't Syltsje"
+      },
+      {
+        "id": "cafe-t-waldmantsje-drachten-acaeeab",
+        "name": "Café 't Waldmantsje"
+      },
+      {
+        "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+        "name": "Café 't Zwaantje"
+      },
+      {
+        "id": "cafe-bak-heerenveen-8f34eb5",
+        "name": "Café Bak"
+      },
+      {
+        "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+        "name": "Café Bar 't Skûtsje"
+      },
+      {
+        "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+        "name": "Café Bar De Welp"
+      },
+      {
+        "id": "cafe-bleeker-heerenveen-84c5dae",
+        "name": "Café Bleeker"
+      },
+      {
+        "id": "cafe-bok-hollum-f23e5ba",
+        "name": "Café Bok"
+      },
+      {
+        "id": "cafe-d-oude-oost-grou-006c9f7",
+        "name": "Café d'Oude Oost"
+      },
+      {
+        "id": "cafe-de-babbel-wolvega-be5a7b9",
+        "name": "Café De Babbel"
+      },
+      {
         "id": "cafe-de-beurs-d9ec97a",
         "name": "Café de Beurs"
+      },
+      {
+        "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+        "name": "Café De Blauwe Kater"
+      },
+      {
+        "id": "cafe-de-boekanier-hindeloopen-eb8a931",
+        "name": "Café De Boekanier"
+      },
+      {
+        "id": "cafe-de-bunte-bok-ljussens-56481fb",
+        "name": "Café De Bûnte Bok"
+      },
+      {
+        "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
+        "name": "Café De Drie Gemeenten"
+      },
+      {
+        "id": "cafe-de-finne-reahus-fedc896",
+        "name": "Café De Finne"
+      },
+      {
+        "id": "cafe-de-harmonie-sexbierum-384aca7",
+        "name": "Café De Harmonie"
+      },
+      {
+        "id": "cafe-de-hollandse-kus-pingjum-9c0a58a",
+        "name": "Café De Hollandse Kus"
+      },
+      {
+        "id": "cafe-de-kalkman-wierum-bc9219c",
+        "name": "Café De Kalkman"
+      },
+      {
+        "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+        "name": "Café De Kleine Beurs"
+      },
+      {
+        "id": "cafe-de-kroon-sneek-ac3c15b",
+        "name": "Café De Kroon"
+      },
+      {
+        "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+        "name": "Café De Laatste Stuiver"
+      },
+      {
+        "id": "cafe-de-landerije-steggerda-2dfe96e",
+        "name": "Café De Landerije"
+      },
+      {
+        "id": "cafe-de-lits-rottevalle-27df1a4",
+        "name": "Café De Lits"
+      },
+      {
+        "id": "cafe-de-oase-heerenveen-051008c",
+        "name": "Café De Oase"
+      },
+      {
+        "id": "cafe-de-otterbar-witmarsum-52640a7",
+        "name": "Café De Otterbar"
+      },
+      {
+        "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+        "name": "Café De Ouwe Stoep"
+      },
+      {
+        "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+        "name": "Café de Pastorie"
+      },
+      {
+        "id": "cafe-de-rus-leeuwarden-9df98c2",
+        "name": "Café De Rus"
+      },
+      {
+        "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
+        "name": "Café De Schieve Deure"
+      },
+      {
+        "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+        "name": "Café de Strohoed"
+      },
+      {
+        "id": "cafe-de-swalker-dokkum-0b7b92d",
+        "name": "Café De Swalker"
+      },
+      {
+        "id": "cafe-de-swetser-heerenveen-7013b57",
+        "name": "Café De Swetser"
+      },
+      {
+        "id": "cafe-de-twin-leeuwarden-0003bb5",
+        "name": "Café De Twin"
       },
       {
         "id": "cafe-de-windhoek-f51951b",
         "name": "Café de Windhoek"
       },
       {
+        "id": "cafe-de-zaak-leeuwarden-cc89001",
+        "name": "Café De Zaak"
+      },
+      {
+        "id": "cafe-de-zomer-west-terschelling-54c8f87",
+        "name": "Café de Zomer"
+      },
+      {
+        "id": "cafe-de-zwarte-arend-peazens-5a1a203",
+        "name": "Café De Zwarte Arend"
+      },
+      {
+        "id": "cafe-den-smeerpaal-harlingen-2b618ef",
+        "name": "Café Den Smeerpaal"
+      },
+      {
+        "id": "cafe-fokk-s-sneek-108e0b5",
+        "name": "Café Fokk's"
+      },
+      {
+        "id": "cafe-gewoan-sven-harlingen-dccd931",
+        "name": "Café Gewoán Sven"
+      },
+      {
         "id": "cafe-heen-en-weer-0a8d54c",
         "name": "Café Heen en Weer"
+      },
+      {
+        "id": "cafe-het-raadhuys-drachten-085a1a5",
+        "name": "Café Het Raadhuys"
+      },
+      {
+        "id": "cafe-hopper-drachten-a7ebfcb",
+        "name": "Café Hopper"
+      },
+      {
+        "id": "cafe-it-alde-ste-ureterp-a8f9378",
+        "name": "Café It Alde Ste"
+      },
+      {
+        "id": "cafe-it-kin-net-bolsward-75feb60",
+        "name": "Café It Kin Net"
+      },
+      {
+        "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
+        "name": "Café Kompenije"
+      },
+      {
+        "id": "cafe-le-duc-lemmer-adc5a8b",
+        "name": "Café Le Duc"
+      },
+      {
+        "id": "cafe-lieman-west-terschelling-3808f8b",
+        "name": "Café Lieman"
       },
       {
         "id": "cafe-ons-honk-4709906",
         "name": "Café Ons Honk"
       },
       {
+        "id": "cafe-pietje-bel-drachten-5eb1428",
+        "name": "Café Pietje Bel"
+      },
+      {
+        "id": "cafe-rednick-harlingen-11c235b",
+        "name": "Café Rednick"
+      },
+      {
+        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+        "name": "Café Restaurant De Kajuit"
+      },
+      {
+        "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+        "name": "Café Restaurant De Smidte"
+      },
+      {
+        "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
+        "name": "Café Restaurant De Watersport"
+      },
+      {
+        "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+        "name": "Café Restaurant De Zwaan"
+      },
+      {
+        "id": "cafe-romano-makkum-9aa61f4",
+        "name": "Café Romano"
+      },
+      {
+        "id": "cafe-spoarsicht-workum-cbd3e82",
+        "name": "Café Spoarsicht"
+      },
+      {
+        "id": "cafe-sportlust-houtigehage-5fee14e",
+        "name": "Café Sportlust"
+      },
+      {
         "id": "cafe-stockholm-41ae3c5",
         "name": "Café Stockholm"
+      },
+      {
+        "id": "cafe-tsjoch-drachten-c5fc2de",
+        "name": "Café Tsjoch"
+      },
+      {
+        "id": "cafe-us-mem-leeuwarden-21a91b5",
+        "name": "Café Us Mem"
+      },
+      {
+        "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+        "name": "Café-Bar 't Hoekje"
       },
       {
         "id": "cambridgebar-c5c7346",
@@ -11968,24 +15813,180 @@
         "name": "Champañeria Los Amigos"
       },
       {
+        "id": "club-1841-sneek-dab7a53",
+        "name": "Club 1841"
+      },
+      {
+        "id": "club-z-leeuwarden-aecf644",
+        "name": "Club Z"
+      },
+      {
+        "id": "club33-dokkum-e7228a2",
+        "name": "Club33"
+      },
+      {
+        "id": "danscafe-tante-sientje-drachten-b8e305c",
+        "name": "Danscafé Tante Sientje"
+      },
+      {
         "id": "de-apotheek-4ced9d6",
         "name": "De Apotheek"
+      },
+      {
+        "id": "de-babbelaar-burgum-5796776",
+        "name": "De Babbelaar"
+      },
+      {
+        "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+        "name": "De Bocht fen Guné"
+      },
+      {
+        "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+        "name": "De Dikke van Dale"
+      },
+      {
+        "id": "de-fantast-jirnsum-c4f5cbd",
+        "name": "De Fantast"
+      },
+      {
+        "id": "de-freonskip-blauwhuis-6bea40d",
+        "name": "De Freonskip"
+      },
+      {
+        "id": "de-heeren-van-heeres-workum-20eccd7",
+        "name": "De Heeren van Heeres"
+      },
+      {
+        "id": "de-held-van-63-lemmer-de72104",
+        "name": "De Held van 63"
+      },
+      {
+        "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+        "name": "De Hut van Oom Tom"
       },
       {
         "id": "de-kargadoor-5132a6b",
         "name": "De Kargadoor"
       },
       {
+        "id": "de-kroeg-heerenveen-9b76232",
+        "name": "De Kroeg"
+      },
+      {
+        "id": "de-markies-leeuwarden-d3d3930",
+        "name": "De Markies"
+      },
+      {
+        "id": "de-prins-h-leeuwarden-bde2dfe",
+        "name": "De Prins 'H.'"
+      },
+      {
+        "id": "de-toeter-leeuwarden-f8ed332",
+        "name": "De Toeter"
+      },
+      {
+        "id": "de-vijfpoort-formerum-fa6312a",
+        "name": "De Vijfpoort"
+      },
+      {
+        "id": "de-welvaart-hollum-8afd4cb",
+        "name": "De Welvaart"
+      },
+      {
         "id": "dito-bfdb022",
         "name": "Dito"
+      },
+      {
+        "id": "eetcafe-t-roodhert-burgum-549ff10",
+        "name": "Eetcafé 't Roodhert"
+      },
+      {
+        "id": "eetcafe-55-bolsward-c23ffd7",
+        "name": "Eetcafé 55"
+      },
+      {
+        "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
+        "name": "Eetcafé De 2 Gemeenten"
+      },
+      {
+        "id": "eetcafe-de-boerderij-ballum-984f881",
+        "name": "Eetcafé De Boerderij"
+      },
+      {
+        "id": "eetcafe-de-dammesaan-midsland-448a367",
+        "name": "Eetcafé de Dammesaan"
+      },
+      {
+        "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+        "name": "Eetcafé De Eerste Aanleg"
+      },
+      {
+        "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+        "name": "Eetcafé De Gondel"
+      },
+      {
+        "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+        "name": "Eetcafé De Lachende Koe"
+      },
+      {
+        "id": "eetcafe-de-pleats-woudsend-0d71b79",
+        "name": "Eetcafé De Pleats"
+      },
+      {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Eetcafé De Richel"
+      },
+      {
+        "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
+        "name": "Eetcafé De Smalle Kant"
+      },
+      {
+        "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+        "name": "Eetcafé Kromme Knilles"
+      },
+      {
+        "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+        "name": "Eetcafé Nooitgedagt"
+      },
+      {
+        "id": "eetcafe-spinoza-leeuwarden-0c56246",
+        "name": "Eetcafé Spinoza"
+      },
+      {
+        "id": "eetcafe-spoorzicht-koudum-aa73210",
+        "name": "Eetcafé Spoorzicht"
+      },
+      {
+        "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+        "name": "Eetcafé Storm"
+      },
+      {
+        "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
+        "name": "Eetcafé Tante Sjuul"
+      },
+      {
+        "id": "eetcafe-the-british-pub-lemmer-c67c65e",
+        "name": "Eetcafé The British Pub"
+      },
+      {
+        "id": "eetcafe-wever-oldeholtpade-83fe9b9",
+        "name": "Eetcafé Wever"
       },
       {
         "id": "eleven-bar-7223a88",
         "name": "Eleven Bar"
       },
       {
+        "id": "elzibar-leeuwarden-a07b14c",
+        "name": "Elzibar"
+      },
+      {
         "id": "en-public-fc651ee",
         "name": "En Public"
+      },
+      {
+        "id": "feestcafe-het-swaentje-balk-f467edc",
+        "name": "Feestcafé Het Swaentje"
       },
       {
         "id": "ginny-348e59e",
@@ -11996,12 +15997,116 @@
         "name": "Grand Bar & Brasserie Marie"
       },
       {
+        "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
+        "name": "Grand Café Abdij Dokkum"
+      },
+      {
+        "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+        "name": "Grand Café Bowling de Kaden"
+      },
+      {
+        "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+        "name": "Grand Café Brood Ameland"
+      },
+      {
+        "id": "grand-cafe-bullock-bolsward-e66a509",
+        "name": "Grand Café Bullock"
+      },
+      {
+        "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+        "name": "Grand Café De Brass"
+      },
+      {
+        "id": "grand-cafe-de-doelen-franeker-8aee2be",
+        "name": "Grand Café De Doelen"
+      },
+      {
+        "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
+        "name": "Grand Café De Oranjerie"
+      },
+      {
+        "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+        "name": "Grand Café De Oude Stoep"
+      },
+      {
         "id": "grand-cafe-de-vrienden-45afa11",
         "name": "Grand Café De Vrienden"
       },
       {
+        "id": "grand-cafe-de-waegh-dokkum-7305178",
+        "name": "Grand Café de Waegh"
+      },
+      {
+        "id": "grand-cafe-het-plein-sneek-b93134f",
+        "name": "Grand Café Het Plein"
+      },
+      {
+        "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+        "name": "Grand Café It Skippershûs"
+      },
+      {
+        "id": "grand-cafe-jan-wergea-08f70f7",
+        "name": "Grand Café Jan"
+      },
+      {
+        "id": "grand-cafe-kade-stavoren-1996c93",
+        "name": "Grand Café Kade"
+      },
+      {
+        "id": "grand-cafe-promenade-harlingen-f6e911b",
+        "name": "Grand Café Promenade"
+      },
+      {
+        "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+        "name": "Grand Café Restaurant Zeezicht"
+      },
+      {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
+      },
+      {
+        "id": "harbour-pub-harlingen-7da020c",
+        "name": "Harbour Pub"
+      },
+      {
+        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+        "name": "Havenbrouwerij Het Brouwdok"
+      },
+      {
+        "id": "hcr-teernstra-balk-83c5930",
+        "name": "HCR Teernstra"
+      },
+      {
+        "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
+        "name": "Herberg De Gekroonde Leeuw"
+      },
+      {
+        "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
+        "name": "Herberg De Waard van Ternaard"
+      },
+      {
+        "id": "herberg-de-zwaan-hollum-b0512f5",
+        "name": "Herberg De Zwaan"
+      },
+      {
+        "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+        "name": "Het Oude Boothuis"
+      },
+      {
+        "id": "het-stamcafe-heerenveen-b1c29a4",
+        "name": "Het Stamcafé"
+      },
+      {
+        "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+        "name": "Het Wapen van Leeuwarden"
+      },
+      {
+        "id": "island-pub-vlieland-f6793f0",
+        "name": "Island Pub"
+      },
+      {
+        "id": "it-houtsje-heerenveen-d2248cf",
+        "name": "It Houtsje"
       },
       {
         "id": "jan-de-winter-720539c",
@@ -12016,6 +16121,18 @@
         "name": "Kadet"
       },
       {
+        "id": "kafee-8-drachten-e7c0e2d",
+        "name": "Kafee 8"
+      },
+      {
+        "id": "kb-food-drinks-dokkum-b461630",
+        "name": "KB Food & Drinks"
+      },
+      {
+        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+        "name": "Ke-Rijf Bar"
+      },
+      {
         "id": "knock-out-comedy-club-59624b0",
         "name": "Knock Out Comedy Club"
       },
@@ -12024,12 +16141,20 @@
         "name": "KweekVijver Utrecht"
       },
       {
+        "id": "lange-piet-lemmer-c0e9ba4",
+        "name": "Lange Piet"
+      },
+      {
         "id": "le-en-2cefa7d",
         "name": "LE:EN"
       },
       {
         "id": "lebowskis-speakeasy-2a1a46d",
         "name": "Lebowski’s Speakeasy"
+      },
+      {
+        "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
+        "name": "Ma Kelly's Muziekcafé"
       },
       {
         "id": "manners-cocktail-lounge-1a48ee6",
@@ -12048,36 +16173,88 @@
         "name": "Molencafé De Ster"
       },
       {
+        "id": "mootz-sneek-0f73107",
+        "name": "Mootz"
+      },
+      {
+        "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+        "name": "Muziekcafé Scooter's"
+      },
+      {
+        "id": "nes-cafe-nes-b14449a",
+        "name": "Nes Café"
+      },
+      {
         "id": "nieuwe-dikke-dries-oost-73e397f",
         "name": "Nieuwe Dikke Dries Oost"
+      },
+      {
+        "id": "njoy-poolcentrum-drachten-f14f10e",
+        "name": "Njoy Poolcentrum"
+      },
+      {
+        "id": "noah-eetcafe-sneek-sneek-e3c270c",
+        "name": "NOAH Eetcafé Sneek"
       },
       {
         "id": "nomono-ce51c6e",
         "name": "Nomono"
       },
       {
+        "id": "olearys-e541c8d",
+        "name": "O’Leary’s"
+      },
+      {
+        "id": "oka-18-west-terschelling-34ccd0e",
+        "name": "Oka 18"
+      },
+      {
         "id": "op-roose-dbd6d71",
         "name": "Op Roose"
+      },
+      {
+        "id": "oranje-bierhuis-leeuwarden-bf11768",
+        "name": "Oranje Bierhuis"
       },
       {
         "id": "orloff-aan-de-kade-a3c16fd",
         "name": "Orloff aan de Kade"
       },
       {
-        "id": "olearys-e541c8d",
-        "name": "O’Leary’s"
+        "id": "paddy-o-ryan-leeuwarden-20f2717",
+        "name": "Paddy O'Ryan"
       },
       {
         "id": "papis-comfort-kitchen-bf4bc0e",
         "name": "Papi’s Comfort Kitchen"
       },
       {
+        "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+        "name": "Paultje Café Restaurant"
+      },
+      {
         "id": "pjay-ec4ee67",
         "name": "Pjay"
       },
       {
+        "id": "pub-84-wolvega-dda02b5",
+        "name": "Pub '84"
+      },
+      {
+        "id": "pub-de-steeg-holwert-910e0a2",
+        "name": "Pub De Steeg"
+      },
+      {
+        "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+        "name": "Restaurant Café Centrum"
+      },
+      {
         "id": "restaurant-seven-20261026",
         "name": "Restaurant Seven Utrecht"
+      },
+      {
+        "id": "rock-cafe-sneek-sneek-5795887",
+        "name": "Rock Café Sneek"
       },
       {
         "id": "rocking-chair-c8ed632",
@@ -12092,24 +16269,60 @@
         "name": "S.S.R-N.U."
       },
       {
+        "id": "schotse-vier-midsland-6021740",
+        "name": "Schotse Vier"
+      },
+      {
         "id": "science-cafe-hideout-20261026",
         "name": "Science Café HideOut"
+      },
+      {
+        "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+        "name": "Snooker & Pool Centrum Heerenveen"
+      },
+      {
+        "id": "spoarke-blije-blije-0cf8177",
+        "name": "Spoarke Blije"
       },
       {
         "id": "sportcafe-tropical-feaa132",
         "name": "Sportcafé Tropical"
       },
       {
+        "id": "stoker-koffiebar-joure-b54d49f",
+        "name": "Stoker Koffiebar"
+      },
+      {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
+      },
+      {
+        "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+        "name": "Swing- & Poolcafé Big Ben"
+      },
+      {
+        "id": "tapperij-t-noord-franeker-340a463",
+        "name": "Tapperij 't Noord"
+      },
+      {
+        "id": "the-pub-public-underground-bar-harlingen-5144488",
+        "name": "The Pub - Public Underground Bar"
       },
       {
         "id": "tijm-d1d43a8",
         "name": "Tijm"
       },
       {
+        "id": "tox-bar-schiermonnikoog-09b0f73",
+        "name": "Tox Bar"
+      },
+      {
         "id": "trapop-058033a",
         "name": "Trapop"
+      },
+      {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Treemter"
       },
       {
         "id": "tripleclub-dbaf6ca",
@@ -12128,19 +16341,100 @@
         "name": "Vondels Chefs Bar"
       },
       {
+        "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+        "name": "Vrienden van Leeuwarden"
+      },
+      {
         "id": "was-3ef3647",
         "name": "WAS."
       },
       {
+        "id": "waterherberg-it-beaken-heeg-d7ee148",
+        "name": "Waterherberg It Beaken"
+      },
+      {
+        "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+        "name": "Wijn-, Tap- & Eethuis Amicaal"
+      },
+      {
         "id": "woolloomooloo-0a91b60",
         "name": "Woolloomooloo"
+      },
+      {
+        "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+        "name": "ZeeVaert Bar & Rotisserie"
       }
     ],
     "possible_conflicts_or_closures": [
       {
+        "id": "t-gras-van-de-buren-29923a1",
+        "name": "’t Gras van de Buren",
+        "reason": "Sluitingstijden en gesloten dagen gecontroleerd op eigen website 26 oktober 2026."
+      },
+      {
+        "id": "t-kannet-heerenveen-75a1ed4",
+        "name": "'t Kannet",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "t-oude-pothuys-c89ea4d",
+        "name": "’t Oude Pothuys",
+        "reason": "Gids noemt 00:00 alle dagen; controleer bij livemuziek. | Voorgaande Centrum Utrecht-gids noemde 00:00 elke dag; officiële regiogids noemt tot 03:00 do-za."
+      },
+      {
+        "id": "t-ouwe-vat-sneek-4873eaa",
+        "name": "'t Ouwe Vat",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "t-pakhuis-e59df99",
+        "name": "’t Pakhuis",
+        "reason": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald."
+      },
+      {
+        "id": "amelander-bierbrouwerij-ballum-32e95e9",
+        "name": "Amelander Bierbrouwerij",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bar-1908-franeker-8dcc574",
+        "name": "Bar 1908",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bar-cafe-populair-lemmer-415cf0f",
+        "name": "Bar Café Populair",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
+        "name": "Bar Dancing De Ponderosa",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bar-de-bock-harlingen-33ab930",
+        "name": "Bar de Bock",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "bar-patine-917d047",
         "name": "Bar Patine",
         "reason": "Officieel: geen vaste sluitingstijd. | De eigen website stelt uitdrukkelijk: geen vaste sluitingstijd; alle uren uit Centrum Utrecht als foutief vast verwijderd."
+      },
+      {
+        "id": "bar-suc-6-wolvega-a6e956e",
+        "name": "Bar Suc 6",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bar-sybs-leeuwarden-71570c8",
+        "name": "Bar Sybs",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "bistro-workum-workum-e121155",
+        "name": "Bistro Workum",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "brisa-f2ab931",
@@ -12148,9 +16442,244 @@
         "reason": "Opening en feitelijke sluiting wisselen met weer/seizoen. Controleer dezelfde dag."
       },
       {
+        "id": "bruin-cafe-licorne-bakhuizen-841e786",
+        "name": "Bruin Café Licorne",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
+        "name": "Café 't Bildt",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-diekje-bolsward-89f46bb",
+        "name": "Café 't Diekje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-hert-joure-175cdd8",
+        "name": "Café 't Hert",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-noorderke-harlingen-9f9ff92",
+        "name": "Café 't Noorderke",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-singeltje-sneek-2a92fa4",
+        "name": "Café 't Singeltje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+        "name": "Café 't Skoffeltsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-skutsje-sneek-550e03d",
+        "name": "Café 't Skûtsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-skutsje-harlingen-ea324fd",
+        "name": "Café 't Skûtsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-syl-joure-a95c827",
+        "name": "Café 't Syl",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-syltsje-bakhuizen-319434c",
+        "name": "Café 't Syltsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-waldmantsje-drachten-acaeeab",
+        "name": "Café 't Waldmantsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+        "name": "Café 't Zwaantje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bak-heerenveen-8f34eb5",
+        "name": "Café Bak",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bar-t-skutsje-drachten-7164f2f",
+        "name": "Café Bar 't Skûtsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+        "name": "Café Bar De Welp",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bleeker-heerenveen-84c5dae",
+        "name": "Café Bleeker",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bok-hollum-f23e5ba",
+        "name": "Café Bok",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-d-oude-oost-grou-006c9f7",
+        "name": "Café d'Oude Oost",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-babbel-wolvega-be5a7b9",
+        "name": "Café De Babbel",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+        "name": "Café De Blauwe Kater",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-boekanier-hindeloopen-eb8a931",
+        "name": "Café De Boekanier",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-bunte-bok-ljussens-56481fb",
+        "name": "Café De Bûnte Bok",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
+        "name": "Café De Drie Gemeenten",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-finne-reahus-fedc896",
+        "name": "Café De Finne",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-harmonie-sexbierum-384aca7",
+        "name": "Café De Harmonie",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-hollandse-kus-pingjum-9c0a58a",
+        "name": "Café De Hollandse Kus",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-kalkman-wierum-bc9219c",
+        "name": "Café De Kalkman",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+        "name": "Café De Kleine Beurs",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-kroon-sneek-ac3c15b",
+        "name": "Café De Kroon",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+        "name": "Café De Laatste Stuiver",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-landerije-steggerda-2dfe96e",
+        "name": "Café De Landerije",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-lits-rottevalle-27df1a4",
+        "name": "Café De Lits",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-oase-heerenveen-051008c",
+        "name": "Café De Oase",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-otterbar-witmarsum-52640a7",
+        "name": "Café De Otterbar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+        "name": "Café De Ouwe Stoep",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+        "name": "Café de Pastorie",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-rus-leeuwarden-9df98c2",
+        "name": "Café De Rus",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
+        "name": "Café De Schieve Deure",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+        "name": "Café de Strohoed",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-swalker-dokkum-0b7b92d",
+        "name": "Café De Swalker",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-swetser-heerenveen-7013b57",
+        "name": "Café De Swetser",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-twin-leeuwarden-0003bb5",
+        "name": "Café De Twin",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "cafe-de-zaak-516b7d2",
         "name": "Café De Zaak",
         "reason": "Officiële site wijkt af van CentrUtrecht; officiële tijden gebruikt. | Lokale gids wijkt af van andere openingstijdenbronnen; controleer vóór laat bezoek."
+      },
+      {
+        "id": "cafe-de-zaak-leeuwarden-cc89001",
+        "name": "Café De Zaak",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-zomer-west-terschelling-54c8f87",
+        "name": "Café de Zomer",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-zwarte-arend-peazens-5a1a203",
+        "name": "Café De Zwarte Arend",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-den-smeerpaal-harlingen-2b618ef",
+        "name": "Café Den Smeerpaal",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "cafe-derat-7d4767c",
@@ -12163,9 +16692,119 @@
         "reason": "Eigen pagina vermeldt maandag alleen op verzoek; andere contactpagina heeft afwijkende tijden voor zaterdag."
       },
       {
+        "id": "cafe-fokk-s-sneek-108e0b5",
+        "name": "Café Fokk's",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-gewoan-sven-harlingen-dccd931",
+        "name": "Café Gewoán Sven",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-het-raadhuys-drachten-085a1a5",
+        "name": "Café Het Raadhuys",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-hopper-drachten-a7ebfcb",
+        "name": "Café Hopper",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-it-alde-ste-ureterp-a8f9378",
+        "name": "Café It Alde Ste",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-it-kin-net-bolsward-75feb60",
+        "name": "Café It Kin Net",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
+        "name": "Café Kompenije",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-le-duc-lemmer-adc5a8b",
+        "name": "Café Le Duc",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-lieman-west-terschelling-3808f8b",
+        "name": "Café Lieman",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-pietje-bel-drachten-5eb1428",
+        "name": "Café Pietje Bel",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-rednick-harlingen-11c235b",
+        "name": "Café Rednick",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-restaurant-de-kajuit-sneek-651e053",
+        "name": "Café Restaurant De Kajuit",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-restaurant-de-smidte-workum-f7236eb",
+        "name": "Café Restaurant De Smidte",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-restaurant-de-watersport-woudsend-a6b5e69",
+        "name": "Café Restaurant De Watersport",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+        "name": "Café Restaurant De Zwaan",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-romano-makkum-9aa61f4",
+        "name": "Café Romano",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-spoarsicht-workum-cbd3e82",
+        "name": "Café Spoarsicht",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-sportlust-houtigehage-5fee14e",
+        "name": "Café Sportlust",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-tsjoch-drachten-c5fc2de",
+        "name": "Café Tsjoch",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-us-mem-leeuwarden-21a91b5",
+        "name": "Café Us Mem",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+        "name": "Café-Bar 't Hoekje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "chupitos-shooter-bar-11cade7",
         "name": "Chupitos Shooter Bar",
         "reason": "Officiële vestigingspagina noemt dinsdag t/m zaterdag. Maandag en zondag niet afzonderlijk als gesloten bevestigd; laatste toegang niet gepubliceerd."
+      },
+      {
+        "id": "club-1841-sneek-dab7a53",
+        "name": "Club 1841",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "club-maggy-c0cbd28",
@@ -12173,9 +16812,74 @@
         "reason": "Controleer programma: gids kan verouderd zijn."
       },
       {
+        "id": "club-z-leeuwarden-aecf644",
+        "name": "Club Z",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "club33-dokkum-e7228a2",
+        "name": "Club33",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "danscafe-tante-sientje-drachten-b8e305c",
+        "name": "Danscafé Tante Sientje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-babbelaar-burgum-5796776",
+        "name": "De Babbelaar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "de-bierkantine-80af740",
         "name": "De Bierkantine",
         "reason": "Adres Ravellaan 96 en reguliere woensdag-zondag opening gecontroleerd op officiële website."
+      },
+      {
+        "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+        "name": "De Bocht fen Guné",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+        "name": "De Dikke van Dale",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-fantast-jirnsum-c4f5cbd",
+        "name": "De Fantast",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-freonskip-blauwhuis-6bea40d",
+        "name": "De Freonskip",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-heeren-van-heeres-workum-20eccd7",
+        "name": "De Heeren van Heeres",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-held-van-63-lemmer-de72104",
+        "name": "De Held van 63",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+        "name": "De Hut van Oom Tom",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-kroeg-heerenveen-9b76232",
+        "name": "De Kroeg",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-markies-leeuwarden-d3d3930",
+        "name": "De Markies",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "de-ping-pong-club-3e4df3c",
@@ -12188,14 +16892,294 @@
         "reason": "Opening voor half november 2026 aangekondigd maar niet als feitelijk geopend geverifieerd (29 oktober). Adres bevestigd door gemeentelijke aanvraag, geen bewijs dat horecavergunning reeds verleend is. Niet opnemen in publiek zoekresultaat tot heropeningscontrole."
       },
       {
+        "id": "de-prins-h-leeuwarden-bde2dfe",
+        "name": "De Prins 'H.'",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-toeter-leeuwarden-f8ed332",
+        "name": "De Toeter",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "de-troef-spelletjescafe-7a45c78",
         "name": "De Troef spelletjescafé",
         "reason": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen."
       },
       {
+        "id": "de-vijfpoort-formerum-fa6312a",
+        "name": "De Vijfpoort",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "de-welvaart-hollum-8afd4cb",
+        "name": "De Welvaart",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-t-roodhert-burgum-549ff10",
+        "name": "Eetcafé 't Roodhert",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-55-bolsward-c23ffd7",
+        "name": "Eetcafé 55",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
+        "name": "Eetcafé De 2 Gemeenten",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-boerderij-ballum-984f881",
+        "name": "Eetcafé De Boerderij",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-dammesaan-midsland-448a367",
+        "name": "Eetcafé de Dammesaan",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+        "name": "Eetcafé De Eerste Aanleg",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+        "name": "Eetcafé De Gondel",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-lachende-koe-sneek-267ea95",
+        "name": "Eetcafé De Lachende Koe",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-pleats-woudsend-0d71b79",
+        "name": "Eetcafé De Pleats",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Eetcafé De Richel",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
+        "name": "Eetcafé De Smalle Kant",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+        "name": "Eetcafé Kromme Knilles",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+        "name": "Eetcafé Nooitgedagt",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-spinoza-leeuwarden-0c56246",
+        "name": "Eetcafé Spinoza",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-spoorzicht-koudum-aa73210",
+        "name": "Eetcafé Spoorzicht",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+        "name": "Eetcafé Storm",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
+        "name": "Eetcafé Tante Sjuul",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-the-british-pub-lemmer-c67c65e",
+        "name": "Eetcafé The British Pub",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "eetcafe-wever-oldeholtpade-83fe9b9",
+        "name": "Eetcafé Wever",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "elzibar-leeuwarden-a07b14c",
+        "name": "Elzibar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "feestcafe-het-swaentje-balk-f467edc",
+        "name": "Feestcafé Het Swaentje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
+        "name": "Grand Café Abdij Dokkum",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
+        "name": "Grand Café Bowling de Kaden",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+        "name": "Grand Café Brood Ameland",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-bullock-bolsward-e66a509",
+        "name": "Grand Café Bullock",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+        "name": "Grand Café De Brass",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-de-doelen-franeker-8aee2be",
+        "name": "Grand Café De Doelen",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
+        "name": "Grand Café De Oranjerie",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+        "name": "Grand Café De Oude Stoep",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-de-waegh-dokkum-7305178",
+        "name": "Grand Café de Waegh",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-het-plein-sneek-b93134f",
+        "name": "Grand Café Het Plein",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+        "name": "Grand Café It Skippershûs",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-jan-wergea-08f70f7",
+        "name": "Grand Café Jan",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-kade-stavoren-1996c93",
+        "name": "Grand Café Kade",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-promenade-harlingen-f6e911b",
+        "name": "Grand Café Promenade",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+        "name": "Grand Café Restaurant Zeezicht",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "harbour-pub-harlingen-7da020c",
+        "name": "Harbour Pub",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+        "name": "Havenbrouwerij Het Brouwdok",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "hcr-teernstra-balk-83c5930",
+        "name": "HCR Teernstra",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
+        "name": "Herberg De Gekroonde Leeuw",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
+        "name": "Herberg De Waard van Ternaard",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "herberg-de-zwaan-hollum-b0512f5",
+        "name": "Herberg De Zwaan",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+        "name": "Het Oude Boothuis",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "het-stamcafe-heerenveen-b1c29a4",
+        "name": "Het Stamcafé",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+        "name": "Het Wapen van Leeuwarden",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "insolence-20261029",
         "name": "Insolence",
         "reason": "Openingstijden bevestigd via officiële contactpagina; het adres vermeldt elders een afwijkende postcode, daarom alleen straat en huisnummer vastgelegd."
+      },
+      {
+        "id": "irish-pub-de-poort-van-cleef-sneek-5acde60",
+        "name": "Irish Pub De Poort van Cleef",
+        "reason": "Maandag sluit de officiële site om 19:00; andere gidsen vermelden afwijkende tijden. Laatste toegang onbekend."
+      },
+      {
+        "id": "island-pub-vlieland-f6793f0",
+        "name": "Island Pub",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "it-houtsje-heerenveen-d2248cf",
+        "name": "It Houtsje",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "it-reade-hynder-wommels-0121f4b",
+        "name": "It Reade Hynder",
+        "reason": "Regiogids bevat tegenstrijdige beschrijvende tekst over maandag; expliciet weekrooster zegt ma–wo gesloten; review gewenst."
+      },
+      {
+        "id": "kafee-8-drachten-e7c0e2d",
+        "name": "Kafee 8",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "kb-food-drinks-dokkum-b461630",
+        "name": "KB Food & Drinks",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+        "name": "Ke-Rijf Bar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "kitchen-bar-danel-4c5a5ea",
@@ -12208,9 +17192,49 @@
         "reason": "Alleen reguliere RESTAURANT-uren overgenomen, niet de afwijkende tijden voor zaalverhuur."
       },
       {
+        "id": "lange-piet-lemmer-c0e9ba4",
+        "name": "Lange Piet",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "le-journal-1b1cfeb",
         "name": "Le Journal",
         "reason": "Vanwege verbouwing tijdelijk gesloten; officiële site kondigt heropening op 2 november 2026 aan. Tot bevestiging van feitelijke heropening niet opnemen als geopend; nieuwe openings- en sluitingstijden nog onbekend. Controle nodig op of na 2 november."
+      },
+      {
+        "id": "lebowskis-speakeasy-2a1a46d",
+        "name": "Lebowski’s Speakeasy",
+        "reason": "Aparte bar in hetzelfde pand als Grand Café Lebowski; geen eigen gecontroleerde sluitingstijden beschikbaar."
+      },
+      {
+        "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
+        "name": "Ma Kelly's Muziekcafé",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "mootz-sneek-0f73107",
+        "name": "Mootz",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+        "name": "Muziekcafé Scooter's",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "nes-cafe-nes-b14449a",
+        "name": "Nes Café",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "njoy-poolcentrum-drachten-f14f10e",
+        "name": "Njoy Poolcentrum",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "noah-eetcafe-sneek-sneek-e3c270c",
+        "name": "NOAH Eetcafé Sneek",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "nomono-ce51c6e",
@@ -12218,9 +17242,54 @@
         "reason": "23-24 oktober proefgedraaid, volledig open vanaf 30 oktober 2026 volgens nieuwslokalen; officieel kanaal vermeldt nog verbouwing. Tot bevestiging niet als open tonen."
       },
       {
+        "id": "oka-18-west-terschelling-34ccd0e",
+        "name": "Oka 18",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "oranje-bierhuis-leeuwarden-bf11768",
+        "name": "Oranje Bierhuis",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "paddy-o-ryan-leeuwarden-20f2717",
+        "name": "Paddy O'Ryan",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+        "name": "Paultje Café Restaurant",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "pub-84-wolvega-dda02b5",
+        "name": "Pub '84",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "pub-de-steeg-holwert-910e0a2",
+        "name": "Pub De Steeg",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "quignon-f8af1d8",
         "name": "Quignon",
         "reason": "Eigen home/contactpagina hebben tegenstrijdige sluitingstijden. Conservatief de vroegste gepubliceerde tijd gebruikt. | Weekendopening volgens officiële contactpagina."
+      },
+      {
+        "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+        "name": "Restaurant Café Centrum",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "rock-cafe-sneek-sneek-5795887",
+        "name": "Rock Café Sneek",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "schotse-vier-midsland-6021740",
+        "name": "Schotse Vier",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "sevilla-utrecht-20261026",
@@ -12228,14 +17297,44 @@
         "reason": "Officiële site noemt vrijdag/zaterdag 00:00. Ontdek Utrecht ondersteunt 00:00; De Buik en andere gidsen melden 01:00. Officiële bron voorrang, maar conflicterende tijd bewaren."
       },
       {
+        "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+        "name": "Snooker & Pool Centrum Heerenveen",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "spoarke-blije-blije-0cf8177",
+        "name": "Spoarke Blije",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "stichtse-taveerne-88f4900",
         "name": "Stichtse Taveerne",
         "reason": "Contactpagina toont reguliere uren; homepage noemt afwijkende openingstijden voor juli/augustus. In oktober reguliere uren aangehouden."
       },
       {
+        "id": "stoker-koffiebar-joure-b54d49f",
+        "name": "Stoker Koffiebar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+        "name": "Swing- & Poolcafé Big Ben",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "tapperij-t-noord-franeker-340a463",
+        "name": "Tapperij 't Noord",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "teds-stadhuisplein-20261026",
         "name": "Teds Utrecht Stadhuisplein",
         "reason": "Eigen vestigingswebsite 09:00-17:00, bij geschikt zomerweer do-zo 09:00-19:00. De Buik en VindOpen vermelden vrijdag/weekend tot 20:00; tijdconflict expliciet behouden, geen latere sluiting aangenomen."
+      },
+      {
+        "id": "the-pub-public-underground-bar-harlingen-5144488",
+        "name": "The Pub - Public Underground Bar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "tilt-64c83ae",
@@ -12248,9 +17347,24 @@
         "reason": "Eigen website wijkt af van lokale gids Centrum Utrecht (die 00:00–01:30 noemt); eigen officiële website heeft voorrang."
       },
       {
+        "id": "tox-bar-schiermonnikoog-09b0f73",
+        "name": "Tox Bar",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Treemter",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "vandestreek-proeflokaal-590917b",
         "name": "vandeStreek Proeflokaal",
         "reason": "NL officiële contactpagina; Engelstalige versie geeft afwijkende tijden."
+      },
+      {
+        "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+        "name": "Vrienden van Leeuwarden",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "was-3ef3647",
@@ -12258,24 +17372,24 @@
         "reason": "Tijdelijke sluiting gemeld; heropening en tickets eerst verifiëren."
       },
       {
+        "id": "waterherberg-it-beaken-heeg-d7ee148",
+        "name": "Waterherberg It Beaken",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
+        "name": "Wijn-, Tap- & Eethuis Amicaal",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
         "id": "wijncafe-lefebvre-cb700cd",
         "name": "Wijncafé Lefebvre",
         "reason": "Gidsen vermelden afwijkende sluitingstijden. Eigen site aangehouden."
       },
       {
-        "id": "t-gras-van-de-buren-29923a1",
-        "name": "’t Gras van de Buren",
-        "reason": "Sluitingstijden en gesloten dagen gecontroleerd op eigen website 26 oktober 2026."
-      },
-      {
-        "id": "t-oude-pothuys-c89ea4d",
-        "name": "’t Oude Pothuys",
-        "reason": "Gids noemt 00:00 alle dagen; controleer bij livemuziek. | Voorgaande Centrum Utrecht-gids noemde 00:00 elke dag; officiële regiogids noemt tot 03:00 do-za."
-      },
-      {
-        "id": "t-pakhuis-e59df99",
-        "name": "’t Pakhuis",
-        "reason": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald."
+        "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+        "name": "ZeeVaert Bar & Rotisserie",
+        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       }
     ]
   }
