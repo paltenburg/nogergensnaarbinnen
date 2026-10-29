@@ -12128,7 +12128,7 @@
       "opening_checked_on": "2026-10-29",
       "opening_quality": "Officiële contactpagina 29-10-2026: ma/di gesloten; wo 17–00; do/vr/za 11:30–00; zo 12–17.",
       "checked_on": "2026-10-29",
-      "geocode_notes": "Oud adres Burgemeester Wuiteweg 24 is volgens Go-Kids alternatief navigatieadres; eigen bezoekadres Laweiplein 1. Exacte geocode nog uit te voeren.",
+      "geocode_notes": "Exacte PDOK BAG-adresmatch na adrescorrectie bevestigd: Laweiplein 1, 9203 KL Drachten. Oud Burgemeester Wuiteweg 24 was slechts alternatief navigatieadres.",
       "geo": {
         "lat": 53.102932,
         "lon": 6.0978873,
@@ -14235,7 +14235,7 @@
       "id": "de-babbelaar-burgum-5796776",
       "name": "De Babbelaar",
       "type": "Eetcafé",
-      "address": "Jonkheer H.B. van Sminiaplein 3",
+      "address": "Jonkheer Hobbe Baerdt van Sminiaplein 3",
       "city": "Burgum",
       "region": "friesland",
       "country": "Nederland",
@@ -14259,7 +14259,8 @@
       "other_sources": [
         "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes",
         "https://www.debabbelaar.com/",
-        "https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar"
+        "https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar",
+        "https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/"
       ],
       "original_status": "Officiële bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29; geen live garantie van actuele toegankelijkheid.",
       "website_checked_on": "2026-10-29",
@@ -14277,7 +14278,7 @@
       "opening_checked_on": "2026-10-29",
       "opening_quality": "Eigen site vestiging Burgum 29-10-2026: ma 11–22, di gesloten, wo/do 11–22, vr/za 11–00, zo 11–22.",
       "checked_on": "2026-10-29",
-      "geocode_notes": "Adres op 29-10-2026 gecorrigeerd van Schoolstraat 12 naar Jonkheer H.B. van Sminiaplein 3; exacte BAG-match via geocoder nog afwachten."
+      "geocode_notes": "Eigen website schrijft afgekort Jonkheer H.B. van Sminiaplein 3. BAG-afgeleide adresbron bevestigt volledige officiële straatnaam Jonkheer Hobbe Baerdt van Sminiaplein 3 (zonder suffix), postcode 9251 BK. Strikte geocoder moet dit exacte adres opnieuw matchen; 3A/3B zijn andere BAG-objecten."
     },
     {
       "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
