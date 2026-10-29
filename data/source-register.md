@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**360 geregistreerde bron-URL's**, 190 domeinen; gekoppeld aan **408 locaties**.
+**363 geregistreerde bron-URL's**, 192 domeinen; gekoppeld aan **408 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -57,6 +57,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
+| cafefokks.nl | 2 | 1 |
 | cafekanaalzicht.nl | 2 | 1 |
 | cafetilt.nl | 2 | 1 |
 | chupitos.nl | 2 | 1 |
@@ -191,6 +192,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nar.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
+| ondernemendsneek.nl | 1 | 1 |
 | oproerbrouwerij.nl | 1 | 1 |
 | opzuidutrecht.nl | 1 | 1 |
 | oudaen.nl | 1 | 1 |
@@ -377,6 +379,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafeflater.nl
 
 - [https://www.cafeflater.nl/](https://www.cafeflater.nl/) — website; Café Flater; bronveld gecontroleerd: 2026-10-26
+
+### cafefokks.nl
+
+- [https://cafefokks.nl/](https://cafefokks.nl/) — website; Café Fokk's; bronveld gecontroleerd: 2026-10-29
+- [https://cafefokks.nl/info/](https://cafefokks.nl/info/) — laatste_toegang, openingstijden, sluitingstijden; Café Fokk's; bronveld gecontroleerd: 2026-10-29
 
 ### cafefokus.nl
 
@@ -834,6 +841,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### nomono-utrecht.nl
 
 - [https://www.nomono-utrecht.nl/](https://www.nomono-utrecht.nl/) — onderzoeksnotitie, website; Nomono; bronveld gecontroleerd: 2026-10-26
+
+### ondernemendsneek.nl
+
+- [https://www.ondernemendsneek.nl/leden/overzicht/fokks](https://www.ondernemendsneek.nl/leden/overzicht/fokks) — achtergrond; Café Fokk's; bronveld gecontroleerd: onbekend
 
 ### ontdek-utrecht.nl
 

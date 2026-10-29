@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 408,
-    "source_urls": 360,
-    "domains": 190,
-    "direct_website_fields": 155
+    "source_urls": 363,
+    "domains": 192,
+    "direct_website_fields": 156
   },
   "discovery_sites": [
     {
@@ -210,6 +210,11 @@
     },
     {
       "domain": "cafedestad.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafefokks.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -880,6 +885,11 @@
     },
     {
       "domain": "nomono-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "ondernemendsneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2182,6 +2192,64 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://cafefokks.nl/",
+      "domain": "cafefokks.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-fokk-s-sneek-108e0b5",
+          "name": "Café Fokk's",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafefokks.nl/info/",
+      "domain": "cafefokks.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "laatste_toegang",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-fokk-s-sneek-108e0b5",
+          "name": "Café Fokk's",
+          "roles": [
+            "laatste_toegang",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-29",
+            "openingstijden": "2026-10-29",
+            "laatste_toegang": "2026-10-29"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafefokus.nl/",
@@ -7179,6 +7247,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.ondernemendsneek.nl/leden/overzicht/fokks",
+      "domain": "ondernemendsneek.nl",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-fokk-s-sneek-108e0b5",
+          "name": "Café Fokk's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -14675,10 +14767,6 @@
         "name": "Café Den Smeerpaal"
       },
       {
-        "id": "cafe-fokk-s-sneek-108e0b5",
-        "name": "Café Fokk's"
-      },
-      {
         "id": "cafe-gewoan-sven-harlingen-dccd931",
         "name": "Café Gewoán Sven"
       },
@@ -15705,10 +15793,6 @@
         "name": "Café Den Smeerpaal"
       },
       {
-        "id": "cafe-fokk-s-sneek-108e0b5",
-        "name": "Café Fokk's"
-      },
-      {
         "id": "cafe-gewoan-sven-harlingen-dccd931",
         "name": "Café Gewoán Sven"
       },
@@ -16679,7 +16763,7 @@
       {
         "id": "cafe-fokk-s-sneek-108e0b5",
         "name": "Café Fokk's",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "De officiële site vermeldt dagelijks 21:00 tot 02:00–04:00. De werkelijke sluitingstijd verschilt; daarom geen vaste 04:00 aangenomen. Laatste toegang expliciet 02:00. Let op: een actief tijdsfilter kan wisselende sluitingstijden momenteel uitsluiten."
       },
       {
         "id": "cafe-gewoan-sven-harlingen-dccd931",
