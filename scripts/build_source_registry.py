@@ -33,6 +33,20 @@ SEED_SITES = [
     ("PuurOost", "https://www.puuroost-utrecht.nl/", "Wijkbedrijven Utrecht Oost"),
     ("Verse Uitjes", "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono", "Nieuwe horecazaken en aangekondigde openingen"),
     ("Universiteit Utrecht catering", "https://www.uu.nl/organisatie/praktische-zaken/facilitair/catering", "Campuslocaties en toegang"),
+    ("Uitgaanskaart Fryslân", "https://uitgaanskaart.nl/provincie/friesland", "Provinciebrede gids; controle op ontbrekende kroegen, bars, clubs, nieuwe of gesloten adressen; naam/adres verifiëren"),
+    ("Friesland.nl horeca", "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes", "Friese toeristische gids, dorpshoreca en expliciete weekroosters"),
+    ("Waterland van Friesland cafés", "https://www.waterlandvanfriesland.nl/nl/plan-je-bezoek/eten-en-drinken/cafes-en-bars", "Zuidwest-Friesland inclusief Sneek, Bolsward, Lemmer, Woudsend en de meren"),
+    ("Visit Leeuwarden uitgaan", "https://visitleeuwarden.com/doen/uitgaan/", "Cafés, muziekcafés en clubs Leeuwarden; openingen, sluitingen en adressen"),
+    ("Agenda Leeuwarden", "https://agendaleeuwarden.nl/hotspots/?soort=cafes-uitgaan", "Lokale uitgaanslocaties en openingsnieuws"),
+    ("Dokkum horeca", "https://dokkum.nl/eten-en-drinken/", "Nieuw en bestaand horecaanbod Dokkum"),
+    ("Visit Wadden", "https://www.visitwadden.nl/nl/bezoeken/", "Wadden, eilanden en noordelijke kustplaatsen"),
+    ("ZuidoostFriesland horeca", "https://www.zuidoostfriesland.nl/bezoeken/eten-drinken/alle-horecagelegenheden", "Drachten, Heerenveen, Wolvega, Appelscha en overige zuidoostelijke plaatsen"),
+    ("Bolsward horeca", "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/", "Nieuwe of gesloten cafés rond Bargefenne en binnenstad"),
+    ("Uitagenda Drachten", "https://www.uitagenda.nl/drachten", "Locaties Drachten, cafés en uitgaanscentra"),
+    ("Uitagenda Dokkum", "https://www.uitagenda.nl/dokkum", "Kroegen en evenementlocaties Dokkum"),
+    ("Uit Sneek uitgaan", "https://uitsneek.com/uitgaan/", "Sneekse horeca; gids is niet zelf voldoende bewijs voor openingstijden"),
+    ("Uit Leeuwarden uitgaan", "https://uitleeuwarden.com/uitgaan/", "Horecagids Leeuwarden; verifieer status en adres onafhankelijk"),
+    ("Uit Heerenveen uitgaan", "https://uitheerenveen.com/uitgaan/", "Heerenveense uitgaanslocaties; actuele status en adres afzonderlijk controleren"),
 ]
 URL_RE = re.compile(r"https?://[^\s<>'\"|;,]+")
 NOTE_RE = re.compile(r"\]\((https?://[^)]+)\)")
