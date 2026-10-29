@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-29 uit de locatiedatabase en onderzoeksverslagen.
 
-**420 geregistreerde bron-URL's**, 222 domeinen; gekoppeld aan **412 locaties**.
+**421 geregistreerde bron-URL's**, 222 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -79,6 +79,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | eetcafedevingerhoed.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
+| findglocal.com | 2 | 2 |
 | insolence-restaurant.nl | 2 | 1 |
 | kleinemax.nl | 2 | 1 |
 | knockoutcomedy.nl | 2 | 1 |
@@ -183,7 +184,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | feestcafedekneus.nl | 1 | 1 |
 | fenixsneek.nl | 1 | 1 |
 | fietsroutenetwerk.nl | 1 | 1 |
-| findglocal.com | 1 | 1 |
 | florinutrecht.nl | 1 | 1 |
 | funda.nl | 1 | 1 |
 | gastrobarflorijn.nl | 1 | 1 |
@@ -760,6 +760,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### findglocal.com
 
 - [https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9](https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9) — achtergrond; NOAH Eetcafé Sneek; bronveld gecontroleerd: onbekend
+- [https://www.findglocal.com/NL/Sneek/932014270230701/Aan-de-Gracht](https://www.findglocal.com/NL/Sneek/932014270230701/Aan-de-Gracht) — achtergrond; Restaurant Aan de Gracht; bronveld gecontroleerd: onbekend
 
 ### florinutrecht.nl
 

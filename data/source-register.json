@@ -4,7 +4,7 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 420,
+    "source_urls": 421,
     "domains": 222,
     "direct_website_fields": 164
   },
@@ -320,6 +320,11 @@
     },
     {
       "domain": "elize.cafe",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "findglocal.com",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -844,11 +849,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "findglocal.com",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "florinutrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1316,12 +1316,12 @@
           "checked_on": {
             "website": "2026-10-29"
           },
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://acu.nl/",
@@ -1834,12 +1834,12 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://bestrestos.nl/restaurant/bar--t-ouwe-vat-sneek-3504",
@@ -6476,6 +6476,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.findglocal.com/NL/Sneek/932014270230701/Aan-de-Gracht",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-29",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "aan-de-gracht-sneek-grootzand-4",
+          "name": "Restaurant Aan de Gracht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.florinutrecht.nl/",
       "domain": "florinutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -9788,12 +9812,12 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://restaurantconcours.nl/",
@@ -10135,12 +10159,12 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": true
+      "needs_review": false
     },
     {
       "url": "https://www.sneek.nl/zien-doen/club-1841",
@@ -18937,11 +18961,6 @@
         "reason": "Eigen home/contactpagina hebben tegenstrijdige sluitingstijden. Conservatief de vroegste gepubliceerde tijd gebruikt. | Weekendopening volgens officiële contactpagina."
       },
       {
-        "id": "aan-de-gracht-sneek-grootzand-4",
-        "name": "Restaurant Aan de Gracht",
-        "reason": "Eigen website biedt borrel en nodigt uit om langs te komen, maar geeft geen expliciet dagelijks openings-/sluitingsrooster. Derden noemen 12:00–22:00; niet als zekerheid overgenomen. Laatste toegang onbekend. De 16:00-grens op de eigen site betreft uitsluitend online reserveren voor dezelfde dag, NIET de sluiting of uiterste toegang."
-      },
-      {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
         "name": "Restaurant Café Centrum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -18949,7 +18968,7 @@
       {
         "id": "cafe-restaurant-de-kajuit-sneek-651e053",
         "name": "Restaurant De Kajuit",
-        "reason": "Officiële site: dagelijks vanaf 11:00. Exacte sluiting en laatste toegang niet genoemd. Derdenbronnen geven 22:00, maar dit is niet bevestigd door de zaak; een PDF-menukaart van november 2025 noemt alleen do–zo en kan verouderd zijn. Geen 22:00 als zekerheid overnemen."
+        "reason": "Op 29-10-2026 melden de actuele eigen hoofdpagina en /openingstijden/ expliciet maandag t/m woensdag gesloten en donderdag t/m zondag vanaf 11:00. De eerdere weergave 'dagelijks vanaf 11:00' is vervangen; seizoensduur niet opgegeven. Exacte sluiting en laatste toegang onbekend. Gidsen noemen 22:00 maar dit is niet door de zaak bevestigd."
       },
       {
         "id": "schotse-vier-midsland-6021740",
