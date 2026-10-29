@@ -1,149 +1,136 @@
-"""Geocode ungeocoded Dutch street addresses using the free PDOK Locatieserver.
-Only exact city, street and house-number matches are accepted. No guessed points.
-Run on GitHub Actions before the Pages deployment.
+#!/usr/bin/env python3
+"""Geocode Dutch venue addresses using the PDOK Locatieserver.
+
+Only confirmed BAG street, house-number and city matches are accepted.
+Unmatched records remain without geo; no guessed map positions are created.
 """
-import difflib, json, re, time, unicodedata
+import difflib
+import json
+import re
+import time
+import unicodedata
 from pathlib import Path
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
-from urllib.error import HTTPError, URLError
 
-ROOT=Path(__file__).resolve().parents[1]
-DATA=ROOT/'data/venues.json'
-REPORT=ROOT/'data/geocode-report.json'
-API='https://api.pdok.nl/bzk/locatieserver/search/v3_1/free'
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data" / "venues.json"
+REPORT = ROOT / "data" / "geocode-report.json"
+API = "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free"
 
-def norm(s):
-    s=unicodedata.normalize('NFKD',str(s or '')).encode('ascii','ignore').decode().lower()
-    return re.sub(r'[^a-z0-9]+',' ',s).strip()
 
-def addr_parts(s):
-    s=s.strip().split(',',1)[0].strip()
-    # A public venue may list multiple house numbers; geocode only the first
-    # explicitly listed number, and only if PDOK confirms an exact address match.
-    # No street-only guesses; range endpoints are not inferred as locations.
-    match=re.match(r'^(.+?)\s+(\d+)(?:\s*[-–]\s*\d+)?\s*([a-zA-Z]?)\s*    return (match.group(1),int(match.group(2)),match.group(3).lower()) if match else None
+def norm(value):
+    value = unicodedata.normalize("NFKD", str(value or ""))
+    value = value.encode("ascii", "ignore").decode("ascii").lower()
+    return re.sub(r"[^a-z0-9]+", " ", value).strip()
 
-def extract_point(wkt):
-    m=re.match(r'^POINT\s*\(\s*([-+\d.]+)\s+([-+\d.]+)\s*\)$',str(wkt or ''),flags=re.I)
-    if not m:return None
-    lon,lat=map(float,m.groups())
-    return [round(lat,7),round(lon,7)] if 50.0 < lat < 54.0 and 3.0 < lon < 8.0 else None
 
-def request(q):
-    url=API+'?'+urlencode({'q':q,'rows':8,'fq':'type:adres'})
-    for attempt in range(3):
-        try:
-            req=Request(url,headers={'User-Agent':'nogergensnaarbinnen/0.1 (public open-data map)', 'Accept':'application/json'})
-            with urlopen(req,timeout=24) as res: return json.load(res).get('response',{}).get('docs',[])
-        except (HTTPError,URLError,TimeoutError,ValueError) as e:
-            print('PDOK request failed:',str(e)[:180]);time.sleep(2*(attempt+1))
-    return []
+def addr_parts(address):
+    text = str(address or "").split(",", 1)[0].strip()
+    match = re.fullmatch(r"(.+?)\s+(\d+)(?:\s*[-–]\s*\d+)?\s*([a-zA-Z]?)", text)
+    if not match:
+        return None
+    street, house_number, letter = match.groups()
+    return street, int(house_number), letter.lower()
 
-def geo(place):
-    parts=addr_parts(place.get('address',''))
-    if not parts:return None,'no-number-or-unparseable-address'
-    street,number,suffix=parts
-    docs=request(f'{street} {number}{suffix} {place["city"]}')
-    for obj in docs:
-        if norm(obj.get('woonplaatsnaam')) != norm(place['city']): continue
-        if str(obj.get('type','')).lower()!='adres':continue
-        try:docnumber=int(obj.get('huisnummer'))
-        except (ValueError,TypeError):continue
-        if docnumber!=number:continue
-        observed=norm(obj.get('straatnaam',''))
-        expected=norm(street)
-        if observed!=expected and difflib.SequenceMatcher(None,observed,expected).ratio()<0.93:continue
-        point=extract_point(obj.get('centroide_ll'))
-        if point:
-            return {'lat':point[0],'lon':point[1],'method':'PDOK BAG-adres',
-                    'matched_address':obj.get('weergavenaam','')},'ok'
-    return None,'no-exact-PDOK-match'
-
-def main():
-    payload=json.loads(DATA.read_text(encoding='utf-8'))
-    updated=0; failures=[]
-    for i,p in enumerate(payload['places'],1):
-        if p.get('geo') and isinstance(p['geo'],dict) and p['geo'].get('lat') and p['geo'].get('lon'):
-            continue
-        if not p.get('address'):
-            failures.append({'name':p['name'],'address':'','reason':'missing-address'})
-            continue
-        g,reason=geo(p)
-        if g:
-            p['geo']=g;updated+=1
-        else:failures.append({'name':p['name'],'address':p['address'],'reason':reason})
-        if i % 20==0:print(f'{i}/{len(payload["places"])} checked; geocoded {updated}')
-        time.sleep(0.3)
-    DATA.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    count=sum(bool(p.get('geo')) for p in payload['places'])
-    report={'total':len(payload['places']),'with_coordinates':count,
-            'without_coordinates':len(payload['places'])-count,'added_in_this_run':updated,'unmatched':failures}
-    REPORT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'Geocoded {count}/{len(payload["places"])}; {len(failures)} unmatched (no approximate pins).')
-
-if __name__=='__main__':
-    main()
-, s)
-    return (match.group(1),int(match.group(2)),match.group(3).lower()) if match else None
 
 def extract_point(wkt):
-    m=re.match(r'^POINT\s*\(\s*([-+\d.]+)\s+([-+\d.]+)\s*\)$',str(wkt or ''),flags=re.I)
-    if not m:return None
-    lon,lat=map(float,m.groups())
-    return [round(lat,7),round(lon,7)] if 50.0 < lat < 54.0 and 3.0 < lon < 8.0 else None
+    match = re.fullmatch(
+        r"POINT\s*\(\s*([-+\d.]+)\s+([-+\d.]+)\s*\)",
+        str(wkt or ""), flags=re.IGNORECASE,
+    )
+    if not match:
+        return None
+    lon, lat = map(float, match.groups())
+    if 50.0 < lat < 54.0 and 3.0 < lon < 8.0:
+        return round(lat, 7), round(lon, 7)
+    return None
 
-def request(q):
-    url=API+'?'+urlencode({'q':q,'rows':8,'fq':'type:adres'})
+
+def request(query):
+    url = API + "?" + urlencode({"q": query, "rows": 8, "fq": "type:adres"})
     for attempt in range(3):
         try:
-            req=Request(url,headers={'User-Agent':'nogergensnaarbinnen/0.1 (public open-data map)', 'Accept':'application/json'})
-            with urlopen(req,timeout=24) as res: return json.load(res).get('response',{}).get('docs',[])
-        except (HTTPError,URLError,TimeoutError,ValueError) as e:
-            print('PDOK request failed:',str(e)[:180]);time.sleep(2*(attempt+1))
+            req = Request(url, headers={
+                "User-Agent": "nogergensnaarbinnen/0.1 (public open-data map)",
+                "Accept": "application/json",
+            })
+            with urlopen(req, timeout=24) as response:
+                return json.load(response).get("response", {}).get("docs", [])
+        except (HTTPError, URLError, TimeoutError, ValueError) as exc:
+            print("PDOK request failed:", str(exc)[:180])
+            time.sleep(2 * (attempt + 1))
     return []
 
+
 def geo(place):
-    parts=addr_parts(place.get('address',''))
-    if not parts:return None,'no-number-or-unparseable-address'
-    street,number,suffix=parts
-    docs=request(f'{street} {number}{suffix} {place["city"]}')
-    for obj in docs:
-        if norm(obj.get('woonplaatsnaam')) != norm(place['city']): continue
-        if str(obj.get('type','')).lower()!='adres':continue
-        try:docnumber=int(obj.get('huisnummer'))
-        except (ValueError,TypeError):continue
-        if docnumber!=number:continue
-        observed=norm(obj.get('straatnaam',''))
-        expected=norm(street)
-        if observed!=expected and difflib.SequenceMatcher(None,observed,expected).ratio()<0.93:continue
-        point=extract_point(obj.get('centroide_ll'))
+    parts = addr_parts(place.get("address"))
+    if not parts:
+        return None, "no-number-or-unparseable-address"
+    street, number, suffix = parts
+    candidates = request(f'{street} {number}{suffix} {place["city"]}')
+    for candidate in candidates:
+        if norm(candidate.get("woonplaatsnaam")) != norm(place.get("city")):
+            continue
+        if str(candidate.get("type", "")).lower() != "adres":
+            continue
+        try:
+            found_number = int(candidate.get("huisnummer"))
+        except (ValueError, TypeError):
+            continue
+        if found_number != number:
+            continue
+        found_street, wanted_street = norm(candidate.get("straatnaam")), norm(street)
+        if (found_street != wanted_street and
+                difflib.SequenceMatcher(None, found_street, wanted_street).ratio() < .93):
+            continue
+        if suffix:
+            found_suffix = norm(candidate.get("huisletter") or "")
+            if found_suffix != norm(suffix):
+                continue
+        point = extract_point(candidate.get("centroide_ll"))
         if point:
-            return {'lat':point[0],'lon':point[1],'method':'PDOK BAG-adres',
-                    'matched_address':obj.get('weergavenaam','')},'ok'
-    return None,'no-exact-PDOK-match'
+            lat, lon = point
+            return {
+                "lat": lat, "lon": lon, "method": "PDOK BAG-adres",
+                "matched_address": candidate.get("weergavenaam", ""),
+            }, "ok"
+    return None, "no-exact-PDOK-match"
+
 
 def main():
-    payload=json.loads(DATA.read_text(encoding='utf-8'))
-    updated=0; failures=[]
-    for i,p in enumerate(payload['places'],1):
-        if p.get('geo') and isinstance(p['geo'],dict) and p['geo'].get('lat') and p['geo'].get('lon'):
+    dataset = json.loads(DATA.read_text(encoding="utf-8"))
+    updated = 0
+    failures = []
+    for index, place in enumerate(dataset["places"], 1):
+        existing = place.get("geo")
+        if isinstance(existing, dict) and existing.get("lat") and existing.get("lon"):
             continue
-        if not p.get('address'):
-            failures.append({'name':p['name'],'address':'','reason':'missing-address'})
+        if not place.get("address"):
+            failures.append({"name": place["name"], "address": "", "reason": "missing-address"})
             continue
-        g,reason=geo(p)
-        if g:
-            p['geo']=g;updated+=1
-        else:failures.append({'name':p['name'],'address':p['address'],'reason':reason})
-        if i % 20==0:print(f'{i}/{len(payload["places"])} checked; geocoded {updated}')
-        time.sleep(0.3)
-    DATA.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    count=sum(bool(p.get('geo')) for p in payload['places'])
-    report={'total':len(payload['places']),'with_coordinates':count,
-            'without_coordinates':len(payload['places'])-count,'added_in_this_run':updated,'unmatched':failures}
-    REPORT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'Geocoded {count}/{len(payload["places"])}; {len(failures)} unmatched (no approximate pins).')
+        location, reason = geo(place)
+        if location:
+            place["geo"] = location
+            updated += 1
+        else:
+            failures.append({
+                "name": place["name"], "address": place["address"],
+                "city": place.get("city"), "reason": reason,
+            })
+        if index % 20 == 0:
+            print(f'{index}/{len(dataset["places"])} checked; geocoded {updated}')
+        time.sleep(.3)
+    DATA.write_text(json.dumps(dataset, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    count = sum(bool(place.get("geo")) for place in dataset["places"])
+    REPORT.write_text(json.dumps({
+        "total": len(dataset["places"]), "with_coordinates": count,
+        "without_coordinates": len(dataset["places"]) - count,
+        "added_in_this_run": updated, "unmatched": failures,
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f'Geocoded {count}/{len(dataset["places"])}; {len(failures)} unmatched.')
 
-if __name__=='__main__':
+
+if __name__ == "__main__":
     main()
