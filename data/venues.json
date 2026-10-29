@@ -11234,17 +11234,17 @@
       "alcohol": "Officiële site vermeldt borrel en aparte borrelkaart; drankaanbod aanwezig.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
         "do": "?",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen site vermeldt dagelijks geopend vanaf 11:00, maar geen eindtijd. Oudere eigen PDF uit 2025 geeft andere weekdagen; actuele website heeft voorrang voor opening, sluiting blijft onbekend.",
+      "closing_quality": "Officiële pagina 29-10-2026: ma–wo gesloten, do–zo vanaf 11:00. Geen eindtijd of laatste toegang gepubliceerd; 22:00 uit gidsen niet als bevestigd overgenomen.",
       "closing_source": "https://www.dekajuit.com/openingstijden/",
-      "closing_notes": "Officiële site: dagelijks vanaf 11:00. Exacte sluiting en laatste toegang niet genoemd. Derdenbronnen geven 22:00, maar dit is niet bevestigd door de zaak; een PDF-menukaart van november 2025 noemt alleen do–zo en kan verouderd zijn. Geen 22:00 als zekerheid overnemen.",
+      "closing_notes": "Op 29-10-2026 melden de actuele eigen hoofdpagina en /openingstijden/ expliciet maandag t/m woensdag gesloten en donderdag t/m zondag vanaf 11:00. De eerdere weergave 'dagelijks vanaf 11:00' is vervangen; seizoensduur niet opgegeven. Exacte sluiting en laatste toegang onbekend. Gidsen noemen 22:00 maar dit is niet door de zaak bevestigd.",
       "features": "Restaurant/café aan de jachthaven; lunch, borrel, diner, terras; privéfeesten",
       "website": "https://www.dekajuit.com/",
       "other_sources": [
@@ -11264,9 +11264,9 @@
       "website_provenance": "Eigen officiële site vermeldt naam Restaurant De Kajuit, Jachthaven De Domp 1, Sneek, telefoon en horecaaanbod.",
       "website_checked_on": "2026-10-29",
       "opening": {
-        "ma": "11:00",
-        "di": "11:00",
-        "wo": "11:00",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
         "do": "11:00",
         "vr": "11:00",
         "za": "11:00",
@@ -11274,7 +11274,8 @@
       },
       "opening_source": "https://www.dekajuit.com/openingstijden/",
       "opening_checked_on": "2026-10-29",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-10-29",
+      "opening_quality": "Officiële website opnieuw direct gecontroleerd op 29-10-2026: zowel hoofdpagina als /openingstijden/ melden ma–wo GESLOTEN en do–zo geopend vanaf 11:00. Eerdere crawls/derdenbronnen met dagelijks 11:00 zijn achterhaald; exacte ingangsdatum van dit rooster onbekend."
     },
     {
       "id": "grand-cafe-de-walrus-sneek-4998266",
@@ -16565,18 +16566,19 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_quality": "Geen officieel dagelijks weekrooster aangetroffen; externe gidsen geven 12:00–22:00 maar niet door eigen zaak bevestigd.",
-      "closing_quality": "Niet door eigen website bevestigd; gidsen noemen 22:00, niet als feit overgenomen.",
+      "opening_quality": "Eigen site op 29-10-2026 zonder expliciet weekrooster. Externe bronnen spreken elkaar tegen: BestRestos (20-10-2026) dagelijks 12:00–22:00; FindGlocal (spiegel van sociale berichten) ma–do 15:30–22:00 en vr–zo 12:00–22:00, maar verouderde profieltekst zegt maandag gesloten. Recente aan de zaak toegeschreven post van 28-09-2026 zegt op die maandag geopend. Geen actuele vaste daguren als officieel bevestigd.",
+      "closing_quality": "Eigen website vermeldt geen dagelijkse sluiting of uiterste toegang. Derdenbronnen tonen 22:00 maar zijn niet bedrijfseigen bevestigd; niet als exacte sluiting overgenomen (29-10-2026).",
       "opening_source": "",
       "closing_source": "",
-      "closing_notes": "Eigen website biedt borrel en nodigt uit om langs te komen, maar geeft geen expliciet dagelijks openings-/sluitingsrooster. Derden noemen 12:00–22:00; niet als zekerheid overgenomen. Laatste toegang onbekend. De 16:00-grens op de eigen site betreft uitsluitend online reserveren voor dezelfde dag, NIET de sluiting of uiterste toegang.",
+      "closing_notes": "Officiële site vermeldt geen betrouwbaar weekrooster. BestRestos (20-10-2026) noemt dagelijks 12:00–22:00; FindGlocal (sociale-postspiegel) geeft ma–do 15:30–22:00 en vr–zo 12:00–22:00, maar de profieltekst noemt maandag gesloten. Een post van 28-09-2026 meldt maandag wel open; geen bewijs voor een vast rooster. Alle tijden blijven onbekend tot eigen bevestiging. De 16:00-grens op de officiële site geldt uitsluitend voor online reserveren op dezelfde dag, niet voor toegang of sluiting.",
       "features": "Restaurant, borrel, speciaalbier, high wine/high beer, terras aan de gracht",
       "website": "https://aan-de-gracht.nl/",
       "website_provenance": "Eigen site bevestigt naam, Grootzand 4, drankarrangementen en exploitatie; Sneek.nl bevestigt adres en speciaalbier/wijn.",
       "other_sources": [
         "https://www.sneek.nl/zien-doen/aan-de-gracht",
         "https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504",
-        "https://restaurantaandegracht.nl/"
+        "https://restaurantaandegracht.nl/",
+        "https://www.findglocal.com/NL/Sneek/932014270230701/Aan-de-Gracht"
       ],
       "original_status": "Officiële restaurantwebsite op 29-10-2026 opnieuw gecontroleerd: drankenkaart, borrelkaart en expliciete uitnodiging tot borrelen zonder maaltijd; geen bevestigd dagrooster of laatste toegang.",
       "website_checked_on": "2026-10-29",
@@ -16586,7 +16588,8 @@
         "lon": 5.6615142,
         "method": "PDOK BAG-adres",
         "matched_address": "Grootzand 4, 8601AW Sneek"
-      }
+      },
+      "opening_checked_on": "2026-10-29"
     },
     {
       "id": "fenix-sneek-kleine-kerkstraat-4c",
