@@ -11,7 +11,7 @@
 3. Voer per beurt een afgebakende batch helemaal uit: onderzoek, gegevens vastleggen, GitHub-commit, validatie en deze takenlijst bijwerken.
 4. Bewaar bij elke batch welke locaties/velden echt zijn geverifieerd, bron-URL's, controledatums, nog openstaande twijfel en eventuele fouten.
 5. Markeer taken pas als voltooid na controle. Lukt een stap niet, documenteer het obstakel en ga zo nodig door met een onafhankelijke stap.
-6. Geen achtergrondverwerking veronderstellen: vervolgwerk gebeurt in nieuwe beurten wanneer de gebruiker daarom vraagt. De wekelijkse geplande databasecheck is een aparte, bestaande taak.
+6. De actieve **uurlijkse TODO-automatisering** kan kleine batches zelfstandig hervatten; bij handmatig 'ga door' gebeurt dat eveneens. Elke uitvoering moet worden gevalideerd en hier worden vastgelegd. De wekelijkse databasecheck is een afzonderlijke taak. Voeg toekomstige fasen aan de lijst toe in plaats van grote verzoeken stilzwijgend af te breken.
 
 ## Huidige momentopname (29 oktober 2026)
 
@@ -60,6 +60,47 @@ Voor **ieder** record: controleer of naam, adres en huidige exploitatie kloppen;
 - [ ] **C2. Controle aangekondigde (her)openingen in Utrecht op de werkelijke openingsdatum**, niet op basis van aankondigingen automatisch als open markeren.
 - [ ] **C3. Periodieke ontdekking van nieuwe horecalocaties in Friesland en Utrecht**, met bronregister en directe GitHub-updates van bevestigde wijzigingen.
 
+## D. Uitbreiden naar heel Nederland — **ná voldoende controle van Friesland**
+
+**Besluit gebruiker (29 oktober 2026):** breid het horecaproject uit naar de **rest van Nederland** zodra Friesland *zo'n beetje klaar* is. Dit is expliciet een **vervolgfase**, dus nu geen ongecontroleerde nationale bulkimport. Regio-indeling mag voorlopig pragmatisch worden gekozen en later op aanwijzing van de gebruiker worden aangepast. Ook na de landelijke start blijft Friesland in de reguliere kwaliteits- en updatecyclus.
+
+### D0. Startcriterium / oplevermoment Friesland
+
+Leg in een voortgangsnotitie vast of de volgende voorwaarden zijn gehaald:
+
+- [ ] Iedere Friese gemeente, plus de vier bewoonde Waddeneilanden, is ten minste één keer systematisch onderzocht op ontbrekende publieke uitgaanshoreca (ook kleine kernen).
+- [ ] Van **minstens circa 80%** van de Friese bestaande records zijn de identiteit, het adres en de actuele exploitatiestatus met een passende, aantoonbare bron gecontroleerd. De overige records zijn expliciet als onbevestigd of voor hercontrole gemarkeerd; vermoedelijk gesloten of foutief is niet gelijk aan geverifieerd.
+- [ ] Voor **alle** Friese records is een gerichte poging gedaan de eigen officiële site te vinden; gevonden sites zijn bevestigd op naam/adres, niet slechts overgenomen van een zoekhit. Ontbrekende sites blijven expliciet onbekend.
+- [ ] Sluitings- en laatste-toegangstijden zijn waar beschikbaar **per locatie** nagezocht, met bron en controledatum; onbekende tijden zijn niet ingevuld op basis van vergunningen, categorieën of aannames. De belangrijke B1-tijdsfilterfout (bekende uiterste toegang, wisselende sluiting) is onderzocht en opgelost of als gedocumenteerde beperking veilig afgehandeld.
+- [ ] Geconstateerde structurele fouten in kaart, filtering, duplicaten en data-import zijn opgelost, of er is een concrete veilige aanpak en een aparte open taak. Er zijn geen kritieke fouten die nationale uitbreiding onbruikbaar maken.
+
+**Startbesluit:** wanneer deze criteria in hoofdzaak zijn gehaald, registreer in het voortgangslog **"Friesland voldoende afgerond voor landelijke uitbreiding"**, met aantallen en resterende risico's. Dit vereist **geen volledige dekking of 100% bekende openingstijden**. Laat de bestaande Friese onderhoudstaken doorlopen. Begin daarna zelfstandig aan D1. Als een criterium de voortgang onredelijk blokkeert, noteer waarom en kies een onderbouwde afwijking; niet stilzwijgend overslaan.
+
+### D1. Voorlopige regio-indeling
+
+- [ ] **D1. Regiostructuur ontwerpen en testen.** Gebruik initieel **provincies** als hanteerbare landelijke regio's, en splits bij behoefte uit naar steden/gemeenten. Behoud bestaande IDs en deeplinks: `friesland` blijft heel Friesland, `utrecht` blijft **Utrecht-stad**; voor het **overige deel van provincie Utrecht** kan `utrecht-provincie` worden toegevoegd. Migratie of hernoemen alleen inclusief URL-compatibiliteit. Nog geen lege regio's publiceren.
+- [ ] **D1a. Kaartnavigatie geschikt maken voor nabijgelegen regio's.** De huidige automatische regiokeuze via dichtstbijzijnde locatie/18 km is ontworpen voor Utrecht versus Friesland en kan rond aangrenzende provinciegrenzen onrustig schakelen. Evalueer grenzen, zichtbaar kaartgebied, hysterese en schaal; voorkom schommelingen en kaartterugsprongen. Zorg dat gebruikers op de kaart van het ene gebied naar het andere kunnen blijven pannen, ook over een grens heen.
+- [ ] **D1b. Beperk omvang van lijsten en kaartmarkers.** Test de performance bij duizenden records op mobiel en desktop; laad of render op kaartbereik en gekozen regio, zonder dat de aankomsttijdlogica wordt aangetast.
+
+### D2. Landelijke ontdekkings- en controlebatches
+
+- [ ] **D2a. Groningen en Drenthe** — bronneninventaris, stads- en dorpsdekking, officiële sites, individuele weekroosters en laatste toegang; kleine controleerbare batches.
+- [ ] **D2b. Overijssel en Flevoland** — idem.
+- [ ] **D2c. Gelderland** — idem, inclusief steden én kleine plaatsen.
+- [ ] **D2d. Noord-Holland** — idem, inclusief Texel; bij omvangrijke stedelijke clusters in kleine batches werken.
+- [ ] **D2e. Zuid-Holland** — idem.
+- [ ] **D2f. Zeeland** — idem, inclusief eilanden en seizoenszaken.
+- [ ] **D2g. Noord-Brabant en Limburg** — idem.
+- [ ] **D2h. Provincie Utrecht buiten Utrecht-stad** — idem; voorkom duplicatie met al opgenomen Utrechtse records.
+- [ ] **D2i. Landelijke dekkingsaudit** — controleer dat alle twaalf provincies, gemeenten, bewoonde eilanden en ook kleinere plaatsen systematisch aan bod zijn gekomen; documenteer ontbrekende delen.
+
+**Regel per batch:** niet alleen namen importeren. Controleer per zaak naam + adres, werkelijke status, alcoholaanbod/toegang, officiële website, sluiting, laatste toegang, bron en datum. Leg onbekenden vast als onbekend. Gebruik alleen `data/venues.json` als master; werk het afgeleide bronnenregister bij. Rapporteer expliciet volledigheid van de batch. Vermijd dubbeltellingen en schat nooit dat alles is gevonden.
+
+### D3. Landelijke periodieke actualisatie
+
+- [ ] **D3. Pas de wekelijkse controle-automatisering aan zodra uitbreiding echt is gestart** zodat ook nieuwe Nederlandse regio's in een gedocumenteerde roulatie komen. Behoud hercontroles van Utrecht en Friesland; voorkom overlap/conflicten met de uurlijkse TODO-automatisering.
+- [ ] **D3a. Houd per regio/gemeente bij** wanneer een ontdekkings- en actualiteitsronde echt is uitgevoerd, welke bronnen gecontroleerd zijn en waar nog hiaten zijn.
+
 ## Al afgerond (beperkte betekenis)
 
 - [x] Één masterdatabase `data/venues.json` voor beide regio's.
@@ -76,4 +117,5 @@ Voeg hieronder een korte regel toe, bijvoorbeeld:
 
 ### Voortgangslog
 
+- **2026-10-29 — Landelijke vervolgfase gepland:** na het halen van D0 eerst landelijke regio-indeling D1, daarna D2 per provincie, vervolgens D3 landelijke updatechecks. Er zijn door dit besluit nog geen nieuwe provincies of locaties toegevoegd.
 - **2026-10-29 — Startlijst aangemaakt** op basis van de reeds gedane GitHub-wijzigingen en resterende fouten. Eerste vervolgstap: **A1**.
