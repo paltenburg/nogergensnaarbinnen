@@ -10859,7 +10859,7 @@
     {
       "id": "cafe-fokk-s-sneek-108e0b5",
       "name": "Café Fokk's",
-      "type": "Kroeg",
+      "type": "Feestcafé",
       "address": "Kruizebroederstraat 5",
       "city": "Sneek",
       "region": "friesland",
@@ -10868,29 +10868,57 @@
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "Varieert",
+        "di": "Varieert",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Officiële website; geen vaste dagelijkse sluitingstijd",
+      "closing_source": "https://cafefokks.nl/info/",
+      "closing_notes": "De officiële site vermeldt dagelijks 21:00 tot 02:00–04:00. De werkelijke sluitingstijd verschilt; daarom geen vaste 04:00 aangenomen. Laatste toegang expliciet 02:00. Let op: een actief tijdsfilter kan wisselende sluitingstijden momenteel uitsluiten.",
+      "features": "Feestcafé; uitgaan/dansen",
+      "website": "https://cafefokks.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.ondernemendsneek.nl/leden/overzicht/fokks"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen officiële website en lokaal ondernemersregister geraadpleegd op 29 oktober 2026; daadwerkelijke opening op een specifiek moment niet live gegarandeerd.",
       "geo": {
         "lat": 53.0334144,
         "lon": 5.6585266,
         "method": "PDOK BAG-adres",
         "matched_address": "Kruizebroederstraat 5, 8601CK Sneek"
-      }
+      },
+      "website_provenance": "Officiële eigen site bevestigt naam, adres en horecafunctie; tevens vermeld als site door Vereniging Ondernemend Sneek",
+      "website_checked_on": "2026-10-29",
+      "opening": {
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "opening_source": "https://cafefokks.nl/info/",
+      "opening_checked_on": "2026-10-29",
+      "last_entry": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "last_entry_quality": "Expliciete laatste toegang op officiële website",
+      "last_entry_source": "https://cafefokks.nl/info/",
+      "last_entry_checked_on": "2026-10-29",
+      "last_entry_notes": "De website zegt: 'Vanaf 02:00 mag er niemand meer binnengelaten worden.' Geen aanname op basis van gemeentelijke APV.",
+      "checked_on": "2026-10-29"
     },
     {
       "id": "cafe-t-singeltje-sneek-2a92fa4",
