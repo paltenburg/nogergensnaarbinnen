@@ -404,9 +404,16 @@
     if(earliest===null||latest===null||earliest>latest)return null;
     return {earliest,latest,earliestText:range.earliest,latestText:range.latest};
   }
+  function latestClosing(p,day=state.day){
+    const value=p.closing_latest?.[day];
+    return timeVal(value)!==null?value:null;
+  }
   function displayClosing(p,s,day=state.day){
-    const range=closingWindow(p,day);
-    const value=range?range.earliestText+'–'+range.latestText:closingLabel(s);
+    const range=closingWindow(p,day),latest=latestClosing(p,day);
+    // "Uiterlijk" is a hard upper bound, never an exact closing or last-entry time.
+    const value=range?range.earliestText+'–'+range.latestText:
+      timeVal(s)!==null?closingLabel(s):
+      latest?'Uiterlijk '+latest:closingLabel(s);
     return p.typical_closing_days?.includes(day)?'≈ '+value:value;
   }
   function effectiveAdmission(p,day=state.day){
@@ -451,8 +458,11 @@
     if(state.after){
       const arrivalAt=arrivalVal(),closes=timeVal(closing(p));
       const window=closingWindow(p),admission=effectiveAdmission(p,state.day);
-      const lastAdmission=timeVal(admission?.time);
+      const lastAdmission=timeVal(admission?.time),latest=timeVal(latestClosing(p));
       if(arrivalAt===null||closing(p)==='—')return false;
+      // A latest-possible closing time can rule a venue OUT, but cannot prove
+      // that it is still open before that time.
+      if(latest!==null&&arrivalAt>=latest)return false;
       // A known exact closing time or the earliest end of a verified closing
       // window must still be respected, even when a last-entry limit is known.
       if(closes!==null&&arrivalAt>=closes)return false;
@@ -615,6 +625,7 @@
         +'<div class="card-desc">'+esc(p.type)+'<br><em>'+esc([p.address,p.city].filter(Boolean).join(', ')||'Adres nog onbekend')+'</em></div>'
         +(p.features?'<div class="card-features">'+esc(p.features)+'</div>':'')
         +(entry?'<div class="card-entry-limit"><strong>Binnen tot '+esc(displayAdmission(entry))+'</strong><span>Sluit '+esc(displayClosing(p,s))+'</span></div>':'')
+        +(!entry&&latestClosing(p)?'<div class="card-event-warning">Sluit uiterlijk '+esc(latestClosing(p))+' · eerder sluiten mogelijk; laatste toegang onbekend</div>':'')
         +(p.event_dependent?'<div class="card-event-warning">Alleen bij een aangekondigd evenement · controleer tickets</div>':'')
         +'<div class="card-tags">'+(p.geo?.lat?'':'<span class="pill">Geen kaartpositie</span>')+(p.selection==='Nog te controleren'?'<span class="pill">Toegang controleren</span>':'')+(s==='?'?'<span class="pill">Sluiting onbekend</span>':'')+'</div>';
       main.addEventListener('click',()=>openPlace(p.id));card.appendChild(main);
@@ -628,6 +639,7 @@
       const line=(title,value)=>{if(!value)return;const row=document.createElement('p');const strong=document.createElement('strong');strong.textContent=title+': ';row.appendChild(strong);row.appendChild(document.createTextNode(value));content.appendChild(row);};
       line('Toegang',p.access);line('Opmerking',p.closing_notes);line('Tijdbron',p.closing_quality);line('Nagekeken',p.checked_on);
       if(p.opening)line('Opening per dag',days.map(d=>d.toUpperCase()+' '+closingLabel(p.opening[d])).join(' · '));
+      if(p.closing_latest)line('Uiterlijk gesloten per uitgaansavond',days.map(d=>d.toUpperCase()+' '+(latestClosing(p,d)||'Onbekend')).join(' · '));
       if(p.last_entry||p.admission_policy_id){
         line('Uiterste toegang per uitgaansavond',days.map(d=>{
           const adm=effectiveAdmission(p,d);
