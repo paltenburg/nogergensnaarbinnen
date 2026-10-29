@@ -15,7 +15,6 @@
     .top{grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;gap:14px;background:#101d2d;border-bottom:1px solid #26374a;padding:16px 22px;z-index:600}
     .brand{display:flex;align-items:center;min-width:0}}
     .brand h1{font-size:19px;line-height:1.15;letter-spacing:-.45px;margin:0}
-    .top-right{display:flex;align-items:center;gap:14px}.share{border:1px solid #43536a;color:#eaf2f8;background:transparent;padding:9px 13px;border-radius:10px;font-size:13px;font-weight:650;white-space:nowrap}.share:hover{border-color:#f2b354}
     .sidebar{background:#111e2e;display:flex;flex-direction:column;overflow:hidden;border-right:1px solid #283a4e;z-index:450}
     .filters{padding:21px 19px 16px;border-bottom:1px solid #2b3c50;display:grid;gap:13px;flex:none}
     .section-title{color:#8ba1b8;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:1.3px;margin:1px 0 2px}
@@ -56,15 +55,13 @@
     .popup-title{font-size:16px;font-weight:800;margin-bottom:2px;max-width:220px}.popup-sub{font-size:12px;color:#b5c8d7;margin-bottom:10px}.popup-line{font-size:12px;margin:4px 0}.popup-link{display:inline-flex;margin-top:9px;padding:7px 10px;background:#f3b55b;color:#132137!important;text-decoration:none;border-radius:7px;font-size:12px;font-weight:800}.popup-source{display:block;color:#b6cae1!important;text-decoration:underline;margin-top:8px;font-size:11px;word-break:break-word}
     .empty{padding:25px 15px;color:#9fb4c7;font-size:13px;line-height:1.6}.visually-hidden{position:absolute;clip-path:inset(50%);height:1px;width:1px;overflow:hidden;white-space:nowrap}
     @media(max-width:880px){.app{height:auto;min-height:100dvh;display:flex;flex-direction:column}.top{position:sticky;top:0}.sidebar{border-right:0;overflow:visible}.filters{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 10px;padding:13px 15px}.search-wrap,.section-title,.check-line{grid-column:1/-1}.filters .pair{grid-column:1/-1}.results-header{padding:10px 15px}.results{display:flex;overflow:auto;min-height:94px;padding:0 8px 9px;gap:4px}.card{flex:0 0 240px;margin:0 0 3px;width:240px;padding:10px 12px}.card-tags{display:none}.foot{display:none}.mapbox{height:54dvh;min-height:355px;flex:1}.floating{top:10px;right:10px;max-width:190px;padding:8px 10px}.legend{bottom:22px;left:10px;font-size:10px}}
-    @media(max-width:520px){.top{padding:12px 15px}.brand h1{font-size:17px}.share{padding:8px 10px}.floating{max-width:160px}.floating strong{font-size:11px}.floating p{font-size:10px}}
+    @media(max-width:520px){.top{padding:12px 15px}.brand h1{font-size:17px}.floating{max-width:160px}.floating strong{font-size:11px}.floating p{font-size:10px}}
 
     /* Duidelijk licht thema; de sluitingstijdkleuren blijven intact. */
     :root{color:#192d3c;background:#f8fafc;color-scheme:light}
     body{background:#f8fafc}
     .top{background:#fff;border-bottom-color:#d9e2e9;box-shadow:none}
-    .share{background:#fff;color:#25384a;border-color:#abb9c5}
-    .share:hover{background:#f1f6fa;border-color:#406889}
-    .share:focus-visible,.now-button:focus-visible,.card-actions a:focus-visible,.popup-source:focus-visible,.popup-link:focus-visible{outline:3px solid #2674b4;outline-offset:2px}
+    .now-button:focus-visible,.card-actions a:focus-visible,.popup-source:focus-visible,.popup-link:focus-visible{outline:3px solid #2674b4;outline-offset:2px}
     .sidebar{background:#f8fafc;border-right-color:#d9e2e9}
     .filters{background:#f8fafc;border-bottom-color:#d9e2e9}
     .section-title{color:#576b7c}
@@ -217,7 +214,7 @@
       .app{position:relative;display:block;height:100dvh;min-height:0;overflow:hidden}
       .mapbox{display:block;position:fixed;inset:0;width:100%;height:100dvh;min-width:0;z-index:0;background:#e8ebec}
       #map{display:block;position:absolute;inset:0;width:100%;height:100%;min-height:0}
-      .top{position:fixed;top:14px;left:16px;right:16px;z-index:850;display:flex;width:auto;grid-column:auto;padding:12px 17px;border:1px solid #d7e1e8;border-radius:14px;background:#fffffff0;box-shadow:none;backdrop-filter:blur(10px)}
+      .top{position:fixed;top:14px;left:16px;right:16px;z-index:850;display:flex;align-items:center;width:auto;height:64px;grid-column:auto;padding:10px 17px;border:1px solid #d7e1e8;border-radius:14px;background:#fffffff0;box-shadow:none;backdrop-filter:blur(10px)}
       .sidebar{position:fixed;top:88px;left:16px;bottom:16px;width:min(405px,calc(100vw - 32px));height:auto;min-height:0;z-index:700;display:flex;flex-direction:column;overflow:hidden;background:#fffffff4;border:1px solid #cbd8e2;border-radius:15px;box-shadow:0 9px 34px #1b324a35;backdrop-filter:blur(12px)}
       .filters{display:contents}
       .pair{order:2;flex:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.18fr);gap:9px;margin:0;padding:9px 15px 14px;background:transparent;border:0}
@@ -243,7 +240,7 @@
       .mapbox{display:block;position:fixed;inset:0;width:100%;height:100dvh;min-height:0;z-index:0;background:#e8ebec}
       #map{display:block;position:absolute;inset:0;width:100%;height:100%;min-height:0;overflow-anchor:none}
       .top{position:fixed;top:calc(env(safe-area-inset-top,0px) + 7px);left:8px;right:8px;z-index:850;display:flex;align-items:center;width:auto;height:64px;padding:9px 12px;border:1px solid #d7e1e8;border-bottom:0;border-radius:13px 13px 0 0;background:#fffffff1;box-shadow:none;backdrop-filter:blur(9px)}
-      .top .brand h1{font-size:clamp(15px,4.3vw,18px);line-height:1.15}
+      .top .brand h1{font-size:clamp(17px,4.8vw,20px);line-height:1.15}
       .sidebar,.filters{display:contents}
       .pair,.filters .pair{position:fixed;top:calc(env(safe-area-inset-top,0px) + 71px);left:8px;right:8px;z-index:740;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:9px;margin:0;padding:8px 11px 11px;border:1px solid #d7e1e8;border-top:0;border-radius:0 0 13px 13px;background:#fffffff1;box-shadow:none}
       .pair select{padding:10px 26px 10px 8px;font-size:13px}
@@ -287,7 +284,6 @@
 <div class="app">
   <header class="top">
     <div class="brand"><h1>Nog ergens naar binnen, vanaf:</h1></div>
-    <div class="top-right"><button class="share" type="button" id="shareBtn" title="Deel deze kaart met de actieve filters">↗ Deel kaart</button></div>
   </header>
   <aside class="sidebar">
     <div class="filters">
@@ -753,7 +749,6 @@
     if(window.innerWidth>880&&document.body.classList.contains('mobile-filters-open'))setMobileFilters(false);
     if(map)map.invalidateSize({pan:false});
   });
-  el('shareBtn').addEventListener('click',async()=>{encodeFilters();const link=location.href;try{if(navigator.share){await navigator.share({title:'nogergensnaarbinnen',url:link});return;}if(navigator.clipboard?.writeText){await navigator.clipboard.writeText(link);const btn=el('shareBtn');btn.textContent='✓ Link gekopieerd';setTimeout(()=>btn.textContent='↗ Deel kaart',2200);return;}}catch(e){if(e.name==='AbortError')return;}prompt('Kopieer deze link:',link);});
   start();
 })();
 </script>
