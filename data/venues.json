@@ -11092,28 +11092,30 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Nee",
+      "selection": "Nog te controleren",
       "closing": {
-        "ma": "—",
-        "di": "—",
-        "wo": "—",
-        "do": "—",
-        "vr": "—",
-        "za": "—",
-        "zo": "—"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Tijdelijk gesloten volgens recente bedrijvengids, geen bevestigde heropening na verkoop in 2024.",
-      "closing_source": "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
-      "closing_notes": "GrootSneek 26-07-2024: pand verkocht, eigenaar zoekt nieuwe uitbater; RestaurantGuru (gecontroleerd 29-10-2026) vermeldt tijdelijk gesloten en een oudere bezoeker meldt sluiting sinds september. Oude gidsuren 10:00–00:00 niet als actuele opening gebruiken. Geen heropening bevestigd.",
+      "closing_quality": "Heropeningsplan mei/juni 2026 met nieuwe uitbater, maar openbare exploitatie en actuele weektijden op 29-10-2026 niet bevestigd; oudere gids 'tijdelijk gesloten' kan achterlopen.",
+      "closing_source": "https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek",
+      "closing_notes": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/sneek",
         "https://www.grootsneek.nl/nieuws/in-bedrijf/84159/bruin-cafe-it-skutsje-verkocht",
         "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
-        "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje"
+        "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje",
+        "https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek",
+        "https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece"
       ],
-      "original_status": "NIET ALS OPEN TONEN: tijdelijke sluiting in bron vermeld; heropening en nieuwe exploitant niet vastgesteld. Dit is geen bevestiging van definitieve sluiting.",
+      "original_status": "Nieuwe uitbater Wiebo de Visser bevestigd in GrootSneek 25 mei 2026 en LC 8 juni 2026; publieke heropening per 29-10-2026 nog niet onafhankelijk bevestigd. Voorlopig niet standaard tonen, status nog te controleren.",
       "geo": {
         "lat": 53.0336922,
         "lon": 5.6651099,
@@ -11348,31 +11350,35 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Historische zaak; onderneming Mootz Sneek (KvK 51144964) volgens Oozo niet langer actief. Geen bevestiging van huidige exploitatie onder deze naam.",
+      "closing_source": "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/231771/mootz-sneek",
+      "closing_notes": "Partyflock toont als laatste evenement 7 augustus 2017; bedrijfsvermelding zegt niet langer actief. HFS Freelancers noemt zonder actuele onderbouwing dagelijks 18:00 en vr/za tot 04:00; dit botst met de bedrijfsstatus en is niet overgenomen. Zoek eventuele opvolger op Kruizebroederstraat 23–25.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/sneek"
+        "https://uitgaanskaart.nl/cafe/sneek",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/231771/mootz-sneek",
+        "https://partyflock.nl/location/13782/archive",
+        "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Mootz Sneek als onderneming niet meer actief volgens KvK-afgeleid Oozo-profiel (gecontroleerd 29-10-2026); huidige horecanaam/nieuwe uitbater op adres onbekend. Uitgesloten uit resultaten, niet noodzakelijk pand definitief gesloten.",
       "geo": {
         "lat": 53.033468,
         "lon": 5.6586761,
         "method": "PDOK BAG-adres",
         "matched_address": "Kruizebroederstraat 23, 8601CK Sneek"
-      }
+      },
+      "checked_on": "2026-10-29"
     },
     {
       "id": "t-kannet-heerenveen-75a1ed4",
@@ -16618,6 +16624,99 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Stevenshoek 23, 8525EK Langweer"
       }
+    },
+    {
+      "id": "espressobar-smuk-sneek-kleinzand-1",
+      "name": "Espressobar Smûk",
+      "type": "Espressobar / café",
+      "address": "Kleinzand 1",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site: vrij binnenlopen; geen reservering nodig.",
+      "alcohol": "Eigen website en Sneek.nl bevestigen bier, wijn en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "?",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "17:30",
+        "di": "?",
+        "wo": "17:30",
+        "do": "17:30",
+        "vr": "17:30",
+        "za": "17:30",
+        "zo": "17:00"
+      },
+      "opening_quality": "Eigen website gecontroleerd 29-10-2026. Dinsdag onzeker: eigen site noemt 09:00–17:30, regionale toerismesite en VindOpen noemen dinsdag gesloten.",
+      "closing_quality": "Eigen website voor ma en wo–zo; dinsdag tegenstrijdige brongegevens, dus onbekend.",
+      "opening_source": "https://espressobar-smuk.nl/",
+      "closing_source": "https://espressobar-smuk.nl/",
+      "closing_notes": "Dinsdag niet als zeker open tonen: eigen site 09:00–17:30, Friesland.nl en VindOpen 28-09-2026 zeggen gesloten. Laatste toegang niet afzonderlijk vermeld; geen avondhoreca.",
+      "features": "Koffie, lunch en borrel met bier, wijn en cocktails; overdag geopend",
+      "website": "https://espressobar-smuk.nl/",
+      "website_provenance": "Eigen site, Sneek.nl en Friesland.nl bevestigen naam, adres en alcoholaanbod.",
+      "other_sources": [
+        "https://www.sneek.nl/zien-doen/espressobar-smuk",
+        "https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk",
+        "https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470"
+      ],
+      "original_status": "Actuele zaak en adres bevestigd via eigen site en lokale toeristische gids; geen live beschikbaarheidsgarantie.",
+      "website_checked_on": "2026-10-29",
+      "opening_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "id": "aan-de-gracht-sneek-grootzand-4",
+      "name": "Restaurant Aan de Gracht",
+      "type": "Restaurant / borrel",
+      "address": "Grootzand 4",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt restaurantbezoek, reserveringen en borrelarrangementen; vrije inloop voor uitsluitend drank niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen website biedt High-Wine, High-Beer, cocktails en bieren van de tap.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen officieel dagelijks weekrooster aangetroffen; externe gidsen geven 12:00–22:00 maar niet door eigen zaak bevestigd.",
+      "closing_quality": "Niet door eigen website bevestigd; gidsen noemen 22:00, niet als feit overgenomen.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "Meerdere gidsen geven dagelijks 12:00–22:00 (o.a. BestRestos bijgewerkt 20-10-2026), maar eigen site geeft geen expliciet dagelijks rooster. Laatste toegang en eventuele alleen-borrelen-toegang onbekend. Met tijdsfilter niet tonen totdat betrouwbare eindtijd is bevestigd.",
+      "features": "Restaurant, borrel, speciaalbier, high wine/high beer, terras aan de gracht",
+      "website": "https://aan-de-gracht.nl/",
+      "website_provenance": "Eigen site bevestigt naam, Grootzand 4, drankarrangementen en exploitatie; Sneek.nl bevestigt adres en speciaalbier/wijn.",
+      "other_sources": [
+        "https://www.sneek.nl/zien-doen/aan-de-gracht",
+        "https://bestrestos.nl/restaurant/aan-de-gracht-sneek-3504",
+        "https://restaurantaandegracht.nl/"
+      ],
+      "original_status": "Actuele restaurantwebsite aanwezig en drankenaanbod bevestigd 29-10-2026. Exacte openings- en sluitingstijden niet officieel bevestigd.",
+      "website_checked_on": "2026-10-29",
+      "checked_on": "2026-10-29"
     }
   ],
   "admission_policies": [
