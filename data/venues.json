@@ -21386,6 +21386,95 @@
         "https://www.het-menu.nl/oosterwolde/restaurant/het_wapen_van_ooststellingwerf"
       ],
       "original_status": "Eigen website bevestigt actuele publieke exploitatie en borrel; exacte cafésluiting en huidig alcoholassortiment niet afzonderlijk geverifieerd."
+    },
+    {
+      "id": "cafe-restaurant-de-kater-baard-20261030",
+      "name": "Café Restaurant de Kater",
+      "type": "Bruin café / restaurant",
+      "address": "Dekemawei 9",
+      "city": "Baard",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen actuele website presenteert een bruin café en restaurant met terras en actuele weekuren; geen algemene lidmaatschaps- of maaltijdverplichting vermeld.",
+      "alcohol": "Gastenreviews noemen tapbier en wijn; actuele eigen drankenkaart is als afbeelding geplaatst en niet afzonderlijk als tekst geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen homepage toont 'Openingstijden deze week'; het is een weekrooster, geen garantie voor latere weken. Heropening in februari 2026 op eigen nieuwspagina.",
+      "closing_source": "https://cafedekaterbaard.nl/",
+      "closing_notes": "30-10-2026: exploitant noemt deze week ma/di dicht, wo–vr 16–22, za/zo 11–22; site toont Instagram-evenement vrijdag 30 oktober, dus afwijking mogelijk. Nieuws van 21 februari 2026 zegt 'We mogen open'. Voor toekomstige weken kunnen tijden veranderen; laatste toegang onbekend.",
+      "features": "D0 Leeuwarden-gemeente / Baard; dorpscafé, terras en live muziek",
+      "website": "https://cafedekaterbaard.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://cafedekaterbaard.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://cafedekaterbaard.nl/contactgegevens/",
+        "https://cafedekaterbaard.nl/berichten-uit-de-kater/",
+        "https://tulimaps.com/koffiebar/leeuwarden/dorpshuis-eetcafe-baard/"
+      ],
+      "original_status": "Eigen website bevestigt actuele exploitatie, adres en deze-weekrooster; alcohol via onafhankelijke bezoekersreviews, eigen drankenkaart niet uitgelezen."
+    },
+    {
+      "id": "cafe-de-klok-harkema-20261030",
+      "name": "Café De Klok",
+      "type": "Dorpscafé / live muziek",
+      "address": "Bouwe Harkemastrjitte 1",
+      "city": "Harkema",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Gemeentelijke bekendmakingen van maart, juli en augustus 2026 bevestigen café met georganiseerde publieke muziek- en BBQ-activiteiten; reguliere vrije toegang niet apart bewezen.",
+      "alcohol": "Bedrijvengidsen classificeren als café/bar; actuele eigen drankenkaart ontbreekt.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen eigen officiële weekroosterpagina gevonden. AlleBiz en het-menu spreken elkaar tegen over meerdere sluitingsdagen en uren. Gemeentelijke evenementtijden zijn geen regulier bedrijfsrooster.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: gemeentelijke evenementmelding https://zoek.officielebekendmakingen.nl/gmb-2026-126235.html bevestigt café op Bouwe Harkemastrjitte 1 en livemuziek op 4 april 2026; juli/augustus meldingen bevestigen verdere exploitatieactiviteit. Gidsen https://www.allebiz.nl/caf%C3%A9-de-klok_2u-0512-365-555 en https://www.het-menu.nl/harkema/restaurant/cafe_de_klok hebben onderling afwijkende weekuren; daarom alles onbekend. Officiële site, directe alcoholkaart, reguliere vrije toegang en laatste toegang nog te verifiëren.",
+      "features": "D0 Achtkarspelen / Harkema; livemuziek, reguliere toegang nog controleren",
+      "website": "",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-126235.html",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-401609.html",
+        "https://www.overuwbuurt.nl/kennisgeving/gemeente-achtkarspelen-verleende-ontheffing-geluidshinder-bouwvak-bbq-cafe-de-klok-harkema-op-18-juli-2026-van-19-00-tot-01-00-uur/8769016",
+        "https://www.allebiz.nl/caf%C3%A9-de-klok_2u-0512-365-555",
+        "https://www.het-menu.nl/harkema/restaurant/cafe_de_klok"
+      ],
+      "original_status": "Caféactiviteit in gemeentelijke bekendmakingen 2026; actuele algemene opening, alcoholassortiment en toegang nog onbevestigd."
     }
   ],
   "admission_policies": [
