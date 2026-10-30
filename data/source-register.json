@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 437,
-    "source_urls": 835,
-    "domains": 389,
+    "source_urls": 842,
+    "domains": 392,
     "direct_website_fields": 273
   },
   "discovery_sites": [
@@ -224,14 +224,14 @@
       "linked_venues": 8
     },
     {
+      "domain": "westcordhotels.nl",
+      "source_pages": 8,
+      "linked_venues": 4
+    },
+    {
       "domain": "vind-open.nl",
       "source_pages": 7,
       "linked_venues": 7
-    },
-    {
-      "domain": "westcordhotels.nl",
-      "source_pages": 7,
-      "linked_venues": 4
     },
     {
       "domain": "clubbasis.nl",
@@ -262,6 +262,11 @@
       "domain": "uitagenda.nl",
       "source_pages": 5,
       "linked_venues": 76
+    },
+    {
+      "domain": "vlieland.net",
+      "source_pages": 5,
+      "linked_venues": 6
     },
     {
       "domain": "brakzand.nl",
@@ -300,11 +305,6 @@
     },
     {
       "domain": "verseuitjes.nl",
-      "source_pages": 4,
-      "linked_venues": 4
-    },
-    {
-      "domain": "vlieland.net",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -399,6 +399,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "vlieland.site",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
       "domain": "workum.nl",
       "source_pages": 3,
       "linked_venues": 2
@@ -410,6 +415,11 @@
     },
     {
       "domain": "badhotelbruin.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "badhuys.com",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -889,11 +899,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "vlieland.site",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
       "domain": "vvbl.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -1344,6 +1349,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dewadden.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "dewalrussneek.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1535,6 +1545,11 @@
     },
     {
       "domain": "hofman-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "honeyguide.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -3466,6 +3481,56 @@
         {
           "id": "cafe-bruintje-vlieland-20261030",
           "name": "Café Bruintje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.badhuys.com/",
+      "domain": "badhuys.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.badhuys.com/vacatures/",
+      "domain": "badhuys.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
           "roles": [
             "achtergrond"
           ],
@@ -10573,6 +10638,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/",
+      "domain": "dewadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.dewaeghdokkum.nl/",
       "domain": "dewaeghdokkum.nl",
       "first_registered_on": "2026-10-30",
@@ -14281,6 +14370,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys",
+      "domain": "honeyguide.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-t-praethuys-vlieland-20261030",
+          "name": "Eetcafé 't Praethuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://hopperdrachten.nl/",
@@ -26277,6 +26390,39 @@
       "needs_review": true
     },
     {
+      "url": "https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden",
+      "domain": "vlieland.net",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-t-praethuys-vlieland-20261030",
+          "name": "Eetcafé 't Praethuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
       "url": "https://vlieland.net/nl/activiteit/hop-over-het-eiland",
       "domain": "vlieland.net",
       "first_registered_on": "2026-10-30",
@@ -26385,6 +26531,30 @@
         {
           "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
           "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vlieland.site/nl/overviews/restaurants",
+      "domain": "vlieland.site",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
           "roles": [
             "achtergrond"
           ],
@@ -27373,6 +27543,39 @@
       "needs_review": true
     },
     {
+      "url": "https://westcordhotels.nl/hotel/strandhotel-seeduyn/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-brassery-vlieland-20261030",
+          "name": "De Brassery",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
       "url": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
       "domain": "westcordhotels.nl",
       "first_registered_on": "2026-10-30",
@@ -27380,8 +27583,7 @@
       "manual_review_note": "",
       "roles": [
         "achtergrond",
-        "sluitingstijden",
-        "website"
+        "sluitingstijden"
       ],
       "venues": [
         {
@@ -27400,11 +27602,9 @@
           "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
           "name": "Strandpaviljoen 't Badhuys",
           "roles": [
-            "sluitingstijden",
-            "website"
+            "sluitingstijden"
           ],
           "checked_on": {
-            "website": "2026-10-30",
             "sluitingstijden": "2026-10-30"
           },
           "needs_review": true
@@ -27421,6 +27621,8 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
+        "openingstijden",
         "website"
       ],
       "venues": [
@@ -27428,10 +27630,13 @@
           "id": "de-brassery-vlieland-20261030",
           "name": "De Brassery",
           "roles": [
+            "achtergrond",
+            "openingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-30"
+            "website": "2026-10-30",
+            "openingstijden": "2026-10-30"
           },
           "needs_review": true
         }
@@ -29794,7 +29999,7 @@
       {
         "id": "de-brassery-vlieland-20261030",
         "name": "De Brassery",
-        "reason": "30-10-2026: dagelijks vanaf 10:00 bevestigd; lunch 11–17, diner 17–21:30 (vr/za 22:30) zijn maaltijduren, niet de barsluiting. Laagseizoenkeuken kan afwijken. Laatste toegang en bar-eindtijd onbekend."
+        "reason": "WestCord eigen restaurantpagina bevestigt De Brassery IN Strandhotel Seeduyn Badweg 3, lunch 11–16 en diner 17–22. Dit zijn restaurant-/maaltijduren, geen bewezen cafésluiting. Oude vanaf-10:00-aanname verwijderd; vanaf 11:00 publieke lunch, barfunctie eerder onbekend. Laatste toegang onbekend. 't Badhuys is apart strandpaviljoen op Badweg 6, geen dubbel record."
       },
       {
         "id": "de-dikke-van-dale-leeuwarden-4b70da7",
@@ -30314,7 +30519,7 @@
       {
         "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
         "name": "Strandpaviljoen 't Badhuys",
-        "reason": "30-10-2026: WestCord vermeldt dagelijks vanaf 10:00; diner tot 21:30 (laag seizoen 20:30) betreft bediening/keuken en is geen bewezen barsluiting. VVV geeft Badweg 3, oudere gids Badweg 6: fysieke ingang en BAG-adres nog te controleren. Laatste toegang onbekend."
+        "reason": "Officiële exploitant badhuys.com bevestigt Badweg 6 en het hele jaar geopend; WestCord vermeldt dagelijks vanaf 10:00 en keuken 10–22. Dit is geen bewezen cafésluiting of laatste toegang. Oude Badweg 3-marker verwijderd en nieuwe exacte match afwachten."
       },
       {
         "id": "de-marlijn-schiermonnikoog-20261030",

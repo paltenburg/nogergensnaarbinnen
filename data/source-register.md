@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**835 geregistreerde bron-URL's**, 389 domeinen; gekoppeld aan **437 locaties**.
+**842 geregistreerde bron-URL's**, 392 domeinen; gekoppeld aan **437 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -59,14 +59,15 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | uitutrecht.com | 8 | 132 |
 | vvvschiermonnikoog.nl | 8 | 8 |
 | vvvterschelling.nl | 8 | 8 |
+| westcordhotels.nl | 8 | 4 |
 | vind-open.nl | 7 | 7 |
-| westcordhotels.nl | 7 | 4 |
 | clubbasis.nl | 6 | 1 |
 | findglocal.com | 6 | 6 |
 | bestrestos.nl | 5 | 5 |
 | grootsneek.nl | 5 | 5 |
 | oozo.nl | 5 | 3 |
 | uitagenda.nl | 5 | 76 |
+| vlieland.net | 5 | 6 |
 | brakzand.nl | 4 | 1 |
 | companyinfo.nl | 4 | 4 |
 | hotelvanderwerff.nl | 4 | 1 |
@@ -75,7 +76,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | sneek.nl | 4 | 4 |
 | strandhuys-ameland.nl | 4 | 1 |
 | verseuitjes.nl | 4 | 4 |
-| vlieland.net | 4 | 4 |
 | amelanderbier.nl | 3 | 1 |
 | barbasta.nl | 3 | 1 |
 | beachclubnoderstraun.com | 3 | 1 |
@@ -94,9 +94,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | paddyoryan.frl | 3 | 1 |
 | restaurant-terschelling.nl | 3 | 3 |
 | sjoerd-ameland.nl | 3 | 1 |
+| vlieland.site | 3 | 3 |
 | workum.nl | 3 | 2 |
 | amicaalgrou.nl | 2 | 1 |
 | badhotelbruin.nl | 2 | 1 |
+| badhuys.com | 2 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | blauwekater.nl | 2 | 1 |
 | cafebardewelp.nl | 2 | 1 |
@@ -192,7 +194,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | tripadvisor.nl | 2 | 2 |
 | veerhuys-bolsward.nl | 2 | 1 |
 | vijfpoort.nl | 2 | 1 |
-| vlieland.site | 2 | 2 |
 | vvbl.nl | 2 | 2 |
 | wadanderz.nl | 2 | 1 |
 | waze.com | 2 | 2 |
@@ -283,6 +284,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | depingpongclub.nl | 1 | 1 |
 | desmidte.nl | 1 | 1 |
 | deutrechter.nl | 1 | 1 |
+| dewadden.nl | 1 | 1 |
 | dewalrussneek.nl | 1 | 1 |
 | dewinkelvansinkel.nl | 1 | 1 |
 | dezaak-utrecht.nl | 1 | 1 |
@@ -322,6 +324,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | hetoudetolhuys.nl | 1 | 1 |
 | hetpakhuis.nl | 1 | 1 |
 | hofman-utrecht.nl | 1 | 1 |
+| honeyguide.nl | 1 | 1 |
 | houtsje.nl | 1 | 1 |
 | ietstedoen.nl | 1 | 1 |
 | irishpubsneek.nl | 1 | 1 |
@@ -523,6 +526,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://badhotelbruin.nl/cafe-bruintje-vlieland/](https://badhotelbruin.nl/cafe-bruintje-vlieland/) — sluitingstijden, website; Café Bruintje; bronveld gecontroleerd: 2026-10-30
 - [https://badhotelbruin.nl/contact/](https://badhotelbruin.nl/contact/) — achtergrond; Café Bruintje; bronveld gecontroleerd: onbekend
+
+### badhuys.com
+
+- [https://www.badhuys.com/](https://www.badhuys.com/) — website; Strandpaviljoen 't Badhuys; bronveld gecontroleerd: 2026-10-30
+- [https://www.badhuys.com/vacatures/](https://www.badhuys.com/vacatures/) — achtergrond; Strandpaviljoen 't Badhuys; bronveld gecontroleerd: onbekend
 
 ### bar-bet.nl
 
@@ -1142,6 +1150,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://deutrechter.nl/](https://deutrechter.nl/) — openingstijden, sluitingstijden, website; De Utrechter; bronveld gecontroleerd: 2026-10-26
 
+### dewadden.nl
+
+- [https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/](https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/) — achtergrond; ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
+
 ### dewaeghdokkum.nl
 
 - [https://www.dewaeghdokkum.nl/](https://www.dewaeghdokkum.nl/) — achtergrond, openingstijden, website; Grand Café de Waegh; bronveld gecontroleerd: 2026-10-30
@@ -1494,6 +1506,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### hofman-utrecht.nl
 
 - [https://hofman-utrecht.nl/cafe-utrecht](https://hofman-utrecht.nl/cafe-utrecht) — sluitingstijden, website; Hofman Utrecht; bronveld gecontroleerd: 2026-10-25
+
+### honeyguide.nl
+
+- [https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys](https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys) — achtergrond; Eetcafé 't Praethuys; bronveld gecontroleerd: onbekend
 
 ### hopperdrachten.nl
 
@@ -2311,6 +2327,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### vlieland.net
 
 - [https://vlieland.net/en/bedrijf/cafe-bruintje](https://vlieland.net/en/bedrijf/cafe-bruintje) — achtergrond; Café Bruintje; bronveld gecontroleerd: onbekend
+- [https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden](https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden) — achtergrond; Eetcafé 't Praethuys, ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
 - [https://vlieland.net/nl/activiteit/hop-over-het-eiland](https://vlieland.net/nl/activiteit/hop-over-het-eiland) — achtergrond; The Island Pub; bronveld gecontroleerd: onbekend
 - [https://vlieland.net/nl/bedrijf/de-brassery](https://vlieland.net/nl/bedrijf/de-brassery) — achtergrond; De Brassery; bronveld gecontroleerd: onbekend
 - [https://vlieland.net/nl/bedrijf/gestrand](https://vlieland.net/nl/bedrijf/gestrand) — achtergrond; Gestrand; bronveld gecontroleerd: onbekend
@@ -2319,6 +2336,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys](https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys) — achtergrond; Eetcafé 't Praethuys; bronveld gecontroleerd: onbekend
 - [https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie](https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie) — achtergrond; ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
+- [https://www.vlieland.site/nl/overviews/restaurants](https://www.vlieland.site/nl/overviews/restaurants) — achtergrond; Strandpaviljoen 't Badhuys; bronveld gecontroleerd: onbekend
 
 ### vriendenvanleeuwarden.nl
 
@@ -2396,8 +2414,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### westcordhotels.nl
 
 - [https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/](https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/) — achtergrond, openingstijden, sluitingstijden; ZeeVaert Bistrobar; bronveld gecontroleerd: 2026-10-30
-- [https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/](https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/) — achtergrond, sluitingstijden, website; De Brassery, Strandpaviljoen 't Badhuys; bronveld gecontroleerd: 2026-10-30
-- [https://westcordhotels.nl/restaurants/de-brassery/](https://westcordhotels.nl/restaurants/de-brassery/) — website; De Brassery; bronveld gecontroleerd: 2026-10-30
+- [https://westcordhotels.nl/hotel/strandhotel-seeduyn/](https://westcordhotels.nl/hotel/strandhotel-seeduyn/) — achtergrond; De Brassery, Strandpaviljoen 't Badhuys; bronveld gecontroleerd: onbekend
+- [https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/](https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/) — achtergrond, sluitingstijden; De Brassery, Strandpaviljoen 't Badhuys; bronveld gecontroleerd: 2026-10-30
+- [https://westcordhotels.nl/restaurants/de-brassery/](https://westcordhotels.nl/restaurants/de-brassery/) — achtergrond, openingstijden, website; De Brassery; bronveld gecontroleerd: 2026-10-30
 - [https://westcordhotels.nl/restaurants/praethuys/](https://westcordhotels.nl/restaurants/praethuys/) — sluitingstijden, website; Eetcafé 't Praethuys; bronveld gecontroleerd: 2026-10-30
 - [https://westcordhotels.nl/restaurants/praethuys/menu/](https://westcordhotels.nl/restaurants/praethuys/menu/) — achtergrond; Eetcafé 't Praethuys; bronveld gecontroleerd: onbekend
 - [https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/](https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/) — achtergrond, website; ZeeVaert Bistrobar; bronveld gecontroleerd: 2026-10-30

@@ -19037,7 +19037,13 @@
       ],
       "original_status": "WestCord en VVV bevestigen publieke strandhoreca; exact paviljoenadres heeft bronconflict.",
       "website_provenance": "Directe officiële exploitantwebsite, adres Badweg 6, gecontroleerd 2026-10-30.",
-      "geocode_notes": "Oude foutieve PDOK-marker Badweg 3 hoorde bij hotel/De Brassery, niet bij Badhuys. Eigen badhuys.com vermeldt Badweg 6, 8899BV; geo verwijderd voor nieuwe exacte PDOK-BAG-geocodering. Niet dezelfde ingang als De Brassery."
+      "geocode_notes": "Oude foutieve PDOK-marker Badweg 3 hoorde bij hotel/De Brassery, niet bij Badhuys. Eigen badhuys.com vermeldt Badweg 6, 8899BV; geo verwijderd voor nieuwe exacte PDOK-BAG-geocodering. Niet dezelfde ingang als De Brassery.",
+      "geo": {
+        "lat": 53.303695,
+        "lon": 5.0517367,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Badweg 6, 8899BV Vlieland"
+      }
     },
     {
       "id": "de-4-dames-schiermonnikoog-20261030",
