@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 417,
-    "source_urls": 564,
-    "domains": 287,
-    "direct_website_fields": 203
+    "source_urls": 579,
+    "domains": 296,
+    "direct_website_fields": 210
   },
   "discovery_sites": [
     {
@@ -164,6 +164,11 @@
       "linked_venues": 12
     },
     {
+      "domain": "allebiz.nl",
+      "source_pages": 11,
+      "linked_venues": 11
+    },
+    {
       "domain": "visitleeuwarden.com",
       "source_pages": 11,
       "linked_venues": 10
@@ -172,11 +177,6 @@
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
-    },
-    {
-      "domain": "allebiz.nl",
-      "source_pages": 8,
-      "linked_venues": 8
     },
     {
       "domain": "allecijfers.nl",
@@ -199,14 +199,14 @@
       "linked_venues": 7
     },
     {
+      "domain": "cylex.nl",
+      "source_pages": 7,
+      "linked_venues": 7
+    },
+    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
-    },
-    {
-      "domain": "cylex.nl",
-      "source_pages": 6,
-      "linked_venues": 6
     },
     {
       "domain": "grootsneek.nl",
@@ -379,6 +379,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "deskoffel.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "dewelvaartameland.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -415,6 +420,11 @@
     },
     {
       "domain": "grandcafevlieland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "heerenveen.deswetser.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -664,6 +674,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "bars10.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "barsybs.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -734,6 +749,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafebak.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafebarskutsje.jouwweb.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -745,6 +765,11 @@
     },
     {
       "domain": "cafebinnenbest.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafebleeker.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -765,6 +790,11 @@
     },
     {
       "domain": "cafedekroonsneek.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafedeoase.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1104,6 +1134,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "heerenveen.snookerpoolcentrum.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "hemel-aarde.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1130,6 +1165,11 @@
     },
     {
       "domain": "hofman-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "houtsje.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1385,6 +1425,11 @@
     },
     {
       "domain": "secure.bowlingnbf.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "snookerpoolcentrum.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1689,6 +1734,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bak-heerenveen-8f34eb5",
+          "name": "Café Bak",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -1785,6 +1854,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/de-kroeg_17A-0513-650-560",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-kroeg-heerenveen-9b76232",
+          "name": "De Kroeg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/de-toeter-058-215-7976",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -1797,6 +1890,30 @@
         {
           "id": "de-toeter-leeuwarden-f8ed332",
           "name": "De Toeter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/het-stamcaf%C3%A9_1L",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "het-stamcafe-heerenveen-b1c29a4",
+          "name": "Het Stamcafé",
           "roles": [
             "achtergrond"
           ],
@@ -2521,6 +2638,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.bars10.com/NL/Heerenveen/149436701852232/De-Kroeg-Heerenveen",
+      "domain": "bars10.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-kroeg-heerenveen-9b76232",
+          "name": "De Kroeg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://barsybs.nl/",
       "domain": "barsybs.nl",
       "first_registered_on": "2026-10-30",
@@ -3080,6 +3221,36 @@
       "needs_review": false
     },
     {
+      "url": "https://www.cafebak.nl/",
+      "domain": "cafebak.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bak-heerenveen-8f34eb5",
+          "name": "Café Bak",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://cafebarskutsje.jouwweb.nl/",
       "domain": "cafebarskutsje.jouwweb.nl",
       "first_registered_on": "2026-10-29",
@@ -3165,6 +3336,36 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.cafebleeker.nl/",
+      "domain": "cafebleeker.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bleeker-heerenveen-84c5dae",
+          "name": "Café Bleeker",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafeclaire.nl/",
@@ -3340,6 +3541,36 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cafedeoase.nl/",
+      "domain": "cafedeoase.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-oase-heerenveen-051008c",
+          "name": "Café De Oase",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -6240,6 +6471,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-bak-12291342.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bak-heerenveen-8f34eb5",
+          "name": "Café Bak",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-30",
@@ -7303,6 +7558,60 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.deskoffel.nl/",
+      "domain": "deskoffel.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+          "name": "Café De Skoffel",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.deskoffel.nl/Contact",
+      "domain": "deskoffel.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+          "name": "Café De Skoffel",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -9105,6 +9414,90 @@
       "needs_review": false
     },
     {
+      "url": "https://heerenveen.deswetser.nl/",
+      "domain": "heerenveen.deswetser.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-swetser-heerenveen-7013b57",
+          "name": "Café De Swetser",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://heerenveen.deswetser.nl/contact/",
+      "domain": "heerenveen.deswetser.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-swetser-heerenveen-7013b57",
+          "name": "Café De Swetser",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://heerenveen.snookerpoolcentrum.nl/",
+      "domain": "heerenveen.snookerpoolcentrum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+          "name": "Snooker & Pool Centrum Heerenveen",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.hemel-aarde.nl/wijnbar",
       "domain": "hemel-aarde.nl",
       "first_registered_on": "2026-10-26",
@@ -9582,6 +9975,36 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.houtsje.nl/",
+      "domain": "houtsje.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "it-houtsje-heerenveen-d2248cf",
+          "name": "Café It Houtsje",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -13439,6 +13862,30 @@
       "needs_review": false
     },
     {
+      "url": "https://snookerpoolcentrum.nl/home/",
+      "domain": "snookerpoolcentrum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
+          "name": "Snooker & Pool Centrum Heerenveen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://soia.nl/",
       "domain": "soia.nl",
       "first_registered_on": "2026-10-26",
@@ -15849,15 +16296,6 @@
           "needs_review": true
         },
         {
-          "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
-          "name": "Café 't Skoffeltsje",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
           "id": "cafe-bak-heerenveen-8f34eb5",
           "name": "Café Bak",
           "roles": [
@@ -15894,8 +16332,26 @@
           "needs_review": true
         },
         {
+          "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+          "name": "Café De Skoffel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
           "id": "cafe-de-swetser-heerenveen-7013b57",
           "name": "Café De Swetser",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "it-houtsje-heerenveen-d2248cf",
+          "name": "Café It Houtsje",
           "roles": [
             "achtergrond"
           ],
@@ -15914,15 +16370,6 @@
         {
           "id": "het-stamcafe-heerenveen-b1c29a4",
           "name": "Het Stamcafé",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "it-houtsje-heerenveen-d2248cf",
-          "name": "It Houtsje",
           "roles": [
             "achtergrond"
           ],
@@ -20289,10 +20736,6 @@
         "name": "Café 't Singeltje"
       },
       {
-        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
-        "name": "Café 't Skoffeltsje"
-      },
-      {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje"
       },
@@ -20317,16 +20760,8 @@
         "name": "Café 't Zwaantje"
       },
       {
-        "id": "cafe-bak-heerenveen-8f34eb5",
-        "name": "Café Bak"
-      },
-      {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
         "name": "Café Bar De Welp"
-      },
-      {
-        "id": "cafe-bleeker-heerenveen-84c5dae",
-        "name": "Café Bleeker"
       },
       {
         "id": "cafe-bok-hollum-f23e5ba",
@@ -20397,10 +20832,6 @@
         "name": "Café De Lits"
       },
       {
-        "id": "cafe-de-oase-heerenveen-051008c",
-        "name": "Café De Oase"
-      },
-      {
         "id": "cafe-de-otterbar-witmarsum-52640a7",
         "name": "Café De Otterbar"
       },
@@ -20415,10 +20846,6 @@
       {
         "id": "cafe-de-swalker-dokkum-0b7b92d",
         "name": "Café De Swalker"
-      },
-      {
-        "id": "cafe-de-swetser-heerenveen-7013b57",
-        "name": "Café De Swetser"
       },
       {
         "id": "cafe-de-twin-leeuwarden-0003bb5",
@@ -20781,10 +21208,6 @@
         "name": "Island Pub"
       },
       {
-        "id": "it-houtsje-heerenveen-d2248cf",
-        "name": "It Houtsje"
-      },
-      {
         "id": "jan-de-winter-720539c",
         "name": "Jan de Winter"
       },
@@ -20947,10 +21370,6 @@
       {
         "id": "slachtstraat-filmtheater-3db7b64",
         "name": "Slachtstraat Filmtheater"
-      },
-      {
-        "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
-        "name": "Snooker & Pool Centrum Heerenveen"
       },
       {
         "id": "spoarke-blije-blije-0cf8177",
@@ -21163,10 +21582,6 @@
         "name": "Café 't Singeltje"
       },
       {
-        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
-        "name": "Café 't Skoffeltsje"
-      },
-      {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje"
       },
@@ -21201,10 +21616,6 @@
       {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
         "name": "Café Bar De Welp"
-      },
-      {
-        "id": "cafe-bleeker-heerenveen-84c5dae",
-        "name": "Café Bleeker"
       },
       {
         "id": "cafe-bok-hollum-f23e5ba",
@@ -21271,10 +21682,6 @@
         "name": "Café De Lits"
       },
       {
-        "id": "cafe-de-oase-heerenveen-051008c",
-        "name": "Café De Oase"
-      },
-      {
         "id": "cafe-de-otterbar-witmarsum-52640a7",
         "name": "Café De Otterbar"
       },
@@ -21295,12 +21702,12 @@
         "name": "Café De Schieve Deure"
       },
       {
-        "id": "cafe-de-swalker-dokkum-0b7b92d",
-        "name": "Café De Swalker"
+        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+        "name": "Café De Skoffel"
       },
       {
-        "id": "cafe-de-swetser-heerenveen-7013b57",
-        "name": "Café De Swetser"
+        "id": "cafe-de-swalker-dokkum-0b7b92d",
+        "name": "Café De Swalker"
       },
       {
         "id": "cafe-de-twin-leeuwarden-0003bb5",
@@ -21675,10 +22082,6 @@
         "name": "Island Pub"
       },
       {
-        "id": "it-houtsje-heerenveen-d2248cf",
-        "name": "It Houtsje"
-      },
-      {
         "id": "it-reade-hynder-wommels-0121f4b",
         "name": "It Reade Hynder"
       },
@@ -21841,10 +22244,6 @@
       {
         "id": "science-cafe-hideout-20261026",
         "name": "Science Café HideOut"
-      },
-      {
-        "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
-        "name": "Snooker & Pool Centrum Heerenveen"
       },
       {
         "id": "spoarke-blije-blije-0cf8177",
@@ -22020,11 +22419,6 @@
         "reason": "Adres en café-/dartsfunctie door meerdere gidsen genoemd. Verschillende niet-officiële bronnen geven tegenstrijdige sluitingstijden (22:00 of 00:00), daarom geen van beide als vast rooster ingevuld. Dartsgids heeft een toekomstige wedstrijd 19-12-2026 op dit adres, maar dat bevestigt geen dagelijkse opening. Laatste toegang onbekend; actuele exploitatie nog afzonderlijk te bevestigen."
       },
       {
-        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
-        "name": "Café 't Skoffeltsje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje",
         "reason": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen."
@@ -22057,7 +22451,7 @@
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
         "name": "Café Bak",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend."
       },
       {
         "id": "cafe-bar-t-skutsje-drachten-7164f2f",
@@ -22072,7 +22466,7 @@
       {
         "id": "cafe-bleeker-heerenveen-84c5dae",
         "name": "Café Bleeker",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website 30-10-2026: wo-vr 15:00–02:00, za 12:00–02:00, zo 15:00–02:00. Ma/di niet gepubliceerd; niet automatisch als gesloten beschouwd. Bij mooi weer soms eerder open. Laatste toegang onbekend."
       },
       {
         "id": "cafe-bok-hollum-f23e5ba",
@@ -22157,7 +22551,7 @@
       {
         "id": "cafe-de-oase-heerenveen-051008c",
         "name": "Café De Oase",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website in zoekindex 30-10-2026: ma/di 10:00–00:30, wo/do 10:00–02:00, vr–zo 10:00–03:00, Breedpad 9 en expliciet bier/wijn. Rechtstreeks openen gaf timeout; inhoud van officiële zoekindex is gecontroleerd, fysieke/live status en laatste toegang niet bevestigd. Gidsuren wijken af."
       },
       {
         "id": "cafe-de-otterbar-witmarsum-52640a7",
@@ -22185,6 +22579,11 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
+        "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
+        "name": "Café De Skoffel",
+        "reason": "Eigen website 30-10-2026 noemt de zaak Café De Skoffel (oude inventarisatienaam 't Skoffeltsje), Nieuwstraat 3, dagelijks geopend: ma-vr vanaf 14:00, za/zo vanaf 12:00. Eindtijden en laatste toegang niet gepubliceerd; weekend- en feestdagopeningen kunnen eerder zijn."
+      },
+      {
         "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
         "name": "Café de Strohoed",
         "reason": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend."
@@ -22197,7 +22596,7 @@
       {
         "id": "cafe-de-swetser-heerenveen-7013b57",
         "name": "Café De Swetser",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen contactpagina 30-10-2026: vr/za 21:00–04:00, Vleesmarkt 7. Zondag en feestdagen uitsluitend via sociale media; ma-do niet expliciet als gesloten vermeld. Laatste toegang onbekend."
       },
       {
         "id": "cafe-de-twin-leeuwarden-0003bb5",
@@ -22253,6 +22652,11 @@
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "it-houtsje-heerenveen-d2248cf",
+        "name": "Café It Houtsje",
+        "reason": "Eigen website 30-10-2026: ma gesloten; di-do 15:00–01:00; vr 14:00–02:00; za/zo 12:00–02:00. Adres Oude Koemarkt 6, bier en wijn expliciet vermeld. Laatste toegang onbekend; gidsroosters spreken eigen website tegen."
       },
       {
         "id": "cafe-it-kin-net-bolsward-75feb60",
@@ -22407,7 +22811,7 @@
       {
         "id": "de-kroeg-heerenveen-9b76232",
         "name": "De Kroeg",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: spiegel van sociale berichten uit mei–juli 2026 bevestigt recente café-evenementen op Gedempte Molenwijk 21 (https://www.bars10.com/NL/Heerenveen/149436701852232/De-Kroeg-Heerenveen). Spiegel vermeldt do–zo sluiting 02:00; https://www.allebiz.nl/de-kroeg_17A-0513-650-560 geeft 03:00. Geen rechtstreeks bedrijfseigen rooster gecontroleerd, dus geen eindtijden ingevuld; eigen website onbekend, Facebooklink nog niet onafhankelijk geverifieerd."
       },
       {
         "id": "de-markies-leeuwarden-d3d3930",
@@ -22672,7 +23076,7 @@
       {
         "id": "het-stamcafe-heerenveen-b1c29a4",
         "name": "Het Stamcafé",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: https://www.allebiz.nl/het-stamcaf%C3%A9_1L markeert de vermelding sinds 25-09-2019 als gesloten. Geen actuele officiële exploitant, heropening of openingstijden gevonden. Niet definitief als gesloten vastgesteld, maar wegens sterke historische sluitingsindicatie uitgesloten van standaard publieke resultaten totdat actieve exploitatie is bewezen."
       },
       {
         "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
@@ -22692,11 +23096,6 @@
       {
         "id": "island-pub-vlieland-f6793f0",
         "name": "Island Pub",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "it-houtsje-heerenveen-d2248cf",
-        "name": "It Houtsje",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
@@ -22852,7 +23251,7 @@
       {
         "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
         "name": "Snooker & Pool Centrum Heerenveen",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen locatiesite met expliciete ingangsdatum 01-09-2026: ma-do 18:00–00:00, vr 18:00–01:00, za 14:00–01:00, zo 14:00–00:00. Andere officiële algemene pagina https://snookerpoolcentrum.nl/home/ vermeldt afwijkende do/vr/za/zo-uren; gedateerde locatiepagina heeft voorrang, maar bronconflict blijft open. Bezoekadres als 70–73 gepubliceerd; exact ingangshuisnummer/laatste toegang onbekend."
       },
       {
         "id": "spoarke-blije-blije-0cf8177",
