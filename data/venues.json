@@ -22732,6 +22732,182 @@
         "https://tdfberltsum.nl/zaal/club/"
       ],
       "original_status": "Eigen site bevestigt exploitatie en agenda 2026; structurele uren onderling tegenstrijdig."
+    },
+    {
+      "id": "eetcafe-jonker-sikke-jellum-20261030",
+      "name": "Eetcafé Jonker Sikke",
+      "type": "Eetcafé / restaurant met borrel",
+      "address": "Hegedyk 22",
+      "city": "Jellum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt zonder groepsreservering uit voor koffie, lunch, diner en een losse borrel; maandag en dinsdag uitsluitend groepen vanaf 10 personen.",
+      "alcohol": "Eigen menupagina vermeldt afzonderlijke wijnkaart en drankenkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "20:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "20:00"
+      },
+      "closing_quality": "Officiële exploitant; ma/di alleen voor groepen vanaf 10 personen, geen publieke inloop.",
+      "closing_source": "https://www.jonkersikke.nl/contact",
+      "closing_notes": "30-10-2026: eigen https://www.jonkersikke.nl/ bevestigt adres en vrije borrel; https://www.jonkersikke.nl/contact geeft ma/di uitsluitend voor groepen vanaf 10 personen, wo/zo 12–20, do/vr/za 12–22. https://www.jonkersikke.nl/menu biedt wijnkaart en drankenkaart. Geen laatste toegang bevestigd.",
+      "features": "D0 Leeuwarden / Jellum; maandag/dinsdag geen reguliere publieke inloop",
+      "website": "https://www.jonkersikke.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.jonkersikke.nl/contact",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.jonkersikke.nl/",
+        "https://www.jonkersikke.nl/menu"
+      ],
+      "original_status": "Eigen website met actuele publieke borrel en weekrooster geraadpleegd 30-10-2026."
+    },
+    {
+      "id": "kafee-it-wapen-fan-fryslan-oentsjerk-20261030",
+      "name": "Kafee It Wapen fan Fryslân",
+      "type": "Speciaalbiercafé / eetcafé",
+      "address": "Rengersweg 51",
+      "city": "Oentsjerk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Actuele fiets-/regiogids beschrijft vrij toegankelijk café en borrel; individuele actuele exploitatie ondersteund door recente horecarecensies.",
+      "alcohol": "Exploitantgebonden bierkaart https://www.kafee.nl/menukaart/bierkaart.pdf noemt tientallen alcoholhoudende speciaalbieren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Fietsnetwerk en Waze/RestaurantGuru geven onderling afwijkende einduren (di–do 21/22/00; vr/za 00/01); geen sluituren als zeker overgenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.fietsnetwerk.nl/knooppunt/kafee-it-wapen-fan-fryslan-oentsjerk/ bevestigt café, Rengersweg 51, 9062 EC, speciaalbier en beginuren di–do 14, vr/za 11, zo 16, maandag gesloten. Officiële bierkaart https://www.kafee.nl/menukaart/bierkaart.pdf bevat alcoholhoudende bieren; homepage https://www.kafee.nl/ gaf in webopener 403 en is niet zelfstandig op actuele uren uitgelezen. Sluiting conflicteert met https://www.waze.com/nl/live-map/directions/kafee-it-wapen-fan-fryslan-n361-rengersweg-51-oentsjerk?to=place.w.3867157.38671565.11157305 en https://nl.restaurantguru.com/Cafe-it-Wapen-fan-Fryslan-Oentsjerk; geen exact einde/laatste toegang ingevuld.",
+      "features": "D0 Tytsjerksteradiel / Oentsjerk; bierkaart primair, rooster gedeeltelijk gids",
+      "website": "https://www.kafee.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.fietsnetwerk.nl/knooppunt/kafee-it-wapen-fan-fryslan-oentsjerk/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.kafee.nl/menukaart/bierkaart.pdf",
+        "https://www.fietsnetwerk.nl/knooppunt/kafee-it-wapen-fan-fryslan-oentsjerk/",
+        "https://nl.restaurantguru.com/Cafe-it-Wapen-fan-Fryslan-Oentsjerk"
+      ],
+      "original_status": "Actuele lokale gids en exploitantgebonden bierkaart gevonden; homepage niet uitgelezen, einduren conflict."
+    },
+    {
+      "id": "grand-cafe-de-smalle-brug-stiens-20261030",
+      "name": "Grand Café De Smalle Brug",
+      "type": "Grand café / restaurant / borrel",
+      "address": "Smelbrege 22",
+      "city": "Stiens",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt vrije inloop, terras en borrel; reserveren mag maar hoeft niet. Besloten achterzaal is afzonderlijk.",
+      "alcohol": "Eigen https://desmallebrug.nl/afhalen-bezorgen/ noemt diverse speciaalbieren en openbare borrel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website zegt do–zo vanaf 11:00 'tot de laatste ronde', zonder vast einduur; lokale gids 22:00 niet als exploitantsluiting overgenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://desmallebrug.nl/ bevestigt naam, adres, publieke inloop; https://desmallebrug.nl/openingstijden/ meldt do–zo 11:00 tot de laatste ronde, ma–wo geen reguliere inloop. https://desmallebrug.nl/afhalen-bezorgen/ bevestigt speciaalbier; afhaalvenster 16:30–20/21 is NIET cafésluiting. https://stiens.frl/bedrijf/grand-cafe-de-smalle-brug/ noemt 22:00 maar primaire site bevestigt dit niet. Laatste toegang onbekend. Pizza Verona op hetzelfde adres is afhaalconcept, geen aparte borrelzaak.",
+      "features": "D0 Leeuwarden / Stiens; 'laatste ronde' zonder exacte tijd",
+      "website": "https://desmallebrug.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://desmallebrug.nl/openingstijden/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://desmallebrug.nl/afhalen-bezorgen/",
+        "https://stiens.frl/bedrijf/grand-cafe-de-smalle-brug/"
+      ],
+      "original_status": "Eigen site actuele opening do–zo en publieke borrel bevestigd 30-10-2026."
+    },
+    {
+      "id": "eatcorner-pieter-jelles-stiens-20261030",
+      "name": "Eatcorner Pieter Jelles",
+      "type": "Eetcafé / eatcorner met bier en wijn",
+      "address": "Langebuorren 49",
+      "city": "Stiens",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt vrij toegankelijke lunch-, diner- en terraslocatie; geen ticket- of ledenvoorwaarde.",
+      "alcohol": "Eigen homepage noemt expliciet een glaasje wijn of biertje en verwijst naar de drankenkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "20:30",
+        "di": "20:30",
+        "wo": "20:30",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "20:30"
+      },
+      "closing_quality": "Officiële exploitant: ma–wo/zo tot 20:30; do–za tot 21:00.",
+      "closing_source": "https://www.pieterjelles.nl/",
+      "closing_notes": "30-10-2026: https://www.pieterjelles.nl/ geeft alle zeven opening- en sluitingstijden, bier/wijn en openbare terras-/restaurantfunctie. Adres Langebuorren 49, 9051 CP Stiens bevestigd via actuele bedrijfsvermelding; eigen contactpagina bevat kaart maar geen leesbaar huisnummer in webopener. Laatste toegang onbekend.",
+      "features": "D0 Leeuwarden / Stiens; vroeg sluitende eet-/borrellocatie",
+      "website": "https://www.pieterjelles.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.pieterjelles.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.pieterjelles.nl/contact/"
+      ],
+      "original_status": "Eigen website actuele alcoholvermelding en volledig weekrooster 30-10-2026."
     }
   ],
   "admission_policies": [
