@@ -15892,8 +15892,8 @@
       "city": "Schiermonnikoog",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eetcafé/restaurant volgens eigen website, contact en lunch-/dinerkaart; uitsluitend voor een borrel nog niet apart bevestigd.",
-      "alcohol": "Alcoholassortiment nog niet individueel bevestigd op eigen site.",
+      "access": "Publiek toegankelijk eetcafé: VVV Schiermonnikoog bevestigt dat bezoekers zonder maaltijd terechtkunnen voor een borrel; bedrijfssite noemt dagelijks geopend.",
+      "alcohol": "Bier en borrel expliciet bevestigd door VVV Schiermonnikoog.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15906,12 +15906,14 @@
       },
       "closing_quality": "Eigen site noemt geen eindtijd of laatste toegang.",
       "closing_source": "https://hetoudeboothuis.nl/contact/",
-      "closing_notes": "Contactpagina meldt elke dag geopend maar zonder uren; geen aanname van horeca-/keukensluiting. Exacte opening, sluiting en laatste toegang blijven onbekend. Website toont PHP-deprecation-waarschuwingen, maar inhoud is bereikbaar.",
+      "closing_notes": "Eigen site meldt dagelijks geopend, zonder begin- of einduur. VVV bevestigt publieke borrel en bier. Gemeentelijke melding van livemuziek op 26-09-2026 is een incidenteel evenement, geen vast rooster. Sluiting en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://hetoudeboothuis.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/schiermonnikoog",
-        "https://hetoudeboothuis.nl/contact/"
+        "https://hetoudeboothuis.nl/contact/",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/het-oude-boothuis",
+        "https://www.overuwbuurt.nl/kennisgeving/melding-voor-een-incidentele-festiviteit-et-live-muziek-op-26-september-2026-bij-eetcafe-het-oude-boothuis-te-schiermonnikoog/8948268"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -15958,12 +15960,13 @@
       },
       "closing_quality": "Eigen site geeft geen vast sluitingsuur voor café of dancing; dancing is weekend/vakantie of op aanvraag.",
       "closing_source": "https://toxbar.nl/",
-      "closing_notes": "Eigen site noemt voor dansen expliciet 'Geen toegang na 02:00' en onder 16 jaar tot 23:30. Dit geldt voor dancing/uitgaansgedeelte tijdens openingsnachten, niet bewezen als onvoorwaardelijke laatste toegang voor het café op alle weekdagen; daarom geen generieke last_entry ingevuld. Dancing alleen tijdens weekenden/vakanties of op aanvraag. Exacte sluiting onbekend.",
+      "closing_notes": "Eigen site: geen toegang tot dancing na 02:00; onder 16 jaar tot 23:30. Discotheek uitsluitend weekenden/vakanties of op aanvraag; niet als generieke laatste toegang van het café opgeslagen. VVV meldt laagseizoen ma–do vanaf 16:00 versus eigen dagelijks 12:00; seizoensconflict. Keuken sluit 21:00, geen café-eindtijd. Exacte sluiting onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://toxbar.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/schiermonnikoog",
-        "https://toxbar.nl/"
+        "https://toxbar.nl/",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/tox-bar"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -15975,17 +15978,17 @@
       "website_checked_on": "2026-10-30",
       "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://toxbar.nl/",
       "opening": {
-        "ma": "12:00",
-        "di": "12:00",
-        "wo": "12:00",
-        "do": "12:00",
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
         "vr": "12:00",
         "za": "12:00",
         "zo": "12:00"
       },
       "opening_source": "https://toxbar.nl/",
       "opening_checked_on": "2026-10-30",
-      "opening_quality": "Eigen site: dagelijks vanaf 12:00; keuken sluit 21:00, dat is geen sluiting van bar/dancing.",
+      "opening_quality": "Eigen site noemt dagelijks vanaf 12:00; VVV Schiermonnikoog vermeldt laagseizoen ma–do pas vanaf 16:00. Omdat het seizoen niet in de weekfilter kan worden toegepast, ma–do veilig onbekend gehouden.",
       "checked_on": "2026-10-30"
     },
     {
@@ -18561,6 +18564,99 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg 3, 8899BV Vlieland"
       }
+    },
+    {
+      "id": "de-4-dames-schiermonnikoog-20261030",
+      "name": "De4dames – wijnbar & bistro",
+      "type": "Wijnbar/bistro",
+      "address": "Langestreek 94",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Wijnbar toegankelijk zonder hotelovernachting of maaltijd; eigen contactpagina noemt spontaan plaatsnemen aan de bar.",
+      "alcohol": "Uitgebreid wijnassortiment en speciaalbieren op eigen website.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen vaste actuele cafésluiting bevestigd op officiële website.",
+      "closing_source": "https://www.de4dames.nl/",
+      "closing_notes": "Eigen site: dagelijks vanaf 10:00, einde 'tot de gezelligheid is afgelopen'; keuken sluit zo–do 21:00 en vr/za 21:30, géén barsluiting. Visit Wadden vermeldt ma–do pas 16:00 en sluitingen 23:00/00:00; strijdig met eigen site. Geen vaste einduren of laatste toegang aangenomen.",
+      "features": "Schiermonnikoog; gecontroleerde publieke drinklocatie",
+      "website": "https://www.de4dames.nl/",
+      "other_sources": [
+        "https://www.de4dames.nl/contact/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2990038149/de-4-dames"
+      ],
+      "original_status": "Exploitantwebsite en lokale/regiogids op 2026-10-30 gecontroleerd; actuele beschikbaarheid niet live gegarandeerd.",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe officiële exploitantwebsite; naam/adres en borrelfunctie gecontroleerd op 2026-10-30.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.de4dames.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
+      "checked_on": "2026-10-30"
+    },
+    {
+      "id": "de-marlijn-schiermonnikoog-20261030",
+      "name": "Strandpaviljoen De Marlijn",
+      "type": "Strandpaviljoen/borrel",
+      "address": "Prins Bernhardweg 2",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke borrel volgens officiële contact- en openingstijdenpagina; seizoensafwijkingen en reservering bij speciale diners.",
+      "alcohol": "Wijnkaart en bierarrangementen op eigen site bevestigd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen vaste actuele cafésluiting bevestigd op officiële website.",
+      "closing_source": "https://demarlijn.com/",
+      "closing_notes": "Exploitant: in oktober–18 december 2026 dagelijks vanaf 10:00; ma–vr borrel tot 17:30, za/zo tot 19:00, maar volgens dezelfde site na keukensluiting nog drankje mogelijk en bij slecht weer eerder dicht. Daarom geen exacte cafésluiting ingevuld. Herfstvakantie, kerstvakantie en feestdagen wijken af; oude gidsen spreken elkaar tegen. Seizoensrooster niet als jaarrooster beschouwen. Laatste toegang onbekend.",
+      "features": "Schiermonnikoog; gecontroleerde publieke drinklocatie",
+      "website": "https://demarlijn.com/",
+      "other_sources": [
+        "https://demarlijn.com/openingstijden-and-contact-or-de-marlijn",
+        "https://demarlijn.com/wijn-or-de-marlijn",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/strandpaviljoen-marlijn"
+      ],
+      "original_status": "Exploitantwebsite en lokale/regiogids op 2026-10-30 gecontroleerd; actuele beschikbaarheid niet live gegarandeerd.",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe officiële exploitantwebsite; naam/adres en borrelfunctie gecontroleerd op 2026-10-30.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://demarlijn.com/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
+      "checked_on": "2026-10-30"
     }
   ],
   "admission_policies": [
