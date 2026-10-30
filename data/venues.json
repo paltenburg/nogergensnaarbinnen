@@ -17692,14 +17692,14 @@
     },
     {
       "id": "cafe-sportlust-houtigehage-5fee14e",
-      "name": "Café Sportlust",
+      "name": "Café Cafetaria Sportlust",
       "type": "Kroeg",
       "address": "Buorren 36",
       "city": "Houtigehage",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "KvK 2026 registreert exploitatie van drinkgelegenheid; gidsen en OSM onderscheiden café en cafetaria op hetzelfde adres.",
+      "alcohol": "KvK SBI 5630 drinkgelegenheid en Uitagenda noemt borrelen; eigen actuele drankenkaart ontbreekt.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17710,20 +17710,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen officiële website; AlleBiz en RestaurantGuru geven afwijkende tijden",
+      "closing_source": "https://www.compadex.com/nl/businesses/nl/cafe-cafetaria-sportlust-62226843-03747476",
+      "closing_notes": "Compadex KvK 2026 bevestigt Café Cafetaria Sportlust, Buorren 36; AlleBiz ma/di dicht, wo–vr 16–21, za 15–21, zo 12–21; RestaurantGuru geeft andere donderdag/vr/za-uren. Geen eigen weekrooster, uren/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://www.compadex.com/nl/businesses/nl/cafe-cafetaria-sportlust-62226843-03747476",
+        "https://www.uitagenda.nl/locaties/cafe-sportlust-houtigehage",
+        "https://restaurantguru.com/Cafetaria-Sportlust-Houtigehage"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actieve bedrijfsregistratie 2026 plus caféfunctie; exacte publieksuren onbevestigd.",
       "geo": {
         "lat": 53.1538702,
         "lon": 6.1450336,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 36, 9223LD Houtigehage"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17782,9 +17794,9 @@
       "city": "Oldeholtpade",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Historische route-/dorpsbron noemt eetcafé; huidige vrije inloop niet bevestigd.",
+      "alcohol": "Historische eetcaféfunctie, actuele drankservice onbekend.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17794,21 +17806,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen actuele exploitantwebsite of weekrooster",
+      "closing_source": "https://www.routeyou.com/nl-nl/location/view/47432534",
+      "closing_notes": "RouteYou beschrijft eetcafé Hoofdweg 124 en oude starturen, maar zonder controleerbare recente datum. OSM https://straten.openalfa.nl/straten/g-f-vosstraat-oldeholtpade-weststellingwerf toont Wever Eetcafé Hoofdweg 124E (adresconflict). Huidige exploitatie, juiste toevoeging, opening en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://www.routeyou.com/nl-nl/location/view/47432534",
+        "https://straten.openalfa.nl/straten/g-f-vosstraat-oldeholtpade-weststellingwerf"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Oude routevermelding; niet onafhankelijk als huidige publieke horeca bevestigd.",
       "geo": {
         "lat": 52.8923479,
         "lon": 6.0456041,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdweg 124, 8474CJ Oldeholtpade"
-      }
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "geocode_notes": "Inventarisatie Hoofdweg 124 versus OSM 124E; huidige exacte horeca-ingang niet bevestigd, bestaande BAG-marker is alleen adresmatch."
     },
     {
       "id": "cafe-de-landerije-steggerda-2dfe96e",
@@ -17818,9 +17842,9 @@
       "city": "Steggerda",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "2026 lokale berichten bevestigen café-/dorpshuisfunctie en openbare dart-/dorpsquizactiviteiten; reguliere vrije inloop onbekend.",
+      "alcohol": "Caféfunctie vermeld, actuele drankkaart/algemene alcoholtoegang niet rechtstreeks bevestigd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17830,20 +17854,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen primair regulier weekrooster",
+      "closing_source": "https://drimble.nl/regio/friesland/stellingwerf/106269367/dorpsquiz-steggerda-beleeft-56ste-editie-traditie-van-het-dorp.html",
+      "closing_notes": "Lokale berichtgeving maart/april 2026 noemt De Landerije in Steggerda bij dorpsquiz, darttoernooi en fietsstart. Kerkbron https://petrusenpaulusparochie.nl/locaties/locatie-steggerda/ noemt café/zalencentrum naast kerk, kerkadres Pepergaweg 47, oude café-inventarisatie Pepergaweg 43. Geen reguliere toegang/rooster of exacte ingang bevestigd; event is geen dagelijks caférooster.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://drimble.nl/regio/friesland/stellingwerf/106269367/dorpsquiz-steggerda-beleeft-56ste-editie-traditie-van-het-dorp.html",
+        "https://drimble.nl/regio/friesland/stellingwerf/106088228/drukte-en-sportieve-spanning-tijdens-darttoernooi-in-de-landerije.html",
+        "https://petrusenpaulusparochie.nl/locaties/locatie-steggerda/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "2026 evenementen bevestigd, maar reguliere café-openstelling en adresrelatie onzeker.",
       "geo": {
         "lat": 52.850814,
         "lon": 6.0572269,
         "method": "PDOK BAG-adres",
         "matched_address": "Pepergaweg 43, 8395PB Steggerda"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17854,9 +17890,9 @@
       "city": "Nijeholtpade",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Historische kroegnaam bevestigd in interview 2026 met voormalige uitbaatster, maar huidige caféfunctie onbekend.",
+      "alcohol": "Geen actueel alcoholaanbod bevestigd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17866,20 +17902,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen actuele bron of rooster",
+      "closing_source": "https://www.stellingwerf.nl/wolvega/roelofje-de-wagt-riemersma-uit-wolvega-is-103-jaar/156372395.html",
+      "closing_notes": "Stellingwerf 08-04-2026: 103-jarige voormalige uitbaatster en haar man hadden vroeger Café De Schieve Deure. Dit is bewijs van HISTORISCHE exploitatie, niet van opening in 2026. Uitgaanskaart noemt Hoofdweg 273 zonder actuele primaire bevestiging. Geen sluitingsdatum, uren of laatste toegang vastgesteld; status Nog te controleren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://www.stellingwerf.nl/wolvega/roelofje-de-wagt-riemersma-uit-wolvega-is-103-jaar/156372395.html",
+        "https://uitgaanskaart.nl/nijeholtpade"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historische kroeg, huidige exploitatie onbevestigd.",
       "geo": {
         "lat": 52.9127728,
         "lon": 6.0779727,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdweg 273, 8475CB Nijeholtpade"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -18415,9 +18462,9 @@
       "city": "Pingjum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Historisch café/proeflokaal van distilleerderij, maar actuele vrije inloop in 2026 niet bevestigd.",
+      "alcohol": "Historisch distilleerderijproeflokaal met alcohol; huidig aanbod onbekend.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -18427,20 +18474,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen actuele exploitantwebsite/rooster, mogelijke exploitantwissel 2025",
+      "closing_source": "https://www.dorppingjum.nl/wp-content/uploads/2025/05/nieuwsbrief-2.pdf",
+      "closing_notes": "Dorpsnieuwsbrief april 2025 beschrijft afscheid van Judith en Hans op 21 maart en 25-jarig jubileum Café De Hollandse Kus (2000–2025). Betekent niet automatisch dat pand definitief gesloten is; eventuele opvolger onbekend. Historische https://www.kookatelierzuiderzee.nl/pop-up-restaurant-kookatelier-zuiderzee-in-de-hollandse-kus/ betreft 2020 besloten pop-ups, geen actueel weekrooster. Geen huidige inloop/laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.dorppingjum.nl/wp-content/uploads/2025/05/nieuwsbrief-2.pdf",
+        "https://www.kookatelierzuiderzee.nl/pop-up-restaurant-kookatelier-zuiderzee-in-de-hollandse-kus/",
+        "https://www.kooistra-interieurbouw.nl/project/eetcafe-de-hollandse-kus/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historische exploitatie bevestigd; afscheid eigenaren 2025, actuele opvolging niet vastgesteld.",
       "geo": {
         "lat": 53.1150698,
         "lon": 5.441153,
         "method": "PDOK BAG-adres",
         "matched_address": "Grote Buren 1, 8749GC Pingjum"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
