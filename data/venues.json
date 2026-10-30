@@ -22461,6 +22461,139 @@
         "https://www.franeker.nl/bedrijven/81d7d6bd02effc2f268fced40d933b73/cafe-de-posthoorn"
       ],
       "original_status": "Eigen site rechtstreeks bevestigd, met gescheiden café- en snackbarroosters."
+    },
+    {
+      "id": "eetcafe-de-dames-balk-20261030",
+      "name": "Eetcafé De Dames",
+      "type": "Eetcafé / restaurant met borrel",
+      "address": "Meerweg 3",
+      "city": "Balk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt losse lunch, borrel en diner; besloten feesten zijn een afzonderlijke optie. Websitebanner vermeldt tijdelijke sluiting 4 t/m 29 oktober 2026; feitelijke heropening op 30 oktober nog niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen drankenkaart bevat tapbier, flesbier, wijn, cocktails en gedistilleerd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen homepage direct uitgelezen 30-10-2026 geeft wo–zo 11–22; zoekindex toont afwijkend 12–22. Tijdelijke sluiting 4–29 oktober in banner; heropening op controledatum niet afzonderlijk bevestigd.",
+      "closing_source": "https://www.eetcafededames.nl/",
+      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren.",
+      "features": "D0 De Fryske Marren / Balk; tijdelijke sluiting t/m 29 oktober; heropening verifiëren",
+      "website": "https://www.eetcafededames.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.eetcafededames.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf",
+        "https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/"
+      ],
+      "original_status": "Eigen site en drankkaart bevestigd; heropening na tijdelijke sluiting en postcode nog niet onafhankelijk bevestigd; niet als zeker toegankelijk geselecteerd."
+    },
+    {
+      "id": "restaurant-de-kruisweg-damwald-20261030",
+      "name": "Restaurant De Kruisweg",
+      "type": "Restaurant / brasserie met borrel",
+      "address": "Haadwei 42",
+      "city": "Damwâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitantsite en Visit Wadden beschrijven openbaar restaurant en terras; afzonderlijke zalen voor besloten evenementen.",
+      "alcohol": "Eigen menupagina vermeldt speciaalbieren, wijnen, aperitieven en borrelhapjes.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen site vermeldt restauranturen wo–zo 11–22, keuken tot 20:30; ook Visit Wadden bevestigt deze tijden. Geen laatste toegang gevonden.",
+      "closing_source": "https://dekruisweg.nl/",
+      "closing_notes": "30-10-2026: officiële https://dekruisweg.nl/ toont Haadwei 42, 9104 BG Damwâld, woensdag t/m zondag 11:00–22:00, keuken tot 20:30; https://dekruisweg.nl/menu/ vermeldt expliciet speciaalbier, wijn en borrel. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2194897040/de-kruisweg bevestigt hetzelfde rooster en publiek restaurant. Keukensluiting niet als laatste toegang gebruikt; laatste toegang onbekend.",
+      "features": "D0 Dantumadiel / Damwâld; afzonderlijke keuken- en horeca-eindtijden",
+      "website": "https://dekruisweg.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://dekruisweg.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://dekruisweg.nl/menu/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2194897040/de-kruisweg"
+      ],
+      "original_status": "Officiële exploitantsite en Visit Wadden bevestigen identiteit, adres, publieke horeca, drankaanbod en uren."
+    },
+    {
+      "id": "het-wapen-van-barradeel-tzummarum-20261030",
+      "name": "Het Wapen van Barradeel",
+      "type": "Dorpscafé / restaurant / evenementenlocatie",
+      "address": "Buorren 32",
+      "city": "Tzummarum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site noemt restaurant/bar/café en vrije inloop voor eten en drankje; buiten vr–zo alleen op afspraak. Eigen site bevat deels oudere historische tekst.",
+      "alcohol": "Eigen site noemt bar/café; bedrijfsregistratie (februari 2026) vermeldt exploitatie van drinkgelegenheden. Actuele gespecificeerde bier-/wijnkaart niet uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site vrijdag vanaf 16, zaterdag/zondag vanaf 12 'tot sluit' zonder einduur. Andere dagen uitsluitend op aanvraag; geen vast einduur of laatste toegang bevestigd.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.hetwapenvanbarradeel.com/ vermeldt Buorren 32, 8851 EN Tzummarum, vr 16:00–'sluit', za/zo 12:00–'sluit'; andere dagen buiten openingstijden op afspraak. Geen vaste sluitingstijd of laatste toegang. Regionale https://www.mooibarradeel.nl/gids2/dorpen-en-buurtschappen/tzummarum/61-het-wapen-van-barradeel bevestigt de tijden maar heeft foutieve postcode 8551 EN. Bedrijfsregistratie https://www.compadex.com/nl/businesses/nl/het-wapen-van-barradeel-69856346-38177188 bijgewerkt 12-02-2026, SBI 5630. Toerisme Alliantie https://www.taf.frl/bijeenkomsten/najaarsbijeenkomst-visit-noardwest-fryslan-2025/ vermeldt bijeenkomst in 2025, geen bewijs van huidige dagelijkse openstelling.",
+      "features": "D0 Waadhoeke / Tzummarum; weekendcafé, eindtijd onbekend",
+      "website": "https://www.hetwapenvanbarradeel.com/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.hetwapenvanbarradeel.com/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.mooibarradeel.nl/gids2/dorpen-en-buurtschappen/tzummarum/61-het-wapen-van-barradeel",
+        "https://www.compadex.com/nl/businesses/nl/het-wapen-van-barradeel-69856346-38177188",
+        "https://www.taf.frl/bijeenkomsten/najaarsbijeenkomst-visit-noardwest-fryslan-2025/"
+      ],
+      "original_status": "Eigen site plus bedrijfsregistratie 2026; exacte actuele sluiting en laatst toegelaten tijd onbekend."
     }
   ],
   "admission_policies": [
