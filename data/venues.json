@@ -17053,25 +17053,26 @@
       "city": "Akkrum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt publieke borrel, lunch en diner.",
+      "alcohol": "Borrelfunctie expliciet, specifiek alcoholassortiment op site niet afzonderlijk geverifieerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site, volledig weekrooster.",
+      "closing_source": "https://krommeknilles.nl/",
+      "closing_notes": "Eigen homepage noemt ma/di 16–22, wo dicht, do 11–22, vr/za 11–00, zo 11–22. Contactpagina noemt 12–16 lunch en 17–21 diner, geen afzonderlijk caférooster; homepage met expliciete weekuren gevolgd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://krommeknilles.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/akkrum"
+        "https://uitgaanskaart.nl/cafe/akkrum",
+        "https://krommeknilles.nl/index.php/contact-pagina/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17079,35 +17080,51 @@
         "lon": 5.8335891,
         "method": "PDOK BAG-adres",
         "matched_address": "Heechein 42, 8491EM Akkrum"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite en contactpagina gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://krommeknilles.nl/"
     },
     {
       "id": "grand-cafe-jan-wergea-08f70f7",
-      "name": "Grand Café Jan",
+      "name": "Grand Café JAN!",
       "type": "Grand café",
       "address": "Kerkbuurt 1",
       "city": "Wergea",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site noemt publiek grand café en borrels/feesten; geen hotelbeperking.",
+      "alcohol": "Borrel en proosten bevestigd, maar specifieke alcoholkaart nog niet afzonderlijk gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "00:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site, wo–zo; ma/di niet vermeld.",
+      "closing_source": "https://www.grandcafejan.nl/contact",
+      "closing_notes": "Eigen site: wo–vr 16–23, za/zo 12–00. Ma/di ontbreken in eigen rooster en blijven onbekend; externe gidsen noemen afwijkende maandag-/weekuren, niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.grandcafejan.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://www.grandcafejan.nl/contact",
+        "https://www.visitleeuwarden.com/de/Standorte/2955624759/Grand-Cafe-Jan"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17115,7 +17132,21 @@
         "lon": 5.8442965,
         "method": "PDOK BAG-adres",
         "matched_address": "Kerkbuurt 1, 9005NZ Wergea"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite en contactpagina gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.grandcafejan.nl/contact"
     },
     {
       "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
@@ -17125,25 +17156,27 @@
       "city": "Aldeboarn",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt publiek dorpscafé voor borrel, lunch en diner.",
+      "alcohol": "Borrelfunctie bevestigd; specifiek alcoholmenu niet afzonderlijk gevonden.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site, wo–zo; ma/di niet vermeld.",
+      "closing_source": "https://eetcafedegondel.nl/",
+      "closing_notes": "Eigen site: wo/do 16–24 en vr–zo 11–24. Maandag en dinsdag niet vermeld: onbekend, niet als gesloten aangenomen. Geen laatste toegang. Eigen site schrijft Doelhòf 3, BAG-geocode Doelhôf 3; adresvariant bewaard.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://eetcafedegondel.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://eetcafedegondel.nl/contact",
+        "https://eetcafedegondel.nl/buffetten"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17151,7 +17184,21 @@
         "lon": 5.8932861,
         "method": "PDOK BAG-adres",
         "matched_address": "Doelhôf 3, 8495KD Aldeboarn"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite en contactpagina gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://eetcafedegondel.nl/"
     },
     {
       "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
@@ -17161,8 +17208,8 @@
       "city": "Reduzum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Bestelwebsite bevestigt exploitatie op Haedstrjitte 14; actuele vrije café-inloop en drankservice niet direct vastgesteld.",
+      "alcohol": "Alcoholaanbod niet via eigen menukaart bevestigd; naam/categorie café alleen indicatie.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17175,11 +17222,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen bestelwebsite geeft ma–wo gesloten, do–zo 17–20:30; dit kunnen bestel-/afhaaltijden zijn en is geen bewezen bar-sluiting. Tweede eigen eatbu-pagina noemt do–zo circa 17:30–19:30, AlleBiz tot 01/03. Daarom geen begin-/eindtijden als bevestigd caféschema overgenomen. Laatste toegang onbekend; feitelijke horecavorm verder verifiëren.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafebardewelp.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://www.cafebardewelp.nl/informatie",
+        "https://cafebardewelp.eatbu.com/?lang=nl",
+        "https://www.allebiz.nl/caf%C3%A9-de-welp-0566-601-541"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17187,7 +17237,10 @@
         "lon": 5.7869898,
         "method": "PDOK BAG-adres",
         "matched_address": "Haedstrjitte 14, 9008SP Reduzum"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Eigen bestelwebsite en informatiepagina gecontroleerd 2026-10-30."
     },
     {
       "id": "cafe-de-lits-rottevalle-27df1a4",
