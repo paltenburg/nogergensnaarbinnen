@@ -23194,6 +23194,53 @@
         "https://www.allecijfers.nl/weg/de-wal-feanwalden/"
       ],
       "original_status": "Eigen actuele site met publieke borrel, alcohol en exact weekrooster; fysieke entree niet afzonderlijk op locatie getest."
+    },
+    {
+      "id": "cafe-t-trefpunt-hurdegaryp-20261031",
+      "name": "Café 't Trefpunt",
+      "type": "Dorpscafé / muziekcafé",
+      "address": "Rijksstraatweg 102",
+      "city": "Hurdegaryp",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publiek café volgens lokale horeca- en bezoekersbronnen; actuele vrije inloop op alle dagen nog niet bedrijfseigen bevestigd.",
+      "alcohol": "Bier volgens recente bezoekersbeschrijvingen en caféclassificatie; geen actuele officiële drankkaart gevonden.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen betrouwbaar bedrijfseigen weekrooster. Gidsen geven di–zo vanaf 16:00 met sluiting 00:00 of 02:00; evenementenmeldingen 22:00–02:00 zijn geen gewone caféuren.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: gemeentelijke bekendmaking https://zoek.officielebekendmakingen.nl/gmb-2026-33060.pdf noemt livemuziek 28-02-2026 bij Café 't Trefpunt, Rijksstraatweg 102, 22:00–02:00. Andere gemeentelijke melding voor 21-11-2026 via https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-428734/gemeente-tytsjerksteradiel-melding-livemuziek-op-21-november-2026-in-hurdegaryp/ bevestigt locatie als evenementkandidaat, niet feitelijke toekomstige opening. Actuele gids https://restaurantguru.com/Cafe-Trefpunt-Hurdegaryp noemt bier en recente bezoekerservaringen, maar weekrooster 16–00 botst met https://www.allebiz.nl/caf%C3%A9-t-trefpunt_15H-0511-472-279 (16–02) en https://corestaurant.ch/en/Netherlands/restaurant/cafe-t-trefpunt-hurdegaryp-971 (09–21). Geen vaste uren overgenomen. Eigen website niet gevonden, eventuele Instagram @Trefpunthardegarijp nog niet rechtstreeks geverifieerd. Publieke exploitatie na februari 2026 niet afzonderlijk bewezen; selectie Nog te controleren. Laatste toegang onbekend.",
+      "features": "D0 Tytsjerksteradiel / Hurdegaryp; 2026 livemuziek; uren conflicteren",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-33060.pdf",
+        "https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-428734/gemeente-tytsjerksteradiel-melding-livemuziek-op-21-november-2026-in-hurdegaryp/",
+        "https://www.oozo.nl/bedrijven/tytsjerksteradiel/hurdegaryp/hurdegaryp/224850/cafe-t-trefpunt",
+        "https://restaurantguru.com/Cafe-Trefpunt-Hurdegaryp",
+        "https://www.allebiz.nl/caf%C3%A9-t-trefpunt_15H-0511-472-279"
+      ],
+      "original_status": "Historische exploitatie in 2026 bevestigd via gemeentelijke evenementmelding; actuele vrije inloop en vaste uren niet geverifieerd."
     }
   ],
   "admission_policies": [
