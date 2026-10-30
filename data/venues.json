@@ -13674,7 +13674,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13684,21 +13684,23 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen actuele eigen weektijden bevestigd op 30-10-2026",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://uitgaanskaart.nl/cafe/bolsward",
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026).",
       "geo": {
         "lat": 53.0622082,
         "lon": 5.5185729,
         "method": "PDOK BAG-adres",
         "matched_address": "Bargefenne 11, 8701KD Bolsward"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-t-diekje-bolsward-89f46bb",
@@ -13708,7 +13710,7 @@
       "city": "Bolsward",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Café volgens actuele bedrijfsregistratie; daadwerkelijke publieke inloop niet rechtstreeks gecontroleerd.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -13720,21 +13722,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen actuele eigen weektijden bevestigd op 30-10-2026",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Bedrijfsregistratie 12-02-2026 op Dijkstraat 47 bevestigd; actuele publieksopening niet onafhankelijk bewezen. VindOpen en AlleBiz verschillen over dinsdag/donderdag eindtijden; oude diekje.nl niet als huidige eigen site bevestigd. Sluiting en laatste toegang onbekend; geen gidsuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://uitgaanskaart.nl/cafe/bolsward",
+        "https://www.compadex.com/nl/businesses/nl/cafe-t-diekje-01041308-01886924",
+        "https://vind-open.nl/bolsward/caf%C3%A9-t-diekje-289081",
+        "https://www.allebiz.nl/caf%C3%A9-t-diekje_2R-06-14989705"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Bedrijfsregistratie 12-02-2026 op Dijkstraat 47 bevestigd; actuele publieksopening niet onafhankelijk bewezen. VindOpen en AlleBiz verschillen over dinsdag/donderdag eindtijden; oude diekje.nl niet als huidige eigen site bevestigd.",
       "geo": {
         "lat": 53.061938,
         "lon": 5.5180495,
         "method": "PDOK BAG-adres",
         "matched_address": "Dijkstraat 47, 8701KC Bolsward"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-bullock-bolsward-e66a509",
@@ -13746,7 +13752,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13756,21 +13762,23 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen actuele eigen weektijden bevestigd op 30-10-2026",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Gysbert Japicxlaan 9 staat op OSM-afgeleide en aggregatiegidsen; geen recente eigen exploitantbron of openingsbewijs gevonden (30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://uitgaanskaart.nl/cafe/bolsward",
+        "https://streets.openalfa.nl/streets/gysbert-japicxlaan-bolsward-sudwest-fryslan"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gysbert Japicxlaan 9 staat op OSM-afgeleide en aggregatiegidsen; geen recente eigen exploitantbron of openingsbewijs gevonden (30-10-2026).",
       "geo": {
         "lat": 53.0653543,
         "lon": 5.518595,
         "method": "PDOK BAG-adres",
         "matched_address": "Gysbert Japicxlaan 9, 8701DT Bolsward"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-hut-van-oom-tom-bolsward-e2ed844",
@@ -13782,7 +13790,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13792,21 +13800,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen actuele eigen weektijden bevestigd op 30-10-2026",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Gysbert Japicxlaan 11 staat op OSM-afgeleide kaart. HFS-pagina noemt tegelijkertijd Bargefenne 11 en Gysbert Japicxlaan 11, en gebruikt een voorbeeldachtig telefoonnummer 0515-123456; onbetrouwbaar als bedrijfsrooster. Geen eigen site gevonden. Sluiting en laatste toegang onbekend; geen gidsuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://uitgaanskaart.nl/cafe/bolsward",
+        "https://streets.openalfa.nl/streets/gysbert-japicxlaan-bolsward-sudwest-fryslan",
+        "https://www.hfsfreelancers.nl/locaties/bolsward/bars/de-hut-van-oom-tom"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gysbert Japicxlaan 11 staat op OSM-afgeleide kaart. HFS-pagina noemt tegelijkertijd Bargefenne 11 en Gysbert Japicxlaan 11, en gebruikt een voorbeeldachtig telefoonnummer 0515-123456; onbetrouwbaar als bedrijfsrooster. Geen eigen site gevonden.",
       "geo": {
         "lat": 53.0654329,
         "lon": 5.5185177,
         "method": "PDOK BAG-adres",
         "matched_address": "Gysbert Japicxlaan 11, 8701DT Bolsward"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-55-bolsward-c23ffd7",
@@ -13816,8 +13827,8 @@
       "city": "Bolsward",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website beschrijft publiek eetcafé/chauffeurscafé, lounge en restaurant; vrije borrelinloop niet afzonderlijk bevestigd.",
+      "alcohol": "Alcoholaanbod op eigen pagina niet rechtstreeks vastgesteld; horeca-categorie is onvoldoende als bewijs.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13828,21 +13839,26 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Onbekend: eigen website geeft uitsluitend keukenuren",
+      "closing_source": "https://www.eetcafe55.nl/",
+      "closing_notes": "Keuken ma–wo 17:00–21:00, do 11:30–13:30 en 17:00–21:00, vr 11:30–13:30, za/zo keuken gesloten. Deze KEUKENuren zijn niet als opening/sluiting van café ingevoerd. Eigen site biedt zaak ter overname aan; huidige bedrijfsstatus niet onafhankelijk bevestigd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.eetcafe55.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://uitgaanskaart.nl/cafe/bolsward",
+        "https://www.eetcafe55.nl/",
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site bereikbaar op 30-10-2026, noemt overnamemogelijkheid maar geen bevestigde sluiting of overdracht.",
       "geo": {
         "lat": 53.0681775,
         "lon": 5.5068896,
         "method": "PDOK BAG-adres",
         "matched_address": "De Marne 55, 8701PV Bolsward"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen website rechtstreeks gecontroleerd 30-10-2026; bevestigt naam en De Marne/Bolsward. Vermelde tijden zijn uitsluitend KEUKENuren, niet café-sluiting.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-t-syl-joure-a95c827",
@@ -17993,6 +18009,39 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Klein Vaarwaterweg 14, 9164MA Buren"
       }
+    },
+    {
+      "id": "cafe-de-drie-koningen-bolsward-20261030",
+      "name": "Café De Drie Koningen",
+      "type": "Bruincafé/danscafé",
+      "address": "Bargefenne 7",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Lokale toeristische site bevestigt publieke bar en dansvloer; actuele toegangstijden onbekend.",
+      "alcohol": "Lokale toeristische site bevestigt café voor een drankje.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen bedrijfseigen vast weekrooster geverifieerd",
+      "closing_source": "",
+      "closing_notes": "Lokale toeristische site en berichten van augustus 2026 bevestigen exploitatie/evenementen. Gidsuren zijn onderling tegenstrijdig en niet overgenomen; laatste toegang onbekend.",
+      "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
+      "website": "",
+      "other_sources": [
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://www.findglocal.com/NL/Bolsward/340457065826837/Caf%C3%A9-de-Drie-Koningen",
+        "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward"
+      ],
+      "original_status": "Bolsward.nl vermeldt Café De Drie Koningen; eigen sociale berichten van augustus 2026 gespiegeld op FindGlocal met evenementen in 2026. Controledatum 30-10-2026; niet live.",
+      "checked_on": "2026-10-30"
     }
   ],
   "admission_policies": [
