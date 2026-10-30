@@ -18114,6 +18114,141 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Bargefenne 7, 8701KD Bolsward"
       }
+    },
+    {
+      "id": "stadscafe-het-veerhuys-bolsward-20261030",
+      "name": "Stadscafé Het Veerhuys",
+      "type": "Stadscafé/borrel",
+      "address": "Marktplein 6",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt uit voor spontane borrel; reserveren alleen aanbevolen voor zekerheid.",
+      "alcohol": "Eigen website bevestigt bieren op wisseltap.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
+      "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
+      "closing_source": "https://veerhuys-bolsward.nl/",
+      "closing_notes": "Eigen site bevestigt tapas en openbare borrel; externe AlleBiz-rooster niet als bevestigd aangenomen. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen.",
+      "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
+      "website": "https://veerhuys-bolsward.nl/",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite rechtstreeks gelezen op 30-10-2026; adres gecontroleerd via lokale gids.",
+      "other_sources": [
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://www.allebiz.nl/het-veerhuys-bolsward-0515-859-511",
+        "https://veerhuys-bolsward.nl/borrel/"
+      ],
+      "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
+      "checked_on": "2026-10-30"
+    },
+    {
+      "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+      "name": "Stadsherberg De Wijnberg",
+      "type": "Stadsherberg/restaurant/borrel",
+      "address": "Marktplein 5",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt ook zonder overnachting uit voor een drankje op terras of binnen.",
+      "alcohol": "Exploitant bevestigt bier, wijn en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
+      "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
+      "closing_source": "https://wijnberg-bolsward.nl/",
+      "closing_notes": "Eigen site bevestigt drankgelegenheid en horeca; reserveringsformulier voor eten is geen algemene toegangsplicht. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen.",
+      "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
+      "website": "https://wijnberg-bolsward.nl/",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite rechtstreeks gelezen op 30-10-2026; adres gecontroleerd via lokale gids.",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/3212642821/hotel-restaurant-de-wijnberg",
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://wijnberg-bolsward.nl/"
+      ],
+      "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
+      "checked_on": "2026-10-30"
+    },
+    {
+      "id": "blend-bolsward-20261030",
+      "name": "Blend Bolsward",
+      "type": "Lunch-/borrelzaak",
+      "address": "Jongemastraat 2",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant bevestigt spontaan aanschuiven voor een borrel; ook ontbijt/lunch en diner.",
+      "alcohol": "Eigen site biedt High Wine, High Cocktail en borrelarrangementen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
+      "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
+      "closing_source": "https://blendbolsward.nl/",
+      "closing_notes": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen.",
+      "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
+      "website": "https://blendbolsward.nl/",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite rechtstreeks gelezen op 30-10-2026; adres gecontroleerd via lokale gids.",
+      "other_sources": [
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/",
+        "https://blendbolsward.nl/"
+      ],
+      "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
+      "checked_on": "2026-10-30"
     }
   ],
   "admission_policies": [
