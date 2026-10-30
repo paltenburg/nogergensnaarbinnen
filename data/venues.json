@@ -11711,7 +11711,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -11721,13 +11721,14 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen bedrijfseigen weekrooster bevestigd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://www.allebiz.nl/het-stamcaf%C3%A9_1L markeert de vermelding sinds 25-09-2019 als gesloten. Geen actuele officiële exploitant, heropening of openingstijden gevonden. Niet definitief als gesloten vastgesteld, maar wegens sterke historische sluitingsindicatie uitgesloten van standaard publieke resultaten totdat actieve exploitatie is bewezen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.allebiz.nl/het-stamcaf%C3%A9_1L"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11735,7 +11736,8 @@
         "lon": 5.9261187,
         "method": "PDOK BAG-adres",
         "matched_address": "Heideburen 7, 8441GL Heerenveen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-bak-heerenveen-8f34eb5",
@@ -11745,7 +11747,7 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek café en borrel volgens eigen website; laatste toegang onbekend",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -11757,13 +11759,16 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Onbekend; geen bedrijfseigen weekrooster bevestigd",
+      "closing_source": "https://www.cafebak.nl/",
+      "closing_notes": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafebak.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.cafebak.nl/",
+        "https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-bak-12291342.html"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11771,7 +11776,8 @@
         "lon": 5.9224375,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 2, 8441EV Heerenveen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "it-houtsje-heerenveen-d2248cf",
@@ -11923,25 +11929,26 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café en borrellocatie volgens eigen website; laatste toegang onbekend",
+      "alcohol": "Eigen site noemt alcoholische dranken, bieren en wijnen",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:30",
+        "di": "00:30",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "03:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website (zoekindex; rechtstreekse opening timeout)",
+      "closing_source": "https://www.cafedeoase.nl/",
+      "closing_notes": "Eigen website in zoekindex 30-10-2026: ma/di 10:00–00:30, wo/do 10:00–02:00, vr–zo 10:00–03:00, Breedpad 9 en expliciet bier/wijn. Rechtstreeks openen gaf timeout; inhoud van officiële zoekindex is gecontroleerd, fysieke/live status en laatste toegang niet bevestigd. Gidsuren wijken af.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafedeoase.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.cafedeoase.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11949,6 +11956,16 @@
         "lon": 5.9222495,
         "method": "PDOK BAG-adres",
         "matched_address": "Breedpad 9, 8442AA Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
       }
     },
     {
@@ -12043,13 +12060,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; geen bedrijfseigen weekrooster bevestigd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: spiegel van sociale berichten uit mei–juli 2026 bevestigt recente café-evenementen op Gedempte Molenwijk 21 (https://www.bars10.com/NL/Heerenveen/149436701852232/De-Kroeg-Heerenveen). Spiegel vermeldt do–zo sluiting 02:00; https://www.allebiz.nl/de-kroeg_17A-0513-650-560 geeft 03:00. Geen rechtstreeks bedrijfseigen rooster gecontroleerd, dus geen eindtijden ingevuld; eigen website onbekend, Facebooklink nog niet onafhankelijk geverifieerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.bars10.com/NL/Heerenveen/149436701852232/De-Kroeg-Heerenveen",
+        "https://www.allebiz.nl/de-kroeg_17A-0513-650-560"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -12057,7 +12076,8 @@
         "lon": 5.9231638,
         "method": "PDOK BAG-adres",
         "matched_address": "Gedempte Molenwijk 21, 8442BG Heerenveen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "snooker-pool-centrum-heerenveen-heerenveen-05fb35d",
@@ -12067,25 +12087,27 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek sportcafé/bar volgens eigen locatiesite; alcoholaanbod en laatste toegang niet expliciet bevestigd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële locatiesite (bronnenconflict met algemene site)",
+      "closing_source": "https://heerenveen.snookerpoolcentrum.nl/",
+      "closing_notes": "Eigen locatiesite met expliciete ingangsdatum 01-09-2026: ma-do 18:00–00:00, vr 18:00–01:00, za 14:00–01:00, zo 14:00–00:00. Andere officiële algemene pagina https://snookerpoolcentrum.nl/home/ vermeldt afwijkende do/vr/za/zo-uren; gedateerde locatiepagina heeft voorrang, maar bronconflict blijft open. Bezoekadres als 70–73 gepubliceerd; exact ingangshuisnummer/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://heerenveen.snookerpoolcentrum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://heerenveen.snookerpoolcentrum.nl/",
+        "https://snookerpoolcentrum.nl/home/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -12093,6 +12115,16 @@
         "lon": 5.9272168,
         "method": "PDOK BAG-adres",
         "matched_address": "Burgemeester Kuperusplein 70, 8442CP Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "14:00",
+        "zo": "14:00"
       }
     },
     {
