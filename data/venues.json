@@ -20068,9 +20068,56 @@
       "checked_on": "2026-10-30",
       "other_sources": [
         "https://www.deleyen.nl/menukaart",
-        "https://www.zuidoostfriesland.nl/alle-locaties/1879477548/paviljoen-de-leyen"
+        "https://www.zuidoostfriesland.nl/alle-locaties/1879477548/paviljoen-de-leyen",
+        "https://www.compadex.com/nl/businesses/nl/paviljoen-de-leyen-01101208-11448490",
+        "https://stagemarkt.nl/stages/manager-foodservice_f5051ad0-9b32-490b-8631-d5fd06b59219-27066"
       ],
-      "original_status": "Exploitant bevestigt actieve publieke horeca en nieuwe exploitatie op 30-10-2026; adresconflict 3 versus 4 blijft open."
+      "original_status": "Exploitant bevestigt actieve publieke horeca en nieuwe exploitatie op 30-10-2026; adresconflict 3 versus 4 blijft open.",
+      "geocode_notes": "30-10-2026: Bildreed 3, 9221 SJ Rottevalle bevestigd door bedrijfsregistratie https://www.compadex.com/nl/businesses/nl/paviljoen-de-leyen-01101208-11448490 (bijgewerkt 20-05-2026), leerbedrijfregistratie https://stagemarkt.nl/stages/manager-foodservice_f5051ad0-9b32-490b-8631-d5fd06b59219-27066 en https://go-kids.nl/friesland/eten-en-drinken/paviljoen-de-leyen. VVV vermeldt afwijkend Bildreed 4. Exacte BAG-adresmatch en fysieke horeca-ingang nog niet onafhankelijk gecontroleerd; geen marker gegokt."
+    },
+    {
+      "id": "de-polle-de-veenhoop-20261030",
+      "name": "De Pôlle eten en drinken",
+      "type": "Restaurant / terras met borrel",
+      "address": "Slûswei 17",
+      "city": "De Veenhoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt vrije inloop voor drankje/borrel op terras zonder verplichte maaltijd; reserveren kan maar is niet als verplicht genoemd.",
+      "alcohol": "Wijn bij high-wine-aanbod via externe aanbieder (2026); exploitantwebsite noemt wijn in klantcitaat. Eigen menukaart zomer 2026 toont geen dranken, dus actuele volledige drankkaart niet bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële seizoensroosters met gesplitste diensten, niet representabel met één jaarrond weekrooster.",
+      "closing_source": "https://depolle-etenendrinken.nl/",
+      "closing_notes": "30-10-2026: eigen site noemt april–september dagelijks 09–14 en 17–20; oktober–maart ma/vr 09–14 en 17–20, di–do gesloten, za/zo 09–20. Dit zijn seizoens- en dagdeeluren; huidige datamodel kent geen seizoen en gesplitste diensten. Alle gestructureerde uren daarom '?'; laatste toegang onbekend. Gids https://fietsroutenetwerk.nl/etenendrinken/restaurant-de-plle zegt bovendien laagseizoen weerafhankelijk; geen harde actuele eindtijd claimen.",
+      "features": "D0 geografische ontdekking Smallingerland; De Veenhoop; seizoensrooster",
+      "website": "https://depolle-etenendrinken.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://de-veenhoop.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/3908876937/de-polle-eten-en-drinken",
+        "https://www.spontaan.nl/nl-be/restaurants/de-veenhoop-watersport-en-recreatie-de-polle/geniet-van-een-gezellige-high-wine-bij-de-veenhoop-watersport-en-recreatie-de-polle-inclusief-een-luxe-borrelplank-en-per-persoon-3-glazen-wijn-naar-keuze--apr-2026-friesland/",
+        "https://depolle-etenendrinken.nl/wp-content/uploads/2026/05/MENUKAART-DE-POLLE-ETEN-EN-DRINKEN-ZOMER-2026-6.pdf"
+      ],
+      "original_status": "Exploitantwebsite 30-10-2026 bevestigt publieke borrel en adres; alcoholaanbod via externe wijnactie, nog geen directe actuele drankenkaart."
     }
   ],
   "admission_policies": [
