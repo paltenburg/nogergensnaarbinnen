@@ -13375,9 +13375,9 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Bedrijvengidsen bevestigen historische cafévermelding op Hoogstraat 34; actuele vrije inloop niet primair bevestigd.",
+      "alcohol": "Niet onafhankelijk bevestigd voor actuele exploitatie.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13387,20 +13387,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "AlleBiz heeft weekuren maar geen eigen actuele bron",
+      "closing_source": "https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545",
+      "closing_notes": "30-10-2026: https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545 geeft ma dicht, di–do 17–23, vr/za 16–02, zo 16–23; geen officiële website. Tweede gids https://www.allebiz.nl/de-swalker-06-51825104 toont ander telefoonnummer. Exploitatie en uren niet rechtstreeks bevestigd; onbekend, laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545",
+        "https://www.allebiz.nl/de-swalker-06-51825104"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Alleen gidsvermelding, actuele exploitant nog onbekend.",
       "geo": {
         "lat": 53.3264409,
         "lon": 5.9980409,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoogstraat 34, 9101LJ Dokkum"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -15145,32 +15156,43 @@
       "city": "Burgum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt publiek café én restaurant met losse borrel tot later op de avond.",
+      "alcohol": "Eigen site bevestigt borrelfunctie, specifieke drankkaart niet afzonderlijk gelezen.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "02:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website, direct gevonden 30-10-2026",
+      "closing_source": "https://www.roodhert.nl/",
+      "closing_notes": "Eigen homepage geeft ma/di dicht, wo 12–22, do 12–00, vr 12–01, za 12–02, zo 12–22. Externe AlleBiz heeft andere einduren, officiële site gevolgd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.roodhert.nl/",
       "other_sources": [
-        "https://www.friesland.nl/nl/plannen/eten-en-drinken/eet-cafes"
+        "https://www.allebiz.nl/eetcaf%C3%A9-t-roodhert"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant bevestigt eetcafé en adres Schoolstraat 3.",
       "geo": {
         "lat": 53.1926933,
         "lon": 5.9901831,
         "method": "PDOK BAG-adres",
         "matched_address": "Schoolstraat 3, 9251EA Burgum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -16548,8 +16570,8 @@
       "city": "Hindeloopen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt vrije inloop, café met live muziek en evenementen.",
+      "alcohol": "Eigen website/menu en huisregels bevestigen bier en cocktails; 18+ voor alcohol.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16560,20 +16582,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website heeft geen vaste weekuren; externe gidsen niet consistent",
+      "closing_source": "https://www.boekanier.cafe/",
+      "closing_notes": "Eigen site 30-10-2026 met actuele evenementen december 2026/januari 2027, menu en huisregels; geen vast weekrooster. AlleBiz noemt do–zo 12–00/02 maar niet als eigen rooster bevestigd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.boekanier.cafe/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://www.boekanier.cafe/huisregels",
+        "https://www.friesland.nl/nl/locaties/3877223270/cafe-de-boekanier",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-boekanier-b-v-84369825-50492020"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site en KvK 2026 bevestigen publieke exploitatie.",
       "geo": {
         "lat": 52.9438684,
         "lon": 5.401966,
         "method": "PDOK BAG-adres",
         "matched_address": "'t Oost 6, 8713JP Hindeloopen"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17526,9 +17561,9 @@
       "city": "Drachtstercompagnie",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Lokale concertagenda bevestigt publiek evenement 31 oktober 2026 op adres; reguliere café-inloop niet bevestigd.",
+      "alcohol": "Alcoholaanbod op regulier caférooster niet direct bevestigd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17538,20 +17573,30 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eventuren 31-10 20–22:30 zijn geen vaste caféuren",
+      "closing_source": "https://brassbandhalleluja.nl/event/themaconcert-2/",
+      "closing_notes": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://brassbandhalleluja.nl/event/themaconcert-2/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actueel evenement bevestigd, reguliere horecatoegang onbekend.",
       "geo": {
         "lat": 53.1364274,
         "lon": 6.1394711,
         "method": "PDOK BAG-adres",
         "matched_address": "Alde Wei 14, 9222NG Drachtstercompagnie"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17634,32 +17679,44 @@
       "city": "Frieschepalen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt openbaar muziekcafé, borrel, terras en aparte snackbar.",
+      "alcohol": "Eigen site bevestigt caféborrel en bier; drankkaart via eigen menu aanwezig.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "01:00",
+        "wo": "—",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële muziekcafépagina, weekrooster, 30-10-2026",
+      "closing_source": "https://www.makellysmuziekcafe.nl/Muziekcafe/",
+      "closing_notes": "Eigen site ma/wo gesloten, di 19–01, do–zo 15–01; dit wijkt sterk af van Cylex/HFS (ook ma/wo open en vr/za later). Bedrijfseigen rooster gevolgd, events kunnen afwijken; laatste toegang onbekend. Snackbar heeft aparte tijden.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.makellysmuziekcafe.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://www.makellysmuziekcafe.nl/Contact/",
+        "https://www.hfsfreelancers.nl/locaties/frieschepalen/bars/ma-kellys-muziekcafe"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant bevestigt café en huidige KvK-vermelding.",
       "geo": {
         "lat": 53.1117771,
         "lon": 6.2062618,
         "method": "PDOK BAG-adres",
         "matched_address": "Hearsterwei 1, 9249NA Frieschepalen"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "19:00",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
       }
     },
     {
