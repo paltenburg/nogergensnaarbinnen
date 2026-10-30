@@ -21744,6 +21744,96 @@
         "https://waddenweer.nl/adressen/de-walvis-terschelling/"
       ],
       "original_status": "Eigen site bevestigt dagzaak, open dagen en benaderde sluituren en laatste drankronde; expliciete laatste toegang en actuele alcoholkaart nog open."
+    },
+    {
+      "id": "eetcafe-de-koornbeurs-kollum-20261030",
+      "name": "Eetcafé De Koornbeurs",
+      "type": "Eetcafé / bruin café",
+      "address": "Voorstraat 65",
+      "city": "Kollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt vrije inloop voor drankje, darts, biljart en sport; geen maaltijd- of ticketverplichting.",
+      "alcohol": "Eigen website bevestigt getapt bier, speciaalbier en eigen Kollumer Blond en Tripel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Bedrijfseigen weekrooster, 30-10-2026 gecontroleerd; geen expliciete laatste toegang.",
+      "closing_source": "https://www.eetcafedekoornbeurs.nl/",
+      "closing_notes": "30-10-2026: eigen site geeft ma 16–23, di–do 16–01, vr 11–03, za 10–03, zo 14–23; over middernacht betreft de volgende kalenderdag. Paradiso Bar/Discotheek op hetzelfde pand is een afzonderlijke eventlocatie, niet samenvoegen. Geen laatste toegang voor het eetcafé gevonden.",
+      "features": "D0 Noardeast-Fryslân / Kollum; vrije café-inloop en bier; in hetzelfde pand als Paradiso",
+      "website": "https://www.eetcafedekoornbeurs.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.eetcafedekoornbeurs.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.paradisobar.nl/",
+        "https://www.beleefkollum.nl/bedrijf/paradiso-horeca-bv/"
+      ],
+      "original_status": "Eigen exploitant bevestigt actuele café-identiteit, publiek bieraanbod en volledig weekrooster op 2026-10-30; exacte toegangslimiet onbekend."
+    },
+    {
+      "id": "paradiso-bar-kollum-20261030",
+      "name": "Paradiso Bar",
+      "type": "Discotheek / evenementencafé",
+      "address": "Voorstraat 65-A",
+      "city": "Kollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke ticket- en entree-evenementen; ID verplicht, eigen site vermeldt 16+ voor discotheek. Geen dagelijkse vrije discotheekinloop.",
+      "alcohol": "Paradiso is een bar/dancing, exploitant organiseert DJ-avonden; bieraanbod in gedeelde exploitatie De Koornbeurs door exploitant bevestigd. Eigen afzonderlijke discotheek-drankenkaart niet gevonden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eventafhankelijk; geen vaste weeksluiting. Laatste toegang 02:00 uitsluitend bij discotheekavonden, niet als algemeen café-rooster toepassen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.paradisobar.nl/contact/ zegt discotheek iedere eerste en laatste zaterdag vanaf 23:00, na 02:00 geen toegang, ID verplicht, vanaf 16 jaar. Agenda https://www.paradisobar.nl/ toont ook vrijdag 31 oktober 2026 evenement vanaf 23:00 met entree en zaterdag 14 november 20:30–02:00; geen algemeen vrijdag- of zaterdagrooster. https://www.beleefkollum.nl/bedrijf/paradiso-horeca-bv/ noemt verouderd laatste toegang 03:00 en laatste zaterdag (niet eerste); eigen actuele site leidend. Officiële contactpagina noemt Voorstraat 65, lokale ondernemersgids vermeldt afzonderlijk 65-A: suffix exact nog via BAG/PDOK verifiëren. Niet samenvoegen met Eetcafé De Koornbeurs op 65.",
+      "features": "D0 Noardeast-Fryslân / Kollum; ticket-events; alleen eventnachten toegang tot 02:00, geen algemeen laatste-toegangveld",
+      "website": "https://www.paradisobar.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.paradisobar.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.paradisobar.nl/contact/",
+        "https://www.paradisobar.nl/",
+        "https://www.beleefkollum.nl/bedrijf/paradiso-horeca-bv/",
+        "https://www.beleefkollum.nl/leden/"
+      ],
+      "original_status": "Eigen agenda toont 2026-entree-evenementen; discotheekopening eventgedreven. Last entry alleen voor discotheekavond, niet als vast weekschema."
     }
   ],
   "admission_policies": [
