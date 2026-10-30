@@ -11930,34 +11930,36 @@
     },
     {
       "id": "cafe-de-oase-heerenveen-051008c",
-      "name": "Café De Oase",
-      "type": "Kroeg",
+      "name": "Café Perridon",
+      "type": "Bruin café",
       "address": "Breedpad 9",
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek café en borrellocatie volgens eigen website; laatste toegang onbekend",
-      "alcohol": "Eigen site noemt alcoholische dranken, bieren en wijnen",
+      "access": "Eigen huidige site bevestigt vrij toegankelijk bruin café in hart van Heerenveen. Exploitatie onder de naam Café Perridon sinds juli 2025; voormalige Café De Oase op hetzelfde adres is géén afzonderlijke actieve locatie.",
+      "alcohol": "Huidige exploitant noemt bruin café; horecaregistratie is cafébranche. Specifieke actuele bier-/wijnkaart niet afzonderlijk uitgelezen.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "00:30",
-        "di": "00:30",
+        "ma": "02:00",
+        "di": "02:00",
         "wo": "02:00",
         "do": "02:00",
-        "vr": "03:00",
-        "za": "03:00",
-        "zo": "03:00"
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Officiële website (zoekindex; rechtstreekse opening timeout)",
-      "closing_source": "https://www.cafedeoase.nl/",
-      "closing_notes": "Eigen website in zoekindex 30-10-2026: ma/di 10:00–00:30, wo/do 10:00–02:00, vr–zo 10:00–03:00, Breedpad 9 en expliciet bier/wijn. Rechtstreeks openen gaf timeout; inhoud van officiële zoekindex is gecontroleerd, fysieke/live status en laatste toegang niet bevestigd. Gidsuren wijken af.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://www.cafedeoase.nl/",
+      "closing_quality": "Eigen huidige caféwebsite vermeldt ma–zo 12:00–02:00. Historische Café De Oase-uren niet meer toepasselijk; eventuele evenementafwijkingen onbekend.",
+      "closing_source": "https://www.cafeperridon.nl/",
+      "closing_notes": "30-10-2026: https://www.cafeperridon.nl/ bevestigt naam Café Perridon, Breedpad 9, 8442 AA Heerenveen, opening juli 2025 en dagelijks 12:00–02:00; agenda noemt 14 november, 24–26 december en 31 december 2026. https://www.cafeperridon.nl/geschiedenis-caf%C3%A9-perridon bevestigt dat huidige café aan Breedpad 9 niet hetzelfde pand is als historisch Café Perridon in Het Meer. Voormalige naam Café De Oase op exact Breedpad 9: https://nl.linkedin.com/posts/willem-perridon-8b31185b_na-mijn-hele-leven-voor-een-baas-te-hebben-activity-7330690880405655554-ZMEm en https://www.grootheerenveen.nl/nieuws/video/113310/cafe-eigenaar-willem-perridon-geschrokken-na-brand-in-horecag melden overname/openingsplan 2025; huidige site bevestigt latere feitelijke opening. Oude https://www.cafedeoase.nl/ geeft timeout en mag niet als actueel rooster worden gebruikt. Laatste toegang onbekend.",
+      "features": "D0 Heerenveen; hernoeming/nieuwe exploitatie Café De Oase → Café Perridon op Breedpad 9; stabiel ID behouden",
+      "website": "https://www.cafeperridon.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.cafeperridon.nl/geschiedenis-caf%C3%A9-perridon",
+        "https://www.grootheerenveen.nl/nieuws/video/113310/cafe-eigenaar-willem-perridon-geschrokken-na-brand-in-horecag",
+        "https://nl.linkedin.com/posts/willem-perridon-8b31185b_na-mijn-hele-leven-voor-een-baas-te-hebben-activity-7330690880405655554-ZMEm",
         "https://www.cafedeoase.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen actuele exploitantsite 2026 bevestigt Café Perridon op oud Café De Oase-adres; stabiele venue-ID behouden om deeplinks niet te breken.",
       "geo": {
         "lat": 52.959763,
         "lon": 5.9222495,
@@ -11966,14 +11968,17 @@
       },
       "checked_on": "2026-10-30",
       "opening": {
-        "ma": "10:00",
-        "di": "10:00",
-        "wo": "10:00",
-        "do": "10:00",
-        "vr": "10:00",
-        "za": "10:00",
-        "zo": "10:00"
-      }
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "website_checked_on": "2026-10-30",
+      "opening_source": "https://www.cafeperridon.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
