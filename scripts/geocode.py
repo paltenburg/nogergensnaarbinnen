@@ -28,7 +28,9 @@ def norm(value):
 
 def addr_parts(address):
     text = str(address or "").split(",", 1)[0].strip()
-    match = re.fullmatch(r"(.+?)\s+(\d+)(?:\s*[-–]\s*\d+)?\s*([a-zA-Z]?)", text)
+    # A house-number range is not one exact BAG address.
+    # Never silently map a range to its first house number.
+    match = re.fullmatch(r"(.+?)\s+(\d+)\s*([a-zA-Z]?)", text)
     if not match:
         return None
     street, house_number, letter = match.groups()
