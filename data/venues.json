@@ -16365,8 +16365,8 @@
       "city": "Koudum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site beschrijft publiek bruin café met losse borrel, darten, biljarten en sport.",
+      "alcohol": "Eigen borrelpagina bevestigt Heineken pils en drie wisselende tapbieren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16377,13 +16377,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site geeft alleen begintijden wo–zo; einduren onbekend.",
+      "closing_source": "https://eetcafespoorzicht.nl/",
+      "closing_notes": "Eigen site: wo–vr vanaf 16:00, za/zo vanaf 12:00; ma/di niet expliciet vermeld. Berichten over sluiting 14/15 oktober en afwijkende 26 september zijn uitzonderingen, geen weekrooster. Laatste toegang en echte einduren onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://eetcafespoorzicht.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://eetcafespoorzicht.nl/borrelen/",
+        "https://eetcafespoorzicht.nl/menukaart/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16391,7 +16393,21 @@
         "lon": 5.4460009,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdstraat 69, 8723BG Koudum"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite en borrelpagina gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://eetcafespoorzicht.nl/"
     },
     {
       "id": "grand-cafe-it-skippershus-koudum-04a6af3",
@@ -16401,8 +16417,8 @@
       "city": "Koudum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Grand café en terras bij vakantiepark, publiek bezoek en parkeerregeling beschreven; geen overnachting vereist volgens exploitant.",
+      "alcohol": "Grand café/borrel volgens exploitant, specifiek alcoholmenu nog niet afzonderlijk geverifieerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16413,13 +16429,14 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Seizoensconflict tussen twee officiële exploitantpagina's; geen stabiel jaarrond rooster.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen skippershus.nl noemt ma–vr 15–22, za gesloten, zo 12–22. Eigen vakantiepark https://www.kuilart.nl/en/facilities/skipperhus/ zegt dagelijks open 1 april–herfstvakantie, daarbuiten do–ma. Op 30 oktober is seizoenswisseling; tegenstrijdige zaterdag-/dinsdag-/woensdaginformatie en mogelijk aangepaste roosters. Geen jaarrond tijden/laatste toegang als zeker ingevoerd. Geo matched_address 'De Kuilart 1-1' versus officieel adres 'De Kuilart 1': BAG-suffixverschil exact hercontroleren vóór markerclaim.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.skippershus.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.kuilart.nl/en/facilities/skipperhus/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16427,7 +16444,11 @@
         "lon": 5.4732287,
         "method": "PDOK BAG-adres",
         "matched_address": "De Kuilart 1-1, 8723CG Koudum"
-      }
+      },
+      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite en vakantieparkpagina gecontroleerd 2026-10-30.",
+      "geocode_notes": "Eigen adres De Kuilart 1, bestaande PDOK matched_address De Kuilart 1-1: huisnummersuffix handmatig controleren, niet als exacte match claimen."
     },
     {
       "id": "cafe-de-boekanier-hindeloopen-eb8a931",
@@ -16760,25 +16781,27 @@
       "city": "Makkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café met bar, verwarmd terras, livemuziek en sportuitzendingen volgens VVV.",
+      "alcohol": "Café met drank-/borrelfunctie volgens VVV; alcoholsoorten niet individueel op eigen menu gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen contactpagina, dagelijks 12:00–02:00.",
+      "closing_source": "https://www.caferomano.nl/contact",
+      "closing_notes": "Eigen contactpagina noemt café dagelijks 12–02. Pizzeria la Piccola in hetzelfde pand heeft afzonderlijk do–zo 17–21:30 en winterbezorging; die keukenuren zijn niet als cafésluiting gebruikt. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.caferomano.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.caferomano.nl/contact",
+        "https://www.friesland.nl/nl/locaties/3167867968/cafe-romano"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16786,7 +16809,21 @@
         "lon": 5.40296,
         "method": "PDOK BAG-adres",
         "matched_address": "Markt 11, 8754CM Makkum"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen contactpagina en VVV-locatie gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.caferomano.nl/contact"
     },
     {
       "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
@@ -16796,8 +16833,8 @@
       "city": "Makkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant en VVV bevestigen publieke cafébar/borrel zonder maaltijd.",
+      "alcohol": "Eigen menupagina vermeldt speciaalbier en wijn.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16808,13 +16845,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen homepage intern tegenstrijdig over sluiting.",
+      "closing_source": "https://www.dezwaan-makkum.nl/",
+      "closing_notes": "Eigen homepage zegt enerzijds 'dagelijks 10:00–00:00', elders zo–wo 10–23 en do–za 10–01. Menupagina herhaalt laatste gedetailleerde rooster; exacte cafésluiting wegens eigen bronconflict niet als zeker opgeslagen. Begin 10:00 is consistent. Externe gidsen geven weer andere dagen; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.dezwaan-makkum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.dezwaan-makkum.nl/MENU-KAART/",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/3261114621/cafe-restaurant-de-zwaan"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16822,7 +16861,21 @@
         "lon": 5.4022877,
         "method": "PDOK BAG-adres",
         "matched_address": "Plein 1, 8754ER Makkum"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen homepage, menupagina en VVV-locatie gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.dezwaan-makkum.nl/"
     },
     {
       "id": "cafe-de-finne-reahus-fedc896",
