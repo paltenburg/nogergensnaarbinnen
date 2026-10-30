@@ -10453,8 +10453,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek borrelcafé volgens eigen site en Visit Leeuwarden",
+      "alcohol": "Speciaalbier en wijn expliciet genoemd door Visit Leeuwarden",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10467,11 +10467,13 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen contactpagina bevestigt Stationsweg 28 en publieke borrels; geen bedrijfseigen sluitingsrooster of laatste toegang gevonden (30-10-2026). Gidsuren niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://cafederus.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://cafederus.nl/contact/",
+        "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10479,7 +10481,8 @@
         "lon": 5.795617,
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 28, 8911AJ Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-markies-leeuwarden-d3d3930",
@@ -10489,25 +10492,27 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek speciaalbiercafé volgens Visit Leeuwarden",
+      "alcohol": "Meer dan 250 speciaalbieren, 12 wisseltaps volgens Visit Leeuwarden",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "20:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Toeristische regiogids (niet rechtstreeks bedrijfseigen geverifieerd)",
+      "closing_source": "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
+      "closing_notes": "Visit Leeuwarden en Friesland.nl tonen ma gesloten, di-do 16–01, vr/za 15–01, zo 15–20. Cylex noemt vr/za 02 en zo 21; conflict. Eigen domein de-markies.nl genoemd maar niet rechtstreeks bereikbaar bij controle 30-10-2026; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
+        "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10515,7 +10520,17 @@
         "lon": 5.7897238,
         "method": "PDOK BAG-adres",
         "matched_address": "Groot Schavernek 19, 8911BW Leeuwarden"
-      }
+      },
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-pastorie-leeuwarden-ca96efd",
@@ -10525,8 +10540,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café en bar volgens Visit Leeuwarden",
+      "alcohol": "Drankjes aan de bar volgens Visit Leeuwarden; alcoholaanbod niet afzonderlijk in eigen menukaart gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10539,11 +10554,13 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Visit Leeuwarden bevestigt café op Kleine Kerkstraat 9 en publiek bezoek. Gids Allebiz noemt wo/zo 16–22, do-za 14–22, ma/di gesloten, maar eigen cafebiljartdepastorie.nl niet bereikbaar; daarom weekrooster onbekend. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://visitleeuwarden.com/locaties/2614250416/cafe-de-pastorie",
+        "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10551,43 +10568,52 @@
         "lon": 5.7915053,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleine Kerkstraat 9, 8911DK Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "bar-sybs-leeuwarden-71570c8",
       "name": "Bar Sybs",
       "type": "Bar",
-      "address": "Oude Doelesteeg 2a",
+      "address": "Oude Doelesteeg 2",
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek feestcafé volgens eigen site",
+      "alcohol": "Feestcafé met drankaanbod volgens eigen site",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "05:00",
+        "di": "05:00",
+        "wo": "05:00",
+        "do": "05:00",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "05:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://barsybs.nl/",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://barsybs.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://barsybs.nl/",
+        "https://www.visitleeuwarden.com/locaties/1361140994/bar-sybs",
+        "https://doelebar.nl/locatie/",
+        "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.200605,
-        "lon": 5.7925052,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Oude Doelesteeg 2a, 8911CA Leeuwarden"
-      }
+      "opening": {
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "12:00",
+        "zo": "21:00"
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
@@ -10597,8 +10623,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek muziekcafé; Visit Leeuwarden vermeldt gratis toegang",
+      "alcohol": "Café met drankaanbod volgens toeristische gids; eigen menukaart niet gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10611,11 +10637,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Visit Leeuwarden bevestigt livemuziek vr/za, pubquiz wo, karaoke do en afterparty na 01:00. Cafescooters.com genoemd als eigen domein maar niet bereikbaar. Gidsen geven uiteenlopende uren (o.a. dinsdag/woensdag/zondag); geen bedrijfseigen weekrooster of laatste toegang geverifieerd, daarom onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://visitleeuwarden.com/locaties/1489954868/www-cafescooters-com",
+        "https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666",
+        "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10623,7 +10652,8 @@
         "lon": 5.7912219,
         "method": "PDOK BAG-adres",
         "matched_address": "Ruiterskwartier 61, 8911BR Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-dikke-van-dale-leeuwarden-4b70da7",
