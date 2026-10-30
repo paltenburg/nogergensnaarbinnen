@@ -9871,17 +9871,17 @@
       "alcohol": "Eigen site noemt wijn en borrel.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "00:00",
-        "di": "00:00",
-        "wo": "00:00",
-        "do": "00:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "00:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Visit Leeuwarden (gids), strijdig met bedrijfseigen groeps-/zalenpagina; reguliere sluiting onbevestigd",
+      "closing_quality": "Tegenstrijdige bronnen; exact publiek weekrooster niet bevestigd, daarom alle sluitingen onbekend.",
       "closing_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
-      "closing_notes": "Visit Leeuwarden vermeldt zo–do tot 00:00, vr/za tot 01:00 (huidige gidswaarden behouden). Officiële Post-Plaza groeps-/zalenpagina https://www.post-plaza.nl/vergaderzalen/grand-cafe vermeldt ma–vr 07:00–23:00, za/zo 08:00–23:00, maar staat in vergaderzalencontext. De algemene Grand Café-pagina bevestigt geen publiek weekrooster. Bronconflict open; geen officiële bevestiging van gids-sluitingsuren en laatste toegang.",
+      "closing_notes": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.post-plaza.nl/restaurant",
       "other_sources": [
@@ -9897,9 +9897,9 @@
         "di": "07:00",
         "wo": "07:00",
         "do": "07:00",
-        "vr": "08:00",
+        "vr": "?",
         "za": "08:00",
-        "zo": "07:00"
+        "zo": "?"
       },
       "opening_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
       "opening_checked_on": "2026-10-29",
@@ -9910,7 +9910,8 @@
         "matched_address": "Tweebaksmarkt 27, 8911KW Leeuwarden"
       },
       "website_provenance": "Officiële Post-Plaza-site bevestigt publiek Grand Café, wijn, borrel en vrijdagse livemuziek.",
-      "website_checked_on": "2026-10-30"
+      "website_checked_on": "2026-10-30",
+      "opening_quality": "Gids geeft vr/zo 08:00/07:00; bedrijfseigen groepspagina vr/zo 07:00/08:00. Vr/zo onbekend wegens conflict; andere dagen gidswaarden, niet officieel bevestigd."
     },
     {
       "id": "cafe-de-spoek-leeuwarden-6d9baae",
