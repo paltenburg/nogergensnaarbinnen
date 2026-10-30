@@ -20985,6 +20985,51 @@
         "https://www.friesland.nl/nl/locaties/1251386334/strandhotel-vigilante-strandhuys-makkum"
       ],
       "original_status": "Officiële site bevestigt actuele exploitatie, adres, borrel, alcohol en volledig dagelijks rooster; laatste toegang onbekend."
+    },
+    {
+      "id": "it-polderhus-de-veenhoop-20261030",
+      "name": "Restaurant It Polderhûs",
+      "type": "Restaurant / wijn- en speciaalbierborrel",
+      "address": "Kraenlânswei 1",
+      "city": "De Veenhoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publiek restaurant, ook kleine kaart en binnenlopen; groepsarrangementen op andere dagen zijn afzonderlijk.",
+      "alcohol": "Eigen pagina van de exploitant vermeldt huiswijnen, uitgebreide wijnkaart en speciaalbierkaart; menu bevat Espresso Martini.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "14:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen actuele oktoberrooster vermeldt alleen beginuren do/vr 16, za 14, zo 12; geen algemene sluiting of laatste toegang. Woensdag conflicteert tussen eigen pagina's, niet als gesloten aangenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.itpolderhus.nl/contact-met-restaurant-it-polderhus/ noemt vanaf 1 oktober do/vr 16:00, za 14:00, zo 12:00. https://www.itpolderhus.nl/dinerkaart-it-polderhus/ heeft onderaan een ouder afwijkend septemberrooster met woensdag 16:00; daarom ma–wo niet als definitief gesloten ingevoerd. Geen exacte sluitingsuren/laatste toegang. Winter-/seizoensrooster opnieuw controleren.",
+      "features": "D0 Smallingerland / De Veenhoop; wijn, speciaalbier, seizoensrooster",
+      "website": "https://www.itpolderhus.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.itpolderhus.nl/contact-met-restaurant-it-polderhus/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.itpolderhus.nl/bonnie-sikkes-en-herma-sikkes/",
+        "https://www.itpolderhus.nl/dinerkaart-it-polderhus/",
+        "https://www.itpolderhus.nl/kleine-kaart-tot-17-00-uur/"
+      ],
+      "original_status": "Eigen site bevestigt publieke exploitatie en wijn/speciaalbier; oktoberbeginuren bekend, sluiting en woensdag onzeker."
     }
   ],
   "admission_policies": [
