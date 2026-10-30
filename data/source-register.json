@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 480,
-    "domains": 249,
-    "direct_website_fields": 182
+    "source_urls": 490,
+    "domains": 253,
+    "direct_website_fields": 186
   },
   "discovery_sites": [
     {
@@ -224,8 +224,18 @@
       "linked_venues": 4
     },
     {
+      "domain": "visitleeuwarden.com",
+      "source_pages": 4,
+      "linked_venues": 3
+    },
+    {
       "domain": "visitwadden.nl",
       "source_pages": 4,
+      "linked_venues": 3
+    },
+    {
+      "domain": "allebiz.nl",
+      "source_pages": 3,
       "linked_venues": 3
     },
     {
@@ -444,6 +454,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "post-plaza.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "puuroost-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -557,11 +572,6 @@
       "domain": "agendaleeuwarden.nl",
       "source_pages": 1,
       "linked_venues": 0
-    },
-    {
-      "domain": "allebiz.nl",
-      "source_pages": 1,
-      "linked_venues": 1
     },
     {
       "domain": "averechts.nl",
@@ -710,6 +720,11 @@
     },
     {
       "domain": "cafedespoek.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafedestrohoed.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -880,6 +895,11 @@
     },
     {
       "domain": "dezaak-utrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dezaak.cafe",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1144,6 +1164,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "oranjebierhuis.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "oudaen.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1344,11 +1369,6 @@
       "linked_venues": 2
     },
     {
-      "domain": "visitleeuwarden.com",
-      "source_pages": 1,
-      "linked_venues": 0
-    },
-    {
       "domain": "visitutrechtregion.com",
       "source_pages": 1,
       "linked_venues": 1
@@ -1499,6 +1519,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+          "name": "Café de Strohoed",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-29",
@@ -1511,6 +1555,30 @@
         {
           "id": "cafe-t-singeltje-sneek-2a92fa4",
           "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/de-toeter-058-215-7976",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-toeter-leeuwarden-f8ed332",
+          "name": "De Toeter",
           "roles": [
             "achtergrond"
           ],
@@ -2990,6 +3058,38 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.cafedestrohoed.nl/",
+      "domain": "cafedestrohoed.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+          "name": "Café de Strohoed",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafedomkop.nl/",
@@ -6599,6 +6699,35 @@
       "needs_review": true
     },
     {
+      "url": "https://dezaak.cafe/",
+      "domain": "dezaak.cafe",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-zaak-leeuwarden-cc89001",
+          "name": "Café De Zaak",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.discover-utrecht.com/location/ping-pong-club/",
       "domain": "discover-utrecht.com",
       "first_registered_on": "2026-10-26",
@@ -7284,15 +7413,15 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-10-29",
+            "sluitingstijden": "2026-10-30",
             "openingstijden": "2026-10-29"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1",
@@ -10521,6 +10650,38 @@
       "needs_review": false
     },
     {
+      "url": "https://www.oranjebierhuis.nl/",
+      "domain": "oranjebierhuis.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "oranje-bierhuis-leeuwarden-bf11768",
+          "name": "Oranje Bierhuis",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.oudaen.nl/",
       "domain": "oudaen.nl",
       "first_registered_on": "2026-10-26",
@@ -10908,6 +11069,56 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.post-plaza.nl/restaurant",
+      "domain": "post-plaza.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+          "name": "Grand Café Post-Plaza",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.post-plaza.nl/vergaderzalen/grand-cafe",
+      "domain": "post-plaza.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+          "name": "Grand Café Post-Plaza",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://preview.restaurantconcours.nl/wine-foodbar",
@@ -14273,7 +14484,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
@@ -17150,6 +17361,78 @@
       "needs_review": false
     },
     {
+      "url": "https://visitleeuwarden.com/en/locations/1213615776/cafe-de-strohoed",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
+          "name": "Café de Strohoed",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+          "name": "Grand Café Post-Plaza",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-toeter-leeuwarden-f8ed332",
+          "name": "De Toeter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus",
       "domain": "visitutrechtregion.com",
       "first_registered_on": "2026-10-26",
@@ -18101,10 +18384,6 @@
         "name": "Café De Schieve Deure"
       },
       {
-        "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
-        "name": "Café de Strohoed"
-      },
-      {
         "id": "cafe-de-swalker-dokkum-0b7b92d",
         "name": "Café De Swalker"
       },
@@ -18119,10 +18398,6 @@
       {
         "id": "cafe-de-windhoek-f51951b",
         "name": "Café de Windhoek"
-      },
-      {
-        "id": "cafe-de-zaak-leeuwarden-cc89001",
-        "name": "Café De Zaak"
       },
       {
         "id": "cafe-de-zomer-west-terschelling-54c8f87",
@@ -18453,10 +18728,6 @@
         "name": "Grand Café Kade"
       },
       {
-        "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
-        "name": "Grand Café Post-Plaza"
-      },
-      {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
         "name": "Grand Café Promenade"
       },
@@ -18607,10 +18878,6 @@
       {
         "id": "op-roose-dbd6d71",
         "name": "Op Roose"
-      },
-      {
-        "id": "oranje-bierhuis-leeuwarden-bf11768",
-        "name": "Oranje Bierhuis"
       },
       {
         "id": "orloff-5c10a36",
@@ -19033,10 +19300,6 @@
       {
         "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
         "name": "Café De Schieve Deure"
-      },
-      {
-        "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
-        "name": "Café de Strohoed"
       },
       {
         "id": "cafe-de-swalker-dokkum-0b7b92d",
@@ -19539,10 +19802,6 @@
         "name": "Op Roose"
       },
       {
-        "id": "oranje-bierhuis-leeuwarden-bf11768",
-        "name": "Oranje Bierhuis"
-      },
-      {
         "id": "orloff-aan-de-kade-a3c16fd",
         "name": "Orloff aan de Kade"
       },
@@ -19946,7 +20205,7 @@
       {
         "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
         "name": "Café de Strohoed",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend."
       },
       {
         "id": "cafe-de-swalker-dokkum-0b7b92d",
@@ -19971,7 +20230,7 @@
       {
         "id": "cafe-de-zaak-leeuwarden-cc89001",
         "name": "Café De Zaak",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site noemt expliciet privé-café en 'altijd open op reservering'. Daarom uitgesloten van publieke inloopresultaten; dit betekent niet dat de onderneming gesloten is. Geen standaard sluiting of laatste toegang."
       },
       {
         "id": "cafe-de-zomer-west-terschelling-54c8f87",
@@ -20191,7 +20450,7 @@
       {
         "id": "de-toeter-leeuwarden-f8ed332",
         "name": "De Toeter",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Visit Leeuwarden bevestigt café op Kleine Hoogstraat 2 en borrelmogelijkheid. Allebiz vermeldt di–zo 16:00–03:00 maar niet bevestigd door eigen site; alle sluitingstijden onbekend gehouden. LET OP: https://www.cafedetoeter.nl/ hoort bij Café De Toeter in GRONINGEN, niet deze Leeuwarder zaak; bewust niet als website toegevoegd. Laatste toegang onbekend."
       },
       {
         "id": "de-troef-spelletjescafe-7a45c78",
@@ -20384,6 +20643,11 @@
         "reason": "Eigen site noemt dinsdag niet; ondanks regiogids di 10–22 is dinsdag onbekend gehouden. Geen laatste toegang vermeld. 29-10-2026."
       },
       {
+        "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+        "name": "Grand Café Post-Plaza",
+        "reason": "Visit Leeuwarden vermeldt zo–do tot 00:00, vr/za tot 01:00 (huidige gidswaarden behouden). Officiële Post-Plaza groeps-/zalenpagina https://www.post-plaza.nl/vergaderzalen/grand-cafe vermeldt ma–vr 07:00–23:00, za/zo 08:00–23:00, maar staat in vergaderzalencontext. De algemene Grand Café-pagina bevestigt geen publiek weekrooster. Bronconflict open; geen officiële bevestiging van gids-sluitingsuren en laatste toegang."
+      },
+      {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
         "name": "Grand Café Promenade",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -20546,7 +20810,7 @@
       {
         "id": "oranje-bierhuis-leeuwarden-bf11768",
         "name": "Oranje Bierhuis",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site vermeldt woensdag t/m zondag 16:00–00:00. Ma/di niet genoemd: niet als gesloten aangenomen. Laatste toegang onbekend."
       },
       {
         "id": "paddy-o-ryan-leeuwarden-20f2717",

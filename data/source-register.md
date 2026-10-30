@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**480 geregistreerde bron-URL's**, 249 domeinen; gekoppeld aan **412 locaties**.
+**490 geregistreerde bron-URL's**, 253 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -59,7 +59,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
+| visitleeuwarden.com | 4 | 3 |
 | visitwadden.nl | 4 | 3 |
+| allebiz.nl | 3 | 3 |
 | barbasta.nl | 3 | 1 |
 | cylex.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
@@ -103,6 +105,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | margiesutrecht.nl | 2 | 1 |
 | moos-utrecht.nl | 2 | 1 |
 | ondernemendsneek.nl | 2 | 2 |
+| post-plaza.nl | 2 | 1 |
 | puuroost-utrecht.nl | 2 | 1 |
 | quignon.nl | 2 | 1 |
 | restaurant273.com | 2 | 1 |
@@ -126,7 +129,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | aan-de-gracht.nl | 1 | 1 |
 | acu.nl | 1 | 1 |
 | agendaleeuwarden.nl | 1 | 0 |
-| allebiz.nl | 1 | 1 |
 | averechts.nl | 1 | 1 |
 | bar-bet.nl | 1 | 1 |
 | barbarak.nl | 1 | 1 |
@@ -157,6 +159,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafedepotdeksel.nl | 1 | 1 |
 | cafederat.nl | 1 | 1 |
 | cafedespoek.nl | 1 | 1 |
+| cafedestrohoed.nl | 1 | 1 |
 | cafedomkop.nl | 1 | 1 |
 | cafeflater.nl | 1 | 1 |
 | cafefokus.nl | 1 | 1 |
@@ -191,6 +194,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | dewalrussneek.nl | 1 | 1 |
 | dewinkelvansinkel.nl | 1 | 1 |
 | dezaak-utrecht.nl | 1 | 1 |
+| dezaak.cafe | 1 | 1 |
 | discover-utrecht.com | 1 | 1 |
 | duic.nl | 1 | 1 |
 | eetcafedebaron.nl | 1 | 1 |
@@ -243,6 +247,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | ontdek-terschelling.nl | 1 | 1 |
 | oproerbrouwerij.nl | 1 | 1 |
 | opzuidutrecht.nl | 1 | 1 |
+| oranjebierhuis.nl | 1 | 1 |
 | oudaen.nl | 1 | 1 |
 | oudepierement.nl | 1 | 1 |
 | ouwedikkedries.nl | 1 | 1 |
@@ -283,7 +288,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | utrechtcocktailweek.nl | 1 | 6 |
 | uu.nl | 1 | 1 |
 | vandestreekbier.nl | 1 | 2 |
-| visitleeuwarden.com | 1 | 0 |
 | visitutrechtregion.com | 1 | 1 |
 | vlieland.site | 1 | 1 |
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
@@ -314,7 +318,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### allebiz.nl
 
+- [https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320](https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320) — achtergrond; Café de Strohoed; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522](https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
+- [https://www.allebiz.nl/de-toeter-058-215-7976](https://www.allebiz.nl/de-toeter-058-215-7976) — achtergrond; De Toeter; bronveld gecontroleerd: onbekend
 
 ### allecijfers.nl
 
@@ -479,6 +485,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.cafedestad.nl/](https://www.cafedestad.nl/) — openingstijden; Café de Stad; bronveld gecontroleerd: 2026-10-26
 - [https://www.cafedestad.nl/contact/](https://www.cafedestad.nl/contact/) — sluitingstijden, website; Café de Stad; bronveld gecontroleerd: 2026-10-25
+
+### cafedestrohoed.nl
+
+- [https://www.cafedestrohoed.nl/](https://www.cafedestrohoed.nl/) — openingstijden, sluitingstijden, website; Café de Strohoed; bronveld gecontroleerd: 2026-10-30
 
 ### cafedomkop.nl
 
@@ -764,6 +774,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.dezaak-utrecht.nl/](https://www.dezaak-utrecht.nl/) — website; Café De Zaak; bronveld gecontroleerd: 2026-10-25
 
+### dezaak.cafe
+
+- [https://dezaak.cafe/](https://dezaak.cafe/) — sluitingstijden, website; Café De Zaak; bronveld gecontroleerd: 2026-10-30
+
 ### discover-utrecht.com
 
 - [https://www.discover-utrecht.com/location/ping-pong-club/](https://www.discover-utrecht.com/location/ping-pong-club/) — openingstijden, sluitingstijden; De Ping Pong Club; bronveld gecontroleerd: 2026-10-26
@@ -844,7 +858,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### friesland.nl
 
-- [https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe](https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe) — achtergrond, openingstijden, sluitingstijden; Grand Café Post-Plaza; bronveld gecontroleerd: 2026-10-29
+- [https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe](https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe) — achtergrond, openingstijden, sluitingstijden; Grand Café Post-Plaza; bronveld gecontroleerd: 2026-10-30
 - [https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond, sluitingstijden; Eetcafé De Pleats; bronveld gecontroleerd: 2026-10-29
 - [https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar](https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
@@ -1139,6 +1153,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.opzuidutrecht.nl/](https://www.opzuidutrecht.nl/) — sluitingstijden, website; Bar & Bistro Op Zuid; bronveld gecontroleerd: 2026-10-25
 
+### oranjebierhuis.nl
+
+- [https://www.oranjebierhuis.nl/](https://www.oranjebierhuis.nl/) — openingstijden, sluitingstijden, website; Oranje Bierhuis; bronveld gecontroleerd: 2026-10-30
+
 ### oudaen.nl
 
 - [https://www.oudaen.nl/](https://www.oudaen.nl/) — website; Brouwerij Oudaen; bronveld gecontroleerd: onbekend
@@ -1179,6 +1197,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### poolenutrecht.nl
 
 - [https://www.poolenutrecht.nl/](https://www.poolenutrecht.nl/) — openingstijden, sluitingstijden, website; Poolcafé Hart van Utrecht; bronveld gecontroleerd: 2026-10-26
+
+### post-plaza.nl
+
+- [https://www.post-plaza.nl/restaurant](https://www.post-plaza.nl/restaurant) — website; Grand Café Post-Plaza; bronveld gecontroleerd: 2026-10-30
+- [https://www.post-plaza.nl/vergaderzalen/grand-cafe](https://www.post-plaza.nl/vergaderzalen/grand-cafe) — achtergrond; Grand Café Post-Plaza; bronveld gecontroleerd: onbekend
 
 ### preview.restaurantconcours.nl
 
@@ -1452,6 +1475,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### visitleeuwarden.com
 
 - [https://visitleeuwarden.com/doen/uitgaan/](https://visitleeuwarden.com/doen/uitgaan/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
+- [https://visitleeuwarden.com/en/locations/1213615776/cafe-de-strohoed](https://visitleeuwarden.com/en/locations/1213615776/cafe-de-strohoed) — achtergrond; Café de Strohoed; bronveld gecontroleerd: onbekend
+- [https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe](https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe) — achtergrond; Grand Café Post-Plaza; bronveld gecontroleerd: onbekend
+- [https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter](https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter) — achtergrond; De Toeter; bronveld gecontroleerd: onbekend
 
 ### visitutrechtregion.com
 
