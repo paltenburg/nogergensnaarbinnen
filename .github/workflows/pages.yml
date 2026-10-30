@@ -38,15 +38,30 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update gecontroleerde adrescoordinaten [skip ci]'
-            # Changes to the website may arrive while geocoding runs.
-            # Rebase on the newest main to prevent non-fast-forward push failures.
+          # Generated files can conflict with a previous publishing run or a
+          # concurrent venue update. Rebuild against the latest main instead of
+          # rebasing generated JSON/Markdown and risking merge conflicts.
+          for attempt in 1 2 3; do
             git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
-          fi
+            if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+              git reset --hard origin/main
+              python scripts/geocode.py
+              python scripts/build_source_registry.py
+            fi
+            git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md
+            if git diff --cached --quiet; then
+              echo 'Generated data already current.'
+              break
+            fi
+            git commit -m 'Update gecontroleerde adrescoordinaten [skip ci]'
+            if git push origin HEAD:main; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo 'Could not publish generated data after three attempts.' >&2
+              exit 1
+            fi
+          done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
