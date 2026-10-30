@@ -21879,6 +21879,94 @@
         "https://www.cylex.nl/bedrijf/grand-caf%C3%A9-wald-13802012.html"
       ],
       "original_status": "Actuele exploitatie, borrel en alcohol met onafhankelijke en geclaimde profielen bevestigd; officiële website bevat ongewenste externe casinoreclame en is niet als websiteknop aangeboden."
+    },
+    {
+      "id": "brasserie-kolkzicht-surhuisterveen-20261030",
+      "name": "Brasserie Kolkzicht",
+      "type": "Brasserie / borrelbar",
+      "address": "De Kolk 23",
+      "city": "Surhuisterveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publieke inloop voor borrel, koffie, lunch of diner; reserveren mogelijk, niet verplicht.",
+      "alcohol": "Eigen actuele drankenkaart: pils en speciaalbier van de tap, wijnen per glas, sterke drank en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen contactpagina zegt ma–za 10:00–00:00, zondag gesloten. Externe Cylex vermeldt vr/za 03:00; niet overgenomen.",
+      "closing_source": "https://www.kolkzicht.nl/contact",
+      "closing_notes": "30-10-2026: https://www.kolkzicht.nl/contact geeft ma–za 10:00–00:00, zo dicht. https://www.kolkzicht.nl/menukaart bevestigt bier, wijn, cocktails en losse borrel. https://www.cylex.nl/bedrijf/brasserie-kolkzicht-10700112.html noemt afwijkende latere sluitingen tot 03:00 vr/za; geen bedrijfseigen bevestiging daarvan. Geen laatste toegang gepubliceerd.",
+      "features": "D0 Achtkarspelen / Surhuisterveen; eigen drankkaart, ma–za tot middernacht",
+      "website": "https://www.kolkzicht.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.kolkzicht.nl/contact",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.kolkzicht.nl/menukaart",
+        "https://www.cylex.nl/bedrijf/brasserie-kolkzicht-10700112.html"
+      ],
+      "original_status": "Actuele eigen site bevestigt publieke borrel, alcohol, adres en weekrooster; geen laatste toegang."
+    },
+    {
+      "id": "eetcafe-black-horse-menaam-20261030",
+      "name": "Eetcafé Black Horse",
+      "type": "Bruin café / biljart / livemuziek",
+      "address": "Dyksterbuorren 20",
+      "city": "Menaam",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft café voor vrije borrel, darts, biljart en pool; afzonderlijke feesten en concerten kunnen tickets/reservering vereisen.",
+      "alcohol": "Eigen site biedt bier en wijn in arrangementen, daarnaast cafébar voor losse borrel; specifieke losse drankenkaart niet uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "—",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen site vermeldt café di/wo 19–00, vr/za vanaf 16 tot onbepaalde tijd; overige dagen café dicht. Snackbar heeft een afwijkend rooster, niet verwarren.",
+      "closing_source": "https://blackhorsecafe.nl/",
+      "closing_notes": "30-10-2026: https://blackhorsecafe.nl/ geeft café di/wo 19–00, vr/za vanaf 16 zonder vaste sluiting, ma/do/zo gesloten; snackbar is op andere uren open. Eigen agenda kondigt ticketconcert zaterdag 7 november 2026 aan, deuren 19:30 (geen standaardrooster). Eigen site geeft Dyksterbuorren 20; oude https://www.allebiz.nl/black-horse_3X-0518-451-379 noemt 18, niet gebruikt. Laatste toegang niet vermeld.",
+      "features": "D0 Waadhoeke / Menaam; café- en snackbarroosters verschillen; vr/za sluiting onbekend",
+      "website": "https://blackhorsecafe.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://blackhorsecafe.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.allebiz.nl/black-horse-pizza-service-0518-451-379",
+        "https://eetgerust.nl/restaurant/eetcafe-black-horse-bv"
+      ],
+      "original_status": "Eigen site bevestigt actueel café, alcohol in arrangementen en dagrooster; geen harde vrijdag-/zaterdagsluiting of laatste toegang."
     }
   ],
   "admission_policies": [
