@@ -15102,7 +15102,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -15112,21 +15112,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; gids noemt tot nader order gesloten, andere bedrijvengids toont standaarduren.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://restaurant-terschelling.nl/restaurants/cafe-de-zomer/ meldt 'tot nader orde gesloten' maar publiceert ook oud weekrooster. https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714 toont die uren nog. Geen onafhankelijk bewijs van huidige publieke opening of definitieve sluiting; niet als open tonen. Eigen domein cafedezomer.nl niet geverifieerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://restaurant-terschelling.nl/restaurants/cafe-de-zomer/",
+        "https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Tegenstrijdige gidsgegevens; huidige exploitatie onbekend op 30-10-2026.",
       "geo": {
         "lat": 53.3588583,
         "lon": 5.2150178,
         "method": "PDOK BAG-adres",
         "matched_address": "Torenstraat 19, 8881BG West-Terschelling"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-lieman-west-terschelling-3808f8b",
@@ -15136,8 +15139,8 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "VVV Terschelling bevestigt publiek bruin café met biljart.",
+      "alcohol": "VVV Terschelling noemt expliciet bier.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15148,33 +15151,47 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "VVV: ma/do 22:00, di/vr/za/zo 02:00, wo dicht; AlleBiz: ma/do ook 02:00. Tegenstrijdig, daarom sluiting onbekend.",
+      "closing_source": "https://www.vvvterschelling.nl/bedrijven/cafe-lieman/",
+      "closing_notes": "30-10-2026: VVV bevestigt café/adres/alcohol en noemt rooster, maar https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568 geeft andere ma/do en vr–zo tijden. Geen verifieerbare officiële site, geen vaste sluiting of laatste toegang overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://www.vvvterschelling.nl/bedrijven/cafe-lieman/",
+        "https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "VVV Terschelling vermeldt publiek café op Westerbuurtstraat 27; controledatum 30-10-2026.",
       "geo": {
         "lat": 53.3576093,
         "lon": 5.2137841,
         "method": "PDOK BAG-adres",
         "matched_address": "Westerbuurtstraat 27, 8881AC West-Terschelling"
-      }
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "VVV noemt ma/di/do–zo vanaf 15:00, wo dicht; AlleBiz wijkt vr–zo af (14:00). Niet bedrijfseigen bevestigd.",
+      "opening_source": "https://www.vvvterschelling.nl/bedrijven/cafe-lieman/",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-de-richel-west-terschelling-47de150",
-      "name": "Eetcafé De Richel",
-      "type": "Eetcafé",
+      "name": "Lunchcafé en Minigolfbaan De Richel",
+      "type": "Lunchcafé/minigolf",
       "address": "Hoofdweg 8",
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "VVV Terschelling noemt publieke lunch, terras en groepen; actuele inloop per datum niet afzonderlijk bevestigd.",
+      "alcohol": "Actueel alcoholaanbod niet bevestigd op VVV of eigen menukaart.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -15184,21 +15201,36 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "VVV geeft weekrooster, maar verwijst voor actuele tijden naar Facebook; andere gids noemt tijdelijke sluiting. Niet als vaste sluiting bevestigd.",
+      "closing_source": "https://www.vvvterschelling.nl/bedrijven/eetcafe-de-richel/",
+      "closing_notes": "30-10-2026: VVV vermeldt ma 13–17:30, di/wo dicht, do–zo 10–16; https://restaurant-terschelling.nl/restaurants/eetcafe-de-richel/ noemt tijdelijk gesloten en afwijkende uren. Actuele bedrijfseigen Facebookposts niet geverifieerd; sluiting en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://www.vvvterschelling.nl/bedrijven/eetcafe-de-richel/",
+        "https://restaurant-terschelling.nl/restaurants/eetcafe-de-richel/",
+        "https://www.facebook.com/EetcafeDeRichel"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "VVV noemt actieve lunchfunctie, andere gids tijdelijke sluiting; daadwerkelijke exploitatie 30-10-2026 onzeker.",
       "geo": {
         "lat": 53.371106,
         "lon": 5.2370288,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdweg 8, 8881HA West-Terschelling"
-      }
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "VVV noemt ma 13:00–17:30, di/wo gesloten, do–zo 10:00–16:00; verwijst voor actuele tijden naar Facebook.",
+      "opening_source": "https://www.vvvterschelling.nl/bedrijven/eetcafe-de-richel/",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-de-dammesaan-midsland-448a367",
@@ -15297,14 +15329,14 @@
     },
     {
       "id": "de-vijfpoort-formerum-fa6312a",
-      "name": "De Vijfpoort",
-      "type": "Eetcafé",
+      "name": "Muziekcafé De Vijfpoort",
+      "type": "Muziekcafé",
       "address": "Formerum 47",
       "city": "Formerum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek muziekcafé; openingsdagen wisselen per seizoen/evenement, vooraf programma controleren.",
+      "alcohol": "VVV/Visit Wadden noemt expliciet lokaal bier bij dit muziekcafé.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15315,21 +15347,38 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen bedrijfseigen vaste sluiting; VVV noemt za 02:00, maar exploitant zegt 'bijna elke zaterdag'.",
+      "closing_source": "https://vijfpoort.nl/wp/bereikbaarheid/",
+      "closing_notes": "30-10-2026: 2026-programma en seizoen bevestigd. Buiten zomer vrijwel iedere zaterdag vanaf 21:00, overige avonden eventafhankelijk. VVV za 21:00–02:00 niet als gegarandeerd vast rooster overgenomen; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://vijfpoort.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://vijfpoort.nl/wp/bereikbaarheid/",
+        "https://www.vvvterschelling.nl/bedrijven/muziekcafe-de-vijfpoort/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/949803355/muziekcafe-de-vijfpoort"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitant en VVV bevestigen actuele exploitatie 30-10-2026; opening op specifieke datum niet gegarandeerd.",
       "geo": {
         "lat": 53.3895699,
         "lon": 5.3075721,
         "method": "PDOK BAG-adres",
         "matched_address": "Formerum 47, 8894KB Formerum"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitant bevestigt naam, adres en 2026 seizoen op eigen website.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen site: vrijwel iedere zaterdag vanaf 21:00, juli/augustus ook woensdag; geen gegarandeerd vast weekrooster.",
+      "opening_source": "https://vijfpoort.nl/wp/bereikbaarheid/",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
@@ -15440,39 +15489,56 @@
     },
     {
       "id": "island-pub-vlieland-f6793f0",
-      "name": "Island Pub",
+      "name": "The Island Pub",
       "type": "Pub",
       "address": "Dorpsstraat 12",
       "city": "Vlieland",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant: openbaar zonder reservering, kom gewoon langs.",
+      "alcohol": "Eigen site bevestigt 11 tapbieren, whisky en wijn.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
+        "wo": "—",
+        "do": "—",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt uitsluitend begintijden, geen vaste eindtijd.",
+      "closing_source": "https://www.loodscafe.nl/",
+      "closing_notes": "30-10-2026: live pagina vrijdag–dinsdag vanaf 15:30 en wo/do dicht. Een oudere zoekindex toont omgekeerd wo–zo; de rechtstreeks geopende eigen pagina gevolgd. Sluiting/laatste toegang onbekend; festivalbeperking voor 27-08-2026 niet als algemeen beleid overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.loodscafe.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/vlieland"
+        "https://uitgaanskaart.nl/cafe/vlieland",
+        "https://www.geitenbode.nl/nieuws/zakelijk/19449/island-pub-op-vlieland",
+        "https://vlieland.net/nl/activiteit/hop-over-het-eiland"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitant bevestigt huidige publieke Ierse pub; lokale krant meldt feitelijke opening 06-08-2026.",
       "geo": {
         "lat": 53.2963674,
         "lon": 5.0727152,
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 12, 8899AH Vlieland"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen site noemt The Island Pub, Dorpsstraat 12, tapbier/whisky en openingstijden.",
+      "opening": {
+        "ma": "15:30",
+        "di": "15:30",
+        "wo": "—",
+        "do": "—",
+        "vr": "15:30",
+        "za": "15:30",
+        "zo": "15:30"
+      },
+      "opening_source": "https://www.loodscafe.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site rechtstreeks geopend 30-10: vrijdag t/m dinsdag vanaf 15:30, woensdag/donderdag gesloten.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "nes-cafe-nes-b14449a",
