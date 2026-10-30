@@ -6541,8 +6541,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Exploitant vermeldt vrije inloop bij de bar en een deel van de tafels, ook 's avonds; vanaf 30 oktober aangekondigd, feitelijke heropening nog niet onafhankelijk bevestigd.",
+      "alcohol": "Eigen site noemt expliciet bieren en wijnen bij diner en borrel; aanbod volgens exploitant.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -6553,19 +6553,21 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Lokale horecanieuwssite; officiële pagina nog niet bijgewerkt",
-      "closing_source": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono",
-      "checked_on": "2026-10-26",
-      "closing_notes": "23-24 oktober proefgedraaid, volledig open vanaf 30 oktober 2026 volgens nieuwslokalen; officieel kanaal vermeldt nog verbouwing. Tot bevestiging niet als open tonen.",
+      "closing_quality": "Officiële site vermeldt woensdag t/m zondag 10:00 tot 'laat'; geen exact sluitingsuur of laatste toegang gepubliceerd.",
+      "closing_source": "https://www.nomono-utrecht.nl/",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: exploitant https://www.nomono-utrecht.nl/ noemt Bemuurde Weerd Oostzijde 13, vrije inloop aan bar en enkele tafels, en vanaf 30 oktober open woensdag t/m zondag 10:00 tot 'laat'. Maandag/dinsdag uitsluitend mogelijke besloten verhuur, dus reguliere inloop gesloten. De tekst is een eigen openingsverklaring, geen onafhankelijke bevestiging dat de zaak daadwerkelijk sinds 30 oktober publiek draait; selectie blijft Nog te controleren. Sluiting en laatste toegang onbekend. Gidsen zoals https://uitjesmap.nl/uiteten/nomono-utrecht/ verwijzen nog naar de OUDE Europalaan 2B; nooit als huidig adres of uren gebruiken. Nieuwe BAG-marker ontbreekt.",
       "features": "Muziek / natuurwijn / cocktails; recent verhuisd",
       "website": "https://www.nomono-utrecht.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/5/",
-        "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open"
+        "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
+        "https://deplaatsmaker.nl/actueel/nomono-vestigt-zich-aan-de-bemuurde-weerd",
+        "https://www.corner.inc/place/puZzLBj1Q3De"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
+      "original_status": "Eigen site verklaart opening vanaf 30 oktober 2026, fysieke opening nog niet onafhankelijk bevestigd op 31 oktober.",
       "geo": null,
-      "website_checked_on": "2026-10-26",
+      "website_checked_on": "2026-10-31",
       "website_provenance": "Verified official venue page",
       "opening": {
         "ma": "—",
@@ -6576,8 +6578,8 @@
         "za": "10:00",
         "zo": "10:00"
       },
-      "opening_source": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono",
-      "opening_checked_on": "2026-10-26"
+      "opening_source": "https://www.nomono-utrecht.nl/",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "olearys-e541c8d",
