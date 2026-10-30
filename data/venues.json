@@ -21721,17 +21721,17 @@
         "zo": "10:30"
       },
       "closing": {
-        "ma": "18:30",
+        "ma": "?",
         "di": "—",
         "wo": "—",
-        "do": "18:30",
-        "vr": "19:00",
-        "za": "19:00",
-        "zo": "19:00"
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Eigen site noemt ma/do circa 18:30 en vr/za/zo circa 19:00, geen exact gegarandeerd sluituur. Laatste ronde drinken circa 18:00 op alle dagen volgens eigen site; dit is geen laatste toegang.",
+      "closing_quality": "Eigen site noemt slechts benaderde sluituren (ma/do rond 18:30, vr/za/zo circa 19:00); exacte cafésluiting daarom onbekend in tijdvelden. Laatste ronde drinken circa 18:00; dit is geen laatste toegang.",
       "closing_source": "https://walvisterschelling.nl/",
-      "closing_notes": "30-10-2026: exploitant https://walvisterschelling.nl/ zegt dagzaak ma/do 10:30–circa 18:30, vr/za/zo halfuur langer, di/wo gesloten; laatste ronde drinken circa 18:00 en keuken circa 17:30, laatste toegang niet vermeld. https://walvisterschelling.nl/contact/ geeft vestigingsadres Groene Strand 1. VVV https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/191699176/de-walvis bevat afwijkende/historische gegevens (o.a. dinsdag open en avondreserveren), niet gebruikt. Einduren circa, geen harde zekerheid.",
+      "closing_notes": "30-10-2026: exploitant https://walvisterschelling.nl/ zegt dagzaak ma/do 10:30–circa 18:30, vr/za/zo halfuur langer, di/wo gesloten; laatste ronde drinken circa 18:00 en keuken circa 17:30, laatste toegang niet vermeld. https://walvisterschelling.nl/contact/ geeft vestigingsadres Groene Strand 1. VVV https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/191699176/de-walvis bevat afwijkende/historische gegevens (o.a. dinsdag open en avondreserveren), niet gebruikt. Einduren circa, geen harde zekerheid. Exacte sluiting in HH:MM-velden bewust onbekend gehouden omdat exploitant uitsluitend +/- uren noemt.",
       "features": "D0 Terschelling / West; dagborrel, laatste drankronde 18:00, niet laatste toegang",
       "website": "https://walvisterschelling.nl/",
       "website_checked_on": "2026-10-30",
