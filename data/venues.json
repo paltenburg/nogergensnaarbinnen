@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "last_data_review": "2026-10-30",
-  "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Openingstijden ontbreken. Geen garantie dat een zaak nu open is.",
+  "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Niet voor iedere locatie zijn openingstijden en laatste toegang bekend. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
       "id": "utrecht",
