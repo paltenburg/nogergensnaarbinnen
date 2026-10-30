@@ -13140,17 +13140,17 @@
       "alcohol": "VVV bevestigt drankjes; drankkaart niet rechtstreeks gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "22:00",
-        "di": "22:00",
-        "wo": "22:00",
-        "do": "22:00",
-        "vr": "00:00",
-        "za": "00:00",
-        "zo": "20:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Regionale VVV-weekuren; niet bevestigd op eigen website; andere gids wijkt af",
+      "closing_quality": "VVV-weekrooster niet bedrijfseigen bevestigd; RestaurantGuru conflicteert, dus uren onbekend",
       "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven",
-      "closing_notes": "30-10-2026: VVV en KvK bevestigen Voorstraat 64, NIET oude Lanen 39. VVV ma–do 12–22, vr/za 12–00, zo 12–20. RestaurantGuru geeft afwijkende uren, dus dit blijft VVV-bron, geen bedrijfseigen garantie. Oude Lanen 39-marker verwijderd, exacte PDOK-match Voorstraat 64 via workflow afwachten. Op Voorstraat 64 ook historische Rednick-vermelding; geen bewijs twee gelijktijdige cafés. Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: actuele VVV en KvK bevestigen Voorstraat 64 (NIET Lanen 39). VVV noemt ma–do 12–22, vr/za 12–00, zo 12–20, maar RestaurantGuru noemt afwijkende uren; geen eigen weekrooster, daarom tijden onbekend. Oude Lanen 39-marker verwijderd voor PDOK-match Voorstraat 64. Café Rednick is een onbevestigde historische naam op hetzelfde adres; geen twee gelijktijdige zaken aangenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
@@ -13160,13 +13160,13 @@
       "original_status": "Actuele VVV en KvK 2026 bevestigen Café Gewoán Sven op Voorstraat 64.",
       "checked_on": "2026-10-30",
       "opening": {
-        "ma": "12:00",
-        "di": "12:00",
-        "wo": "12:00",
-        "do": "12:00",
-        "vr": "12:00",
-        "za": "12:00",
-        "zo": "12:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
       "geocode_notes": "Voorstraat 64 (8861BN) bevestigd door VVV en KvK 2026. Oude Lanen 39-PDOK-marker was verkeerd; verwijderd voor exacte adresmatch. Delen van Voorstraat 64 met historische Rednick-record."
     },
