@@ -9867,8 +9867,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Officiële site: publiek Grand Café, borrel en diner; geen laatste toegang bekend.",
+      "alcohol": "Eigen site noemt wijn en borrel.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "00:00",
@@ -9879,17 +9879,19 @@
         "za": "01:00",
         "zo": "00:00"
       },
-      "closing_quality": "Officiële regiogids",
+      "closing_quality": "Visit Leeuwarden (gids), strijdig met bedrijfseigen groeps-/zalenpagina; reguliere sluiting onbevestigd",
       "closing_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
-      "closing_notes": "Volgens regiogids zo–do tot 24:00, vr–za tot 01:00.",
+      "closing_notes": "Visit Leeuwarden vermeldt zo–do tot 00:00, vr/za tot 01:00 (huidige gidswaarden behouden). Officiële Post-Plaza groeps-/zalenpagina https://www.post-plaza.nl/vergaderzalen/grand-cafe vermeldt ma–vr 07:00–23:00, za/zo 08:00–23:00, maar staat in vergaderzalencontext. De algemene Grand Café-pagina bevestigt geen publiek weekrooster. Bronconflict open; geen officiële bevestiging van gids-sluitingsuren en laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.post-plaza.nl/restaurant",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
-        "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe"
+        "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
+        "https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe",
+        "https://www.post-plaza.nl/vergaderzalen/grand-cafe"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
+      "checked_on": "2026-10-30",
       "opening": {
         "ma": "07:00",
         "di": "07:00",
@@ -9906,7 +9908,9 @@
         "lon": 5.8004999,
         "method": "PDOK BAG-adres",
         "matched_address": "Tweebaksmarkt 27, 8911KW Leeuwarden"
-      }
+      },
+      "website_provenance": "Officiële Post-Plaza-site bevestigt publiek Grand Café, wijn, borrel en vrijdagse livemuziek.",
+      "website_checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-spoek-leeuwarden-6d9baae",
@@ -9967,33 +9971,48 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site: publiek café, iedereen welkom; geen afzonderlijke laatste toegang vermeld.",
+      "alcohol": "Eigen site noemt bier, rum, cognac en whisky.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://www.oranjebierhuis.nl/",
+      "closing_notes": "Eigen site vermeldt woensdag t/m zondag 16:00–00:00. Ma/di niet genoemd: niet als gesloten aangenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.oranjebierhuis.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen bedrijfssite met 2026-copyright en actuele contactgegevens gecontroleerd 30-10-2026; geen live garantie.",
       "geo": {
         "lat": 53.2018879,
         "lon": 5.7957497,
         "method": "PDOK BAG-adres",
         "matched_address": "Auckamastraatje 2, 8911HK Leeuwarden"
-      }
+      },
+      "website_provenance": "Eigen website bevestigt café en Auckamastraatje 2; gecontroleerd 30-10-2026.",
+      "website_checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.oranjebierhuis.nl/",
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026"
     },
     {
       "id": "eetcafe-spinoza-leeuwarden-0c56246",
@@ -10109,25 +10128,27 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website: publiek bruin café, iedereen welkom.",
+      "alcohol": "Eigen website vermeldt meer dan 70 speciaalbieren.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://www.cafedestrohoed.nl/",
+      "closing_notes": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafedestrohoed.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://visitleeuwarden.com/en/locations/1213615776/cafe-de-strohoed",
+        "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10135,7 +10156,22 @@
         "lon": 5.798198,
         "method": "PDOK BAG-adres",
         "matched_address": "Eewal 72, 8911GV Leeuwarden"
-      }
+      },
+      "website_provenance": "Eigen website bevestigt Eewal 72, assortiment en weekrooster; gecontroleerd 30-10-2026.",
+      "website_checked_on": "2026-10-30",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafedestrohoed.nl/",
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026"
     },
     {
       "id": "de-toeter-leeuwarden-f8ed332",
@@ -10145,7 +10181,7 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek café voor borrel volgens Visit Leeuwarden; toegangstijd niet afzonderlijk bevestigd.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -10157,21 +10193,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Geen officieel Leeuwarder bedrijfsrooster gevonden; tijden uit bedrijvengids niet als zeker overgenomen.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Visit Leeuwarden bevestigt café op Kleine Hoogstraat 2 en borrelmogelijkheid. Allebiz vermeldt di–zo 16:00–03:00 maar niet bevestigd door eigen site; alle sluitingstijden onbekend gehouden. LET OP: https://www.cafedetoeter.nl/ hoort bij Café De Toeter in GRONINGEN, niet deze Leeuwarder zaak; bewust niet als website toegevoegd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter",
+        "https://www.allebiz.nl/de-toeter-058-215-7976"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele toeristische stadsgids vermeldt De Toeter Leeuwarden, Kleine Hoogstraat 2; eigen website en weekrooster niet vastgesteld 30-10-2026.",
       "geo": {
         "lat": 53.2027922,
         "lon": 5.796716,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleine Hoogstraat 2, 8911HE Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "club-z-leeuwarden-aecf644",
@@ -10212,14 +10251,14 @@
     {
       "id": "cafe-de-zaak-leeuwarden-cc89001",
       "name": "Café De Zaak",
-      "type": "Kroeg",
+      "type": "Privécafé / besloten evenementen",
       "address": "Bagijnestraat 63",
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Uitsluitend besloten evenementen op reservering; geen publieke vrije inloop volgens eigen website.",
+      "alcohol": "Eigen site biedt arrangementen met bier, wijn en gedistilleerd voor besloten groepen.",
+      "selection": "Nee",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -10229,21 +10268,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen publiek weekrooster; alleen op reservering",
+      "closing_source": "https://dezaak.cafe/",
+      "closing_notes": "Eigen site noemt expliciet privé-café en 'altijd open op reservering'. Daarom uitgesloten van publieke inloopresultaten; dit betekent niet dat de onderneming gesloten is. Geen standaard sluiting of laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://dezaak.cafe/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actieve besloten evenementenlocatie volgens eigen site op 30-10-2026; niet geschikt voor spontane publieke horeca-inloop.",
       "geo": {
         "lat": 53.201703,
         "lon": 5.7943669,
         "method": "PDOK BAG-adres",
         "matched_address": "Bagijnestraat 63, 8911DN Leeuwarden"
-      }
+      },
+      "website_provenance": "Eigen site bevestigt De Zaak, Bagijnestraat 63; uitsluitend privé-evenementen op reservering.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-twin-leeuwarden-0003bb5",
