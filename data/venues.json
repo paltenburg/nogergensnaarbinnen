@@ -15795,7 +15795,9 @@
         "https://uitgaanskaart.nl/cafe/vlieland",
         "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
         "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
-        "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie"
+        "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie",
+        "https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden",
+        "https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -15818,7 +15820,8 @@
       "opening_source": "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Hotel-FAQ van exploitant: Zeevaert dagelijks 18:00–02:00; eigen specifieke restaurantpagina vermeldt afzonderlijk keukenuren vanaf 10:00. Bar- versus keukenuren onderscheiden.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geocode_notes": "Deelt hoteladres Dorpsstraat 61 met Eetcafé 't Praethuys; WestCord bevestigt drie zelfstandige restaurants binnen Hotel De Wadden, dus afzonderlijke venue-identiteit, geen dubbele invoer."
     },
     {
       "id": "island-pub-vlieland-f6793f0",
@@ -18921,7 +18924,9 @@
       "website_checked_on": "2026-10-30",
       "other_sources": [
         "https://westcordhotels.nl/restaurants/praethuys/menu/",
-        "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys"
+        "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys",
+        "https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden",
+        "https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys"
       ],
       "original_status": "WestCord exploiteert openbaar eetcafé met bar, seizoensafhankelijke sluiting; geen live deurcheck.",
       "geo": {
@@ -18929,7 +18934,8 @@
         "lon": 5.0695225,
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 61, 8899AD Vlieland"
-      }
+      },
+      "geocode_notes": "Deelt complexadres Dorpsstraat 61 met ZeeVaert Bistrobar en visrestaurant De Wadden; WestCord en VVV bevestigen afzonderlijke restaurants in hetzelfde hotel, dus geen dubbele venue. VVV vermeldt soms Dorpsstraat 59; exploitant gebruikt 61."
     },
     {
       "region": "friesland",
@@ -18945,13 +18951,13 @@
       "access": "WestCord en VVV bevestigen toegang tot brasserie voor lunch/diner/aperitief; geen verplichte hotelovernachting genoemd",
       "alcohol": "VVV noemt expliciet wijn en aperitief bij open haard",
       "opening": {
-        "ma": "10:00",
-        "di": "10:00",
-        "wo": "10:00",
-        "do": "10:00",
-        "vr": "10:00",
-        "za": "10:00",
-        "zo": "10:00"
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
       },
       "closing": {
         "ma": "?",
@@ -18965,12 +18971,14 @@
       "opening_quality": "WestCord hotelinfo: dagelijks vanaf 10:00",
       "closing_quality": "Exploitant vermeldt diner/keuken tot 21:30 (vr/za 22:30), niet de feitelijke barsluiting",
       "closing_source": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
-      "closing_notes": "30-10-2026: dagelijks vanaf 10:00 bevestigd; lunch 11–17, diner 17–21:30 (vr/za 22:30) zijn maaltijduren, niet de barsluiting. Laagseizoenkeuken kan afwijken. Laatste toegang en bar-eindtijd onbekend.",
+      "closing_notes": "WestCord eigen restaurantpagina bevestigt De Brassery IN Strandhotel Seeduyn Badweg 3, lunch 11–16 en diner 17–22. Dit zijn restaurant-/maaltijduren, geen bewezen cafésluiting. Oude vanaf-10:00-aanname verwijderd; vanaf 11:00 publieke lunch, barfunctie eerder onbekend. Laatste toegang onbekend. 't Badhuys is apart strandpaviljoen op Badweg 6, geen dubbel record.",
       "website": "https://westcordhotels.nl/restaurants/de-brassery/",
       "website_checked_on": "2026-10-30",
       "other_sources": [
         "https://vlieland.net/nl/bedrijf/de-brassery",
-        "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/"
+        "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+        "https://westcordhotels.nl/restaurants/de-brassery/",
+        "https://westcordhotels.nl/hotel/strandhotel-seeduyn/"
       ],
       "original_status": "WestCord en VVV bevestigen brasserie met wijn/aperitief in Strandhotel Seeduyn.",
       "geo": {
@@ -18978,7 +18986,10 @@
         "lon": 5.051339,
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg 3, 8899BV Vlieland"
-      }
+      },
+      "opening_source": "https://westcordhotels.nl/restaurants/de-brassery/",
+      "opening_checked_on": "2026-10-30",
+      "geocode_notes": "Exacte PDOK-match Badweg 3 hoort bij Strandhotel Seeduyn/De Brassery; afzonderlijk 't Badhuys ligt op Badweg 6."
     },
     {
       "region": "friesland",
@@ -18989,10 +19000,10 @@
       "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
       "name": "Strandpaviljoen 't Badhuys",
       "type": "Strandpaviljoen/borrel",
-      "address": "Badweg 3",
+      "address": "Badweg 6",
       "city": "Vlieland",
-      "access": "Openbaar strandpaviljoen volgens VVV en WestCord; geen hotelverblijf vereist",
-      "alcohol": "Exploitant noemt expliciet een glas wijn bij het strandpaviljoen",
+      "access": "Publiek strandpaviljoen met terras, ontbijt/lunch/diner en borrel; los van naastgelegen Strandhotel Seeduyn.",
+      "alcohol": "Exploitant beschrijft wijnbar, speciaalbier en cocktails bij evenementen; actuele drankkaart op site nader verifiëren.",
       "opening": {
         "ma": "10:00",
         "di": "10:00",
@@ -19014,20 +19025,19 @@
       "opening_quality": "WestCord hotelinfo: dagelijks vanaf 10:00",
       "closing_quality": "Exploitant vermeldt diner tot 21:30 (laag seizoen 20:30), niet de sluiting van het paviljoen",
       "closing_source": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
-      "closing_notes": "30-10-2026: WestCord vermeldt dagelijks vanaf 10:00; diner tot 21:30 (laag seizoen 20:30) betreft bediening/keuken en is geen bewezen barsluiting. VVV geeft Badweg 3, oudere gids Badweg 6: fysieke ingang en BAG-adres nog te controleren. Laatste toegang onbekend.",
-      "website": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+      "closing_notes": "Officiële exploitant badhuys.com bevestigt Badweg 6 en het hele jaar geopend; WestCord vermeldt dagelijks vanaf 10:00 en keuken 10–22. Dit is geen bewezen cafésluiting of laatste toegang. Oude Badweg 3-marker verwijderd en nieuwe exacte match afwachten.",
+      "website": "https://www.badhuys.com/",
       "website_checked_on": "2026-10-30",
       "other_sources": [
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1400372071/strandpaviljoen-t-badhuys",
-        "https://westcordhotels.nl/te-doen-vlieland/"
+        "https://westcordhotels.nl/te-doen-vlieland/",
+        "https://www.badhuys.com/vacatures/",
+        "https://westcordhotels.nl/hotel/strandhotel-seeduyn/",
+        "https://www.vlieland.site/nl/overviews/restaurants"
       ],
       "original_status": "WestCord en VVV bevestigen publieke strandhoreca; exact paviljoenadres heeft bronconflict.",
-      "geo": {
-        "lat": 53.3034588,
-        "lon": 5.051339,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Badweg 3, 8899BV Vlieland"
-      }
+      "website_provenance": "Directe officiële exploitantwebsite, adres Badweg 6, gecontroleerd 2026-10-30.",
+      "geocode_notes": "Oude foutieve PDOK-marker Badweg 3 hoorde bij hotel/De Brassery, niet bij Badhuys. Eigen badhuys.com vermeldt Badweg 6, 8899BV; geo verwijderd voor nieuwe exacte PDOK-BAG-geocodering. Niet dezelfde ingang als De Brassery."
     },
     {
       "id": "de-4-dames-schiermonnikoog-20261030",
