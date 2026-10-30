@@ -8,7 +8,7 @@ DATA = Path(__file__).resolve().parents[1] / "data" / "venues.json"
 DAYS = ("ma", "di", "wo", "do", "vr", "za", "zo")
 SPECIAL = {"?", "—", "Event", "Varieert"}
 TIME = re.compile(r"^(?:[01][0-9]|2[0-3]):[0-5][0-9]$")
-RANGE = re.compile(r"\\d+\\s*[-–]\\s*\\d+\\b")
+RANGE = re.compile(r"\d+\s*[-–]\s*\d+\b")
 
 
 class MasterDatasetIntegrityTests(unittest.TestCase):
