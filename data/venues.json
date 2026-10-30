@@ -14894,25 +14894,27 @@
       "city": "Workum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant beschrijft publieke café-/barfunctie na 21:00, ook zonder maaltijd.",
+      "alcohol": "Exploitant noemt speciaalbier, wijnen en cocktails.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
         "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site (do tegenstrijdig, overige dagen consistent).",
+      "closing_source": "https://deheerenvanheeres.nl/",
+      "closing_notes": "Eigen homepage/cafépagina: donderdag gesloten; eigen over-ons-pagina: donderdag 17–22. Daarom donderdag onbekend. Vrijdag/zaterdag 17–01, zondag 17–22, ma–wo dicht. Eigen site zegt na 21:00 barfunctie; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://deheerenvanheeres.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://deheerenvanheeres.nl/cafe/",
+        "https://deheerenvanheeres.nl/over-ons/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14920,7 +14922,21 @@
         "lon": 5.441959,
         "method": "PDOK BAG-adres",
         "matched_address": "Súd 15, 8711CR Workum"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantpagina's en cafépagina via zoekindex gecontroleerd 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://deheerenvanheeres.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "cafe-spoarsicht-workum-cbd3e82",
@@ -14930,8 +14946,8 @@
       "city": "Workum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Workum.nl beschrijft openbaar café met wisselende vrijwilligers/eigenaren achter de bar.",
+      "alcohol": "Café/drank volgens Workum.nl en KvK-activiteit; alcoholmenu niet individueel bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14944,11 +14960,13 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Workum.nl bevestigt naam/adres en caféconcept, Compadex vermeldt KvK-registratie bijgewerkt februari 2026. Gelinkte eigen website spoarsichtworkum.nl geeft 502; geen betrouwbaar bedrijfseigen weekrooster of laatste toegang gevonden.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://workum.nl/en/activity/cafe-spoarsicht/",
+        "https://www.compadex.com/nl/businesses/nl/cafe-spoarsicht-01050294-10502610"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14956,7 +14974,8 @@
         "lon": 5.4558938,
         "method": "PDOK BAG-adres",
         "matched_address": "Spoardyk 25, 8711CK Workum"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "bistro-workum-workum-e121155",
@@ -14966,25 +14985,27 @@
       "city": "Workum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site vermeldt dat gasten in namiddag ook zonder diner kunnen borrelen.",
+      "alcohol": "Borrel expliciet bevestigd, maar specifieke alcoholische dranken op de actuele eigen site nog niet afzonderlijk vastgesteld.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "?",
         "do": "?",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site, maar woensdagconflict en 'Sluit' zonder exact tijdstip.",
+      "closing_source": "https://www.bistroworkum.nl/",
+      "closing_notes": "Eigen homepage en reserveringspagina: ma–wo gesloten, do–zo vanaf 11:00; eigen menukaartpagina noemt woensdag ook vanaf 11:00. Woensdag daarom onbekend. '11:00 - Sluit' is geen exact einduur; laatste toegang onbekend. Nieuwsbericht 28-10-2026 op eigen site bevestigt recente activiteit.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.bistroworkum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.bistroworkum.nl/menukaarten",
+        "https://www.bistroworkum.nl/reserveren"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14992,7 +15013,21 @@
         "lon": 5.4416141,
         "method": "PDOK BAG-adres",
         "matched_address": "Súd 23, 8711CR Workum"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen homepage, menukaartpagina en reserveringspagina gecontroleerd 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.bistroworkum.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-t-roodhert-burgum-549ff10",
