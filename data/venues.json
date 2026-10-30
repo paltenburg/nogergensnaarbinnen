@@ -12563,39 +12563,57 @@
     },
     {
       "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
-      "name": "Havenbrouwerij Het Brouwdok",
-      "type": "Biercafé",
+      "name": "Brouwdok Buitendijks (proeflokaal)",
+      "type": "Proeflokaal / biercafé",
       "address": "Nieuwe Willemskade 8",
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt openbaar proeflokaal, expliciet zonder entree; geen maaltijdverplichting vermeld.",
+      "alcohol": "Eigen gebrouwen speciaalbier van de tap, volgens eigen site.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "?",
         "do": "?",
-        "vr": "?",
-        "za": "?",
+        "vr": "23:00",
+        "za": "23:00",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site: vr/za 23:00 bevestigd door beide pagina's; wo/do/zo interne tegenspraak.",
+      "closing_source": "https://hetbrouwdok.nl/proeflokaal/",
+      "closing_notes": "30-10-2026: https://hetbrouwdok.nl/proeflokaal/ noemt wo/do 15–22:30, vr 12–23, za/zo 12–23. https://hetbrouwdok.nl/webshop/ noemt wo/do 15–22, vr 15–23, za 12–23, zo 12–22. Conflicterende vrijdagstart en wo/do/zo-eindtijden onbekend gehouden. Ma/di beide gesloten. Brouwerij-werkuren en rondleidingstijden zijn GEEN proeflokaaluren. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://hetbrouwdok.nl/proeflokaal/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://hetbrouwdok.nl/proeflokaal/",
+        "https://hetbrouwdok.nl/webshop/",
+        "https://hetbrouwdok.nl/brouwerij/ontdekken/contact/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actueel publiek proeflokaal rechtstreeks bevestigd via eigen site 2026-10-30; niet live ter plaatse geverifieerd.",
       "geo": {
         "lat": 53.1712965,
         "lon": 5.4127593,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwe Willemskade 8, 8862RZ Harlingen"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële proeflokaalwebsite rechtstreeks gelezen op 2026-10-30.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "?",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://hetbrouwdok.nl/proeflokaal/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen proeflokaalpagina, maar conflict met eigen webshopfooter over vrijdagstart.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-promenade-harlingen-f6e911b",
@@ -12605,33 +12623,51 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant bevestigt publieke inloop voor lunch, borrel of diner, ook zonder veerbootticket volgens algemene publieksomschrijving; ticketvrije toegang niet afzonderlijk gecontroleerd.",
+      "alcohol": "Borrel genoemd door exploitant; specifieke drankkaart niet rechtstreeks gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "19:55",
+        "di": "19:55",
+        "wo": "19:50",
+        "do": "19:55",
+        "vr": "19:55",
+        "za": "19:50",
+        "zo": "19:55"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële exploitant: regulier ma/di/do/vr/zo tot 19:55, wo/za tot 19:50; extra afvaarten en feestdagen kunnen afwijken.",
+      "closing_source": "https://www.rederij-doeksen.nl/service/openingstijden",
+      "closing_notes": "Officiële veerterminalpagina vermeldt Grand Café Promenade expliciet bij deze uren. Extra afvaarten en feestdagen kunnen afwijkingen geven; geen garantie op actuele keuken-/borreltoegang of laatste toegang. 2026-10-30.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.rederij-doeksen.nl/faciliteiten-aan-boord",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.rederij-doeksen.nl/faciliteiten-aan-boord",
+        "https://www.rederij-doeksen.nl/service/openingstijden",
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/4176193270/grand-cafe-promenade"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele publieke horeca bevestigd door exploitant Rederij Doeksen 2026-10-30.",
       "geo": {
         "lat": 53.1763971,
         "lon": 5.4133206,
         "method": "PDOK BAG-adres",
         "matched_address": "Waddenpromenade 5, 8861NT Harlingen"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële exploitant Rederij Doeksen, rechtstreeks gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "07:30",
+        "di": "07:30",
+        "wo": "07:30",
+        "do": "07:30",
+        "vr": "07:30",
+        "za": "07:30",
+        "zo": "08:15"
+      },
+      "opening_source": "https://www.rederij-doeksen.nl/service/openingstijden",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officiële exploitant noemt expliciet dezelfde reguliere uren voor servicebalie, Parlevinker én Grand Café Promenade.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-t-noorderke-harlingen-9f9ff92",
@@ -12641,33 +12677,52 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt Café 't Noorderke met restaurant Noorderpoort en publieke horeca.",
+      "alcohol": "Eigen site toont Grolsch herfstbok van de tap.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
-        "di": "?",
-        "wo": "?",
+        "di": "—",
+        "wo": "—",
         "do": "?",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Geen bedrijfseigen sluitingstijden; 21:00 betreft KEUKEN, niet sluiting.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen site: vanaf 11:30, di/wo gesloten, keuken tot 21:00; sluiting/laatste toegang niet vermeld. Toeristische gids noemt 21:30, andere gids 23:00; niet overgenomen. Eigen site bevestigt Noorderhaven 17, terwijl sommige gidsen Noorderhaven 19 vermelden. 2026-10-30.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.hetnoorderke.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.hetnoorderke.nl/",
+        "https://www.hetnoorderke.nl/contact/",
+        "https://www.harlingenwelkomaanzee.nl/en/locations/2136642440/cafe-t-noorderke-restaurant-noorderpoort"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website bevestigt actuele horeca 2026-10-30; laatste toegang niet gecontroleerd.",
       "geo": {
         "lat": 53.1759026,
         "lon": 5.4146065,
         "method": "PDOK BAG-adres",
         "matched_address": "Noorderhaven 17, 8861AJ Harlingen"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen website rechtstreeks geopend op 2026-10-30.",
+      "opening": {
+        "ma": "11:30",
+        "di": "—",
+        "wo": "—",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "opening_source": "https://www.hetnoorderke.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site: vanaf 11:30, dinsdag en woensdag gesloten.",
+      "geocode_notes": "Officiële https://www.hetnoorderke.nl/contact/ bevestigt Noorderhaven 17; https://www.harlingenwelkomaanzee.nl/en/locations/2136642440/cafe-t-noorderke-restaurant-noorderpoort noemt 19. Huidige exacte BAG-marker op 17 behouden; fysieke entree nog te verifiëren.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-levels-harlingen-fe09531",
@@ -12727,11 +12782,11 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt publiek eetcafé met borrel van 11:30 tot 18:00; overige horecadiensten lopen mogelijk langer door.",
+      "alcohol": "Eigen site vermeldt borrel, maar afzonderlijke actuele alcoholkaart niet bevestigd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "?",
         "wo": "?",
         "do": "?",
@@ -12739,21 +12794,40 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Eigen website geeft geen daadwerkelijke sluiting; 18:00 is eindtijd borrelservice, niet bewezen sluiting van het eetcafé.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen site: borrel 11:30–18:00, diner start 17:00. Gids noemt dagelijks tot 23:00, niet bedrijfseigen bevestigd. Geen laatste toegang of actuele sluiting bewezen. 2026-10-30.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.eetcafenooitgedagt.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.eetcafenooitgedagt.nl/",
+        "https://www.eetcafenooitgedagt.nl/openingstijden/",
+        "https://www.eetcafenooitgedagt.nl/contact/",
+        "https://www.allebiz.nl/eetcaf%C3%A9-nooitgedagt-0517-434-211"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website bevestigt actuele exploitatie en adres 2026-10-30.",
       "geo": {
         "lat": 53.1750307,
         "lon": 5.4157875,
         "method": "PDOK BAG-adres",
         "matched_address": "Grote Bredeplaats 35, 8861BA Harlingen"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen website en contact-/openingstijdenpagina rechtstreeks gecontroleerd 2026-10-30.",
+      "opening": {
+        "ma": "—",
+        "di": "10:30",
+        "wo": "10:30",
+        "do": "10:30",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "opening_source": "https://www.eetcafenooitgedagt.nl/openingstijden/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen website: maandag gesloten, dinsdag t/m zondag vanaf 10:30.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "bar-de-bock-harlingen-33ab930",
@@ -12775,21 +12849,23 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend: alleen externe gidsuren, geen geverifieerd bedrijfseigen weekrooster.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://www.allebiz.nl/bar-de-bock-06-55581308 vermeldt ma gesloten, di/wo 19–03, do–zo 16–03, maar is geen officiële bedrijfsbron. Geen betrouwbare eigen site gevonden; opening, sluiting en laatste toegang blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.allebiz.nl/bar-de-bock-06-55581308"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gids bevestigt categorie bar en adres Lanen 70; exploitatie/rooster niet onafhankelijk bij ondernemer bevestigd op 2026-10-30.",
       "geo": {
         "lat": 53.1736911,
         "lon": 5.4188524,
         "method": "PDOK BAG-adres",
         "matched_address": "Lanen 70, 8861CE Harlingen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "harbour-pub-harlingen-7da020c",
