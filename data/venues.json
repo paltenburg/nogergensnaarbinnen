@@ -16332,32 +16332,45 @@
       "city": "Stavoren",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Eigen website bevestigt publieke inloop voor borrel, eten en drinken; november 2026 volledig gesloten wegens vakantie.",
+      "alcohol": "Cocktail Staverse Spritz met Licor 43 op eigen menupagina; borrelfunctie bevestigd.",
+      "selection": "Nog te controleren",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen contactpagina geeft normaal weekrooster; tijdelijk volledig gesloten november 2026",
+      "closing_source": "https://grandcafekade.nl/contact",
+      "closing_notes": "Officiële homepage geraadpleegd 30-10-2026: HELE november 2026 gesloten wegens vakantie, vanaf december weer open volgens aankondiging (heropening nog niet bevestigd). Normaal weekrooster op contactpagina ma/di gesloten, wo–zo 12:00–21:00. Normaal rooster NIET geldig in november. Tijdelijk uit actieve selectie; hercontrole vanaf december noodzakelijk. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://grandcafekade.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://grandcafekade.nl/contact",
+        "https://grandcafekade.nl/menu/specials/eten",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/2802641723/grand-cafe-kade"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant bevestigt horecafunctie en tijdelijke sluiting november 2026.",
       "geo": {
         "lat": 52.8865196,
         "lon": 5.3573043,
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 1, 8715ES Stavoren"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -16699,38 +16712,50 @@
     },
     {
       "id": "waterherberg-it-beaken-heeg-d7ee148",
-      "name": "Waterherberg It Beaken",
+      "name": "Brasserie it Beaken (Waterherberg)",
       "type": "Eetcafé",
       "address": "It Eilân 65",
       "city": "Heeg",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt publiek restaurant met losse borrel aan het Heegermeer; geen overnachting vereist volgens restaurantbeschrijving.",
+      "alcohol": "Eigen site noemt borrel en wijn; actuele menukaart 2026 heeft borrelkaart.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "?",
         "wo": "?",
         "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Exploitant: restaurant vrijdag–zondag 12:00–20:00; andere dagen behalve maandag niet duidelijk",
+      "closing_source": "https://www.waterherbergitbeaken.nl/restaurant/",
+      "closing_notes": "Exploitantrestaurantpagina 30-10-2026: vrijdag, zaterdag, zondag 12:00–20:00; maandag gesloten; dinsdag–donderdag niet duidelijk, dus onbekend. 20:00 is expliciet eindtijd restaurant, aparte late baruren niet aangetoond. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.waterherbergitbeaken.nl/restaurant/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://www.waterherbergitbeaken.nl/menu-kaart/",
+        "https://www.waterherbergitbeaken.nl/bootverhuur/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant bevestigt brasserie, losse borrel, adres It Eilân 65.",
       "geo": {
         "lat": 52.9668568,
         "lon": 5.611616,
         "method": "PDOK BAG-adres",
         "matched_address": "It Eilân 65, 8621CT Heeg"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -16776,8 +16801,8 @@
       "city": "Woudsend",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt publieke lunch, borrel en diner aan de Iewâl 14.",
+      "alcohol": "Speciaalbier en borrel vermeld op eigen website.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16788,20 +16813,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website: wo–zo vanaf 11:00; geen cafésluiting gepubliceerd",
+      "closing_source": "https://www.dewatersport.nl/",
+      "closing_notes": "Eigen site geraadpleegd 30-10-2026: wo–zo vanaf 11:00; VAN 2 T/M 17 NOVEMBER 2026 GESLOTEN. Geen exacte sluiting/laatste toegang; gidsuren tot 23:00 niet overgenomen. Ma/di onbekend; tijdens 2–17 nov niet bezoeken.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.dewatersport.nl/",
       "other_sources": [
-        "https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1"
+        "https://www.dewatersport.nl/contact",
+        "https://watervakantie.nl/restaurant/cafe-restaurant-de-watersport/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant en adres bevestigd 30-10-2026.",
       "geo": {
         "lat": 52.9435414,
         "lon": 5.6301335,
         "method": "PDOK BAG-adres",
         "matched_address": "Iewâl 14, 8551PS Woudsend"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
       }
     },
     {
@@ -17992,8 +18029,8 @@
       "city": "Arum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant bevestigt dat café tijdens verbouwing open blijft; actuele dagen wisselen.",
+      "alcohol": "Café/bar en drankfunctie bevestigd door VVV; concrete actuele menukaart niet gevonden.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -18004,20 +18041,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website meldt wisselende openingsdagen; vaste VVV-weekuren niet actueel bevestigd",
+      "closing_source": "https://degekroondeleeuw.nl/",
+      "closing_notes": "Eigen site 30-10-2026: verbouwing richting groepshotel; 'Het café blijft open', in zomer wisselende weekenddagen, actuele uren via Facebook. Visit Wadden toont ma dicht, di 16–01, wo 16–23, do 16–01, vr 16–02, za 15–02, zo 15–20, maar eigen site weerspreekt een vast weekrooster; daarom niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://degekroondeleeuw.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2501793986/herberg-de-gekroonde-leeuw"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitant bevestigt nog open café ondanks verbouwing, maar geen vast actueel weekrooster.",
       "geo": {
         "lat": 53.1304351,
         "lon": 5.474685,
         "method": "PDOK BAG-adres",
         "matched_address": "Sytzamaweg 15, 8822VB Arum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
