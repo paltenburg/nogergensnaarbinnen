@@ -18041,7 +18041,13 @@
         "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward"
       ],
       "original_status": "Bolsward.nl vermeldt Café De Drie Koningen; eigen sociale berichten van augustus 2026 gespiegeld op FindGlocal met evenementen in 2026. Controledatum 30-10-2026; niet live.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.0621993,
+        "lon": 5.5186677,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Bargefenne 7, 8701KD Bolsward"
+      }
     }
   ],
   "admission_policies": [

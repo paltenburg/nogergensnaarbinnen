@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 417,
-    "source_urls": 639,
-    "domains": 323,
-    "direct_website_fields": 226
+    "venues": 418,
+    "source_urls": 647,
+    "domains": 326,
+    "direct_website_fields": 227
   },
   "discovery_sites": [
     {
@@ -160,8 +160,8 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 14,
-      "linked_venues": 14
+      "source_pages": 15,
+      "linked_venues": 15
     },
     {
       "domain": "friesland.nl",
@@ -184,12 +184,12 @@
       "linked_venues": 9
     },
     {
-      "domain": "allecijfers.nl",
-      "source_pages": 8,
-      "linked_venues": 8
+      "domain": "hfsfreelancers.nl",
+      "source_pages": 9,
+      "linked_venues": 9
     },
     {
-      "domain": "hfsfreelancers.nl",
+      "domain": "allecijfers.nl",
       "source_pages": 8,
       "linked_venues": 8
     },
@@ -210,16 +210,21 @@
     },
     {
       "domain": "compadex.com",
+      "source_pages": 6,
+      "linked_venues": 6
+    },
+    {
+      "domain": "vind-open.nl",
+      "source_pages": 6,
+      "linked_venues": 6
+    },
+    {
+      "domain": "findglocal.com",
       "source_pages": 5,
       "linked_venues": 5
     },
     {
       "domain": "grootsneek.nl",
-      "source_pages": 5,
-      "linked_venues": 5
-    },
-    {
-      "domain": "vind-open.nl",
       "source_pages": 5,
       "linked_venues": 5
     },
@@ -235,11 +240,6 @@
     },
     {
       "domain": "bestrestos.nl",
-      "source_pages": 4,
-      "linked_venues": 4
-    },
-    {
-      "domain": "findglocal.com",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -786,7 +786,7 @@
     {
       "domain": "bolsward.nl",
       "source_pages": 1,
-      "linked_venues": 0
+      "linked_venues": 3
     },
     {
       "domain": "boot122.nl",
@@ -1129,6 +1129,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "eetcafe55.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "eetcafedebaron.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1429,6 +1434,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "nl.restaurantguru.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "nomono-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1592,6 +1602,11 @@
       "domain": "storm-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
+    },
+    {
+      "domain": "streets.openalfa.nl",
+      "source_pages": 1,
+      "linked_venues": 2
     },
     {
       "domain": "studentenwegwijzer.nl",
@@ -2007,6 +2022,30 @@
         {
           "id": "cafe-de-twin-leeuwarden-0003bb5",
           "name": "Café De Twin",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-t-diekje_2R-06-14989705",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-diekje-bolsward-89f46bb",
+          "name": "Café 't Diekje",
           "roles": [
             "achtergrond"
           ],
@@ -3275,12 +3314,41 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
         "terugkerende_vindplaats"
       ],
-      "venues": [],
+      "venues": [
+        {
+          "id": "cafe-de-drie-koningen-bolsward-20261030",
+          "name": "Café De Drie Koningen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "cafe-it-kin-net-bolsward-75feb60",
+          "name": "Café It Kin Net",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-55-bolsward-c23ffd7",
+          "name": "Eetcafé 55",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 0,
-      "needs_review": false
+      "linked_venue_count": 3,
+      "needs_review": true
     },
     {
       "url": "https://www.boot122.nl/",
@@ -6676,6 +6744,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/cafe-t-diekje-01041308-01886924",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-diekje-bolsward-89f46bb",
+          "name": "Café 't Diekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -8614,6 +8706,37 @@
       "needs_review": true
     },
     {
+      "url": "https://www.eetcafe55.nl/",
+      "domain": "eetcafe55.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-55-bolsward-c23ffd7",
+          "name": "Eetcafé 55",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://eetcafedebaron.nl/",
       "domain": "eetcafedebaron.nl",
       "first_registered_on": "2026-10-26",
@@ -9295,6 +9418,30 @@
         {
           "id": "cafe-restaurant-de-kajuit-sneek-651e053",
           "name": "Restaurant De Kajuit",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.findglocal.com/NL/Bolsward/340457065826837/Caf%C3%A9-de-Drie-Koningen",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-drie-koningen-bolsward-20261030",
+          "name": "Café De Drie Koningen",
           "roles": [
             "achtergrond"
           ],
@@ -11031,6 +11178,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.hfsfreelancers.nl/locaties/bolsward/bars/de-hut-van-oom-tom",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+          "name": "De Hut van Oom Tom",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306",
       "domain": "hfsfreelancers.nl",
       "first_registered_on": "2026-10-30",
@@ -12646,6 +12817,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward",
+      "domain": "nl.restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-drie-koningen-bolsward-20261030",
+          "name": "Café De Drie Koningen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.noah-eetcafe.nl/",
@@ -15918,6 +16113,39 @@
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://streets.openalfa.nl/streets/gysbert-japicxlaan-bolsward-sudwest-fryslan",
+      "domain": "streets.openalfa.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-hut-van-oom-tom-bolsward-e2ed844",
+          "name": "De Hut van Oom Tom",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "grand-cafe-bullock-bolsward-e66a509",
+          "name": "Grand Café Bullock",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 2,
       "needs_review": true
     },
     {
@@ -21029,6 +21257,30 @@
       "needs_review": true
     },
     {
+      "url": "https://vind-open.nl/bolsward/caf%C3%A9-t-diekje-289081",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-diekje-bolsward-89f46bb",
+          "name": "Café 't Diekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vind-open.nl/franeker/tapperij-t-noord-331638",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-30",
@@ -22492,6 +22744,10 @@
         "name": "Café De Drie Gemeenten"
       },
       {
+        "id": "cafe-de-drie-koningen-bolsward-20261030",
+        "name": "Café De Drie Koningen"
+      },
+      {
         "id": "cafe-de-finne-reahus-fedc896",
         "name": "Café De Finne"
       },
@@ -22722,10 +22978,6 @@
       {
         "id": "eetcafe-t-roodhert-burgum-549ff10",
         "name": "Eetcafé 't Roodhert"
-      },
-      {
-        "id": "eetcafe-55-bolsward-c23ffd7",
-        "name": "Eetcafé 55"
       },
       {
         "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
@@ -23280,6 +23532,10 @@
       {
         "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
         "name": "Café De Drie Gemeenten"
+      },
+      {
+        "id": "cafe-de-drie-koningen-bolsward-20261030",
+        "name": "Café De Drie Koningen"
       },
       {
         "id": "cafe-de-finne-reahus-fedc896",
@@ -24002,7 +24258,7 @@
       {
         "id": "cafe-t-diekje-bolsward-89f46bb",
         "name": "Café 't Diekje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Bedrijfsregistratie 12-02-2026 op Dijkstraat 47 bevestigd; actuele publieksopening niet onafhankelijk bewezen. VindOpen en AlleBiz verschillen over dinsdag/donderdag eindtijden; oude diekje.nl niet als huidige eigen site bevestigd. Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
       },
       {
         "id": "cafe-t-hert-joure-175cdd8",
@@ -24103,6 +24359,11 @@
         "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
         "name": "Café De Drie Gemeenten",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "cafe-de-drie-koningen-bolsward-20261030",
+        "name": "Café De Drie Koningen",
+        "reason": "Lokale toeristische site en berichten van augustus 2026 bevestigen exploitatie/evenementen. Gidsuren zijn onderling tegenstrijdig en niet overgenomen; laatste toegang onbekend."
       },
       {
         "id": "cafe-de-finne-reahus-fedc896",
@@ -24262,7 +24523,7 @@
       {
         "id": "cafe-it-kin-net-bolsward-75feb60",
         "name": "Café It Kin Net",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
       },
       {
         "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
@@ -24417,7 +24678,7 @@
       {
         "id": "de-hut-van-oom-tom-bolsward-e2ed844",
         "name": "De Hut van Oom Tom",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Gysbert Japicxlaan 11 staat op OSM-afgeleide kaart. HFS-pagina noemt tegelijkertijd Bargefenne 11 en Gysbert Japicxlaan 11, en gebruikt een voorbeeldachtig telefoonnummer 0515-123456; onbetrouwbaar als bedrijfsrooster. Geen eigen site gevonden. Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
       },
       {
         "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
@@ -24477,7 +24738,7 @@
       {
         "id": "eetcafe-55-bolsward-c23ffd7",
         "name": "Eetcafé 55",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Keuken ma–wo 17:00–21:00, do 11:30–13:30 en 17:00–21:00, vr 11:30–13:30, za/zo keuken gesloten. Deze KEUKENuren zijn niet als opening/sluiting van café ingevoerd. Eigen site biedt zaak ter overname aan; huidige bedrijfsstatus niet onafhankelijk bevestigd. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
@@ -24592,7 +24853,7 @@
       {
         "id": "grand-cafe-bullock-bolsward-e66a509",
         "name": "Grand Café Bullock",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Gysbert Japicxlaan 9 staat op OSM-afgeleide en aggregatiegidsen; geen recente eigen exploitantbron of openingsbewijs gevonden (30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
       },
       {
         "id": "grand-cafe-de-brass-leeuwarden-c11a15b",

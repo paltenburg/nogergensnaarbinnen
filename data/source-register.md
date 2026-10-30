@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**639 geregistreerde bron-URL's**, 323 domeinen; gekoppeld aan **417 locaties**.
+**647 geregistreerde bron-URL's**, 326 domeinen; gekoppeld aan **418 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -46,23 +46,23 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | centrumutrecht.nl | 57 | 54 |
 | uitgaanskaart.nl | 21 | 200 |
 | ontdek-utrecht.nl | 19 | 36 |
-| allebiz.nl | 14 | 14 |
+| allebiz.nl | 15 | 15 |
 | friesland.nl | 14 | 14 |
 | visitleeuwarden.com | 11 | 10 |
 | debuik.nl | 10 | 16 |
 | cylex.nl | 9 | 9 |
+| hfsfreelancers.nl | 9 | 9 |
 | allecijfers.nl | 8 | 8 |
-| hfsfreelancers.nl | 8 | 8 |
 | uitutrecht.com | 8 | 132 |
 | waterlandvanfriesland.nl | 8 | 7 |
 | clubbasis.nl | 6 | 1 |
-| compadex.com | 5 | 5 |
+| compadex.com | 6 | 6 |
+| vind-open.nl | 6 | 6 |
+| findglocal.com | 5 | 5 |
 | grootsneek.nl | 5 | 5 |
-| vind-open.nl | 5 | 5 |
 | visitwadden.nl | 5 | 4 |
 | vvvterschelling.nl | 5 | 5 |
 | bestrestos.nl | 4 | 4 |
-| findglocal.com | 4 | 4 |
 | oozo.nl | 4 | 2 |
 | poolcafebigben.nl | 4 | 1 |
 | sneek.nl | 4 | 4 |
@@ -171,7 +171,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | binnenopameland.nl | 1 | 1 |
 | biton.nl | 1 | 1 |
 | bodytalk-utrecht.metro.bar | 1 | 1 |
-| bolsward.nl | 1 | 0 |
+| bolsward.nl | 1 | 3 |
 | boot122.nl | 1 | 1 |
 | boulevardutrecht.nl | 1 | 1 |
 | bowlingdekaden.nl | 1 | 1 |
@@ -240,6 +240,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | discover-utrecht.com | 1 | 1 |
 | doelebar.nl | 1 | 1 |
 | duic.nl | 1 | 1 |
+| eetcafe55.nl | 1 | 1 |
 | eetcafedebaron.nl | 1 | 1 |
 | eetcafededammesaan.ultimatumapp.com | 1 | 1 |
 | eetcafedepleats.nl | 1 | 1 |
@@ -300,6 +301,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nar.nl | 1 | 1 |
 | nes-cafe-ameland.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
+| nl.restaurantguru.com | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
 | oka18.nl | 1 | 1 |
 | ontdek-terschelling.nl | 1 | 1 |
@@ -333,6 +335,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | stadsbrouwerijroodnoot.nl | 1 | 1 |
 | stathe.nl | 1 | 1 |
 | storm-terschelling.nl | 1 | 1 |
+| streets.openalfa.nl | 1 | 2 |
 | studentenwegwijzer.nl | 1 | 1 |
 | talud9.nl | 1 | 1 |
 | taphuys.nl | 1 | 1 |
@@ -397,6 +400,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207](https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207) — achtergrond; Café de Pastorie; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320](https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320) — achtergrond; Café de Strohoed; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388](https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388) — achtergrond; Café De Twin; bronveld gecontroleerd: onbekend
+- [https://www.allebiz.nl/caf%C3%A9-t-diekje_2R-06-14989705](https://www.allebiz.nl/caf%C3%A9-t-diekje_2R-06-14989705) — achtergrond; Café 't Diekje; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522](https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/de-kroeg_17A-0513-650-560](https://www.allebiz.nl/de-kroeg_17A-0513-650-560) — achtergrond; De Kroeg; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/de-toeter-058-215-7976](https://www.allebiz.nl/de-toeter-058-215-7976) — achtergrond; De Toeter; bronveld gecontroleerd: onbekend
@@ -510,7 +514,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### bolsward.nl
 
-- [https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/](https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
+- [https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/](https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/) — achtergrond, terugkerende_vindplaats; Café De Drie Koningen, Café It Kin Net, Eetcafé 55; bronveld gecontroleerd: onbekend
 
 ### boot122.nl
 
@@ -799,6 +803,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399](https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399) — achtergrond; Bar Sybs; bronveld gecontroleerd: onbekend
 - [https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687](https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687) — achtergrond; Café Bok; bronveld gecontroleerd: onbekend
 - [https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080](https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080) — achtergrond; Café De Kleine Beurs; bronveld gecontroleerd: onbekend
+- [https://www.compadex.com/nl/businesses/nl/cafe-t-diekje-01041308-01886924](https://www.compadex.com/nl/businesses/nl/cafe-t-diekje-01041308-01886924) — achtergrond; Café 't Diekje; bronveld gecontroleerd: onbekend
 - [https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606](https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606) — achtergrond; Grand Café Levels; bronveld gecontroleerd: onbekend
 - [https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331](https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 
@@ -988,6 +993,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht](https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht) — achtergrond; De Troef spelletjescafé; bronveld gecontroleerd: onbekend
 
+### eetcafe55.nl
+
+- [https://www.eetcafe55.nl/](https://www.eetcafe55.nl/) — achtergrond, sluitingstijden, website; Eetcafé 55; bronveld gecontroleerd: 2026-10-30
+
 ### eetcafedebaron.nl
 
 - [https://eetcafedebaron.nl/](https://eetcafedebaron.nl/) — sluitingstijden, website; Eetcafé De Baron; bronveld gecontroleerd: 2026-10-25
@@ -1069,6 +1078,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### findglocal.com
 
+- [https://www.findglocal.com/NL/Bolsward/340457065826837/Caf%C3%A9-de-Drie-Koningen](https://www.findglocal.com/NL/Bolsward/340457065826837/Caf%C3%A9-de-Drie-Koningen) — achtergrond; Café De Drie Koningen; bronveld gecontroleerd: onbekend
 - [https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune](https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune) — achtergrond; De Bogt fen Guné; bronveld gecontroleerd: onbekend
 - [https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden](https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden) — achtergrond; Club Z; bronveld gecontroleerd: onbekend
 - [https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9](https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9) — achtergrond; NOAH Eetcafé Sneek; bronveld gecontroleerd: onbekend
@@ -1224,6 +1234,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht](https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht) — achtergrond; KweekVijver Utrecht; bronveld gecontroleerd: onbekend
+- [https://www.hfsfreelancers.nl/locaties/bolsward/bars/de-hut-van-oom-tom](https://www.hfsfreelancers.nl/locaties/bolsward/bars/de-hut-van-oom-tom) — achtergrond; De Hut van Oom Tom; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306](https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306) — achtergrond; Restaurant StrAnders; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem](https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem) — achtergrond; Café Us Mem; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe](https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe) — achtergrond; Elzibar; bronveld gecontroleerd: onbekend
@@ -1413,6 +1424,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### neutje.nl
 
 - [https://neutje.nl/](https://neutje.nl/) — website; ’t Neutje; bronveld gecontroleerd: onbekend
+
+### nl.restaurantguru.com
+
+- [https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward](https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward) — achtergrond; Café De Drie Koningen; bronveld gecontroleerd: onbekend
 
 ### noah-eetcafe.nl
 
@@ -1709,6 +1724,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.strandhuys-ameland.nl/openingstijden/](https://www.strandhuys-ameland.nl/openingstijden/) — sluitingstijden; 't Strandhuys; bronveld gecontroleerd: 2026-10-30
 - [https://www.strandhuys-ameland.nl/reserveren/](https://www.strandhuys-ameland.nl/reserveren/) — achtergrond; 't Strandhuys; bronveld gecontroleerd: onbekend
 
+### streets.openalfa.nl
+
+- [https://streets.openalfa.nl/streets/gysbert-japicxlaan-bolsward-sudwest-fryslan](https://streets.openalfa.nl/streets/gysbert-japicxlaan-bolsward-sudwest-fryslan) — achtergrond; De Hut van Oom Tom, Grand Café Bullock; bronveld gecontroleerd: onbekend
+
 ### studentenwegwijzer.nl
 
 - [https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/](https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/) — achtergrond; B.I.T.O.N.; bronveld gecontroleerd: onbekend
@@ -1867,6 +1886,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### vind-open.nl
 
+- [https://vind-open.nl/bolsward/caf%C3%A9-t-diekje-289081](https://vind-open.nl/bolsward/caf%C3%A9-t-diekje-289081) — achtergrond; Café 't Diekje; bronveld gecontroleerd: onbekend
 - [https://vind-open.nl/franeker/tapperij-t-noord-331638](https://vind-open.nl/franeker/tapperij-t-noord-331638) — achtergrond; Tapperij 't Noord; bronveld gecontroleerd: onbekend
 - [https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470](https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470) — achtergrond; Espressobar Smûk; bronveld gecontroleerd: onbekend
 - [https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804](https://vind-open.nl/sneek/noah-eetcaf%C3%A9-sneek-881804) — achtergrond, openingstijden, sluitingstijden; NOAH Eetcafé Sneek; bronveld gecontroleerd: 2026-10-29
