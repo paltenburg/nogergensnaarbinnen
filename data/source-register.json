@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 466,
-    "domains": 240,
-    "direct_website_fields": 176
+    "source_urls": 480,
+    "domains": 249,
+    "direct_website_fields": 182
   },
   "discovery_sites": [
     {
@@ -224,6 +224,11 @@
       "linked_venues": 4
     },
     {
+      "domain": "visitwadden.nl",
+      "source_pages": 4,
+      "linked_venues": 3
+    },
+    {
       "domain": "barbasta.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -252,11 +257,6 @@
       "domain": "uitagenda.nl",
       "source_pages": 3,
       "linked_venues": 74
-    },
-    {
-      "domain": "visitwadden.nl",
-      "source_pages": 3,
-      "linked_venues": 2
     },
     {
       "domain": "amicaalgrou.nl",
@@ -367,6 +367,16 @@
       "domain": "findglocal.com",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "grandcafevlieland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "hetoudeboothuis.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "hopperdrachten.nl",
@@ -505,6 +515,16 @@
     },
     {
       "domain": "tivolivredenburg.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vvvterschelling.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "westcordhotels.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -1109,6 +1129,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "ontdek-terschelling.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "oproerbrouwerij.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1219,6 +1244,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "storm-terschelling.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "studentenwegwijzer.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1260,6 +1290,11 @@
     },
     {
       "domain": "toque.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "toxbar.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1319,6 +1354,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "vlieland.site",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "werkenbijutrechtsehorecagroep.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1330,6 +1370,11 @@
     },
     {
       "domain": "willemslok.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "zeezicht-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -7625,6 +7670,63 @@
       "needs_review": false
     },
     {
+      "url": "https://grandcafevlieland.nl/",
+      "domain": "grandcafevlieland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+          "name": "Grand Café De Oude Stoep",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://grandcafevlieland.nl/contact/",
+      "domain": "grandcafevlieland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+          "name": "Grand Café De Oude Stoep",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://grasvandeburen.nl/",
       "domain": "grasvandeburen.nl",
       "first_registered_on": "2026-10-26",
@@ -7870,6 +7972,63 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://hetoudeboothuis.nl/",
+      "domain": "hetoudeboothuis.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+          "name": "Het Oude Boothuis",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hetoudeboothuis.nl/contact/",
+      "domain": "hetoudeboothuis.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+          "name": "Het Oude Boothuis",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.hetoudetolhuys.nl/",
@@ -9477,6 +9636,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.ontdek-terschelling.nl/eten-en-drinken/storm/",
+      "domain": "ontdek-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+          "name": "Eetcafé Storm",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.ontdek-utrecht.nl/",
@@ -11778,6 +11961,40 @@
       "needs_review": true
     },
     {
+      "url": "https://www.storm-terschelling.nl/",
+      "domain": "storm-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+          "name": "Eetcafé Storm",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/",
       "domain": "studentenwegwijzer.nl",
       "first_registered_on": "2026-10-29",
@@ -12255,6 +12472,40 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://toxbar.nl/",
+      "domain": "toxbar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "tox-bar-schiermonnikoog-09b0f73",
+          "name": "Tox Bar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -14815,7 +15066,7 @@
         },
         {
           "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
-          "name": "ZeeVaert Bar & Rotisserie",
+          "name": "ZeeVaert Bistrobar",
           "roles": [
             "achtergrond"
           ],
@@ -16939,6 +17190,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
+          "name": "Grand Café De Oude Stoep",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan",
       "domain": "visitwadden.nl",
       "first_registered_on": "2026-10-29",
@@ -16982,6 +17257,78 @@
         {
           "id": "it-reade-hynder-wommels-0121f4b",
           "name": "It Reade Hynder",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie",
+      "domain": "vlieland.site",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-storm-west-terschelling-3a5bf1d",
+          "name": "Eetcafé Storm",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+          "name": "Grand Café Restaurant Zeezicht",
           "roles": [
             "achtergrond"
           ],
@@ -17235,6 +17582,65 @@
       "needs_review": false
     },
     {
+      "url": "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
+          "name": "ZeeVaert Bistrobar",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://wijnbar-kurk.nl/",
       "domain": "wijnbar-kurk.nl",
       "first_registered_on": "2026-10-26",
@@ -17392,6 +17798,40 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://zeezicht-terschelling.nl/",
+      "domain": "zeezicht-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
+          "name": "Grand Café Restaurant Zeezicht",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -17929,10 +18369,6 @@
         "name": "Eetcafé Spoorzicht"
       },
       {
-        "id": "eetcafe-storm-west-terschelling-3a5bf1d",
-        "name": "Eetcafé Storm"
-      },
-      {
         "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
         "name": "Eetcafé Tante Sjuul"
       },
@@ -17993,10 +18429,6 @@
         "name": "Grand Café De Oranjerie"
       },
       {
-        "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
-        "name": "Grand Café De Oude Stoep"
-      },
-      {
         "id": "grand-cafe-de-vrienden-45afa11",
         "name": "Grand Café De Vrienden"
       },
@@ -18029,10 +18461,6 @@
         "name": "Grand Café Promenade"
       },
       {
-        "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
-        "name": "Grand Café Restaurant Zeezicht"
-      },
-      {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
       },
@@ -18063,10 +18491,6 @@
       {
         "id": "herberg-de-zwaan-hollum-b0512f5",
         "name": "Herberg De Zwaan"
-      },
-      {
-        "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
-        "name": "Het Oude Boothuis"
       },
       {
         "id": "het-stamcafe-heerenveen-b1c29a4",
@@ -18313,10 +18737,6 @@
         "name": "Tijm"
       },
       {
-        "id": "tox-bar-schiermonnikoog-09b0f73",
-        "name": "Tox Bar"
-      },
-      {
         "id": "trapop-058033a",
         "name": "Trapop"
       },
@@ -18371,10 +18791,6 @@
       {
         "id": "woolloomooloo-0a91b60",
         "name": "Woolloomooloo"
-      },
-      {
-        "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
-        "name": "ZeeVaert Bar & Rotisserie"
       },
       {
         "id": "t-oude-pothuys-c89ea4d",
@@ -18943,10 +19359,6 @@
         "name": "Grand Café De Oranjerie"
       },
       {
-        "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
-        "name": "Grand Café De Oude Stoep"
-      },
-      {
         "id": "grand-cafe-de-vrienden-45afa11",
         "name": "Grand Café De Vrienden"
       },
@@ -19273,10 +19685,6 @@
       {
         "id": "woolloomooloo-0a91b60",
         "name": "Woolloomooloo"
-      },
-      {
-        "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
-        "name": "ZeeVaert Bar & Rotisserie"
       }
     ],
     "possible_conflicts_or_closures": [
@@ -19873,7 +20281,7 @@
       {
         "id": "eetcafe-storm-west-terschelling-3a5bf1d",
         "name": "Eetcafé Storm",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële site bevestigt eetcafé en bier van eigen brouwerij, geen exacte openingstijden. VVV https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/ vermeldt 11:30–23:00 alle dagen; https://www.ontdek-terschelling.nl/eten-en-drinken/storm/ geeft afwijkende 11:30–17:00 (overdag) en afhaal/bezorging in avond. Start 11:30 als VVV-vermelding, eindtijd onbekend. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
@@ -19948,7 +20356,7 @@
       {
         "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
         "name": "Grand Café De Oude Stoep",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "De rechtstreeks geopende eigen contactpagina toont ma–zo 15:00–00:00; zoekindex-snippets en VVV noemen andere openingstijden (17:00 of 12:00), dus conflict vastgelegd en eigen actuele pagina gevolgd. Laatste toegang onbekend; groepsafhuur mogelijk."
       },
       {
         "id": "grand-cafe-de-waegh-dokkum-7305178",
@@ -19983,7 +20391,7 @@
       {
         "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
         "name": "Grand Café Restaurant Zeezicht",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Dagelijks vanaf 10:00, keuken tot 20:30. VVV https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/ geeft dagelijks 21:30 als sluiting; officiële site noemt alleen opening en keukenuren. Exacte sluiting en laatste toegang daarom onbekend."
       },
       {
         "id": "harbour-pub-harlingen-7da020c",
@@ -20018,7 +20426,7 @@
       {
         "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
         "name": "Het Oude Boothuis",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Contactpagina meldt elke dag geopend maar zonder uren; geen aanname van horeca-/keukensluiting. Exacte opening, sluiting en laatste toegang blijven onbekend. Website toont PHP-deprecation-waarschuwingen, maar inhoud is bereikbaar."
       },
       {
         "id": "het-stamcafe-heerenveen-b1c29a4",
@@ -20243,7 +20651,7 @@
       {
         "id": "tox-bar-schiermonnikoog-09b0f73",
         "name": "Tox Bar",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site noemt voor dansen expliciet 'Geen toegang na 02:00' en onder 16 jaar tot 23:30. Dit geldt voor dancing/uitgaansgedeelte tijdens openingsnachten, niet bewezen als onvoorwaardelijke laatste toegang voor het café op alle weekdagen; daarom geen generieke last_entry ingevuld. Dancing alleen tijdens weekenden/vakanties of op aanvraag. Exacte sluiting onbekend."
       },
       {
         "id": "treemter-grou-dbe48b6",
@@ -20282,8 +20690,8 @@
       },
       {
         "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
-        "name": "ZeeVaert Bar & Rotisserie",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "ZeeVaert Bistrobar",
+        "reason": "De exploitant gebruikt nu de naam ZeeVaert Bistrobar (voorheen Bar & Rotisserie). Hotel-FAQ https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/ geeft dagelijks 18:00–02:00 voor Zeevaert; de specifieke https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/ noemt keukenuren laagseizoen zo–do 10–21, vr/za 10–22, hoogseizoen dagelijks 10–22. Dit is niet hetzelfde als bar-sluiting; verifieer of FAQ-rooster nog actueel is. Hotelpagina bevestigt Dorpsstraat 61 (VVV noemt afwijkend 63). Laatste toegang onbekend."
       },
       {
         "id": "t-gras-van-de-buren-29923a1",

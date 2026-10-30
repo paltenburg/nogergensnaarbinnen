@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**466 geregistreerde bron-URL's**, 240 domeinen; gekoppeld aan **412 locaties**.
+**480 geregistreerde bron-URL's**, 249 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -59,13 +59,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
+| visitwadden.nl | 4 | 3 |
 | barbasta.nl | 3 | 1 |
 | cylex.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | paddyoryan.frl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
-| visitwadden.nl | 3 | 2 |
 | amicaalgrou.nl | 2 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
@@ -88,6 +88,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
 | findglocal.com | 2 | 2 |
+| grandcafevlieland.nl | 2 | 1 |
+| hetoudeboothuis.nl | 2 | 1 |
 | hopperdrachten.nl | 2 | 1 |
 | insolence-restaurant.nl | 2 | 1 |
 | itreadehynder.nl | 2 | 1 |
@@ -116,6 +118,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | teds-place.mom | 2 | 2 |
 | thegrandshuffle.nl | 2 | 1 |
 | tivolivredenburg.nl | 2 | 1 |
+| vvvterschelling.nl | 2 | 2 |
+| westcordhotels.nl | 2 | 1 |
 | wijnbarvinvin.nl | 2 | 1 |
 | workum.nl | 2 | 1 |
 | 1841.nl | 1 | 3 |
@@ -236,6 +240,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nar.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
+| ontdek-terschelling.nl | 1 | 1 |
 | oproerbrouwerij.nl | 1 | 1 |
 | opzuidutrecht.nl | 1 | 1 |
 | oudaen.nl | 1 | 1 |
@@ -258,6 +263,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | springhaver.nl | 1 | 1 |
 | stadsbrouwerijroodnoot.nl | 1 | 1 |
 | stathe.nl | 1 | 1 |
+| storm-terschelling.nl | 1 | 1 |
 | studentenwegwijzer.nl | 1 | 1 |
 | talud9.nl | 1 | 1 |
 | taphuys.nl | 1 | 1 |
@@ -267,6 +273,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | themaltvault.nl | 1 | 1 |
 | themick.nl | 1 | 1 |
 | toque.nl | 1 | 1 |
+| toxbar.nl | 1 | 1 |
 | ubicautrecht.nl | 1 | 1 |
 | uitheerenveen.com | 1 | 0 |
 | uitleeuwarden.com | 1 | 0 |
@@ -278,9 +285,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | vandestreekbier.nl | 1 | 2 |
 | visitleeuwarden.com | 1 | 0 |
 | visitutrechtregion.com | 1 | 1 |
+| vlieland.site | 1 | 1 |
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
 | wijnbar-kurk.nl | 1 | 1 |
 | willemslok.nl | 1 | 1 |
+| zeezicht-terschelling.nl | 1 | 1 |
 | zoek.officielebekendmakingen.nl | 1 | 1 |
 | zuidoostfriesland.nl | 1 | 0 |
 
@@ -866,6 +875,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://grandcafeliving.nl/utrecht/](https://grandcafeliving.nl/utrecht/) — openingstijden, sluitingstijden, website; Grand Café LIVING Utrecht; bronveld gecontroleerd: 2026-10-26
 
+### grandcafevlieland.nl
+
+- [https://grandcafevlieland.nl/](https://grandcafevlieland.nl/) — website; Grand Café De Oude Stoep; bronveld gecontroleerd: 2026-10-30
+- [https://grandcafevlieland.nl/contact/](https://grandcafevlieland.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Grand Café De Oude Stoep; bronveld gecontroleerd: 2026-10-30
+
 ### grasvandeburen.nl
 
 - [https://grasvandeburen.nl/](https://grasvandeburen.nl/) — sluitingstijden, website; ’t Gras van de Buren; bronveld gecontroleerd: 2026-10-26
@@ -889,6 +903,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### hemel-aarde.nl
 
 - [https://www.hemel-aarde.nl/wijnbar](https://www.hemel-aarde.nl/wijnbar) — openingstijden, sluitingstijden, website; Wijnbar Hemel & Aarde; bronveld gecontroleerd: 2026-10-26
+
+### hetoudeboothuis.nl
+
+- [https://hetoudeboothuis.nl/](https://hetoudeboothuis.nl/) — website; Het Oude Boothuis; bronveld gecontroleerd: 2026-10-30
+- [https://hetoudeboothuis.nl/contact/](https://hetoudeboothuis.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Het Oude Boothuis; bronveld gecontroleerd: 2026-10-30
 
 ### hetoudetolhuys.nl
 
@@ -1078,6 +1097,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje](https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://www.ondernemendsneek.nl/leden/overzicht/fokks](https://www.ondernemendsneek.nl/leden/overzicht/fokks) — achtergrond; Café Fokk's; bronveld gecontroleerd: onbekend
+
+### ontdek-terschelling.nl
+
+- [https://www.ontdek-terschelling.nl/eten-en-drinken/storm/](https://www.ontdek-terschelling.nl/eten-en-drinken/storm/) — achtergrond; Eetcafé Storm; bronveld gecontroleerd: onbekend
 
 ### ontdek-utrecht.nl
 
@@ -1271,6 +1294,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.stichtsetaveerne.nl/](https://www.stichtsetaveerne.nl/) — website; Stichtse Taveerne; bronveld gecontroleerd: 2026-10-29
 - [https://www.stichtsetaveerne.nl/contact/](https://www.stichtsetaveerne.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Stichtse Taveerne; bronveld gecontroleerd: 2026-10-29
 
+### storm-terschelling.nl
+
+- [https://www.storm-terschelling.nl/](https://www.storm-terschelling.nl/) — achtergrond, openingstijden, sluitingstijden, website; Eetcafé Storm; bronveld gecontroleerd: 2026-10-30
+
 ### studentenwegwijzer.nl
 
 - [https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/](https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/) — achtergrond; B.I.T.O.N.; bronveld gecontroleerd: onbekend
@@ -1327,6 +1354,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://toque.nl/](https://toque.nl/) — openingstijden, sluitingstijden, website; Toque Toque Foodcafé; bronveld gecontroleerd: 2026-10-26
 
+### toxbar.nl
+
+- [https://toxbar.nl/](https://toxbar.nl/) — achtergrond, openingstijden, sluitingstijden, website; Tox Bar; bronveld gecontroleerd: 2026-10-30
+
 ### ubicautrecht.nl
 
 - [https://ubicautrecht.nl/reserveren](https://ubicautrecht.nl/reserveren) — sluitingstijden, website; Ubica; bronveld gecontroleerd: 2026-10-25
@@ -1355,7 +1386,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://uitgaanskaart.nl/cafe/sneek](https://uitgaanskaart.nl/cafe/sneek) — achtergrond; 't Ouwe Vat, Café 't Singeltje, Café 't Skûtsje, Café De Kroon, Café Fokk's (+ 9 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/stavoren](https://uitgaanskaart.nl/cafe/stavoren) — achtergrond; Bistro Workum, Bruin Café Licorne, Café 't Syltsje, Café De Boekanier, Café Restaurant De Smidte (+ 9 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/utrecht](https://uitgaanskaart.nl/cafe/utrecht) — achtergrond; Bar Beton, Bierlokaal de Luifel, Café Claire, Café de Beurs, Café De Binnenstad (+ 16 meer); bronveld gecontroleerd: onbekend
-- [https://uitgaanskaart.nl/cafe/vlieland](https://uitgaanskaart.nl/cafe/vlieland) — achtergrond; Grand Café De Oude Stoep, Island Pub, ZeeVaert Bar & Rotisserie; bronveld gecontroleerd: onbekend
+- [https://uitgaanskaart.nl/cafe/vlieland](https://uitgaanskaart.nl/cafe/vlieland) — achtergrond; Grand Café De Oude Stoep, Island Pub, ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/west-terschelling](https://uitgaanskaart.nl/cafe/west-terschelling) — achtergrond; Café 't Zwaantje, Café de Zomer, Café Lieman, De Vijfpoort, Eetcafé de Dammesaan (+ 6 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/wolvega](https://uitgaanskaart.nl/cafe/wolvega) — achtergrond; Bar Suc 6, Café De Babbel, Café De Landerije, Café De Schieve Deure, Eetcafé Wever (+ 1 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/dokkum](https://uitgaanskaart.nl/dokkum) — achtergrond; Bar Dancing De Ponderosa, Café De Swalker, Club33, Grand Café Abdij Dokkum, Grand Café de Waegh (+ 3 meer); bronveld gecontroleerd: onbekend
@@ -1429,8 +1460,18 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### visitwadden.nl
 
 - [https://www.visitwadden.nl/nl/bezoeken/](https://www.visitwadden.nl/nl/bezoeken/) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
+- [https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep](https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep) — achtergrond; Grand Café De Oude Stoep; bronveld gecontroleerd: onbekend
 - [https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan](https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan) — achtergrond, openingstijden, sluitingstijden; Halve Maan; bronveld gecontroleerd: 2026-10-29
 - [https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe](https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe) — achtergrond; It Reade Hynder; bronveld gecontroleerd: onbekend
+
+### vlieland.site
+
+- [https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie](https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie) — achtergrond; ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
+
+### vvvterschelling.nl
+
+- [https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/](https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/) — achtergrond; Eetcafé Storm; bronveld gecontroleerd: onbekend
+- [https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/](https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/) — achtergrond; Grand Café Restaurant Zeezicht; bronveld gecontroleerd: onbekend
 
 ### waterlandvanfriesland.nl
 
@@ -1446,6 +1487,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### werkenbijutrechtsehorecagroep.nl
 
 - [https://werkenbijutrechtsehorecagroep.nl/contact/](https://werkenbijutrechtsehorecagroep.nl/contact/) — openingstijden, sluitingstijden; Club Claar; bronveld gecontroleerd: 2026-10-26
+
+### westcordhotels.nl
+
+- [https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/](https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/) — achtergrond, openingstijden, sluitingstijden; ZeeVaert Bistrobar; bronveld gecontroleerd: 2026-10-30
+- [https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/](https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/) — achtergrond, website; ZeeVaert Bistrobar; bronveld gecontroleerd: 2026-10-30
 
 ### wijnbar-kurk.nl
 
@@ -1464,6 +1510,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://workum.nl/de/aktivitat/restaurant-de-smidte/](https://workum.nl/de/aktivitat/restaurant-de-smidte/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
 - [https://workum.nl/frl/aktiviteit/restaurant-de-smidte/](https://workum.nl/frl/aktiviteit/restaurant-de-smidte/) — achtergrond; Café Restaurant De Smidte; bronveld gecontroleerd: onbekend
+
+### zeezicht-terschelling.nl
+
+- [https://zeezicht-terschelling.nl/](https://zeezicht-terschelling.nl/) — achtergrond, openingstijden, sluitingstijden, website; Grand Café Restaurant Zeezicht; bronveld gecontroleerd: 2026-10-30
 
 ### zoek.officielebekendmakingen.nl
 
