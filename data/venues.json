@@ -21564,6 +21564,96 @@
         "https://waddenweer.nl/adressen/kaap-hoorn-terschelling/"
       ],
       "original_status": "Eigen actuele openingstijdenpagina bevestigt di–zo 10–17, ma dicht, 01-11 uitzonderlijk dicht; menupagina bevestigt bier/wijn."
+    },
+    {
+      "id": "de-rustende-jager-formerum-20261030",
+      "name": "De Rustende Jager",
+      "type": "Eet- en terrascafé / livemuziek",
+      "address": "Molenweg 2",
+      "city": "Formerum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site noemt eetcafé, terrascafé en regelmatig live muziek, 365 dagen open voor iedereen; geen verplichte maaltijd vermeld.",
+      "alcohol": "Untappd toont deze locatie als verkooppunt voor Terschellinger bier; eigen openbare menukaart is een eetkaart en noemt geen drankassortiment, dus actuele drankenlijst niet primair geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen website: 365 dagen per jaar dagelijks 11–23; keuken tot 21:30, geen laatste toegang vermeld.",
+      "closing_source": "https://www.rustendejager.com/",
+      "closing_notes": "30-10-2026: eigen website bevestigt adres Molenweg 2, eetcafé, openbare toegankelijkheid, dagelijks 11–23 en keuken tot 21:30; https://www.rustendejager.com/menu/ is eetkaart zonder expliciete drankregels. Untappd https://untappd.com/Schoemrakker/beer vermeldt De Rustende Jager Formerum als verkooppunt; geen eigen actuele alcoholkaart gevonden. Laatste toegang onbekend.",
+      "features": "D0 Terschelling / Formerum; terrascafé en livemuziek",
+      "website": "https://www.rustendejager.com/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.rustendejager.com/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.rustendejager.com/menu/",
+        "https://untappd.com/Schoemrakker/beer",
+        "https://op-terschelling.nl/-/lijst.restaurant"
+      ],
+      "original_status": "Eigen site bevestigt actuele exploitatie en 11–23; alcohol via locatievermelding Untappd, actuele eigen drankenkaart nog niet uitgelezen."
+    },
+    {
+      "id": "brasserie-de-hildenberg-appelscha-20261030",
+      "name": "Brasserie de Hildenberg",
+      "type": "Brasserie / terras",
+      "address": "Gruun 3",
+      "city": "Appelscha",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen nieuwe website biedt vrije reservering en welkom voor een drankje met uitzicht op golfbaan; niet uitsluitend voor golfers of besloten partijen.",
+      "alcohol": "Eigen website vermeldt drankje en champagne-icoon, maar actuele expliciete bier-/wijnkaart niet geverifieerd; daarom nog te controleren.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Nieuwe exploitantwebsite meldt dagelijks welkom vanaf 10:00, geen einduren; keuken vanaf 12:00, reserveren tot 19:30 is geen cafésluiting. In november–maart aangepaste uren mogelijk.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.brasseriedehildenberg.nl/ en https://brasseriedehildenberg.nl/index.php/reserveren tonen actuele Brasserie de Hildenberg op Gruun 3, dagelijks vanaf 10:00, keuken vanaf 12:00, reserveren tot 19:30, naseizoen afwijkend. Niet verwarren met oude Grand Café De Hildenberg op Gruun 5: https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha beschrijft voormalig eigenaar Johan Herder die nu catering doet. Zonder expliciete actuele alcoholkaart of sluituur blijft dit record 'Nog te controleren'; geen oude gidsuren overgenomen.",
+      "features": "D0 Ooststellingwerf / Appelscha; nieuwe brasserie Gruun 3, opvolging oude Grand Café",
+      "website": "https://www.brasseriedehildenberg.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.brasseriedehildenberg.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://brasseriedehildenberg.nl/index.php/reserveren",
+        "https://brasseriedehildenberg.nl/index.php/kerst",
+        "https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha"
+      ],
+      "original_status": "Eigen nieuwe site bevestigt actuele exploitatie en dagelijks vanaf 10:00; sluiting en expliciete actuele alcoholkaart onbekend, oude Grand Café-data niet hergebruikt."
     }
   ],
   "admission_policies": [
