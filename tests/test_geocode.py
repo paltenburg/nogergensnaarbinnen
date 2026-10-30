@@ -23,6 +23,20 @@ class ExactBagAddressTests(unittest.TestCase):
         with patch.object(geocode, "request", return_value=candidates):
             return geocode.geo({"address": address, "city": "Sneek"})
 
+    def test_range_is_not_silently_mapped_to_first_number(self):
+        self.assertIsNone(geocode.addr_parts("Harinxmastrjitte 69-73"))
+        self.assertIsNone(geocode.addr_parts("Greate Buorren 4–8"))
+        location, reason = self.locate("Kleinzand 1-3", [candidate(1)])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-number-or-unparseable-address")
+
+    def test_numeric_addition_is_not_silently_discarded(self):
+        self.assertIsNone(geocode.addr_parts("Kleinzand 1-001"))
+
+    def test_simple_number_and_letter_still_parse(self):
+        self.assertEqual(geocode.addr_parts("Kleinzand 4B"), ("Kleinzand", 4, "b"))
+        self.assertEqual(geocode.addr_parts("Kleinzand 1"), ("Kleinzand", 1, ""))
+
     def test_plain_number_skips_a_and_uses_exact_number(self):
         location, reason = self.locate("Kleinzand 1", [
             candidate(1, "A"), candidate(1, ""), candidate(1, "B"),
