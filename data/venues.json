@@ -23149,6 +23149,51 @@
         "https://www.allebiz.nl/caf%C3%A9-de-boeier-0515-443-461"
       ],
       "original_status": "Eigen site bevestigt exploitatie en opening/sluiting; geen exact geverifieerde BAG-ingang."
+    },
+    {
+      "id": "hotel-eetcafe-t-duke-luk-feanwalden-20261031",
+      "name": "Hotel Eetcafé 't Dûke Lûk",
+      "type": "Hotel-eetcafé / dorpscafé",
+      "address": "De Wâl 13",
+      "city": "Feanwâlden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt bezoekers uit om los te borrelen in het eetcafé; geen hotelovernachting of groepsreservering vereist.",
+      "alcohol": "Eigen website vermeldt expliciet wijn, bier en regionaal speciaalbier, plus los borrelen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen openingspagina: ma–do 14:00–22:00, vr–zo 12:00–22:00. Keukensluiting 20:00/20:30 is afzonderlijk, niet als cafésluiting gebruikt.",
+      "closing_source": "https://www.dukeluk.nl/openingstijden/",
+      "closing_notes": "31-10-2026: eigen https://www.dukeluk.nl/openingstijden/ geeft ma–do 14–22 en vr–zo 12–22, met apart vroeger sluitende keuken; https://www.dukeluk.nl/eten-drinken/ bevestigt losse borrel en bier/wijn. Eigen contact https://www.dukeluk.nl/contact/ noemt De Wâl 13, 9269 RA Feanwâlden; footer gebruikt dorpskern Feanwâldsterwâl. BAG-afgeleide https://www.allecijfers.nl/weg/de-wal-feanwalden/ bevestigt De Wâl 13 als bijeenkomstfunctie, 13A als aparte logiesfunctie. Geocoder moet exact 13 matchen, geen 13A. Laatste toegang onbekend; seizoens-/evenementafwijkingen niet afzonderlijk bevestigd.",
+      "features": "D0 Dantumadiel / Feanwâldsterwâl; café en hotel hebben verschillende BAG-suffixen",
+      "website": "https://www.dukeluk.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://www.dukeluk.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.dukeluk.nl/eten-drinken/",
+        "https://www.dukeluk.nl/contact/",
+        "https://www.allecijfers.nl/weg/de-wal-feanwalden/"
+      ],
+      "original_status": "Eigen actuele site met publieke borrel, alcohol en exact weekrooster; fysieke entree niet afzonderlijk op locatie getest."
     }
   ],
   "admission_policies": [
