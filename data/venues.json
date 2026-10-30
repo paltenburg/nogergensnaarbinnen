@@ -1063,34 +1063,47 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
-      "selection": "Voorlopig",
+      "access": "Historische eventdiscotheek; huidige exploitatie niet aangetoond. Een bedrijvengids markeert Bassment als gesloten; op dit adres exploiteert ULU Bar aantoonbaar in 2026.",
+      "alcohol": "Historisch clubaanbod; geen actueel Bassment-alcoholaanbod bevestigd.",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
+      "closing_quality": "Historische Bassment-uren niet meer geldig; locatie gesloten volgens bedrijfsvermelding. Geen sluitingsdatum vastgesteld.",
       "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
-      "features": "Clubavonden; actuele programmering controleren",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: https://www.allebiz.nl/bassment-utrecht-06-20803094 noemt Bassment Utrecht op Voorstraat 102 expliciet 'Deze lijst is gesloten'; https://partyflock.nl/city/2/locations toont als laatste Bassment-evenement 14-12-2024. https://ulubar.nl/ bevestigt dat ULU Bar in oktober 2026 op hetzelfde adres reguliere horeca en evenementen exploiteert. Of Bassment ooit in een afzonderlijke verdieping zat en de exacte sluitingsdatum zijn niet onafhankelijk vastgesteld. Oude Bassment-gidsuren (bijv. https://www.cylex.nl/bedrijf/bassment-utrecht-13021966.html) zijn niet geldig voor huidige publieke toegang. ID behouden; selectie Nee, niet tonen als open.",
+      "features": "Historische nachtclub/eventlocatie; gesloten volgens actuele gids; ULU Bar is huidige horecazaak op adres",
       "website": "",
       "other_sources": [
-        "https://www.uitagenda.nl/index.php/utrecht"
+        "https://www.uitagenda.nl/index.php/utrecht",
+        "https://www.allebiz.nl/bassment-utrecht-06-20803094",
+        "https://partyflock.nl/city/2/locations",
+        "https://ulubar.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
+      "original_status": "Bassment historisch, huidige openstelling niet bevestigd; gesloten bedrijfsvermelding 31-10-2026, ULU Bar actief op hetzelfde adres.",
       "geo": {
         "lat": 52.0952308,
         "lon": 5.1229663,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 102, 3512AV Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
+      },
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "beatrix-theater-royal-bar-6a50c76",
