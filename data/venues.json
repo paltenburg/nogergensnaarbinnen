@@ -21209,6 +21209,95 @@
         "https://bestrestos.nl/restaurant/eetcafe-de-buurvrouw-drachten-3279"
       ],
       "original_status": "Exploitant bevestigt publieke alcoholhoreca en beginuren; café-eindtijden onbekend door conflicterende gidsen."
+    },
+    {
+      "id": "de-dwaler-bakkeveen-20261030",
+      "name": "De Dwaler",
+      "type": "Pannenkoekenrestaurant / borrel",
+      "address": "Mjûmster Wei 16c",
+      "city": "Bakkeveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële site en dranken-/borrelkaart bevestigen reguliere publieksfunctie, terras en losse borrelhapjes; voor groepsarrangementen gelden aparte voorwaarden.",
+      "alcohol": "Eigen menukaart juni 2026 vermeldt tapbier (Jupiler, Maallust), flessenbier en wijn per glas.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Eigen menukaart juni 2026: ma–do 10:00–18:00, vr–zo 10:00–21:00; schoolvakanties dagelijks 10:00–21:00. Tijdelijke sluitingsdagen in oktober kunnen afwijken; weekrooster is NIET geldig voor elke vakantiedag.",
+      "closing_source": "https://dedwaler.frl/wp-content/uploads/2026/06/Menukaart-de-Dwaler.pdf",
+      "closing_notes": "30-10-2026: eigen homepage meldt uitzonderlijk gesloten maandag 19/26 en dinsdag 20/27 oktober; deze data liggen achter de controledatum. Voor schoolvakanties eigen afwijkend rooster dagelijks tot 21:00. De app heeft geen datumgebonden seizoenrooster; gewone niet-vakantieweek als basis, afwijking expliciet vermelden. Laatste toegang onbekend; borrelhapjes tot 21:00 zijn geen toegangsgrens.",
+      "features": "D0 Opsterland / Bakkeveen; borrel en terras; vakantierooster wijkt af",
+      "website": "https://dedwaler.frl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://dedwaler.frl/wp-content/uploads/2026/06/Menukaart-de-Dwaler.pdf",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://dedwaler.frl/",
+        "https://dedwaler.frl/wp-content/uploads/2025/04/Menu-De-Dwaler.pdf"
+      ],
+      "original_status": "Eigen website bevestigt exploitatie, adres, bier/wijn, weekuren en schoolvakantie-uitzondering; geen laatste toegang."
+    },
+    {
+      "id": "eetcafe-bar-hulst-appelscha-20261030",
+      "name": "Eetcafé Bar Hulst",
+      "type": "Eetcafé / bar / terras",
+      "address": "Vaart Zuidzijde 9",
+      "city": "Appelscha",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt bezoekers uit om los een drankje op (tuin)terras te doen, zonder reservering of maaltijdverplichting; ook biljarten en darten.",
+      "alcohol": "Eigen cocktailkaart vermeldt onder andere Pina Colada met rum, cocktail met Baileys en cocktails met wodka.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "17:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Exploitant publiceert gezamenlijke openingstijden 'eetcafé en snackbar'; geen afzonderlijk later barrooster vermeld. Externe gids noemt tot 02:00 vr/za, niet overgenomen.",
+      "closing_source": "https://eetcafebarhulst.nl/Openingstijden",
+      "closing_notes": "30-10-2026: officiële eetcafé- en snackbaruren ma 17–20, di–zo 10–22. De site specificeert geen aparte barsluiting; indien de bar later open is, is dat niet bevestigd. Externe https://menukaart.menu/restaurants/appelscha-1/cafe-restautant-hulst-appelscha geeft afwijkende vr/za 02:00, niet gebruikt. Laatste toegang onbekend.",
+      "features": "D0 Ooststellingwerf / Appelscha; cocktails en sportkijken",
+      "website": "https://eetcafebarhulst.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://eetcafebarhulst.nl/Openingstijden",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://eetcafebarhulst.nl/",
+        "https://eetcafebarhulst.nl/Smooties-en-Cocktails",
+        "https://www.fietsnetwerk.nl/knooppunt/eetcafe-bar-hulst-appelscha/"
+      ],
+      "original_status": "Eigen site bevestigt openbare borrel, cocktailkaart, adres en weekrooster; latere afzonderlijke baropening en laatste toegang onbekend."
     }
   ],
   "admission_policies": [
