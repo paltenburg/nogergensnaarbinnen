@@ -10787,7 +10787,13 @@
         "za": "11:00",
         "zo": "16:00"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.198728,
+        "lon": 5.7921203,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Prins Hendrikstraat 14, 8911BK Leeuwarden"
+      }
     },
     {
       "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
@@ -10829,7 +10835,13 @@
         "za": "12:00",
         "zo": "19:00"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.2004794,
+        "lon": 5.7925442,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oude Doelesteeg 6, 8911CA Leeuwarden"
+      }
     },
     {
       "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
@@ -17432,7 +17444,13 @@
         "https://www.pizzeria-debranding.nl/contact",
         "https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html"
       ],
-      "original_status": "Officiële website actief; daadwerkelijke publieke exploitatie op controledatum niet ter plaatse bevestigd"
+      "original_status": "Officiële website actief; daadwerkelijke publieke exploitatie op controledatum niet ter plaatse bevestigd",
+      "geo": {
+        "lat": 53.4518022,
+        "lon": 5.8019049,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Strandweg 42, 9164KB Buren"
+      }
     },
     {
       "id": "restaurant-stranders-buren-ameland-b7e5d3a",
@@ -17473,7 +17491,13 @@
         "https://restaurantstranders.nl/contact/",
         "https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306"
       ],
-      "original_status": "Actuele eigen website met oktoberberichten, geen fysieke openingscontrole"
+      "original_status": "Actuele eigen website met oktoberberichten, geen fysieke openingscontrole",
+      "geo": {
+        "lat": 53.4555523,
+        "lon": 5.8035217,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Strandweg 71, 9164KA Buren"
+      }
     },
     {
       "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",

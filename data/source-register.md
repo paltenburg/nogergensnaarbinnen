@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**536 geregistreerde bron-URL's**, 275 domeinen; gekoppeld aan **412 locaties**.
+**556 geregistreerde bron-URL's**, 283 domeinen; gekoppeld aan **415 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -46,16 +46,16 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | centrumutrecht.nl | 57 | 54 |
 | uitgaanskaart.nl | 21 | 200 |
 | ontdek-utrecht.nl | 19 | 36 |
+| friesland.nl | 12 | 12 |
+| visitleeuwarden.com | 11 | 10 |
 | debuik.nl | 10 | 16 |
-| friesland.nl | 10 | 10 |
-| visitleeuwarden.com | 9 | 8 |
+| allebiz.nl | 8 | 8 |
 | allecijfers.nl | 8 | 8 |
+| hfsfreelancers.nl | 8 | 8 |
 | uitutrecht.com | 8 | 132 |
 | waterlandvanfriesland.nl | 8 | 7 |
-| allebiz.nl | 7 | 7 |
 | clubbasis.nl | 6 | 1 |
 | cylex.nl | 6 | 6 |
-| hfsfreelancers.nl | 6 | 6 |
 | grootsneek.nl | 5 | 5 |
 | visitwadden.nl | 5 | 4 |
 | bestrestos.nl | 4 | 4 |
@@ -70,10 +70,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | findglocal.com | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
 | paddyoryan.frl | 3 | 1 |
+| sjoerd-ameland.nl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
 | amicaalgrou.nl | 2 | 1 |
 | beersbarrels.nl | 2 | 2 |
 | cafecobus.nl | 2 | 1 |
+| cafedeprinsleeuwarden.nl | 2 | 1 |
 | cafederus.nl | 2 | 1 |
 | cafedestad.nl | 2 | 1 |
 | cafefokks.nl | 2 | 1 |
@@ -109,11 +111,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | margiesutrecht.nl | 2 | 1 |
 | moos-utrecht.nl | 2 | 1 |
 | ondernemendsneek.nl | 2 | 2 |
+| pizzeria-debranding.nl | 2 | 1 |
 | post-plaza.nl | 2 | 1 |
 | puuroost-utrecht.nl | 2 | 1 |
 | quignon.nl | 2 | 1 |
 | restaurant273.com | 2 | 1 |
 | restaurantguru.com | 2 | 2 |
+| restaurantstranders.nl | 2 | 1 |
 | rooienel.nl | 2 | 1 |
 | sevenutrecht.nl | 2 | 1 |
 | sevilla-utrecht.nl | 2 | 1 |
@@ -268,9 +272,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | oudaen.nl | 1 | 1 |
 | oudepierement.nl | 1 | 1 |
 | ouwedikkedries.nl | 1 | 1 |
+| ouwestoep.nl | 1 | 1 |
 | paloma-utrecht.nl | 1 | 1 |
 | pandje.com | 1 | 1 |
 | partyflock.nl | 1 | 1 |
+| persbureau-ameland.nl | 1 | 1 |
 | poolenutrecht.nl | 1 | 1 |
 | preview.restaurantconcours.nl | 1 | 1 |
 | restaurant-broei.com | 1 | 1 |
@@ -298,6 +304,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | themick.nl | 1 | 1 |
 | toque.nl | 1 | 1 |
 | toxbar.nl | 1 | 1 |
+| tripadvisor.de | 1 | 1 |
 | tripadvisor.nl | 1 | 1 |
 | ubicautrecht.nl | 1 | 1 |
 | uitheerenveen.com | 1 | 0 |
@@ -310,6 +317,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | vandestreekbier.nl | 1 | 2 |
 | visitutrechtregion.com | 1 | 1 |
 | vlieland.site | 1 | 1 |
+| vriendenvanleeuwarden.nl | 1 | 1 |
 | vvvameland.com | 1 | 1 |
 | waze.com | 1 | 1 |
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
@@ -345,6 +353,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388](https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388) — achtergrond; Café De Twin; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522](https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522) — achtergrond; Café 't Singeltje; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/de-toeter-058-215-7976](https://www.allebiz.nl/de-toeter-058-215-7976) — achtergrond; De Toeter; bronveld gecontroleerd: onbekend
+- [https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605](https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605) — achtergrond, sluitingstijden; Het Wapen van Leeuwarden; bronveld gecontroleerd: 2026-10-30
 - [https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666](https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666) — achtergrond; Muziekcafé Scooter's; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/the-rooster](https://www.allebiz.nl/the-rooster) — achtergrond; Café Us Mem; bronveld gecontroleerd: onbekend
 
@@ -516,6 +525,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafedepotdeksel.nl
 
 - [https://www.cafedepotdeksel.nl/](https://www.cafedepotdeksel.nl/) — onderzoeksnotitie, openingstijden, sluitingstijden, website; De Potdeksel; bronveld gecontroleerd: 2026-10-26
+
+### cafedeprinsleeuwarden.nl
+
+- [https://cafedeprinsleeuwarden.nl/](https://cafedeprinsleeuwarden.nl/) — website; De Prins 'H.'; bronveld gecontroleerd: onbekend
+- [https://cafedeprinsleeuwarden.nl/contact/](https://cafedeprinsleeuwarden.nl/contact/) — achtergrond, sluitingstijden; De Prins 'H.'; bronveld gecontroleerd: 2026-10-30
 
 ### cafederat.nl
 
@@ -955,7 +969,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.friesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond, sluitingstijden; Eetcafé De Pleats; bronveld gecontroleerd: 2026-10-29
 - [https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar](https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.friesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
+- [https://www.friesland.nl/nl/locaties/2922153309/strandpaviljoen-sjoerd](https://www.friesland.nl/nl/locaties/2922153309/strandpaviljoen-sjoerd) — achtergrond; Strandpaviljoen Sjoerd; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels](https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels) — achtergrond; Grand Café Levels; bronveld gecontroleerd: onbekend
+- [https://www.friesland.nl/nl/locaties/4177371018/vrienden-van-leeuwarden-1](https://www.friesland.nl/nl/locaties/4177371018/vrienden-van-leeuwarden-1) — achtergrond; Vrienden van Leeuwarden; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit](https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit) — achtergrond; Restaurant De Kajuit; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk](https://www.friesland.nl/nl/locaties/801543262/espressobar-smuk) — achtergrond; Espressobar Smûk; bronveld gecontroleerd: onbekend
 - [https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek](https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek) — achtergrond, openingstijden, sluitingstijden; Café De Spoek; bronveld gecontroleerd: 2026-10-29
@@ -1030,10 +1046,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### hfsfreelancers.nl
 
+- [https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/het-wapen-van-leeuwarden](https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/het-wapen-van-leeuwarden) — achtergrond; Het Wapen van Leeuwarden; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters](https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters) — achtergrond; Muziekcafé Scooter's; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat](https://www.hfsfreelancers.nl/en/locaties/sneek/bars/t-oude-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht](https://www.hfsfreelancers.nl/en/locaties/utrecht/bars/kweekvijver-utrecht) — achtergrond; KweekVijver Utrecht; bronveld gecontroleerd: onbekend
+- [https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306](https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306) — achtergrond; Restaurant StrAnders; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem](https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem) — achtergrond; Café Us Mem; bronveld gecontroleerd: onbekend
 - [https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe](https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe) — achtergrond; Elzibar; bronveld gecontroleerd: onbekend
 
@@ -1277,6 +1295,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://ouwedikkedries.nl/](https://ouwedikkedries.nl/) — website; Ouwe Dikke Dries; bronveld gecontroleerd: 2026-10-26
 
+### ouwestoep.nl
+
+- [https://www.ouwestoep.nl/](https://www.ouwestoep.nl/) — sluitingstijden, website; Café De Ouwe Stoep; bronveld gecontroleerd: 2026-10-30
+
 ### paddyoryan.frl
 
 - [https://paddyoryan.frl/](https://paddyoryan.frl/) — achtergrond, openingstijden, sluitingstijden, website; Paddy O'Ryan; bronveld gecontroleerd: 2026-10-30
@@ -1294,6 +1316,15 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### partyflock.nl
 
 - [https://partyflock.nl/location/13782/archive](https://partyflock.nl/location/13782/archive) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
+
+### persbureau-ameland.nl
+
+- [https://www.persbureau-ameland.nl/paviljoen-sjoerd-maakt-zich-klaar-voor-nieuw-seizoen](https://www.persbureau-ameland.nl/paviljoen-sjoerd-maakt-zich-klaar-voor-nieuw-seizoen) — achtergrond; Strandpaviljoen Sjoerd; bronveld gecontroleerd: onbekend
+
+### pizzeria-debranding.nl
+
+- [https://www.pizzeria-debranding.nl/](https://www.pizzeria-debranding.nl/) — website; Pizzeria De Branding; bronveld gecontroleerd: onbekend
+- [https://www.pizzeria-debranding.nl/contact](https://www.pizzeria-debranding.nl/contact) — achtergrond, sluitingstijden; Pizzeria De Branding; bronveld gecontroleerd: 2026-10-30
 
 ### poolcafebigben.nl
 
@@ -1351,6 +1382,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://restaurantguru.com/Cafe-t-Skutsje-Sneek](https://restaurantguru.com/Cafe-t-Skutsje-Sneek) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://restaurantguru.com/De-Lachende-Koe-Sneek](https://restaurantguru.com/De-Lachende-Koe-Sneek) — achtergrond; Eetcafé De Lachende Koe; bronveld gecontroleerd: onbekend
 
+### restaurantstranders.nl
+
+- [https://restaurantstranders.nl/](https://restaurantstranders.nl/) — website; Restaurant StrAnders; bronveld gecontroleerd: onbekend
+- [https://restaurantstranders.nl/contact/](https://restaurantstranders.nl/contact/) — achtergrond, sluitingstijden; Restaurant StrAnders; bronveld gecontroleerd: 2026-10-30
+
 ### restaurantwest.nl
 
 - [https://restaurantwest.nl/](https://restaurantwest.nl/) — sluitingstijden, website; Restaurant West; bronveld gecontroleerd: 2026-10-25
@@ -1389,6 +1425,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://sevilla-utrecht.nl/](https://sevilla-utrecht.nl/) — website; Sevilla Utrecht; bronveld gecontroleerd: onbekend
 - [https://sevilla-utrecht.nl/contact/](https://sevilla-utrecht.nl/contact/) — openingstijden, sluitingstijden; Sevilla Utrecht; bronveld gecontroleerd: 2026-10-26
+
+### sjoerd-ameland.nl
+
+- [https://www.sjoerd-ameland.nl/](https://www.sjoerd-ameland.nl/) — website; Strandpaviljoen Sjoerd; bronveld gecontroleerd: onbekend
+- [https://www.sjoerd-ameland.nl/menukaart/](https://www.sjoerd-ameland.nl/menukaart/) — achtergrond; Strandpaviljoen Sjoerd; bronveld gecontroleerd: onbekend
+- [https://www.sjoerd-ameland.nl/openingstijden-en-contact/](https://www.sjoerd-ameland.nl/openingstijden-en-contact/) — sluitingstijden; Strandpaviljoen Sjoerd; bronveld gecontroleerd: 2026-10-30
 
 ### sneek.nl
 
@@ -1497,6 +1539,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://toxbar.nl/](https://toxbar.nl/) — achtergrond, openingstijden, sluitingstijden, website; Tox Bar; bronveld gecontroleerd: 2026-10-30
 
+### tripadvisor.de
+
+- [https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html](https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html) — achtergrond; Pizzeria De Branding; bronveld gecontroleerd: onbekend
+
 ### tripadvisor.nl
 
 - [https://www.tripadvisor.nl/Restaurant_Review-g652194-d19484820-Reviews-Grand_Cafe_Brood-Nes_Ameland_Friesland_Province.html](https://www.tripadvisor.nl/Restaurant_Review-g652194-d19484820-Reviews-Grand_Cafe_Brood-Nes_Ameland_Friesland_Province.html) — achtergrond; Grand Café Brood Ameland; bronveld gecontroleerd: onbekend
@@ -1603,6 +1649,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.visitleeuwarden.com/locaties/1361140994/bar-sybs](https://www.visitleeuwarden.com/locaties/1361140994/bar-sybs) — achtergrond; Bar Sybs; bronveld gecontroleerd: onbekend
 - [https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus](https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus) — achtergrond; Café De Rus; bronveld gecontroleerd: onbekend
 - [https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter](https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter) — achtergrond; De Toeter; bronveld gecontroleerd: onbekend
+- [https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1](https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1) — achtergrond; Vrienden van Leeuwarden; bronveld gecontroleerd: onbekend
+- [https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep](https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep) — achtergrond; Café De Ouwe Stoep; bronveld gecontroleerd: onbekend
 
 ### visitutrechtregion.com
 
@@ -1619,6 +1667,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### vlieland.site
 
 - [https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie](https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie) — achtergrond; ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
+
+### vriendenvanleeuwarden.nl
+
+- [https://vriendenvanleeuwarden.nl/](https://vriendenvanleeuwarden.nl/) — sluitingstijden, website; Vrienden van Leeuwarden; bronveld gecontroleerd: 2026-10-30
 
 ### vvvameland.com
 

@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 412,
-    "source_urls": 536,
-    "domains": 275,
-    "direct_website_fields": 195
+    "venues": 415,
+    "source_urls": 556,
+    "domains": 283,
+    "direct_website_fields": 201
   },
   "discovery_sites": [
     {
@@ -159,22 +159,32 @@
       "linked_venues": 36
     },
     {
+      "domain": "friesland.nl",
+      "source_pages": 12,
+      "linked_venues": 12
+    },
+    {
+      "domain": "visitleeuwarden.com",
+      "source_pages": 11,
+      "linked_venues": 10
+    },
+    {
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
     },
     {
-      "domain": "friesland.nl",
-      "source_pages": 10,
-      "linked_venues": 10
-    },
-    {
-      "domain": "visitleeuwarden.com",
-      "source_pages": 9,
+      "domain": "allebiz.nl",
+      "source_pages": 8,
       "linked_venues": 8
     },
     {
       "domain": "allecijfers.nl",
+      "source_pages": 8,
+      "linked_venues": 8
+    },
+    {
+      "domain": "hfsfreelancers.nl",
       "source_pages": 8,
       "linked_venues": 8
     },
@@ -189,22 +199,12 @@
       "linked_venues": 7
     },
     {
-      "domain": "allebiz.nl",
-      "source_pages": 7,
-      "linked_venues": 7
-    },
-    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
     },
     {
       "domain": "cylex.nl",
-      "source_pages": 6,
-      "linked_venues": 6
-    },
-    {
-      "domain": "hfsfreelancers.nl",
       "source_pages": 6,
       "linked_venues": 6
     },
@@ -279,6 +279,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "sjoerd-ameland.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "uitagenda.nl",
       "source_pages": 3,
       "linked_venues": 74
@@ -295,6 +300,11 @@
     },
     {
       "domain": "cafecobus.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafedeprinsleeuwarden.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -474,6 +484,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "pizzeria-debranding.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "post-plaza.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -497,6 +512,11 @@
       "domain": "restaurantguru.com",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "restaurantstranders.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "rooienel.nl",
@@ -1269,6 +1289,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "ouwestoep.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "paloma-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1280,6 +1305,11 @@
     },
     {
       "domain": "partyflock.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "persbureau-ameland.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1419,6 +1449,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "tripadvisor.de",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "tripadvisor.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1475,6 +1510,11 @@
     },
     {
       "domain": "vlieland.site",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vriendenvanleeuwarden.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1745,6 +1785,34 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+          "name": "Het Wapen van Leeuwarden",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -3313,6 +3381,58 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://cafedeprinsleeuwarden.nl/",
+      "domain": "cafedeprinsleeuwarden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-prins-h-leeuwarden-bde2dfe",
+          "name": "De Prins 'H.'",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafedeprinsleeuwarden.nl/contact/",
+      "domain": "cafedeprinsleeuwarden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-prins-h-leeuwarden-bde2dfe",
+          "name": "De Prins 'H.'",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.cafederat.nl/",
@@ -8346,6 +8466,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/2922153309/strandpaviljoen-sjoerd",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+          "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -8358,6 +8502,30 @@
         {
           "id": "grand-cafe-levels-harlingen-fe09531",
           "name": "Grand Café Levels",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/4177371018/vrienden-van-leeuwarden-1",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+          "name": "Vrienden van Leeuwarden",
           "roles": [
             "achtergrond"
           ],
@@ -9096,6 +9264,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/het-wapen-van-leeuwarden",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
+          "name": "Het Wapen van Leeuwarden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters",
       "domain": "hfsfreelancers.nl",
       "first_registered_on": "2026-10-30",
@@ -9180,6 +9372,30 @@
         {
           "id": "kweekvijver-utrecht-c5d2c85",
           "name": "KweekVijver Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-stranders-buren-ameland-b7e5d3a",
+          "name": "Restaurant StrAnders",
           "roles": [
             "achtergrond"
           ],
@@ -11770,6 +11986,34 @@
       "needs_review": false
     },
     {
+      "url": "https://www.ouwestoep.nl/",
+      "domain": "ouwestoep.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+          "name": "Café De Ouwe Stoep",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://paddyoryan.frl/",
       "domain": "paddyoryan.frl",
       "first_registered_on": "2026-10-30",
@@ -11936,6 +12180,82 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.persbureau-ameland.nl/paviljoen-sjoerd-maakt-zich-klaar-voor-nieuw-seizoen",
+      "domain": "persbureau-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+          "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.pizzeria-debranding.nl/",
+      "domain": "pizzeria-debranding.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
+          "name": "Pizzeria De Branding",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.pizzeria-debranding.nl/contact",
+      "domain": "pizzeria-debranding.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
+          "name": "Pizzeria De Branding",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12463,6 +12783,58 @@
       "needs_review": true
     },
     {
+      "url": "https://restaurantstranders.nl/",
+      "domain": "restaurantstranders.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-stranders-buren-ameland-b7e5d3a",
+          "name": "Restaurant StrAnders",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://restaurantstranders.nl/contact/",
+      "domain": "restaurantstranders.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-stranders-buren-ameland-b7e5d3a",
+          "name": "Restaurant StrAnders",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://restaurantwest.nl/",
       "domain": "restaurantwest.nl",
       "first_registered_on": "2026-10-26",
@@ -12786,6 +13158,80 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.sjoerd-ameland.nl/",
+      "domain": "sjoerd-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+          "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.sjoerd-ameland.nl/menukaart/",
+      "domain": "sjoerd-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+          "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.sjoerd-ameland.nl/openingstijden-en-contact/",
+      "domain": "sjoerd-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+          "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -13778,6 +14224,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html",
+      "domain": "tripadvisor.de",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
+          "name": "Pizzeria De Branding",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -18642,6 +19112,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+          "name": "Vrienden van Leeuwarden",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
+          "name": "Café De Ouwe Stoep",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus",
       "domain": "visitutrechtregion.com",
       "first_registered_on": "2026-10-26",
@@ -18805,6 +19323,34 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vriendenvanleeuwarden.nl/",
+      "domain": "vriendenvanleeuwarden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
+          "name": "Vrienden van Leeuwarden",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -19641,10 +20187,6 @@
         "name": "Café De Otterbar"
       },
       {
-        "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
-        "name": "Café De Ouwe Stoep"
-      },
-      {
         "id": "cafe-de-pastorie-leeuwarden-ca96efd",
         "name": "Café de Pastorie"
       },
@@ -19827,10 +20369,6 @@
       {
         "id": "de-prediker-20261029",
         "name": "De Prediker"
-      },
-      {
-        "id": "de-prins-h-leeuwarden-bde2dfe",
-        "name": "De Prins 'H.'"
       },
       {
         "id": "de-stadsgenoot-c71911a",
@@ -20281,10 +20819,6 @@
         "name": "Vondels Chefs Bar"
       },
       {
-        "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
-        "name": "Vrienden van Leeuwarden"
-      },
-      {
         "id": "was-3ef3647",
         "name": "WAS."
       },
@@ -20713,10 +21247,6 @@
       {
         "id": "de-kroeg-heerenveen-9b76232",
         "name": "De Kroeg"
-      },
-      {
-        "id": "de-prins-h-leeuwarden-bde2dfe",
-        "name": "De Prins 'H.'"
       },
       {
         "id": "de-toeter-leeuwarden-f8ed332",
@@ -21406,7 +21936,7 @@
       {
         "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
         "name": "Café De Ouwe Stoep",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist."
       },
       {
         "id": "cafe-de-pastorie-leeuwarden-ca96efd",
@@ -21666,7 +22196,7 @@
       {
         "id": "de-prins-h-leeuwarden-bde2dfe",
         "name": "De Prins 'H.'",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen contactpagina 30-10-2026: ma–wo 11–02, do 11–03, vr/za 11–05, zo 16–02. Laatste toegang onbekend. Oud adres 12–14 vervangen door bedrijfseigen 14; exacte BAG-match nog te controleren."
       },
       {
         "id": "de-toeter-leeuwarden-f8ed332",
@@ -21916,7 +22446,7 @@
       {
         "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
         "name": "Het Wapen van Leeuwarden",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: HFS noemt 15/11/08/16 uur als start, Allebiz noemt 16/11/09:30, lokale bedrijfskaart noemt andere eindtijden (vr/za 02 versus gids 00). Eigen wapenvanleeuwarden.nl niet bereikbaar; geen tijden overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "insolence-20261029",
@@ -22039,6 +22569,11 @@
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
+        "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
+        "name": "Pizzeria De Branding",
+        "reason": "Officiële contactpagina 30-10-2026: ma/di gesloten, wo–zo 16:00–21:30. Eigen site noemt nog 'gesloten tot 1 april 2026' als oude melding; actuele exploitatie niet live geverifieerd. Alleen voor drank binnenlopen en laatste toegang onbekend."
+      },
+      {
         "id": "pub-84-wolvega-dda02b5",
         "name": "Pub '84",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -22062,6 +22597,11 @@
         "id": "cafe-restaurant-de-kajuit-sneek-651e053",
         "name": "Restaurant De Kajuit",
         "reason": "Op 29-10-2026 melden de actuele eigen hoofdpagina en /openingstijden/ expliciet maandag t/m woensdag gesloten en donderdag t/m zondag vanaf 11:00. De eerdere weergave 'dagelijks vanaf 11:00' is vervangen; seizoensduur niet opgegeven. Exacte sluiting en laatste toegang onbekend. Gidsen noemen 22:00 maar dit is niet door de zaak bevestigd."
+      },
+      {
+        "id": "restaurant-stranders-buren-ameland-b7e5d3a",
+        "name": "Restaurant StrAnders",
+        "reason": "Officiële site 30-10-2026: ma gesloten, di–zo 12:00–21:30. Takeaway tot 19:30 is NIET sluiting restaurant. Instagram meldt speciale oktoberuren; actuele afwijkingen en laatste toegang onbekend. Adres Strandweg 71 bevestigd via externe horecagids, niet op eigen contacttekst."
       },
       {
         "id": "schotse-vier-midsland-6021740",
@@ -22092,6 +22632,11 @@
         "id": "stoker-koffiebar-joure-b54d49f",
         "name": "Stoker Koffiebar",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+        "name": "Strandpaviljoen Sjoerd",
+        "reason": "Eigen site 30-10-2026: ma–wo 10–18, do–zo 10–22. Eigen pagina zegt 'do t/m z0', als donderdag t/m zondag geïnterpreteerd; feestdagen/seizoen en laatste toegang onbekend. Fysieke ligging strand van Nes; Strandweg 65 Buren is expliciet POSTadres, niet als fysiek pand gegeocodeerd. Officiële GPS N53.460155 E5.778620."
       },
       {
         "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
@@ -22146,7 +22691,7 @@
       {
         "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
         "name": "Vrienden van Leeuwarden",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen hoofdpagina 30-10-2026: ma/do vanaf 23, vr vanaf 22, za vanaf 21; di/wo/zo niet vermeld, dus onbekend, niet als gesloten verondersteld. Oudere eigen archiefpagina noemt afwijkende aanvangstijden; Friesland.nl noemt afwijkende dagen en 05:00 als sluiting. Eindtijden niet als officieel bevestigd."
       },
       {
         "id": "was-3ef3647",
