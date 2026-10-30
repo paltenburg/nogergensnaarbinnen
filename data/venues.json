@@ -18657,6 +18657,101 @@
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
       "checked_on": "2026-10-30"
+    },
+    {
+      "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+      "name": "Beachclub Noderstraun",
+      "type": "Beachclub/cocktailbar",
+      "address": "Badweg 32",
+      "website": "https://www.beachclubnoderstraun.com/",
+      "access": "Publieke beachclub met borrel en losse drankjes, bevestigd door exploitant en Visit Wadden.",
+      "alcohol": "Eigen Schierbier, cocktails met alcohol en wijn volgens officiële menupagina's.",
+      "other_sources": [
+        "https://www.beachclubnoderstraun.com/contact",
+        "https://www.beachclubnoderstraun.com/cocktails",
+        "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/1391310235/restaurant-noderstraun"
+      ],
+      "opening_quality": "Eigen rooster per maand: oktober dagelijks vanaf 10:30, november/december vr–ma vanaf 10:30, kerstvakantie alle dagen; geen seizoensfilter in UI, daarom geen vast weekrooster.",
+      "closing_notes": "Eigen contactpagina geeft okt 2026 ma 19, di/wo 17, do 19, vr–zo 20 maar verklaart dat keukensluiting niet betekent dat bezoekers moeten vertrekken; november/december alleen vr–ma vanaf 10:30, kerstvakantie andere dagen. Geen vaste cafésluiting of laatste toegang; seizoensuren niet als jaarrooster opgeslagen.",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen vaste werkelijke cafésluiting bevestigd.",
+      "closing_source": "https://www.beachclubnoderstraun.com/",
+      "features": "Schiermonnikoog; officieel geverifieerde publieke drinklocatie",
+      "original_status": "Exploitant en publieke horecafunctie online gecontroleerd op 2026-10-30; geen live garantie.",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe exploitantwebsite gecontroleerd op naam en adres op 2026-10-30.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.beachclubnoderstraun.com/",
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30"
+    },
+    {
+      "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+      "name": "Café Hotel van der Werff",
+      "type": "Bruin café/hotelbar",
+      "address": "Reeweg 2",
+      "website": "https://hotelvanderwerff.nl/",
+      "access": "Publieke historische gelagkamer/café met biljart, bevestigd door exploitant en VVV; geen hotelovernachting vereist volgens regionale gids.",
+      "alcohol": "Eigen drankenkaart bevestigt Gulpener bier, wijnen en gedistilleerd.",
+      "other_sources": [
+        "https://hotelvanderwerff.nl/gelagkamer/",
+        "https://hotelvanderwerff.nl/dranken/",
+        "https://hotelvanderwerff.nl/contact/",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/van-der-werff"
+      ],
+      "opening_quality": "Geen bedrijfseigen algemeen café-weekrooster vastgesteld; lunchkaart 11–16 is geen caférooster.",
+      "closing_notes": "Eigen site bevestigt café/gelagkamer en alcoholkaart, maar geen vaste openings-/sluitingstijden of laatste toegang. Lunchkaart 11:00–16:00 is niet als caférooster aangenomen.",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen vaste werkelijke cafésluiting bevestigd.",
+      "closing_source": "https://hotelvanderwerff.nl/",
+      "features": "Schiermonnikoog; officieel geverifieerde publieke drinklocatie",
+      "original_status": "Exploitant en publieke horecafunctie online gecontroleerd op 2026-10-30; geen live garantie.",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe exploitantwebsite gecontroleerd op naam en adres op 2026-10-30.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://hotelvanderwerff.nl/",
+      "opening_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30"
     }
   ],
   "admission_policies": [
