@@ -12989,14 +12989,14 @@
     },
     {
       "id": "harbour-pub-harlingen-7da020c",
-      "name": "Harbour Pub",
+      "name": "The Harbour Pub (Harbour Hub)",
       "type": "Pub",
       "address": "Noorderhaven 71",
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Hotel noemt pub en hub voor gasten én bezoekers van de stad; toegang tot pub niet tot hotelgasten beperkt.",
+      "alcohol": "Exploitant noemt pils, wijn en schenkt alleen alcohol aan 18+.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13007,20 +13007,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen hotelwebsite: 7 dagen open, maar receptie-uren 07–22 zijn geen pubrooster",
+      "closing_source": "https://harbourhubhotel.nl/",
+      "closing_notes": "Exploitant 30-10-2026: The Harbour Pub met darts/pool; '7 dagen geopend' maar geen exacte barstart of cafésluiting. Receptie 07–22 en ontbijt 07–10 zijn geen puburen. VVV noemt Noorderhaven 69, exploitant bedrijfsadres Noorderhaven 71; BAG-marker 71 behouden, ingang nader verifiëren. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://harbourhubhotel.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/881973706/harbour-hub"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Huidige exploitant Harbour Hub bevestigt pubfunctie, voormalig Hotel Anna Casparii.",
       "geo": {
         "lat": 53.1761342,
         "lon": 5.4179761,
         "method": "PDOK BAG-adres",
         "matched_address": "Noorderhaven 71, 8861AL Harlingen"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -13031,9 +13042,9 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Bar vermeld in actuele gidsen op Heiligeweg 26; eigen exploitantwebsite niet gevonden.",
+      "alcohol": "Alcoholaanbod volgens barcategorie; geen eigen actuele drankkaart.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13043,20 +13054,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Gidsen tonen tegenstrijdige uren; geen primair rooster",
+      "closing_source": "https://eetgerust.nl/restaurant/cafe-the-pub-public-underground-bar-harlingen",
+      "closing_notes": "Gids https://mymenuweb.com/nl/restaurants/561066/ noemt woensdag 15–03 en donderdag 15–22; https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/ noemt woensdag 15–22 en donderdag 15–03. Geen eigen website of onafhankelijk huidig bedrijfsbewijs gevonden; selectie Nog te controleren, weekuren/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://mymenuweb.com/nl/restaurants/561066/",
+        "https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gidsvermelding zonder actuele exploitantverificatie.",
       "geo": {
         "lat": 53.1733851,
         "lon": 5.4205271,
         "method": "PDOK BAG-adres",
         "matched_address": "Heiligeweg 26, 8861EA Harlingen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -13067,9 +13089,9 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Historische gidsvermelding op Voorstraat 64; actuele afzonderlijke publieke exploitatie niet aangetoond.",
+      "alcohol": "Niet onafhankelijk bevestigd voor actuele zaak.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13079,57 +13101,74 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Onbekend; actuele exploitatie betwist wegens huidige andere horecanaam op adres",
+      "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven",
+      "closing_notes": "Uitgaanskaart noemt Café Rednick op Voorstraat 64, maar actuele VVV en KvK 2026 bevestigen Café Gewoán Sven op precies dit adres. Geen bewijs dat Rednick gelijktijdig als zelfstandige zaak bestaat. Uit actuele selectie voor hercontrole, niet definitief als gesloten geregistreerd. Geen tijden of laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://www.compadex.com/nl/businesses/nl/cafe-gewoan-sven-57858616-27259390"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historische naam op adres waar nu Café Gewoán Sven wordt vermeld.",
       "geo": {
         "lat": 53.1744725,
         "lon": 5.4199597,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 64, 8861BN Harlingen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
       "id": "cafe-gewoan-sven-harlingen-dccd931",
       "name": "Café Gewoán Sven",
       "type": "Kroeg",
-      "address": "Lanen 39",
+      "address": "Voorstraat 64",
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publieke eetcafé/sportsbar volgens regionale VVV; KvK bevestigt huidige exploitant op Voorstraat 64.",
+      "alcohol": "VVV bevestigt drankjes; drankkaart niet rechtstreeks gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "20:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Regionale VVV-weekuren; niet bevestigd op eigen website; andere gids wijkt af",
+      "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven",
+      "closing_notes": "30-10-2026: VVV en KvK bevestigen Voorstraat 64, NIET oude Lanen 39. VVV ma–do 12–22, vr/za 12–00, zo 12–20. RestaurantGuru geeft afwijkende uren, dus dit blijft VVV-bron, geen bedrijfseigen garantie. Oude Lanen 39-marker verwijderd, exacte PDOK-match Voorstraat 64 via workflow afwachten. Op Voorstraat 64 ook historische Rednick-vermelding; geen bewijs twee gelijktijdige cafés. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.compadex.com/nl/businesses/nl/cafe-gewoan-sven-57858616-27259390",
+        "https://fr.restaurantguru.com/Cafe-Gewoan-Sven-Harlingen-Friesland"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.1739969,
-        "lon": 5.4177609,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Lanen 39, 8861CB Harlingen"
-      }
+      "original_status": "Actuele VVV en KvK 2026 bevestigen Café Gewoán Sven op Voorstraat 64.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "geocode_notes": "Voorstraat 64 (8861BN) bevestigd door VVV en KvK 2026. Oude Lanen 39-PDOK-marker was verkeerd; verwijderd voor exacte adresmatch. Delen van Voorstraat 64 met historische Rednick-record."
     },
     {
       "id": "cafe-den-smeerpaal-harlingen-2b618ef",
@@ -13139,9 +13178,9 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Regionale VVV beschrijft openbare bar, maar oorspronkelijke KvK-onderneming is niet langer actief; opvolger onduidelijk.",
+      "alcohol": "Regionale VVV vermeldt expliciet bier, wijn en gedistilleerd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -13151,20 +13190,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen primair weekrooster; actuele exploitatie niet eenduidig",
+      "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal",
+      "closing_notes": "VVV 30-10-2026 toont café en alcohol op Voorstraat 86, maar Oozo https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal vermeldt oude KvK 01113731 niet langer actief. Geen actueel ondernemingsbewijs/uitbater bevestigd. Geen uren of laatste toegang overgenomen; voor hercontrole.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal",
+        "https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "VVV-locatie en historische niet-actieve KvK botsen; actuele status onbekend.",
       "geo": {
         "lat": 53.1743823,
         "lon": 5.4211111,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 86, 8861BP Harlingen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -13175,8 +13225,8 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Regionale VVV beschrijft openbaar café op Heiligeweg 70; afhankelijk van weersomstandigheden.",
+      "alcohol": "Caféfunctie vermeld door VVV, specifieke actuele drankkaart onbekend.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13187,20 +13237,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "VVV geeft voorwaardelijk weekrooster; eigen website gaf 502 en gidsen conflicteren",
+      "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/4036639597/t-skutsje",
+      "closing_notes": "VVV 30-10-2026 noemt ma dicht, di–do 19–21, vr 14–02, za 14–03, zo 14–21, maar zegt ook 'als weersomstandigheden het toelaten'. AlleBiz noemt vr/za slechts tot 21, Tulimaps andere tijden. Eigen cafe-skutsje.nl gaf 502. Daarom geen vast gegarandeerd weekrooster ingevoerd; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.visitnoardwestfryslan.nl/nl/locaties/4036639597/t-skutsje",
+        "https://www.allebiz.nl/caf%C3%A9-t-sk%C3%BBtsje_1Q-0517-416-768"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "VVV-locatie actueel vermeld; individuele openingsdagen/uren nog niet onafhankelijk bevestigd.",
       "geo": {
         "lat": 53.1743999,
         "lon": 5.4219334,
         "method": "PDOK BAG-adres",
         "matched_address": "Heiligeweg 70, 8861EB Harlingen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
