@@ -10334,19 +10334,23 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html",
+        "https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388",
+        "https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gidsen met onderling afwijkende uren geraadpleegd 30-10-2026; geen eigen bron en geen harde actuele exploitatiebevestiging.",
       "geo": {
         "lat": 53.2013339,
         "lon": 5.7932901,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwesteeg 2, 8911DT Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
@@ -10411,7 +10415,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -10423,19 +10427,23 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "https://www.allebiz.nl/the-rooster vermeldt Cafe Us Mem Bij de Put 6 als gesloten (historische uren). https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem beschrijft zaak als actief en geeft 16:00–02:00 / weekend 03:00, maar is geen bedrijfseigen bron; https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4 vermeldt afwijkend vr/za 19:00–01:00. Status en tijden tegenstrijdig, geen sluiting of heropening bewezen; uit standaardresultaten tot verificatie.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.allebiz.nl/the-rooster",
+        "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem",
+        "https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Tegenstrijdige gesloten-vermelding en actuele gidsen op 30-10-2026; bedrijfseigen bevestiging ontbreekt.",
       "geo": {
         "lat": 53.2039926,
         "lon": 5.7985409,
         "method": "PDOK BAG-adres",
         "matched_address": "Bij de Put 6, 8911GG Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-rus-leeuwarden-9df98c2",
@@ -15088,8 +15096,8 @@
       "city": "Nes",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen horecagroep noemt Brood als locatie voor lunch, diner en drankjes; openbare inloop volgens VVV, actuele toegangstijden niet bevestigd.",
+      "alcohol": "Tripadvisor-bedrijfsprofiel noemt bier/wijn en alcohol; eigen groepssite noemt borrelconcept, specifiek drankaanbod bij Brood niet afzonderlijk bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15102,19 +15110,24 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "https://binnenopameland.nl/groepen/ is website van horecagroep Bij Onz en noemt Grand Café Brood Ameland expliciet; https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes noemt actuele zaak. Tripadvisor geclaimde vermelding https://www.tripadvisor.nl/Restaurant_Review-g652194-d19484820-Reviews-Grand_Cafe_Brood-Nes_Ameland_Friesland_Province.html noemt dagelijks 08:30–22:00, maar is niet eigen bedrijfssite en kan verouderd zijn; broodopameland.nl niet bereikbaar tijdens controle. Daarom geen geverifieerde sluitings- of laatste-toegangstijden ingevuld.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/nes"
+        "https://uitgaanskaart.nl/cafe/nes",
+        "https://binnenopameland.nl/groepen/",
+        "https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes",
+        "https://www.tripadvisor.nl/Restaurant_Review-g652194-d19484820-Reviews-Grand_Cafe_Brood-Nes_Ameland_Friesland_Province.html",
+        "https://broodopameland.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele VVV- en eigen horecagroepsvermelding gecontroleerd 2026-10-30; vaste eindtijd en rechtstreeks eigen website niet bevestigd.",
       "geo": {
         "lat": 53.4571784,
         "lon": 5.7767114,
         "method": "PDOK BAG-adres",
         "matched_address": "Strandweg 51, 9163GL Nes"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-de-boerderij-ballum-984f881",
@@ -15276,12 +15289,12 @@
       "id": "cafe-bok-hollum-f23e5ba",
       "name": "Café Bok",
       "type": "Kroeg",
-      "address": "Johan Wilhem Burgerstraat 3a",
+      "address": "Johan Wilhelm Burgerstraat 3a",
       "city": "Hollum",
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Historische Amelander bron noemt bier, wijn en borrels; actuele exploitatie in 2026 ondersteund door KvK-registervermelding, aanbod nog niet rechtstreeks geverifieerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15294,19 +15307,24 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Hollum, NIET Café Bok in Enkhuizen (https://cafebok.nl/ hoort bij Enkhuizen). https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687 registreert drinkgelegenheid op Johan Wilhelm Burgerstraat 3a, bijgewerkt februari 2026. OSM-afgeleide https://mapcarta.com/N2732928237 meldt 16:00–01:30, https://fr.restaurantguru.com/Cafe-Bok-Hollum-2 noemt dinsdag gesloten en 17:00–01:30, zondag 00:00; conflict. Geen bedrijfseigen website of rooster gevonden, alle tijden en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/hollum"
+        "https://uitgaanskaart.nl/cafe/hollum",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687",
+        "https://mapcarta.com/N2732928237",
+        "https://fr.restaurantguru.com/Cafe-Bok-Hollum-2",
+        "https://deamelander.nl/cafe-bok-hollum/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Hollumer exploitatie volgens in februari 2026 bijgewerkte bedrijfsregistratie; daadwerkelijke opening op controledatum niet live geverifieerd.",
       "geo": {
         "lat": 53.4407092,
         "lon": 5.6381794,
         "method": "PDOK BAG-adres",
         "matched_address": "Johan Wilhelm Burgerstraat 3a, 9161BH Hollum"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-welvaart-hollum-8afd4cb",
