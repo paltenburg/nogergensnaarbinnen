@@ -21030,6 +21030,95 @@
         "https://www.itpolderhus.nl/kleine-kaart-tot-17-00-uur/"
       ],
       "original_status": "Eigen site bevestigt publieke exploitatie en wijn/speciaalbier; oktoberbeginuren bekend, sluiting en woensdag onzeker."
+    },
+    {
+      "id": "grand-cafe-1834-oranjewoud-20261030",
+      "name": "Grand Café 1834 / Bar 1834",
+      "type": "Grand café / hotelbar",
+      "address": "Koningin Julianaweg 98",
+      "city": "Oranjewoud",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt hotelgasten én passanten uit om in Bar 1834 te borrelen; hotelovernachting niet vereist.",
+      "alcohol": "Officiële hotelwebsite bevestigt zes seizoensbieren van de tap in Bar 1834.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Eigen hotelwebsite vermeldt Bar 1834 dagelijks 10:00–01:00; het restaurant opent al 09:00, maar barrooster is gebruikt.",
+      "closing_source": "https://www.hoteltjaarda.com/restaurant-bar/grand-cafe-1834/",
+      "closing_notes": "30-10-2026: eigen hotelpagina noemt bar voor passanten 10:00–01:00 en zes seizoensbieren; grand café/restaurant opent 09:00, keuken tot 21:30. Baruren (niet keukenuren) vastgelegd. Laatste toegang onbekend. Bar en grand café in hetzelfde complex, geen dubbele records.",
+      "features": "D0 Heerenveen / Oranjewoud; hotelbar met tapbier",
+      "website": "https://www.tjaarda.nl/grand-cafe-1834/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.hoteltjaarda.com/restaurant-bar/grand-cafe-1834/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/3440137042/grand-cafe-1834",
+        "https://www.tjaarda.nl/grand-cafe-1834/menukaarten/"
+      ],
+      "original_status": "Exploitant bevestigt publieke bar met bier, dagelijks 10:00–01:00; laatste toegang onbekend."
+    },
+    {
+      "id": "paviljoen-driewegsluis-nijetrijne-20261030",
+      "name": "Paviljoen Driewegsluis",
+      "type": "Paviljoen / restaurant / borrel",
+      "address": "Lindedijk 2a",
+      "city": "Nijetrijne",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor een drankje op terras en lunch/diner; reserveren wordt aangeboden maar niet als voorwaarde voor gewone drank genoemd.",
+      "alcohol": "Claimde horecavermelding op Tripadvisor vermeldt dat alcohol wordt geschonken; eigen site noemt drankjes, maar geen actuele eigen bier-/wijnkaart gevonden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële homepage bevat 2026-bericht: gesloten tot en met 15 oktober; winterrooster vanaf 16 oktober vr 11:00, za/zo 10:00, ma–do gesloten. Geen werkelijke einduren gepubliceerd.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://driewegsluis.nl/ vermeldt heropening 16-10 na tijdelijke sluiting, met winterrooster ma–do dicht, vr vanaf 11, za/zo vanaf 10. Oudere onderpagina's https://driewegsluis.nl/contact/ tonen nog di–zo vanaf 10; actuele homepage met datum heeft voorrang. Externe gidsuren 21/22 zijn niet als cafésluiting overgenomen. Laatste toegang onbekend. Adres volgens eigen site Lindedijk 2a; Friesland.nl schrijft Lindeweg 2a (conflict), geen marker verzonnen.",
+      "features": "D0 Weststellingwerf / Nijetrijne; winterrooster, terras",
+      "website": "https://driewegsluis.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://driewegsluis.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://driewegsluis.nl/contact/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g8465264-d8456991-Reviews-or30-Paviljoen_Driewegsluis-Nijetrijne_Friesland_Province.html",
+        "https://www.friesland.nl/nl/locaties/1234744536/paviljoen-driewegsluis"
+      ],
+      "original_status": "Exploitant bevestigt publieke horeca en actuele winterbeginuren; alcohol volgens geclaimd extern horecaprofiel, eindtijd onbekend."
     }
   ],
   "admission_policies": [
