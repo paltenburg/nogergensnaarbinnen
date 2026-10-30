@@ -14615,8 +14615,8 @@
       "city": "Wolvega",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Café-/barvermelding in gidsen; actuele vrije publieke toegang niet onafhankelijk bevestigd.",
+      "alcohol": "HFS noemt bier en mixdranken; geen directe exploitantmenukaart gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14629,11 +14629,13 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "HFS geeft Van Harenstraat 36 en noemt muziekavonden, maar geen controleerbaar bedrijfseigen weekrooster; globale vanaf-19:00-indicatie niet overgenomen. RestaurantGuru toont geen betrouwbare exacte uren. Actuele exploitatie en laatste toegang nog rechtstreeks bevestigen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://uitgaanskaart.nl/cafe/wolvega",
+        "https://www.hfsfreelancers.nl/locaties/wolvega/bars/bar-suc6",
+        "https://de.restaurantguru.com/pub-and-bar-Wolvega-t2"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14641,7 +14643,8 @@
         "lon": 5.9994636,
         "method": "PDOK BAG-adres",
         "matched_address": "Van Harenstraat 36, 8471JE Wolvega"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "pub-84-wolvega-dda02b5",
@@ -14651,25 +14654,28 @@
       "city": "Wolvega",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant bevestigt publieke pub met terras, muziek en darts.",
+      "alcohol": "Eigen site noemt speciaalbier; zusterwebsite Brouwerij 84 bevestigt bier, cocktails en spirits.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
+        "wo": "—",
         "do": "?",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site voor beginuren; geen einduren.",
+      "closing_source": "https://www.pub84.nl/",
+      "closing_notes": "Eigen site: maandag vanaf 20:00, dinsdag en do–zo vanaf 16:00, woensdag gesloten. RestaurantGuru noemt maandag gesloten en dinsdag 18:00; primaire bron gevolgd, maar bij bezoek vooraf controleren. Geen eigen einduren/laatste toegang gepubliceerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.pub84.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://uitgaanskaart.nl/cafe/wolvega",
+        "https://www.brouwerij84.nl/",
+        "https://stiekmtrots.nl/info/pub-84",
+        "https://restaurantguru.com/Pub84-Wolvega"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14677,7 +14683,21 @@
         "lon": 6.0019059,
         "method": "PDOK BAG-adres",
         "matched_address": "Heerenveenseweg 2, 8471BE Wolvega"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Exploitantwebsite live uitgelezen 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "20:00",
+        "di": "16:00",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.pub84.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-babbel-wolvega-be5a7b9",
@@ -14687,8 +14707,8 @@
       "city": "Wolvega",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Gidsen en recente recensies wijzen op publiek café met biljart/darts, maar geen directe exploitantbevestiging.",
+      "alcohol": "HFS en RestaurantGuru noemen bier; geen officiële drankenkaart gevonden.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14701,11 +14721,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Cylex bijgewerkt 26-08-2026 vermeldt meestal 11–01 en vr/za tot 03; RestaurantGuru vermeldt sterk afwijkende daguren en HFS onwaarschijnlijke 00:00–00:00. Eigen actuele weekuren niet gevonden; geen gidsuren overgenomen, laatste toegang onbekend. Cylex koppelt schaatsmuseum.nl, geen bewijs dat dit de eigen website van het café is.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/wolvega"
+        "https://uitgaanskaart.nl/cafe/wolvega",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-de-babbel-10788892.html",
+        "https://fr.restaurantguru.com/Cafe-De-Babbel-Wolvega",
+        "https://www.hfsfreelancers.nl/locaties/wolvega/bars/de-babbel-2736393874"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14713,7 +14736,8 @@
         "lon": 5.9974796,
         "method": "PDOK BAG-adres",
         "matched_address": "Van der Sandeplein 8, 8471RX Wolvega"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-d-oude-oost-grou-006c9f7",
