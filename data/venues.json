@@ -21654,6 +21654,96 @@
         "https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha"
       ],
       "original_status": "Eigen nieuwe site bevestigt actuele exploitatie en dagelijks vanaf 10:00; sluiting en expliciete actuele alcoholkaart onbekend, oude Grand Café-data niet hergebruikt."
+    },
+    {
+      "id": "de-groene-weide-hoorn-terschelling-20261030",
+      "name": "De Groene Weide",
+      "type": "Muziekcafé / restaurant",
+      "address": "Dorpsstraat 81",
+      "city": "Hoorn (Terschelling)",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publieke cafébar, spontane borrel zonder diner, live muziek en groepsborrels.",
+      "alcohol": "Eigen site noemt borrel aan de bar; recente reisbeschrijving noemt bier en wijn, maar actuele eigen drankkaart niet afzonderlijk gevonden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "—",
+        "do": "23:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen actuele openingstijdenpagina: ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Externe gidsen met dagelijks tot 02 zijn niet gebruikt.",
+      "closing_source": "https://degroeneweideterschelling.nl/openingstijden/",
+      "closing_notes": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken.",
+      "features": "D0 Terschelling / Hoorn; muziekcafé, late vr/za borrel",
+      "website": "https://degroeneweideterschelling.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://degroeneweideterschelling.nl/openingstijden/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://degroeneweideterschelling.nl/contact/",
+        "https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/",
+        "https://www.standaard.be/inspiratie/ongerepte-kust-voor-niet-zo-eenzame-fietsers/41302961.html"
+      ],
+      "original_status": "Eigen site en VVV bevestigen openbare exploitatie en exact weekrooster; actuele alcoholkaart en laatste toegang nog niet apart bevestigd."
+    },
+    {
+      "id": "paviljoen-de-walvis-west-terschelling-20261030",
+      "name": "Paviljoen De Walvis",
+      "type": "Strandpaviljoen / dagborrel",
+      "address": "Groene Strand 1",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website: reserveren niet mogelijk, vrij inlopen voor lunch en borrel; na 16:00 borrelhapjes.",
+      "alcohol": "Eigen site toont drankenkaart als afbeelding; afzonderlijke tekst voor bier/wijn niet uitgelezen. De locatie is paviljoen met borrel, alcoholaanbod nog direct te bevestigen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:30",
+        "di": "—",
+        "wo": "—",
+        "do": "10:30",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "closing": {
+        "ma": "18:30",
+        "di": "—",
+        "wo": "—",
+        "do": "18:30",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "19:00"
+      },
+      "closing_quality": "Eigen site noemt ma/do circa 18:30 en vr/za/zo circa 19:00, geen exact gegarandeerd sluituur. Laatste ronde drinken circa 18:00 op alle dagen volgens eigen site; dit is geen laatste toegang.",
+      "closing_source": "https://walvisterschelling.nl/",
+      "closing_notes": "30-10-2026: exploitant https://walvisterschelling.nl/ zegt dagzaak ma/do 10:30–circa 18:30, vr/za/zo halfuur langer, di/wo gesloten; laatste ronde drinken circa 18:00 en keuken circa 17:30, laatste toegang niet vermeld. https://walvisterschelling.nl/contact/ geeft vestigingsadres Groene Strand 1. VVV https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/191699176/de-walvis bevat afwijkende/historische gegevens (o.a. dinsdag open en avondreserveren), niet gebruikt. Einduren circa, geen harde zekerheid.",
+      "features": "D0 Terschelling / West; dagborrel, laatste drankronde 18:00, niet laatste toegang",
+      "website": "https://walvisterschelling.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://walvisterschelling.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://walvisterschelling.nl/contact/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/191699176/de-walvis",
+        "https://waddenweer.nl/adressen/de-walvis-terschelling/"
+      ],
+      "original_status": "Eigen site bevestigt dagzaak, open dagen en benaderde sluituren en laatste drankronde; expliciete laatste toegang en actuele alcoholkaart nog open."
     }
   ],
   "admission_policies": [
