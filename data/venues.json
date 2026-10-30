@@ -23241,6 +23241,53 @@
         "https://www.allebiz.nl/caf%C3%A9-t-trefpunt_15H-0511-472-279"
       ],
       "original_status": "Historische exploitatie in 2026 bevestigd via gemeentelijke evenementmelding; actuele vrije inloop en vaste uren niet geverifieerd."
+    },
+    {
+      "id": "it-pypke-suwald-20261031",
+      "name": "It Pypke",
+      "type": "Dorpskroeg / jeugdsoos / evenementlocatie",
+      "address": "Kerkbuurt 2",
+      "city": "Suwâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke dorpsfeesten mogelijk, vaak leeftijds- en evenementafhankelijk; geen bewezen reguliere vrije café-inloop. Oktoberfest 31-10-2026 geadverteerd met gratis entree vanaf 16 jaar, alcohol uitsluitend 18+.",
+      "alcohol": "Dorpsagenda adverteert Oktoberfest met bier; reguliere drankkaart en verkoopdagen onbekend.",
+      "selection": "Nog te controleren",
+      "event_dependent": true,
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Alleen incidentele evenementen bekend; geen regulier weekrooster. Gemeentelijke vergunningaanvraag noemt 31 oktober 21:00 tot 1 november 03:00, dorpsagenda 21:00–02:00; geen van beide is als vaste sluiting ingevoerd.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: https://suwald.nl/nieuws noemt Oktoberfest It Pypke met gratis entree vanaf 16 jaar en bier; de tekst noemt per abuis 'vrijdag 31 oktober' terwijl 31-10-2026 zaterdag is. De gemeentelijke evenementenlijst https://www.t-diel.nl/evenementenkalender bevestigt zaterdag 31-10-2026 op Kerkbuurt 2. Vergunningaanvraag https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-466232/gemeente-tytsjerksteradiel-aanvraag-evenementenvergunning-oktoberfest-op-31-okto/ noemt 21:00–03:00; dit is een AANVRAAG, geen bewezen werkelijke eindtijd of verleende vergunning. Lokale berichtgeving https://www.actiefonline.nl/nieuws/algemeen/65993/it-pypke-in-suwald-feestelijk-heropend-met-drie-dagen-feest bevestigt heropening in juli 2025 na brand, maar geen vaste 2026-weekopenstelling. Geen regelmatige caféuren of laatste toegang geverifieerd; niet standaard tonen.",
+      "features": "D0 Tytsjerksteradiel / Suwâld; eventgebonden; 31-10 Oktoberfest, bronconflict eindtijd",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://suwald.nl/nieuws",
+        "https://www.t-diel.nl/evenementenkalender",
+        "https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-466232/gemeente-tytsjerksteradiel-aanvraag-evenementenvergunning-oktoberfest-op-31-okto/",
+        "https://www.actiefonline.nl/nieuws/algemeen/65993/it-pypke-in-suwald-feestelijk-heropend-met-drie-dagen-feest"
+      ],
+      "original_status": "Publiek evenement in 2026 bevestigd door dorpsagenda en gemeentelijke kalender; reguliere vrije inloop niet aangetoond."
     }
   ],
   "admission_policies": [
