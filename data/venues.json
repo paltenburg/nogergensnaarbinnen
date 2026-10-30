@@ -21119,6 +21119,96 @@
         "https://www.friesland.nl/nl/locaties/1234744536/paviljoen-driewegsluis"
       ],
       "original_status": "Exploitant bevestigt publieke horeca en actuele winterbeginuren; alcohol volgens geclaimd extern horecaprofiel, eindtijd onbekend."
+    },
+    {
+      "id": "ferron-heerenveen-20261030",
+      "name": "Ferron",
+      "type": "Aperitiefbar / restaurant",
+      "address": "Lindegracht 21",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publiek lunch-, aperitief- en dinerconcept, met aparte borrelkaart; geen verplichte maaltijd.",
+      "alcohol": "Eigen menukaart noemt Birra Moretti, speciaalbier, cocktails, wijn en gedistilleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Eigen homepage en menupagina: wo–za 10:00–23:00, zo 10:00–21:00, ma/di gesloten.",
+      "closing_source": "https://ferronheerenveen.nl/",
+      "closing_notes": "30-10-2026: homepage en menufooter geven wo–za 10–23, zo 10–21; contactpagina heeft bovenaan een algemene wo–zo tot 23-vermelding maar eigen footer specificeert zondag 21, dus zondag volgens herhaalde gedetailleerde footer. Borrelhapjes beschikbaar 14–17 en vanaf 20; dit zijn geen laatste-toegangstijden. Geen uiterste toegang bevestigd.",
+      "features": "D0 Heerenveen / centrum; speciaalbier, wijn en cocktails",
+      "website": "https://ferronheerenveen.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://ferronheerenveen.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://ferronheerenveen.nl/menu/",
+        "https://ferronheerenveen.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/779749335/ferron"
+      ],
+      "original_status": "Eigen website bevestigt actuele publieke borrel, alcohol en weekrooster; zondagpagina bevat kleine broninconsistentie."
+    },
+    {
+      "id": "eetcafe-de-buurvrouw-drachten-20261030",
+      "name": "Eetcafé de Buurvrouw",
+      "type": "Eetcafé / cocktail- en borrelbar",
+      "address": "Noordkade 52",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website heet bezoekers welkom in eetcafé; reserveren voor reguliere borrel niet als vereiste vermeld.",
+      "alcohol": "Eigen menukaart noemt Aperol Spritz, Long Island Iced Tea, Pornstar Martini, prosecco en andere alcoholische dranken.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website noemt ma/di gesloten of op afspraak, wo–zo vanaf 16:00 maar geen café-einduren; externe gidsen spreken elkaar tegen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: eigen https://buurvrouwdrachten.nl/menukaarten/ bevestigt cocktailkaart en wo–zo vanaf 16:00, ma/di gesloten (op afspraak). Externe https://bestrestos.nl/restaurant/eetcafe-de-buurvrouw-drachten-3279 en https://www.het-menu.nl/drachten/restaurant/eetcafe_de_buurvrouw hebben afwijkende sluitingsuren; geen externe uren als zeker overgenomen. Laatste toegang onbekend.",
+      "features": "D0 Smallingerland / Drachten; cocktails en borrelplanken",
+      "website": "https://buurvrouwdrachten.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://buurvrouwdrachten.nl/menukaarten/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://buurvrouwdrachten.nl/vacatures/",
+        "https://www.friesland.nl/nl/locaties/2410762072/eetcafe-de-buurvrouw",
+        "https://bestrestos.nl/restaurant/eetcafe-de-buurvrouw-drachten-3279"
+      ],
+      "original_status": "Exploitant bevestigt publieke alcoholhoreca en beginuren; café-eindtijden onbekend door conflicterende gidsen."
     }
   ],
   "admission_policies": [
