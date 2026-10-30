@@ -20118,6 +20118,134 @@
         "https://depolle-etenendrinken.nl/wp-content/uploads/2026/05/MENUKAART-DE-POLLE-ETEN-EN-DRINKEN-ZOMER-2026-6.pdf"
       ],
       "original_status": "Exploitantwebsite 30-10-2026 bevestigt publieke borrel en adres; alcoholaanbod via externe wijnactie, nog geen directe actuele drankenkaart."
+    },
+    {
+      "id": "gewoon-de-brink-bakkeveen-20261030",
+      "name": "Gewoon de Brink",
+      "type": "Eetcafé / borrelcafé",
+      "address": "Weverswâl 5",
+      "city": "Bakkeveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt publiek uit voor een borrel met vrienden; café en terras zonder maaltijd.",
+      "alcohol": "Exploitant bevestigt uitgebreide selectie speciaalbieren en wijnen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "21:00",
+        "wo": "—",
+        "do": "21:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Officiële homepage/agenda 2026; afwijkende oudere contactpagina vermeldt andere dagen.",
+      "closing_source": "https://www.cafedebrink.nl/",
+      "closing_notes": "30-10-2026: homepage en evenementenagenda (oktober 2026) vermelden ma/wo dicht, di/do 16–21, vr/za 12–23, zo 12–21. https://www.cafedebrink.nl/contact/ toont afwijkend ouder rooster (ma/wo open). Conflict expliciet; homepage + actuele agenda als bron, dagafwijkingen mogelijk. Laatste toegang onbekend.",
+      "features": "D0 Opsterland / Bakkeveen; eigen website en 2026 agenda",
+      "website": "https://www.cafedebrink.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.cafedebrink.nl/evenementen/",
+        "https://www.cafedebrink.nl/contact/",
+        "https://www.bakkeveen.nl/bedrijven/eten-drinken/"
+      ],
+      "original_status": "Officiële actieve horecawebsite 30-10-2026; publiek borrelen en alcohol bevestigd."
+    },
+    {
+      "id": "tijdloos-poolcafe-gorredijk-20261030",
+      "name": "Tijdloos Poolcafé",
+      "type": "Poolcafé / borrel",
+      "address": "Langewal 4",
+      "city": "Gorredijk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële site zegt ook zonder activiteit binnenlopen voor speciaalbier/cocktails; vr/za na 19:30 activiteiten alleen op inloop, geen cafélaatste-toegang.",
+      "alcohol": "Eigen website bevestigt speciaalbier en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "19:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen actuele website 30-10-2026; feestdagen en besloten feesten uitgezonderd.",
+      "closing_source": "https://www.poolcafe-tijdloos.nl/",
+      "closing_notes": "30-10-2026: di 19–23, wo/do 14–23, vr/za 11–00, zo 11–23. Maandag niet expliciet genoemd op eigen site, dus onbekend (gids noemt gesloten). Gids https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416 noemt dinsdag gesloten, in strijd met eigen site. Vrijdag/zaterdag na 19:30 geen activiteitenreservering is NIET laatste cafétoegang. Eigen footer postcode 8401DD vs gids 8401PM: exacte BAG-adresmatch/marker nog controleren.",
+      "features": "D0 Opsterland / Gorredijk; eigen agenda met events okt–dec 2026",
+      "website": "https://www.poolcafe-tijdloos.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416",
+        "https://www.cylex.nl/bedrijf/tijdloos-poolcaf%C3%A9-13938335.html"
+      ],
+      "original_status": "Officiële website actief 30-10-2026 met Halloween 31 oktober en toekomstige events."
+    },
+    {
+      "id": "cafe-restaurant-overwijk-tijnje-20261030",
+      "name": "Café Restaurant Overwijk",
+      "type": "Bruin café / restaurant",
+      "address": "Heawei 9",
+      "city": "Tijnje",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen cafépagina beschrijft vrij toegankelijke bruine kroeg met bar en sport/muziek.",
+      "alcohol": "Officiële bierkaart bevestigt tap- en flesbier met alcohol.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website 30-10-2026; keuken tot 21:00 apart van café tot 22:00.",
+      "closing_source": "https://www.cafeoverwijk.nl/",
+      "closing_notes": "30-10-2026: eigen homepage ma/di gesloten, wo–za 10–22, zo 11–22; keuken tot 21, geen reden om café om 21 te laten sluiten. Externe gids https://www.allebiz.nl/caf%C3%A9-restaurant-overwijk-0513-571-217 vermeldt di open, niet overgenomen. Laatste toegang onbekend.",
+      "features": "D0 Opsterland / Tijnje; eigen cafépagina en bierkaart",
+      "website": "https://www.cafeoverwijk.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.cafeoverwijk.nl/cafe.html",
+        "https://www.cafeoverwijk.nl/bierkaart.html",
+        "https://www.allebiz.nl/caf%C3%A9-restaurant-overwijk-0513-571-217"
+      ],
+      "original_status": "Actuele exploitantwebsite en eigen bierkaart 30-10-2026."
     }
   ],
   "admission_policies": [
