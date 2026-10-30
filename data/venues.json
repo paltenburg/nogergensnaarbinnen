@@ -17783,38 +17783,51 @@
     },
     {
       "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
-      "name": "Herberg De Waard van Ternaard",
-      "type": "Eetcafé",
+      "name": "Herberg de Waard (vakantiehuis)",
+      "type": "Vakantiehuis — geen publieke horeca",
       "address": "De Groedse 3",
       "city": "Ternaard",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Geen publieke horeca: exploitant verhuurt de gehele herberg als familie-/vakantiehuis.",
+      "alcohol": "Niet van toepassing: wijnklimaatkast in vakantiewoning is geen horeca-alcoholaanbod.",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Niet van toepassing: geen publiek café",
+      "closing_source": "https://herbergdewaard.nl/over-ons/",
+      "closing_notes": "Eigen exploitant 30-10-2026: in 2020 gekocht als familie-/vakantiehuis, volledig te boeken via Belvilla. 'Herberg' in naam bewijst geen openbare bar; eerdere horeca-inventarisatie was fout. Uit actuele horecaresultaten verwijderd, record/ID voor historische traceerbaarheid behouden.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://herbergdewaard.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/nes"
+        "https://herbergdewaard.nl/over-ons/",
+        "https://herbergdewaard.nl/de-herberg/",
+        "https://herbergdewaard.nl/contact/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Huidig gebruik volgens exploitant vakantiehuis, geen openbare drankgelegenheid.",
       "geo": {
         "lat": 53.3823311,
         "lon": 5.964482,
         "method": "PDOK BAG-adres",
         "matched_address": "De Groedse 3, 9145RG Ternaard"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       }
     },
     {
@@ -17861,68 +17874,91 @@
       "city": "Ljussens",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek dorpscafé met snackbar; exploitant bevestigt vrijdag en zaterdag vanaf 16:00.",
+      "alcohol": "Authentiek bruin café volgens eigen website; concrete drankenkaart niet afzonderlijk gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
         "vr": "?",
         "za": "?",
-        "zo": "?"
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website bevestigt vr/za vanaf 16:00, maar geen eindtijd; gidsen conflicteren",
+      "closing_source": "https://www.cafedebuntebok.nl/",
+      "closing_notes": "Eigen site rechtstreeks geraadpleegd 30-10-2026: vrijdag/zaterdag vanaf 16:00, andere reguliere dagen niet open volgens site; cafetaria apart vr/za 17–20. Gidsen geven 22:00 of 01:00 als eindtijd, niet als bedrijfseigen bevestigd. Laatste toegang onbekend. Site heeft agenda met toekomstige november-evenementen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafedebuntebok.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/schiermonnikoog"
+        "https://www.cafedebuntebok.nl/Menukaart/",
+        "https://www.rtvnof.nl/agenda/vernieuwd-cafe-de-bunte-bok-opent-haar-deuren-met-een-feestelijke-heropening/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen exploitant bevestigt actuele dorpscaféfunctie en adres.",
       "geo": {
         "lat": 53.3807703,
         "lon": 6.0869367,
         "method": "PDOK BAG-adres",
         "matched_address": "Doarpsstrjitte 20, 9134NN Ljussens"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "—"
       }
     },
     {
       "id": "cafe-de-kalkman-wierum-bc9219c",
-      "name": "Café De Kalkman",
+      "name": "Eetcafé De Kalkman",
       "type": "Kroeg",
       "address": "Dykstrjitte 2",
       "city": "Wierum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt eetcafé met publieksrooster, snackbar en terras.",
+      "alcohol": "KvK/Company.info registreert exploitatie van drinkgelegenheden; specifieke actuele drankkaart niet gevonden.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "00:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website, weekrooster, direct gecontroleerd 30-10-2026",
+      "closing_source": "https://cafedekalkman.nl/",
+      "closing_notes": "Eigen site geeft ma/di dicht, wo–vr 16–23, za 16–00, zo 16–22. Gidsen tonen soms dinsdag open of zaterdag tot 23:00; officiële site gevolgd. Laatste toegang niet vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://cafedekalkman.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/schiermonnikoog"
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-kalkman-wierum-64127109-000002013509"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site en KvK 2026 bevestigen eetcafé op Dykstrjitte 2.",
       "geo": {
         "lat": 53.4017702,
         "lon": 6.0144159,
         "method": "PDOK BAG-adres",
         "matched_address": "Dykstrjitte 2, 9141TJ Wierum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
       }
     },
     {
@@ -18035,38 +18071,49 @@
     },
     {
       "id": "cafe-de-harmonie-sexbierum-384aca7",
-      "name": "Café De Harmonie",
+      "name": "Hotel Café Restaurant De Harmonie",
       "type": "Kroeg",
       "address": "Kade 1",
       "city": "Sexbierum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek dorpscafé met biljart, darts en optredens, afzonderlijk van hotel en snackbar.",
+      "alcohol": "Exploitant bevestigt caféfunctie; actuele drankkaart niet afzonderlijk gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "22:00",
         "vr": "?",
         "za": "?",
-        "zo": "?"
+        "zo": "21:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site 2026: ma–wo 16–21, do 11–22, vr/za 11–'sluit', zo 16–21",
+      "closing_source": "https://www.hcrdeharmonie.nl/",
+      "closing_notes": "Eigen website rechtstreeks gecontroleerd 30-10-2026: vr/za einde 'tot sluit', geen exact uur; overige weekdagen expliciet. Snackbar en keuken hebben andere uren, niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.hcrdeharmonie.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://www.mooibarradeel.nl/gids2/gids/overnachten/11-hotel-cafe-restaurant-de-harmonie-snackbar-de-lantaarn"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitantwebsite ©2026 bevestigt actief café en adres Kade 1.",
       "geo": {
         "lat": 53.2172621,
         "lon": 5.485367,
         "method": "PDOK BAG-adres",
         "matched_address": "Kade 1, 8855HX Sexbierum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "16:00"
       }
     },
     {
