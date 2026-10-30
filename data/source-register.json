@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 417,
-    "source_urls": 579,
-    "domains": 296,
-    "direct_website_fields": 210
+    "source_urls": 600,
+    "domains": 306,
+    "direct_website_fields": 216
   },
   "discovery_sites": [
     {
@@ -160,8 +160,8 @@
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 12,
-      "linked_venues": 12
+      "source_pages": 13,
+      "linked_venues": 13
     },
     {
       "domain": "allebiz.nl",
@@ -177,6 +177,11 @@
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
+    },
+    {
+      "domain": "cylex.nl",
+      "source_pages": 9,
+      "linked_venues": 9
     },
     {
       "domain": "allecijfers.nl",
@@ -196,11 +201,6 @@
     {
       "domain": "waterlandvanfriesland.nl",
       "source_pages": 8,
-      "linked_venues": 7
-    },
-    {
-      "domain": "cylex.nl",
-      "source_pages": 7,
       "linked_venues": 7
     },
     {
@@ -269,6 +269,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dokkum.nl",
+      "source_pages": 3,
+      "linked_venues": 2
+    },
+    {
       "domain": "findglocal.com",
       "source_pages": 3,
       "linked_venues": 3
@@ -302,6 +307,11 @@
       "domain": "beersbarrels.nl",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "blauwekater.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "cafecobus.nl",
@@ -384,12 +394,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "dewelvaartameland.nl",
+      "domain": "dewaeghdokkum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
     {
-      "domain": "dokkum.nl",
+      "domain": "dewelvaartameland.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -424,6 +434,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "halvemaandokkum.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "heerenveen.deswetser.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -445,6 +460,11 @@
     },
     {
       "domain": "itreadehynder.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "kbfood.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -504,6 +524,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "paulkruger.frl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "pizzeria-debranding.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -554,6 +579,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "stadscafe-artisante.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "stadsschouwburg-utrecht.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -599,6 +629,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "waze.com",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "westcordhotels.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -617,6 +652,11 @@
       "domain": "1841.nl",
       "source_pages": 1,
       "linked_venues": 3
+    },
+    {
+      "domain": "33dokkum.nl",
+      "source_pages": 1,
+      "linked_venues": 1
     },
     {
       "domain": "aan-de-gracht.nl",
@@ -1049,6 +1089,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "eetgerust.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "espressobar-smuk.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1125,6 +1170,11 @@
     },
     {
       "domain": "grootfryslan.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "grootheerenveen.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1235,6 +1285,11 @@
     },
     {
       "domain": "leen-restaurant.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "leerbanenmarkt.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1589,11 +1644,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "waze.com",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "werkenbijutrechtsehorecagroep.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1665,6 +1715,36 @@
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 3,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.33dokkum.nl/",
+      "domain": "33dokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "club33-dokkum-e7228a2",
+          "name": "Club33",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
       "needs_review": true
     },
     {
@@ -2942,6 +3022,60 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.blauwekater.nl/",
+      "domain": "blauwekater.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+          "name": "Café De Blauwe Kater",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.blauwekater.nl/contact/",
+      "domain": "blauwekater.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+          "name": "Café De Blauwe Kater",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -6519,6 +6653,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-de-blauwe-kater-10871934.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
+          "name": "Café De Blauwe Kater",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-30",
@@ -6579,6 +6737,30 @@
         {
           "id": "de-markies-leeuwarden-d3d3930",
           "name": "De Markies",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/stadscaf%C3%A9-artisante-13854608.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-artisante-dokkum-284998e",
+          "name": "Stadscafé Artisante",
           "roles": [
             "achtergrond"
           ],
@@ -7682,6 +7864,60 @@
       "needs_review": false
     },
     {
+      "url": "https://www.dewaeghdokkum.nl/",
+      "domain": "dewaeghdokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-waegh-dokkum-7305178",
+          "name": "Grand Café de Waegh",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/",
+      "domain": "dewaeghdokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-waegh-dokkum-7305178",
+          "name": "Grand Café de Waegh",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.dewalrussneek.nl/",
       "domain": "dewalrussneek.nl",
       "first_registered_on": "2026-10-29",
@@ -7916,35 +8152,52 @@
       "needs_review": false
     },
     {
+      "url": "https://dokkum.nl/eten-en-drinken/grand-cafe-de-waegh/",
+      "domain": "dokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-waegh-dokkum-7305178",
+          "name": "Grand Café de Waegh",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
       "domain": "dokkum.nl",
       "first_registered_on": "2026-10-29",
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "openingstijden",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "stadscafe-artisante-dokkum-284998e",
           "name": "Stadscafé Artisante",
           "roles": [
-            "achtergrond",
-            "openingstijden",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "sluitingstijden": "2026-10-29",
-            "openingstijden": "2026-10-29"
-          },
-          "needs_review": false
+          "checked_on": {},
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.duic.nl/algemeen/algemeen/60755/mindel-en-maarten-openen-cafe-met-ruim-2000-spellen-dit-is-er-nog-niet-in-utrecht",
@@ -8240,6 +8493,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetgerust.nl/restaurant/t-kannet-heerenveen",
+      "domain": "eetgerust.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-kannet-heerenveen-75a1ed4",
+          "name": "'t Kannet",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -8819,6 +9096,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/3115876375/kb-food-drinks",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "kb-food-drinks-dokkum-b461630",
+          "name": "KB Food & Drinks",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -9255,6 +9556,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.grootheerenveen.nl/nieuws/in-bedrijf/110063/paul-kruger-gaat-weer-open-terug-naar-grootmoeders-tijd-",
+      "domain": "grootheerenveen.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+          "name": "Paultje Café Restaurant",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca",
       "domain": "grootsneek.nl",
       "first_registered_on": "2026-10-29",
@@ -9384,6 +9713,63 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.halvemaandokkum.nl/",
+      "domain": "halvemaandokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "halve-maan-dokkum-a6661d3",
+          "name": "De Halve Maan",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.halvemaandokkum.nl/contactformulier/",
+      "domain": "halvemaandokkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "halve-maan-dokkum-a6661d3",
+          "name": "De Halve Maan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -10365,6 +10751,61 @@
       "needs_review": false
     },
     {
+      "url": "https://kbfood.nl/",
+      "domain": "kbfood.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "kb-food-drinks-dokkum-b461630",
+          "name": "KB Food & Drinks",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://kbfood.nl/kbfood/",
+      "domain": "kbfood.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "kb-food-drinks-dokkum-b461630",
+          "name": "KB Food & Drinks",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.kleinberlijn.de/",
       "domain": "kleinberlijn.de",
       "first_registered_on": "2026-10-26",
@@ -10679,6 +11120,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://leerbanenmarkt.nl/leerbedrijven/kb-food-drinks_c7064f2d-7582-e711-80d1-bb82e25ba0ea",
+      "domain": "leerbanenmarkt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "kb-food-drinks-dokkum-b461630",
+          "name": "KB Food & Drinks",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://lefebvre.nl/",
@@ -12703,6 +13168,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.paulkruger.frl/",
+      "domain": "paulkruger.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+          "name": "Paultje Café Restaurant",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.paulkruger.frl/contact",
+      "domain": "paulkruger.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
+          "name": "Paultje Café Restaurant",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.persbureau-ameland.nl/paviljoen-sjoerd-maakt-zich-klaar-voor-nieuw-seizoen",
       "domain": "persbureau-ameland.nl",
       "first_registered_on": "2026-10-30",
@@ -13972,6 +14485,60 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://stadscafe-artisante.nl/",
+      "domain": "stadscafe-artisante.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-artisante-dokkum-284998e",
+          "name": "Stadscafé Artisante",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://stadscafe-artisante.nl/contact/",
+      "domain": "stadscafe-artisante.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-artisante-dokkum-284998e",
+          "name": "Stadscafé Artisante",
+          "roles": [
+            "achtergrond",
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://stadsschouwburg-utrecht.nl/eten-drinken/zindering",
@@ -17706,6 +18273,15 @@
           "needs_review": true
         },
         {
+          "id": "halve-maan-dokkum-a6661d3",
+          "name": "De Halve Maan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
           "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
           "name": "Grand Café Abdij Dokkum",
           "roles": [
@@ -17724,15 +18300,6 @@
           "needs_review": true
         },
         {
-          "id": "halve-maan-dokkum-a6661d3",
-          "name": "Halve Maan",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        },
-        {
           "id": "kb-food-drinks-dokkum-b461630",
           "name": "KB Food & Drinks",
           "roles": [
@@ -17748,7 +18315,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
@@ -19871,29 +20438,22 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "openingstijden",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "halve-maan-dokkum-a6661d3",
-          "name": "Halve Maan",
+          "name": "De Halve Maan",
           "roles": [
-            "achtergrond",
-            "openingstijden",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "sluitingstijden": "2026-10-29",
-            "openingstijden": "2026-10-29"
-          },
-          "needs_review": false
+          "checked_on": {},
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3988243168/grand-cafe-de-brass",
@@ -20302,6 +20862,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 0,
       "needs_review": false
+    },
+    {
+      "url": "https://www.waze.com/live-map/directions/nl/fr/heerenveen/t-kannet?to=place.ChIJbYQUL-peyEcRe1YsJZlds6E",
+      "domain": "waze.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-kannet-heerenveen-75a1ed4",
+          "name": "'t Kannet",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4",
@@ -20784,10 +21368,6 @@
         "name": "Café De Binnenstad"
       },
       {
-        "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
-        "name": "Café De Blauwe Kater"
-      },
-      {
         "id": "cafe-de-boekanier-hindeloopen-eb8a931",
         "name": "Café De Boekanier"
       },
@@ -20962,10 +21542,6 @@
       {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
-      },
-      {
-        "id": "club33-dokkum-e7228a2",
-        "name": "Club33"
       },
       {
         "id": "danscafe-tante-sientje-drachten-b8e305c",
@@ -21144,10 +21720,6 @@
         "name": "Grand Café De Vrienden"
       },
       {
-        "id": "grand-cafe-de-waegh-dokkum-7305178",
-        "name": "Grand Café de Waegh"
-      },
-      {
         "id": "grand-cafe-het-plein-sneek-b93134f",
         "name": "Grand Café Het Plein"
       },
@@ -21170,10 +21742,6 @@
       {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
-      },
-      {
-        "id": "halve-maan-dokkum-a6661d3",
-        "name": "Halve Maan"
       },
       {
         "id": "harbour-pub-harlingen-7da020c",
@@ -21230,10 +21798,6 @@
       {
         "id": "kafee-8-drachten-e7c0e2d",
         "name": "Kafee 8"
-      },
-      {
-        "id": "kb-food-drinks-dokkum-b461630",
-        "name": "KB Food & Drinks"
       },
       {
         "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
@@ -21386,10 +21950,6 @@
       {
         "id": "spot-langweer-langweer-86e2261",
         "name": "SPOT Langweer"
-      },
-      {
-        "id": "stadscafe-artisante-dokkum-284998e",
-        "name": "Stadscafé Artisante"
       },
       {
         "id": "stadsschouwburg-utrecht-fc1adf8",
@@ -21634,10 +22194,6 @@
         "name": "Café de Beurs"
       },
       {
-        "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
-        "name": "Café De Blauwe Kater"
-      },
-      {
         "id": "cafe-de-boekanier-hindeloopen-eb8a931",
         "name": "Café De Boekanier"
       },
@@ -21832,10 +22388,6 @@
       {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
-      },
-      {
-        "id": "club33-dokkum-e7228a2",
-        "name": "Club33"
       },
       {
         "id": "danscafe-tante-sientje-drachten-b8e305c",
@@ -22106,10 +22658,6 @@
         "name": "Karaokebar de Nachtegaal"
       },
       {
-        "id": "kb-food-drinks-dokkum-b461630",
-        "name": "KB Food & Drinks"
-      },
-      {
         "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
         "name": "Ke-Rijf Bar"
       },
@@ -22190,10 +22738,6 @@
         "name": "Papi’s Comfort Kitchen"
       },
       {
-        "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
-        "name": "Paultje Café Restaurant"
-      },
-      {
         "id": "pjay-ec4ee67",
         "name": "Pjay"
       },
@@ -22252,6 +22796,10 @@
       {
         "id": "sportcafe-tropical-feaa132",
         "name": "Sportcafé Tropical"
+      },
+      {
+        "id": "stadscafe-artisante-dokkum-284998e",
+        "name": "Stadscafé Artisante"
       },
       {
         "id": "stoker-koffiebar-joure-b54d49f",
@@ -22326,7 +22874,7 @@
       {
         "id": "t-kannet-heerenveen-75a1ed4",
         "name": "'t Kannet",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: Waze vermeldt Lindegracht 57, domein tkannet.nl en wo–zo 15–03; eetgerust geeft dezelfde tijden, maar de genoemde officiële site was niet toegankelijk. Geen primaire bevestiging van exploitatie, sluiting of laatste toegang; alle uren blijven onbekend. Hercontrole eigen site/sociale kanalen nodig."
       },
       {
         "id": "t-ouwe-vat-sneek-4873eaa",
@@ -22486,7 +23034,7 @@
       {
         "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
         "name": "Café De Blauwe Kater",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website gecontroleerd 30-10-2026: do 16–02, vr 16–02, za 15–02; overige dagen niet vermeld, dus onbekend (niet automatisch gesloten). Oude sociale/gidsuren noemen di/wo/zo en afwijkende sluitingen; niet overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "cafe-de-boekanier-hindeloopen-eb8a931",
@@ -22756,7 +23304,7 @@
       {
         "id": "club33-dokkum-e7228a2",
         "name": "Club33",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website gecontroleerd 30-10-2026: 'door de allesvernietigende brand op 8 februari 2025 is Club33 voorlopig gesloten'; nieuwjaarsfeest 01-01-2026 vond plaats in De Doelstien, niet op Legeweg 33. Geen actuele reguliere toegang of sluitingstijden. Heropening opvolgen."
       },
       {
         "id": "danscafe-tante-sientje-drachten-b8e305c",
@@ -22792,6 +23340,11 @@
         "id": "de-freonskip-blauwhuis-6bea40d",
         "name": "De Freonskip",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "halve-maan-dokkum-a6661d3",
+        "name": "De Halve Maan",
+        "reason": "Officiële site gecontroleerd 30-10-2026: zo–do 10–23, vr/za 10–02; bier en borrel zonder maaltijd expliciet mogelijk. Laatste toegang niet vermeld."
       },
       {
         "id": "de-heeren-van-heeres-workum-20eccd7",
@@ -23001,7 +23554,7 @@
       {
         "id": "grand-cafe-de-waegh-dokkum-7305178",
         "name": "Grand Café de Waegh",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële homepage 30-10-2026: dagelijks open, di–za vanaf 10:00 en zo/ma vanaf 11:30, zonder sluitingsuren. Een andere eigen URL https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/ toont historisch/feestdagenmateriaal en 10–17; externe gidsen melden 00:00. Niet duidelijk wat actueel is, dus geen eindtijd ingevuld. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-it-skippershus-koudum-04a6af3",
@@ -23116,7 +23669,7 @@
       {
         "id": "kb-food-drinks-dokkum-b461630",
         "name": "KB Food & Drinks",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen https://kbfood.nl/kbfood/ 30-10-2026: ma 12–23, di 11–23, wo/do 10–00, vr/za 10–01, zo gesloten. Visit Wadden vermeldt afwijkende begintijden wo/vr; leerbedrijvenpagina afwijkende vr/za-eindtijden 02:00; bedrijfseigen rooster gebruikt. Laatste toegang onbekend."
       },
       {
         "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
@@ -23194,11 +23747,6 @@
         "reason": "Officiële homepage: ma/di 16–01, wo/do/zo 12–01, vr/za 12–02. Eigen contact-/reserveringspagina vermeldt afwijkend ma/di 12–01; homepage als primaire huidige bron gekozen. Laatste toegang niet vermeld."
       },
       {
-        "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
-        "name": "Paultje Café Restaurant",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
         "name": "Pizzeria De Branding",
         "reason": "Officiële contactpagina 30-10-2026: ma/di gesloten, wo–zo 16:00–21:30. Eigen site noemt nog 'gesloten tot 1 april 2026' als oude melding; actuele exploitatie niet live geverifieerd. Alleen voor drank binnenlopen en laatste toegang onbekend."
@@ -23257,6 +23805,11 @@
         "id": "spoarke-blije-blije-0cf8177",
         "name": "Spoarke Blije",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "stadscafe-artisante-dokkum-284998e",
+        "name": "Stadscafé Artisante",
+        "reason": "Eigen site 30-10-2026: wo–za vanaf 10:00, zo–di vanaf 11:00, zonder sluitingsuren. Lokale stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo tot 22:00, vr/za tot 02:00; Cylex en Fietsnetwerk melden afwijkende 23/23:30/01:00. Alle eindtijden onbekend gezet; niet uit onbetrouwbaar rooster afleiden. Laatste toegang onbekend."
       },
       {
         "id": "stichtse-taveerne-88f4900",
