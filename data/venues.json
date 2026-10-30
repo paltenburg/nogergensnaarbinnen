@@ -19070,7 +19070,13 @@
         "https://cafedestam-joure.nl/over-cafe-de-stam/",
         "https://www.joure.nl/activiteit/cafe-de-stam",
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-stam-joure-b-v-joure-90105648-000003078442"
-      ]
+      ],
+      "geo": {
+        "lat": 52.9694684,
+        "lon": 5.7920044,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Douwe Egberts Plein 3, 8501AB Joure"
+      }
     },
     {
       "city": "Joure",
@@ -19119,7 +19125,13 @@
         "https://www.friesland.nl/nl/locaties/3031388217/roest-joure",
         "https://www.overuwbuurt.nl/kennisgeving/appelwyk-11-8501-bm-joure-zijl-3-8501-az-joure-verleende-evenementenvergunning-inrichten-van-een-horecaplein-rond-de-tolhuisbrug-tijdens-de-jouster-merke-z-904342/8846180"
       ],
-      "geocode_notes": "Friesland.nl en officiële gemeentelijke bekendmaking gebruiken BAG-straatnaam Appelwyk 11 (8501 BM), terwijl exploitantwebsite 'Appelwijk 11' schrijft. Adres op basis van onafhankelijke regio-/gemeentebron genormaliseerd, exacte PDOK-match door workflow nog te bevestigen."
+      "geocode_notes": "Friesland.nl en officiële gemeentelijke bekendmaking gebruiken BAG-straatnaam Appelwyk 11 (8501 BM), terwijl exploitantwebsite 'Appelwijk 11' schrijft. Adres op basis van onafhankelijke regio-/gemeentebron genormaliseerd, exacte PDOK-match door workflow nog te bevestigen.",
+      "geo": {
+        "lat": 52.9700608,
+        "lon": 5.7921885,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Appelwyk 11, 8501BM Joure"
+      }
     }
   ],
   "admission_policies": [

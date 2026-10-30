@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 431,
-    "source_urls": 721,
-    "domains": 350,
-    "direct_website_fields": 248
+    "venues": 433,
+    "source_urls": 752,
+    "domains": 361,
+    "direct_website_fields": 255
   },
   "discovery_sites": [
     {
@@ -150,8 +150,8 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 21,
-      "linked_venues": 21
+      "source_pages": 28,
+      "linked_venues": 27
     },
     {
       "domain": "uitgaanskaart.nl",
@@ -165,17 +165,17 @@
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 15,
-      "linked_venues": 15
+      "source_pages": 16,
+      "linked_venues": 16
+    },
+    {
+      "domain": "cylex.nl",
+      "source_pages": 11,
+      "linked_venues": 11
     },
     {
       "domain": "visitleeuwarden.com",
       "source_pages": 11,
-      "linked_venues": 10
-    },
-    {
-      "domain": "cylex.nl",
-      "source_pages": 10,
       "linked_venues": 10
     },
     {
@@ -309,6 +309,16 @@
       "linked_venues": 1
     },
     {
+      "domain": "centrumlemmer.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "companyinfo.nl",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
       "domain": "dekerijfbar.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -350,6 +360,11 @@
     },
     {
       "domain": "restaurant-terschelling.nl",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
+      "domain": "restaurantguru.com",
       "source_pages": 3,
       "linked_venues": 3
     },
@@ -399,12 +414,22 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafedestam-joure.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafefokks.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
     {
       "domain": "cafekanaalzicht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafethert.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -422,11 +447,6 @@
       "domain": "clubclaar.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "companyinfo.nl",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "dartsgids.nl",
@@ -470,6 +490,11 @@
     },
     {
       "domain": "dewelvaartameland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eersteaanleg.com",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -554,6 +579,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "joure.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "kbfood.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -619,6 +649,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "overuwbuurt.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "paulkruger.frl",
       "source_pages": 2,
       "linked_venues": 1
@@ -654,12 +689,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "restaurantguru.com",
+      "domain": "restaurantstranders.nl",
       "source_pages": 2,
-      "linked_venues": 2
+      "linked_venues": 1
     },
     {
-      "domain": "restaurantstranders.nl",
+      "domain": "roestjoure.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -705,6 +740,11 @@
     },
     {
       "domain": "stichtsetaveerne.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "stokerkoffiebar.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -1484,6 +1524,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "lemmer-leeft.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "levels-harlingen.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1579,6 +1624,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "oranjeriejoure.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "oudaen.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1595,11 +1645,6 @@
     },
     {
       "domain": "ouwestoep.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "overuwbuurt.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1765,6 +1810,16 @@
     },
     {
       "domain": "themick.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "tolhuisjoure.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "top-rated.online",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2082,6 +2137,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+          "name": "Café De Laatste Stuiver",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -2278,6 +2361,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-t-hert_1Q-0513-412-112",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-hert-joure-175cdd8",
+          "name": "Café 't Hert",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-29",
@@ -2300,6 +2407,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/cafe-de-laatste-stuiver-lemmer-06-46273848",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+          "name": "Café De Laatste Stuiver",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.allebiz.nl/de-kroeg_17A-0513-650-560",
@@ -2346,6 +2477,58 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/eetcaf%C3%A9-de-eerste-aanleg-0514-560-300",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+          "name": "Eetcafé De Eerste Aanleg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "lange-piet-lemmer-c0e9ba4",
+          "name": "Lange Piet",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -2518,6 +2701,58 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/restaurant-cafe-centrum-0514-561-360",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Centrum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/the-british-pub-0514-561-856",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-the-british-pub-lemmer-c67c65e",
+          "name": "Eetcafé The British Pub",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -4715,6 +4950,62 @@
       "needs_review": false
     },
     {
+      "url": "https://cafedestam-joure.nl/",
+      "domain": "cafedestam-joure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-stam-joure-20261030",
+          "name": "Café de Stam",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafedestam-joure.nl/over-cafe-de-stam/",
+      "domain": "cafedestam-joure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-stam-joure-20261030",
+          "name": "Café de Stam",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cafedestrohoed.nl/",
       "domain": "cafedestrohoed.nl",
       "first_registered_on": "2026-10-30",
@@ -5246,6 +5537,62 @@
       "needs_review": false
     },
     {
+      "url": "https://cafethert.nl/",
+      "domain": "cafethert.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-hert-joure-175cdd8",
+          "name": "Café 't Hert",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
+      "url": "https://cafethert.nl/contact/",
+      "domain": "cafethert.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-hert-joure-175cdd8",
+          "name": "Café 't Hert",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://cafetilt.nl/",
       "domain": "cafetilt.nl",
       "first_registered_on": "2026-10-26",
@@ -5437,6 +5784,85 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.centrumlemmer.nl/",
+      "domain": "centrumlemmer.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Centrum",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.centrumlemmer.nl/bij-de-koffie/",
+      "domain": "centrumlemmer.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Centrum",
+          "roles": [
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.centrumlemmer.nl/high-tea/",
+      "domain": "centrumlemmer.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Centrum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://centrumutrecht.nl/",
@@ -7464,6 +7890,30 @@
       "needs_review": true
     },
     {
+      "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-stam-joure-b-v-joure-90105648-000003078442",
+      "domain": "companyinfo.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-stam-joure-20261030",
+          "name": "Café de Stam",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/k-sjot-utrecht-96033053-000003294811",
       "domain": "companyinfo.nl",
       "first_registered_on": "2026-10-29",
@@ -7750,6 +8200,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/stuiver-caf%C3%A9-de-laatste-10797282.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
+          "name": "Café De Laatste Stuiver",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://danel-utrecht.nl/contact/",
@@ -9514,6 +9988,63 @@
       "needs_review": true
     },
     {
+      "url": "https://eersteaanleg.com/",
+      "domain": "eersteaanleg.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+          "name": "Eetcafé De Eerste Aanleg",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eersteaanleg.com/contact/",
+      "domain": "eersteaanleg.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
+          "name": "Eetcafé De Eerste Aanleg",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.eetcafe55.nl/",
       "domain": "eetcafe55.nl",
       "first_registered_on": "2026-10-30",
@@ -10773,6 +11304,30 @@
         {
           "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
           "name": "Strandpaviljoen Sjoerd",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/3031388217/roest-joure",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "roest-urban-food-bar-joure-20261030",
+          "name": "ROEST Urban Food Bar",
           "roles": [
             "achtergrond"
           ],
@@ -12668,6 +13223,58 @@
       "needs_review": true
     },
     {
+      "url": "https://www.joure.nl/activiteit/cafe-de-stam",
+      "domain": "joure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-stam-joure-20261030",
+          "name": "Café de Stam",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.joure.nl/activiteit/cafe-t-syl",
+      "domain": "joure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syl-joure-a95c827",
+          "name": "Café 't Syl",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.kaasbarutrecht.nl/",
       "domain": "kaasbarutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -13437,6 +14044,30 @@
         {
           "id": "eetcafe-de-lachende-koe-sneek-267ea95",
           "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://lemmer-leeft.nl/bedrijf/centrum",
+      "domain": "lemmer-leeft.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-cafe-centrum-lemmer-c3d666a",
+          "name": "Restaurant Centrum",
           "roles": [
             "achtergrond"
           ],
@@ -15170,6 +15801,38 @@
       "needs_review": true
     },
     {
+      "url": "https://oranjeriejoure.nl/",
+      "domain": "oranjeriejoure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
+          "name": "Grand Café De Oranjerie",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.oudaen.nl/",
       "domain": "oudaen.nl",
       "first_registered_on": "2026-10-26",
@@ -15276,6 +15939,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.overuwbuurt.nl/kennisgeving/appelwyk-11-8501-bm-joure-zijl-3-8501-az-joure-verleende-evenementenvergunning-inrichten-van-een-horecaplein-rond-de-tolhuisbrug-tijdens-de-jouster-merke-z-904342/8846180",
+      "domain": "overuwbuurt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "roest-urban-food-bar-joure-20261030",
+          "name": "ROEST Urban Food Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16252,6 +16939,30 @@
       "needs_review": true
     },
     {
+      "url": "https://restaurantguru.com/t-Syl-Joure",
+      "domain": "restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syl-joure-a95c827",
+          "name": "Café 't Syl",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://restaurantstranders.nl/",
       "domain": "restaurantstranders.nl",
       "first_registered_on": "2026-10-30",
@@ -16360,6 +17071,64 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.roestjoure.nl/",
+      "domain": "roestjoure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "roest-urban-food-bar-joure-20261030",
+          "name": "ROEST Urban Food Bar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.roestjoure.nl/data/pam/public/dranken_voorjaar_26_roest_definitief.pdf",
+      "domain": "roestjoure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "roest-urban-food-bar-joure-20261030",
+          "name": "ROEST Urban Food Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -17285,6 +18054,62 @@
       "needs_review": true
     },
     {
+      "url": "https://stokerkoffiebar.nl/",
+      "domain": "stokerkoffiebar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "stoker-koffiebar-joure-b54d49f",
+          "name": "Stoker Koffiebar",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://stokerkoffiebar.nl/contact/",
+      "domain": "stokerkoffiebar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "stoker-koffiebar-joure-b54d49f",
+          "name": "Stoker Koffiebar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.storm-terschelling.nl/",
       "domain": "storm-terschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -17957,6 +18782,54 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.tolhuisjoure.nl/",
+      "domain": "tolhuisjoure.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "roest-urban-food-bar-joure-20261030",
+          "name": "ROEST Urban Food Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.top-rated.online/cities/Joure/place/p/16960509/Caf%C3%A9%2B%27T%2BSYL",
+      "domain": "top-rated.online",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syl-joure-a95c827",
+          "name": "Café 't Syl",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://toque.nl/",
@@ -19637,7 +20510,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "cafe-t-syl-joure-a95c827",
@@ -19946,7 +20819,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "cafe-le-duc-lemmer-adc5a8b",
@@ -19995,7 +20868,7 @@
         },
         {
           "id": "restaurant-cafe-centrum-lemmer-c3d666a",
-          "name": "Restaurant Café Centrum",
+          "name": "Restaurant Centrum",
           "roles": [
             "achtergrond"
           ],
@@ -24777,10 +25650,6 @@
         "name": "Café 't Diekje"
       },
       {
-        "id": "cafe-t-hert-joure-175cdd8",
-        "name": "Café 't Hert"
-      },
-      {
         "id": "cafe-t-singeltje-sneek-2a92fa4",
         "name": "Café 't Singeltje"
       },
@@ -25065,10 +25934,6 @@
         "name": "Eetcafé de Dammesaan"
       },
       {
-        "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
-        "name": "Eetcafé De Eerste Aanleg"
-      },
-      {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
         "name": "Eetcafé De Gondel"
       },
@@ -25135,10 +26000,6 @@
       {
         "id": "grand-cafe-bullock-bolsward-e66a509",
         "name": "Grand Café Bullock"
-      },
-      {
-        "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
-        "name": "Grand Café De Oranjerie"
       },
       {
         "id": "grand-cafe-de-vrienden-45afa11",
@@ -25301,10 +26162,6 @@
         "name": "Pub De Steeg"
       },
       {
-        "id": "restaurant-cafe-centrum-lemmer-c3d666a",
-        "name": "Restaurant Café Centrum"
-      },
-      {
         "id": "restaurant-de-zakkendrager-ae31744",
         "name": "Restaurant De Zakkendrager"
       },
@@ -25351,10 +26208,6 @@
       {
         "id": "stadsschouwburg-utrecht-fc1adf8",
         "name": "Stadsschouwburg Utrecht"
-      },
-      {
-        "id": "stoker-koffiebar-joure-b54d49f",
-        "name": "Stoker Koffiebar"
       },
       {
         "id": "sumventure-flightbar-9f750e7",
@@ -25867,10 +26720,6 @@
         "name": "Eetcafé de Dammesaan"
       },
       {
-        "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
-        "name": "Eetcafé De Eerste Aanleg"
-      },
-      {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
         "name": "Eetcafé De Gondel"
       },
@@ -25949,10 +26798,6 @@
       {
         "id": "grand-cafe-bullock-bolsward-e66a509",
         "name": "Grand Café Bullock"
-      },
-      {
-        "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
-        "name": "Grand Café De Oranjerie"
       },
       {
         "id": "grand-cafe-de-vrienden-45afa11",
@@ -26140,7 +26985,7 @@
       },
       {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
-        "name": "Restaurant Café Centrum"
+        "name": "Restaurant Centrum"
       },
       {
         "id": "restaurant-de-huyskamer-buren-ameland-20261030",
@@ -26157,6 +27002,10 @@
       {
         "id": "rocking-chair-c8ed632",
         "name": "Rocking Chair"
+      },
+      {
+        "id": "roest-urban-food-bar-joure-20261030",
+        "name": "ROEST Urban Food Bar"
       },
       {
         "id": "rosie-4524621",
@@ -26189,10 +27038,6 @@
       {
         "id": "stadsherberg-de-wijnberg-bolsward-20261030",
         "name": "Stadsherberg De Wijnberg"
-      },
-      {
-        "id": "stoker-koffiebar-joure-b54d49f",
-        "name": "Stoker Koffiebar"
       },
       {
         "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
@@ -26368,11 +27213,6 @@
         "reason": "Bedrijfsregistratie 12-02-2026 op Dijkstraat 47 bevestigd; actuele publieksopening niet onafhankelijk bewezen. VindOpen en AlleBiz verschillen over dinsdag/donderdag eindtijden; oude diekje.nl niet als huidige eigen site bevestigd. Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
       },
       {
-        "id": "cafe-t-hert-joure-175cdd8",
-        "name": "Café 't Hert",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-t-noorderke-harlingen-9f9ff92",
         "name": "Café 't Noorderke",
         "reason": "Eigen site: vanaf 11:30, di/wo gesloten, keuken tot 21:00; sluiting/laatste toegang niet vermeld. Toeristische gids noemt 21:30, andere gids 23:00; niet overgenomen. Eigen site bevestigt Noorderhaven 17, terwijl sommige gidsen Noorderhaven 19 vermelden. 2026-10-30."
@@ -26395,7 +27235,7 @@
       {
         "id": "cafe-t-syl-joure-a95c827",
         "name": "Café 't Syl",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Joure.nl noemt café 't Syl, Zijl 3. Eigen site tsyl.nl niet bereikbaar (502). Top-Rated noemt maandag gesloten; RestaurantGuru maandag open en afwijkende uren. Geen einduren of laatste toegang als zeker ingevoerd."
       },
       {
         "id": "cafe-t-syltsje-bakhuizen-319434c",
@@ -26513,11 +27353,6 @@
         "reason": "Officiële site (29-10-2026): wo/do vanaf 16:00, vr/za/zo vanaf 14:00; ma/di gesloten; sluiting UITERLIJK 01:45, bij speciale avonden/Sneekweek afwijkingen. Geen expliciete laatste toegang en geen exact sluitingsuur. De UI toont 'Uiterlijk 01:45' als bovengrens; de zaak wordt bij een streng tijdsfilter niet als gegarandeerd toegankelijk getoond. Andere gidsen noemen 03:00/04:00, maar wijken af van de huidige eigen site."
       },
       {
-        "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
-        "name": "Café De Laatste Stuiver",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-de-landerije-steggerda-2dfe96e",
         "name": "Café De Landerije",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -26561,6 +27396,11 @@
         "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
         "name": "Café De Skoffel",
         "reason": "Eigen website 30-10-2026 noemt de zaak Café De Skoffel (oude inventarisatienaam 't Skoffeltsje), Nieuwstraat 3, dagelijks geopend: ma-vr vanaf 14:00, za/zo vanaf 12:00. Eindtijden en laatste toegang niet gepubliceerd; weekend- en feestdagopeningen kunnen eerder zijn."
+      },
+      {
+        "id": "cafe-de-stam-joure-20261030",
+        "name": "Café de Stam",
+        "reason": "Eigen site geeft dit vaste weekrooster; sommige gidsen vermelden afwijkende tijden. Website bevat oud nieuws maar bedrijfsregistratie in 2026 bevestigt vestiging. 18+, geen geverifieerde laatste toegang."
       },
       {
         "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
@@ -26875,7 +27715,7 @@
       {
         "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
         "name": "Eetcafé De Eerste Aanleg",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: ma/do 15–22, di/wo dicht, vr/za 12–23, zo 12–22. Oudere gidsen geven afwijkende dagen en uren; eigen site gevolgd. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
@@ -26925,7 +27765,7 @@
       {
         "id": "eetcafe-the-british-pub-lemmer-c67c65e",
         "name": "Eetcafé The British Pub",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "AlleBiz noemt Oudesluis 7 en horecabedrijventijsseling.nl; exploitantwebsite niet bereikbaar, geen actuele zelfstandige bevestiging van openstelling, geen weekrooster of laatste toegang."
       },
       {
         "id": "eetcafe-wever-oldeholtpade-83fe9b9",
@@ -26980,7 +27820,7 @@
       {
         "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
         "name": "Grand Café De Oranjerie",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële site: ma–wo gesloten, do–zo 11:00–22:00, geen laatste toegang."
       },
       {
         "id": "grand-cafe-de-oude-stoep-vlieland-168af32",
@@ -27108,11 +27948,6 @@
         "reason": "Alleen reguliere RESTAURANT-uren overgenomen, niet de afwijkende tijden voor zaalverhuur."
       },
       {
-        "id": "lange-piet-lemmer-c0e9ba4",
-        "name": "Lange Piet",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "le-journal-1b1cfeb",
         "name": "Le Journal",
         "reason": "Vanwege verbouwing tijdelijk gesloten; officiële site kondigt heropening op 2 november 2026 aan. Tot bevestiging van feitelijke heropening niet opnemen als geopend; nieuwe openings- en sluitingstijden nog onbekend. Controle nodig op of na 2 november."
@@ -27194,8 +28029,8 @@
       },
       {
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
-        "name": "Restaurant Café Centrum",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "Restaurant Centrum",
+        "reason": "Eigen site toont dagelijks vanaf 11:00 op meeste pagina's, maar high-tea-pagina noemt 10:00. Lokale Lemmer Leeft noemt vanaf 11:00. Geen officiële eindtijd; AlleBiz 00/02 en Firmania 21:00 niet overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "restaurant-de-huyskamer-buren-ameland-20261030",
@@ -27211,6 +28046,11 @@
         "id": "restaurant-stranders-buren-ameland-b7e5d3a",
         "name": "Restaurant StrAnders",
         "reason": "Officiële site 30-10-2026: ma gesloten, di–zo 12:00–21:30. Takeaway tot 19:30 is NIET sluiting restaurant. Instagram meldt speciale oktoberuren; actuele afwijkingen en laatste toegang onbekend. Adres Strandweg 71 bevestigd via externe horecagids, niet op eigen contacttekst."
+      },
+      {
+        "id": "roest-urban-food-bar-joure-20261030",
+        "name": "ROEST Urban Food Bar",
+        "reason": "tolhuisjoure.nl verwijst naar ROEST, officiële site meldt transformatie van Het Tolhuis. Gepubliceerde tijden (ma/di 17–21, vr–zo 17–22, wo/do dicht) zijn expliciet voor 1 september–3 oktober 2026, dus op 30 oktober geen geldig weekrooster. Nieuwe naam/exploitatie bevestigd, geen vaste sluiting of laatste toegang aangenomen."
       },
       {
         "id": "schotse-vier-midsland-6021740",
@@ -27255,7 +28095,7 @@
       {
         "id": "stoker-koffiebar-joure-b54d49f",
         "name": "Stoker Koffiebar",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen contactpagina geeft volledige weekuren; laatste toegang onbekend."
       },
       {
         "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
