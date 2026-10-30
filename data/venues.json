@@ -14995,33 +14995,48 @@
       "city": "Nes",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site noemt publiek café, restaurant en stapavonden; geen laatste toegang genoemd.",
+      "alcohol": "Eigen site noemt speciaalbieren, wijnen, whisky en cocktails.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://www.nes-cafe-ameland.nl/",
+      "closing_notes": "Eigen site zo–do 10:00–01:00, vr/za 10:00–04:00; laatste toegang niet vermeld. Geen afzonderlijk seizoensrooster gevonden.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.nes-cafe-ameland.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/nes"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site met actuele menukaart en contactgegevens gecontroleerd 30-10-2026; geen live-garantie.",
       "geo": {
         "lat": 53.4451867,
         "lon": 5.7729605,
         "method": "PDOK BAG-adres",
         "matched_address": "van Heeckerenstraat 10, 9163GZ Nes"
-      }
+      },
+      "website_provenance": "Eigen site bevestigt Nes Café, Van Heeckerenstraat 10, alcohol en weekrooster.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.nes-cafe-ameland.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026"
     },
     {
       "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
@@ -15067,7 +15082,7 @@
       "city": "Ballum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Eigen site: publiek eetcafé met reserveringsmogelijkheid; geen toegangslimiet genoemd.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -15079,13 +15094,14 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Eigen website vermeldt geen eindtijd; laatste toegang onbekend.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen site dagelijks vanaf 11:00, voor ontbijt op reservering eerder. Geen officiële sluitingstijden of laatste toegang gevonden; niet ingevuld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.eetcafedeboerderij.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/ballum"
+        "https://uitgaanskaart.nl/cafe/ballum",
+        "https://www.eetcafedeboerderij.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -15093,35 +15109,52 @@
         "lon": 5.6867063,
         "method": "PDOK BAG-adres",
         "matched_address": "Camminghastraat 22, 9162EM Ballum"
-      }
+      },
+      "website_provenance": "Eigen site en contactpagina bevestigen Eetcafé De Boerderij, Camminghastraat 22 Ballum.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.eetcafedeboerderij.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen website vermeldt dagelijks vanaf 11:00; op reservering ontbijt eerder mogelijk."
     },
     {
       "id": "amelander-bierbrouwerij-ballum-32e95e9",
       "name": "Amelander Bierbrouwerij",
-      "type": "Biercafé",
+      "type": "Brouwerij / publiek proeflokaal",
       "address": "Smitteweg 6",
       "city": "Ballum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek proeflokaal tijdens gepubliceerde uren; na 14:00 geen reserveringen mogelijk volgens eigen site, maar inloop wel (mits plaats). Geen laatste toegang bevestigd.",
+      "alcohol": "Eigen site bevestigt tapbier, wijn en likeur in proeflokaal.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "—",
+        "za": "17:00",
+        "zo": "17:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://www.amelanderbier.nl/openingstijden/",
+      "closing_notes": "Officiële pagina 'actuele openingstijden' vermeldt proeflokaal ma/di/vr gesloten, wo/do/za/zo 13:00–17:00. Winkel kan op afspraak ook buiten proeflokaaluren openen; dit is GEEN publieke toegang tot het proeflokaal. Seizoensafwijkingen mogelijk, laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.amelanderbier.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/ballum"
+        "https://uitgaanskaart.nl/cafe/ballum",
+        "https://www.amelanderbier.nl/proeflokaal/",
+        "https://www.amelanderbier.nl/openingstijden/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -15129,7 +15162,22 @@
         "lon": 5.7064254,
         "method": "PDOK BAG-adres",
         "matched_address": "Smitteweg 6, 9162EC Ballum"
-      }
+      },
+      "website_provenance": "Eigen site bevestigt brouwerij én publiek proeflokaal, Smitteweg 6 Ballum.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "—",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://www.amelanderbier.nl/openingstijden/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026"
     },
     {
       "id": "herberg-de-zwaan-hollum-b0512f5",
@@ -15139,33 +15187,48 @@
       "city": "Hollum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Eigen site noemt bar, restaurant en terras voor bezoekers; geen laatste toegang.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "22:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://www.herbergdezwaan.nl/",
+      "closing_notes": "Eigen site ma/di gesloten, wo/do/za/zo 11:00–22:00, vrijdag 11:00–00:00. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.herbergdezwaan.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/hollum"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website (2026) en weekrooster gecontroleerd 30-10-2026; geen live-garantie.",
       "geo": {
         "lat": 53.4412576,
         "lon": 5.6380021,
         "method": "PDOK BAG-adres",
         "matched_address": "Zwaneplein 6, 9161BS Hollum"
-      }
+      },
+      "website_provenance": "Eigen site bevestigt Herberg De Zwaan, Hollum, bar en weekrooster.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.herbergdezwaan.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026"
     },
     {
       "id": "cafe-bok-hollum-f23e5ba",
@@ -15211,25 +15274,26 @@
       "city": "Hollum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site: publiek speciaalbiercafé en restaurant; laatste toegang niet vermeld.",
+      "alcohol": "Eigen site bevestigt speciaalbieren en high beer.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026; laatste toegang onbekend",
+      "closing_source": "https://dewelvaartameland.nl/contact/",
+      "closing_notes": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://dewelvaartameland.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/hollum"
+        "https://uitgaanskaart.nl/cafe/hollum",
+        "https://dewelvaartameland.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -15237,7 +15301,22 @@
         "lon": 5.6404857,
         "method": "PDOK BAG-adres",
         "matched_address": "Burenlaan 4, 9161AK Hollum"
-      }
+      },
+      "website_provenance": "Eigen site bevestigt speciaalbiercafé, Burenlaan 4 Hollum en actuele weektijden.",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://dewelvaartameland.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen bedrijfswebsite, rechtstreeks gecontroleerd 30-10-2026"
     },
     {
       "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
