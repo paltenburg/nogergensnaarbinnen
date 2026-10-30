@@ -20940,6 +20940,51 @@
         "https://www.friesland.nl/nl/locaties/3712390677/de-buurman-1"
       ],
       "original_status": "Eigen website bevestigt actuele publieke horeca en alcohol; alleen beginuren exact, minimale einduren zijn geen sluitingstijden."
+    },
+    {
+      "id": "strandhuys-makkum-20261030",
+      "name": "Strandhuys Makkum",
+      "type": "Strandrestaurant / borrel",
+      "address": "De Holle Poarte 10",
+      "city": "Makkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt restaurant voor zowel hotelgasten als bezoekers; zonder reservering binnenlopen voor een borrel volgens eigen beschrijving.",
+      "alcohol": "Eigen actuele menupagina noemt cocktails, wijnen en likeuren; eigen drankenkaart uit 2025 bevat alcoholische dranken.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "07:00",
+        "di": "07:00",
+        "wo": "07:00",
+        "do": "07:00",
+        "vr": "07:00",
+        "za": "07:00",
+        "zo": "07:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen website noemt dagelijks 07:00–23:00; keuken rond 21:00 is geen cafésluiting.",
+      "closing_source": "https://www.strandhuysmakkum.nl/over-ons",
+      "closing_notes": "30-10-2026: exploitant noemt dagelijks 07:00–23:00, vrije inloop voor borrel. Keuken sluit rond 21:00; dat is niet als laatste toegang of algemene sluiting gebruikt. Geen gepubliceerde laatste toegang, eventuele afwijkende feestdaguren onbekend. Niet verwarren met Strandbar Thuishaven aan De Skilbank 5.",
+      "features": "D0 Súdwest-Fryslân / Makkum; strandrestaurant en wijn/cocktails",
+      "website": "https://www.strandhuysmakkum.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.strandhuysmakkum.nl/over-ons",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.strandhuysmakkum.nl/menukaart",
+        "https://www.strandhuysmakkum.nl/overnachten",
+        "https://www.friesland.nl/nl/locaties/1251386334/strandhotel-vigilante-strandhuys-makkum"
+      ],
+      "original_status": "Officiële site bevestigt actuele exploitatie, adres, borrel, alcohol en volledig dagelijks rooster; laatste toegang onbekend."
     }
   ],
   "admission_policies": [
