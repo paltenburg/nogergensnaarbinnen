@@ -18366,7 +18366,7 @@
       "address": "Havenweg 3",
       "city": "Vlieland",
       "access": "Eigen site nodigt publiek uit voor terras en bar",
-      "alcohol": "Café/restaurant met hoge bar; drankaanbod en borrelfunctie volgens eigen site, specifiek alcoholmenu nog te verifiëren",
+      "alcohol": "Eigen menukaart bevestigt tapbier (o.a. Affligem en Fortuna), cocktails en gedistilleerd; menuversie uit 2025/2026, actueel assortiment kan wijzigen.",
       "opening": {
         "ma": "10:00",
         "di": "—",
@@ -18388,10 +18388,13 @@
       "opening_quality": "Eigen website weekrooster",
       "closing_quality": "Eigen website weekrooster",
       "closing_source": "https://gestrandvlieland.nl/",
-      "closing_notes": "30-10-2026: eigen website ma/do–zo 10:00–22:00, di/wo gesloten; Havenweg 3. Externe gidsen noemen afwijkende huisnummers 1/4 en dagelijkse uren, niet overgenomen. Laatste toegang en exacte alcoholkaart nog te verifiëren.",
+      "closing_notes": "30-10-2026: eigen website ma/do–zo 10:00–22:00, di/wo gesloten; Havenweg 3. Externe gidsen noemen afwijkende huisnummers 1/4 en dagelijkse uren, niet overgenomen. Laatste toegang onbekend; eigen menukaart bevestigt alcoholaanbod.",
       "website": "https://gestrandvlieland.nl/",
       "website_checked_on": "2026-10-30",
-      "other_sources": [],
+      "other_sources": [
+        "https://gestrandvlieland.nl/site/assets/files/1016/gestrand_menukaart_winter25_6.pdf",
+        "https://vlieland.net/nl/bedrijf/gestrand"
+      ],
       "original_status": "Actuele eigen website met publieke bar en openingstijden; geen live deurcheck."
     },
     {
