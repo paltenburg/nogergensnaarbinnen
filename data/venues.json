@@ -22594,6 +22594,50 @@
         "https://www.taf.frl/bijeenkomsten/najaarsbijeenkomst-visit-noardwest-fryslan-2025/"
       ],
       "original_status": "Eigen site plus bedrijfsregistratie 2026; exacte actuele sluiting en laatst toegelaten tijd onbekend."
+    },
+    {
+      "id": "eetcafe-de-buorren-uitwellingerga-20261030",
+      "name": "Eetcafé de Buorren",
+      "type": "Dorpscafé / eetcafé",
+      "address": "Buorren 4",
+      "city": "Uitwellingerga",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publiek bruin dorpscafé, vrije inloop voor drankje en diner; snackbar en besloten feesten afzonderlijk. Pand staat te koop maar exploitant meldt door te gaan totdat verkoop rond is.",
+      "alcohol": "Eigen menukaart vermeldt onder meer Joustra Beerenburg, whiskey, Amaretto en likeuren in speciale koffies; eigen site biedt openbare borrel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website wo–zo 17:00–22:00, ma/di gesloten; afzonderlijke aangekondigde besloten feesten wijken af.",
+      "closing_source": "https://eetcafedebuorren.nl/eetcafe/",
+      "closing_notes": "30-10-2026: https://eetcafedebuorren.nl/ en https://eetcafedebuorren.nl/eetcafe/ bevestigen adres Buorren 4, 8624 TN Uitwellingerga, vrije borrel, horeca-uren wo–zo 17–22 en ma/di gesloten. Eigen site meldt dat exploitatie doorgaat ondanks verkoopadvertentie; geen einddatum. Specifieke uitzonderingen: za 31 oktober, zo 1 november, vr 6 november en vr 20 november 2026 gesloten voor regulier eetcafé wegens besloten feesten; snackbar kan apart open zijn. Deze eventafwijkingen niet als reguliere weekuren overgenomen. Laatste toegang onbekend. Andere 'De Buorren' op Buorren 85 in Tzummarum is een aparte, nog niet voor alcohol geverifieerde locatie.",
+      "features": "D0 Súdwest-Fryslân / Uitwellingerga; uitzonderingsdagen 31-10, 01-11, 06-11, 20-11 2026; pand te koop",
+      "website": "https://eetcafedebuorren.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://eetcafedebuorren.nl/eetcafe/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://eetcafedebuorren.nl/eetcafe/",
+        "https://www.allebiz.nl/eetcaf%C3%A9-de-buorren-06-11495788"
+      ],
+      "original_status": "Eigen exploitantsite bevat evenementen in oktober–december 2026, bevestigt voortgezette exploitatie en reguliere weekuren."
     }
   ],
   "admission_policies": [
