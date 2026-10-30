@@ -17365,6 +17365,136 @@
       ],
       "original_status": "Nieuw horecaconcept en officiële website bevestigd 29-10-2026; daadwerkelijke publieke ingebruikname niet bevestigd. Niet standaard tonen.",
       "geocode_notes": "BAG-afgeleide bron toont op Kleine Kerkstraat 4 alleen 4a, 4b en 4c; de karaokebar heeft geen afzonderlijk door het bedrijf bevestigd suffix. 1841-complex bevat meerdere concepten. Geen 4a/4b/4c toewijzen zonder expliciet bewijs; kaartmarker blijft ontbreken."
+    },
+    {
+      "id": "pizzeria-de-branding-buren-ameland-4c6e2d1",
+      "name": "Pizzeria De Branding",
+      "type": "Pizzeria/bar",
+      "address": "Strandweg 42",
+      "city": "Buren",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Restaurant met zitplaatsen en bar; publieke inloop voor alleen een drankje niet afzonderlijk bevestigd",
+      "alcohol": "Bier en wijn vermeld bij zaak door Tripadvisor; bedrijfseigen drankmenu niet afzonderlijk ingezien",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "21:30",
+        "do": "21:30",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "21:30"
+      },
+      "closing_quality": "Officiële bestel-/contactwebsite (mogelijk restauranturen, niet laatste toegang)",
+      "closing_source": "https://www.pizzeria-debranding.nl/contact",
+      "closing_notes": "Officiële contactpagina 30-10-2026: ma/di gesloten, wo–zo 16:00–21:30. Eigen site noemt nog 'gesloten tot 1 april 2026' als oude melding; actuele exploitatie niet live geverifieerd. Alleen voor drank binnenlopen en laatste toegang onbekend.",
+      "checked_on": "2026-10-30",
+      "features": "Ameland; Buren; restaurant met bar",
+      "website": "https://www.pizzeria-debranding.nl/",
+      "other_sources": [
+        "https://www.pizzeria-debranding.nl/contact",
+        "https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html"
+      ],
+      "original_status": "Officiële website actief; daadwerkelijke publieke exploitatie op controledatum niet ter plaatse bevestigd"
+    },
+    {
+      "id": "restaurant-stranders-buren-ameland-b7e5d3a",
+      "name": "Restaurant StrAnders",
+      "type": "Restaurant/borrel",
+      "address": "Strandweg 71",
+      "city": "Buren",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publiek restaurant; eigen site adviseert reserveren, losse borrel zonder maaltijd niet expliciet bevestigd",
+      "alcohol": "Wijn expliciet aangeboden op eigen website",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "21:30",
+        "wo": "21:30",
+        "do": "21:30",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "21:30"
+      },
+      "closing_quality": "Officiële website (restauranturen; seizoensafwijkingen mogelijk)",
+      "closing_source": "https://restaurantstranders.nl/contact/",
+      "closing_notes": "Officiële site 30-10-2026: ma gesloten, di–zo 12:00–21:30. Takeaway tot 19:30 is NIET sluiting restaurant. Instagram meldt speciale oktoberuren; actuele afwijkingen en laatste toegang onbekend. Adres Strandweg 71 bevestigd via externe horecagids, niet op eigen contacttekst.",
+      "checked_on": "2026-10-30",
+      "features": "Ameland; Buren; wijn en visrestaurant",
+      "website": "https://restaurantstranders.nl/",
+      "other_sources": [
+        "https://restaurantstranders.nl/contact/",
+        "https://www.hfsfreelancers.nl/locaties/buren/restaurants/restaurant-stranders-2732931306"
+      ],
+      "original_status": "Actuele eigen website met oktoberberichten, geen fysieke openingscontrole"
+    },
+    {
+      "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
+      "name": "Strandpaviljoen Sjoerd",
+      "type": "Strandpaviljoen/borrel",
+      "address": "Strand van Nes (postadres Strandweg 65, Buren)",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website: overdag en terras zonder reservering toegankelijk",
+      "alcohol": "Amelander bieren expliciet genoemd op eigen menukaartpagina",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.sjoerd-ameland.nl/openingstijden-en-contact/",
+      "closing_notes": "Eigen site 30-10-2026: ma–wo 10–18, do–zo 10–22. Eigen pagina zegt 'do t/m z0', als donderdag t/m zondag geïnterpreteerd; feestdagen/seizoen en laatste toegang onbekend. Fysieke ligging strand van Nes; Strandweg 65 Buren is expliciet POSTadres, niet als fysiek pand gegeocodeerd. Officiële GPS N53.460155 E5.778620.",
+      "checked_on": "2026-10-30",
+      "features": "Ameland; strand van Nes; officiële GPS-coördinaten",
+      "website": "https://www.sjoerd-ameland.nl/",
+      "other_sources": [
+        "https://www.sjoerd-ameland.nl/menukaart/",
+        "https://www.friesland.nl/nl/locaties/2922153309/strandpaviljoen-sjoerd",
+        "https://www.persbureau-ameland.nl/paviljoen-sjoerd-maakt-zich-klaar-voor-nieuw-seizoen"
+      ],
+      "original_status": "Eigen site actief en publieke strandhoreca beschreven; fysieke exploitatie niet ter plaatse gecontroleerd",
+      "geo": {
+        "lat": 53.460155,
+        "lon": 5.77862,
+        "method": "Officiële website GPS",
+        "matched_address": "Strandpaviljoen Sjoerd, strand van Nes, Ameland"
+      }
     }
   ],
   "admission_policies": [
