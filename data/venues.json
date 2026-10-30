@@ -18388,10 +18388,137 @@
       "closing_notes": "30-10-2026: eigen website ma/do–zo 10:00–22:00, di/wo gesloten; Havenweg 3. Externe gidsen noemen afwijkende huisnummers 1/4 en dagelijkse uren, niet overgenomen. Laatste toegang en exacte alcoholkaart nog te verifiëren.",
       "website": "https://gestrandvlieland.nl/",
       "website_checked_on": "2026-10-30",
-      "other_sources": [
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3266546825/havenpaviljoen-de-dining-vlieland"
-      ],
+      "other_sources": [],
       "original_status": "Actuele eigen website met publieke bar en openingstijden; geen live deurcheck."
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "eetcafe-t-praethuys-vlieland-20261030",
+      "name": "Eetcafé 't Praethuys",
+      "type": "Eetcafé/borrel",
+      "address": "Dorpsstraat 61",
+      "city": "Vlieland",
+      "access": "WestCord nodigt iedereen uit om aan te schuiven aan bar of leestafel",
+      "alcohol": "Eigen exploitant vermeldt uitgebreide borrelkaart; alcoholsoorten in menukaart nader te specificeren",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitant: 10:00 alle dagen in beide seizoensroosters",
+      "closing_quality": "Seizoensrooster: oktober–april zo–do 21:00, vr/za 22:00; mei–september dagelijks 22:00. Niet als jaarrond eindtijd ingevoerd.",
+      "closing_source": "https://westcordhotels.nl/restaurants/praethuys/",
+      "closing_notes": "30-10-2026: eigen WestCord-site noemt laagseizoen oktober–april zo–do 10–21, vr/za 10–22, hoogseizoen mei–september dagelijks 10–22. Wegens ontbreken seizoensfilter zijn eindtijden onbekend gehouden; zie bron voor seizoen. Eigen adres Dorpsstraat 61 (VVV noemt 59). Losse zaak naast ZeeVaert, geen duplicaat. Laatste toegang onbekend.",
+      "website": "https://westcordhotels.nl/restaurants/praethuys/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://westcordhotels.nl/restaurants/praethuys/menu/",
+        "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys"
+      ],
+      "original_status": "WestCord exploiteert openbaar eetcafé met bar, seizoensafhankelijke sluiting; geen live deurcheck."
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "de-brassery-vlieland-20261030",
+      "name": "De Brassery",
+      "type": "Hotelbrasserie/borrel",
+      "address": "Badweg 3",
+      "city": "Vlieland",
+      "access": "WestCord en VVV bevestigen toegang tot brasserie voor lunch/diner/aperitief; geen verplichte hotelovernachting genoemd",
+      "alcohol": "VVV noemt expliciet wijn en aperitief bij open haard",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "WestCord hotelinfo: dagelijks vanaf 10:00",
+      "closing_quality": "Exploitant vermeldt diner/keuken tot 21:30 (vr/za 22:30), niet de feitelijke barsluiting",
+      "closing_source": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+      "closing_notes": "30-10-2026: dagelijks vanaf 10:00 bevestigd; lunch 11–17, diner 17–21:30 (vr/za 22:30) zijn maaltijduren, niet de barsluiting. Laagseizoenkeuken kan afwijken. Laatste toegang en bar-eindtijd onbekend.",
+      "website": "https://westcordhotels.nl/restaurants/de-brassery/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://vlieland.net/nl/bedrijf/de-brassery",
+        "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/"
+      ],
+      "original_status": "WestCord en VVV bevestigen brasserie met wijn/aperitief in Strandhotel Seeduyn."
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+      "name": "Strandpaviljoen 't Badhuys",
+      "type": "Strandpaviljoen/borrel",
+      "address": "Badweg 3",
+      "city": "Vlieland",
+      "access": "Openbaar strandpaviljoen volgens VVV en WestCord; geen hotelverblijf vereist",
+      "alcohol": "Exploitant noemt expliciet een glas wijn bij het strandpaviljoen",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "WestCord hotelinfo: dagelijks vanaf 10:00",
+      "closing_quality": "Exploitant vermeldt diner tot 21:30 (laag seizoen 20:30), niet de sluiting van het paviljoen",
+      "closing_source": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+      "closing_notes": "30-10-2026: WestCord vermeldt dagelijks vanaf 10:00; diner tot 21:30 (laag seizoen 20:30) betreft bediening/keuken en is geen bewezen barsluiting. VVV geeft Badweg 3, oudere gids Badweg 6: fysieke ingang en BAG-adres nog te controleren. Laatste toegang onbekend.",
+      "website": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1400372071/strandpaviljoen-t-badhuys",
+        "https://westcordhotels.nl/te-doen-vlieland/"
+      ],
+      "original_status": "WestCord en VVV bevestigen publieke strandhoreca; exact paviljoenadres heeft bronconflict."
     }
   ],
   "admission_policies": [
