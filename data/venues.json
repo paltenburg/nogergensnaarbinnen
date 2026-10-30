@@ -21709,7 +21709,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website: reserveren niet mogelijk, vrij inlopen voor lunch en borrel; na 16:00 borrelhapjes.",
-      "alcohol": "Eigen site toont drankenkaart als afbeelding; afzonderlijke tekst voor bier/wijn niet uitgelezen. De locatie is paviljoen met borrel, alcoholaanbod nog direct te bevestigen.",
+      "alcohol": "Eigen actuele drankenkaart bevestigt Hertog Jan van tap, speciaalbieren, wijn, sterke drank en cocktails (30-10-2026).",
       "selection": "Voorlopig",
       "opening": {
         "ma": "10:30",
@@ -21741,9 +21741,10 @@
       "other_sources": [
         "https://walvisterschelling.nl/contact/",
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/191699176/de-walvis",
-        "https://waddenweer.nl/adressen/de-walvis-terschelling/"
+        "https://waddenweer.nl/adressen/de-walvis-terschelling/",
+        "https://walvisterschelling.nl/dranken/"
       ],
-      "original_status": "Eigen site bevestigt dagzaak, open dagen en benaderde sluituren en laatste drankronde; expliciete laatste toegang en actuele alcoholkaart nog open."
+      "original_status": "Eigen site bevestigt vrije inloop, bier/wijn/sterke drank, weekdagen en benaderde sluituren; exacte laatste toegang en harde sluitingsuren blijven onbekend (30-10-2026)."
     },
     {
       "id": "eetcafe-de-koornbeurs-kollum-20261030",
@@ -21834,6 +21835,50 @@
         "https://www.beleefkollum.nl/leden/"
       ],
       "original_status": "Eigen agenda toont 2026-entree-evenementen; discotheekopening eventgedreven. Last entry alleen voor discotheekavond, niet als vast weekschema."
+    },
+    {
+      "id": "grand-cafe-wald-kollum-20261030",
+      "name": "Grand Café WALD",
+      "type": "Grand café / borrel",
+      "address": "Voorstraat 46",
+      "city": "Kollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Regionale toeristische gids en door de exploitant geclaimd Tripadvisor-profiel bevestigen vrije inloop voor borrel, lunch en diner.",
+      "alcohol": "Door exploitant geclaimd Tripadvisor-profiel noemt wijn en bier, volledige bar; bezoekersrecensie april 2026 bevestigt wijn. Geen afzonderlijke actuele eigen drankkaart gelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "11:00–22:00 di–zo volgens eigen sitefooter, geclaimd Tripadvisor-profiel en recente Cylex; lokale gids zegt 10:00 als begin, daarom afwijking genoteerd. Laatste toegang onbekend.",
+      "closing_source": "https://www.tripadvisor.nl/Restaurant_Review-g3348478-d24003413-Reviews-Grand_Cafe_WALD-Kollum_Friesland_Province.html",
+      "closing_notes": "30-10-2026: https://www.grandcafewald.nl/ vermeldt di–zo 11–22 en maandag gesloten; https://www.tripadvisor.nl/Restaurant_Review-g3348478-d24003413-Reviews-Grand_Cafe_WALD-Kollum_Friesland_Province.html (geclaimd profiel, recente 2026-recensies) en https://www.cylex.nl/bedrijf/grand-caf%C3%A9-wald-13802012.html steunen dit. https://www.beleefkollum.nl/bedrijf/grand-cafe-wald/ geeft di–zo 10–22: beginuur verschilt. De officiële site bevat zichtbare vreemde casino-reclame en dummytekst; mogelijke SEO-compromittering, daarom NIET als doorklikbare website opgenomen tot herstel. Geen laatste toegang vastgesteld.",
+      "features": "D0 Noardeast-Fryslân / Kollum; officiële domein vertoont ongewenste casino-SEO-inhoud; websiteknop bewust leeg",
+      "website": "",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.tripadvisor.nl/Restaurant_Review-g3348478-d24003413-Reviews-Grand_Cafe_WALD-Kollum_Friesland_Province.html",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.beleefkollum.nl/bedrijf/grand-cafe-wald/",
+        "https://www.friesland.nl/nl/locaties/1680248310/grand-cafe-wald",
+        "https://www.cylex.nl/bedrijf/grand-caf%C3%A9-wald-13802012.html"
+      ],
+      "original_status": "Actuele exploitatie, borrel en alcohol met onafhankelijke en geclaimde profielen bevestigd; officiële website bevat ongewenste externe casinoreclame en is niet als websiteknop aangeboden."
     }
   ],
   "admission_policies": [
