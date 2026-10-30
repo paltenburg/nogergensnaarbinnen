@@ -11655,13 +11655,13 @@
     },
     {
       "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
-      "name": "Café 't Skoffeltsje",
+      "name": "Café De Skoffel",
       "type": "Kroeg",
       "address": "Nieuwstraat 3",
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -11673,13 +11673,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Onbekend; officiële site geeft alleen begintijden",
+      "closing_source": "https://www.deskoffel.nl/Contact",
+      "closing_notes": "Eigen website 30-10-2026 noemt de zaak Café De Skoffel (oude inventarisatienaam 't Skoffeltsje), Nieuwstraat 3, dagelijks geopend: ma-vr vanaf 14:00, za/zo vanaf 12:00. Eindtijden en laatste toegang niet gepubliceerd; weekend- en feestdagopeningen kunnen eerder zijn.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.deskoffel.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.deskoffel.nl/",
+        "https://www.deskoffel.nl/Contact"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11687,6 +11689,16 @@
         "lon": 5.9254499,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwstraat 3, 8441GC Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -11763,31 +11775,32 @@
     },
     {
       "id": "it-houtsje-heerenveen-d2248cf",
-      "name": "It Houtsje",
+      "name": "Café It Houtsje",
       "type": "Kroeg",
       "address": "Oude Koemarkt 6",
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
+      "alcohol": "Bier, speciaalbier en wijn expliciet op eigen website",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.houtsje.nl/",
+      "closing_notes": "Eigen website 30-10-2026: ma gesloten; di-do 15:00–01:00; vr 14:00–02:00; za/zo 12:00–02:00. Adres Oude Koemarkt 6, bier en wijn expliciet vermeld. Laatste toegang onbekend; gidsroosters spreken eigen website tegen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.houtsje.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.houtsje.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11795,6 +11808,16 @@
         "lon": 5.9223201,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 6, 8441EV Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "14:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -11805,7 +11828,7 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -11813,17 +11836,19 @@
         "di": "?",
         "wo": "?",
         "do": "?",
-        "vr": "?",
-        "za": "?",
+        "vr": "04:00",
+        "za": "04:00",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://heerenveen.deswetser.nl/contact/",
+      "closing_notes": "Eigen contactpagina 30-10-2026: vr/za 21:00–04:00, Vleesmarkt 7. Zondag en feestdagen uitsluitend via sociale media; ma-do niet expliciet als gesloten vermeld. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://heerenveen.deswetser.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://heerenveen.deswetser.nl/",
+        "https://heerenveen.deswetser.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11831,6 +11856,16 @@
         "lon": 5.9221078,
         "method": "PDOK BAG-adres",
         "matched_address": "Vleesmarkt 7, 8441EW Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "?"
       }
     },
     {
@@ -11841,25 +11876,26 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafebleeker.nl/",
+      "closing_notes": "Eigen website 30-10-2026: wo-vr 15:00–02:00, za 12:00–02:00, zo 15:00–02:00. Ma/di niet gepubliceerd; niet automatisch als gesloten beschouwd. Bij mooi weer soms eerder open. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafebleeker.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.cafebleeker.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11867,6 +11903,16 @@
         "lon": 5.9222914,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 8, 8441EV Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "15:00"
       }
     },
     {
