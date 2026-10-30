@@ -17835,8 +17835,8 @@
       "city": "Holwert",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Recente bezoekersrecensies bevestigen dorpscafé op Opslach 2; geen directe exploitantwebsite gevonden.",
+      "alcohol": "Gids noemt bier; eigen actuele drankenkaart niet beschikbaar.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17847,20 +17847,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Alleen gidsuren, geen eigen weekrooster",
+      "closing_source": "https://fr.restaurantguru.com/De-steeg-Holwerd",
+      "closing_notes": "RestaurantGuru 30-10-2026 heeft recensies uit 2026 en noemt di–do/zo 19–00, vr/za 17–00, ma dicht. Geen eigen bron, gidsuren niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/nes"
+        "https://fr.restaurantguru.com/De-steeg-Holwerd",
+        "https://speisekarte.menu/restaurants/fryslan/cafe-de-steeg-2/h/oeffnungszeiten"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Recente reviews ondersteunen exploitatie, eigen officiële site ontbreekt.",
       "geo": {
         "lat": 53.3683709,
         "lon": 5.8984822,
         "method": "PDOK BAG-adres",
         "matched_address": "Opslach 2, 9151HH Holwert"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17871,9 +17882,9 @@
       "city": "Blije",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Alleen lokale gidsvermelding; publieke exploitatie en exacte locatie niet direct bevestigd.",
+      "alcohol": "Onbekend; geen menukaart of exploitantbron.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17883,21 +17894,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.uitagenda.nl/blije",
+      "closing_notes": "30-10-2026: https://www.uitagenda.nl/blije vermeldt Spoarke Blije op Farrewei 37, maar inventarisatie heeft Farrewei 22; https://nuactueel.nl/noardeast-fryslan/uit-eten vermeldt 22 zonder eigen bewijs. Geen actuele exploitantbron, niet kiezen tussen adressen zonder verificatie. Bestaande BAG-marker 22 is adresmatch, NIET bewezen horecalocatie; uit actuele selectie voor hercontrole.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/nes"
+        "https://www.uitagenda.nl/blije",
+        "https://nuactueel.nl/noardeast-fryslan/uit-eten"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Adresconflict 22 versus 37; actuele horeca niet bevestigd.",
       "geo": {
         "lat": 53.3503216,
         "lon": 5.8652445,
         "method": "PDOK BAG-adres",
         "matched_address": "Farrewei 22, 9171LM Blije"
-      }
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "geocode_notes": "BAG-marker Farrewei 22 matcht inventarisatieadres, maar Uitagenda noemt Farrewei 37. Exacte horecabezoeklocatie onbekend; marker niet als bewezen ingang beschouwen."
     },
     {
       "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
@@ -17956,9 +17979,9 @@
       "city": "Peazens",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Lokale erfgoedroute en OSM vermelden café/snackbar op De Buorren 32; huidige vrije inloop niet door exploitant bevestigd.",
+      "alcohol": "Historische caféfunctie, actuele drankenkaart onbekend.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17968,20 +17991,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Alleen externe gidsuren, geen eigen rooster",
+      "closing_source": "https://waddentour.nl/poi/paesens-de-buorren-32/",
+      "closing_notes": "Waddentour noemt café/snackbar 'De Zwarte Arend' op Buorren 32, RestaurantGuru toont weekuren maar geen officiële bron. OSM-kaart en historische informatie bewijzen geen actuele horecatoegang. Geen uren/laatste toegang overgenomen, voor hercontrole.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/schiermonnikoog"
+        "https://waddentour.nl/poi/paesens-de-buorren-32/",
+        "https://nl.restaurantguru.com/amp/Cafe-De-Zwarte-Arend-Paesens"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historische erfgoed-/gidsvermelding; exploitatie oktober 2026 niet direct bewezen.",
       "geo": {
         "lat": 53.4021948,
         "lon": 6.0831191,
         "method": "PDOK BAG-adres",
         "matched_address": "De Buorren 32, 9136PV Peazens"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -18087,9 +18121,9 @@
       "city": "St.-Annaparochie",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Historisch café op Van Harenstraat 54; actuele exploitatie op dit adres niet bevestigd.",
+      "alcohol": "Historische cafévermelding, actueel aanbod onbekend.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -18099,20 +18133,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Historische gidsuren, huidige bedrijf mogelijk verhuisd",
+      "closing_source": "https://nl.restaurantguru.com/Het-Wapen-van-t-Bildt-Sint-Annaparochie",
+      "closing_notes": "RestaurantGuru vermeldt recensie circa 2025 dat zaak is verhuisd naar Oudebildtdijk; https://www.eethuishetbildt.nl/ bevestigt Eethuis 't Bildt op Oudebildtdijk 500b als snack-/bezorgzaak, NIET het oude café op Van Harenstraat 54. BAG https://www.allecijfers.nl/postcode/9076BX/ bevestigt daar wel bijeenkomstfunctie maar geen actuele exploitatie. Historische café niet als open presenteren; geen nieuwe dranklocatie aangenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/ballum"
+        "https://www.eethuishetbildt.nl/",
+        "https://www.allecijfers.nl/postcode/9076BX/",
+        "https://nl.restaurantguru.com/Het-Wapen-van-t-Bildt-Sint-Annaparochie"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Oude cafévermelding, mogelijke verhuizing en wijziging naar eethuis; niet bevestigd als actueel café.",
       "geo": {
         "lat": 53.2766123,
         "lon": 5.6601194,
         "method": "PDOK BAG-adres",
         "matched_address": "van Harenstraat 54, 9076BX St.-Annaparochie"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -18123,8 +18169,8 @@
       "city": "St.-Annaparochie",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt eetcafé op Van Harenstraat 19; TripAdvisor vermeldt drankservice.",
+      "alcohol": "Geclaimde TripAdvisor-vermelding meldt wijn/bier en volledige bar; eigen actuele drankkaart niet bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -18135,32 +18181,45 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site heeft historische menukaart 2024 met afwijkende uren; geen actueel weekrooster",
+      "closing_source": "https://www.desmallekant.nl/",
+      "closing_notes": "Eigen site 30-10-2026 bevestigt exploitant en adres; menukaart 2024 https://www.desmallekant.nl/wp-content/uploads/2024/12/Menukaart-2024-compleet.pdf noemt ma–do 10:30–20, vr/za 10:30–21, zo 14–20. Gidsen 2026 noemen een uur later. Geen actueel bedrijfseigen rooster, dus uren onbekend; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.desmallekant.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/ballum"
+        "https://www.desmallekant.nl/neem-contact-met-ons-op/",
+        "https://www.desmallekant.nl/wp-content/uploads/2024/12/Menukaart-2024-compleet.pdf",
+        "https://www.tripadvisor.nl/Restaurant_Review-g3348472-d8420042-Reviews-Eetcafe_De_Smalle_Kant-Sint_Annaparochie_Friesland_Province.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website en recente recensies ondersteunen actuele exploitatie.",
       "geo": {
         "lat": 53.2767485,
         "lon": 5.6590681,
         "method": "PDOK BAG-adres",
         "matched_address": "van Harenstraat 19, 9076BS St.-Annaparochie"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
       "id": "cafe-de-drie-gemeenten-alde-leie-7a355f0",
-      "name": "Café De Drie Gemeenten",
+      "name": "Café & Eeterij De Drie Gemeenten",
       "type": "Kroeg",
       "address": "Leijester Hegedyk 2",
       "city": "Alde Leie",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen horecapagina beschrijft dorpscafé aan voorzijde en eeterij aan waterkant; publieke inloop.",
+      "alcohol": "Caféfunctie bevestigd; specifieke actuele drankkaart niet gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -18171,20 +18230,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen pagina toont dynamisch 'we are closed' zonder volledig uitgelezen weekrooster",
+      "closing_source": "https://dedriegemeenten.metro.rest/",
+      "closing_notes": "Eigen exploitantpagina rechtstreeks geraadpleegd 30-10-2026: dorpscafé en eeterij Leijester Hegedyk 2, contact 0518 851322. Opening-hours-widget toont alleen actuele status, geen betrouwbare vaste weekuren in bron. AlleBiz geeft ma/di dicht, wo/do/zo 16–20, vr/za 16–00:15, niet als eigen rooster overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://dedriegemeenten.metro.rest/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/nes"
+        "https://www.stienser.nl/caf-en-eeterij-de-drie-gemeenten",
+        "https://www.allebiz.nl/caf%C3%A9-eeterij-de-drie-gemeenten-0518-851-322"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen horecapagina en lokale publicatie juli 2026 bevestigen identiteit.",
       "geo": {
         "lat": 53.2888558,
         "lon": 5.7275479,
         "method": "PDOK BAG-adres",
         "matched_address": "Leijester Hegedyk 2, 9071XC Alde Leie"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
