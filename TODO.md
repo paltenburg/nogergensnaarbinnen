@@ -27,14 +27,14 @@
 
 **Praktische grens:** een geplande ChatGPT-uitvoering heeft eindige tijd, tokens en toolcapaciteit. Een expres te grote opdracht heft die grens niet op. Daarom is de combinatie **onbegrensde werkvolgorde + duurzame checkpoints + automatisch hervatten** essentieel. De wekelijkse controle en uitbreidingsfasen blijven onderdeel van deze ene uurlijkse automatisering.
 
-## Huidige momentopname (30 oktober 2026; na D0 Smallingerland en Opsterland)
+## Huidige momentopname (30 oktober 2026; na D0 Ooststellingwerf/Nij Beets)
 
-- **Masterdatabase:** 454 unieke records (Utrecht 224, Friesland 230), **305 websites** (Utrecht 151, Friesland 150), **413/454** BAG-adresmarkers, 41 zonder. Sven Voorstraat 64 exact, tien nieuwe records wachten op BAG/PDOK. De Leyen Bildreed 3 onderbouwd, fysieke ingang nog niet bevestigd.
-- **Gerichte broncontrole:** checked_on Utrecht 167/224, Friesland **230/230 (100% eerste bronpoging inclusief nieuwe locaties)**; geen bewijs van volledige exploitatie- of geografische dekking. D0 niet gehaald.
-- **Tijden:** minimaal één exact HH:MM-sluitingsveld bij Utrecht **148/224** en Friesland **70/213**; openingstijdveld bij Utrecht 102 en Friesland 108. Expliciete laatste toegang in 2 Utrechtse en 2 Friese records. De overige tijden zijn niet automatisch bekend; bij bronconflict onbekend laten.
-- **Afgeleide GitHub-bestanden:** data/source-register.json nog 437 locaties / 273 websites (11 locaties en 28 websites achter master 448/301); dagelijkse onderhoudsrun commit afgeleiden. data/geocode-report.json nog 437/413, master 448/413. Push-Actions c284292 en 1d0f5ca geslaagd; 51a6c39 eveneens geslaagd 14:32 UTC, latere runs nog niet volledig bevestigd. Geen live Pages-/mobiele test; B2/B4 open.
-- **Actieve regio's dynamisch uit master:** `utrecht` en `friesland`. Eerste ISO-weekaudit W45 pas vanaf **maandag 2 november 2026 10:00 Europe/Amsterdam**. Een steekproef per regio is niet een volledige gebiedsaudit.
-- **D0 niet vrijgegeven:** 60 verschillende Friese plaatsnamen in master, maar geen bewezen systematische ontdekking in iedere Friese gemeente en kleine kern; primaire exploitatie bij 37 expliciet onzeker. Eerst geografische dekkingsbatches en relevante B2/B4-controles, daarna pas D1/D2 landelijke uitbreiding.
+- **Masterdatabase:** 454 unieke records (utrecht 224, friesland 230), **305 websites** (utrecht 151, friesland 154), **413/454** BAG-/PDOK-markers, 41 zonder. Geen coördinaten handmatig verzonnen.
+- **Gerichte broncontrole:** utrecht 167/224, friesland 230/230 eerste bronpogingen; dat is GEEN bewijs van actuele exploitatie of complete geografische dekking. Friesland heeft 38 expliciet op 'Nog te controleren'. D0 niet gehaald.
+- **Tijden:** minimaal één exact HH:MM-sluitingsveld bij utrecht 148/224, friesland 79/230; minstens één exact openingstijdveld bij utrecht 102/224, friesland 120/230. Onbekende tijden en laatste toegang blijven onbekend.
+- **Afgeleide GitHub-bestanden:** data/source-register.json 437 locaties / 273 websites / 842 bron-URL's, **achter master met 17 locaties en 32 websites**. data/geocode-report.json 437/413, master 454/413. Regeneratie via bestaande publicatie-/onderhoudsworkflow nog niet bevestigd; geen live Pages-/mobiele test.
+- **Actieve regio's dynamisch uit master:** `utrecht`, `friesland`. Eerste ISO-weekaudit W45 pas vanaf **maandag 2 november 2026 10:00 Europe/Amsterdam**. Een geografische steekproef is geen volledige audit.
+- **D0 niet vrijgegeven:** Friese gemeente-/dorpsdekking en primaire exploitatie ontbreken nog; eerst geografische ontdekking, geocodes en B2/B4-controles, daarna pas landelijke D1/D2.
 
 ## Eerstvolgende uitvoerbare stap
 
