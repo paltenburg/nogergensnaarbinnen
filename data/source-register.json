@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 490,
-    "domains": 253,
-    "direct_website_fields": 186
+    "source_urls": 499,
+    "domains": 258,
+    "direct_website_fields": 191
   },
   "discovery_sites": [
     {
@@ -239,6 +239,11 @@
       "linked_venues": 3
     },
     {
+      "domain": "amelanderbier.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "barbasta.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -349,7 +354,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "dewelvaartameland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "dokkum.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafedeboerderij.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -1009,6 +1024,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "herbergdezwaan.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "hetoudetolhuys.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1135,6 +1155,11 @@
     },
     {
       "domain": "nar.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "nes-cafe-ameland.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1771,6 +1796,87 @@
         {
           "id": "de-babbelaar-burgum-5796776",
           "name": "De Babbelaar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.amelanderbier.nl/",
+      "domain": "amelanderbier.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "amelander-bierbrouwerij-ballum-32e95e9",
+          "name": "Amelander Bierbrouwerij",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.amelanderbier.nl/openingstijden/",
+      "domain": "amelanderbier.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "amelander-bierbrouwerij-ballum-32e95e9",
+          "name": "Amelander Bierbrouwerij",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.amelanderbier.nl/proeflokaal/",
+      "domain": "amelanderbier.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "amelander-bierbrouwerij-ballum-32e95e9",
+          "name": "Amelander Bierbrouwerij",
           "roles": [
             "achtergrond"
           ],
@@ -6644,6 +6750,63 @@
       "needs_review": false
     },
     {
+      "url": "https://dewelvaartameland.nl/",
+      "domain": "dewelvaartameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-welvaart-hollum-8afd4cb",
+          "name": "De Welvaart",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dewelvaartameland.nl/contact/",
+      "domain": "dewelvaartameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-welvaart-hollum-8afd4cb",
+          "name": "De Welvaart",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dewinkelvansinkel.nl/",
       "domain": "dewinkelvansinkel.nl",
       "first_registered_on": "2026-10-26",
@@ -6853,6 +7016,60 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.eetcafedeboerderij.nl/",
+      "domain": "eetcafedeboerderij.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-boerderij-ballum-984f881",
+          "name": "Eetcafé De Boerderij",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.eetcafedeboerderij.nl/contact/",
+      "domain": "eetcafedeboerderij.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-boerderij-ballum-984f881",
+          "name": "Eetcafé De Boerderij",
+          "roles": [
+            "achtergrond",
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://eetcafedepleats.nl/",
@@ -8101,6 +8318,38 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.herbergdezwaan.nl/",
+      "domain": "herbergdezwaan.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "herberg-de-zwaan-hollum-b0512f5",
+          "name": "Herberg De Zwaan",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://hetoudeboothuis.nl/",
@@ -9592,6 +9841,38 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.nes-cafe-ameland.nl/",
+      "domain": "nes-cafe-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "nes-cafe-nes-b14449a",
+          "name": "Nes Café",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://neutje.nl/",
@@ -18172,10 +18453,6 @@
         "name": "Achter de Koekoek"
       },
       {
-        "id": "amelander-bierbrouwerij-ballum-32e95e9",
-        "name": "Amelander Bierbrouwerij"
-      },
-      {
         "id": "back-fourth-c714b19",
         "name": "Back & Fourth"
       },
@@ -18580,10 +18857,6 @@
         "name": "De Vijfpoort"
       },
       {
-        "id": "de-welvaart-hollum-8afd4cb",
-        "name": "De Welvaart"
-      },
-      {
         "id": "dito-bfdb022",
         "name": "Dito"
       },
@@ -18598,10 +18871,6 @@
       {
         "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
         "name": "Eetcafé De 2 Gemeenten"
-      },
-      {
-        "id": "eetcafe-de-boerderij-ballum-984f881",
-        "name": "Eetcafé De Boerderij"
       },
       {
         "id": "eetcafe-de-dammesaan-midsland-448a367",
@@ -18760,10 +19029,6 @@
         "name": "Herberg De Waard van Ternaard"
       },
       {
-        "id": "herberg-de-zwaan-hollum-b0512f5",
-        "name": "Herberg De Zwaan"
-      },
-      {
         "id": "het-stamcafe-heerenveen-b1c29a4",
         "name": "Het Stamcafé"
       },
@@ -18854,10 +19119,6 @@
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
         "name": "Muziekcafé Scooter's"
-      },
-      {
-        "id": "nes-cafe-nes-b14449a",
-        "name": "Nes Café"
       },
       {
         "id": "nieuwe-dikke-dries-c9188df",
@@ -19076,10 +19337,6 @@
       {
         "id": "acu-3dba8aa",
         "name": "ACU"
-      },
-      {
-        "id": "amelander-bierbrouwerij-ballum-32e95e9",
-        "name": "Amelander Bierbrouwerij"
       },
       {
         "id": "b-i-t-o-n-e63cfb6",
@@ -19494,10 +19751,6 @@
         "name": "De Vijfpoort"
       },
       {
-        "id": "de-welvaart-hollum-8afd4cb",
-        "name": "De Welvaart"
-      },
-      {
         "id": "dito-bfdb022",
         "name": "Dito"
       },
@@ -19678,10 +19931,6 @@
         "name": "Herberg De Waard van Ternaard"
       },
       {
-        "id": "herberg-de-zwaan-hollum-b0512f5",
-        "name": "Herberg De Zwaan"
-      },
-      {
         "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
         "name": "Het Oude Boothuis"
       },
@@ -19776,10 +20025,6 @@
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
         "name": "Muziekcafé Scooter's"
-      },
-      {
-        "id": "nes-cafe-nes-b14449a",
-        "name": "Nes Café"
       },
       {
         "id": "nieuwe-dikke-dries-oost-73e397f",
@@ -19960,7 +20205,7 @@
       {
         "id": "amelander-bierbrouwerij-ballum-32e95e9",
         "name": "Amelander Bierbrouwerij",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële pagina 'actuele openingstijden' vermeldt proeflokaal ma/di/vr gesloten, wo/do/za/zo 13:00–17:00. Winkel kan op afspraak ook buiten proeflokaaluren openen; dit is GEEN publieke toegang tot het proeflokaal. Seizoensafwijkingen mogelijk, laatste toegang onbekend."
       },
       {
         "id": "bar-1908-franeker-8dcc574",
@@ -20465,7 +20710,7 @@
       {
         "id": "de-welvaart-hollum-8afd4cb",
         "name": "De Welvaart",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-t-roodhert-burgum-549ff10",
@@ -20485,7 +20730,7 @@
       {
         "id": "eetcafe-de-boerderij-ballum-984f881",
         "name": "Eetcafé De Boerderij",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site dagelijks vanaf 11:00, voor ontbijt op reservering eerder. Geen officiële sluitingstijden of laatste toegang gevonden; niet ingevuld."
       },
       {
         "id": "eetcafe-de-dammesaan-midsland-448a367",
@@ -20685,7 +20930,7 @@
       {
         "id": "herberg-de-zwaan-hollum-b0512f5",
         "name": "Herberg De Zwaan",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site ma/di gesloten, wo/do/za/zo 11:00–22:00, vrijdag 11:00–00:00. Laatste toegang onbekend."
       },
       {
         "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
@@ -20790,7 +21035,7 @@
       {
         "id": "nes-cafe-nes-b14449a",
         "name": "Nes Café",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site zo–do 10:00–01:00, vr/za 10:00–04:00; laatste toegang niet vermeld. Geen afzonderlijk seizoensrooster gevonden."
       },
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",

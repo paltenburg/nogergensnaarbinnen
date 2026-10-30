@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**490 geregistreerde bron-URL's**, 253 domeinen; gekoppeld aan **412 locaties**.
+**499 geregistreerde bron-URL's**, 258 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -62,6 +62,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | visitleeuwarden.com | 4 | 3 |
 | visitwadden.nl | 4 | 3 |
 | allebiz.nl | 3 | 3 |
+| amelanderbier.nl | 3 | 1 |
 | barbasta.nl | 3 | 1 |
 | cylex.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
@@ -84,7 +85,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | dehelling.nl | 2 | 1 |
 | dekajuit.com | 2 | 1 |
 | denijverheid.org | 2 | 1 |
+| dewelvaartameland.nl | 2 | 1 |
 | dokkum.nl | 2 | 1 |
+| eetcafedeboerderij.nl | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
 | eetcafespinoza.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
@@ -216,6 +219,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | grootfryslan.nl | 1 | 1 |
 | hartlooper.nl | 1 | 1 |
 | hemel-aarde.nl | 1 | 1 |
+| herbergdezwaan.nl | 1 | 1 |
 | hetoudetolhuys.nl | 1 | 1 |
 | hetpakhuis.nl | 1 | 1 |
 | hofman-utrecht.nl | 1 | 1 |
@@ -242,6 +246,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | morrowutrecht.nl | 1 | 1 |
 | mr-finch.nl | 1 | 1 |
 | nar.nl | 1 | 1 |
+| nes-cafe-ameland.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
 | ontdek-terschelling.nl | 1 | 1 |
@@ -332,6 +337,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://allecijfers.nl/weg/noordkade-drachten/](https://allecijfers.nl/weg/noordkade-drachten/) — achtergrond; Café Bar 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://allecijfers.nl/weg/zuidkade-drachten/](https://allecijfers.nl/weg/zuidkade-drachten/) — achtergrond; Grand Café Bowling de Kaden; bronveld gecontroleerd: onbekend
 - [https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/](https://www.allecijfers.nl/weg/jonkheer-hobbe-baerdt-van-sminiaplein-burgum/) — achtergrond; De Babbelaar; bronveld gecontroleerd: onbekend
+
+### amelanderbier.nl
+
+- [https://www.amelanderbier.nl/](https://www.amelanderbier.nl/) — website; Amelander Bierbrouwerij; bronveld gecontroleerd: 2026-10-30
+- [https://www.amelanderbier.nl/openingstijden/](https://www.amelanderbier.nl/openingstijden/) — achtergrond, openingstijden, sluitingstijden; Amelander Bierbrouwerij; bronveld gecontroleerd: 2026-10-30
+- [https://www.amelanderbier.nl/proeflokaal/](https://www.amelanderbier.nl/proeflokaal/) — achtergrond; Amelander Bierbrouwerij; bronveld gecontroleerd: onbekend
 
 ### amicaalgrou.nl
 
@@ -766,6 +777,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.dewalrussneek.nl/](https://www.dewalrussneek.nl/) — website; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
 
+### dewelvaartameland.nl
+
+- [https://dewelvaartameland.nl/](https://dewelvaartameland.nl/) — website; De Welvaart; bronveld gecontroleerd: 2026-10-30
+- [https://dewelvaartameland.nl/contact/](https://dewelvaartameland.nl/contact/) — achtergrond, openingstijden, sluitingstijden; De Welvaart; bronveld gecontroleerd: 2026-10-30
+
 ### dewinkelvansinkel.nl
 
 - [https://dewinkelvansinkel.nl/](https://dewinkelvansinkel.nl/) — openingstijden, website; Winkel van Sinkel; bronveld gecontroleerd: 2026-10-26
@@ -794,6 +810,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### eetcafedebaron.nl
 
 - [https://eetcafedebaron.nl/](https://eetcafedebaron.nl/) — sluitingstijden, website; Eetcafé De Baron; bronveld gecontroleerd: 2026-10-25
+
+### eetcafedeboerderij.nl
+
+- [https://www.eetcafedeboerderij.nl/](https://www.eetcafedeboerderij.nl/) — website; Eetcafé De Boerderij; bronveld gecontroleerd: 2026-10-30
+- [https://www.eetcafedeboerderij.nl/contact/](https://www.eetcafedeboerderij.nl/contact/) — achtergrond, openingstijden; Eetcafé De Boerderij; bronveld gecontroleerd: 2026-10-30
 
 ### eetcafedepleats.nl
 
@@ -917,6 +938,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### hemel-aarde.nl
 
 - [https://www.hemel-aarde.nl/wijnbar](https://www.hemel-aarde.nl/wijnbar) — openingstijden, sluitingstijden, website; Wijnbar Hemel & Aarde; bronveld gecontroleerd: 2026-10-26
+
+### herbergdezwaan.nl
+
+- [https://www.herbergdezwaan.nl/](https://www.herbergdezwaan.nl/) — openingstijden, sluitingstijden, website; Herberg De Zwaan; bronveld gecontroleerd: 2026-10-30
 
 ### hetoudeboothuis.nl
 
@@ -1092,6 +1117,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### nar.nl
 
 - [https://www.nar.nl/info/](https://www.nar.nl/info/) — sluitingstijden, website; Nar; bronveld gecontroleerd: 2026-10-25
+
+### nes-cafe-ameland.nl
+
+- [https://www.nes-cafe-ameland.nl/](https://www.nes-cafe-ameland.nl/) — openingstijden, sluitingstijden, website; Nes Café; bronveld gecontroleerd: 2026-10-30
 
 ### neutje.nl
 
