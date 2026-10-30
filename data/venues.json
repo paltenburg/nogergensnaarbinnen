@@ -13686,14 +13686,17 @@
       },
       "closing_quality": "Onbekend; geen actuele eigen weektijden bevestigd op 30-10-2026",
       "closing_source": "",
-      "closing_notes": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen.",
+      "closing_notes": "30-10-2026 hercontrole Bargefenne 11: alleen Uitgaanskaart noemt It Kin Net. Compadex registreert De Tempelier (KvK 63007002, bijgewerkt 12-02-2026) op hetzelfde adres; AlleBiz markeert historische Café 't Café op hetzelfde adres als gesloten. Geen actuele eigen pagina of directe bevestiging van It Kin Net, en geen bewijs dat de drie namen gelijktijdig of als opvolgers actief zijn. Alle openingstijden, laatste toegang en huidige exploitant onbekend; niet als bevestigd tonen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/bolsward",
-        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/"
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://www.compadex.com/nl/businesses/nl/de-tempelier-63007002-56025459",
+        "https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002",
+        "https://www.uitagenda.nl/locaties/cafe-t-cafe"
       ],
-      "original_status": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026).",
+      "original_status": "Naam It Kin Net alleen op generieke gids; identiteitsconflict Bargefenne 11 met geregistreerde De Tempelier en historisch Café 't Café; actuele publieke opening niet bevestigd.",
       "geo": {
         "lat": 53.0622082,
         "lon": 5.5185729,
