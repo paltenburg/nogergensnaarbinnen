@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**455 geregistreerde bron-URL's**, 236 domeinen; gekoppeld aan **412 locaties**.
+**466 geregistreerde bron-URL's**, 240 domeinen; gekoppeld aan **412 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -55,6 +55,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | grootsneek.nl | 5 | 5 |
 | bestrestos.nl | 4 | 4 |
 | oozo.nl | 4 | 2 |
+| poolcafebigben.nl | 4 | 1 |
 | sneek.nl | 4 | 4 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
@@ -62,6 +63,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cylex.nl | 3 | 3 |
 | hfsfreelancers.nl | 3 | 3 |
 | noah-eetcafe.nl | 3 | 1 |
+| paddyoryan.frl | 3 | 1 |
 | uitagenda.nl | 3 | 74 |
 | visitwadden.nl | 3 | 2 |
 | amicaalgrou.nl | 2 | 1 |
@@ -76,11 +78,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | compadex.com | 2 | 2 |
 | companyinfo.nl | 2 | 2 |
 | dartsgids.nl | 2 | 1 |
+| dedikkevandale.nl | 2 | 1 |
 | dehelling.nl | 2 | 1 |
 | dekajuit.com | 2 | 1 |
 | denijverheid.org | 2 | 1 |
 | dokkum.nl | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
+| eetcafespinoza.nl | 2 | 1 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
 | findglocal.com | 2 | 2 |
@@ -687,6 +691,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open](https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open) — achtergrond; Bar Patine, Bar Pleur, De Troef spelletjescafé, Grand Bar & Brasserie Marie, Kadet (+ 2 meer); bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht](https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht) — achtergrond; Bar Patine; bronveld gecontroleerd: onbekend
 
+### dedikkevandale.nl
+
+- [https://www.dedikkevandale.nl/](https://www.dedikkevandale.nl/) — achtergrond, openingstijden, sluitingstijden, website; De Dikke van Dale; bronveld gecontroleerd: 2026-10-30
+- [https://www.dedikkevandale.nl/contact](https://www.dedikkevandale.nl/contact) — achtergrond; De Dikke van Dale; bronveld gecontroleerd: onbekend
+
 ### dehelling.nl
 
 - [https://dehelling.nl/](https://dehelling.nl/) — website; De Helling; bronveld gecontroleerd: onbekend
@@ -775,6 +784,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://eetcafedevingerhoed.nl/](https://eetcafedevingerhoed.nl/) — website; Eetcafé De Vingerhoed; bronveld gecontroleerd: 2026-10-26
 - [https://eetcafedevingerhoed.nl/contact/](https://eetcafedevingerhoed.nl/contact/) — openingstijden, sluitingstijden; Eetcafé De Vingerhoed; bronveld gecontroleerd: 2026-10-26
+
+### eetcafespinoza.nl
+
+- [https://eetcafespinoza.nl/](https://eetcafespinoza.nl/) — website; Eetcafé Spinoza; bronveld gecontroleerd: 2026-10-30
+- [https://eetcafespinoza.nl/contact/](https://eetcafespinoza.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Eetcafé Spinoza; bronveld gecontroleerd: 2026-10-30
 
 ### eetcafevallen.nl
 
@@ -1114,6 +1128,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://ouwedikkedries.nl/](https://ouwedikkedries.nl/) — website; Ouwe Dikke Dries; bronveld gecontroleerd: 2026-10-26
 
+### paddyoryan.frl
+
+- [https://paddyoryan.frl/](https://paddyoryan.frl/) — achtergrond, openingstijden, sluitingstijden, website; Paddy O'Ryan; bronveld gecontroleerd: 2026-10-30
+- [https://paddyoryan.frl/contact/](https://paddyoryan.frl/contact/) — achtergrond; Paddy O'Ryan; bronveld gecontroleerd: onbekend
+- [https://paddyoryan.frl/reservation/](https://paddyoryan.frl/reservation/) — achtergrond; Paddy O'Ryan; bronveld gecontroleerd: onbekend
+
 ### paloma-utrecht.nl
 
 - [https://paloma-utrecht.nl/](https://paloma-utrecht.nl/) — openingstijden, sluitingstijden, website; Paloma; bronveld gecontroleerd: 2026-10-26
@@ -1125,6 +1145,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### partyflock.nl
 
 - [https://partyflock.nl/location/13782/archive](https://partyflock.nl/location/13782/archive) — achtergrond; Mootz; bronveld gecontroleerd: onbekend
+
+### poolcafebigben.nl
+
+- [https://www.poolcafebigben.nl/](https://www.poolcafebigben.nl/) — website; Swing- & Poolcafé Big Ben; bronveld gecontroleerd: 2026-10-30
+- [https://www.poolcafebigben.nl/contact/](https://www.poolcafebigben.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Swing- & Poolcafé Big Ben; bronveld gecontroleerd: 2026-10-30
+- [https://www.poolcafebigben.nl/evenementen/](https://www.poolcafebigben.nl/evenementen/) — achtergrond; Swing- & Poolcafé Big Ben; bronveld gecontroleerd: onbekend
+- [https://www.poolcafebigben.nl/over-big-ben/](https://www.poolcafebigben.nl/over-big-ben/) — achtergrond; Swing- & Poolcafé Big Ben; bronveld gecontroleerd: onbekend
 
 ### poolenutrecht.nl
 

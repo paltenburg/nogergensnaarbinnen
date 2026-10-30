@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 455,
-    "domains": 236,
-    "direct_website_fields": 172
+    "source_urls": 466,
+    "domains": 240,
+    "direct_website_fields": 176
   },
   "discovery_sites": [
     {
@@ -204,6 +204,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "poolcafebigben.nl",
+      "source_pages": 4,
+      "linked_venues": 1
+    },
+    {
       "domain": "sneek.nl",
       "source_pages": 4,
       "linked_venues": 4
@@ -235,6 +240,11 @@
     },
     {
       "domain": "noah-eetcafe.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "paddyoryan.frl",
       "source_pages": 3,
       "linked_venues": 1
     },
@@ -309,6 +319,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dedikkevandale.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "dehelling.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -330,6 +345,11 @@
     },
     {
       "domain": "eetcafedevingerhoed.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafespinoza.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -6007,6 +6027,64 @@
       "needs_review": true
     },
     {
+      "url": "https://www.dedikkevandale.nl/",
+      "domain": "dedikkevandale.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+          "name": "De Dikke van Dale",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.dedikkevandale.nl/contact",
+      "domain": "dedikkevandale.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-dikke-van-dale-leeuwarden-4b70da7",
+          "name": "De Dikke van Dale",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dehelling.nl/",
       "domain": "dehelling.nl",
       "first_registered_on": "2026-10-26",
@@ -6706,6 +6784,63 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://eetcafespinoza.nl/",
+      "domain": "eetcafespinoza.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-spinoza-leeuwarden-0c56246",
+          "name": "Eetcafé Spinoza",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafespinoza.nl/contact/",
+      "domain": "eetcafespinoza.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-spinoza-leeuwarden-0c56246",
+          "name": "Eetcafé Spinoza",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://eetcafevallen.nl/",
@@ -10285,6 +10420,88 @@
       "needs_review": false
     },
     {
+      "url": "https://paddyoryan.frl/",
+      "domain": "paddyoryan.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "paddy-o-ryan-leeuwarden-20f2717",
+          "name": "Paddy O'Ryan",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://paddyoryan.frl/contact/",
+      "domain": "paddyoryan.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paddy-o-ryan-leeuwarden-20f2717",
+          "name": "Paddy O'Ryan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://paddyoryan.frl/reservation/",
+      "domain": "paddyoryan.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paddy-o-ryan-leeuwarden-20f2717",
+          "name": "Paddy O'Ryan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://paloma-utrecht.nl/",
       "domain": "paloma-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -10361,6 +10578,111 @@
         {
           "id": "mootz-sneek-0f73107",
           "name": "Mootz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.poolcafebigben.nl/",
+      "domain": "poolcafebigben.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+          "name": "Swing- & Poolcafé Big Ben",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.poolcafebigben.nl/contact/",
+      "domain": "poolcafebigben.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+          "name": "Swing- & Poolcafé Big Ben",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.poolcafebigben.nl/evenementen/",
+      "domain": "poolcafebigben.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+          "name": "Swing- & Poolcafé Big Ben",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.poolcafebigben.nl/over-big-ben/",
+      "domain": "poolcafebigben.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
+          "name": "Swing- & Poolcafé Big Ben",
           "roles": [
             "achtergrond"
           ],
@@ -17487,10 +17809,6 @@
         "name": "De Bocht fen Guné"
       },
       {
-        "id": "de-dikke-van-dale-leeuwarden-4b70da7",
-        "name": "De Dikke van Dale"
-      },
-      {
         "id": "de-drie-dorstige-herten-d5c9f1a",
         "name": "De Drie Dorstige Herten"
       },
@@ -17605,10 +17923,6 @@
       {
         "id": "eetcafe-nooitgedagt-harlingen-49e8985",
         "name": "Eetcafé Nooitgedagt"
-      },
-      {
-        "id": "eetcafe-spinoza-leeuwarden-0c56246",
-        "name": "Eetcafé Spinoza"
       },
       {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
@@ -17887,10 +18201,6 @@
         "name": "O’Leary’s"
       },
       {
-        "id": "paddy-o-ryan-leeuwarden-20f2717",
-        "name": "Paddy O'Ryan"
-      },
-      {
         "id": "papis-comfort-kitchen-bf4bc0e",
         "name": "Papi’s Comfort Kitchen"
       },
@@ -17981,10 +18291,6 @@
       {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
-      },
-      {
-        "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
-        "name": "Swing- & Poolcafé Big Ben"
       },
       {
         "id": "tapperij-t-noord-franeker-340a463",
@@ -18465,10 +18771,6 @@
         "name": "De Bocht fen Guné"
       },
       {
-        "id": "de-dikke-van-dale-leeuwarden-4b70da7",
-        "name": "De Dikke van Dale"
-      },
-      {
         "id": "de-fantast-jirnsum-c4f5cbd",
         "name": "De Fantast"
       },
@@ -18567,10 +18869,6 @@
       {
         "id": "eetcafe-nooitgedagt-harlingen-49e8985",
         "name": "Eetcafé Nooitgedagt"
-      },
-      {
-        "id": "eetcafe-spinoza-leeuwarden-0c56246",
-        "name": "Eetcafé Spinoza"
       },
       {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
@@ -18841,10 +19139,6 @@
         "name": "O’Leary’s"
       },
       {
-        "id": "paddy-o-ryan-leeuwarden-20f2717",
-        "name": "Paddy O'Ryan"
-      },
-      {
         "id": "papis-comfort-kitchen-bf4bc0e",
         "name": "Papi’s Comfort Kitchen"
       },
@@ -18919,10 +19213,6 @@
       {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
-      },
-      {
-        "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
-        "name": "Swing- & Poolcafé Big Ben"
       },
       {
         "id": "tapperij-t-noord-franeker-340a463",
@@ -19438,7 +19728,7 @@
       {
         "id": "de-dikke-van-dale-leeuwarden-4b70da7",
         "name": "De Dikke van Dale",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Ma–wo 11–01, do/vr 11–03, za 10–03, zo 12–01. Keuken sluit dagelijks om 22:00, maar dat is niet de café-sluiting. Laatste toegang onbekend."
       },
       {
         "id": "de-fantast-jirnsum-c4f5cbd",
@@ -19573,7 +19863,7 @@
       {
         "id": "eetcafe-spinoza-leeuwarden-0c56246",
         "name": "Eetcafé Spinoza",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website: keuken 16:00–20:30; horecazaak tot 23:00. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
@@ -19853,7 +20143,7 @@
       {
         "id": "paddy-o-ryan-leeuwarden-20f2717",
         "name": "Paddy O'Ryan",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële homepage: ma/di 16–01, wo/do/zo 12–01, vr/za 12–02. Eigen contact-/reserveringspagina vermeldt afwijkend ma/di 12–01; homepage als primaire huidige bron gekozen. Laatste toegang niet vermeld."
       },
       {
         "id": "paultje-cafe-restaurant-heerenveen-aa3703a",
@@ -19918,7 +20208,7 @@
       {
         "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
         "name": "Swing- & Poolcafé Big Ben",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Ma–wo/zo 14–01, do–za 14–03 volgens eigen website. Geen laatste toegang gepubliceerd."
       },
       {
         "id": "tapperij-t-noord-franeker-340a463",
