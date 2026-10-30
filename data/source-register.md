@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**752 geregistreerde bron-URL's**, 361 domeinen; gekoppeld aan **433 locaties**.
+**761 geregistreerde bron-URL's**, 363 domeinen; gekoppeld aan **433 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -44,11 +44,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | Domein | Bron-URL's | Locaties |
 |---|---:|---:|
 | centrumutrecht.nl | 57 | 54 |
-| allebiz.nl | 28 | 27 |
+| allebiz.nl | 31 | 30 |
 | uitgaanskaart.nl | 21 | 200 |
 | ontdek-utrecht.nl | 19 | 36 |
 | friesland.nl | 16 | 16 |
-| cylex.nl | 11 | 11 |
+| cylex.nl | 12 | 12 |
 | visitleeuwarden.com | 11 | 10 |
 | debuik.nl | 10 | 16 |
 | compadex.com | 9 | 9 |
@@ -117,6 +117,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | eetcafedeboerderij.nl | 2 | 1 |
 | eetcafedevingerhoed.nl | 2 | 1 |
 | eetcafespinoza.nl | 2 | 1 |
+| eetgerust.nl | 2 | 2 |
 | ekko.nl | 2 | 1 |
 | elize.cafe | 2 | 2 |
 | fietsroutenetwerk.nl | 2 | 2 |
@@ -143,6 +144,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | margiesutrecht.nl | 2 | 1 |
 | moos-utrecht.nl | 2 | 1 |
 | njoypoolcentrum.nl | 2 | 1 |
+| nl.restaurantguru.com | 2 | 2 |
 | ondernemendsneek.nl | 2 | 2 |
 | overuwbuurt.nl | 2 | 2 |
 | paulkruger.frl | 2 | 1 |
@@ -171,6 +173,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | veerhuys-bolsward.nl | 2 | 1 |
 | vijfpoort.nl | 2 | 1 |
 | vlieland.site | 2 | 2 |
+| vvbl.nl | 2 | 2 |
 | waze.com | 2 | 2 |
 | wijnbarvinvin.nl | 2 | 1 |
 | workum.nl | 2 | 1 |
@@ -272,7 +275,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | eetcafedepleats.nl | 1 | 1 |
 | eetcafedepoort.nl | 1 | 1 |
 | eetcafevallen.nl | 1 | 1 |
-| eetgerust.nl | 1 | 1 |
 | espressobar-smuk.nl | 1 | 1 |
 | etenbijguusjes.nl | 1 | 1 |
 | evepla.com | 1 | 1 |
@@ -320,6 +322,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | lefrenchcafe.nl | 1 | 1 |
 | lekkerindebuurt.nl | 1 | 1 |
 | lemmer-leeft.nl | 1 | 1 |
+| lemsternijs.nl | 1 | 1 |
 | levels-harlingen.nl | 1 | 1 |
 | lokaleregelgeving.overheid.nl | 1 | 0 |
 | loodscafe.nl | 1 | 1 |
@@ -332,7 +335,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nar.nl | 1 | 1 |
 | nes-cafe-ameland.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
-| nl.restaurantguru.com | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
 | oka18.nl | 1 | 1 |
 | ontdek-terschelling.nl | 1 | 1 |
@@ -430,13 +432,16 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### allebiz.nl
 
+- [https://www.allebiz.nl/bar-caf%C3%A9-populair-0514-856-712](https://www.allebiz.nl/bar-caf%C3%A9-populair-0514-856-712) — achtergrond; Bar Café Populair; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/bar-de-bock-06-55581308](https://www.allebiz.nl/bar-de-bock-06-55581308) — achtergrond; Bar de Bock; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930](https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930) — achtergrond; Café Bak; bronveld gecontroleerd: onbekend
+- [https://www.allebiz.nl/caf%C3%A9-de-held-van-06-53690036](https://www.allebiz.nl/caf%C3%A9-de-held-van-06-53690036) — achtergrond; De Held van 63; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743](https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743) — achtergrond, sluitingstijden; Café De Laatste Stuiver; bronveld gecontroleerd: 2026-10-30
 - [https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207](https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207) — achtergrond; Café de Pastorie; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320](https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320) — achtergrond; Café de Strohoed; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388](https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388) — achtergrond; Café De Twin; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714](https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714) — achtergrond; Café de Zomer; bronveld gecontroleerd: onbekend
+- [https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837](https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837) — achtergrond; Café Le Duc; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568](https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568) — achtergrond; Café Lieman; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686](https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686) — achtergrond, sluitingstijden; Café Pietje Bel; bronveld gecontroleerd: 2026-10-30
 - [https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002](https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002) — achtergrond; Café It Kin Net; bronveld gecontroleerd: onbekend
@@ -916,6 +921,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html](https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html) — achtergrond; Café-Bar 't Hoekje; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-de-blauwe-kater-10871934.html](https://www.cylex.nl/bedrijf/caf%C3%A9-de-blauwe-kater-10871934.html) — achtergrond; Café De Blauwe Kater; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html](https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html) — achtergrond; Café De Twin; bronveld gecontroleerd: onbekend
+- [https://www.cylex.nl/bedrijf/caf%C3%A9-le-duc-11876905.html](https://www.cylex.nl/bedrijf/caf%C3%A9-le-duc-11876905.html) — achtergrond; Café Le Duc; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html](https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html) — achtergrond; De Ping Pong Club; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/kafee-8-12715565.html](https://www.cylex.nl/bedrijf/kafee-8-12715565.html) — achtergrond; Kafee 8; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html](https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html) — achtergrond; De Markies; bronveld gecontroleerd: onbekend
@@ -1154,6 +1160,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### eetgerust.nl
 
+- [https://eetgerust.nl/restaurant/de-held-van-63-b-v-lemmer](https://eetgerust.nl/restaurant/de-held-van-63-b-v-lemmer) — achtergrond; De Held van 63; bronveld gecontroleerd: onbekend
 - [https://eetgerust.nl/restaurant/t-kannet-heerenveen](https://eetgerust.nl/restaurant/t-kannet-heerenveen) — achtergrond; 't Kannet; bronveld gecontroleerd: onbekend
 
 ### ekko.nl
@@ -1516,6 +1523,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://lemmer-leeft.nl/bedrijf/centrum](https://lemmer-leeft.nl/bedrijf/centrum) — achtergrond; Restaurant Centrum; bronveld gecontroleerd: onbekend
 
+### lemsternijs.nl
+
+- [https://lemsternijs.nl/volume-sluit-zondag-jamsessie-af-bij-cafe-populair/](https://lemsternijs.nl/volume-sluit-zondag-jamsessie-af-bij-cafe-populair/) — achtergrond; Bar Café Populair; bronveld gecontroleerd: onbekend
+
 ### levels-harlingen.nl
 
 - [https://www.levels-harlingen.nl/](https://www.levels-harlingen.nl/) — achtergrond, openingstijden, sluitingstijden, website; Grand Café Levels; bronveld gecontroleerd: 2026-10-29
@@ -1592,6 +1603,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### nl.restaurantguru.com
 
 - [https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward](https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward) — achtergrond; Café De Drie Koningen; bronveld gecontroleerd: onbekend
+- [https://nl.restaurantguru.com/pub-and-bar-Lemmer-t2](https://nl.restaurantguru.com/pub-and-bar-Lemmer-t2) — achtergrond; Bar Café Populair; bronveld gecontroleerd: onbekend
 
 ### noah-eetcafe.nl
 
@@ -2148,6 +2160,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### vriendenvanleeuwarden.nl
 
 - [https://vriendenvanleeuwarden.nl/](https://vriendenvanleeuwarden.nl/) — sluitingstijden, website; Vrienden van Leeuwarden; bronveld gecontroleerd: 2026-10-30
+
+### vvbl.nl
+
+- [https://vvbl.nl/leden/cafe-de-held-van-63/](https://vvbl.nl/leden/cafe-de-held-van-63/) — achtergrond; De Held van 63; bronveld gecontroleerd: onbekend
+- [https://vvbl.nl/leden/cafe-le-duc/](https://vvbl.nl/leden/cafe-le-duc/) — achtergrond; Café Le Duc; bronveld gecontroleerd: onbekend
 
 ### vvvameland.com
 

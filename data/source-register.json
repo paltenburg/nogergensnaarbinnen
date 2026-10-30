@@ -4,8 +4,8 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 433,
-    "source_urls": 752,
-    "domains": 361,
+    "source_urls": 761,
+    "domains": 363,
     "direct_website_fields": 255
   },
   "discovery_sites": [
@@ -150,8 +150,8 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 28,
-      "linked_venues": 27
+      "source_pages": 31,
+      "linked_venues": 30
     },
     {
       "domain": "uitgaanskaart.nl",
@@ -170,8 +170,8 @@
     },
     {
       "domain": "cylex.nl",
-      "source_pages": 11,
-      "linked_venues": 11
+      "source_pages": 12,
+      "linked_venues": 12
     },
     {
       "domain": "visitleeuwarden.com",
@@ -514,6 +514,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "eetgerust.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "ekko.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -642,6 +647,11 @@
       "domain": "njoypoolcentrum.nl",
       "source_pages": 2,
       "linked_venues": 1
+    },
+    {
+      "domain": "nl.restaurantguru.com",
+      "source_pages": 2,
+      "linked_venues": 2
     },
     {
       "domain": "ondernemendsneek.nl",
@@ -780,6 +790,11 @@
     },
     {
       "domain": "vlieland.site",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "vvbl.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -1289,11 +1304,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "eetgerust.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "espressobar-smuk.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1529,6 +1539,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "lemsternijs.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "levels-harlingen.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1585,11 +1600,6 @@
     },
     {
       "domain": "neutje.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "nl.restaurantguru.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2089,6 +2099,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.allebiz.nl/bar-caf%C3%A9-populair-0514-856-712",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-cafe-populair-lemmer-415cf0f",
+          "name": "Bar Café Populair",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/bar-de-bock-06-55581308",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -2125,6 +2159,30 @@
         {
           "id": "cafe-bak-heerenveen-8f34eb5",
           "name": "Café Bak",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-held-van-06-53690036",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-held-van-63-lemmer-de72104",
+          "name": "De Held van 63",
           "roles": [
             "achtergrond"
           ],
@@ -2249,6 +2307,30 @@
         {
           "id": "cafe-de-zomer-west-terschelling-54c8f87",
           "name": "Café de Zomer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-le-duc-lemmer-adc5a8b",
+          "name": "Café Le Duc",
           "roles": [
             "achtergrond"
           ],
@@ -8106,6 +8188,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-le-duc-11876905.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-le-duc-lemmer-adc5a8b",
+          "name": "Café Le Duc",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-26",
@@ -10449,6 +10555,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetgerust.nl/restaurant/de-held-van-63-b-v-lemmer",
+      "domain": "eetgerust.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-held-van-63-lemmer-de72104",
+          "name": "De Held van 63",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -14080,6 +14210,30 @@
       "needs_review": true
     },
     {
+      "url": "https://lemsternijs.nl/volume-sluit-zondag-jamsessie-af-bij-cafe-populair/",
+      "domain": "lemsternijs.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-cafe-populair-lemmer-415cf0f",
+          "name": "Bar Café Populair",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.levels-harlingen.nl/",
       "domain": "levels-harlingen.nl",
       "first_registered_on": "2026-10-29",
@@ -14691,6 +14845,30 @@
         {
           "id": "cafe-de-drie-koningen-bolsward-20261030",
           "name": "Café De Drie Koningen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://nl.restaurantguru.com/pub-and-bar-Lemmer-t2",
+      "domain": "nl.restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-cafe-populair-lemmer-415cf0f",
+          "name": "Bar Café Populair",
           "roles": [
             "achtergrond"
           ],
@@ -24438,6 +24616,54 @@
       "needs_review": true
     },
     {
+      "url": "https://vvbl.nl/leden/cafe-de-held-van-63/",
+      "domain": "vvbl.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-held-van-63-lemmer-de72104",
+          "name": "De Held van 63",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vvbl.nl/leden/cafe-le-duc/",
+      "domain": "vvbl.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-le-duc-lemmer-adc5a8b",
+          "name": "Café Le Duc",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes",
       "domain": "vvvameland.com",
       "first_registered_on": "2026-10-30",
@@ -27145,7 +27371,7 @@
       {
         "id": "bar-cafe-populair-lemmer-415cf0f",
         "name": "Bar Café Populair",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Lemsternijs 23-01-2026 bevestigt actieve jamsessie bij Café Populair (zondag 25-01 vanaf 15:00), maar geen vast weekrooster. AlleBiz toont 24 uur per dag, niet aannemelijk als bevestigd bedrijfsrooster; geen bedrijfseigen rooster gevonden. Sluiting en laatste toegang blijven onbekend; afzonderlijke actuele exploitatie opnieuw controleren."
       },
       {
         "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
@@ -27490,7 +27716,7 @@
       {
         "id": "cafe-le-duc-lemmer-adc5a8b",
         "name": "Café Le Duc",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "VVBL-ledenlijst bevestigt Café Le Duc/Kortestreek 24 met Facebook als bedrijfskanaal. Cylex (bijgewerkt 28-09-2026) geeft wo/do 20–04, vr 15:30–04, za/zo 15–04; AlleBiz geeft andere beginuren en HFS noemt afwijkend dagelijks rooster. Geen actueel bedrijfseigen weekrooster gevonden: alle begin-/einduren en laatste toegang onbekend gehouden. Ook Club 24 op Kortestreek 24–25 als mogelijke afzonderlijke exploitatie nader onderzoeken."
       },
       {
         "id": "cafe-lieman-west-terschelling-3808f8b",
@@ -27625,7 +27851,7 @@
       {
         "id": "de-held-van-63-lemmer-de72104",
         "name": "De Held van 63",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "VVBL vermeldt café De Held van 63, Emmakade 2, en verwijst naar Facebook; overige vermeldingen geven naam/adres, geen geverifieerd actueel weekrooster. Eetgerust bevat geen gedateerd NVWA-inspectiebewijs. Bedrijfseigen openings-/sluitingsuren en laatste toegang onbekend; actuele publieke exploitatie niet rechtstreeks vastgesteld."
       },
       {
         "id": "de-hut-van-oom-tom-bolsward-e2ed844",
