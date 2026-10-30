@@ -18267,6 +18267,131 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Jongemastraat 2, 8701JD Bolsward"
       }
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "cafe-boven-vlieland-20261030",
+      "name": "Café Boven",
+      "type": "Bruincafé/speciaalbier",
+      "address": "Dorpsstraat 83",
+      "city": "Vlieland",
+      "access": "Eigen site: openbare kroeg boven Trattoria Oliva, via trap; geen reserveringseis vermeld",
+      "alcohol": "Eigen site bevestigt speciaalbier op tap",
+      "opening": {
+        "ma": "—",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "opening_quality": "Eigen website met vast weekrooster",
+      "closing_quality": "Eigen website met vast weekrooster",
+      "closing_source": "https://cafeboven.nl/",
+      "closing_notes": "30-10-2026: eigen site vermeldt di–zo 21:00–01:00, maandag gesloten. Sportuitzendingen en activiteiten kunnen afwijkingen geven. Laatste toegang onbekend; ligging op verdieping boven Trattoria Oliva, geen duplicaat daarvan.",
+      "website": "https://cafeboven.nl/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [],
+      "original_status": "Actuele eigen website bevestigt openbare kroeg, alcohol en rooster; geen live deurcontrole."
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "cafe-bruintje-vlieland-20261030",
+      "name": "Café Bruintje",
+      "type": "Hotelcafé/borrel",
+      "address": "Dorpsstraat 88",
+      "city": "Vlieland",
+      "access": "Eigen website bevestigt expliciet toegang voor niet-hotelgasten",
+      "alcohol": "Eigen website noemt Fortuna-bier, speciaalbier en wijn",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële pagina's conflicteren over openingsdagen",
+      "closing_quality": "Officiële pagina's conflicteren over openingsdagen",
+      "closing_source": "https://badhotelbruin.nl/cafe-bruintje-vlieland/",
+      "closing_notes": "30-10-2026: eigen cafépagina noemt dagelijks 12:00–22:00, maar officiële contactpagina noemt bijna het hele jaar woensdag–zondag. Geen zeker weekrooster overgenomen. Seizoensafwijking en laatste toegang onbekend.",
+      "website": "https://badhotelbruin.nl/cafe-bruintje-vlieland/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://badhotelbruin.nl/contact/",
+        "https://vlieland.net/en/bedrijf/cafe-bruintje"
+      ],
+      "original_status": "Eigen hotelcafé-site bevestigt publieke borrel en alcohol; officiële openingsdagen zijn tegenstrijdig."
+    },
+    {
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-30",
+      "features": "Vlieland; A7 gecontroleerde aanvulling",
+      "id": "gestrand-vlieland-20261030",
+      "name": "Gestrand",
+      "type": "Havencafé/restaurant/borrel",
+      "address": "Havenweg 3",
+      "city": "Vlieland",
+      "access": "Eigen site nodigt publiek uit voor terras en bar",
+      "alcohol": "Café/restaurant met hoge bar; drankaanbod en borrelfunctie volgens eigen site, specifiek alcoholmenu nog te verifiëren",
+      "opening": {
+        "ma": "10:00",
+        "di": "—",
+        "wo": "—",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen website weekrooster",
+      "closing_quality": "Eigen website weekrooster",
+      "closing_source": "https://gestrandvlieland.nl/",
+      "closing_notes": "30-10-2026: eigen website ma/do–zo 10:00–22:00, di/wo gesloten; Havenweg 3. Externe gidsen noemen afwijkende huisnummers 1/4 en dagelijkse uren, niet overgenomen. Laatste toegang en exacte alcoholkaart nog te verifiëren.",
+      "website": "https://gestrandvlieland.nl/",
+      "website_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3266546825/havenpaviljoen-de-dining-vlieland"
+      ],
+      "original_status": "Actuele eigen website met publieke bar en openingstijden; geen live deurcheck."
     }
   ],
   "admission_policies": [
