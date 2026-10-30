@@ -20600,7 +20600,7 @@
         "?"
       ],
       "closing_quality": "Eigen website noemt alleen openingsbegin do–zo 16:00; ma–wo geen regulier rooster gepubliceerd. Keuken sluit om 20:00, niet het café.",
-      "closing_source": "https://www.cafedonkerbroek.com/openingstijden/",
+      "closing_source": "",
       "closing_notes": "30-10-2026: officiële site noemt do–zo vanaf 16:00, geen sluitingsuren; groepen/feesten 7 dagen op afspraak. Externe gids https://www.fietsnetwerk.nl/knooppunt/cafe-donkerbroek-donkerbroek/ heeft afwijkend vrijdagbegin en andere sluiting, niet overgenomen. Alcohol extern vermeld door https://corestaurant.ch/es/Netherlands/restaurant/cafe-donkerbroek-donkerbroek-805, actuele eigen drankkaart ontbreekt. Laatste toegang onbekend.",
       "features": "D0 Ooststellingwerf / Donkerbroek; vrij toegankelijke dorpskroeg",
       "website": "https://www.cafedonkerbroek.com/",
@@ -20611,7 +20611,8 @@
       "other_sources": [
         "https://www.cafedonkerbroek.com/menu/",
         "https://donkerbroek.nl/informatie/toerisme/tourist-info-donkerbroek/",
-        "https://corestaurant.ch/es/Netherlands/restaurant/cafe-donkerbroek-donkerbroek-805"
+        "https://corestaurant.ch/es/Netherlands/restaurant/cafe-donkerbroek-donkerbroek-805",
+        "https://www.cafedonkerbroek.com/openingstijden/"
       ],
       "original_status": "Eigen site bevestigt exploitatie en vrije drankinloop; alcohol alleen via externe horecaomschrijving bevestigd.",
       "opening": {
@@ -20645,7 +20646,7 @@
       "alcohol": "Bier beschreven door Restaurantguru en Uitagenda spreekt van borrel; geen actuele officiële drankenkaart bereikbaar.",
       "selection": "Voorlopig",
       "closing_quality": "Geen bereikbaar officieel weekrooster: domein hetbruincafe.nl toont Plesk-login; externe gidsen conflicteren, daarom geen exacte weekuren.",
-      "closing_source": "https://www.uitagenda.nl/locaties/eetcafe-het-bruin-cafe",
+      "closing_source": "",
       "closing_notes": "30-10-2026: bedrijf volgens KvK-uittreksel 24-03-2026 actief op Stationsstraat 5; https://companyinfo.nl/organisatieprofiel/exploitatie-van-restaurants/het-bruin-cafe-oosterwolde-68408927-000036853593. Externe roosters https://www.allebiz.nl/het-bruin-cafe-0516-858-872 (vr 03/za 04) en https://www.het-menu.nl/oosterwolde/restaurant/eetcafe_het_bruin_cafe (vr/za 00) conflicteren. Woensdag ook conflicterend. Alle dagen onbekend gehouden, niet gelijkgesteld aan gesloten. Laatste toegang onbekend.",
       "features": "D0 Ooststellingwerf / Oosterwolde; bar en restaurant",
       "website": "",
@@ -20751,7 +20752,7 @@
         "zo": "?"
       },
       "closing_quality": "Eigen site bevestigt café en muziek maar geen actueel vast weekrooster. Externe gidsen hebben tegenstrijdige openings- en sluitingstijden.",
-      "closing_source": "https://stationsplein2.nl/",
+      "closing_source": "",
       "closing_notes": "30-10-2026: eigen https://stationsplein2.nl/ bevestigt publiek café, bier/wijn, maandelijkse live muziek, Stationsplein 2. https://www.goudengids.nl/nl/bedrijf/Oosterwolde/L111417965/Stationsplein%2B2%2BGrand%2BCaf%C3%A9/ noemt wo–za 11–23:45, terwijl https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde wo gesloten en vr/za tot 04 noemt. Geen gidsuren overgenomen. Laatste toegang onbekend.",
       "features": "D0 Ooststellingwerf / Oosterwolde; muziek en borrel",
       "website": "https://stationsplein2.nl/",
@@ -20759,7 +20760,8 @@
       "checked_on": "2026-10-30",
       "other_sources": [
         "https://www.uitagenda.nl/locaties/grand-cafe-stationsplein-2",
-        "https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde"
+        "https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde",
+        "https://stationsplein2.nl/"
       ],
       "original_status": "Exploitant bevestigt vrije borrel en bier/wijn; vaste actuele sluiting niet geverifieerd."
     },
@@ -20793,7 +20795,7 @@
         "zo": "?"
       },
       "closing_quality": "Geen eigen website gevonden. Externe gidsen noemen vergelijkbaar rooster maar geen actueel primair weekrooster; tijden onbekend.",
-      "closing_source": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-brege-nij-beets-72171022-000004460995",
+      "closing_source": "",
       "closing_notes": "30-10-2026: actuele KvK SBI 56300 volgens bron KvK 24-03-2026, adres bevestigd. https://www.allebiz.nl/cafe-de-brege-0512-461-644 en https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets noemen wo–zo uren maar niet van exploitant; géén sluitingen of laatste toegang overgenomen. Primaire site, inloop en bier/wijn nog bevestigen.",
       "features": "D0 Opsterland / Nij Beets; kandidaat met KvK drinkgelegenheid",
       "website": "",
@@ -20801,7 +20803,8 @@
       "other_sources": [
         "https://www.allebiz.nl/cafe-de-brege-0512-461-644",
         "https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets",
-        "https://de.restaurantguru.com/cheese-Nij-Beets-m11"
+        "https://de.restaurantguru.com/cheese-Nij-Beets-m11",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-brege-nij-beets-72171022-000004460995"
       ],
       "original_status": "KvK en gids ondersteunen exploitatie; officiële site, actuele tijden en publieke alcoholinloop onbevestigd."
     },
@@ -20835,7 +20838,7 @@
         "zo": "?"
       },
       "closing_quality": "Officiële barpagina noemt 'tot in de late uurtjes' zonder weekrooster; externe Cylex-rooster betreft mogelijk restaurant/keuken, dus geen café-eindtijden aangenomen.",
-      "closing_source": "https://www.lecoqappelscha.nl/bar/",
+      "closing_source": "",
       "closing_notes": "30-10-2026: https://www.lecoqappelscha.nl/ en https://www.lecoqappelscha.nl/bar/ bevestigen publieke bar en bier, ook na sluiting van keuken borrelhapjes. https://www.lecoqappelscha.nl/contact/ bevestigt Boerestreek 17. https://www.cylex.nl/bedrijf/eten---drinken-le-coq-appelscha-13661547.html geeft 10–20 als extern restaurantrooster; bar sluit volgens eigen tekst later, exacte eindtijden/laatste toegang onbekend. Geen entreeprijs of bowlingverplichting aangenomen.",
       "features": "D0 Ooststellingwerf / Appelscha; sportbar en borrel na keuken",
       "website": "https://www.lecoqappelscha.nl/",
