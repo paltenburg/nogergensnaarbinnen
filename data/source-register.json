@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 415,
-    "source_urls": 556,
-    "domains": 283,
-    "direct_website_fields": 201
+    "venues": 417,
+    "source_urls": 564,
+    "domains": 287,
+    "direct_website_fields": 203
   },
   "discovery_sites": [
     {
@@ -244,6 +244,11 @@
       "linked_venues": 4
     },
     {
+      "domain": "strandhuys-ameland.nl",
+      "source_pages": 4,
+      "linked_venues": 1
+    },
+    {
       "domain": "verseuitjes.nl",
       "source_pages": 4,
       "linked_venues": 4
@@ -437,6 +442,11 @@
       "domain": "kleinemax.nl",
       "source_pages": 2,
       "linked_venues": 1
+    },
+    {
+      "domain": "kleinvaarwater-ameland.nl",
+      "source_pages": 2,
+      "linked_venues": 2
     },
     {
       "domain": "knockoutcomedy.nl",
@@ -1104,6 +1114,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "het-menu.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "hetoudetolhuys.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1520,6 +1535,11 @@
     },
     {
       "domain": "vvvameland.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vvvameland.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -9149,6 +9169,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart",
+      "domain": "het-menu.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+          "name": "Restaurant De Huyskamer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hetoudeboothuis.nl/",
       "domain": "hetoudeboothuis.nl",
       "first_registered_on": "2026-10-30",
@@ -9979,6 +10023,58 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.kleinvaarwater-ameland.nl/faciliteiten/restaurant-de-huyskamer",
+      "domain": "kleinvaarwater-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+          "name": "Restaurant De Huyskamer",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.kleinvaarwater-ameland.nl/faciliteiten/strandpaviljoen-het-strandhuys",
+      "domain": "kleinvaarwater-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-strandhuys-buren-ameland-20261030",
+          "name": "'t Strandhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.knockoutcomedy.nl/",
@@ -13709,6 +13805,104 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.strandhuys-ameland.nl/",
+      "domain": "strandhuys-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "t-strandhuys-buren-ameland-20261030",
+          "name": "'t Strandhuys",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.strandhuys-ameland.nl/menukaart/",
+      "domain": "strandhuys-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-strandhuys-buren-ameland-20261030",
+          "name": "'t Strandhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.strandhuys-ameland.nl/openingstijden/",
+      "domain": "strandhuys-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "t-strandhuys-buren-ameland-20261030",
+          "name": "'t Strandhuys",
+          "roles": [
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.strandhuys-ameland.nl/reserveren/",
+      "domain": "strandhuys-ameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "t-strandhuys-buren-ameland-20261030",
+          "name": "'t Strandhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -19379,6 +19573,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-buren/restaurant-de-huyskamer",
+      "domain": "vvvameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+          "name": "Restaurant De Huyskamer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
       "domain": "vvvterschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -20849,6 +21067,10 @@
         "name": "'t Kannet"
       },
       {
+        "id": "t-strandhuys-buren-ameland-20261030",
+        "name": "'t Strandhuys"
+      },
+      {
         "id": "achter-de-koekoek-3ed99c6",
         "name": "Achter de Koekoek"
       },
@@ -21589,6 +21811,10 @@
         "name": "Restaurant Café Centrum"
       },
       {
+        "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+        "name": "Restaurant De Huyskamer"
+      },
+      {
         "id": "cafe-restaurant-de-kajuit-sneek-651e053",
         "name": "Restaurant De Kajuit"
       },
@@ -21707,6 +21933,11 @@
         "id": "t-ouwe-vat-sneek-4873eaa",
         "name": "'t Ouwe Vat",
         "reason": "BestRestos (bijgewerkt 21-10-2026), Cylex (28-09-2026) en andere gidsen noemen dagelijks 13:00–02:00; geen bedrijfsbevestiging van die tijden. Eigen domein ouwevat.nl vermeld door VVV Friesland maar op 29-10-2026 niet bereikbaar. Laatste toegang onbekend. VVV en registeraggregator geven Leeuwarderweg 2, BAG-match van geocoder is 2a; exacte marker/ingang niet bewezen. HFS geeft op sommige dagen 14:00 i.p.v. 13:00, dus ook opening niet onomstreden."
+      },
+      {
+        "id": "t-strandhuys-buren-ameland-20261030",
+        "name": "'t Strandhuys",
+        "reason": "30-10-2026: eigen site noemt keuken sluit 1 uur vóór sluiting, maar het rooster staat in een iframe en is niet als tekst bevestigd. Geen vaste 11–18 uit externe kaart overgenomen. Laatste toegang, seizoensrooster en actuele alcoholkaart te verifiëren."
       },
       {
         "id": "amelander-bierbrouwerij-ballum-32e95e9",
@@ -22592,6 +22823,11 @@
         "id": "restaurant-cafe-centrum-lemmer-c3d666a",
         "name": "Restaurant Café Centrum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+        "name": "Restaurant De Huyskamer",
+        "reason": "30-10-2026: eigen exploitant bevestigt borrelgelegenheid, keuken sluit een uur voor de zaak. Externe gids noemt dagelijks 10–21 maar actuele exploitanturen niet uitgelezen, dus onbekend. Laatste toegang en eventuele parktoegang onbekend."
       },
       {
         "id": "cafe-restaurant-de-kajuit-sneek-651e053",

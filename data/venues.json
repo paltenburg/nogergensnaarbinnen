@@ -17587,7 +17587,13 @@
         "https://www.strandhuys-ameland.nl/menukaart/",
         "https://www.kleinvaarwater-ameland.nl/faciliteiten/strandpaviljoen-het-strandhuys"
       ],
-      "original_status": "Officiële site en exploitant bevestigen bestaande openbare horeca; geen live exploitatie of vast weekrooster onafhankelijk vastgesteld"
+      "original_status": "Officiële site en exploitant bevestigen bestaande openbare horeca; geen live exploitatie of vast weekrooster onafhankelijk vastgesteld",
+      "geo": {
+        "lat": 53.4618774,
+        "lon": 5.8088052,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Strandweg 100, 9164KB Buren"
+      }
     },
     {
       "id": "restaurant-de-huyskamer-buren-ameland-20261030",
@@ -17628,7 +17634,13 @@
         "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-buren/restaurant-de-huyskamer",
         "https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart"
       ],
-      "original_status": "Officiële exploitant en VVV bevestigen restaurantfunctie; actueel alcoholmenu en openingstijden niet volledig geverifieerd"
+      "original_status": "Officiële exploitant en VVV bevestigen restaurantfunctie; actueel alcoholmenu en openingstijden niet volledig geverifieerd",
+      "geo": {
+        "lat": 53.453402,
+        "lon": 5.8043739,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Klein Vaarwaterweg 14, 9164MA Buren"
+      }
     }
   ],
   "admission_policies": [

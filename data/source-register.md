@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**556 geregistreerde bron-URL's**, 283 domeinen; gekoppeld aan **415 locaties**.
+**564 geregistreerde bron-URL's**, 287 domeinen; gekoppeld aan **417 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -63,6 +63,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | oozo.nl | 4 | 2 |
 | poolcafebigben.nl | 4 | 1 |
 | sneek.nl | 4 | 4 |
+| strandhuys-ameland.nl | 4 | 1 |
 | verseuitjes.nl | 4 | 4 |
 | vind-open.nl | 4 | 4 |
 | amelanderbier.nl | 3 | 1 |
@@ -102,6 +103,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | insolence-restaurant.nl | 2 | 1 |
 | itreadehynder.nl | 2 | 1 |
 | kleinemax.nl | 2 | 1 |
+| kleinvaarwater-ameland.nl | 2 | 2 |
 | knockoutcomedy.nl | 2 | 1 |
 | landhuisindestad.nl | 2 | 1 |
 | lefebvre.nl | 2 | 1 |
@@ -235,6 +237,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | hartlooper.nl | 1 | 1 |
 | hemel-aarde.nl | 1 | 1 |
 | herbergdezwaan.nl | 1 | 1 |
+| het-menu.nl | 1 | 1 |
 | hetoudetolhuys.nl | 1 | 1 |
 | hetpakhuis.nl | 1 | 1 |
 | hofman-utrecht.nl | 1 | 1 |
@@ -319,6 +322,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | vlieland.site | 1 | 1 |
 | vriendenvanleeuwarden.nl | 1 | 1 |
 | vvvameland.com | 1 | 1 |
+| vvvameland.nl | 1 | 1 |
 | waze.com | 1 | 1 |
 | werkenbijutrechtsehorecagroep.nl | 1 | 1 |
 | wijnbar-kurk.nl | 1 | 1 |
@@ -1031,6 +1035,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.herbergdezwaan.nl/](https://www.herbergdezwaan.nl/) — openingstijden, sluitingstijden, website; Herberg De Zwaan; bronveld gecontroleerd: 2026-10-30
 
+### het-menu.nl
+
+- [https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart](https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart) — achtergrond; Restaurant De Huyskamer; bronveld gecontroleerd: onbekend
+
 ### hetoudeboothuis.nl
 
 - [https://hetoudeboothuis.nl/](https://hetoudeboothuis.nl/) — website; Het Oude Boothuis; bronveld gecontroleerd: 2026-10-30
@@ -1118,6 +1126,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://kleinemax.nl/](https://kleinemax.nl/) — website; Kleine Max; bronveld gecontroleerd: 2026-10-29
 - [https://kleinemax.nl/contact/](https://kleinemax.nl/contact/) — achtergrond, openingstijden, sluitingstijden; Kleine Max; bronveld gecontroleerd: 2026-10-29
+
+### kleinvaarwater-ameland.nl
+
+- [https://www.kleinvaarwater-ameland.nl/faciliteiten/restaurant-de-huyskamer](https://www.kleinvaarwater-ameland.nl/faciliteiten/restaurant-de-huyskamer) — sluitingstijden, website; Restaurant De Huyskamer; bronveld gecontroleerd: 2026-10-30
+- [https://www.kleinvaarwater-ameland.nl/faciliteiten/strandpaviljoen-het-strandhuys](https://www.kleinvaarwater-ameland.nl/faciliteiten/strandpaviljoen-het-strandhuys) — achtergrond; 't Strandhuys; bronveld gecontroleerd: onbekend
 
 ### knockoutcomedy.nl
 
@@ -1479,6 +1492,13 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.storm-terschelling.nl/](https://www.storm-terschelling.nl/) — achtergrond, openingstijden, sluitingstijden, website; Eetcafé Storm; bronveld gecontroleerd: 2026-10-30
 
+### strandhuys-ameland.nl
+
+- [https://www.strandhuys-ameland.nl/](https://www.strandhuys-ameland.nl/) — website; 't Strandhuys; bronveld gecontroleerd: onbekend
+- [https://www.strandhuys-ameland.nl/menukaart/](https://www.strandhuys-ameland.nl/menukaart/) — achtergrond; 't Strandhuys; bronveld gecontroleerd: onbekend
+- [https://www.strandhuys-ameland.nl/openingstijden/](https://www.strandhuys-ameland.nl/openingstijden/) — sluitingstijden; 't Strandhuys; bronveld gecontroleerd: 2026-10-30
+- [https://www.strandhuys-ameland.nl/reserveren/](https://www.strandhuys-ameland.nl/reserveren/) — achtergrond; 't Strandhuys; bronveld gecontroleerd: onbekend
+
 ### studentenwegwijzer.nl
 
 - [https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/](https://www.studentenwegwijzer.nl/utrecht/studentenverenigingen/biton/) — achtergrond; B.I.T.O.N.; bronveld gecontroleerd: onbekend
@@ -1675,6 +1695,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### vvvameland.com
 
 - [https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes](https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes) — achtergrond; Grand Café Brood Ameland; bronveld gecontroleerd: onbekend
+
+### vvvameland.nl
+
+- [https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-buren/restaurant-de-huyskamer](https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-buren/restaurant-de-huyskamer) — achtergrond; Restaurant De Huyskamer; bronveld gecontroleerd: onbekend
 
 ### vvvterschelling.nl
 
