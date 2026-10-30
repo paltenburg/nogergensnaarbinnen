@@ -21475,6 +21475,95 @@
         "https://www.het-menu.nl/harkema/restaurant/cafe_de_klok"
       ],
       "original_status": "Caféactiviteit in gemeentelijke bekendmakingen 2026; actuele algemene opening, alcoholassortiment en toegang nog onbevestigd."
+    },
+    {
+      "id": "t-wapen-van-terschelling-midsland-20261030",
+      "name": "'t Wapen van Terschelling",
+      "type": "Bierencafé / café-restaurant",
+      "address": "Oosterburen 25",
+      "city": "Midsland",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt bezoekers uit om los plaats te nemen op het terras en noemt een café naast restaurant en hotel; hotelovernachting niet verplicht.",
+      "alcohol": "Eigen site vermeldt brede selectie bieren op tap en fles en wijnkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen site: dagelijks 11:00 t/m 23:00 'of tot wanneer gezellig'. 23:00 is het aangekondigde reguliere einduur, kan later worden; keuken tot circa 20:00 is geen cafésluiting.",
+      "closing_source": "https://twapenvanterschelling.nl/",
+      "closing_notes": "30-10-2026: eigen site meldt elke dag 11–23 of zolang gezellig, keuken 11:30–ca.20:00. Geen vaste laatste toegang bevestigd. VVV https://www.vvvterschelling.nl/bedrijven/t-wapen-van-terschelling/ bevestigt adres en 11–23. Oerol-2026 evenementrooster https://twapenvanterschelling.nl/wapen-oerol/ is niet het reguliere rooster.",
+      "features": "D0 Terschelling / Midsland; bierencafé, terras en evenementen",
+      "website": "https://twapenvanterschelling.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://twapenvanterschelling.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/t-wapen-van-terschelling/",
+        "https://twapenvanterschelling.nl/wapen-oerol/"
+      ],
+      "original_status": "Eigen site bevestigt exploitatie, adres, alcohol, publieke terrasborrel en dagelijks 11–23 met mogelijke uitloop; laatste toegang onbekend."
+    },
+    {
+      "id": "strandpaviljoen-kaap-hoorn-hoorn-20261030",
+      "name": "Strandpaviljoen Kaap Hoorn",
+      "type": "Strandpaviljoen / borrel",
+      "address": "Badweg Hoorn 16",
+      "city": "Hoorn (Terschelling)",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site zegt dat reserveren voor lunch niet kan en bezoekers gewoon kunnen langskomen voor koffie, lunch of borrel; groepen >10 bellen.",
+      "alcohol": "Eigen menupagina vermeldt wijn, bier en geselecteerde wijnen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Eigen actuele openingstijdenpagina: di–zo 10–17, maandag gesloten; VVV toont di gesloten en wo–zo tot 18, maar exploitant heeft voorrang. Berenloop-zondag 1 november 2026 uitzonderlijk gesloten. Menupagina zegt nog diner, maar actuele openingstijdenpagina meldt expliciet geen diner meer.",
+      "closing_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
+      "closing_notes": "30-10-2026: https://kaaphoornterschelling.nl/openingstijden-2/ noemt di–zo 10–17, ma dicht en Berenloop-zondag 01-11-2026 gesloten wegens onbereikbaarheid; menupagina https://kaaphoornterschelling.nl/menu/ bevestigt bier/wijn maar bevat verouderde dinerzin. VVV https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ noemt afwijkend di dicht/wo–zo 10–18; niet overgenomen. App ondersteunt geen datumgebonden uitzondering, daarom expliciet in notities; laatste toegang onbekend.",
+      "features": "D0 Terschelling / Hoorn; strandborrel; 1 november 2026 uitzonderlijk gesloten",
+      "website": "https://kaaphoornterschelling.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://kaaphoornterschelling.nl/menu/",
+        "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/",
+        "https://waddenweer.nl/adressen/kaap-hoorn-terschelling/"
+      ],
+      "original_status": "Eigen actuele openingstijdenpagina bevestigt di–zo 10–17, ma dicht, 01-11 uitzonderlijk dicht; menupagina bevestigt bier/wijn."
     }
   ],
   "admission_policies": [
