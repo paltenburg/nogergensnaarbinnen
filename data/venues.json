@@ -20507,6 +20507,131 @@
         "https://www.lunia.nl/contact"
       ],
       "original_status": "Officiële restaurantwebsite bevestigt publiek borrelen, wijn en bier, dagelijks restaurant/terras; eindtijd onbekend."
+    },
+    {
+      "id": "boel-leeuwarden-20261030",
+      "name": "BOEL Leeuwarden",
+      "type": "Jeu-de-boulesbar / borrelbar",
+      "address": "Breedstraat 48",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële website nodigt bezoekers uit om binnen te lopen voor borrel/eten; een baan reserveren is alleen voor het jeu-de-boulen.",
+      "alcohol": "Officiële website noemt speciaalbier en cocktails, inclusief Baxbier.",
+      "selection": "Voorlopig",
+      "open": [
+        "—",
+        "—",
+        "16:00",
+        "16:00",
+        "15:00",
+        "13:00",
+        "13:00"
+      ],
+      "close": [
+        "—",
+        "—",
+        "23:00",
+        "00:00",
+        "01:00",
+        "01:00",
+        "22:00"
+      ],
+      "closing_quality": "Eigen website; vaste openings- en sluitingsuren gepubliceerd op 30-10-2026.",
+      "closing_source": "https://boelleeuwarden.nl/contact/",
+      "closing_notes": "30-10-2026: exploitant vermeldt ma/di gesloten, wo 16–23, do 16–00, vr 15–01, za 13–01, zo 13–22. Laatste toegang niet gepubliceerd. Baanreservering is niet verplicht voor alleen borrelen volgens publieke baromschrijving; geen algemene entreeprijs als feit aangenomen.",
+      "features": "D0 Leeuwarden; vrije borrel en jeu de boules",
+      "website": "https://boelleeuwarden.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://boelleeuwarden.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://boelleeuwarden.nl/",
+        "https://www.visitleeuwarden.com/locaties/3504707878/boel"
+      ],
+      "original_status": "Exploitantwebsite bevestigt actuele borrelbar, adres, speciaalbier/cocktails en volledig weekrooster.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      }
+    },
+    {
+      "id": "cafe-donkerbroek-20261030",
+      "name": "Café Donkerbroek",
+      "type": "Dorpscafé / eetcafé",
+      "address": "Vosseheer 4",
+      "city": "Donkerbroek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site heet bezoekers welkom voor een drankje of hapje zonder arrangement; zaalverhuur is afzonderlijk.",
+      "alcohol": "Extern horecaprofiel vermeldt bier, wijn en sterke drank; geen actuele officiële drankenkaart gevonden, dus assortiment niet primair bevestigd.",
+      "selection": "Voorlopig",
+      "open": [
+        "?",
+        "?",
+        "?",
+        "16:00",
+        "16:00",
+        "16:00",
+        "16:00"
+      ],
+      "close": [
+        "?",
+        "?",
+        "?",
+        "?",
+        "?",
+        "?",
+        "?"
+      ],
+      "closing_quality": "Eigen website noemt alleen openingsbegin do–zo 16:00; ma–wo geen regulier rooster gepubliceerd. Keuken sluit om 20:00, niet het café.",
+      "closing_source": "https://www.cafedonkerbroek.com/openingstijden/",
+      "closing_notes": "30-10-2026: officiële site noemt do–zo vanaf 16:00, geen sluitingsuren; groepen/feesten 7 dagen op afspraak. Externe gids https://www.fietsnetwerk.nl/knooppunt/cafe-donkerbroek-donkerbroek/ heeft afwijkend vrijdagbegin en andere sluiting, niet overgenomen. Alcohol extern vermeld door https://corestaurant.ch/es/Netherlands/restaurant/cafe-donkerbroek-donkerbroek-805, actuele eigen drankkaart ontbreekt. Laatste toegang onbekend.",
+      "features": "D0 Ooststellingwerf / Donkerbroek; vrij toegankelijke dorpskroeg",
+      "website": "https://www.cafedonkerbroek.com/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.cafedonkerbroek.com/openingstijden/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.cafedonkerbroek.com/menu/",
+        "https://donkerbroek.nl/informatie/toerisme/tourist-info-donkerbroek/",
+        "https://corestaurant.ch/es/Netherlands/restaurant/cafe-donkerbroek-donkerbroek-805"
+      ],
+      "original_status": "Eigen site bevestigt exploitatie en vrije drankinloop; alcohol alleen via externe horecaomschrijving bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      }
     }
   ],
   "admission_policies": [
