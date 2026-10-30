@@ -13448,8 +13448,8 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Actuele bedrijvengids vermeldt exploitatie van drinkgelegenheden op Schilbanken 17; vrije inloop niet afzonderlijk bij exploitant geverifieerd.",
+      "alcohol": "Drinkgelegenheid volgens actuele bedrijfsregistratie; concreet aanbod niet op eigen kaart bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13460,21 +13460,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend: lokale bedrijvengids toont OSM/Google/zelfbeheer-uren zonder individuele bronherkomst; geen officiële bedrijfssite.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs vermeldt horeca, handelsnaam 'Café De Stee' en gidsuren (ma/di dicht, wo vanaf 16, do–za tot 01), maar zegt expliciet dat de tijddata uit OSM, Google of zelfbeheer kunnen komen. Niet bedrijfseigen bevestigd; weekrooster en laatste toegang onbekend gehouden. Naam niet zonder bevestiging veranderd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Bedrijvengids met KvK-sector drinkgelegenheden op adres gecontroleerd 2026-10-30; officiële website ontbreekt.",
       "geo": {
         "lat": 53.1851675,
         "lon": 5.5394208,
         "method": "PDOK BAG-adres",
         "matched_address": "Schilbanken 17, 8801MH Franeker"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-de-doelen-franeker-8aee2be",
@@ -13484,33 +13487,50 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt publiek grand café met koffie, lunch, diner en borrel; geen verplichte maaltijd genoemd.",
+      "alcohol": "Eigen site noemt borrel en drank; specifieke alcoholsoorten nog niet via actuele drankkaart vastgesteld.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële bedrijfswebsite: ma–do/zo 23:00, vr/za 01:00; uitzonderingen/laatste toegang onbekend.",
+      "closing_source": "https://dedoelen-franeker.nl/",
+      "closing_notes": "Eigen site rechtstreeks gelezen 30-10-2026; vrijdag/zaterdag tot 01:00 de volgende kalenderdag. Geen laatste-toegangstijd gepubliceerd. Lokale gids https://www.friesland.nl/nl/locaties/1897088113/grand-cafe-de-doelen bevestigt hetzelfde.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://dedoelen-franeker.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://dedoelen-franeker.nl/",
+        "https://www.friesland.nl/nl/locaties/1897088113/grand-cafe-de-doelen"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website bevestigt actuele publieke exploitatie op Breedeplaats 6, 2026-10-30.",
       "geo": {
         "lat": 53.1862645,
         "lon": 5.5447061,
         "method": "PDOK BAG-adres",
         "matched_address": "Breedeplaats 6, 8801LZ Franeker"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfswebsite rechtstreeks geopend 2026-10-30; www-subdomein niet bereikbaar, kale domein wel.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://dedoelen-franeker.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officiële bedrijfswebsite: ma–do/zo 11–23, vr/za 11–01.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "tapperij-t-noord-franeker-340a463",
@@ -13520,8 +13540,8 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Lokale bedrijvengids registreert exploitatie van drinkgelegenheden op Noord 92; vrije inloop niet onafhankelijk geverifieerd.",
+      "alcohol": "Drinkgelegenheid volgens bedrijfsregister; eigen drankkaart niet beschikbaar.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13532,21 +13552,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend: Franeker.nl en VindOpen/Firmania geven afwijkende weekroosters; eigen domein niet bereikbaar.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/1671e60ff064fbc76f7c60f1668fef34/tapperij-t-noord noemt di 19–22, do 16–00, vr/za 16–01, zo 15–22. https://vind-open.nl/franeker/tapperij-t-noord-331638 (bijgewerkt 25-08-2026) noemt di/do 19–01, vr/za 16–02, zo 16–22. https://tapperijtnoord.nl/ is niet rechtstreeks bereikbaar. Geen bronconflict opgelost; alle exacte uren en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://franeker.nl/bedrijven/1671e60ff064fbc76f7c60f1668fef34/tapperij-t-noord",
+        "https://vind-open.nl/franeker/tapperij-t-noord-331638",
+        "https://tapperijtnoord.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "KvK-gerelateerde bedrijvengids en twee tegenstrijdige urenbronnen gecontroleerd 2026-10-30; eigen site onbereikbaar.",
       "geo": {
         "lat": 53.1878576,
         "lon": 5.5403232,
         "method": "PDOK BAG-adres",
         "matched_address": "Noord 92, 8801KS Franeker"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "bar-1908-franeker-8dcc574",
@@ -13556,8 +13580,8 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Lokale bedrijvengids bevestigt registratie als drinkgelegenheid op Schilcampen 1; publieke inloop niet rechtstreeks bij zaak bevestigd.",
+      "alcohol": "Drinkgelegenheid volgens KvK-gerelateerde gids; geen bedrijfseigen kaart gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13568,57 +13592,77 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend: uren uit gemengde gids/OSM/zelfbeheerbron, niet bedrijfseigen bevestigd.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "KvK-gerelateerde bedrijfsvermelding op Schilcampen 1 geraadpleegd 2026-10-30; actuele inloop en tijden niet zelfstandig bewezen.",
       "geo": {
         "lat": 53.1850052,
         "lon": 5.5433647,
         "method": "PDOK BAG-adres",
         "matched_address": "Schilcampen 1, 8801ME Franeker"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-bocht-fen-gune-franeker-1bf8b1f",
-      "name": "De Bocht fen Guné",
+      "name": "De Bogt fen Guné",
       "type": "Kroeg",
       "address": "Vijverstraat 1",
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site nodigt publiek uit voor borrels, sport, pubquiz en muziek; privéfeesten ma–zo op afspraak zijn geen vrije inloop.",
+      "alcohol": "Eigen site biedt borrels, bier en andere dranken; actuele exploitatie bevestigd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site: do–za 02:00, zondag 22:00; ma–wo geen reguliere inloop.",
+      "closing_source": "https://debogt.nl/",
+      "closing_notes": "Eigen site 30-10-2026: do t/m za 16–02, zondag 12–22; groepsactiviteiten/privéfeesten ma–zo in overleg. Niet aannemen dat privéafspraken publieke inloop betekenen. Sociale gids https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune geeft afwijkende do/vr/za-uren; eigen site gevolgd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://debogt.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/harlingen"
+        "https://uitgaanskaart.nl/cafe/harlingen",
+        "https://debogt.nl/",
+        "https://www.franeker.frl/bezoeken/151348/de-bogt-fen-gune/",
+        "https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site bevestigt actuele exploitatie, naam De Bogt fen Guné en adres Vijverstraat 1 op 2026-10-30.",
       "geo": {
         "lat": 53.1862069,
         "lon": 5.538223,
         "method": "PDOK BAG-adres",
         "matched_address": "Vijverstraat 1, 8801TT Franeker"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen actuele website rechtstreeks geopend op 2026-10-30; naamspelling De Bogt.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://debogt.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site: publieke opening do–za 16–02, zo 12–22; ma–wo uitsluitend privé/groepsactiviteiten in overleg.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-it-kin-net-bolsward-75feb60",
