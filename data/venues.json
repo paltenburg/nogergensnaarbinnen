@@ -14807,75 +14807,113 @@
     },
     {
       "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
-      "name": "Ke-Rijf Bar",
-      "type": "Bar",
+      "name": "De Kerijfbar",
+      "type": "Gastrobar",
       "address": "Willem Barentszstraat 19",
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site: 'Loop gerust binnen', geen reservering vereist; groepen vooraf afstemmen.",
+      "alcohol": "Eigen site: cocktails, speciaalbier en wijn.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website, gecontroleerd 30-10-2026",
+      "closing_source": "https://dekerijfbar.nl/contact/",
+      "closing_notes": "Actuele footer/contactpagina: wo/do 12:00–23:00, vr/za 12:00–01:00, zo/ma/di gesloten. Eigen nieuwspagina noemt een zondag-event 25-10-2026: uitzonderingen mogelijk. Oude gids Ke-Rijf Bar noemt gesloten/andere uren; huidige eigen exploitatie heeft voorrang. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://dekerijfbar.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://dekerijfbar.nl/",
+        "https://dekerijfbar.nl/contact/",
+        "https://dekerijfbar.nl/nieuws/",
+        "https://www.allebiz.nl/ke-rijf-bar"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Huidige exploitatie De Kerijfbar op 30-10-2026 bevestigd via eigen site; oudere vermelding Ke-Rijf Bar was verouderd.",
       "geo": {
         "lat": 53.3596242,
         "lon": 5.215308,
         "method": "PDOK BAG-adres",
         "matched_address": "Willem Barentszstraat 19, 8881BP West-Terschelling"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen huidige site bevestigt Kerijfbar als gastrobar op Willem Barentszstraat 19 met vrije inloop, drankkaart en evenementen; 30-10-2026.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "—"
+      },
+      "opening_source": "https://dekerijfbar.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "closing_checked_on": "2026-10-30",
+      "opening_quality": "Officiële website, gecontroleerd 30-10-2026"
     },
     {
       "id": "oka-18-west-terschelling-34ccd0e",
-      "name": "Oka 18",
+      "name": "Danscafé OKA 18",
       "type": "Kroeg",
       "address": "Molenstraat 17",
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site: publiek danscafé en bar; evenemententijden kunnen afwijken.",
+      "alcohol": "Eigen site: bier, wijn en mixdranken.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website, gecontroleerd 30-10-2026",
+      "closing_source": "https://www.oka18.nl/",
+      "closing_notes": "Eigen site: ma–za 14:00–02:00, zondag 14:00–22:00. VVV toont andere starturen ma/zo; eigen site voorrang. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.oka18.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://www.oka18.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/oka-18/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site op 30-10-2026 gecontroleerd; geen live garantie.",
       "geo": {
         "lat": 53.3595348,
         "lon": 5.2156538,
         "method": "PDOK BAG-adres",
         "matched_address": "Molenstraat 17, 8881BR West-Terschelling"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen site met recente berichten van september 2026 bevestigt danscafé, adres Molenstraat 17 en dranken; 30-10-2026.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.oka18.nl/",
+      "opening_checked_on": "2026-10-30",
+      "closing_checked_on": "2026-10-30",
+      "opening_quality": "Officiële website, gecontroleerd 30-10-2026"
     },
     {
       "id": "cafe-t-zwaantje-west-terschelling-48d0156",
@@ -14885,33 +14923,51 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site: publiek café aan de haven.",
+      "alcohol": "Eigen site: bier van de tap, whisky, wijn en cocktails.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website, gecontroleerd 30-10-2026",
+      "closing_source": "https://www.cafehetzwaantjeterschelling.nl/",
+      "closing_notes": "Eigen site zegt jaarrond 15:30–02:00; geen laatste toegang vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafehetzwaantjeterschelling.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://www.cafehetzwaantjeterschelling.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/cafe-het-zwaantje/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site op 30-10-2026 gecontroleerd; geen live garantie.",
       "geo": {
         "lat": 53.3591938,
         "lon": 5.2159105,
         "method": "PDOK BAG-adres",
         "matched_address": "Havenstraat 1, 8881BN West-Terschelling"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen site bevestigt Havenstraat 1, bieren, whisky, wijn en cocktails, jaarrond 15:30–02:00; 30-10-2026.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "15:30",
+        "di": "15:30",
+        "wo": "15:30",
+        "do": "15:30",
+        "vr": "15:30",
+        "za": "15:30",
+        "zo": "15:30"
+      },
+      "opening_source": "https://www.cafehetzwaantjeterschelling.nl/",
+      "opening_checked_on": "2026-10-30",
+      "closing_checked_on": "2026-10-30",
+      "opening_quality": "Officiële website, gecontroleerd 30-10-2026"
     },
     {
       "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
@@ -15138,7 +15194,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -15148,21 +15204,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; tegenstrijdige derdebronnen en geen toegankelijk eigen weekrooster",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen domein dedammesaan.nl gaf 403; restaurant-terschelling.nl zegt gesloten maar toont tegelijk dagelijkse oude uren; bestelplatform eetcafededammesaan.ultimatumapp.com noemt Bezorgen Terschelling en Oosterburen 3, geen bewezen actuele café-openstelling. Sluiting en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/",
+        "https://eetcafededammesaan.ultimatumapp.com/",
+        "https://www.dedammesaan.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gids noemt gesloten zonder duidelijke datum; bestelplatform op Oosterburen 3 is bereikbaar, maar toont alle artikelen als uitverkocht. Publieke actuele exploitatie 30-10-2026 niet bewezen.",
       "geo": {
         "lat": 53.3830282,
         "lon": 5.285804,
         "method": "PDOK BAG-adres",
         "matched_address": "Oosterburen 3, 8891GA Midsland"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "schotse-vier-midsland-6021740",
@@ -15172,33 +15232,52 @@
       "city": "Midsland",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website: publiek bruin café; reservering niet vereist voor reguliere inloop.",
+      "alcohol": "Eigen site noemt bier en sterke drank.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website, gecontroleerd 30-10-2026",
+      "closing_source": "https://schotsevier.nl/contact",
+      "closing_notes": "Iedere dag 16:00–02:00 volgens exploitant; zomer-/eventafwijkingen mogelijk, laatste toegang niet vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://schotsevier.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://schotsevier.nl/",
+        "https://schotsevier.nl/contact",
+        "https://www.vvvterschelling.nl/bedrijven/bar-schotse-vier/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site op 30-10-2026 gecontroleerd; geen live garantie.",
       "geo": {
         "lat": 53.3830921,
         "lon": 5.2863974,
         "method": "PDOK BAG-adres",
         "matched_address": "Oosterburen 13, 8891GA Midsland"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen contactpagina bevestigt Oosterburen 13, 7 dagen 16:00–02:00 en publiek café met bier; 30-10-2026.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://schotsevier.nl/contact",
+      "opening_checked_on": "2026-10-30",
+      "closing_checked_on": "2026-10-30",
+      "opening_quality": "Officiële website, gecontroleerd 30-10-2026"
     },
     {
       "id": "de-vijfpoort-formerum-fa6312a",
