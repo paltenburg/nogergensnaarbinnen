@@ -22417,6 +22417,50 @@
         "https://www.friesland.nl/nl/locaties/2337185225/grand-cafe-wouters"
       ],
       "original_status": "Eigen site bevestigt huidige naam en vrije borrel; gidsroosters zijn tegenstrijdig."
+    },
+    {
+      "id": "cafe-de-posthoorn-dronryp-20261030",
+      "name": "Café De Posthoorn",
+      "type": "Bruin dorpscafé",
+      "address": "Brêgebuorren 10",
+      "city": "Dronryp",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site heet bezoekers welkom voor een drankje in een publiek bruin café; zaal/café afhuren is aparte mogelijkheid.",
+      "alcohol": "Eigen site schrijft 'Proost bij de Posthoorn!' en noemt een bruin café met bier-emoji; geen actuele uitgesplitste drankkaart uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "19:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële exploitantsite noemt dit caférooster op homepage en footer; toeristische gids lijkt 17–20 snackbarrooster te tonen, niet als café-sluiting overgenomen.",
+      "closing_source": "https://deposthoorn.frl/",
+      "closing_notes": "30-10-2026: https://deposthoorn.frl/ bevestigt naam, Brêgebuorren 10, publiek café en weekrooster wo 19–00, do 17–00, vr/za 17–01, zo 17–00; ma/di niet vermeld en daarom als reguliere gesloten dagen geïnterpreteerd op basis van eigen weekoverzicht. Eigen site toont afzonderlijk 'Snackbar' do–zo 17–20, dus https://www.friesland.nl/nl/locaties/693115031/cafe-de-posthoorn-dronryp met 17–20 niet als café-sluiting gebruikt. https://www.franeker.nl/bedrijven/81d7d6bd02effc2f268fced40d933b73/cafe-de-posthoorn bevestigt huidige bedrijfsregistratie; laatste toegang onbekend.",
+      "features": "D0 Waadhoeke / Dronryp; caférooster verschilt van snackbarrooster",
+      "website": "https://deposthoorn.frl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://deposthoorn.frl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/693115031/cafe-de-posthoorn-dronryp",
+        "https://www.franeker.nl/bedrijven/81d7d6bd02effc2f268fced40d933b73/cafe-de-posthoorn"
+      ],
+      "original_status": "Eigen site rechtstreeks bevestigd, met gescheiden café- en snackbarroosters."
     }
   ],
   "admission_policies": [
