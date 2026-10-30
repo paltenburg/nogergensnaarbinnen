@@ -11627,7 +11627,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -11637,21 +11637,24 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onbekend; alleen externe navigatie-/gidsgegevens",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "30-10-2026: Waze vermeldt Lindegracht 57, domein tkannet.nl en wo–zo 15–03; eetgerust geeft dezelfde tijden, maar de genoemde officiële site was niet toegankelijk. Geen primaire bevestiging van exploitatie, sluiting of laatste toegang; alle uren blijven onbekend. Hercontrole eigen site/sociale kanalen nodig.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.waze.com/live-map/directions/nl/fr/heerenveen/t-kannet?to=place.ChIJbYQUL-peyEcRe1YsJZlds6E",
+        "https://eetgerust.nl/restaurant/t-kannet-heerenveen"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Adres en gidsuren op 30-10-2026 via Waze/eetgerust gezien, maar geen verifieerbare eigen bron of actuele publieke toegang; voorlopig niet als bevestigd open presenteren.",
       "geo": {
         "lat": 52.9608173,
         "lon": 5.9255961,
         "method": "PDOK BAG-adres",
         "matched_address": "Lindegracht 57, 8441GK Heerenveen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-t-skoffeltsje-heerenveen-299b11f",
@@ -11978,30 +11981,43 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Historische exploitatie vervangen; geen actueel Paultje-rooster",
+      "closing_source": "https://www.grootheerenveen.nl/nieuws/in-bedrijf/110063/paul-kruger-gaat-weer-open-terug-naar-grootmoeders-tijd-",
+      "closing_notes": "30-10-2026: Groot Heerenveen (19-04-2025) noemt Paultje expliciet als voormalige huurder van het Paul Kruger-pand; sinds 25-04-2025 Grand Café Paul Kruger. Eigen opvolgersite paulkruger.frl bevestigt nieuwe exploitatie, maar contactpagina en homepage spreken elkaar tegen over gewone openingstijden (dagelijks 10–22 versus Ovensteen vr/za 17–22). Paultje niet meer als actueel café tonen. Historisch record/ID behouden; opvolger als aparte kandidaat onderzoeken, geen uren of adres uit oude Paultje overnemen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.grootheerenveen.nl/nieuws/in-bedrijf/110063/paul-kruger-gaat-weer-open-terug-naar-grootmoeders-tijd-",
+        "https://www.paulkruger.frl/",
+        "https://www.paulkruger.frl/contact"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historische Paultje-vermelding; volgens journalistieke terugblik voormalige huurder, vervangen door Paul Kruger in 2025. Niet meer als actuele Paultje tonen.",
       "geo": {
         "lat": 52.9608145,
         "lon": 5.9222178,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 10, 8441EV Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       }
     },
     {
@@ -12012,25 +12028,28 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek bruin café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
+      "alcohol": "Bier, wijn en borrels volgens eigen website",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
         "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.blauwekater.nl/",
+      "closing_notes": "Eigen website gecontroleerd 30-10-2026: do 16–02, vr 16–02, za 15–02; overige dagen niet vermeld, dus onbekend (niet automatisch gesloten). Oude sociale/gidsuren noemen di/wo/zo en afwijkende sluitingen; niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.blauwekater.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/heerenveen"
+        "https://uitgaanskaart.nl/cafe/heerenveen",
+        "https://www.blauwekater.nl/",
+        "https://www.blauwekater.nl/contact/",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-de-blauwe-kater-10871934.html"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -12038,6 +12057,16 @@
         "lon": 5.921872,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 1, 8441EV Heerenveen"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "15:00",
+        "zo": "?"
       }
     },
     {
