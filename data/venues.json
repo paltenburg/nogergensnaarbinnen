@@ -17522,6 +17522,89 @@
         "method": "Officiële website GPS",
         "matched_address": "Strandpaviljoen Sjoerd, strand van Nes, Ameland"
       }
+    },
+    {
+      "id": "t-strandhuys-buren-ameland-20261030",
+      "name": "'t Strandhuys",
+      "type": "Strandpaviljoen/borrel",
+      "address": "Strandweg 100",
+      "city": "Buren",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant bevestigt spontaan langskomen zonder reservering; parktoegang en eventuele deurstop niet afzonderlijk bevestigd",
+      "alcohol": "Horecabedrijf met drankaanbod volgens officiële site; alcohol expliciet vermeld in externe bedrijfsinformatie, eigen drankkaart niet tekstueel leesbaar",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website toont dynamische weekplanning in iframe; tijden niet betrouwbaar tekstueel uitleesbaar",
+      "closing_source": "https://www.strandhuys-ameland.nl/openingstijden/",
+      "closing_notes": "30-10-2026: eigen site noemt keuken sluit 1 uur vóór sluiting, maar het rooster staat in een iframe en is niet als tekst bevestigd. Geen vaste 11–18 uit externe kaart overgenomen. Laatste toegang, seizoensrooster en actuele alcoholkaart te verifiëren.",
+      "checked_on": "2026-10-30",
+      "features": "Ameland; Buren; strandpaviljoen bij Klein Vaarwater",
+      "website": "https://www.strandhuys-ameland.nl/",
+      "other_sources": [
+        "https://www.strandhuys-ameland.nl/reserveren/",
+        "https://www.strandhuys-ameland.nl/menukaart/",
+        "https://www.kleinvaarwater-ameland.nl/faciliteiten/strandpaviljoen-het-strandhuys"
+      ],
+      "original_status": "Officiële site en exploitant bevestigen bestaande openbare horeca; geen live exploitatie of vast weekrooster onafhankelijk vastgesteld"
+    },
+    {
+      "id": "restaurant-de-huyskamer-buren-ameland-20261030",
+      "name": "Restaurant De Huyskamer",
+      "type": "Restaurant/borrel",
+      "address": "Klein Vaarwaterweg 14",
+      "city": "Buren",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant en VVV nodigen ook bezoekers uit voor alleen een drankje; ligt in centrumgebouw vakantiepark, eventuele toegangseisen onbekend",
+      "alcohol": "Hertog Jan bier (35 cl) vermeld op menukaart uit 2025 bij externe menureproductie; actueel alcoholaanbod nog niet bedrijfseigen bevestigd",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële site toont dynamische openingstijden via aparte pagina; geen verifieerbaar vast weekrooster",
+      "closing_source": "https://www.kleinvaarwater-ameland.nl/faciliteiten/restaurant-de-huyskamer",
+      "closing_notes": "30-10-2026: eigen exploitant bevestigt borrelgelegenheid, keuken sluit een uur voor de zaak. Externe gids noemt dagelijks 10–21 maar actuele exploitanturen niet uitgelezen, dus onbekend. Laatste toegang en eventuele parktoegang onbekend.",
+      "checked_on": "2026-10-30",
+      "features": "Ameland; Buren; restaurant in centrumgebouw Klein Vaarwater",
+      "website": "https://www.kleinvaarwater-ameland.nl/faciliteiten/restaurant-de-huyskamer",
+      "other_sources": [
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-buren/restaurant-de-huyskamer",
+        "https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart"
+      ],
+      "original_status": "Officiële exploitant en VVV bevestigen restaurantfunctie; actueel alcoholmenu en openingstijden niet volledig geverifieerd"
     }
   ],
   "admission_policies": [
