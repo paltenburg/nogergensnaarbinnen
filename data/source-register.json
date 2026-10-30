@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 417,
-    "source_urls": 600,
-    "domains": 306,
-    "direct_website_fields": 216
+    "source_urls": 625,
+    "domains": 316,
+    "direct_website_fields": 222
   },
   "discovery_sites": [
     {
@@ -160,13 +160,13 @@
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 13,
-      "linked_venues": 13
+      "source_pages": 14,
+      "linked_venues": 14
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 11,
-      "linked_venues": 11
+      "source_pages": 13,
+      "linked_venues": 13
     },
     {
       "domain": "visitleeuwarden.com",
@@ -209,7 +209,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "compadex.com",
+      "source_pages": 5,
+      "linked_venues": 5
+    },
+    {
       "domain": "grootsneek.nl",
+      "source_pages": 5,
+      "linked_venues": 5
+    },
+    {
+      "domain": "vind-open.nl",
       "source_pages": 5,
       "linked_venues": 5
     },
@@ -224,7 +234,7 @@
       "linked_venues": 4
     },
     {
-      "domain": "compadex.com",
+      "domain": "findglocal.com",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -254,11 +264,6 @@
       "linked_venues": 4
     },
     {
-      "domain": "vind-open.nl",
-      "source_pages": 4,
-      "linked_venues": 4
-    },
-    {
       "domain": "amelanderbier.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -274,9 +279,19 @@
       "linked_venues": 2
     },
     {
-      "domain": "findglocal.com",
+      "domain": "eetcafenooitgedagt.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "franeker.nl",
       "source_pages": 3,
       "linked_venues": 3
+    },
+    {
+      "domain": "hetbrouwdok.nl",
+      "source_pages": 3,
+      "linked_venues": 1
     },
     {
       "domain": "noah-eetcafe.nl",
@@ -439,7 +454,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "harlingenwelkomaanzee.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "heerenveen.deswetser.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "hetnoorderke.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -545,6 +570,11 @@
     },
     {
       "domain": "quignon.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "rederij-doeksen.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -994,6 +1024,16 @@
       "linked_venues": 1
     },
     {
+      "domain": "debogt.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dedoelen-franeker.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "dejansbar.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1135,6 +1175,11 @@
     },
     {
       "domain": "fr.restaurantguru.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "franeker.frl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1529,6 +1574,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "tapperijtnoord.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "tastytrails.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1814,6 +1864,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.allebiz.nl/bar-de-bock-06-55581308",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-de-bock-harlingen-33ab930",
+          "name": "Bar de Bock",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -1970,6 +2044,30 @@
         {
           "id": "de-toeter-leeuwarden-f8ed332",
           "name": "De Toeter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/eetcaf%C3%A9-nooitgedagt-0517-434-211",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+          "name": "Eetcafé Nooitgedagt",
           "roles": [
             "achtergrond"
           ],
@@ -6461,6 +6559,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+          "name": "Café De Kleine Beurs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -7059,6 +7181,40 @@
       "needs_review": true
     },
     {
+      "url": "https://debogt.nl/",
+      "domain": "debogt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+          "name": "De Bogt fen Guné",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.debuik.nl/utrecht",
       "domain": "debuik.nl",
       "first_registered_on": "2026-10-26",
@@ -7420,6 +7576,40 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://dedoelen-franeker.nl/",
+      "domain": "dedoelen-franeker.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-doelen-franeker-8aee2be",
+          "name": "Grand Café De Doelen",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://dehelling.nl/",
@@ -8412,6 +8602,86 @@
       "needs_review": false
     },
     {
+      "url": "https://www.eetcafenooitgedagt.nl/",
+      "domain": "eetcafenooitgedagt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+          "name": "Eetcafé Nooitgedagt",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.eetcafenooitgedagt.nl/contact/",
+      "domain": "eetcafenooitgedagt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+          "name": "Eetcafé Nooitgedagt",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.eetcafenooitgedagt.nl/openingstijden/",
+      "domain": "eetcafenooitgedagt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-nooitgedagt-harlingen-49e8985",
+          "name": "Eetcafé Nooitgedagt",
+          "roles": [
+            "achtergrond",
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://eetcafespinoza.nl/",
       "domain": "eetcafespinoza.nl",
       "first_registered_on": "2026-10-30",
@@ -8813,6 +9083,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+          "name": "De Bogt fen Guné",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
       "domain": "findglocal.com",
       "first_registered_on": "2026-10-30",
@@ -8965,6 +9259,102 @@
       "needs_review": true
     },
     {
+      "url": "https://www.franeker.frl/bezoeken/151348/de-bogt-fen-gune/",
+      "domain": "franeker.frl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-bocht-fen-gune-franeker-1bf8b1f",
+          "name": "De Bogt fen Guné",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://franeker.nl/bedrijven/1671e60ff064fbc76f7c60f1668fef34/tapperij-t-noord",
+      "domain": "franeker.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "tapperij-t-noord-franeker-340a463",
+          "name": "Tapperij 't Noord",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs",
+      "domain": "franeker.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
+          "name": "Café De Kleine Beurs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908",
+      "domain": "franeker.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-1908-franeker-8dcc574",
+          "name": "Bar 1908",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -9022,6 +9412,30 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/1897088113/grand-cafe-de-doelen",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-doelen-franeker-8aee2be",
+          "name": "Grand Café De Doelen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.friesland.nl/nl/locaties/1979102920/de-babbelaar",
@@ -9774,6 +10188,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.harlingenwelkomaanzee.nl/en/locations/2136642440/cafe-t-noorderke-restaurant-noorderpoort",
+      "domain": "harlingenwelkomaanzee.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-noorderke-harlingen-9f9ff92",
+          "name": "Café 't Noorderke",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.harlingenwelkomaanzee.nl/nl/locaties/4176193270/grand-cafe-promenade",
+      "domain": "harlingenwelkomaanzee.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-promenade-harlingen-f6e911b",
+          "name": "Grand Café Promenade",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hartlooper.nl/",
       "domain": "hartlooper.nl",
       "first_registered_on": "2026-10-26",
@@ -9968,6 +10430,144 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hetbrouwdok.nl/brouwerij/ontdekken/contact/",
+      "domain": "hetbrouwdok.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Brouwdok Buitendijks (proeflokaal)",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hetbrouwdok.nl/proeflokaal/",
+      "domain": "hetbrouwdok.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Brouwdok Buitendijks (proeflokaal)",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hetbrouwdok.nl/webshop/",
+      "domain": "hetbrouwdok.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Brouwdok Buitendijks (proeflokaal)",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hetnoorderke.nl/",
+      "domain": "hetnoorderke.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-noorderke-harlingen-9f9ff92",
+          "name": "Café 't Noorderke",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hetnoorderke.nl/contact/",
+      "domain": "hetnoorderke.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-noorderke-harlingen-9f9ff92",
+          "name": "Café 't Noorderke",
+          "roles": [
+            "achtergrond",
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -13601,6 +14201,65 @@
       "needs_review": true
     },
     {
+      "url": "https://www.rederij-doeksen.nl/faciliteiten-aan-boord",
+      "domain": "rederij-doeksen.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-promenade-harlingen-f6e911b",
+          "name": "Grand Café Promenade",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.rederij-doeksen.nl/service/openingstijden",
+      "domain": "rederij-doeksen.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-promenade-harlingen-f6e911b",
+          "name": "Grand Café Promenade",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.restaurant-broei.com/utrecht",
       "domain": "restaurant-broei.com",
       "first_registered_on": "2026-10-26",
@@ -15061,6 +15720,30 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://tapperijtnoord.nl/",
+      "domain": "tapperijtnoord.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "tapperij-t-noord-franeker-340a463",
+          "name": "Tapperij 't Noord",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://tastytrails.nl/hotspots/bars/utrecht-krijgt-er-met-de-prediker-een-nieuwe-speakeasy-bij/",
@@ -16659,6 +17342,15 @@
           "needs_review": true
         },
         {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Brouwdok Buitendijks (proeflokaal)",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
           "id": "cafe-t-noorderke-harlingen-9f9ff92",
           "name": "Café 't Noorderke",
           "roles": [
@@ -16750,7 +17442,7 @@
         },
         {
           "id": "de-bocht-fen-gune-franeker-1bf8b1f",
-          "name": "De Bocht fen Guné",
+          "name": "De Bogt fen Guné",
           "roles": [
             "achtergrond"
           ],
@@ -16773,7 +17465,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "grand-cafe-levels-harlingen-fe09531",
@@ -16796,15 +17488,6 @@
         {
           "id": "harbour-pub-harlingen-7da020c",
           "name": "Harbour Pub",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
-          "name": "Havenbrouwerij Het Brouwdok",
           "roles": [
             "achtergrond"
           ],
@@ -20005,6 +20688,30 @@
       "needs_review": true
     },
     {
+      "url": "https://vind-open.nl/franeker/tapperij-t-noord-331638",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "tapperij-t-noord-franeker-340a463",
+          "name": "Tapperij 't Noord",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vind-open.nl/sneek/espressobar-sm%C3%BBk-985470",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-29",
@@ -21312,10 +22019,6 @@
         "name": "Café 't Hert"
       },
       {
-        "id": "cafe-t-noorderke-harlingen-9f9ff92",
-        "name": "Café 't Noorderke"
-      },
-      {
         "id": "cafe-t-singeltje-sneek-2a92fa4",
         "name": "Café 't Singeltje"
       },
@@ -21552,10 +22255,6 @@
         "name": "De Apotheek"
       },
       {
-        "id": "de-bocht-fen-gune-franeker-1bf8b1f",
-        "name": "De Bocht fen Guné"
-      },
-      {
         "id": "de-drie-dorstige-herten-d5c9f1a",
         "name": "De Drie Dorstige Herten"
       },
@@ -21656,10 +22355,6 @@
         "name": "Eetcafé Kromme Knilles"
       },
       {
-        "id": "eetcafe-nooitgedagt-harlingen-49e8985",
-        "name": "Eetcafé Nooitgedagt"
-      },
-      {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
         "name": "Eetcafé Spoorzicht"
       },
@@ -21708,10 +22403,6 @@
         "name": "Grand Café Bullock"
       },
       {
-        "id": "grand-cafe-de-doelen-franeker-8aee2be",
-        "name": "Grand Café De Doelen"
-      },
-      {
         "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
         "name": "Grand Café De Oranjerie"
       },
@@ -21736,20 +22427,12 @@
         "name": "Grand Café Kade"
       },
       {
-        "id": "grand-cafe-promenade-harlingen-f6e911b",
-        "name": "Grand Café Promenade"
-      },
-      {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
       },
       {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub"
-      },
-      {
-        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
-        "name": "Havenbrouwerij Het Brouwdok"
       },
       {
         "id": "hcr-teernstra-balk-83c5930",
@@ -22398,10 +23081,6 @@
         "name": "De Apotheek"
       },
       {
-        "id": "de-bocht-fen-gune-franeker-1bf8b1f",
-        "name": "De Bocht fen Guné"
-      },
-      {
         "id": "de-fantast-jirnsum-c4f5cbd",
         "name": "De Fantast"
       },
@@ -22550,10 +23229,6 @@
         "name": "Grand Café Bullock"
       },
       {
-        "id": "grand-cafe-de-doelen-franeker-8aee2be",
-        "name": "Grand Café De Doelen"
-      },
-      {
         "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
         "name": "Grand Café De Oranjerie"
       },
@@ -22586,10 +23261,6 @@
         "name": "Grand Café Post-Plaza"
       },
       {
-        "id": "grand-cafe-promenade-harlingen-f6e911b",
-        "name": "Grand Café Promenade"
-      },
-      {
         "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
         "name": "Grand Café Restaurant Zeezicht"
       },
@@ -22600,10 +23271,6 @@
       {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub"
-      },
-      {
-        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
-        "name": "Havenbrouwerij Het Brouwdok"
       },
       {
         "id": "hcr-teernstra-balk-83c5930",
@@ -22894,7 +23561,7 @@
       {
         "id": "bar-1908-franeker-8dcc574",
         "name": "Bar 1908",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend."
       },
       {
         "id": "bar-cafe-populair-lemmer-415cf0f",
@@ -22909,7 +23576,7 @@
       {
         "id": "bar-de-bock-harlingen-33ab930",
         "name": "Bar de Bock",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: https://www.allebiz.nl/bar-de-bock-06-55581308 vermeldt ma gesloten, di/wo 19–03, do–zo 16–03, maar is geen officiële bedrijfsbron. Geen betrouwbare eigen site gevonden; opening, sluiting en laatste toegang blijven onbekend."
       },
       {
         "id": "bar-patine-917d047",
@@ -22937,6 +23604,11 @@
         "reason": "Opening en feitelijke sluiting wisselen met weer/seizoen. Controleer dezelfde dag."
       },
       {
+        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+        "name": "Brouwdok Buitendijks (proeflokaal)",
+        "reason": "30-10-2026: https://hetbrouwdok.nl/proeflokaal/ noemt wo/do 15–22:30, vr 12–23, za/zo 12–23. https://hetbrouwdok.nl/webshop/ noemt wo/do 15–22, vr 15–23, za 12–23, zo 12–22. Conflicterende vrijdagstart en wo/do/zo-eindtijden onbekend gehouden. Ma/di beide gesloten. Brouwerij-werkuren en rondleidingstijden zijn GEEN proeflokaaluren. Laatste toegang onbekend."
+      },
+      {
         "id": "bruin-cafe-licorne-bakhuizen-841e786",
         "name": "Bruin Café Licorne",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -22959,7 +23631,7 @@
       {
         "id": "cafe-t-noorderke-harlingen-9f9ff92",
         "name": "Café 't Noorderke",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: vanaf 11:30, di/wo gesloten, keuken tot 21:00; sluiting/laatste toegang niet vermeld. Toeristische gids noemt 21:30, andere gids 23:00; niet overgenomen. Eigen site bevestigt Noorderhaven 17, terwijl sommige gidsen Noorderhaven 19 vermelden. 2026-10-30."
       },
       {
         "id": "cafe-t-singeltje-sneek-2a92fa4",
@@ -23074,7 +23746,7 @@
       {
         "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
         "name": "Café De Kleine Beurs",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs vermeldt horeca, handelsnaam 'Café De Stee' en gidsuren (ma/di dicht, wo vanaf 16, do–za tot 01), maar zegt expliciet dat de tijddata uit OSM, Google of zelfbeheer kunnen komen. Niet bedrijfseigen bevestigd; weekrooster en laatste toegang onbekend gehouden. Naam niet zonder bevestiging veranderd."
       },
       {
         "id": "cafe-de-kroon-sneek-ac3c15b",
@@ -23323,8 +23995,8 @@
       },
       {
         "id": "de-bocht-fen-gune-franeker-1bf8b1f",
-        "name": "De Bocht fen Guné",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "De Bogt fen Guné",
+        "reason": "Eigen site 30-10-2026: do t/m za 16–02, zondag 12–22; groepsactiviteiten/privéfeesten ma–zo in overleg. Niet aannemen dat privéafspraken publieke inloop betekenen. Sociale gids https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune geeft afwijkende do/vr/za-uren; eigen site gevolgd. Laatste toegang onbekend."
       },
       {
         "id": "de-dikke-van-dale-leeuwarden-4b70da7",
@@ -23464,7 +24136,7 @@
       {
         "id": "eetcafe-nooitgedagt-harlingen-49e8985",
         "name": "Eetcafé Nooitgedagt",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: borrel 11:30–18:00, diner start 17:00. Gids noemt dagelijks tot 23:00, niet bedrijfseigen bevestigd. Geen laatste toegang of actuele sluiting bewezen. 2026-10-30."
       },
       {
         "id": "eetcafe-spinoza-leeuwarden-0c56246",
@@ -23537,11 +24209,6 @@
         "reason": "Eigen site https://www.de-brass.nl/ noemt ma gesloten, di–za 10:00–01:00 en zo 11:00–01:00. Visit Wadden https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3988243168/grand-cafe-de-brass bevestigt. Andere gidsen vermelden afwijkende dagen/eindtijden; primaire site leidend. Laatste toegang onbekend."
       },
       {
-        "id": "grand-cafe-de-doelen-franeker-8aee2be",
-        "name": "Grand Café De Doelen",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
         "name": "Grand Café De Oranjerie",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -23584,7 +24251,7 @@
       {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
         "name": "Grand Café Promenade",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële veerterminalpagina vermeldt Grand Café Promenade expliciet bij deze uren. Extra afvaarten en feestdagen kunnen afwijkingen geven; geen garantie op actuele keuken-/borreltoegang of laatste toegang. 2026-10-30."
       },
       {
         "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
@@ -23594,11 +24261,6 @@
       {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
-        "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
-        "name": "Havenbrouwerij Het Brouwdok",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
@@ -23834,7 +24496,7 @@
       {
         "id": "tapperij-t-noord-franeker-340a463",
         "name": "Tapperij 't Noord",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: https://franeker.nl/bedrijven/1671e60ff064fbc76f7c60f1668fef34/tapperij-t-noord noemt di 19–22, do 16–00, vr/za 16–01, zo 15–22. https://vind-open.nl/franeker/tapperij-t-noord-331638 (bijgewerkt 25-08-2026) noemt di/do 19–01, vr/za 16–02, zo 16–22. https://tapperijtnoord.nl/ is niet rechtstreeks bereikbaar. Geen bronconflict opgelost; alle exacte uren en laatste toegang onbekend."
       },
       {
         "id": "teds-stadhuisplein-20261026",
