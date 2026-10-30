@@ -10717,7 +10717,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Eetcafé met wijnbar en bieraanbod volgens horecagids",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10728,13 +10728,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Gidsuren tegenstrijdig; officiële site niet bereikbaar, rooster onbekend",
+      "closing_source": "https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605",
+      "closing_notes": "30-10-2026: HFS noemt 15/11/08/16 uur als start, Allebiz noemt 16/11/09:30, lokale bedrijfskaart noemt andere eindtijden (vr/za 02 versus gids 00). Eigen wapenvanleeuwarden.nl niet bereikbaar; geen tijden overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/het-wapen-van-leeuwarden",
+        "https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10742,54 +10744,61 @@
         "lon": 5.7924567,
         "method": "PDOK BAG-adres",
         "matched_address": "Zaailand 92, 8911BN Leeuwarden"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "de-prins-h-leeuwarden-bde2dfe",
       "name": "De Prins 'H.'",
       "type": "Kroeg",
-      "address": "Prins Hendrikstraat 12-14",
+      "address": "Prins Hendrikstraat 14",
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt borrelen en openbare caféfunctie; eventuele deurstop onbekend",
+      "alcohol": "Borrelen volgens officiële website; café met alcoholische dranken",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "03:00",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://cafedeprinsleeuwarden.nl/contact/",
+      "closing_notes": "Eigen contactpagina 30-10-2026: ma–wo 11–02, do 11–03, vr/za 11–05, zo 16–02. Laatste toegang onbekend. Oud adres 12–14 vervangen door bedrijfseigen 14; exacte BAG-match nog te controleren.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://cafedeprinsleeuwarden.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://cafedeprinsleeuwarden.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.198866,
-        "lon": 5.7921487,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Prins Hendrikstraat 12, 8911BK Leeuwarden"
-      }
+      "geocode_notes": "30-10-2026: officiële site noemt uitsluitend huisnummer 14; oude PDOK-marker op huisnummer 12 verwijderd, exact 14 opnieuw geocoderen.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "16:00"
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
       "name": "Café De Ouwe Stoep",
       "type": "Kroeg",
-      "address": "Oude Doelesteeg 7",
+      "address": "Oude Doelesteeg 6",
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Danscafé met alcoholische dranken volgens publieke horecabronnen",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10800,21 +10809,27 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website geeft alleen openingsuren; eindtijden onbekend",
+      "closing_source": "https://www.ouwestoep.nl/",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.ouwestoep.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 53.2004337,
-        "lon": 5.7926832,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Oude Doelesteeg 7, 8911CA Leeuwarden"
-      }
+      "geocode_notes": "30-10-2026: eigen site en Visit Leeuwarden noemen 6; eerdere marker was huisnummer 7. Verwijderd; exact 6 opnieuw geocoderen.",
+      "opening": {
+        "ma": "19:00",
+        "di": "19:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "19:00"
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
@@ -10824,8 +10839,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website en Visit Leeuwarden bevestigen publieke dans-/uitgaansgelegenheid; laatste toegang onbekend",
+      "alcohol": "Uitgebreid drankenassortiment volgens Visit Leeuwarden",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10836,13 +10851,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen website: aanvang; eindtijden niet vermeld; gidsen tegenstrijdig",
+      "closing_source": "https://vriendenvanleeuwarden.nl/",
+      "closing_notes": "Eigen hoofdpagina 30-10-2026: ma/do vanaf 23, vr vanaf 22, za vanaf 21; di/wo/zo niet vermeld, dus onbekend, niet als gesloten verondersteld. Oudere eigen archiefpagina noemt afwijkende aanvangstijden; Friesland.nl noemt afwijkende dagen en 05:00 als sluiting. Eindtijden niet als officieel bevestigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://vriendenvanleeuwarden.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.friesland.nl/nl/locaties/4177371018/vrienden-van-leeuwarden-1",
+        "https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10850,7 +10867,17 @@
         "lon": 5.7919331,
         "method": "PDOK BAG-adres",
         "matched_address": "Ruiterskwartier 101, 8911BR Leeuwarden"
-      }
+      },
+      "opening": {
+        "ma": "23:00",
+        "di": "?",
+        "wo": "?",
+        "do": "23:00",
+        "vr": "22:00",
+        "za": "21:00",
+        "zo": "?"
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "noah-eetcafe-sneek-sneek-e3c270c",
