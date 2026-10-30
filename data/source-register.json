@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 417,
-    "source_urls": 625,
-    "domains": 316,
-    "direct_website_fields": 222
+    "source_urls": 639,
+    "domains": 323,
+    "direct_website_fields": 226
   },
   "discovery_sites": [
     {
@@ -159,14 +159,14 @@
       "linked_venues": 36
     },
     {
-      "domain": "friesland.nl",
+      "domain": "allebiz.nl",
       "source_pages": 14,
       "linked_venues": 14
     },
     {
-      "domain": "allebiz.nl",
-      "source_pages": 13,
-      "linked_venues": 13
+      "domain": "friesland.nl",
+      "source_pages": 14,
+      "linked_venues": 14
     },
     {
       "domain": "visitleeuwarden.com",
@@ -229,6 +229,11 @@
       "linked_venues": 4
     },
     {
+      "domain": "vvvterschelling.nl",
+      "source_pages": 5,
+      "linked_venues": 5
+    },
+    {
       "domain": "bestrestos.nl",
       "source_pages": 4,
       "linked_venues": 4
@@ -270,6 +275,11 @@
     },
     {
       "domain": "barbasta.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dekerijfbar.nl",
       "source_pages": 3,
       "linked_venues": 1
     },
@@ -599,6 +609,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "schotsevier.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "sevenutrecht.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -652,11 +667,6 @@
       "domain": "tivolivredenburg.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "vvvterschelling.nl",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "waze.com",
@@ -919,6 +929,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafehetzwaantjeterschelling.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafehideout.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1029,6 +1044,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dedammesaan.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "dedoelen-franeker.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1110,6 +1130,11 @@
     },
     {
       "domain": "eetcafedebaron.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafededammesaan.ultimatumapp.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1409,6 +1434,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "oka18.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "ontdek-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1485,6 +1515,11 @@
     },
     {
       "domain": "restaurant-cafe-bar.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "restaurant-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2128,6 +2163,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/ke-rijf-bar",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "De Kerijfbar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -4306,6 +4365,40 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.cafehetzwaantjeterschelling.nl/",
+      "domain": "cafehetzwaantjeterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+          "name": "Café 't Zwaantje",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://cafehideout.nl/",
@@ -7520,6 +7613,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.dedammesaan.nl/",
+      "domain": "dedammesaan.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-dammesaan-midsland-448a367",
+          "name": "Eetcafé de Dammesaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.dedikkevandale.nl/",
       "domain": "dedikkevandale.nl",
       "first_registered_on": "2026-10-30",
@@ -7767,6 +7884,89 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dekerijfbar.nl/",
+      "domain": "dekerijfbar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "De Kerijfbar",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dekerijfbar.nl/contact/",
+      "domain": "dekerijfbar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "De Kerijfbar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dekerijfbar.nl/nieuws/",
+      "domain": "dekerijfbar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "De Kerijfbar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -8493,6 +8693,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafededammesaan.ultimatumapp.com/",
+      "domain": "eetcafededammesaan.ultimatumapp.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-dammesaan-midsland-448a367",
+          "name": "Eetcafé de Dammesaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12525,6 +12749,40 @@
       "needs_review": true
     },
     {
+      "url": "https://www.oka18.nl/",
+      "domain": "oka18.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "oka-18-west-terschelling-34ccd0e",
+          "name": "Danscafé OKA 18",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje",
       "domain": "ondernemendsneek.nl",
       "first_registered_on": "2026-10-29",
@@ -14315,6 +14573,30 @@
       "needs_review": true
     },
     {
+      "url": "https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/",
+      "domain": "restaurant-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-dammesaan-midsland-448a367",
+          "name": "Eetcafé de Dammesaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.restaurant273.com/",
       "domain": "restaurant273.com",
       "first_registered_on": "2026-10-29",
@@ -14719,6 +15001,65 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://schotsevier.nl/",
+      "domain": "schotsevier.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "schotse-vier-midsland-6021740",
+          "name": "Schotse Vier",
+          "roles": [
+            "achtergrond",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://schotsevier.nl/contact",
+      "domain": "schotsevier.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "schotse-vier-midsland-6021740",
+          "name": "Schotse Vier",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://secure.bowlingnbf.nl/bowlingcentra/toon/16/drachten/grand-caf-bowling-de-kaden",
@@ -18773,6 +19114,24 @@
           "needs_review": true
         },
         {
+          "id": "oka-18-west-terschelling-34ccd0e",
+          "name": "Danscafé OKA 18",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+          "name": "De Kerijfbar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
           "id": "de-vijfpoort-formerum-fa6312a",
           "name": "De Vijfpoort",
           "roles": [
@@ -18811,24 +19170,6 @@
         {
           "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
           "name": "Grand Café Restaurant Zeezicht",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
-          "name": "Ke-Rijf Bar",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "oka-18-west-terschelling-34ccd0e",
-          "name": "Oka 18",
           "roles": [
             "achtergrond"
           ],
@@ -21311,6 +21652,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.vvvterschelling.nl/bedrijven/bar-schotse-vier/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "schotse-vier-midsland-6021740",
+          "name": "Schotse Vier",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/cafe-het-zwaantje/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-zwaantje-west-terschelling-48d0156",
+          "name": "Café 't Zwaantje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
       "domain": "vvvterschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -21347,6 +21736,30 @@
         {
           "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
           "name": "Grand Café Restaurant Zeezicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/oka-18/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "oka-18-west-terschelling-34ccd0e",
+          "name": "Danscafé OKA 18",
           "roles": [
             "achtergrond"
           ],
@@ -22043,10 +22456,6 @@
         "name": "Café 't Waldmantsje"
       },
       {
-        "id": "cafe-t-zwaantje-west-terschelling-48d0156",
-        "name": "Café 't Zwaantje"
-      },
-      {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
         "name": "Café Bar De Welp"
       },
@@ -22483,10 +22892,6 @@
         "name": "Kafee 8"
       },
       {
-        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
-        "name": "Ke-Rijf Bar"
-      },
-      {
         "id": "kweekvijver-utrecht-c5d2c85",
         "name": "KweekVijver Utrecht"
       },
@@ -22541,10 +22946,6 @@
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",
         "name": "Njoy Poolcentrum"
-      },
-      {
-        "id": "oka-18-west-terschelling-34ccd0e",
-        "name": "Oka 18"
       },
       {
         "id": "op-roose-dbd6d71",
@@ -22609,10 +23010,6 @@
       {
         "id": "s-s-r-n-u-dbc8e93",
         "name": "S.S.R-N.U."
-      },
-      {
-        "id": "schotse-vier-midsland-6021740",
-        "name": "Schotse Vier"
       },
       {
         "id": "slachtstraat-filmtheater-3db7b64",
@@ -22843,10 +23240,6 @@
       {
         "id": "cafe-t-waldmantsje-drachten-acaeeab",
         "name": "Café 't Waldmantsje"
-      },
-      {
-        "id": "cafe-t-zwaantje-west-terschelling-48d0156",
-        "name": "Café 't Zwaantje"
       },
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
@@ -23325,10 +23718,6 @@
         "name": "Karaokebar de Nachtegaal"
       },
       {
-        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
-        "name": "Ke-Rijf Bar"
-      },
-      {
         "id": "knock-out-comedy-club-59624b0",
         "name": "Knock Out Comedy Club"
       },
@@ -23383,10 +23772,6 @@
       {
         "id": "nomono-ce51c6e",
         "name": "Nomono"
-      },
-      {
-        "id": "oka-18-west-terschelling-34ccd0e",
-        "name": "Oka 18"
       },
       {
         "id": "op-roose-dbd6d71",
@@ -23447,10 +23832,6 @@
       {
         "id": "s-s-r-n-u-dbc8e93",
         "name": "S.S.R-N.U."
-      },
-      {
-        "id": "schotse-vier-midsland-6021740",
-        "name": "Schotse Vier"
       },
       {
         "id": "science-cafe-hideout-20261026",
@@ -23666,7 +24047,7 @@
       {
         "id": "cafe-t-zwaantje-west-terschelling-48d0156",
         "name": "Café 't Zwaantje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site zegt jaarrond 15:30–02:00; geen laatste toegang vermeld."
       },
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
@@ -23979,6 +24360,11 @@
         "reason": "Eigen website gecontroleerd 30-10-2026: 'door de allesvernietigende brand op 8 februari 2025 is Club33 voorlopig gesloten'; nieuwjaarsfeest 01-01-2026 vond plaats in De Doelstien, niet op Legeweg 33. Geen actuele reguliere toegang of sluitingstijden. Heropening opvolgen."
       },
       {
+        "id": "oka-18-west-terschelling-34ccd0e",
+        "name": "Danscafé OKA 18",
+        "reason": "Eigen site: ma–za 14:00–02:00, zondag 14:00–22:00. VVV toont andere starturen ma/zo; eigen site voorrang. Laatste toegang onbekend."
+      },
+      {
         "id": "danscafe-tante-sientje-drachten-b8e305c",
         "name": "Danscafé Tante Sientje",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -24032,6 +24418,11 @@
         "id": "de-hut-van-oom-tom-bolsward-e2ed844",
         "name": "De Hut van Oom Tom",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
+        "name": "De Kerijfbar",
+        "reason": "Actuele footer/contactpagina: wo/do 12:00–23:00, vr/za 12:00–01:00, zo/ma/di gesloten. Eigen nieuwspagina noemt een zondag-event 25-10-2026: uitzonderingen mogelijk. Oude gids Ke-Rijf Bar noemt gesloten/andere uren; huidige eigen exploitatie heeft voorrang. Laatste toegang onbekend."
       },
       {
         "id": "de-kroeg-heerenveen-9b76232",
@@ -24101,7 +24492,7 @@
       {
         "id": "eetcafe-de-dammesaan-midsland-448a367",
         "name": "Eetcafé de Dammesaan",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen domein dedammesaan.nl gaf 403; restaurant-terschelling.nl zegt gesloten maar toont tegelijk dagelijkse oude uren; bestelplatform eetcafededammesaan.ultimatumapp.com noemt Bezorgen Terschelling en Oosterburen 3, geen bewezen actuele café-openstelling. Sluiting en laatste toegang onbekend."
       },
       {
         "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
@@ -24334,11 +24725,6 @@
         "reason": "Eigen https://kbfood.nl/kbfood/ 30-10-2026: ma 12–23, di 11–23, wo/do 10–00, vr/za 10–01, zo gesloten. Visit Wadden vermeldt afwijkende begintijden wo/vr; leerbedrijvenpagina afwijkende vr/za-eindtijden 02:00; bedrijfseigen rooster gebruikt. Laatste toegang onbekend."
       },
       {
-        "id": "ke-rijf-bar-west-terschelling-e1eb9ff",
-        "name": "Ke-Rijf Bar",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "kitchen-bar-danel-4c5a5ea",
         "name": "Kitchen Bar Danel",
         "reason": "Officiële site, wijkt af van lokale gids. Zelfde gebouw als TivoliVredenburg, afzonderlijke horecalocatie."
@@ -24394,11 +24780,6 @@
         "reason": "23-24 oktober proefgedraaid, volledig open vanaf 30 oktober 2026 volgens nieuwslokalen; officieel kanaal vermeldt nog verbouwing. Tot bevestiging niet als open tonen."
       },
       {
-        "id": "oka-18-west-terschelling-34ccd0e",
-        "name": "Oka 18",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "oranje-bierhuis-leeuwarden-bf11768",
         "name": "Oranje Bierhuis",
         "reason": "Eigen site vermeldt woensdag t/m zondag 16:00–00:00. Ma/di niet genoemd: niet als gesloten aangenomen. Laatste toegang onbekend."
@@ -24451,7 +24832,7 @@
       {
         "id": "schotse-vier-midsland-6021740",
         "name": "Schotse Vier",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Iedere dag 16:00–02:00 volgens exploitant; zomer-/eventafwijkingen mogelijk, laatste toegang niet vermeld."
       },
       {
         "id": "sevilla-utrecht-20261026",

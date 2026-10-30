@@ -2,7 +2,7 @@
 
 Gegenereerd op 2026-10-30 uit de locatiedatabase en onderzoeksverslagen.
 
-**625 geregistreerde bron-URL's**, 316 domeinen; gekoppeld aan **417 locaties**.
+**639 geregistreerde bron-URL's**, 323 domeinen; gekoppeld aan **417 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -46,8 +46,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | centrumutrecht.nl | 57 | 54 |
 | uitgaanskaart.nl | 21 | 200 |
 | ontdek-utrecht.nl | 19 | 36 |
+| allebiz.nl | 14 | 14 |
 | friesland.nl | 14 | 14 |
-| allebiz.nl | 13 | 13 |
 | visitleeuwarden.com | 11 | 10 |
 | debuik.nl | 10 | 16 |
 | cylex.nl | 9 | 9 |
@@ -60,6 +60,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | grootsneek.nl | 5 | 5 |
 | vind-open.nl | 5 | 5 |
 | visitwadden.nl | 5 | 4 |
+| vvvterschelling.nl | 5 | 5 |
 | bestrestos.nl | 4 | 4 |
 | findglocal.com | 4 | 4 |
 | oozo.nl | 4 | 2 |
@@ -69,6 +70,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | verseuitjes.nl | 4 | 4 |
 | amelanderbier.nl | 3 | 1 |
 | barbasta.nl | 3 | 1 |
+| dekerijfbar.nl | 3 | 1 |
 | dokkum.nl | 3 | 2 |
 | eetcafenooitgedagt.nl | 3 | 1 |
 | franeker.nl | 3 | 3 |
@@ -134,6 +136,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | restaurantguru.com | 2 | 2 |
 | restaurantstranders.nl | 2 | 1 |
 | rooienel.nl | 2 | 1 |
+| schotsevier.nl | 2 | 1 |
 | sevenutrecht.nl | 2 | 1 |
 | sevilla-utrecht.nl | 2 | 1 |
 | stadscafe-artisante.nl | 2 | 1 |
@@ -145,7 +148,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | teds-place.mom | 2 | 2 |
 | thegrandshuffle.nl | 2 | 1 |
 | tivolivredenburg.nl | 2 | 1 |
-| vvvterschelling.nl | 2 | 2 |
 | waze.com | 2 | 2 |
 | westcordhotels.nl | 2 | 1 |
 | wijnbarvinvin.nl | 2 | 1 |
@@ -198,6 +200,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | cafefokus.nl | 1 | 1 |
 | cafeheenenweer.eatbu.com | 1 | 1 |
 | cafehetgegevenpaard.nl | 1 | 1 |
+| cafehetzwaantjeterschelling.nl | 1 | 1 |
 | cafehideout.nl | 1 | 1 |
 | cafekalff.nl | 1 | 1 |
 | cafekeet.nl | 1 | 1 |
@@ -220,6 +223,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | debastaard.nl | 1 | 1 |
 | debierkantine.com | 1 | 1 |
 | debogt.nl | 1 | 1 |
+| dedammesaan.nl | 1 | 1 |
 | dedoelen-franeker.nl | 1 | 1 |
 | dejansbar.nl | 1 | 1 |
 | dejongensvanjoure.nl | 1 | 1 |
@@ -237,6 +241,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | doelebar.nl | 1 | 1 |
 | duic.nl | 1 | 1 |
 | eetcafedebaron.nl | 1 | 1 |
+| eetcafededammesaan.ultimatumapp.com | 1 | 1 |
 | eetcafedepleats.nl | 1 | 1 |
 | eetcafedepoort.nl | 1 | 1 |
 | eetcafevallen.nl | 1 | 1 |
@@ -296,6 +301,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | nes-cafe-ameland.nl | 1 | 1 |
 | neutje.nl | 1 | 1 |
 | nomono-utrecht.nl | 1 | 1 |
+| oka18.nl | 1 | 1 |
 | ontdek-terschelling.nl | 1 | 1 |
 | oproerbrouwerij.nl | 1 | 1 |
 | opzuidutrecht.nl | 1 | 1 |
@@ -312,6 +318,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | preview.restaurantconcours.nl | 1 | 1 |
 | restaurant-broei.com | 1 | 1 |
 | restaurant-cafe-bar.nl | 1 | 1 |
+| restaurant-terschelling.nl | 1 | 1 |
 | restaurantaandegracht.nl | 1 | 1 |
 | restaurantconcours.nl | 1 | 1 |
 | restaurantwest.nl | 1 | 1 |
@@ -396,6 +403,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.allebiz.nl/eetcaf%C3%A9-nooitgedagt-0517-434-211](https://www.allebiz.nl/eetcaf%C3%A9-nooitgedagt-0517-434-211) — achtergrond; Eetcafé Nooitgedagt; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/het-stamcaf%C3%A9_1L](https://www.allebiz.nl/het-stamcaf%C3%A9_1L) — achtergrond; Het Stamcafé; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605](https://www.allebiz.nl/het-wapen-van-leeuwarden-058-215-0605) — achtergrond, sluitingstijden; Het Wapen van Leeuwarden; bronveld gecontroleerd: 2026-10-30
+- [https://www.allebiz.nl/ke-rijf-bar](https://www.allebiz.nl/ke-rijf-bar) — achtergrond; De Kerijfbar; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666](https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666) — achtergrond; Muziekcafé Scooter's; bronveld gecontroleerd: onbekend
 - [https://www.allebiz.nl/the-rooster](https://www.allebiz.nl/the-rooster) — achtergrond; Café Us Mem; bronveld gecontroleerd: onbekend
 
@@ -641,6 +649,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.cafehetgegevenpaard.nl/](https://www.cafehetgegevenpaard.nl/) — website; Het Gegeven Paard; bronveld gecontroleerd: 2026-10-26
 
+### cafehetzwaantjeterschelling.nl
+
+- [https://www.cafehetzwaantjeterschelling.nl/](https://www.cafehetzwaantjeterschelling.nl/) — achtergrond, openingstijden, sluitingstijden, website; Café 't Zwaantje; bronveld gecontroleerd: 2026-10-30
+
 ### cafehideout.nl
 
 - [https://cafehideout.nl/](https://cafehideout.nl/) — openingstijden, sluitingstijden, website; Science Café HideOut; bronveld gecontroleerd: 2026-10-26
@@ -861,6 +873,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open](https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open) — achtergrond; Bar Patine, Bar Pleur, De Troef spelletjescafé, Grand Bar & Brasserie Marie, Kadet (+ 2 meer); bronveld gecontroleerd: onbekend
 - [https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht](https://www.debuik.nl/utrecht/uit-eten/bar-patine-beetje-vlaams-beetje-frans-aan-de-oudegracht) — achtergrond; Bar Patine; bronveld gecontroleerd: onbekend
 
+### dedammesaan.nl
+
+- [https://www.dedammesaan.nl/](https://www.dedammesaan.nl/) — achtergrond; Eetcafé de Dammesaan; bronveld gecontroleerd: onbekend
+
 ### dedikkevandale.nl
 
 - [https://www.dedikkevandale.nl/](https://www.dedikkevandale.nl/) — achtergrond, openingstijden, sluitingstijden, website; De Dikke van Dale; bronveld gecontroleerd: 2026-10-30
@@ -887,6 +903,12 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.dekajuit.com/](https://www.dekajuit.com/) — achtergrond, website; Restaurant De Kajuit; bronveld gecontroleerd: 2026-10-29
 - [https://www.dekajuit.com/openingstijden/](https://www.dekajuit.com/openingstijden/) — achtergrond, openingstijden, sluitingstijden; Restaurant De Kajuit; bronveld gecontroleerd: 2026-10-29
+
+### dekerijfbar.nl
+
+- [https://dekerijfbar.nl/](https://dekerijfbar.nl/) — achtergrond, website; De Kerijfbar; bronveld gecontroleerd: 2026-10-30
+- [https://dekerijfbar.nl/contact/](https://dekerijfbar.nl/contact/) — achtergrond, openingstijden, sluitingstijden; De Kerijfbar; bronveld gecontroleerd: 2026-10-30
+- [https://dekerijfbar.nl/nieuws/](https://dekerijfbar.nl/nieuws/) — achtergrond; De Kerijfbar; bronveld gecontroleerd: onbekend
 
 ### dekrommeharing.nl
 
@@ -974,6 +996,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.eetcafedeboerderij.nl/](https://www.eetcafedeboerderij.nl/) — website; Eetcafé De Boerderij; bronveld gecontroleerd: 2026-10-30
 - [https://www.eetcafedeboerderij.nl/contact/](https://www.eetcafedeboerderij.nl/contact/) — achtergrond, openingstijden; Eetcafé De Boerderij; bronveld gecontroleerd: 2026-10-30
+
+### eetcafededammesaan.ultimatumapp.com
+
+- [https://eetcafededammesaan.ultimatumapp.com/](https://eetcafededammesaan.ultimatumapp.com/) — achtergrond; Eetcafé de Dammesaan; bronveld gecontroleerd: onbekend
 
 ### eetcafedepleats.nl
 
@@ -1398,6 +1424,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.nomono-utrecht.nl/](https://www.nomono-utrecht.nl/) — onderzoeksnotitie, website; Nomono; bronveld gecontroleerd: 2026-10-26
 
+### oka18.nl
+
+- [https://www.oka18.nl/](https://www.oka18.nl/) — achtergrond, openingstijden, sluitingstijden, website; Danscafé OKA 18; bronveld gecontroleerd: 2026-10-30
+
 ### ondernemendsneek.nl
 
 - [https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje](https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
@@ -1539,6 +1569,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/](https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/) — achtergrond; Café De Twin; bronveld gecontroleerd: onbekend
 
+### restaurant-terschelling.nl
+
+- [https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/](https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/) — achtergrond; Eetcafé de Dammesaan; bronveld gecontroleerd: onbekend
+
 ### restaurant273.com
 
 - [https://www.restaurant273.com/](https://www.restaurant273.com/) — achtergrond; Cocktailbar 273; bronveld gecontroleerd: onbekend
@@ -1586,6 +1620,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### rum-club.nl
 
 - [https://rum-club.nl/](https://rum-club.nl/) — website; Rum Club; bronveld gecontroleerd: 2026-10-26
+
+### schotsevier.nl
+
+- [https://schotsevier.nl/](https://schotsevier.nl/) — achtergrond, website; Schotse Vier; bronveld gecontroleerd: 2026-10-30
+- [https://schotsevier.nl/contact](https://schotsevier.nl/contact) — achtergrond, openingstijden, sluitingstijden; Schotse Vier; bronveld gecontroleerd: 2026-10-30
 
 ### secure.bowlingnbf.nl
 
@@ -1771,7 +1810,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://uitgaanskaart.nl/cafe/stavoren](https://uitgaanskaart.nl/cafe/stavoren) — achtergrond; Bistro Workum, Bruin Café Licorne, Café 't Syltsje, Café De Boekanier, Café Restaurant De Smidte (+ 9 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/utrecht](https://uitgaanskaart.nl/cafe/utrecht) — achtergrond; Bar Beton, Bierlokaal de Luifel, Café Claire, Café de Beurs, Café De Binnenstad (+ 16 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/vlieland](https://uitgaanskaart.nl/cafe/vlieland) — achtergrond; Grand Café De Oude Stoep, Island Pub, ZeeVaert Bistrobar; bronveld gecontroleerd: onbekend
-- [https://uitgaanskaart.nl/cafe/west-terschelling](https://uitgaanskaart.nl/cafe/west-terschelling) — achtergrond; Café 't Zwaantje, Café de Zomer, Café Lieman, De Vijfpoort, Eetcafé de Dammesaan (+ 6 meer); bronveld gecontroleerd: onbekend
+- [https://uitgaanskaart.nl/cafe/west-terschelling](https://uitgaanskaart.nl/cafe/west-terschelling) — achtergrond; Café 't Zwaantje, Café de Zomer, Café Lieman, Danscafé OKA 18, De Kerijfbar (+ 6 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/cafe/wolvega](https://uitgaanskaart.nl/cafe/wolvega) — achtergrond; Bar Suc 6, Café De Babbel, Café De Landerije, Café De Schieve Deure, Eetcafé Wever (+ 1 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/dokkum](https://uitgaanskaart.nl/dokkum) — achtergrond; Bar Dancing De Ponderosa, Café De Swalker, Club33, De Halve Maan, Grand Café Abdij Dokkum (+ 3 meer); bronveld gecontroleerd: onbekend
 - [https://uitgaanskaart.nl/provincie/friesland](https://uitgaanskaart.nl/provincie/friesland) — terugkerende_vindplaats; algemene bron; bronveld gecontroleerd: onbekend
@@ -1878,8 +1917,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### vvvterschelling.nl
 
+- [https://www.vvvterschelling.nl/bedrijven/bar-schotse-vier/](https://www.vvvterschelling.nl/bedrijven/bar-schotse-vier/) — achtergrond; Schotse Vier; bronveld gecontroleerd: onbekend
+- [https://www.vvvterschelling.nl/bedrijven/cafe-het-zwaantje/](https://www.vvvterschelling.nl/bedrijven/cafe-het-zwaantje/) — achtergrond; Café 't Zwaantje; bronveld gecontroleerd: onbekend
 - [https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/](https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/) — achtergrond; Eetcafé Storm; bronveld gecontroleerd: onbekend
 - [https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/](https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/) — achtergrond; Grand Café Restaurant Zeezicht; bronveld gecontroleerd: onbekend
+- [https://www.vvvterschelling.nl/bedrijven/oka-18/](https://www.vvvterschelling.nl/bedrijven/oka-18/) — achtergrond; Danscafé OKA 18; bronveld gecontroleerd: onbekend
 
 ### waterlandvanfriesland.nl
 
