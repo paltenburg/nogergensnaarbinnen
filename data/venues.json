@@ -22638,6 +22638,95 @@
         "https://www.allebiz.nl/eetcaf%C3%A9-de-buorren-06-11495788"
       ],
       "original_status": "Eigen exploitantsite bevat evenementen in oktober–december 2026, bevestigt voortgezette exploitatie en reguliere weekuren."
+    },
+    {
+      "id": "eetcafe-het-graauwe-paard-oudebildtzijl-20261030",
+      "name": "Eetcafé Het Graauwe Paard",
+      "type": "Eetcafé / dorpscafé",
+      "address": "Monnikebildtdijk 1",
+      "city": "Oudebildtzijl",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publiek eetcafé, losse bezoekers en borrel; aparte arrangementen/feesten op afspraak.",
+      "alcohol": "Eigen site heeft een afzonderlijke bier- en wijnkaart; bedrijfsregistratie vermeldt exploitatie van drinkgelegenheden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site geeft alleen vanaf 16:00 wo–zo, ma/di dicht. Externe gidsen geven verschillende sluituren, niet als bevestigd ingevuld.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://hetgraauwepaard.nl/ bevestigt Monnikebildtdijk 1, 9078 VB Oudebildtzijl, wo–zo vanaf 16, ma/di gesloten; https://hetgraauwepaard.nl/menu/ en https://hetgraauwepaard.nl/bierkaart/ tonen eigen bier-/wijnkaart. Visit Wadden https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard bevestigt beginuren, geen sluiting. https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065 noemt wisselende 21/22 uur, niet bevestigd door exploitant. https://hetgraauwepaard.nl/rolling-stones-meet-creedence-clearwater-revival/ toont december-evenement, geen weekrooster. Laatste toegang onbekend.",
+      "features": "D0 Waadhoeke / Oudebildtzijl; eindtijden onbekend",
+      "website": "https://hetgraauwepaard.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://hetgraauwepaard.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://hetgraauwepaard.nl/menu/",
+        "https://hetgraauwepaard.nl/bierkaart/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard",
+        "https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065"
+      ],
+      "original_status": "Eigen site en bier-/wijnkaart bevestigd; actuele eindtijden niet bevestigd."
+    },
+    {
+      "id": "tdf-berltsum-20261030",
+      "name": "TDF Berltsum",
+      "type": "Discotheek / eventclub met Winterbar",
+      "address": "Hemmemaplein 10",
+      "city": "Berltsum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt openbare discotheekavonden, meestal met tickets voor evenementen; voor reguliere avonden doorgaans vrije toegang. Winterbar 12 is onderdeel van hetzelfde horecacomplex, niet apart als duplicaat toegevoegd.",
+      "alcohol": "Exploitant bevestigt meerdere bars, café, drankjes en borrels; specifieke actuele alcoholkaart niet uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen contact-FAQ zegt meestal vr/za 22–04, terwijl dezelfde site/footer vr/za vanaf 18 en zo vanaf 16 vermeldt. Events 7/21 november 22–04, 28 november 21–03. Geen betrouwbaar uniform weekrooster.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://tdfberltsum.nl/contact/ bevestigt Hemmemaplein 10, 9041 BZ Berltsum, ticket-/deurtoegang en FAQ meestal vr/za 22:00–04:00; footer vermeldt vr/za vanaf 18 en zo vanaf 16, daarom alle structurele uren onbekend. https://tdfberltsum.nl/evenementen/ noemt 7 en 21 november 2026 22–04 en 28 november 21–03, UITSLUITEND evenementtijden, niet als vaste sluiting of laatste toegang ingevuld. https://tdfberltsum.nl/ noemt discotheek, Winterbar en meerdere barren; geen aparte venue voor Winterbar/Piratenbar/Feestcafé om dubbelingen op hetzelfde complex te voorkomen. Laatste toegang onbekend.",
+      "features": "D0 Waadhoeke / Berltsum; eventrooster, Winterbar onderdeel van TDF",
+      "website": "https://tdfberltsum.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://tdfberltsum.nl/contact/",
+        "https://tdfberltsum.nl/evenementen/",
+        "https://tdfberltsum.nl/zaal/club/"
+      ],
+      "original_status": "Eigen site bevestigt exploitatie en agenda 2026; structurele uren onderling tegenstrijdig."
     }
   ],
   "admission_policies": [
