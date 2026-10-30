@@ -773,7 +773,18 @@
   // Touch interaction on phones can otherwise leave the region unchanged.
   function regionAtMapCenter(){
     if(!map||!db.regions?.length||!db.places?.length)return null;
-    const center=map.getCenter();
+    // On mobile the top selectors and bottom cards cover much of the map.
+    // Use the centre of the *unobstructed* map rectangle, not Leaflet's
+    // geometric centre (which can be hidden behind the cards).
+    // The same calculation excludes the floating sidebar on desktop.
+    const padding=mapContentPadding();
+    const size=map.getSize();
+    const width=Math.max(1,size.x-padding.left-padding.right);
+    const height=Math.max(1,size.y-padding.top-padding.bottom);
+    const center=map.containerPointToLatLng([
+      padding.left+width/2,
+      padding.top+height/2
+    ]);
     const available=new Set(db.regions.map(region=>region.id));
     const nearest=new Map();
     for(const place of db.places){
