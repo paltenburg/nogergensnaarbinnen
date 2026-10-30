@@ -23288,6 +23288,52 @@
         "https://www.actiefonline.nl/nieuws/algemeen/65993/it-pypke-in-suwald-feestelijk-heropend-met-drie-dagen-feest"
       ],
       "original_status": "Publiek evenement in 2026 bevestigd door dorpsagenda en gemeentelijke kalender; reguliere vrije inloop niet aangetoond."
+    },
+    {
+      "id": "cafe-de-stapper-de-westereen-20261031",
+      "name": "Café De Stapper",
+      "type": "Dorpscafé / kroeg",
+      "address": "Suder Stasjonsstrjitte 10",
+      "city": "De Westereen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Regulier café volgens regionaal interview uit december 2024; vrije inloop en huidige exploitatie in oktober 2026 niet afzonderlijk bij exploitant bevestigd.",
+      "alcohol": "Leverancierslijst van Boerenshot vermeldt De Stapper als horecapunt waar alcoholische shots worden geschonken/verkocht; geen actuele eigen bierkaart.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen bedrijfseigen openingstijden gevonden; geen historische uren of zaalverhuururen overgenomen.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: lokaal interview https://www.westereender.nl/2024/december-2024/wat-er-precies-in-t-hossebosje-pinda-gaat-is-geheim/ noemt De Stapper als enige overgebleven reguliere café in De Westereen, terwijl Hossebos alleen zaal-/eventfunctie heeft. https://www.boerenshot.com/en/pages/winkelzoeker vermeldt De Stapper als horeca-alcoholverkooppunt op Suder Stasjonsstrjitte 10; https://www.zaaltien.nl/contact.html noemt de cafévoorkant van hetzelfde pand en afzonderlijke Zaal Tien. Sponsorlijst https://vvzwaagwesteinde.nl/sponsors bevat cafénaam maar bewijst geen actuele openstelling. Geen eigen website, actuele publieke inloop, weekuren of laatste toegang geverifieerd; daarom Nog te controleren. Zaal Tien en café NIET als twee losse publieke cafés opnemen.",
+      "features": "D0 Dantumadiel / De Westereen; café voorzijde en Zaal Tien achterzijde; actuele tijden onbekend",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.westereender.nl/2024/december-2024/wat-er-precies-in-t-hossebosje-pinda-gaat-is-geheim/",
+        "https://www.boerenshot.com/en/pages/winkelzoeker",
+        "https://www.zaaltien.nl/contact.html",
+        "https://vvzwaagwesteinde.nl/sponsors"
+      ],
+      "original_status": "Reguliere caféfunctie ondersteund door lokaal interview 2024 en alcoholleverancier; feitelijke opening in 2026 niet afzonderlijk bevestigd."
     }
   ],
   "admission_policies": [
