@@ -13015,40 +13015,43 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek stadscafé met borrel en cocktails volgens eigen website; laatste toegang onbekend",
+      "alcohol": "Cocktails volgens eigen website; overige alcohol niet individueel gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
-        "di": "22:00",
-        "wo": "22:00",
-        "do": "22:00",
-        "vr": "02:00",
-        "za": "02:00",
-        "zo": "22:00"
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Lokale stadsgids",
-      "closing_source": "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
-      "closing_notes": "Dinsdag–donderdag tot 22:00, vrijdag–zaterdag tot 02:00, zondag tot 22:00; maandag niet genoemd.",
+      "closing_quality": "Officiële website voor opening; sluiting onbekend wegens bronconflict",
+      "closing_source": "",
+      "closing_notes": "Eigen site 30-10-2026: wo–za vanaf 10:00, zo–di vanaf 11:00, zonder sluitingsuren. Lokale stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo tot 22:00, vr/za tot 02:00; Cylex en Fietsnetwerk melden afwijkende 23/23:30/01:00. Alle eindtijden onbekend gezet; niet uit onbetrouwbaar rooster afleiden. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://stadscafe-artisante.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/dokkum",
-        "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/"
+        "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
+        "https://stadscafe-artisante.nl/",
+        "https://stadscafe-artisante.nl/contact/",
+        "https://www.cylex.nl/bedrijf/stadscaf%C3%A9-artisante-13854608.html"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
+      "checked_on": "2026-10-30",
       "opening": {
-        "ma": "?",
-        "di": "10:00",
+        "ma": "11:00",
+        "di": "11:00",
         "wo": "10:00",
         "do": "10:00",
         "vr": "10:00",
         "za": "10:00",
-        "zo": "12:00"
+        "zo": "11:00"
       },
-      "opening_source": "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://stadscafe-artisante.nl/contact/",
+      "opening_checked_on": "2026-10-30",
       "geo": {
         "lat": 53.3252267,
         "lon": 5.9981387,
@@ -13058,14 +13061,14 @@
     },
     {
       "id": "halve-maan-dokkum-a6661d3",
-      "name": "Halve Maan",
+      "name": "De Halve Maan",
       "type": "Eetcafé",
       "address": "Diepswal 15",
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website bevestigt openbare inloop voor borrel zonder maaltijd; laatste toegang onbekend",
+      "alcohol": "Eigen brouwerij, speciaalbier en bierkaart volgens eigen website",
       "selection": "Voorlopig",
       "closing": {
         "ma": "23:00",
@@ -13074,19 +13077,21 @@
         "do": "23:00",
         "vr": "02:00",
         "za": "02:00",
-        "zo": "?"
+        "zo": "23:00"
       },
-      "closing_quality": "Officiële regiogids",
-      "closing_source": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan",
-      "closing_notes": "Maandag–donderdag tot 23:00, vrijdag–zaterdag tot 02:00; zondag niet opgenomen.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.halvemaandokkum.nl/",
+      "closing_notes": "Officiële site gecontroleerd 30-10-2026: zo–do 10–23, vr/za 10–02; bier en borrel zonder maaltijd expliciet mogelijk. Laatste toegang niet vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.halvemaandokkum.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/dokkum",
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan",
+        "https://www.halvemaandokkum.nl/",
+        "https://www.halvemaandokkum.nl/contactformulier/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
+      "checked_on": "2026-10-30",
       "opening": {
         "ma": "10:00",
         "di": "10:00",
@@ -13094,10 +13099,10 @@
         "do": "10:00",
         "vr": "10:00",
         "za": "10:00",
-        "zo": "?"
+        "zo": "10:00"
       },
-      "opening_source": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3673976771/halve-maan",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://www.halvemaandokkum.nl/",
+      "opening_checked_on": "2026-10-30",
       "geo": {
         "lat": 53.3252938,
         "lon": 5.9989876,
@@ -13149,8 +13154,8 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek grand café voor alleen een drankje volgens eigen website; laatste toegang onbekend",
+      "alcohol": "Wijn en bier volgens eigen site/plaatselijke gids",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13161,13 +13166,16 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Officiële website voor opening; actuele sluiting niet bevestigd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Officiële homepage 30-10-2026: dagelijks open, di–za vanaf 10:00 en zo/ma vanaf 11:30, zonder sluitingsuren. Een andere eigen URL https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/ toont historisch/feestdagenmateriaal en 10–17; externe gidsen melden 00:00. Niet duidelijk wat actueel is, dus geen eindtijd ingevuld. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.dewaeghdokkum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://uitgaanskaart.nl/dokkum",
+        "https://www.dewaeghdokkum.nl/",
+        "https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/",
+        "https://dokkum.nl/eten-en-drinken/grand-cafe-de-waegh/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -13175,7 +13183,19 @@
         "lon": 5.9996089,
         "method": "PDOK BAG-adres",
         "matched_address": "Grote Breedstraat 1, 9101KH Dokkum"
-      }
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "11:30",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:30"
+      },
+      "opening_source": "https://www.dewaeghdokkum.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "club33-dokkum-e7228a2",
@@ -13185,32 +13205,43 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Club na brand 8 februari 2025 volgens eigen website voorlopig gesloten; incidenteel feest op externe locatie is geen opening van Legeweg 33",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website — tijdelijk gesloten",
+      "closing_source": "https://www.33dokkum.nl/",
+      "closing_notes": "Eigen website gecontroleerd 30-10-2026: 'door de allesvernietigende brand op 8 februari 2025 is Club33 voorlopig gesloten'; nieuwjaarsfeest 01-01-2026 vond plaats in De Doelstien, niet op Legeweg 33. Geen actuele reguliere toegang of sluitingstijden. Heropening opvolgen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.33dokkum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://uitgaanskaart.nl/dokkum",
+        "https://www.33dokkum.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele officiële website bevestigt tijdelijke sluiting na brand 08-02-2025; locatie niet tonen als open. Heropening niet bevestigd.",
       "geo": {
         "lat": 53.3262192,
         "lon": 5.9959806,
         "method": "PDOK BAG-adres",
         "matched_address": "Legeweg 33, 9101MB Dokkum"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       }
     },
     {
@@ -13290,25 +13321,28 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publieke lunch, diner en borrel volgens eigen website; laatste toegang onbekend",
+      "alcohol": "Wijn en borrel volgens eigen website en regionale VVV",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://kbfood.nl/kbfood/",
+      "closing_notes": "Eigen https://kbfood.nl/kbfood/ 30-10-2026: ma 12–23, di 11–23, wo/do 10–00, vr/za 10–01, zo gesloten. Visit Wadden vermeldt afwijkende begintijden wo/vr; leerbedrijvenpagina afwijkende vr/za-eindtijden 02:00; bedrijfseigen rooster gebruikt. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://kbfood.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://uitgaanskaart.nl/dokkum",
+        "https://kbfood.nl/kbfood/",
+        "https://www.friesland.nl/nl/locaties/3115876375/kb-food-drinks",
+        "https://leerbanenmarkt.nl/leerbedrijven/kb-food-drinks_c7064f2d-7582-e711-80d1-bb82e25ba0ea"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -13316,7 +13350,19 @@
         "lon": 5.9981783,
         "method": "PDOK BAG-adres",
         "matched_address": "Keppelstraat 4, 9101MV Dokkum"
-      }
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "12:00",
+        "di": "11:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "opening_source": "https://kbfood.nl/kbfood/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-kleine-beurs-franeker-7a96b2a",
