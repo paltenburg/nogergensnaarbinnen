@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 499,
-    "domains": 258,
-    "direct_website_fields": 191
+    "source_urls": 508,
+    "domains": 263,
+    "direct_website_fields": 193
   },
   "discovery_sites": [
     {
@@ -194,7 +194,22 @@
       "linked_venues": 5
     },
     {
+      "domain": "visitwadden.nl",
+      "source_pages": 5,
+      "linked_venues": 4
+    },
+    {
       "domain": "bestrestos.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
+      "domain": "cylex.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
+      "domain": "hfsfreelancers.nl",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -229,11 +244,6 @@
       "linked_venues": 3
     },
     {
-      "domain": "visitwadden.nl",
-      "source_pages": 4,
-      "linked_venues": 3
-    },
-    {
       "domain": "allebiz.nl",
       "source_pages": 3,
       "linked_venues": 3
@@ -249,12 +259,7 @@
       "linked_venues": 1
     },
     {
-      "domain": "cylex.nl",
-      "source_pages": 3,
-      "linked_venues": 3
-    },
-    {
-      "domain": "hfsfreelancers.nl",
+      "domain": "findglocal.com",
       "source_pages": 3,
       "linked_venues": 3
     },
@@ -385,11 +390,6 @@
     },
     {
       "domain": "elize.cafe",
-      "source_pages": 2,
-      "linked_venues": 2
-    },
-    {
-      "domain": "findglocal.com",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -829,12 +829,22 @@
       "linked_venues": 1
     },
     {
+      "domain": "clubzleeuwarden.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "danel-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
       "domain": "dbstudio.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "de-brass.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -959,6 +969,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "evepla.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "feestcafedekneus.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -970,6 +985,11 @@
     },
     {
       "domain": "fietsroutenetwerk.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "firmania.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1250,6 +1270,11 @@
     },
     {
       "domain": "restaurantwest.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "rockcafe-leeuwarden.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -5577,6 +5602,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.clubzleeuwarden.nl/",
+      "domain": "clubzleeuwarden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-z-leeuwarden-aecf644",
+          "name": "Club Z",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -5721,6 +5770,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+          "name": "Café-Bar 't Hoekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-26",
@@ -5849,6 +5922,40 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.de-brass.nl/",
+      "domain": "de-brass.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+          "name": "Grand Café De Brass",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://de.restaurantguru.com/Rock-Cafe-Sneek-Sneek",
@@ -7449,6 +7556,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
+      "domain": "evepla.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-z-leeuwarden-aecf644",
+          "name": "Club Z",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://feestcafedekneus.nl/",
       "domain": "feestcafedekneus.nl",
       "first_registered_on": "2026-10-26",
@@ -7530,6 +7661,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "club-z-leeuwarden-aecf644",
+          "name": "Club Z",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.findglocal.com/NL/Sneek/125790437101168/Noah-Eetcaf%C3%A9",
       "domain": "findglocal.com",
       "first_registered_on": "2026-10-29",
@@ -7576,6 +7731,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://firmania.nl/leeuwarden/elzibar-leeuwarden-487347",
+      "domain": "firmania.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "elzibar-leeuwarden-a07b14c",
+          "name": "Elzibar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.florinutrecht.nl/",
@@ -8527,6 +8706,30 @@
         {
           "id": "kweekvijver-utrecht-c5d2c85",
           "name": "KweekVijver Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "elzibar-leeuwarden-a07b14c",
+          "name": "Elzibar",
           "roles": [
             "achtergrond"
           ],
@@ -11741,6 +11944,37 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.rockcafe-leeuwarden.nl/",
+      "domain": "rockcafe-leeuwarden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "elzibar-leeuwarden-a07b14c",
+          "name": "Elzibar",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://rooienel.nl/",
@@ -17809,6 +18043,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3988243168/grand-cafe-de-brass",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
+          "name": "Grand Café De Brass",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe",
       "domain": "visitwadden.nl",
       "first_registered_on": "2026-10-30",
@@ -18929,10 +19187,6 @@
         "name": "Eleven Bar"
       },
       {
-        "id": "elzibar-leeuwarden-a07b14c",
-        "name": "Elzibar"
-      },
-      {
         "id": "en-public-fc651ee",
         "name": "En Public"
       },
@@ -18959,10 +19213,6 @@
       {
         "id": "grand-cafe-bullock-bolsward-e66a509",
         "name": "Grand Café Bullock"
-      },
-      {
-        "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
-        "name": "Grand Café De Brass"
       },
       {
         "id": "grand-cafe-de-doelen-franeker-8aee2be",
@@ -19863,10 +20113,6 @@
         "name": "Grand Café Bullock"
       },
       {
-        "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
-        "name": "Grand Café De Brass"
-      },
-      {
         "id": "grand-cafe-de-doelen-franeker-8aee2be",
         "name": "Grand Café De Doelen"
       },
@@ -20594,7 +20840,7 @@
       {
         "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
         "name": "Café-Bar 't Hoekje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden."
       },
       {
         "id": "chupitos-shooter-bar-11cade7",
@@ -20614,7 +20860,7 @@
       {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Sociale profielen https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden en https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden hebben berichten maart 2026 en adres Zaailand 106; positionering borrel-/evenementencafé. Geclaimde eigen site https://www.clubzleeuwarden.nl/ niet rechtstreeks leesbaar (403) op 30-10-2026; niet als bevestigde eigen website ingevuld. Geen vast weekrooster/laatste toegang vastgesteld."
       },
       {
         "id": "club33-dokkum-e7228a2",
@@ -20809,7 +21055,7 @@
       {
         "id": "elzibar-leeuwarden-a07b14c",
         "name": "Elzibar",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Officiële site https://www.rockcafe-leeuwarden.nl/ noemt alleen aanvang; Firmania https://firmania.nl/leeuwarden/elzibar-leeuwarden-487347 noemt dagelijks tot 05:00, HFS https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/elzibar-classic-rock-cafe geeft afwijkende tijden. Geen eindtijd of laatste toegang overgenomen. Eigen adres 6 versus bestaande 6a, niet zonder bewijs gecorrigeerd."
       },
       {
         "id": "espressobar-smuk-sneek-kleinzand-1",
@@ -20849,7 +21095,7 @@
       {
         "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
         "name": "Grand Café De Brass",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site https://www.de-brass.nl/ noemt ma gesloten, di–za 10:00–01:00 en zo 11:00–01:00. Visit Wadden https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3988243168/grand-cafe-de-brass bevestigt. Andere gidsen vermelden afwijkende dagen/eindtijden; primaire site leidend. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-de-doelen-franeker-8aee2be",
