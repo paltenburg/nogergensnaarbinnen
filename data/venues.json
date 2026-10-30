@@ -21298,6 +21298,94 @@
         "https://www.fietsnetwerk.nl/knooppunt/eetcafe-bar-hulst-appelscha/"
       ],
       "original_status": "Eigen site bevestigt openbare borrel, cocktailkaart, adres en weekrooster; latere afzonderlijke baropening en laatste toegang onbekend."
+    },
+    {
+      "id": "cafe-stynsgea-augustinusga-20261030",
+      "name": "Café Stynsgea",
+      "type": "Dorpscafé / feestcafé",
+      "address": "Geawei 35a",
+      "city": "Augustinusga",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant-afkomstige berichten uit maart–juni 2026 tonen openbare feestavond met kaartverkoop aan de deur en regulier vrijdag-/zaterdagrooster; op sommige dagen besloten feesten.",
+      "alcohol": "Café-/kroegregistratie en exploitantbericht met bierpictogram bij feestavond; een actuele bedrijfseigen drankenkaart is niet gevonden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "?"
+      },
+      "closing_quality": "Exploitant-afkomstig bericht op FindGlocal (2026) geeft vr/za 16:00–02:00; onafhankelijke Cylex en het-menu conflicteren over andere dagen. De oorspronkelijke Facebookpost is niet rechtstreeks gecontroleerd.",
+      "closing_source": "https://www.findglocal.com/NL/Augustinusga/302603223549508/Cafe-Stynsgea",
+      "closing_notes": "30-10-2026: FindGlocal toont exploitantberichten 2026 met vr/za 16–02, besloten feestdagen en evenement 28-03 met entree €10. Externe Cylex noemt ook do/zo/ma, maar het-menu geeft alleen vr/za tot 20:00; overige dagen bewust onbekend. Evenementen hebben afwijkende toegang en kunnen besloten zijn; laatste toegang onbekend. Geen officiële website rechtstreeks bevestigd.",
+      "features": "D0 Achtkarspelen / Augustinusga; live muziek en feestavonden",
+      "website": "",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.findglocal.com/NL/Augustinusga/302603223549508/Cafe-Stynsgea",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-cafetaria-zaal-stynsgea-11786740.html",
+        "https://www.het-menu.nl/augustinusga/restaurant/cafe_cafetaria_stynsgea"
+      ],
+      "original_status": "Actuele exploitant-afkomstige berichten in 2026; vr/za-rooster aannemelijk, overige weekuren en directe primaire bron ontbreken."
+    },
+    {
+      "id": "het-wapen-van-ooststellingwerf-oosterwolde-20261030",
+      "name": "Het Wapen van Ooststellingwerf",
+      "type": "Eetcafé / muziekcafé",
+      "address": "Nanningaweg 5",
+      "city": "Oosterwolde",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant bevestigt openbare inloop voor borrel, muziekcafé en evenementen, zonder verplichte maaltijd; reserveren is mogelijk maar niet vereist.",
+      "alcohol": "Eigen site biedt borrel en muziekcafé, maar een actuele expliciete bier-/wijnkaart is niet leesbaar bevestigd. Historische Heineken-onderscheiding betreft 2010 en bewijst geen huidig assortiment.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "12:00",
+        "do": "?",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële site vermeldt beginuren op wo/vr/za/zo, geen einduren en geen expliciete sluitingsdagen. Externe gids noemt afwijkende uren, niet overgenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.eetcafehetwapen.nl/ en /contact/ bevestigen naam, Nanningaweg 5, vrije borrel en beginuren wo/vr/za/zo 12:00. Andere dagen niet als gesloten aangenomen. https://www.het-menu.nl/oosterwolde/restaurant/het_wapen_van_ooststellingwerf geeft andere gidsuren (o.a. do en vr/za 02:00); niet als officiële cafésluiting gebruikt. Directe actuele bevestiging alcoholassortiment en laatste toegang nog open; daarom selectie 'Nog te controleren'.",
+      "features": "D0 Ooststellingwerf / Oosterwolde; borrel en muziekcafé; alcoholverificatie open",
+      "website": "https://www.eetcafehetwapen.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.eetcafehetwapen.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.eetcafehetwapen.nl/menukaart/",
+        "https://www.eetcafehetwapen.nl/contact/",
+        "https://eetcafehetwapenvanooststellingwerf.nl/foodticket/",
+        "https://www.het-menu.nl/oosterwolde/restaurant/het_wapen_van_ooststellingwerf"
+      ],
+      "original_status": "Eigen website bevestigt actuele publieke exploitatie en borrel; exacte cafésluiting en huidig alcoholassortiment niet afzonderlijk geverifieerd."
     }
   ],
   "admission_policies": [
