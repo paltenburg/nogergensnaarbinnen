@@ -20720,6 +20720,90 @@
         "za": "17:30",
         "zo": "—"
       }
+    },
+    {
+      "id": "grand-cafe-stationsplein-2-oosterwolde-20261030",
+      "name": "Grand Café Stationsplein 2",
+      "type": "Grand café / muziekcafé",
+      "address": "Stationsplein 2",
+      "city": "Oosterwolde",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële website bevestigt vrije inloop voor een drankje en muziekavonden, zonder verplichte maaltijd of zaalhuur.",
+      "alcohol": "Eigen site noemt Hertog Jan, Jupiler, speciaalbier, borrel en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site bevestigt café en muziek maar geen actueel vast weekrooster. Externe gidsen hebben tegenstrijdige openings- en sluitingstijden.",
+      "closing_source": "https://stationsplein2.nl/",
+      "closing_notes": "30-10-2026: eigen https://stationsplein2.nl/ bevestigt publiek café, bier/wijn, maandelijkse live muziek, Stationsplein 2. https://www.goudengids.nl/nl/bedrijf/Oosterwolde/L111417965/Stationsplein%2B2%2BGrand%2BCaf%C3%A9/ noemt wo–za 11–23:45, terwijl https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde wo gesloten en vr/za tot 04 noemt. Geen gidsuren overgenomen. Laatste toegang onbekend.",
+      "features": "D0 Ooststellingwerf / Oosterwolde; muziek en borrel",
+      "website": "https://stationsplein2.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.uitagenda.nl/locaties/grand-cafe-stationsplein-2",
+        "https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde"
+      ],
+      "original_status": "Exploitant bevestigt vrije borrel en bier/wijn; vaste actuele sluiting niet geverifieerd."
+    },
+    {
+      "id": "cafe-de-brege-nij-beets-20261030",
+      "name": "Café de Brêge",
+      "type": "Dorpscafé",
+      "address": "Domela Nieuwenhuisweg 48",
+      "city": "Nij Beets",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Café-/barregistratie en actuele publieke gidsvermeldingen; individuele vrije toegang niet op eigen site bevestigd.",
+      "alcohol": "KvK SBI 56300 exploitatie van drinkgelegenheden, gids classificeert als café/pub; specifiek alcoholmenu niet primair bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen eigen website gevonden. Externe gidsen noemen vergelijkbaar rooster maar geen actueel primair weekrooster; tijden onbekend.",
+      "closing_source": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-brege-nij-beets-72171022-000004460995",
+      "closing_notes": "30-10-2026: actuele KvK SBI 56300 volgens bron KvK 24-03-2026, adres bevestigd. https://www.allebiz.nl/cafe-de-brege-0512-461-644 en https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets noemen wo–zo uren maar niet van exploitant; géén sluitingen of laatste toegang overgenomen. Primaire site, inloop en bier/wijn nog bevestigen.",
+      "features": "D0 Opsterland / Nij Beets; kandidaat met KvK drinkgelegenheid",
+      "website": "",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.allebiz.nl/cafe-de-brege-0512-461-644",
+        "https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets",
+        "https://de.restaurantguru.com/cheese-Nij-Beets-m11"
+      ],
+      "original_status": "KvK en gids ondersteunen exploitatie; officiële site, actuele tijden en publieke alcoholinloop onbevestigd."
     }
   ],
   "admission_policies": [
