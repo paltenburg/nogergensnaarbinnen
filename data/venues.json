@@ -13168,7 +13168,13 @@
         "za": "?",
         "zo": "?"
       },
-      "geocode_notes": "Voorstraat 64 (8861BN) bevestigd door VVV en KvK 2026. Oude Lanen 39-PDOK-marker was verkeerd; verwijderd voor exacte adresmatch. Delen van Voorstraat 64 met historische Rednick-record."
+      "geocode_notes": "30-10-2026: Voorstraat 64, 8861BN bevestigd door VVV en KvK-afgeleide. Exacte PDOK BAG-marker hergebruikt van historisch Rednick-record op identiek adres; niet als afzonderlijke actuele zaak bevestigd. Bronnen: https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven ; https://www.compadex.com/nl/businesses/nl/cafe-gewoan-sven-57858616-27259390",
+      "geo": {
+        "lat": 53.1744725,
+        "lon": 5.4199597,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 64, 8861BN Harlingen"
+      }
     },
     {
       "id": "cafe-den-smeerpaal-harlingen-2b618ef",
