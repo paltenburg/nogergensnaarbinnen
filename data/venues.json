@@ -22908,6 +22908,138 @@
         "https://www.pieterjelles.nl/contact/"
       ],
       "original_status": "Eigen website actuele alcoholvermelding en volledig weekrooster 30-10-2026."
+    },
+    {
+      "id": "cafe-het-wapen-van-baarderadeel-jorwert-20261030",
+      "name": "Café Het Wapen van Baarderadeel",
+      "type": "Dorpscafé / eetcafé",
+      "address": "Sluytermanwei 29",
+      "city": "Jorwert",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site en dorpssite bevestigen openbare dorpshuiskamer/café voor voorbijgangers, borrel en diner; arrangementen daarnaast op aanvraag.",
+      "alcohol": "Eigen arrangementpagina noemt expliciet bier en wijn bij het café.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen homepage en contactpagina spreken elkaar tegen over vrijdag/zaterdag/zondag-start (12:00/13:00/17:00), geen sluiting officieel.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://wapenvanbaarderadeel.nl/ bevestigt openbare ontmoetingsplek, Sluytermanwei 29; https://wapenvanbaarderadeel.nl/arrangement/solex-tour noemt bier en wijn. https://wapenvanbaarderadeel.nl/contact noemt do 17, vr 17, za/zo 13, maar footer dezelfde pagina noemt vr/za/zo 12; vr–zo onbekend. Lokale https://dorp.jorwert.nl/wapen-van-baarderadeel/ noemt adresbereik 27–29, officiële site en VVV noemen 29; fysieke ingang nog BAG-matchen. Geen exacte einduren/laatste toegang.",
+      "features": "D0 Leeuwarden / Jorwert; huisnummer 29 vs 27–29, roosterconflict",
+      "website": "https://wapenvanbaarderadeel.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://wapenvanbaarderadeel.nl/contact",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://wapenvanbaarderadeel.nl/arrangement/solex-tour",
+        "https://dorp.jorwert.nl/wapen-van-baarderadeel/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3200748601/herbergh-het-wapen-van-baarderadeel"
+      ],
+      "original_status": "Eigen exploitantsite actief, naam/adres/caféfunctie bevestigd; roosters conflicteren."
+    },
+    {
+      "id": "eetcafe-de-winze-wyns-20261030",
+      "name": "Eetcafé De Winze",
+      "type": "Seizoensgebonden eetcafé / terras",
+      "address": "Wyns 30",
+      "city": "Wyns",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt openbare terras- en restaurantfunctie; lunch zonder reservering, diner bij voorkeur reserveren.",
+      "alcohol": "Eigen site vermeldt Grolsch pils onder 'ICE & DrinksToGo'; oudere menukaart noemt bierbereidingen en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site heeft twee seizoensroosters; huidige winterperiode vr/za 17–23, zo 14–23, zomer wo–zo 11–23. Geen seizoensmodel in de app; geen permanent weekrooster ingevuld.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.dewinze.nl/ noemt seizoensrooster: winter vanaf 30-10 t/m 28-03 vr/za 17:00–23:00, zo 14:00–23:00; elders dezelfde site winter 05-10 t/m 01-04, met dezelfde dagen en tijden. Zomer 01-04 t/m 04-10 wo–zo 11–23. Gesloten tijdens o.a. kerstvakantie, eerste twee weken januari en voorjaarsvakantie; 16/17/18 en 23/24/25 oktober apart. Omdat data/venues.json nog geen datumgebonden opening ondersteunt, alle gestructureerde tijden onbekend gehouden in plaats van winteruren het hele jaar te tonen. https://www.dewinze.nl/contact/ bevestigt Wyns 30, 9091 BE. Eigen site noemt bier en publieke terrasfunctie; laatste toegang onbekend.",
+      "features": "D0 Leeuwarden / Wyns; winter vr/za 17–23, zo 14–23; zomer wo–zo 11–23; vakantie-uitzonderingen",
+      "website": "https://www.dewinze.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.dewinze.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/1948730577/eetcafe-de-winze"
+      ],
+      "original_status": "Exploitantsite bevestigt seizoenopenstelling; vaste 7-daagse tijdvelden bewust niet ingevuld."
+    },
+    {
+      "id": "grutte-pier-proeflokaal-bartlehiem-wyns-20261030",
+      "name": "Grutte Pier Proeflokaal Bartlehiem",
+      "type": "Brouwerijproeflokaal / speciaalbierbar",
+      "address": "Bartlehiem 23",
+      "city": "Wyns",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt spontane bezoekers uit voor bier in proeflokaal; reserveren is optioneel. Winkel op werkdagen is geen publieke baropening.",
+      "alcohol": "Eigen brouwerij serveert speciaalbier en proefplankjes van vier bieren in het proeflokaal.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "closing_quality": "Officiële site conflicteert voor vrijdag: homepage/contact zeggen vr–zo 14–20, proeflokaalpagina en footer noemen za/zo 14–20. Alleen za/zo exact.",
+      "closing_source": "https://gruttepier.nl/pages/proeflokaal",
+      "closing_notes": "30-10-2026: https://gruttepier.nl/pages/proeflokaal bevestigt vrij bezoek zonder reservering, speciaalbier en adres Bartlehiem 23, 9091 BH Wyns; opening za/zo 14–20, vrijdag op eigen https://gruttepier.nl/pages/contact en https://gruttepier.nl/ wél genoemd (vr–zo 14–20), daarom vrijdag onbekend. Ma–do winkel 09–17 is GEEN proeflokaalopening; maandag–donderdag publieke proeflokaalbezoeken niet standaard. https://www.visitleeuwarden.com/agenda/1747570851/grutte-pier-high-beer noemt Bartlehiem 27, maar eigen site en Visit Wadden https://www.visitwadden.nl/en/visit/activities/3303703397/grutte-pier-brewery noemen 23; geen marker tot BAG-match. Event 31 oktober Bockbier Diner 18–22 is apart ticket-evenement, geen weekrooster. Laatste toegang onbekend.",
+      "features": "D0 Leeuwarden / Wyns-Bartlehiem; vrijdagrooster conflict; winkel apart; 31-10 ticketdiner",
+      "website": "https://gruttepier.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://gruttepier.nl/pages/proeflokaal",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://gruttepier.nl/pages/contact",
+        "https://www.visitwadden.nl/en/visit/activities/3303703397/grutte-pier-brewery",
+        "https://www.biernet.nl/bier/agenda/31-10-2026/bockbier-diner-grutte-pier-2026"
+      ],
+      "original_status": "Eigen site en actuele evenementagenda 2026; vrijdag en huisnummerconflict genoteerd."
     }
   ],
   "admission_policies": [
