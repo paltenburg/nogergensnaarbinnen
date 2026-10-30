@@ -14260,11 +14260,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "VVBL-ledenlijst bevestigt Café Le Duc/Kortestreek 24 met Facebook als bedrijfskanaal. Cylex (bijgewerkt 28-09-2026) geeft wo/do 20–04, vr 15:30–04, za/zo 15–04; AlleBiz geeft andere beginuren en HFS noemt afwijkend dagelijks rooster. Geen actueel bedrijfseigen weekrooster gevonden: alle begin-/einduren en laatste toegang onbekend gehouden. Ook Club 24 op Kortestreek 24–25 als mogelijke afzonderlijke exploitatie nader onderzoeken.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://vvbl.nl/leden/cafe-le-duc/",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-le-duc-11876905.html",
+        "https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14272,7 +14275,8 @@
         "lon": 5.7084788,
         "method": "PDOK BAG-adres",
         "matched_address": "Kortestreek 24, 8531JG Lemmer"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "lange-piet-lemmer-c0e9ba4",
@@ -14444,11 +14448,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Lemsternijs 23-01-2026 bevestigt actieve jamsessie bij Café Populair (zondag 25-01 vanaf 15:00), maar geen vast weekrooster. AlleBiz toont 24 uur per dag, niet aannemelijk als bevestigd bedrijfsrooster; geen bedrijfseigen rooster gevonden. Sluiting en laatste toegang blijven onbekend; afzonderlijke actuele exploitatie opnieuw controleren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://lemsternijs.nl/volume-sluit-zondag-jamsessie-af-bij-cafe-populair/",
+        "https://www.allebiz.nl/bar-caf%C3%A9-populair-0514-856-712",
+        "https://nl.restaurantguru.com/pub-and-bar-Lemmer-t2"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14456,7 +14463,8 @@
         "lon": 5.711757,
         "method": "PDOK BAG-adres",
         "matched_address": "Schans 3, 8531DV Lemmer"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-laatste-stuiver-lemmer-dac128f",
@@ -14529,11 +14537,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "VVBL vermeldt café De Held van 63, Emmakade 2, en verwijst naar Facebook; overige vermeldingen geven naam/adres, geen geverifieerd actueel weekrooster. Eetgerust bevat geen gedateerd NVWA-inspectiebewijs. Bedrijfseigen openings-/sluitingsuren en laatste toegang onbekend; actuele publieke exploitatie niet rechtstreeks vastgesteld.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://vvbl.nl/leden/cafe-de-held-van-63/",
+        "https://www.allebiz.nl/caf%C3%A9-de-held-van-06-53690036",
+        "https://eetgerust.nl/restaurant/de-held-van-63-b-v-lemmer"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14541,7 +14552,8 @@
         "lon": 5.7115258,
         "method": "PDOK BAG-adres",
         "matched_address": "Emmakade 2, 8531DT Lemmer"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-de-eerste-aanleg-lemmer-8a822b7",
