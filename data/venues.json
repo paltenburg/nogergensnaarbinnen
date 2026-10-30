@@ -16785,14 +16785,14 @@
     },
     {
       "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
-      "name": "Eetcafé Tante Sjuul",
+      "name": "Eetcafé Tante Sjuul by Anja",
       "type": "Eetcafé",
       "address": "It Eilân 68",
       "city": "Heeg",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "VVV en Tripadvisor bevestigen publiek eetcafé in jachthaven de Eendracht; geen eigen site gevonden.",
+      "alcohol": "Tripadvisor vermeldt wijn, bier en alcoholservice; geen actuele exploitantdrankkaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16803,20 +16803,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Tripadvisor en AlleBiz verschillen over uren, geen eigen actueel weekrooster",
+      "closing_source": "https://www.friesland.nl/nl/locaties/2361975678/eetcafe-tante-sjuul-by-anja",
+      "closing_notes": "VVV 30-10-2026 bevestigt 'Tante Sjuul by Anja' op It Eilân 68, alcohol volgens Tripadvisor. Tripadvisor ma/di dicht, wo 16–21, do–zo 12–21; AlleBiz wijkt af (wo 11 en zo 10). Geen eigen officiële website of primaire uren, dus onbekend. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://www.friesland.nl/nl/locaties/2361975678/eetcafe-tante-sjuul-by-anja",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1087505-d14427047-Reviews-Eetcafe_Tante_Sjuul-Heeg_Friesland_Province.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "VVV actuele locatie en Tripadvisor 2026 bevestigen caféfunctie, eigen uren onbekend.",
       "geo": {
         "lat": 52.968475,
         "lon": 5.6093446,
         "method": "PDOK BAG-adres",
         "matched_address": "It Eilân 68, 8621CT Heeg"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17160,9 +17171,9 @@
       "city": "Witmarsum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "OSM en gidsen noemen café op Pingjumerstraat 21, maar huidige exploitatie niet direct bevestigd.",
+      "alcohol": "Geen actuele exploitantdrankkaart of primaire bron.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17172,20 +17183,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen primair rooster",
+      "closing_source": "https://straten.openalfa.nl/straten/ulbe-hiemstrastrjitte-witmarsum-sudwest-fryslan",
+      "closing_notes": "OSM-afgeleide kaart noemt Cafe de Otterbar op Pingjumerstraat 21, Uitgaanskaart vermeldt dezelfde naam. Geen actuele officiële website of opening bevestigd 30-10-2026. Uren/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://straten.openalfa.nl/straten/ulbe-hiemstrastrjitte-witmarsum-sudwest-fryslan",
+        "https://uitgaanskaart.nl/exmorra"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "OSM/gidsvermelding, actuele exploitatie onbevestigd.",
       "geo": {
         "lat": 53.1029437,
         "lon": 5.4665138,
         "method": "PDOK BAG-adres",
         "matched_address": "Pingjumerstraat 21, 8748BM Witmarsum"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17196,8 +17218,8 @@
       "city": "Blauwhuis",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Gidsen en recente recensies bevestigen café op Vitusdyk 15; eigen domein niet bereikbaar.",
+      "alcohol": "RestaurantGuru noemt bier en reacties van exploitant, eigen actuele menukaart ontbreekt.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17208,20 +17230,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Gidsuren conflicteren, eigen freonskip.nl onbereikbaar",
+      "closing_source": "https://restaurantguru.com/De-Freonskip-Blauwhuis",
+      "closing_notes": "30-10-2026: https://www.allebiz.nl/de-freonskip-0515-579-370 noemt di–za 11:30–23:30, zo 14–23:30, ma dicht. RestaurantGuru noemt di gesloten, wo/do 12–22, vr/za 12–23:30, zo 14–23:30. https://freonskip.nl/ niet bereikbaar. Geen onzekere tijden overgenomen; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://www.allebiz.nl/de-freonskip-0515-579-370",
+        "https://restaurantguru.com/De-Freonskip-Blauwhuis"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Gidsen en recente reviews ondersteunen huidige caféfunctie, eigen site onbereikbaar.",
       "geo": {
         "lat": 53.0233362,
         "lon": 5.5323062,
         "method": "PDOK BAG-adres",
         "matched_address": "Vitusdyk 15, 8615LL Blauwhuis"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17525,9 +17558,9 @@
       "city": "Rottevalle",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Gidsen beschrijven vooral snackbar/cafetaria; vrije inloop voor alcoholische borrel niet bevestigd.",
+      "alcohol": "Onbekend; snackbarmenukaart is geen bewijs van alcohol.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17537,20 +17570,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen officiële site, alleen snackbaruren",
+      "closing_source": "https://www.uitagenda.nl/locaties/cafe-de-lits",
+      "closing_notes": "Uitagenda noemt Café De Lits Brouwersgrêft 2 vooral snackbar; https://snackbarindebuurt.nl/snackbars-in-rottevalle/cafe-de-lits-in-rottevalle/ geeft do–zo 17–19:30, waarschijnlijk afhaaluren. Geen primaire café-/alcoholbron. Niet standaard tonen; opening/laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://www.uitagenda.nl/locaties/cafe-de-lits",
+        "https://snackbarindebuurt.nl/snackbars-in-rottevalle/cafe-de-lits-in-rottevalle/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Cafetariafunctie plausibel, publieke alcoholhoreca niet aangetoond.",
       "geo": {
         "lat": 53.145396,
         "lon": 6.1030323,
         "method": "PDOK BAG-adres",
         "matched_address": "Brouwersgrêft 2, 9221SZ Rottevalle"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17607,8 +17651,8 @@
       "city": "Ureterp",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Horecamakelaar beschrijft bestaand dorpscafé met klanten en bar; lokale reportage bevestigt uitbater tot eind 2026.",
+      "alcohol": "Makelaarsadvertentie bevestigt biertanks en bar; specifieke actuele drankkaart niet gevonden.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17619,20 +17663,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen eigen weekrooster; bedrijf te koop, sluiting niet bevestigd",
+      "closing_source": "https://edensmakelaars.nl/aanbod/cafetaria-eetcafe-it-alde-ste-te-ureterp/",
+      "closing_notes": "Horecamakelaar biedt draaiend café It Alde Sté aan ter overname op Weibuorren 100; reportage https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a meldt dat uitbater eind 2026 stopt. Overnameaanbod/voornemen bewijst GEEN sluiting op 30-10-2026; actuele uren en laatste toegang onbekend. Later opvolger of sluiting verifiëren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://edensmakelaars.nl/aanbod/cafetaria-eetcafe-it-alde-ste-te-ureterp/",
+        "https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Bestaande exploitatie via makelaar en lokale reportage 2026, toekomstige overdracht nog open.",
       "geo": {
         "lat": 53.0952044,
         "lon": 6.1730311,
         "method": "PDOK BAG-adres",
         "matched_address": "Weibuorren 100, 9247BD Ureterp"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
