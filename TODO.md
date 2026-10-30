@@ -29,13 +29,20 @@
 
 ## Huidige momentopname (30 oktober 2026; na D0 Oudebildtzijl/Berltsum)
 
-- **Master:** 497 unieke records (224 `utrecht`, 273 `friesland`), 345 websitevelden, 413 exacte markers (210 Utrecht, 203 Friesland), **84 zonder** (14 Utrecht, 70 Friesland). Laatste data-commit `741555554ff5afcd2171487d09ab36eae5e08bf3`.
+- **Master:** 497 unieke records (224 `utrecht`, 273 `friesland`), 345 websitevelden, 413 exacte markers (210 Utrecht, 203 Friesland), **84 zonder** (14 Utrecht, 70 Friesland). Laatste data-commit `f2740c0d3b7a467119be3a390f08f1c96802aa6f`.
 - **Friesland:** 273/273 records met eerste broncontroledatum, 42 `Nog te controleren`, 104/273 met minstens één exacte HH:MM-sluiting. Bronpoging ≠ exploitatiebevestiging of volledige gemeente-/dorpsdekking. D0 **niet** gehaald.
 - **Afgeleiden:** `data/source-register.json` bij laatste controle **437 venues / 273 websitevelden / 842 URL's**, `data/geocode-report.json` **437/413**. Maintenance/publicatie van de nieuwste 495 records nog niet bevestigd; live Pages-JSON niet bereikbaar via webtool.
 - **Audit:** actieve regio's dynamisch uit master: `utrecht` en `friesland`; eerste W45-ronde **nog niet opeisbaar** tot 2026-11-02 10:00 Europe/Amsterdam. Geen audit voltooid verklaard.
 - **UI:** B2-codefix uit vorige uitvoering, echte mobiele pan-/zoomregiowissel en live Pages niet getest. D1/D2 landelijke uitbreiding nog niet vrijgegeven.
 
 ## Eerstvolgende uitvoerbare stap
+
+**2026-10-30 — kritieke identiteits-/duplicaatcorrectie Heerenveen, 1 bestaand record gewijzigd, commit [f2740c0](https://github.com/paltenburg/nogergensnaarbinnen/commit/f2740c0d3b7a467119be3a390f08f1c96802aa6f):**
+- **Café De Oase → Café Perridon**, **Breedpad 9, Heerenveen**. Bestaand ID `cafe-de-oase-heerenveen-051008c` en exacte PDOK-marker **behouden** voor oude deeplinks. Exploitant https://www.cafeperridon.nl/ bevestigt huidige naam, adres, werkelijke opening sinds juli 2025 en **dagelijks 12:00–02:00**; https://www.cafeperridon.nl/geschiedenis-caf%C3%A9-perridon geeft achtergrond. Eigenaar meldde in 2025 de overgang vanaf Café De Oase op hetzelfde adres (https://nl.linkedin.com/posts/willem-perridon-8b31185b_na-mijn-hele-leven-voor-een-baas-te-hebben-activity-7330690880405655554-ZMEm), lokale krant https://www.grootheerenveen.nl/nieuws/video/113310/cafe-eigenaar-willem-perridon-geschrokken-na-brand-in-horecag bevestigde toen het geplande openen; **huidige site** bevestigt dat opening later werkelijk plaatsvond. Oude https://www.cafedeoase.nl/ geeft timeout en historische uren (10–00:30/02/03) mogen niet blijven gelden. Laatste toegang onbekend. Geen tweede Perridon-record toegevoegd; naam, uren, website, bronvelden, historie en controledatum van bestaande record aangepast.
+- **Validatie:** GitHub-write teruggekoppeld met commit-SHA; dezelfde adreslocatie komt eenmaal in master voor, stabiel ID en bestaande BAG-marker blijven behouden. De huidige 497-recordmaster telt na deze correctie nog steeds 497 records. Geen live publicatie of echte mobiele kaarttest uitgevoerd.
+- **Vervolg:** laat afgeleiden bijwerken, controleer vervolgens of de nieuwe naam en tijden op live site verschijnen. Controleer daarnaast of het nieuwe café op Breedpad 9 in lokale gidsen als oud én nieuw voorkomt, maar maak geen tweede venue aan. D0 en W45-planning ongewijzigd.
+
+
 
 **2026-10-30 — D0 aanvullende Waadhoeke-deelbatch (2 nieuwe records, commit [7415555](https://github.com/paltenburg/nogergensnaarbinnen/commit/741555554ff5afcd2171487d09ab36eae5e08bf3)):**
 - **Oudebildtzijl, Eetcafé Het Graauwe Paard, Monnikebildtdijk 1:** actuele eigen https://hetgraauwepaard.nl/ rechtstreeks gecontroleerd (wo–zo vanaf 16, ma/di dicht), https://hetgraauwepaard.nl/menu/ en https://hetgraauwepaard.nl/bierkaart/ tonen eigen bier-/wijnkaart; https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard bevestigt adres/opening. Gids https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065 noemt 21/22 uur eindtijd, maar **niet officieel bevestigd**; sluiting en laatste toegang blijven `?`. Recente 2026-evenementpagina https://hetgraauwepaard.nl/rolling-stones-meet-creedence-clearwater-revival/ is geen bewijs voor weekrooster.
