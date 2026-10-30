@@ -6,7 +6,7 @@ on:
       - 'index.html'
       - 'data/**'
       - 'scripts/geocode.py'
-      - 'tests/test_geocode.py'
+      - 'tests/**'
       - 'scripts/build_source_registry.py'
       - '.github/workflows/pages.yml'
   # Pushes immediately rebuild the Pages artifact without writing back to main.
