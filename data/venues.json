@@ -12628,14 +12628,14 @@
     },
     {
       "id": "njoy-poolcentrum-drachten-f14f10e",
-      "name": "Njoy Poolcentrum",
+      "name": "Njoy Pool Café & Bar",
       "type": "Sportcafé",
       "address": "Noordkade 107",
       "city": "Drachten",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt dat bezoekers ook zonder te poolen welkom zijn voor een drankje aan de bar.",
+      "alcohol": "Eigen site vermeldt expliciet biertje aan de bar; geen volledige drankenkaart gepubliceerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -12646,13 +12646,17 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt geen café-eindtijden; externe gidsen spreken elkaar tegen.",
+      "closing_source": "https://www.njoypoolcentrum.nl/",
+      "closing_notes": "Eigen site bevestigt dagelijks vanaf 14:00, maar geen sluiting. AlleBiz noemt vr/za 02:00 en overige dagen 00:00; VindOpen noemt za 03:30 en andere beginuren. Een bericht over één augustusweek meldt maandag gesloten, geen structureel rooster. Geen gidsuren als bewezen eindtijd gebruikt; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.njoypoolcentrum.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/drachten"
+        "https://uitgaanskaart.nl/cafe/drachten",
+        "https://www.njoypoolcentrum.nl/contact",
+        "https://www.allebiz.nl/n-joy_5I-0512-779-158",
+        "https://vind-open.nl/drachten/n-joy-46662",
+        "https://www.findglocal.com/NL/Drachten/842296635843553/Njoy-Poolcentrum"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -12660,7 +12664,22 @@
         "lon": 6.1076784,
         "method": "PDOK BAG-adres",
         "matched_address": "Noordkade 107, 9203CH Drachten"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen website naam/adres en publiek borrelen op 2026-10-30 gecontroleerd.",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.njoypoolcentrum.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site: dagelijks vanaf 14:00; tijdelijke uitzonderingen mogelijk (socialemediapost augustus noemt maandag één week gesloten).",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
