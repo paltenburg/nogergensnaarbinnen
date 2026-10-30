@@ -19518,7 +19518,8 @@
       "other_sources": [
         "https://www.vvvschiermonnikoog.com/food-and-drinks/locations-near-the-sea/paviljoen-paal-3",
         "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/",
-        "https://www.tripadvisor.nl/Restaurant_Review-g652206-d12629574-Reviews-Paviljoen_Paal_3-Schiermonnikoog_Friesland_Province.html"
+        "https://www.tripadvisor.nl/Restaurant_Review-g652206-d12629574-Reviews-Paviljoen_Paal_3-Schiermonnikoog_Friesland_Province.html",
+        "https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004"
       ],
       "opening_quality": "Geen actueel, jaarrond geldig bedrijfseigen weekrooster voor de publieke borrelfunctie bevestigd.",
       "closing_notes": "VVV: paviljoen alleen mei–eind september, in oktober buiten seizoen. Eigen site vermeldt di–zo 11–18 met weersafwijkingen, uitsluitend relevant in seizoen. Geen jaarrond opening of gegarandeerde sluiting; uit actuele tijdresultaten gehouden, hercontrole mei 2027.",
@@ -19558,7 +19559,8 @@
         "lon": 6.145855,
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg 145, 9166NH Schiermonnikoog"
-      }
+      },
+      "geocode_notes": "PDOK/BAG exacte adresmatch Badweg 145, 9166NH Schiermonnikoog (standplaats); VVV-pagina vermeldt afwijkend 9166RS, en Tripadvisor 9166NK. BAG-afgeleid https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004 bevestigt 9166NH. Marker is BAG-adres/standplaats, fysieke positie van tijdelijk strandpaviljoen niet met terreinmeting bevestigd."
     }
   ],
   "admission_policies": [
