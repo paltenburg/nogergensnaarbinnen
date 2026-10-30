@@ -22372,6 +22372,51 @@
         "https://bijonsindebrouwerij.nl/doc/20230629/5566_cocktails.pdf"
       ],
       "original_status": "Actuele toeristische gids bevestigt horeca en weekrooster; bedrijfseigen drankkaart beschikbaar, eigen homepage niet toegankelijk bij controle."
+    },
+    {
+      "id": "proeflokaal-wouters-leeuwarden-20261030",
+      "name": "Proeflokaal Wouters",
+      "type": "Proeflokaal / grand café",
+      "address": "Sophialaan 5",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site verwelkomt gasten voor losse borrel, lunch en diner; vergaderingen en feesten zijn afzonderlijke activiteiten.",
+      "alcohol": "Eigen site noemt diverse bieren en wijnen; borrelfunctie bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen weekrooster op direct uitgelezen exploitantsite; onafhankelijke gidsen spreken elkaar tegen (di–za tot 21/22, ma/zo soms gesloten of dagelijks open). Geen onbevestigde daguren ingevuld.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://proeflokaalwouters.nl/ en https://proeflokaalwouters.nl/vergaderen-2-2/ bevestigen naam, adres Sophialaan 5, bier/wijn, publieke borrel en telefoon. https://leeuwarden-nieuws.nl/adressen/proeflokaal-wouters-sophialaan/ en https://tablova.nl/zaak/leeuwarden/proeflokaal-wouters-n1436493832 geven ma/zo dicht, di–za 10–22; https://nl.restaurantguru.com/amp/Cafe-Wouters-Leeuwarden noemt di–za 10–21; https://www.friesland.nl/nl/locaties/2337185225/grand-cafe-wouters vermeldt dagelijks 10–22 en zondag 11 uur. Omdat eigen site geen bevestigd actueel weekrooster geeft, alle dagen onbekend; laatste toegang onbekend. Grand Café Wouters is oude naam, GEEN tweede venue.",
+      "features": "D0 Leeuwarden / stationskwartier; voormalige naam Grand Café Wouters",
+      "website": "https://proeflokaalwouters.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://proeflokaalwouters.nl/vergaderen-2-2/",
+        "https://visitleeuwarden.com/locaties/2337185225/grand-cafe-wouters",
+        "https://leeuwarden-nieuws.nl/adressen/proeflokaal-wouters-sophialaan/",
+        "https://nl.restaurantguru.com/amp/Cafe-Wouters-Leeuwarden",
+        "https://www.friesland.nl/nl/locaties/2337185225/grand-cafe-wouters"
+      ],
+      "original_status": "Eigen site bevestigt huidige naam en vrije borrel; gidsroosters zijn tegenstrijdig."
     }
   ],
   "admission_policies": [
