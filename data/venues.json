@@ -21147,11 +21147,11 @@
         "do": "23:00",
         "vr": "23:00",
         "za": "23:00",
-        "zo": "21:00"
+        "zo": "?"
       },
-      "closing_quality": "Eigen homepage en menupagina: wo–za 10:00–23:00, zo 10:00–21:00, ma/di gesloten.",
+      "closing_quality": "Eigen homepage/menufooter geven wo–za 10:00–23:00 en zondag 10:00–21:00; eigen contactpagina noemt echter ook zo tot 23:00. Zondagse sluiting daarom onbekend.",
       "closing_source": "https://ferronheerenveen.nl/",
-      "closing_notes": "30-10-2026: homepage en menufooter geven wo–za 10–23, zo 10–21; contactpagina heeft bovenaan een algemene wo–zo tot 23-vermelding maar eigen footer specificeert zondag 21, dus zondag volgens herhaalde gedetailleerde footer. Borrelhapjes beschikbaar 14–17 en vanaf 20; dit zijn geen laatste-toegangstijden. Geen uiterste toegang bevestigd.",
+      "closing_notes": "30-10-2026: eigen homepage/menufooter noemen wo–za 10–23, zo 10–21, maar contactpagina noemt bovenaan wo–zo 10–23. Zondagse cafésluiting is tegenstrijdig en daarom onbekend. Ma/di gesloten volgens eigen en VVV. Borrelhapjes beschikbaar 14–17 en vanaf 20; dit zijn geen laatste-toegangstijden. Uiterste toegang onbekend.",
       "features": "D0 Heerenveen / centrum; speciaalbier, wijn en cocktails",
       "website": "https://ferronheerenveen.nl/",
       "website_checked_on": "2026-10-30",
