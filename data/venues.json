@@ -13991,8 +13991,8 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café volgens Joure.nl, recensies vermelden bier.",
+      "alcohol": "Bier volgens lokale recensies; geen actuele eigen kaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14003,20 +14003,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site tsyl.nl gaf 502; externe roosters spreken elkaar tegen.",
+      "closing_source": "https://www.joure.nl/activiteit/cafe-t-syl",
+      "closing_notes": "Joure.nl noemt café 't Syl, Zijl 3. Eigen site tsyl.nl niet bereikbaar (502). Top-Rated noemt maandag gesloten; RestaurantGuru maandag open en afwijkende uren. Geen einduren of laatste toegang als zeker ingevoerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/joure"
+        "https://uitgaanskaart.nl/cafe/joure",
+        "https://www.joure.nl/activiteit/cafe-t-syl",
+        "https://www.top-rated.online/cities/Joure/place/p/16960509/Caf%C3%A9%2B%27T%2BSYL",
+        "https://restaurantguru.com/t-Syl-Joure"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Joure-gids bevestigt café; eigen site onbereikbaar en actuele exploitatie niet live geverifieerd op 2026-10-30.",
       "geo": {
         "lat": 52.9704292,
         "lon": 5.7922068,
         "method": "PDOK BAG-adres",
         "matched_address": "Zijl 3, 8501AZ Joure"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -14027,8 +14040,8 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek café/borrel, volgens eigen website.",
+      "alcohol": "Eigen site bevestigt bier en bar.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14039,13 +14052,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen eigen vast weekrooster.",
+      "closing_source": "https://cafethert.nl/",
+      "closing_notes": "Eigen contactpagina vraagt voor opening van vandaag te bellen of Facebook te controleren. Geen vast eigen weekrooster; gidsuren niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://cafethert.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/joure"
+        "https://uitgaanskaart.nl/cafe/joure",
+        "https://cafethert.nl/contact/",
+        "https://www.allebiz.nl/caf%C3%A9-t-hert_1Q-0513-412-112"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14053,7 +14068,21 @@
         "lon": 5.7941503,
         "method": "PDOK BAG-adres",
         "matched_address": "Midstraat 40, 8501AR Joure"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe bedrijfssite, naam en adres gecontroleerd 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://cafethert.nl/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
@@ -14063,23 +14092,23 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek grand café met borrel zonder maaltijd.",
+      "alcohol": "Eigen website bevestigt cocktails en speciaalbier.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officieel weekrooster.",
+      "closing_source": "https://oranjeriejoure.nl/",
+      "closing_notes": "Officiële site: ma–wo gesloten, do–zo 11:00–22:00, geen laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://oranjeriejoure.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/joure"
       ],
@@ -14089,7 +14118,22 @@
         "lon": 5.7888846,
         "method": "PDOK BAG-adres",
         "matched_address": "Grienedyk 6, 8501AX Joure"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe bedrijfssite, naam en adres gecontroleerd 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://oranjeriejoure.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officieel weekrooster."
     },
     {
       "id": "stoker-koffiebar-joure-b54d49f",
@@ -14099,25 +14143,26 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publieke koffie- en borrelbar.",
+      "alcohol": "Eigen site bevestigt wijn, speciaalbier en cocktails.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "20:00",
+        "za": "18:00",
+        "zo": "18:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen contactpagina.",
+      "closing_source": "https://stokerkoffiebar.nl/",
+      "closing_notes": "Eigen contactpagina geeft volledige weekuren; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://stokerkoffiebar.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/joure"
+        "https://uitgaanskaart.nl/cafe/joure",
+        "https://stokerkoffiebar.nl/contact/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14125,7 +14170,22 @@
         "lon": 5.7924935,
         "method": "PDOK BAG-adres",
         "matched_address": "Midstraat 7, 8501AC Joure"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe bedrijfssite, naam en adres gecontroleerd 2026-10-30.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "10:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://stokerkoffiebar.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen contactpagina."
     },
     {
       "id": "grand-cafe-de-jongens-van-joure-joure-de09c9b",
