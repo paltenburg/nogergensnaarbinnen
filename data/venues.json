@@ -19089,7 +19089,7 @@
       "id": "roest-urban-food-bar-joure-20261030",
       "name": "ROEST Urban Food Bar",
       "type": "Foodbar/borrel",
-      "address": "Appelwijk 11",
+      "address": "Appelwyk 11",
       "website": "https://www.roestjoure.nl/",
       "access": "Eigen site bevestigt borrel en shared bites zonder verplicht diner; locatie is voormalige Grand Café Het Tolhuis.",
       "alcohol": "Officiële drankenkaart bevat gin, whisky, jenever, Beerenburg, likeuren en cocktails/koffiespecialiteiten met alcohol.",
@@ -19115,8 +19115,11 @@
       "other_sources": [
         "https://www.tolhuisjoure.nl/",
         "https://www.roestjoure.nl/",
-        "https://www.roestjoure.nl/data/pam/public/dranken_voorjaar_26_roest_definitief.pdf"
-      ]
+        "https://www.roestjoure.nl/data/pam/public/dranken_voorjaar_26_roest_definitief.pdf",
+        "https://www.friesland.nl/nl/locaties/3031388217/roest-joure",
+        "https://www.overuwbuurt.nl/kennisgeving/appelwyk-11-8501-bm-joure-zijl-3-8501-az-joure-verleende-evenementenvergunning-inrichten-van-een-horecaplein-rond-de-tolhuisbrug-tijdens-de-jouster-merke-z-904342/8846180"
+      ],
+      "geocode_notes": "Friesland.nl en officiële gemeentelijke bekendmaking gebruiken BAG-straatnaam Appelwyk 11 (8501 BM), terwijl exploitantwebsite 'Appelwijk 11' schrijft. Adres op basis van onafhankelijke regio-/gemeentebron genormaliseerd, exacte PDOK-match door workflow nog te bevestigen."
     }
   ],
   "admission_policies": [
