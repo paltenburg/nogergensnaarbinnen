@@ -10492,8 +10492,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek speciaalbiercafé volgens Visit Leeuwarden",
-      "alcohol": "Meer dan 250 speciaalbieren, 12 wisseltaps volgens Visit Leeuwarden",
+      "access": "Eigen site bevestigt publiek speciaalbiercafé en vrije borrel; bier-/kaasproeverij is een afzonderlijke reserveringsactiviteit.",
+      "alcohol": "Eigen site vermeldt meer dan 250 bieren op fles, 12 wisseltaps, bierproeverijen en wijn.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -10506,15 +10506,17 @@
       },
       "closing_quality": "Toeristische regiogids (niet rechtstreeks bedrijfseigen geverifieerd)",
       "closing_source": "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
-      "closing_notes": "Visit Leeuwarden en Friesland.nl tonen ma gesloten, di-do 16–01, vr/za 15–01, zo 15–20. Cylex noemt vr/za 02 en zo 21; conflict. Eigen domein de-markies.nl genoemd maar niet rechtstreeks bereikbaar bij controle 30-10-2026; laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: https://www.de-markies.nl/ rechtstreeks geopend; bevestigt naam, adres, openbare biercaféfunctie en alcoholassortiment, maar geeft op homepage geen weekrooster. Gids https://www.visitleeuwarden.com/locaties/2927114596/speciaalbiercafe-de-markies geeft ma dicht, di–do 16–01, vr/za 15–01, zo 15–20. Externe gidsen noemen soms vr/za 02; niet overgenomen. Op eigen site genoemde uiterste starttijd proeverij (17:00 in weekend) is GEEN laatste cafétoegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.de-markies.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
-        "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html"
+        "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html",
+        "https://www.de-markies.nl/",
+        "https://www.visitleeuwarden.com/locaties/2927114596/speciaalbiercafe-de-markies"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele eigen website bevestigd op 30-10-2026; weekrooster uit regionale gids, laatste toegang onbekend.",
       "geo": {
         "lat": 53.2006648,
         "lon": 5.7897238,
@@ -10530,7 +10532,9 @@
         "za": "15:00",
         "zo": "15:00"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Directe exploitantsite bevestigt De Markies, Groot Schavernek 19 en speciaalbiercafé; https://www.de-markies.nl/"
     },
     {
       "id": "cafe-de-pastorie-leeuwarden-ca96efd",
@@ -22281,6 +22285,93 @@
         "https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne"
       ],
       "original_status": "Eigen site bevestigt publieke caféfunctie en beginuren; echte sluiting en laatste toegang blijven onbekend."
+    },
+    {
+      "id": "grand-cafe-bilgaard-leeuwarden-20261030",
+      "name": "Grand Café Bilgaard",
+      "type": "Buurtcafé / grand café",
+      "address": "Bilgaardpassage 73",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële winkelcentrumpagina beschrijft vrij toegankelijk café met biljart, darts, live muziek en terras; geen lidmaatschaps- of evenementverplichting vermeld.",
+      "alcohol": "Bier blijkt uit bezoekerservaringen bij RestaurantGuru; eigen drankkaart niet gevonden. Geen alcoholaanbod afgeleid uit naastgelegen slijterij.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële pagina van winkelcentrum waarin het café gevestigd is; dezelfde weekuren bij RestaurantGuru. Niet rechtstreeks door exploitant geverifieerd.",
+      "closing_source": "https://www.winkelcentrumbilgaard.nl/grandcafe-bilgaard/",
+      "closing_notes": "30-10-2026: https://www.winkelcentrumbilgaard.nl/grandcafe-bilgaard/ bevestigt adres, publieke caféfunctie, activiteiten en weekuren; https://nl.restaurantguru.com/amp/Grand-Cafe-Bilgaard-Leeuwarden toont dezelfde uren en bezoekers die bier noemen (laatst bijgewerkt maart 2026). https://www.leeuwarden058.nl/bedrijven/cafes-in-leeuwarden/ noemt een KvK-vermelding op dit adres. Geen actuele eigen site of drankkaart gevonden, geen laatste toegang. Reguliere weekuren kunnen voor evenementen afwijken.",
+      "features": "D0 Leeuwarden / Bilgaard; buiten centrum, buurtcafé",
+      "website": "",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.winkelcentrumbilgaard.nl/grandcafe-bilgaard/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://nl.restaurantguru.com/amp/Grand-Cafe-Bilgaard-Leeuwarden",
+        "https://www.leeuwarden058.nl/bedrijven/cafes-in-leeuwarden/"
+      ],
+      "original_status": "Winkelcentrum vermeldt exploitatie en rooster; bier extern bevestigd, eigen website niet gevonden."
+    },
+    {
+      "id": "in-de-brouwerij-leeuwarden-20261030",
+      "name": "In de Brouwerij",
+      "type": "Grand café / stadsbrouwerij",
+      "address": "Zaailand 94",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Regionale toeristische gids beschrijft een publiek grand café voor lunch, diner en bier; hotelkamers zijn een aparte functie.",
+      "alcohol": "Eigen bier-/wijnkaart toont meerdere Zaailander bieren, tapbier en wijn, plus eigen cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "07:30",
+        "di": "07:30",
+        "wo": "07:30",
+        "do": "07:30",
+        "vr": "07:30",
+        "za": "07:30",
+        "zo": "07:30"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "04:30",
+        "za": "04:30",
+        "zo": "01:00"
+      },
+      "closing_quality": "Actueel regionaal toerismeplatform Friesland.nl; niet rechtstreeks als weekrooster op eigen site bevestigd.",
+      "closing_source": "https://www.friesland.nl/nl/locaties/986920694/in-de-brouwerij",
+      "closing_notes": "30-10-2026: https://www.friesland.nl/nl/locaties/986920694/in-de-brouwerij bevestigt Zaailand 94, publiek grand café en gidsrooster ma–do/zo 07:30–01:00, vr/za 07:30–04:30. Eigen https://bijonsindebrouwerij.nl/doc/20240617/8623_idb-20menukaarten-pages-2.pdf bevestigt alcoholassortiment, maar PDF is uit 2024 en geen actueel weekrooster; https://bijonsindebrouwerij.nl/doc/20230629/5566_cocktails.pdf toont cocktails (2023). De eigen homepage gaf bij controle een redirect-loop en kon niet worden gebruikt om openingstijden te bevestigen. Gidsrooster voorlopig; laatste toegang onbekend.",
+      "features": "D0 Leeuwarden / Zaailand; eigen bier en publiek grand café",
+      "website": "https://bijonsindebrouwerij.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.friesland.nl/nl/locaties/986920694/in-de-brouwerij",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://bijonsindebrouwerij.nl/doc/20240617/8623_idb-20menukaarten-pages-2.pdf",
+        "https://bijonsindebrouwerij.nl/doc/20230629/5566_cocktails.pdf"
+      ],
+      "original_status": "Actuele toeristische gids bevestigt horeca en weekrooster; bedrijfseigen drankkaart beschikbaar, eigen homepage niet toegankelijk bij controle."
     }
   ],
   "admission_policies": [
