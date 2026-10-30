@@ -16494,9 +16494,9 @@
       "city": "Bakhuizen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "KvK-afgeleide registratie voor drinkgelegenheid op Sint Odulphusstraat 35, actuele publieke exploitatie niet rechtstreeks bevestigd.",
+      "alcohol": "KvK SBI 5630 (drinkgelegenheden), geen exploitantmenu gevonden.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -16508,11 +16508,13 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Compadex/Company.info registreren Bruin café Licorne in april/maart 2026 op Sint Odulphusstraat 35, maar vermelden autoservice-hiemstra.nl als website; dat is geen bevestigd caférooster of bewijs van actuele vrije inloop. Geen officiële openingstijden, laatste toegang of bedrijfswebsite vastgesteld. Uit actuele selectie tot bevestiging.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.compadex.com/nl/businesses/nl/bruin-cafe-licorne-51926547-41298233",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/bruin-cafe-licorne-bakhuizen-51926547-000041298233"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16520,7 +16522,8 @@
         "lon": 5.4575873,
         "method": "PDOK BAG-adres",
         "matched_address": "Sint Odulphusstraat 35, 8574SW Bakhuizen"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-t-syltsje-bakhuizen-319434c",
@@ -16530,8 +16533,8 @@
       "city": "Bakhuizen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site en KvK-afgeleide registratie bevestigen café, actuele vrije inloop niet afzonderlijk ter plaatse geverifieerd.",
+      "alcohol": "KvK-activiteit drinkgelegenheid en gidsvermeldingen; eigen alcoholkaart niet beschikbaar.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16542,13 +16545,16 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Geen bedrijfseigen weekrooster; gidsuren niet overgenomen.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Eigen website bevestigt Café 't Syltsje Havenstraat 51 en eigenaren René/Jackelien, maar geeft geen betrouwbaar weekrooster; rechtstreeks openen gaf 502. AlleBiz/het-menu noemen ma/di dicht, wo/do 18:30–00, vr 17–00, za/zo 16–00; geen officiële bevestiging, dus tijden onbekend. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafetsyltsje.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.cafetsyltsje.nl/index.php/contact",
+        "https://www.compadex.com/nl/businesses/nl/cafe-t-syltsje-01114620-03217469",
+        "https://www.allebiz.nl/caf%C3%A9-t-syltsje-0514-581-718"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16556,7 +16562,10 @@
         "lon": 5.4585123,
         "method": "PDOK BAG-adres",
         "matched_address": "Havenstraat 51, 8574SG Bakhuizen"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Officiële site via geïndexeerde homepage/contactpagina bevestigd; direct openen gaf 502 op 30-10-2026."
     },
     {
       "id": "hcr-teernstra-balk-83c5930",
@@ -16566,8 +16575,8 @@
       "city": "Balk",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant: bruin café en terras, binnenlopen mag altijd; niet uitsluitend hotelgasten.",
+      "alcohol": "Exploitant noemt speciaalbieren, wisselende tapbieren en borrelkaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16578,13 +16587,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site dagelijks vanaf 10:00; geen vaste eindtijd.",
+      "closing_source": "https://hotelteernstra.nl/",
+      "closing_notes": "Eigen site noemt dagelijks vanaf 10:00 en vrije inloop, maar geen werkelijke cafésluiting of laatste toegang. Externe 24-uursvermelding is hotelopenstelling, niet cafésluiting.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://hotelteernstra.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.hotelteernstra.nl/",
+        "https://stagemarkt.nl/leerbedrijven/hcr-teernstra_80291a5b-0c05-43ed-b0f7-a98c45070909"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16592,7 +16603,21 @@
         "lon": 5.5783632,
         "method": "PDOK BAG-adres",
         "matched_address": "van Swinderenstraat 69, 8561AS Balk"
-      }
+      },
+      "opening_checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "website_provenance": "Officiële hotel-/caféwebsite direct geopend 2026-10-30.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://hotelteernstra.nl/"
     },
     {
       "id": "feestcafe-het-swaentje-balk-f467edc",
@@ -16602,8 +16627,8 @@
       "city": "Balk",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Café-/feestcafévermeldingen in gidsen; huidige vrije inloop niet via exploitant bevestigd.",
+      "alcohol": "Feestcafé-/borrelfunctie volgens gidsen; eigen drankenkaart niet gevonden.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16614,13 +16639,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Onderling tegenstrijdige niet-primaire gidsroosters.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "Cylex (bijgewerkt 18-08-2026) geeft di/do 19–22, vr 15–22, za 19–22, zo 17:30–22, ma/wo dicht. Het-menu geeft afwijkend di dicht, do 19–01, vr 15–01, za 19–03, zo 19–01. Geen bereikbare actuele exploitantwebsite of laatste toegang; weekuren onbekend gehouden.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/stavoren"
+        "https://uitgaanskaart.nl/cafe/stavoren",
+        "https://www.cylex.nl/bedrijf/borrel--en-feestcaf%C3%A9-het-swaentje-13206561.html",
+        "https://www.het-menu.nl/balk/restaurant/borrel_en_feestcafe_het_swaentje"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -16628,7 +16655,8 @@
         "lon": 5.5829962,
         "method": "PDOK BAG-adres",
         "matched_address": "Meerweg 4, 8561AT Balk"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
