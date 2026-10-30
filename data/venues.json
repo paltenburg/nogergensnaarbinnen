@@ -22148,6 +22148,139 @@
         "https://www.allebiz.nl/eetcaf%C3%A9-t-breed-0512-472-210"
       ],
       "original_status": "Eigen site en actieve bedrijfsregistratie bevestigen eetcafé; alcohol volgens derde bronnen, direct eigen drankaanbod en actuele opening/sluiting nog te bevestigen."
+    },
+    {
+      "id": "herberg-foestrum-westergeast-20261030",
+      "name": "Herberg Foestrum",
+      "type": "Herberg / eetcafé / bierproeflokaal",
+      "address": "Eelke Meinertswei 15",
+      "city": "Westergeast",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt niet-logerende bezoekers uit voor koffie, lunch en diner; voor grotere groepen wordt reserveren aanbevolen. Bierproeverijen zijn afzonderlijke activiteiten.",
+      "alcohol": "Eigen brouwerij DÎJKBIER en proeflokaal op locatie volgens exploitant; bier uit eigen tap ook beschreven in lokale reportage van november 2025.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Exploitant meldt op restaurantpagina dat de website onlangs is hersteld en tijden onvolledig of achterhaald kunnen zijn. Elders staat dagelijks vanaf 09:00, maar zonder actuele bevestiging niet als vast rooster ingevuld; gidsen conflicteren.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://herbergfoestrum.nl/restaurant/ bevat expliciete waarschuwing dat websitegegevens nog niet volledig zijn bijgewerkt. https://herbergfoestrum.nl/ en https://herbergfoestrum.nl/brouwerij/ bevestigen horeca, adres en eigen bier; https://www.westereender.nl/wp-content/uploads/2025/11/Westereender-1025-LR.pdf beschrijft actuele herberg en tapbier. https://www.fietsnetwerk.nl/knooppunt/cafe-herberg-foestrum-westergeast/ noemt 09–23, terwijl https://www.allebiz.nl/caf%C3%A9-foestrum_2u-0511-441-768 wo–zo afwijkende tijden noemt. Geen van deze einduren als bevestigd weekrooster overgenomen; laatste toegang onbekend.",
+      "features": "D0 Noardeast-Fryslân / Westergeast; restaurant met eigen bier",
+      "website": "https://herbergfoestrum.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://herbergfoestrum.nl/restaurant/",
+        "https://herbergfoestrum.nl/brouwerij/",
+        "https://www.westereender.nl/wp-content/uploads/2025/11/Westereender-1025-LR.pdf",
+        "https://www.fietsnetwerk.nl/knooppunt/cafe-herberg-foestrum-westergeast/",
+        "https://www.allebiz.nl/caf%C3%A9-foestrum_2u-0511-441-768"
+      ],
+      "original_status": "Actuele eigen horeca- en bierpresentatie plus lokaal bericht; exacte weekuren door waarschuwing exploitant niet betrouwbaar bevestigd."
+    },
+    {
+      "id": "bergsma-easterein-20261030",
+      "name": "Bergsma Easterein",
+      "type": "Restaurant / café / feestlocatie",
+      "address": "Sibadawei 2",
+      "city": "Easterein",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt publiek uit voor lunch/diner en café; afzonderlijke muziekfeesten zijn ticket-/eventgebonden. Restaurantreservering aangeraden, geen algemene toegangsplicht bevestigd.",
+      "alcohol": "Eigen site noemt expliciet bier en wijn bij het eten, koud bier bij feesten, wijnproeverijen en bar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Officiële footer geeft restaurant wo–zo tot 21:00; FAQ noemt woensdag vanaf 16:00 en do–zo vanaf 11:30 terwijl footer wo–zo vanaf 11:00 zegt. Openingen door conflict onbekend. Ticketfeesten kunnen na 21:00 doorgaan; niet als reguliere sluiting beschouwd.",
+      "closing_source": "https://www.bergsmaeasterein.nl/",
+      "closing_notes": "30-10-2026: officiële https://www.bergsmaeasterein.nl/ bevestigt Sibadawei 2, publieke restaurant/café-functie, bier/wijn en wo–zo restaurant-einduur 21:00. Beginuren binnen dezelfde site inconsistent (FAQ wo 16:00/do–zo 11:30, footer wo–zo 11:00), dus beginuren onbekend. Ma/di alleen op afspraak. Eventagenda toont afzonderlijke ticketfeesten tot 02:00/03:00, zoals https://www.bergsmaeasterein.nl/feesten/seizoensopening-bergsma; deze einduren gelden NIET voor normale café-inloop. Laatste toegang niet bevestigd.",
+      "features": "D0 Súdwest-Fryslân / Easterein; restaurant, dorpscafé, eventnachten",
+      "website": "https://www.bergsmaeasterein.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "",
+      "other_sources": [
+        "https://www.bergsmaeasterein.nl/feesten/seizoensopening-bergsma",
+        "https://www.friesland.nl/en/locations/307192602/restaurant-partycentre-bergsma-easterein",
+        "https://easterein.nl/wp-content/uploads/2025/12/Doarpskrantsje-desimber-2025_web.pdf"
+      ],
+      "original_status": "Eigen website en actuele agenda bevestigen restaurant, bier/wijn en afzonderlijke feesten; beginuren conflicteren op eigen site."
+    },
+    {
+      "id": "eetcafe-de-utherne-ijlst-20261030",
+      "name": "Eetcafé De Utherne",
+      "type": "Eetcafé / ontmoetingscentrum",
+      "address": "De Dassenboarch 25",
+      "city": "IJlst",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site heet voorbijgangers en inwoners welkom voor een drankje of maaltijd; zaalverhuur en sportactiviteiten zijn afzonderlijk.",
+      "alcohol": "Eigen site noemt borrel, en Friesland.nl bevestigt een borrelkaart; exacte alcoholsoorten niet afzonderlijk van actuele menukaart uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "08:30",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site schrijft nadrukkelijk 'in ieder geval open tot' 22:00 (ma–wo/zo) en 00:00 (do–za). Dit zijn gegarandeerde minimumopeningen, GEEN exacte sluitingstijden. Alle closing-velden daarom onbekend.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://utherne.nl/ bevestigt vrije café-/borrelinloop, adres en opening ma–vr/zo 10:00, za 08:30; 'in ieder geval open tot' 22:00 ma–wo/zo en 00:00 do–za. Deze ondergrens niet als exact einduur of laatste toegang opgeslagen. https://www.friesland.nl/nl/locaties/430334362/m-f-c-de-utherne noemt borrelkaart. Gids https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne toont dagelijks 10–23, maar is strijdig met exploitant en niet overgenomen.",
+      "features": "D0 Súdwest-Fryslân / IJlst; publieke borrel in multifunctioneel centrum",
+      "website": "https://utherne.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://utherne.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/430334362/m-f-c-de-utherne",
+        "https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne"
+      ],
+      "original_status": "Eigen site bevestigt publieke caféfunctie en beginuren; echte sluiting en laatste toegang blijven onbekend."
     }
   ],
   "admission_policies": [
