@@ -22058,6 +22058,96 @@
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-kantelaar-leeuwarden-64131572-000032984863"
       ],
       "original_status": "Actuele exploitatie en alcohol via eigen site/2026-exploitantberichten; di/wo roosterconflict expliciet onbekend gehouden."
+    },
+    {
+      "id": "gasterij-manjefiek-kollum-20261030",
+      "name": "Gasterij Manjefiek",
+      "type": "Brasserie / pizzeria / grill",
+      "address": "Voorstraat 63",
+      "city": "Kollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt spontane vrije inloop, terras en drankservice; reserveren is mogelijk maar niet verplicht.",
+      "alcohol": "Bedrijfseigen https://www.gasterijmanjefiek.nl/drankenkaart biedt een actuele drankenkaart-PDF (download gaf 403); geclaimd Tripadvisor-profiel bevestigt wijn, bier en alcohol.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "20:30",
+        "wo": "20:30",
+        "do": "20:30",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "20:30"
+      },
+      "closing_quality": "Eigen restaurantwebsite toont ma dicht, di–do 16–20:30, vr/za 16–21:30, zo 16–20:30. Externe gidsen geven andere tijden, niet gebruikt.",
+      "closing_source": "https://www.gasterijmanjefiek.nl/",
+      "closing_notes": "30-10-2026: https://www.gasterijmanjefiek.nl/ eigen restauranturen ma dicht, di–do/zo 16–20:30, vr/za 16–21:30. Eigen bestelplatform https://www.manjefiek.shop/contact heeft andere tijden (afhaal/bezorging), niet als zaalrooster gebruikt. Eigen https://www.gasterijmanjefiek.nl/drankenkaart linkt naar PDF die bij lezen 403 gaf; alcohol bevestigd door geclaimd https://www.tripadvisor.co.uk/Restaurant_Review-g3348478-d11652779-Reviews-Gasterij_Manjefiek-Kollum_Friesland_Province.html. Laatste toegang onbekend.",
+      "features": "D0 Noardeast-Fryslân / Kollum; vrije inloop, alcohol volgens geclaimd profiel",
+      "website": "https://www.gasterijmanjefiek.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.gasterijmanjefiek.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.gasterijmanjefiek.nl/drankenkaart",
+        "https://www.manjefiek.shop/contact",
+        "https://www.tripadvisor.co.uk/Restaurant_Review-g3348478-d11652779-Reviews-Gasterij_Manjefiek-Kollum_Friesland_Province.html"
+      ],
+      "original_status": "Actuele eigen website en geclaimd Tripadvisor-profiel bevestigen horecazaak, publieke inloop en alcohol; direct leesbare actuele alcoholkaart ontbreekt."
+    },
+    {
+      "id": "eetcafe-t-breed-eastermar-20261030",
+      "name": "Eetcafé 't Breed",
+      "type": "Eetcafé / snackbar",
+      "address": "Elte Martens Beimastrjitte 40",
+      "city": "Eastermar",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site zegt dat gasten welkom zijn voor drankje of maaltijd en snacks; snackbar is aparte service. Personeelstekort kan keukenuren beïnvloeden.",
+      "alcohol": "Eigen site vermeldt drankjes zonder soorten; klantrecensie over wijn/bier en horeca-gids https://corestaurant.ch/en/Netherlands/restaurant/eetcafe-t-breed-eastermar-877 bevestigen alcohol, maar eigen actuele drankkaart niet beschikbaar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site toont dynamische widget zonder leesbaar weekrooster. Gidsen geven conflicterende tijden (di–zo tot 21, alle dagen 09–21, deels tot 22). Geen gidsuren als vaste werkelijkheid overgenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://eetcafebreed.eatbu.com/ bevestigt eetcafé, vrije inloop en adres; vermeldt personeelstekort waardoor keuken kan sluiten, niet automatisch café. https://www.allebiz.nl/eetcaf%C3%A9-t-breed-0512-472-210 noemt di–zo tot 21; https://corestaurant.ch/en/Netherlands/restaurant/eetcafe-t-breed-eastermar-877 noemt dagelijks 09–21; https://eetcafetbreed.restaurants-info.com/ geeft andere tijden en klantrecensie met wijn/bier. Eigen vaste opening/sluiting en laatste toegang onbekend. KvK https://openkvk.nl/company/hoofdvestiging-eetcafe-t-breed-01113779-11582022 toont actief bedrijf, maar geen gegarandeerde actuele caféuren.",
+      "features": "D0 Tytsjerksteradiel / Eastermar; eerste eigen broncontrole, uurwidget onleesbaar",
+      "website": "https://eetcafebreed.eatbu.com/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "",
+      "other_sources": [
+        "https://openkvk.nl/company/hoofdvestiging-eetcafe-t-breed-01113779-11582022",
+        "https://corestaurant.ch/en/Netherlands/restaurant/eetcafe-t-breed-eastermar-877",
+        "https://eetcafetbreed.restaurants-info.com/",
+        "https://www.allebiz.nl/eetcaf%C3%A9-t-breed-0512-472-210"
+      ],
+      "original_status": "Eigen site en actieve bedrijfsregistratie bevestigen eetcafé; alcohol volgens derde bronnen, direct eigen drankaanbod en actuele opening/sluiting nog te bevestigen."
     }
   ],
   "admission_policies": [
