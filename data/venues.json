@@ -18309,7 +18309,13 @@
       "website": "https://cafeboven.nl/",
       "website_checked_on": "2026-10-30",
       "other_sources": [],
-      "original_status": "Actuele eigen website bevestigt openbare kroeg, alcohol en rooster; geen live deurcontrole."
+      "original_status": "Actuele eigen website bevestigt openbare kroeg, alcohol en rooster; geen live deurcontrole.",
+      "geo": {
+        "lat": 53.2955558,
+        "lon": 5.0683153,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Dorpsstraat 83, 8899AD Vlieland"
+      }
     },
     {
       "region": "friesland",
@@ -18352,7 +18358,13 @@
         "https://badhotelbruin.nl/contact/",
         "https://vlieland.net/en/bedrijf/cafe-bruintje"
       ],
-      "original_status": "Eigen hotelcafé-site bevestigt publieke borrel en alcohol; officiële openingsdagen zijn tegenstrijdig."
+      "original_status": "Eigen hotelcafé-site bevestigt publieke borrel en alcohol; officiële openingsdagen zijn tegenstrijdig.",
+      "geo": {
+        "lat": 53.295817,
+        "lon": 5.0689256,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Dorpsstraat 88, 8899AL Vlieland"
+      }
     },
     {
       "region": "friesland",
@@ -18395,7 +18407,13 @@
         "https://gestrandvlieland.nl/site/assets/files/1016/gestrand_menukaart_winter25_6.pdf",
         "https://vlieland.net/nl/bedrijf/gestrand"
       ],
-      "original_status": "Actuele eigen website met publieke bar en openingstijden; geen live deurcheck."
+      "original_status": "Actuele eigen website met publieke bar en openingstijden; geen live deurcheck.",
+      "geo": {
+        "lat": 53.2964613,
+        "lon": 5.0743634,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Havenweg 3, 8899BB Vlieland"
+      }
     },
     {
       "region": "friesland",
@@ -18438,7 +18456,13 @@
         "https://westcordhotels.nl/restaurants/praethuys/menu/",
         "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys"
       ],
-      "original_status": "WestCord exploiteert openbaar eetcafé met bar, seizoensafhankelijke sluiting; geen live deurcheck."
+      "original_status": "WestCord exploiteert openbaar eetcafé met bar, seizoensafhankelijke sluiting; geen live deurcheck.",
+      "geo": {
+        "lat": 53.2957665,
+        "lon": 5.0695225,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Dorpsstraat 61, 8899AD Vlieland"
+      }
     },
     {
       "region": "friesland",
@@ -18481,7 +18505,13 @@
         "https://vlieland.net/nl/bedrijf/de-brassery",
         "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/"
       ],
-      "original_status": "WestCord en VVV bevestigen brasserie met wijn/aperitief in Strandhotel Seeduyn."
+      "original_status": "WestCord en VVV bevestigen brasserie met wijn/aperitief in Strandhotel Seeduyn.",
+      "geo": {
+        "lat": 53.3034588,
+        "lon": 5.051339,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Badweg 3, 8899BV Vlieland"
+      }
     },
     {
       "region": "friesland",
@@ -18524,7 +18554,13 @@
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1400372071/strandpaviljoen-t-badhuys",
         "https://westcordhotels.nl/te-doen-vlieland/"
       ],
-      "original_status": "WestCord en VVV bevestigen publieke strandhoreca; exact paviljoenadres heeft bronconflict."
+      "original_status": "WestCord en VVV bevestigen publieke strandhoreca; exact paviljoenadres heeft bronconflict.",
+      "geo": {
+        "lat": 53.3034588,
+        "lon": 5.051339,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Badweg 3, 8899BV Vlieland"
+      }
     }
   ],
   "admission_policies": [

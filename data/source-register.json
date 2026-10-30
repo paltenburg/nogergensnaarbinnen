@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 421,
-    "source_urls": 668,
-    "domains": 335,
-    "direct_website_fields": 232
+    "venues": 427,
+    "source_urls": 686,
+    "domains": 338,
+    "direct_website_fields": 238
   },
   "discovery_sites": [
     {
@@ -154,14 +154,14 @@
       "linked_venues": 200
     },
     {
+      "domain": "allebiz.nl",
+      "source_pages": 19,
+      "linked_venues": 19
+    },
+    {
       "domain": "ontdek-utrecht.nl",
       "source_pages": 19,
       "linked_venues": 36
-    },
-    {
-      "domain": "allebiz.nl",
-      "source_pages": 18,
-      "linked_venues": 18
     },
     {
       "domain": "friesland.nl",
@@ -209,24 +209,29 @@
       "linked_venues": 7
     },
     {
+      "domain": "compadex.com",
+      "source_pages": 7,
+      "linked_venues": 7
+    },
+    {
+      "domain": "visitwadden.nl",
+      "source_pages": 7,
+      "linked_venues": 6
+    },
+    {
+      "domain": "westcordhotels.nl",
+      "source_pages": 7,
+      "linked_venues": 4
+    },
+    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
     },
     {
-      "domain": "compadex.com",
-      "source_pages": 6,
-      "linked_venues": 6
-    },
-    {
       "domain": "vind-open.nl",
       "source_pages": 6,
       "linked_venues": 6
-    },
-    {
-      "domain": "visitwadden.nl",
-      "source_pages": 6,
-      "linked_venues": 5
     },
     {
       "domain": "findglocal.com",
@@ -264,7 +269,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "uitagenda.nl",
+      "source_pages": 4,
+      "linked_venues": 75
+    },
+    {
       "domain": "verseuitjes.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
+      "domain": "vlieland.net",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -324,12 +339,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "uitagenda.nl",
-      "source_pages": 3,
-      "linked_venues": 74
+      "domain": "amicaalgrou.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
-      "domain": "amicaalgrou.nl",
+      "domain": "badhotelbruin.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -457,6 +472,11 @@
       "domain": "elize.cafe",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "gestrandvlieland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "grandcafevlieland.nl",
@@ -684,14 +704,14 @@
       "linked_venues": 1
     },
     {
-      "domain": "waze.com",
+      "domain": "vlieland.site",
       "source_pages": 2,
       "linked_venues": 2
     },
     {
-      "domain": "westcordhotels.nl",
+      "domain": "waze.com",
       "source_pages": 2,
-      "linked_venues": 1
+      "linked_venues": 2
     },
     {
       "domain": "wijnbarvinvin.nl",
@@ -870,6 +890,11 @@
     },
     {
       "domain": "cafebleeker.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafeboven.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1759,16 +1784,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "vlieland.net",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "vlieland.site",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "vriendenvanleeuwarden.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -2115,6 +2130,30 @@
         {
           "id": "cafe-lieman-west-terschelling-3808f8b",
           "name": "Café Lieman",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-it-kin-net-bolsward-75feb60",
+          "name": "Café It Kin Net",
           "roles": [
             "achtergrond"
           ],
@@ -2753,6 +2792,59 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://badhotelbruin.nl/cafe-bruintje-vlieland/",
+      "domain": "badhotelbruin.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bruintje-vlieland-20261030",
+          "name": "Café Bruintje",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://badhotelbruin.nl/contact/",
+      "domain": "badhotelbruin.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bruintje-vlieland-20261030",
+          "name": "Café Bruintje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://bar-bet.nl/",
@@ -3892,6 +3984,35 @@
             "website"
           ],
           "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafeboven.nl/",
+      "domain": "cafeboven.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-boven-vlieland-20261030",
+          "name": "Café Boven",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
             "sluitingstijden": "2026-10-30"
           },
           "needs_review": true
@@ -6931,6 +7052,30 @@
         {
           "id": "cafe-t-diekje-bolsward-89f46bb",
           "name": "Café 't Diekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.compadex.com/nl/businesses/nl/de-tempelier-63007002-56025459",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-it-kin-net-bolsward-75feb60",
+          "name": "Café It Kin Net",
           "roles": [
             "achtergrond"
           ],
@@ -10405,6 +10550,59 @@
         {
           "id": "island-pub-vlieland-f6793f0",
           "name": "The Island Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://gestrandvlieland.nl/",
+      "domain": "gestrandvlieland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "gestrand-vlieland-20261030",
+          "name": "Gestrand",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://gestrandvlieland.nl/site/assets/files/1016/gestrand_menukaart_winter25_6.pdf",
+      "domain": "gestrandvlieland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "gestrand-vlieland-20261030",
+          "name": "Gestrand",
           "roles": [
             "achtergrond"
           ],
@@ -17826,6 +18024,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.uitagenda.nl/locaties/cafe-t-cafe",
+      "domain": "uitagenda.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-it-kin-net-bolsward-75feb60",
+          "name": "Café It Kin Net",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://uitgaanskaart.nl/cafe/akkrum",
       "domain": "uitgaanskaart.nl",
       "first_registered_on": "2026-10-29",
@@ -22168,6 +22390,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1400372071/strandpaviljoen-t-badhuys",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep",
       "domain": "visitwadden.nl",
       "first_registered_on": "2026-10-30",
@@ -22288,6 +22534,30 @@
       "needs_review": true
     },
     {
+      "url": "https://vlieland.net/en/bedrijf/cafe-bruintje",
+      "domain": "vlieland.net",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bruintje-vlieland-20261030",
+          "name": "Café Bruintje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vlieland.net/nl/activiteit/hop-over-het-eiland",
       "domain": "vlieland.net",
       "first_registered_on": "2026-10-30",
@@ -22300,6 +22570,78 @@
         {
           "id": "island-pub-vlieland-f6793f0",
           "name": "The Island Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vlieland.net/nl/bedrijf/de-brassery",
+      "domain": "vlieland.net",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-brassery-vlieland-20261030",
+          "name": "De Brassery",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vlieland.net/nl/bedrijf/gestrand",
+      "domain": "vlieland.net",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "gestrand-vlieland-20261030",
+          "name": "Gestrand",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys",
+      "domain": "vlieland.site",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-t-praethuys-vlieland-20261030",
+          "name": "Eetcafé 't Praethuys",
           "roles": [
             "achtergrond"
           ],
@@ -22936,6 +23278,127 @@
       "needs_review": true
     },
     {
+      "url": "https://westcordhotels.nl/info/strandhotel-seeduyn/restaurants-bars/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-brassery-vlieland-20261030",
+          "name": "De Brassery",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        },
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 2,
+      "needs_review": true
+    },
+    {
+      "url": "https://westcordhotels.nl/restaurants/de-brassery/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-brassery-vlieland-20261030",
+          "name": "De Brassery",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://westcordhotels.nl/restaurants/praethuys/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-t-praethuys-vlieland-20261030",
+          "name": "Eetcafé 't Praethuys",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://westcordhotels.nl/restaurants/praethuys/menu/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-t-praethuys-vlieland-20261030",
+          "name": "Eetcafé 't Praethuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
       "domain": "westcordhotels.nl",
       "first_registered_on": "2026-10-30",
@@ -22960,6 +23423,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://westcordhotels.nl/te-doen-vlieland/",
+      "domain": "westcordhotels.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+          "name": "Strandpaviljoen 't Badhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -24129,6 +24616,10 @@
         "name": "Café Bok"
       },
       {
+        "id": "cafe-bruintje-vlieland-20261030",
+        "name": "Café Bruintje"
+      },
+      {
         "id": "cafe-d-oude-oost-grou-006c9f7",
         "name": "Café d'Oude Oost"
       },
@@ -24349,6 +24840,10 @@
         "name": "De Apotheek"
       },
       {
+        "id": "de-brassery-vlieland-20261030",
+        "name": "De Brassery"
+      },
+      {
         "id": "de-fantast-jirnsum-c4f5cbd",
         "name": "De Fantast"
       },
@@ -24383,6 +24878,10 @@
       {
         "id": "dito-bfdb022",
         "name": "Dito"
+      },
+      {
+        "id": "eetcafe-t-praethuys-vlieland-20261030",
+        "name": "Eetcafé 't Praethuys"
       },
       {
         "id": "eetcafe-t-roodhert-burgum-549ff10",
@@ -24733,6 +25232,10 @@
         "name": "Stoker Koffiebar"
       },
       {
+        "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+        "name": "Strandpaviljoen 't Badhuys"
+      },
+      {
         "id": "sumventure-flightbar-9f750e7",
         "name": "Sumventure Flightbar"
       },
@@ -24963,6 +25466,16 @@
         "reason": "Hollum, NIET Café Bok in Enkhuizen (https://cafebok.nl/ hoort bij Enkhuizen). https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687 registreert drinkgelegenheid op Johan Wilhelm Burgerstraat 3a, bijgewerkt februari 2026. OSM-afgeleide https://mapcarta.com/N2732928237 meldt 16:00–01:30, https://fr.restaurantguru.com/Cafe-Bok-Hollum-2 noemt dinsdag gesloten en 17:00–01:30, zondag 00:00; conflict. Geen bedrijfseigen website of rooster gevonden, alle tijden en laatste toegang onbekend."
       },
       {
+        "id": "cafe-boven-vlieland-20261030",
+        "name": "Café Boven",
+        "reason": "30-10-2026: eigen site vermeldt di–zo 21:00–01:00, maandag gesloten. Sportuitzendingen en activiteiten kunnen afwijkingen geven. Laatste toegang onbekend; ligging op verdieping boven Trattoria Oliva, geen duplicaat daarvan."
+      },
+      {
+        "id": "cafe-bruintje-vlieland-20261030",
+        "name": "Café Bruintje",
+        "reason": "30-10-2026: eigen cafépagina noemt dagelijks 12:00–22:00, maar officiële contactpagina noemt bijna het hele jaar woensdag–zondag. Geen zeker weekrooster overgenomen. Seizoensafwijking en laatste toegang onbekend."
+      },
+      {
         "id": "cafe-d-oude-oost-grou-006c9f7",
         "name": "Café d'Oude Oost",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -25150,7 +25663,7 @@
       {
         "id": "cafe-it-kin-net-bolsward-75feb60",
         "name": "Café It Kin Net",
-        "reason": "Alleen generieke horecagids op Bargefenne 11 gevonden; actuele exploitatie en eigen website niet aangetoond (controle 30-10-2026). Sluiting en laatste toegang onbekend; geen gidsuren overgenomen."
+        "reason": "30-10-2026 hercontrole Bargefenne 11: alleen Uitgaanskaart noemt It Kin Net. Compadex registreert De Tempelier (KvK 63007002, bijgewerkt 12-02-2026) op hetzelfde adres; AlleBiz markeert historische Café 't Café op hetzelfde adres als gesloten. Geen actuele eigen pagina of directe bevestiging van It Kin Net, en geen bewijs dat de drie namen gelijktijdig of als opvolgers actief zijn. Alle openingstijden, laatste toegang en huidige exploitant onbekend; niet als bevestigd tonen."
       },
       {
         "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
@@ -25273,6 +25786,11 @@
         "reason": "Eigen site 30-10-2026: do t/m za 16–02, zondag 12–22; groepsactiviteiten/privéfeesten ma–zo in overleg. Niet aannemen dat privéafspraken publieke inloop betekenen. Sociale gids https://www.findglocal.com/NL/Franeker/161149863941395/de-Bogt-fen-Gune geeft afwijkende do/vr/za-uren; eigen site gevolgd. Laatste toegang onbekend."
       },
       {
+        "id": "de-brassery-vlieland-20261030",
+        "name": "De Brassery",
+        "reason": "30-10-2026: dagelijks vanaf 10:00 bevestigd; lunch 11–17, diner 17–21:30 (vr/za 22:30) zijn maaltijduren, niet de barsluiting. Laagseizoenkeuken kan afwijken. Laatste toegang en bar-eindtijd onbekend."
+      },
+      {
         "id": "de-dikke-van-dale-leeuwarden-4b70da7",
         "name": "De Dikke van Dale",
         "reason": "Ma–wo 11–01, do/vr 11–03, za 10–03, zo 12–01. Keuken sluit dagelijks om 22:00, maar dat is niet de café-sluiting. Laatste toegang onbekend."
@@ -25351,6 +25869,11 @@
         "id": "de-welvaart-hollum-8afd4cb",
         "name": "De Welvaart",
         "reason": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend."
+      },
+      {
+        "id": "eetcafe-t-praethuys-vlieland-20261030",
+        "name": "Eetcafé 't Praethuys",
+        "reason": "30-10-2026: eigen WestCord-site noemt laagseizoen oktober–april zo–do 10–21, vr/za 10–22, hoogseizoen mei–september dagelijks 10–22. Wegens ontbreken seizoensfilter zijn eindtijden onbekend gehouden; zie bron voor seizoen. Eigen adres Dorpsstraat 61 (VVV noemt 59). Losse zaak naast ZeeVaert, geen duplicaat. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-t-roodhert-burgum-549ff10",
@@ -25456,6 +25979,11 @@
         "id": "fenix-sneek-kleine-kerkstraat-4c",
         "name": "Fenix Sneek",
         "reason": "Aangekondigd rooster op eigen site: wo/do 12:00–01:00, vr/za 12:00–04:00, zo 12:00–01:00; 1841.nl noemt zondag 12:00–04:00. Omdat verbouwing/heropening in juli 2026 nog voor november werd verwacht en geen actuele feitelijke opening is bevestigd, zijn opening en sluiting als onbekend opgeslagen. Controleer officiële openingsdatum en zondagverschil; geen laatste toegang bekend."
+      },
+      {
+        "id": "gestrand-vlieland-20261030",
+        "name": "Gestrand",
+        "reason": "30-10-2026: eigen website ma/do–zo 10:00–22:00, di/wo gesloten; Havenweg 3. Externe gidsen noemen afwijkende huisnummers 1/4 en dagelijkse uren, niet overgenomen. Laatste toegang onbekend; eigen menukaart bevestigt alcoholaanbod."
       },
       {
         "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
@@ -25756,6 +26284,11 @@
         "id": "stoker-koffiebar-joure-b54d49f",
         "name": "Stoker Koffiebar",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
+        "name": "Strandpaviljoen 't Badhuys",
+        "reason": "30-10-2026: WestCord vermeldt dagelijks vanaf 10:00; diner tot 21:30 (laag seizoen 20:30) betreft bediening/keuken en is geen bewezen barsluiting. VVV geeft Badweg 3, oudere gids Badweg 6: fysieke ingang en BAG-adres nog te controleren. Laatste toegang onbekend."
       },
       {
         "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
