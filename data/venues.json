@@ -21967,6 +21967,97 @@
         "https://eetgerust.nl/restaurant/eetcafe-black-horse-bv"
       ],
       "original_status": "Eigen site bevestigt actueel café, alcohol in arrangementen en dagrooster; geen harde vrijdag-/zaterdagsluiting of laatste toegang."
+    },
+    {
+      "id": "fire-cafe-restaurant-leeuwarden-20261030",
+      "name": "Fire Café-Restaurant",
+      "type": "Café / restaurant / borrel",
+      "address": "Nieuwestad 47",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële site en Visit Leeuwarden bevestigen vrij toegankelijk café/terras voor borrel zonder verplichte maaltijd.",
+      "alcohol": "Eigen menukaart-PDF bevestigt wijnkaart, bier en cocktails; recente Untappd-activiteit 18 oktober 2026 bevestigt lokaal bier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "08:30",
+        "zo": "08:30"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website vermeldt alleen dagelijks vanaf 08:30. Gidsen spreken elkaar tegen over sluiting; geen sluiting als zeker aangenomen.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://www.fire-cafe.nl/ bevestigt Nieuwestad 47 en dagelijks vanaf 08:30, geen einduren. Eigen menukaart https://www.fire-cafe.nl/wp-content/uploads/2025/01/menukaart-Fire-Cafe-Restaurant.pdf bevat wijn. https://www.restauplant.com/en/restaurant/fire-cafe noemt ma–wo/zo 23:00 en do–za 01:00, https://www.allebiz.nl/fire-cafe-058-213-9900 noemt 01:00/03:00, https://menukaart.menu/restaurants/leeuwarden-1/fire-cafe-2 noemt 00:00; onderling tegenstrijdig, dus geen vaste einduren. Laatste toegang onbekend.",
+      "features": "D0 Leeuwarden; historische brandweerkazerne, borrel en restaurant; sluiting onbekend",
+      "website": "https://www.fire-cafe.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.fire-cafe.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.visitleeuwarden.com/locaties/2240478421/fire-cafe-restaurant",
+        "https://www.fire-cafe.nl/wp-content/uploads/2025/01/menukaart-Fire-Cafe-Restaurant.pdf",
+        "https://untappd.com/v/fire-cafe/614452/beers",
+        "https://www.restauplant.com/en/restaurant/fire-cafe"
+      ],
+      "original_status": "Exploitant en lokale gids bevestigen actuele publieke borrel; alcohol eigen menukaart; geen betrouwbare actuele sluiting."
+    },
+    {
+      "id": "cafe-de-kantelaar-leeuwarden-20261030",
+      "name": "Café de Kantelaar",
+      "type": "Bruin café / danscafé",
+      "address": "Oude Doelesteeg 10",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt publieke dans- en muziekavonden, daarnaast besloten feesten op aanvraag; geen standaard ticketverplichting gevonden.",
+      "alcohol": "Exploitant-afkomstige berichten september 2026 bevestigen bier, binnenlandse sterke drank en mixdranken; eigen website biedt cocktailworkshops.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "04:30",
+        "vr": "04:30",
+        "za": "04:30",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen site noemt di–za 20:00–04:30, maar eigen septemberbericht zegt reguliere uitgaansavonden do–za en zo–wo voor events. Daarom di/wo onbekend, do–za 20:00–04:30, ma/zo geen reguliere vrije inloop.",
+      "closing_source": "https://dekantelaar.cafe/",
+      "closing_notes": "30-10-2026: https://dekantelaar.cafe/ geeft di–za 20:00–04:30, ma/zo dicht. Exploitant-afkomstige 02-09-2026 post op https://www.findglocal.com/NL/Leeuwarden/633707256771659/Caf%C3%A9-de-Kantelaar noemt do–za reguliere uitgaansdagen, zo–wo alleen evenementen. Di/wo daarom niet als zekere reguliere opening. https://www.visitleeuwarden.com/en/locations/1331144794/cafe-de-kantelaar bevestigt café/dansfunctie. Geen laatste toegang gepubliceerd; 22:00 start van een drankactie is geen algemene openingstijd.",
+      "features": "D0 Leeuwarden / Oude Doelesteeg; reguliere do–za, extra eventnachten mogelijk",
+      "website": "https://dekantelaar.cafe/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://dekantelaar.cafe/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.findglocal.com/NL/Leeuwarden/633707256771659/Caf%C3%A9-de-Kantelaar",
+        "https://www.visitleeuwarden.com/en/locations/1331144794/cafe-de-kantelaar",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-kantelaar-leeuwarden-64131572-000032984863"
+      ],
+      "original_status": "Actuele exploitatie en alcohol via eigen site/2026-exploitantberichten; di/wo roosterconflict expliciet onbekend gehouden."
     }
   ],
   "admission_policies": [
