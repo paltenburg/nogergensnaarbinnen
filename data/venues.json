@@ -14284,7 +14284,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -14294,13 +14294,14 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Gids markeert lijst gesloten, geen onafhankelijk bewijs van definitieve bedrijfsbeëindiging.",
+      "closing_source": "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet",
+      "closing_notes": "AlleBiz noemt 'deze lijst is gesloten' en toont historische uren; dat bewijst geen definitieve sluiting of opvolger. Geen actueel bedrijfseigen bewijs voor Eetcafé Lange Piet Langestreek 2. Uit actuele selectie tot hercontrole.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14308,6 +14309,16 @@
         "lon": 5.7100395,
         "method": "PDOK BAG-adres",
         "matched_address": "Langestreek 2, 8531HV Lemmer"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -14320,7 +14331,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -14330,13 +14341,14 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Alleen gidsvermelding, oude horecagroepwebsite niet bereikbaar.",
+      "closing_source": "https://www.allebiz.nl/the-british-pub-0514-561-856",
+      "closing_notes": "AlleBiz noemt Oudesluis 7 en horecabedrijventijsseling.nl; exploitantwebsite niet bereikbaar, geen actuele zelfstandige bevestiging van openstelling, geen weekrooster of laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://www.allebiz.nl/the-british-pub-0514-561-856"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14344,18 +14356,28 @@
         "lon": 5.7103455,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudesluis 7, 8531HS Lemmer"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
       "id": "restaurant-cafe-centrum-lemmer-c3d666a",
-      "name": "Restaurant Café Centrum",
+      "name": "Restaurant Centrum",
       "type": "Eetcafé",
       "address": "Markt 12",
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek restaurant/terras, ook voor losse borrel volgens lokale ondernemersgids.",
+      "alcohol": "Borrel volgens Lemmer Leeft; eigen drankenkaart nog na te kijken.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14366,13 +14388,16 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen eigen eindtijd; gidsen geven afwijkende sluiting.",
+      "closing_source": "https://www.centrumlemmer.nl/",
+      "closing_notes": "Eigen site toont dagelijks vanaf 11:00 op meeste pagina's, maar high-tea-pagina noemt 10:00. Lokale Lemmer Leeft noemt vanaf 11:00. Geen officiële eindtijd; AlleBiz 00/02 en Firmania 21:00 niet overgenomen. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.centrumlemmer.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://lemmer-leeft.nl/bedrijf/centrum",
+        "https://www.centrumlemmer.nl/high-tea/",
+        "https://www.allebiz.nl/restaurant-cafe-centrum-0514-561-360"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14380,7 +14405,22 @@
         "lon": 5.7113628,
         "method": "PDOK BAG-adres",
         "matched_address": "Markt 12, 8531EA Lemmer"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen site met adres Markt 12.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.centrumlemmer.nl/bij-de-koffie/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site noemt dagelijks 11:00; een andere eigen subpagina noemt 10:00, dus bronconflict; lokale ondernemersgids steunt 11:00."
     },
     {
       "id": "bar-cafe-populair-lemmer-415cf0f",
@@ -14438,13 +14478,16 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Bedrijfseigen site niet bereikbaar; onderling afwijkende gidsroosters.",
+      "closing_source": "https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743",
+      "closing_notes": "Cylex/AlleBiz 1: ma dicht, di 18–02, wo–vr 16–02, za/zo 14–02; andere AlleBiz-vermelding di/wo 17–01. Domein cafedelaatstestuiver.nl niet bereikbaar. Geen onbevestigde uren ingevuld.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://www.cylex.nl/bedrijf/stuiver-caf%C3%A9-de-laatste-10797282.html",
+        "https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743",
+        "https://www.allebiz.nl/cafe-de-laatste-stuiver-lemmer-06-46273848"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14452,6 +14495,16 @@
         "lon": 5.7116068,
         "method": "PDOK BAG-adres",
         "matched_address": "Schans 10, 8531DW Lemmer"
+      },
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -14498,25 +14551,27 @@
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek grand café aan het water, eigen site noemt spontaan langskomen.",
+      "alcohol": "Eigen site noemt High Wine en borrel; exacte actuele drankenkaart niet afzonderlijk gelezen.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "22:00",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officieel weekrooster.",
+      "closing_source": "https://eersteaanleg.com/contact/",
+      "closing_notes": "Eigen site: ma/do 15–22, di/wo dicht, vr/za 12–23, zo 12–22. Oudere gidsen geven afwijkende dagen en uren; eigen site gevolgd. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://eersteaanleg.com/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/lemmer"
+        "https://uitgaanskaart.nl/cafe/lemmer",
+        "https://eersteaanleg.com/contact/",
+        "https://www.allebiz.nl/eetcaf%C3%A9-de-eerste-aanleg-0514-560-300"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14524,7 +14579,21 @@
         "lon": 5.6819668,
         "method": "PDOK BAG-adres",
         "matched_address": "Plattedijk 20A, 8531PE Lemmer"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële site, naam/adres en weekrooster gecontroleerd.",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "15:00",
+        "di": "—",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://eersteaanleg.com/contact/",
+      "opening_checked_on": "2026-10-30"
     },
     {
       "id": "bar-suc-6-wolvega-a6e956e",
