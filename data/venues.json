@@ -20850,6 +20850,96 @@
         "https://www.cylex.nl/bedrijf/eten---drinken-le-coq-appelscha-13661547.html"
       ],
       "original_status": "Eigen site bevestigt bar met bier en publieke borrel; vaste uren ontbreken."
+    },
+    {
+      "id": "strandbar-thuishaven-makkum-20261030",
+      "name": "Strandbar Thuishaven",
+      "type": "Strandbar / restaurant / borrel",
+      "address": "De Skilbank 5",
+      "city": "Makkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt bezoekers uit spontaan binnen te lopen voor een borrel, ontbijt, lunch of diner; geen reservering voor gewone borrel vermeld.",
+      "alcohol": "Eigen arrangementenpagina noemt bier en wijn; officiële homepage beschrijft vrij toegankelijke borrel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen site publiceert dagelijks 10:00–22:00; laatste toegang niet vermeld.",
+      "closing_source": "https://www.strandbar-thuishaven.nl/",
+      "closing_notes": "30-10-2026: actuele exploitant vermeldt zeven dagen 10:00–22:00. Lunch tot 16:00 en diner vanaf 17:00 zijn serveertijden, niet aparte toegangstijden. Laatste toegang onbekend; mogelijke feestdag-/seizoensafwijkingen niet bevestigd.",
+      "features": "D0 Súdwest-Fryslân / Makkum; strandbar aan IJsselmeer",
+      "website": "https://www.strandbar-thuishaven.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://www.strandbar-thuishaven.nl/",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.strandbar-thuishaven.nl/menukaart",
+        "https://www.strandbar-thuishaven.nl/arrangementen",
+        "https://www.friesland.nl/de/orte/80238494/thuishaven"
+      ],
+      "original_status": "Officiële site bevestigt actuele openbare strandbar, adres, alcoholaanbod en dagrooster; uiterste toegang onbekend."
+    },
+    {
+      "id": "de-buurman-heerenveen-20261030",
+      "name": "De Buurman Bar & Grill",
+      "type": "Bar & grill / borrelcafé",
+      "address": "Achter de Kerk 18",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site biedt lunch, diner en borrel in publiek café; voor High Beer-arrangement geldt reservering, niet als algemene toegangsvoorwaarde overgenomen.",
+      "alcohol": "Eigen High Beer-pagina noemt tapbier en bierproeverij; eigen homepage noemt prosecco.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site noemt minimum-einduren (zo–wo minimaal 23:00, do minimaal 01:00, vr/za minimaal 02:00), geen exacte sluiting; daarom alle einduren onbekend.",
+      "closing_source": "",
+      "closing_notes": "30-10-2026: https://debuurman.com/contact geeft zo–wo 11:00 tot minimaal 23:00, do 11:00 tot minimaal 01:00, vr/za 11:00 tot minimaal 02:00. 'Minimaal' is geen vaste sluiting; alle closing-velden blijven ?. Keukenuren zijn niet als café-eindtijden overgenomen. Laatste toegang onbekend. Externe gidsen geven onderling afwijkende einduren.",
+      "features": "D0 Heerenveen; publiek café met bier en borrel",
+      "website": "https://debuurman.com/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening_source": "https://debuurman.com/contact",
+      "opening_checked_on": "2026-10-30",
+      "other_sources": [
+        "https://debuurman.com/menu-039-s/high-beer",
+        "https://debuurman.com/dinerbon",
+        "https://www.friesland.nl/nl/locaties/3712390677/de-buurman-1"
+      ],
+      "original_status": "Eigen website bevestigt actuele publieke horeca en alcohol; alleen beginuren exact, minimale einduren zijn geen sluitingstijden."
     }
   ],
   "admission_policies": [
