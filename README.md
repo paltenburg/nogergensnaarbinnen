@@ -4,11 +4,11 @@ Gratis, zelfstandige interactieve horecakaart. **Utrecht is de eerste regio**, m
 
 ## Vermelding van AI-inhoud
 
-**Alle teksten, beschrijvingen en samengestelde locatie-informatie op de website zijn met AI gegenereerd of verwerkt.** Het register is mede op externe bronnen gebaseerd, maar niet alle gegevens zijn onafhankelijk of actueel gecontroleerd. Controleer praktische informatie bij de betreffende locatie. Deze melding staat zichtbaar bij de filters en ook in de detailvensters op de kaart.
+**De locatie-informatie is deels met AI verzameld of verwerkt.** Niet alle bronnen en gegevens zijn onafhankelijk of actueel bevestigd. Controleer openingstijden en toegang rechtstreeks bij de exploitant. Dit is een documentatieverklaring; er wordt geen afzonderlijke AI-waarschuwingsbalk in de huidige kaartinterface getoond.
 
 ## Directe websitelinks en bronnen
 
-Per 26 oktober 2026 bevatten **143 van de 222** horecarecords een vastgelegde directe website-URL. Voor de overige 79 toont de website een expliciete zoeklink; zo'n zoeklink is geen geverifieerde website. De directe URL's, openings- en sluitingsbronnen, achtergrondlinks en eerdere onderzoeksnotities staan ook in het **[bronnenregister](data/source-register.md)**.
+De actuele aantallen locaties en vastgelegde officiële websites staan in [`data/venues.json`](data/venues.json); die veranderen doorlopend. Wanneer een officiële website ontbreekt, kan de interface een zoeklink tonen, maar die is **geen geverifieerde exploitantenwebsite**. Directe URL's, tijdsbronnen, achtergrondlinks en onderzoeksnotities staan ook in het automatisch afgeleide **[bronnenregister](data/source-register.md)**. Het ingecheckte bronregister kan tot de volgende onderhoudsrun achterlopen op de masterdatabase.
 
 **Bronnenregister automatisch bijgewerkt:** bij elke nieuwe databankpublicatie verzamelt `scripts/build_source_registry.py` alle beschikbare URL's, koppelt ze aan locaties en gebruiksdoel (website, openingstijden, sluitingstijden, laatste toegang, achtergrond), en bewaart de reeds genoteerde controledatums. De [machineleesbare versie](data/source-register.json) heeft bovendien een lijst met ontbrekende websites en onzekere tijden. Curated vindplaatsen voor nieuwe zaken omvatten Centrum Utrecht, Ontdek Utrecht, Uit Utrecht, Uitagenda en De Buik.
 
@@ -22,7 +22,7 @@ Per 26 oktober 2026 bevatten **143 van de 222** horecarecords een vastgelegde di
 
 Excel- en CSV-bestanden zijn uitsluitend historische momentopnames of eenzijdige exports van de JSON; ze zijn geen tweede beheerdatabank en mogen **nooit** de actuele JSON automatisch overschrijven. Het bronnenregister (`data/source-register.json` en `.md`) wordt automatisch uit de JSON en onderzoeksnotities afgeleid; het is geen onafhankelijke database. Feedbackmeldingen zijn een afzonderlijk logboek en wijzigen horecagegevens niet zonder controle.
 
-De **masterdatabase** is [`data/venues.json`](data/venues.json). Ze bevat aanvankelijk **195 locaties** uit het projectbestand *Utrecht_horeca_alcohol_sluitingstijden_2026-10-25.xlsx*, onderzocht op 25 oktober 2026. Inmiddels bevat de masterdatabase **222 locaties**, met aanvullend gevonden zaken en correcties sinds 25 oktober 2026. Bij een deel van de locaties zijn ook openingstijden en soms een tijdstip voor laatste toegang bekend, maar de data is niet uitputtend. Zonder actuele openingstijden én laatste-toegangstijden kan de app **geen 'nu open' of gegarandeerde binnenkomst** beloven.
+De **masterdatabase** is [`data/venues.json`](data/venues.json). Het project begon met een Utrechtse inventarisatie van **195 locaties** op 25 oktober 2026; daarna zijn Utrecht en heel Friesland verder onderzocht en uitgebreid. De actuele aantallen staan uitsluitend in de JSON en het [voortgangslog](TODO.md), niet in een handmatig bijgehouden README-telling. Veel openings-, sluitings- en laatste-toegangstijden blijven onbekend. De app kan **geen gegarandeerde binnenkomst** beloven.
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
@@ -32,7 +32,7 @@ De database onderscheidt nu expliciet **uiterste toegang** (`last_entry`) van **
 
 Het tijdsfilter gebruikt de vroegste grens: na de laatste toegang verdwijnt een zaak uit de resultaten, ook wanneer die nog niet gesloten is. Onbekende toegangstijden worden niet gegokt.
 
-Voor toekomstige regio's kunnen expliciet gekoppelde, gecontroleerde gemeentelijke toelatingsregels gebruikt worden. Voor **Sneek** is de 02:00-uiterste toegang / 04:00-maximale sluiting voor *natte nachthoreca* volgens APV Súdwest-Fryslân vastgelegd, maar deze regel wordt niet automatisch op alle cafés toegepast. Zie [datadefinitie, voorbeeldzaken en officiële bronnen](data/admission-rules.md). De bestaande locatiedatabase bevat momenteel nog geen Sneekse cafés.
+Voor toekomstige regio's kunnen expliciet gekoppelde, gecontroleerde gemeentelijke toelatingsregels gebruikt worden. Voor **Sneek** is de 02:00-uiterste toegang / 04:00-maximale sluiting voor *natte nachthoreca* volgens APV Súdwest-Fryslân vastgelegd, maar deze regel wordt niet automatisch op alle cafés toegepast. Zie [datadefinitie, voorbeeldzaken en officiële bronnen](data/admission-rules.md). Sneekse cafés zijn inmiddels individueel opgenomen; lokale regels zijn niet automatisch gelijk aan werkelijke sluitings- of laatste-toegangstijden.
 
 
 ## Uitbreiding: Friesland (29 oktober 2026)
@@ -41,7 +41,7 @@ De provinciale regio `friesland` omvat het **hele vasteland én de vier bewoonde
 
 Per nieuw record is de herkomst van naam/adres vastgelegd in `other_sources`; dit is een **gidsvermelding**, geen individueel bewijs dat de zaak momenteel open is. Voor de meeste Friese zaken staat `closing` op `?`, omdat een verifieerbaar weekrooster ontbreekt. Alleen expliciet gecontroleerde openings-/sluitingsroosters hebben `opening_source` / `closing_source` en een echte controledatum. De applicatie toont deze onbekenden bij een actief aankomsttijdfilter terecht niet als gegarandeerd open. De eerste import bevat tien gecontroleerde weekroosters. Een eventuele `last_entry` wordt pas gevuld wanneer de locatie of officiële bron die grens bevestigt; gemeentelijke normen zijn **geen** bedrijfstijden.
 
-De bestaande **wekelijkse Utrecht-horecadatabasecontrole** volgt vanaf deze uitbreiding ook Friesland, met een roulerende gemeente-/plaatsgerichte controle en speciale aandacht voor de eilanden. Prioriteit: (1) actuele status en duplicaten, (2) tijdroosters uit officiële bronnen, (3) uiterste toegang afzonderlijk van sluiting, (4) officiële website en precieze adressen, (5) ontbrekende plaatsen en locaties. De seedbronnen voor deze ronden staan in `scripts/build_source_registry.py` en verschijnen in het gegenereerde bronnenregister. Een generator verifieert websites niet zelfstandig.
+De **enige uurlijkse projectuitvoerder** verzorgt tevens de wekelijkse, geografisch roulerende broncontrole voor **alle actieve regio's uit de masterdatabase**, met aandacht voor kleine plaatsen en eilanden. Er is geen afzonderlijke schrijvende weektaak. Prioriteit: (1) actuele status en duplicaten, (2) tijdroosters uit officiële bronnen, (3) uiterste toegang afzonderlijk van sluiting, (4) officiële website en precieze adressen, (5) ontbrekende plaatsen en locaties. De seedbronnen voor deze ronden staan in `scripts/build_source_registry.py` en verschijnen in het gegenereerde bronnenregister. Een generator verifieert websites niet zelfstandig.
 
 ## Filter op aankomsttijd
 
