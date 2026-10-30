@@ -19312,7 +19312,13 @@
       },
       "opening_source": "https://dewarejakob.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4800362,
+        "lon": 6.163128,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Langestreek 46, 9166LD Schiermonnikoog"
+      }
     },
     {
       "id": "brasserie-brakzand-schiermonnikoog-20261030",
@@ -19360,7 +19366,13 @@
       },
       "opening_source": "https://www.brakzand.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.479813,
+        "lon": 6.1615123,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Langestreek 66, 9166LE Schiermonnikoog"
+      }
     },
     {
       "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
@@ -19406,7 +19418,13 @@
       },
       "opening_source": "https://www.wadanderz.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4704597,
+        "lon": 6.1666579,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Reeweg 25, 9166PW Schiermonnikoog"
+      }
     },
     {
       "id": "paviljoen-paal-3-schiermonnikoog-20261030",
@@ -19453,7 +19471,13 @@
       },
       "opening_source": "https://paal3schiermonnikoog.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4929589,
+        "lon": 6.145855,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Badweg 145, 9166NH Schiermonnikoog"
+      }
     }
   ],
   "admission_policies": [

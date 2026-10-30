@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 433,
-    "source_urls": 761,
-    "domains": 363,
-    "direct_website_fields": 255
+    "venues": 437,
+    "source_urls": 812,
+    "domains": 381,
+    "direct_website_fields": 267
   },
   "discovery_sites": [
     {
@@ -150,8 +150,8 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 31,
-      "linked_venues": 30
+      "source_pages": 33,
+      "linked_venues": 32
     },
     {
       "domain": "uitgaanskaart.nl",
@@ -170,28 +170,28 @@
     },
     {
       "domain": "cylex.nl",
-      "source_pages": 12,
-      "linked_venues": 12
+      "source_pages": 13,
+      "linked_venues": 13
     },
     {
       "domain": "visitleeuwarden.com",
+      "source_pages": 12,
+      "linked_venues": 11
+    },
+    {
+      "domain": "hfsfreelancers.nl",
       "source_pages": 11,
+      "linked_venues": 11
+    },
+    {
+      "domain": "compadex.com",
+      "source_pages": 10,
       "linked_venues": 10
     },
     {
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
-    },
-    {
-      "domain": "compadex.com",
-      "source_pages": 9,
-      "linked_venues": 9
-    },
-    {
-      "domain": "hfsfreelancers.nl",
-      "source_pages": 9,
-      "linked_venues": 9
     },
     {
       "domain": "visitwadden.nl",
@@ -207,6 +207,11 @@
       "domain": "uitutrecht.com",
       "source_pages": 8,
       "linked_venues": 132
+    },
+    {
+      "domain": "vvvschiermonnikoog.nl",
+      "source_pages": 8,
+      "linked_venues": 8
     },
     {
       "domain": "vvvterschelling.nl",
@@ -249,19 +254,34 @@
       "linked_venues": 5
     },
     {
+      "domain": "oozo.nl",
+      "source_pages": 5,
+      "linked_venues": 3
+    },
+    {
+      "domain": "uitagenda.nl",
+      "source_pages": 5,
+      "linked_venues": 76
+    },
+    {
+      "domain": "brakzand.nl",
+      "source_pages": 4,
+      "linked_venues": 1
+    },
+    {
       "domain": "hotelvanderwerff.nl",
       "source_pages": 4,
       "linked_venues": 1
     },
     {
-      "domain": "oozo.nl",
-      "source_pages": 4,
-      "linked_venues": 2
-    },
-    {
       "domain": "poolcafebigben.nl",
       "source_pages": 4,
       "linked_venues": 1
+    },
+    {
+      "domain": "restaurantguru.com",
+      "source_pages": 4,
+      "linked_venues": 4
     },
     {
       "domain": "sneek.nl",
@@ -274,22 +294,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "uitagenda.nl",
-      "source_pages": 4,
-      "linked_venues": 75
-    },
-    {
       "domain": "verseuitjes.nl",
       "source_pages": 4,
       "linked_venues": 4
     },
     {
       "domain": "vlieland.net",
-      "source_pages": 4,
-      "linked_venues": 4
-    },
-    {
-      "domain": "vvvschiermonnikoog.nl",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -309,6 +319,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "bistroworkum.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "centrumlemmer.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -317,6 +332,11 @@
       "domain": "companyinfo.nl",
       "source_pages": 3,
       "linked_venues": 3
+    },
+    {
+      "domain": "deheerenvanheeres.nl",
+      "source_pages": 3,
+      "linked_venues": 1
     },
     {
       "domain": "dekerijfbar.nl",
@@ -332,6 +352,11 @@
       "domain": "dokkum.nl",
       "source_pages": 3,
       "linked_venues": 2
+    },
+    {
+      "domain": "eetcafedegondel.nl",
+      "source_pages": 3,
+      "linked_venues": 1
     },
     {
       "domain": "eetcafenooitgedagt.nl",
@@ -364,14 +389,14 @@
       "linked_venues": 3
     },
     {
-      "domain": "restaurantguru.com",
-      "source_pages": 3,
-      "linked_venues": 3
-    },
-    {
       "domain": "sjoerd-ameland.nl",
       "source_pages": 3,
       "linked_venues": 1
+    },
+    {
+      "domain": "workum.nl",
+      "source_pages": 3,
+      "linked_venues": 2
     },
     {
       "domain": "amicaalgrou.nl",
@@ -390,6 +415,11 @@
     },
     {
       "domain": "blauwekater.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafebardewelp.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -454,6 +484,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "de.restaurantguru.com",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "de4dames.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -485,6 +520,11 @@
     },
     {
       "domain": "dewaeghdokkum.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dewarejakob.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -534,7 +574,17 @@
       "linked_venues": 2
     },
     {
+      "domain": "fr.restaurantguru.com",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "gestrandvlieland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "grandcafejan.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -609,6 +659,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "krommeknilles.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "landhuisindestad.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -657,6 +712,11 @@
       "domain": "ondernemendsneek.nl",
       "source_pages": 2,
       "linked_venues": 2
+    },
+    {
+      "domain": "oostergoo.nl",
+      "source_pages": 2,
+      "linked_venues": 1
     },
     {
       "domain": "overuwbuurt.nl",
@@ -779,6 +839,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "tripadvisor.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "veerhuys-bolsward.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -799,17 +864,17 @@
       "linked_venues": 2
     },
     {
+      "domain": "wadanderz.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "waze.com",
       "source_pages": 2,
       "linked_venues": 2
     },
     {
       "domain": "wijnbarvinvin.nl",
-      "source_pages": 2,
-      "linked_venues": 1
-    },
-    {
-      "domain": "workum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -949,6 +1014,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "brouwerij84.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafe-olivier.be",
       "source_pages": 1,
       "linked_venues": 1
@@ -960,6 +1030,11 @@
     },
     {
       "domain": "cafebak.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafebardewelp.eatbu.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1159,11 +1234,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "de.restaurantguru.com",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "deamelander.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1345,11 +1415,6 @@
     },
     {
       "domain": "florinutrecht.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "fr.restaurantguru.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1614,6 +1679,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "omgevingsalert.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "ontdek-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1659,6 +1729,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "paal3schiermonnikoog.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "paloma-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1685,6 +1760,11 @@
     },
     {
       "domain": "preview.restaurantconcours.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "pub84.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1760,6 +1840,11 @@
     },
     {
       "domain": "stathe.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "stiekmtrots.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1844,12 +1929,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "tripadvisor.de",
+      "domain": "tripadvisor.co.uk",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
-      "domain": "tripadvisor.nl",
+      "domain": "tripadvisor.de",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1915,6 +2000,11 @@
     },
     {
       "domain": "vvvameland.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vvvschiermonnikoog.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2295,6 +2385,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-welp-0566-601-541",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+          "name": "Café Bar De Welp",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -2307,6 +2421,30 @@
         {
           "id": "cafe-de-zomer-west-terschelling-54c8f87",
           "name": "Café de Zomer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-doude-oost-0566-621-309",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-d-oude-oost-grou-006c9f7",
+          "name": "Café d'Oude Oost",
           "roles": [
             "achtergrond"
           ],
@@ -3938,6 +4076,86 @@
       "needs_review": false
     },
     {
+      "url": "https://www.bistroworkum.nl/",
+      "domain": "bistroworkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "bistro-workum-workum-e121155",
+          "name": "Bistro Workum",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.bistroworkum.nl/menukaarten",
+      "domain": "bistroworkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bistro-workum-workum-e121155",
+          "name": "Bistro Workum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.bistroworkum.nl/reserveren",
+      "domain": "bistroworkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bistro-workum-workum-e121155",
+          "name": "Bistro Workum",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.biton.nl/",
       "domain": "biton.nl",
       "first_registered_on": "2026-10-29",
@@ -4237,6 +4455,110 @@
       "needs_review": true
     },
     {
+      "url": "https://www.brakzand.nl/",
+      "domain": "brakzand.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "brasserie-brakzand-schiermonnikoog-20261030",
+          "name": "Brasserie Brakzand",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.brakzand.nl/contact/",
+      "domain": "brakzand.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "brasserie-brakzand-schiermonnikoog-20261030",
+          "name": "Brasserie Brakzand",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.brakzand.nl/eten-drinken/",
+      "domain": "brakzand.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "brasserie-brakzand-schiermonnikoog-20261030",
+          "name": "Brasserie Brakzand",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.brakzand.nl/wp-content/uploads/2026/07/Dinerkaart-Brakzand-juli-2026.pdf",
+      "domain": "brakzand.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "brasserie-brakzand-schiermonnikoog-20261030",
+          "name": "Brasserie Brakzand",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://brisa.nl/",
       "domain": "brisa.nl",
       "first_registered_on": "2026-10-26",
@@ -4325,6 +4647,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.brouwerij84.nl/",
+      "domain": "brouwerij84.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "pub-84-wolvega-dda02b5",
+          "name": "Pub '84",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cafe-olivier.be/nl/locaties/utrecht/",
       "domain": "cafe-olivier.be",
       "first_registered_on": "2026-10-26",
@@ -4406,6 +4752,80 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafebardewelp.eatbu.com/?lang=nl",
+      "domain": "cafebardewelp.eatbu.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+          "name": "Café Bar De Welp",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cafebardewelp.nl/",
+      "domain": "cafebardewelp.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+          "name": "Café Bar De Welp",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cafebardewelp.nl/informatie",
+      "domain": "cafebardewelp.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
+          "name": "Café Bar De Welp",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -7828,6 +8248,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/cafe-spoarsicht-01050294-10502610",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-spoarsicht-workum-cbd3e82",
+          "name": "Café Spoarsicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/cafe-t-diekje-01041308-01886924",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -8128,6 +8572,30 @@
         {
           "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
           "name": "Café-Bar 't Hoekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-de-babbel-10788892.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-babbel-wolvega-be5a7b9",
+          "name": "Café De Babbel",
           "roles": [
             "achtergrond"
           ],
@@ -8494,6 +8962,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://de.restaurantguru.com/pub-and-bar-Wolvega-t2",
+      "domain": "de.restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-suc-6-wolvega-a6e956e",
+          "name": "Bar Suc 6",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.de4dames.nl/",
@@ -9127,6 +9619,86 @@
       "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://deheerenvanheeres.nl/",
+      "domain": "deheerenvanheeres.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-heeren-van-heeres-workum-20eccd7",
+          "name": "De Heeren van Heeres",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://deheerenvanheeres.nl/cafe/",
+      "domain": "deheerenvanheeres.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-heeren-van-heeres-workum-20eccd7",
+          "name": "De Heeren van Heeres",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://deheerenvanheeres.nl/over-ons/",
+      "domain": "deheerenvanheeres.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-heeren-van-heeres-workum-20eccd7",
+          "name": "De Heeren van Heeres",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://dehelling.nl/",
@@ -9814,6 +10386,64 @@
       "needs_review": false
     },
     {
+      "url": "https://dewarejakob.nl/",
+      "domain": "dewarejakob.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-ware-jakob-schiermonnikoog-20261030",
+          "name": "De Ware Jakob",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dewarejakob.nl/homepage/menukaart/",
+      "domain": "dewarejakob.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-ware-jakob-schiermonnikoog-20261030",
+          "name": "De Ware Jakob",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dewelvaartameland.nl/",
       "domain": "dewelvaartameland.nl",
       "first_registered_on": "2026-10-30",
@@ -10277,6 +10907,86 @@
         {
           "id": "eetcafe-de-dammesaan-midsland-448a367",
           "name": "Eetcafé de Dammesaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafedegondel.nl/",
+      "domain": "eetcafedegondel.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+          "name": "Eetcafé De Gondel",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafedegondel.nl/buffetten",
+      "domain": "eetcafedegondel.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+          "name": "Eetcafé De Gondel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafedegondel.nl/contact",
+      "domain": "eetcafedegondel.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
+          "name": "Eetcafé De Gondel",
           "roles": [
             "achtergrond"
           ],
@@ -11195,6 +11905,30 @@
       "needs_review": true
     },
     {
+      "url": "https://fr.restaurantguru.com/Cafe-De-Babbel-Wolvega",
+      "domain": "fr.restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-babbel-wolvega-be5a7b9",
+          "name": "Café De Babbel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.franeker.frl/bezoeken/151348/de-bogt-fen-gune/",
       "domain": "franeker.frl",
       "first_registered_on": "2026-10-30",
@@ -11856,6 +12590,63 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.grandcafejan.nl/",
+      "domain": "grandcafejan.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-jan-wergea-08f70f7",
+          "name": "Grand Café JAN!",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.grandcafejan.nl/contact",
+      "domain": "grandcafejan.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-jan-wergea-08f70f7",
+          "name": "Grand Café JAN!",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12964,6 +13755,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.hfsfreelancers.nl/locaties/wolvega/bars/bar-suc6",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-suc-6-wolvega-a6e956e",
+          "name": "Bar Suc 6",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/locaties/wolvega/bars/de-babbel-2736393874",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-babbel-wolvega-be5a7b9",
+          "name": "Café De Babbel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hofman-utrecht.nl/cafe-utrecht",
       "domain": "hofman-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -13862,6 +14701,62 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://krommeknilles.nl/",
+      "domain": "krommeknilles.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+          "name": "Eetcafé Kromme Knilles",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://krommeknilles.nl/index.php/contact-pagina/",
+      "domain": "krommeknilles.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
+          "name": "Eetcafé Kromme Knilles",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://landhuisindestad.nl/",
@@ -15016,6 +15911,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.omgevingsalert.nl/meldingen/8616490-verleende-terrasvergunning-voor-grootcafe-de-treemter-aan-de-doorbraak-1-9001-al-grou-ter-2026-036027",
+      "domain": "omgevingsalert.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "treemter-grou-dbe48b6",
+          "name": "Grootcafé Treemter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje",
       "domain": "ondernemendsneek.nl",
       "first_registered_on": "2026-10-29",
@@ -15785,6 +16704,59 @@
       "needs_review": true
     },
     {
+      "url": "https://oostergoo.nl/",
+      "domain": "oostergoo.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-d-oude-oost-grou-006c9f7",
+          "name": "Café d'Oude Oost",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://oostergoo.nl/vieren-en-vergaderen/",
+      "domain": "oostergoo.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-d-oude-oost-grou-006c9f7",
+          "name": "Café d'Oude Oost",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.oozo.nl/bedrijfspanden/sudwest-fryslan/sneek/sneek-binnen-de-grachten/40078/horecagelegenheid-prins-hendrikkade-18-sneek",
       "domain": "oozo.nl",
       "first_registered_on": "2026-10-29",
@@ -15797,6 +16769,30 @@
         {
           "id": "grand-cafe-het-plein-sneek-b93134f",
           "name": "Grand Café Het Plein",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.oozo.nl/bedrijven/leeuwarden/grou-e-o/grou/3771625/de-treemter-b-v",
+      "domain": "oozo.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "treemter-grou-dbe48b6",
+          "name": "Grootcafé Treemter",
           "roles": [
             "achtergrond"
           ],
@@ -16165,6 +17161,38 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://paal3schiermonnikoog.nl/",
+      "domain": "paal3schiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+          "name": "Paviljoen Paal 3",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16674,6 +17702,38 @@
       "needs_review": false
     },
     {
+      "url": "https://www.pub84.nl/",
+      "domain": "pub84.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "pub-84-wolvega-dda02b5",
+          "name": "Pub '84",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.puuroost-utrecht.nl/",
       "domain": "puuroost-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -17105,6 +18165,30 @@
         {
           "id": "eetcafe-de-lachende-koe-sneek-267ea95",
           "name": "Eetcafé De Lachende Koe",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://restaurantguru.com/Pub84-Wolvega",
+      "domain": "restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "pub-84-wolvega-dda02b5",
+          "name": "Pub '84",
           "roles": [
             "achtergrond"
           ],
@@ -18232,6 +19316,30 @@
       "needs_review": true
     },
     {
+      "url": "https://stiekmtrots.nl/info/pub-84",
+      "domain": "stiekmtrots.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "pub-84-wolvega-dda02b5",
+          "name": "Pub '84",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://stokerkoffiebar.nl/",
       "domain": "stokerkoffiebar.nl",
       "first_registered_on": "2026-10-30",
@@ -19075,6 +20183,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g3646687-d34432526-Reviews-Grootcafe_Treemter-Grou_Friesland_Province.html",
+      "domain": "tripadvisor.co.uk",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "treemter-grou-dbe48b6",
+          "name": "Grootcafé Treemter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.tripadvisor.de/Restaurant_Review-g952018-d14072059-Reviews-Pizzeria_de_Branding-Buren_Ameland_Friesland_Province.html",
       "domain": "tripadvisor.de",
       "first_registered_on": "2026-10-30",
@@ -19121,6 +20253,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.tripadvisor.nl/Restaurant_Review-g652206-d12629574-Reviews-Paviljoen_Paal_3-Schiermonnikoog_Friesland_Province.html",
+      "domain": "tripadvisor.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+          "name": "Paviljoen Paal 3",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://ubicautrecht.nl/reserveren",
@@ -19886,6 +21042,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.uitagenda.nl/locaties/grootcafe-treemter",
+      "domain": "uitagenda.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "treemter-grou-dbe48b6",
+          "name": "Grootcafé Treemter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://uitgaanskaart.nl/cafe/akkrum",
       "domain": "uitgaanskaart.nl",
       "first_registered_on": "2026-10-29",
@@ -20263,7 +21443,7 @@
         },
         {
           "id": "grand-cafe-jan-wergea-08f70f7",
-          "name": "Grand Café Jan",
+          "name": "Grand Café JAN!",
           "roles": [
             "achtergrond"
           ],
@@ -20272,7 +21452,7 @@
         },
         {
           "id": "treemter-grou-dbe48b6",
-          "name": "Treemter",
+          "name": "Grootcafé Treemter",
           "roles": [
             "achtergrond"
           ],
@@ -24064,6 +25244,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.visitleeuwarden.com/de/Standorte/2955624759/Grand-Cafe-Jan",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-jan-wergea-08f70f7",
+          "name": "Grand Café JAN!",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
       "domain": "visitleeuwarden.com",
       "first_registered_on": "2026-10-30",
@@ -24712,6 +25916,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.vvvschiermonnikoog.com/food-and-drinks/locations-near-the-sea/paviljoen-paal-3",
+      "domain": "vvvschiermonnikoog.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+          "name": "Paviljoen Paal 3",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/het-oude-boothuis",
       "domain": "vvvschiermonnikoog.nl",
       "first_registered_on": "2026-10-30",
@@ -24784,6 +26012,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+          "name": "Paviljoen Paal 3",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/strandpaviljoen-marlijn",
       "domain": "vvvschiermonnikoog.nl",
       "first_registered_on": "2026-10-30",
@@ -24796,6 +26048,78 @@
         {
           "id": "de-marlijn-schiermonnikoog-20261030",
           "name": "Strandpaviljoen De Marlijn",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/wad-anderz",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
+          "name": "Havenpaviljoen Wad Anderz",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-ware-jakob-schiermonnikoog-20261030",
+          "name": "De Ware Jakob",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants/brasserie-brakzand",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "brasserie-brakzand-schiermonnikoog-20261030",
+          "name": "Brasserie Brakzand",
           "roles": [
             "achtergrond"
           ],
@@ -25000,6 +26324,62 @@
         {
           "id": "oka-18-west-terschelling-34ccd0e",
           "name": "Danscafé OKA 18",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.wadanderz.nl/",
+      "domain": "wadanderz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
+          "name": "Havenpaviljoen Wad Anderz",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.wadanderz.nl/wp-content/uploads/2026/04/Wad-Anderz-Drankenkaart-2026.pdf",
+      "domain": "wadanderz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
+          "name": "Havenpaviljoen Wad Anderz",
           "roles": [
             "achtergrond"
           ],
@@ -25705,6 +27085,30 @@
       "needs_review": true
     },
     {
+      "url": "https://workum.nl/en/activity/cafe-spoarsicht/",
+      "domain": "workum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-spoarsicht-workum-cbd3e82",
+          "name": "Café Spoarsicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://workum.nl/frl/aktiviteit/restaurant-de-smidte/",
       "domain": "workum.nl",
       "first_registered_on": "2026-10-30",
@@ -25860,10 +27264,6 @@
         "name": "Beatrix Theater (Royal Bar)"
       },
       {
-        "id": "bistro-workum-workum-e121155",
-        "name": "Bistro Workum"
-      },
-      {
         "id": "bruin-cafe-licorne-bakhuizen-841e786",
         "name": "Bruin Café Licorne"
       },
@@ -25896,16 +27296,8 @@
         "name": "Café 't Syltsje"
       },
       {
-        "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
-        "name": "Café Bar De Welp"
-      },
-      {
         "id": "cafe-bok-hollum-f23e5ba",
         "name": "Café Bok"
-      },
-      {
-        "id": "cafe-d-oude-oost-grou-006c9f7",
-        "name": "Café d'Oude Oost"
       },
       {
         "id": "cafe-de-achtertuin-61a6f9a",
@@ -26108,10 +27500,6 @@
         "name": "De Freonskip"
       },
       {
-        "id": "de-heeren-van-heeres-workum-20eccd7",
-        "name": "De Heeren van Heeres"
-      },
-      {
         "id": "de-held-van-63-lemmer-de72104",
         "name": "De Held van 63"
       },
@@ -26160,10 +27548,6 @@
         "name": "Eetcafé de Dammesaan"
       },
       {
-        "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
-        "name": "Eetcafé De Gondel"
-      },
-      {
         "id": "eetcafe-de-lachende-koe-sneek-267ea95",
         "name": "Eetcafé De Lachende Koe"
       },
@@ -26174,10 +27558,6 @@
       {
         "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
         "name": "Eetcafé De Smalle Kant"
-      },
-      {
-        "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
-        "name": "Eetcafé Kromme Knilles"
       },
       {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
@@ -26240,16 +27620,16 @@
         "name": "Grand Café It Skippershûs"
       },
       {
-        "id": "grand-cafe-jan-wergea-08f70f7",
-        "name": "Grand Café Jan"
-      },
-      {
         "id": "grand-cafe-kade-stavoren-1996c93",
         "name": "Grand Café Kade"
       },
       {
         "id": "grieks-cafe-athene-59104e7",
         "name": "Grieks café Athene"
+      },
+      {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Grootcafé Treemter"
       },
       {
         "id": "harbour-pub-harlingen-7da020c",
@@ -26380,10 +27760,6 @@
         "name": "Pjay"
       },
       {
-        "id": "pub-84-wolvega-dda02b5",
-        "name": "Pub '84"
-      },
-      {
         "id": "pub-de-steeg-holwert-910e0a2",
         "name": "Pub De Steeg"
       },
@@ -26462,10 +27838,6 @@
       {
         "id": "trapop-058033a",
         "name": "Trapop"
-      },
-      {
-        "id": "treemter-grou-dbe48b6",
-        "name": "Treemter"
       },
       {
         "id": "tripleclub-dbaf6ca",
@@ -26596,6 +27968,10 @@
       {
         "id": "boot-122-45b992e",
         "name": "Boot 122"
+      },
+      {
+        "id": "brasserie-brakzand-schiermonnikoog-20261030",
+        "name": "Brasserie Brakzand"
       },
       {
         "id": "broadway-american-steakhouse-20261026",
@@ -26890,10 +28266,6 @@
         "name": "De Freonskip"
       },
       {
-        "id": "de-heeren-van-heeres-workum-20eccd7",
-        "name": "De Heeren van Heeres"
-      },
-      {
         "id": "de-held-van-63-lemmer-de72104",
         "name": "De Held van 63"
       },
@@ -26912,6 +28284,10 @@
       {
         "id": "de-toeter-leeuwarden-f8ed332",
         "name": "De Toeter"
+      },
+      {
+        "id": "de-ware-jakob-schiermonnikoog-20261030",
+        "name": "De Ware Jakob"
       },
       {
         "id": "de-4-dames-schiermonnikoog-20261030",
@@ -26946,20 +28322,12 @@
         "name": "Eetcafé de Dammesaan"
       },
       {
-        "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
-        "name": "Eetcafé De Gondel"
-      },
-      {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
         "name": "Eetcafé De Pleats"
       },
       {
         "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
         "name": "Eetcafé De Smalle Kant"
-      },
-      {
-        "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
-        "name": "Eetcafé Kromme Knilles"
       },
       {
         "id": "eetcafe-nooitgedagt-harlingen-49e8985",
@@ -27042,10 +28410,6 @@
         "name": "Grand Café It Skippershûs"
       },
       {
-        "id": "grand-cafe-jan-wergea-08f70f7",
-        "name": "Grand Café Jan"
-      },
-      {
         "id": "grand-cafe-kade-stavoren-1996c93",
         "name": "Grand Café Kade"
       },
@@ -27062,8 +28426,16 @@
         "name": "Grieks café Athene"
       },
       {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Grootcafé Treemter"
+      },
+      {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub"
+      },
+      {
+        "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
+        "name": "Havenpaviljoen Wad Anderz"
       },
       {
         "id": "hcr-teernstra-balk-83c5930",
@@ -27194,6 +28566,10 @@
         "name": "Papi’s Comfort Kitchen"
       },
       {
+        "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+        "name": "Paviljoen Paal 3"
+      },
+      {
         "id": "pjay-ec4ee67",
         "name": "Pjay"
       },
@@ -27302,10 +28678,6 @@
         "name": "Trapop"
       },
       {
-        "id": "treemter-grou-dbe48b6",
-        "name": "Treemter"
-      },
-      {
         "id": "tripleclub-dbaf6ca",
         "name": "Tripleclub"
       },
@@ -27391,7 +28763,7 @@
       {
         "id": "bar-suc-6-wolvega-a6e956e",
         "name": "Bar Suc 6",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "HFS geeft Van Harenstraat 36 en noemt muziekavonden, maar geen controleerbaar bedrijfseigen weekrooster; globale vanaf-19:00-indicatie niet overgenomen. RestaurantGuru toont geen betrouwbare exacte uren. Actuele exploitatie en laatste toegang nog rechtstreeks bevestigen."
       },
       {
         "id": "bar-sybs-leeuwarden-71570c8",
@@ -27406,12 +28778,17 @@
       {
         "id": "bistro-workum-workum-e121155",
         "name": "Bistro Workum",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen homepage en reserveringspagina: ma–wo gesloten, do–zo vanaf 11:00; eigen menukaartpagina noemt woensdag ook vanaf 11:00. Woensdag daarom onbekend. '11:00 - Sluit' is geen exact einduur; laatste toegang onbekend. Nieuwsbericht 28-10-2026 op eigen site bevestigt recente activiteit."
       },
       {
         "id": "blend-bolsward-20261030",
         "name": "Blend Bolsward",
         "reason": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen."
+      },
+      {
+        "id": "brasserie-brakzand-schiermonnikoog-20261030",
+        "name": "Brasserie Brakzand",
+        "reason": "Eigen site bevestigt borrelfunctie, maar geen actueel weekrooster of sluiting/laatste toegang. Oudere VVV-advertentie meldt dagelijks ontbijt/lunch/diner zonder exacte uren; niet als actueel caféschema aangenomen."
       },
       {
         "id": "brisa-f2ab931",
@@ -27491,7 +28868,7 @@
       {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
         "name": "Café Bar De Welp",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen bestelwebsite geeft ma–wo gesloten, do–zo 17–20:30; dit kunnen bestel-/afhaaltijden zijn en is geen bewezen bar-sluiting. Tweede eigen eatbu-pagina noemt do–zo circa 17:30–19:30, AlleBiz tot 01/03. Daarom geen begin-/eindtijden als bevestigd caféschema overgenomen. Laatste toegang onbekend; feitelijke horecavorm verder verifiëren."
       },
       {
         "id": "cafe-bleeker-heerenveen-84c5dae",
@@ -27514,14 +28891,9 @@
         "reason": "30-10-2026: eigen cafépagina noemt dagelijks 12:00–22:00, maar officiële contactpagina noemt bijna het hele jaar woensdag–zondag. Geen zeker weekrooster overgenomen. Seizoensafwijking en laatste toegang onbekend."
       },
       {
-        "id": "cafe-d-oude-oost-grou-006c9f7",
-        "name": "Café d'Oude Oost",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-de-babbel-wolvega-be5a7b9",
         "name": "Café De Babbel",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Cylex bijgewerkt 26-08-2026 vermeldt meestal 11–01 en vr/za tot 03; RestaurantGuru vermeldt sterk afwijkende daguren en HFS onwaarschijnlijke 00:00–00:00. Eigen actuele weekuren niet gevonden; geen gidsuren overgenomen, laatste toegang onbekend. Cylex koppelt schaatsmuseum.nl, geen bewijs dat dit de eigen website van het café is."
       },
       {
         "id": "cafe-de-blauwe-kater-heerenveen-394d2fc",
@@ -27751,7 +29123,7 @@
       {
         "id": "cafe-spoarsicht-workum-cbd3e82",
         "name": "Café Spoarsicht",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Workum.nl bevestigt naam/adres en caféconcept, Compadex vermeldt KvK-registratie bijgewerkt februari 2026. Gelinkte eigen website spoarsichtworkum.nl geeft 502; geen betrouwbaar bedrijfseigen weekrooster of laatste toegang gevonden."
       },
       {
         "id": "cafe-sportlust-houtigehage-5fee14e",
@@ -27846,7 +29218,7 @@
       {
         "id": "de-heeren-van-heeres-workum-20eccd7",
         "name": "De Heeren van Heeres",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen homepage/cafépagina: donderdag gesloten; eigen over-ons-pagina: donderdag 17–22. Daarom donderdag onbekend. Vrijdag/zaterdag 17–01, zondag 17–22, ma–wo dicht. Eigen site zegt na 21:00 barfunctie; laatste toegang onbekend."
       },
       {
         "id": "de-held-van-63-lemmer-de72104",
@@ -27899,6 +29271,11 @@
         "reason": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen."
       },
       {
+        "id": "de-ware-jakob-schiermonnikoog-20261030",
+        "name": "De Ware Jakob",
+        "reason": "Eigen site noemt dagelijks open: ma–do vanaf 16:00, vr–zo vanaf 14:00; einduren/laatste toegang niet gepubliceerd. Gidsen (o.a. OSM/AlleBiz) spreken elkaar tegen. Alleen bedrijfseigen begintijden overgenomen."
+      },
+      {
         "id": "de-welvaart-hollum-8afd4cb",
         "name": "De Welvaart",
         "reason": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend."
@@ -27946,7 +29323,7 @@
       {
         "id": "eetcafe-de-gondel-aldeboarn-07ac5e0",
         "name": "Eetcafé De Gondel",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: wo/do 16–24 en vr–zo 11–24. Maandag en dinsdag niet vermeld: onbekend, niet als gesloten aangenomen. Geen laatste toegang. Eigen site schrijft Doelhòf 3, BAG-geocode Doelhôf 3; adresvariant bewaard."
       },
       {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
@@ -27961,7 +29338,7 @@
       {
         "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
         "name": "Eetcafé Kromme Knilles",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen homepage noemt ma/di 16–22, wo dicht, do 11–22, vr/za 11–00, zo 11–22. Contactpagina noemt 12–16 lunch en 17–21 diner, geen afzonderlijk caférooster; homepage met expliciete weekuren gevolgd. Laatste toegang onbekend."
       },
       {
         "id": "eetcafe-nooitgedagt-harlingen-49e8985",
@@ -28065,8 +29442,8 @@
       },
       {
         "id": "grand-cafe-jan-wergea-08f70f7",
-        "name": "Grand Café Jan",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "Grand Café JAN!",
+        "reason": "Eigen site: wo–vr 16–23, za/zo 12–00. Ma/di ontbreken in eigen rooster en blijven onbekend; externe gidsen noemen afwijkende maandag-/weekuren, niet overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-kade-stavoren-1996c93",
@@ -28094,9 +29471,19 @@
         "reason": "Dagelijks vanaf 10:00, keuken tot 20:30. VVV https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/ geeft dagelijks 21:30 als sluiting; officiële site noemt alleen opening en keukenuren. Exacte sluiting en laatste toegang daarom onbekend."
       },
       {
+        "id": "treemter-grou-dbe48b6",
+        "name": "Grootcafé Treemter",
+        "reason": "2026 terrasvergunning Gemeente Leeuwarden (bekendgemaakt 26-05-2026) voor Grootcafé de Treemter, Doorbraak 1, ondersteunt exploitatie maar niet feitelijke openingsuren. Eigen domein treemter.nl niet bereikbaar; externe gidsen verschillen sterk: do–za 20/21–02:30/03:30 versus di–zo variabel. Geen vaste weekuren/laatste toegang aangenomen. Onderscheid publiek toegankelijke avonden en besloten zaalhuur verder onderzoeken."
+      },
+      {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "havenpaviljoen-wad-anderz-schiermonnikoog-20261030",
+        "name": "Havenpaviljoen Wad Anderz",
+        "reason": "Eigen website op 30-10-2026: vanaf 26 oktober wo–zo vanaf 10:30, ma/di gesloten. Herfstvakantie 10–25 oktober dagelijks, kerstvakantie 19 december–3 januari afwijkend, 25 december gesloten; 28 december evenement. Geen jaarrond vaste tijden opgeslagen. Exacte eindtijd en laatste toegang onbekend; historische VVV-publicaties noemen Reeweg 27, actuele exploitant en VVV Reeweg 25."
       },
       {
         "id": "hcr-teernstra-balk-83c5930",
@@ -28241,7 +29628,7 @@
       {
         "id": "pub-84-wolvega-dda02b5",
         "name": "Pub '84",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: maandag vanaf 20:00, dinsdag en do–zo vanaf 16:00, woensdag gesloten. RestaurantGuru noemt maandag gesloten en dinsdag 18:00; primaire bron gevolgd, maar bij bezoek vooraf controleren. Geen eigen einduren/laatste toegang gepubliceerd."
       },
       {
         "id": "pub-de-steeg-holwert-910e0a2",
@@ -28382,11 +29769,6 @@
         "id": "tox-bar-schiermonnikoog-09b0f73",
         "name": "Tox Bar",
         "reason": "Eigen site: geen toegang tot dancing na 02:00; onder 16 jaar tot 23:30. Discotheek uitsluitend weekenden/vakanties of op aanvraag; niet als generieke laatste toegang van het café opgeslagen. VVV meldt laagseizoen ma–do vanaf 16:00 versus eigen dagelijks 12:00; seizoensconflict. Keuken sluit 21:00, geen café-eindtijd. Exacte sluiting onbekend."
-      },
-      {
-        "id": "treemter-grou-dbe48b6",
-        "name": "Treemter",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "vandestreek-proeflokaal-590917b",
