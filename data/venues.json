@@ -20023,6 +20023,48 @@
         "matched_address": "Badweg 145, 9166NH Schiermonnikoog"
       },
       "geocode_notes": "PDOK/BAG exacte adresmatch Badweg 145, 9166NH Schiermonnikoog (standplaats); VVV-pagina vermeldt afwijkend 9166RS, en Tripadvisor 9166NK. BAG-afgeleid https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004 bevestigt 9166NH. Marker is BAG-adres/standplaats, fysieke positie van tijdelijk strandpaviljoen niet met terreinmeting bevestigd."
+    },
+    {
+      "id": "paviljoen-de-leyen-rottevalle-da3fd25",
+      "name": "Paviljoen De Leyen",
+      "type": "Paviljoen / restaurant met borrel",
+      "address": "Bildreed 3",
+      "city": "Rottevalle",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant bevestigt publieke lunch, diner en gezellig borrelen; voor besloten groepen ook reservering mogelijk.",
+      "alcohol": "Eigen website bevestigt borrels; eerdere officiële menupagina noemt cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële tijdelijke homepage 30-10-2026; nieuwe exploitant sinds juni, weekrooster",
+      "closing_source": "https://www.deleyen.nl/",
+      "closing_notes": "Officiële tijdelijke homepage 30-10-2026: ma/di gesloten (groepen op aanvraag), wo–zo 10–22. Nieuwe exploitant meldt dat oude website tijdelijk offline is; oude subpagina's kunnen verouderde seizoensuren bevatten. Officiële oudere contact-/menupagina noemt Bildreed 3, regionale VVV noemt Bildreed 4; exacte ingang en BAG-geocode nader verifiëren, dus geen marker gegokt. Laatste toegang onbekend.",
+      "features": "Friesland; D0 gerichte Smallingerland-ontdekking; Rottevalle; nieuwe exploitatie sinds juni 2026",
+      "website": "https://www.deleyen.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.deleyen.nl/menukaart",
+        "https://www.zuidoostfriesland.nl/alle-locaties/1879477548/paviljoen-de-leyen"
+      ],
+      "original_status": "Exploitant bevestigt actieve publieke horeca en nieuwe exploitatie op 30-10-2026; adresconflict 3 versus 4 blijft open."
     }
   ],
   "admission_policies": [
