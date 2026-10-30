@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 437,
-    "source_urls": 812,
-    "domains": 381,
-    "direct_website_fields": 267
+    "source_urls": 835,
+    "domains": 389,
+    "direct_website_fields": 273
   },
   "discovery_sites": [
     {
@@ -150,8 +150,8 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 33,
-      "linked_venues": 32
+      "source_pages": 34,
+      "linked_venues": 33
     },
     {
       "domain": "uitgaanskaart.nl",
@@ -165,13 +165,18 @@
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 16,
-      "linked_venues": 16
+      "source_pages": 17,
+      "linked_venues": 17
     },
     {
       "domain": "cylex.nl",
-      "source_pages": 13,
-      "linked_venues": 13
+      "source_pages": 14,
+      "linked_venues": 14
+    },
+    {
+      "domain": "compadex.com",
+      "source_pages": 12,
+      "linked_venues": 12
     },
     {
       "domain": "visitleeuwarden.com",
@@ -184,17 +189,17 @@
       "linked_venues": 11
     },
     {
-      "domain": "compadex.com",
-      "source_pages": 10,
-      "linked_venues": 10
-    },
-    {
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
     },
     {
       "domain": "visitwadden.nl",
+      "source_pages": 9,
+      "linked_venues": 8
+    },
+    {
+      "domain": "waterlandvanfriesland.nl",
       "source_pages": 9,
       "linked_venues": 8
     },
@@ -217,11 +222,6 @@
       "domain": "vvvterschelling.nl",
       "source_pages": 8,
       "linked_venues": 8
-    },
-    {
-      "domain": "waterlandvanfriesland.nl",
-      "source_pages": 8,
-      "linked_venues": 7
     },
     {
       "domain": "vind-open.nl",
@@ -267,6 +267,11 @@
       "domain": "brakzand.nl",
       "source_pages": 4,
       "linked_venues": 1
+    },
+    {
+      "domain": "companyinfo.nl",
+      "source_pages": 4,
+      "linked_venues": 4
     },
     {
       "domain": "hotelvanderwerff.nl",
@@ -329,11 +334,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "companyinfo.nl",
-      "source_pages": 3,
-      "linked_venues": 3
-    },
-    {
       "domain": "deheerenvanheeres.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -360,6 +360,11 @@
     },
     {
       "domain": "eetcafenooitgedagt.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "eetcafespoorzicht.nl",
       "source_pages": 3,
       "linked_venues": 1
     },
@@ -459,12 +464,22 @@
       "linked_venues": 1
     },
     {
+      "domain": "caferomano.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafethert.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
     {
       "domain": "cafetilt.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafetsyltsje.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -530,6 +545,11 @@
     },
     {
       "domain": "dewelvaartameland.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dezwaan-makkum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -609,6 +629,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "het-menu.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "hetnoorderke.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -624,6 +649,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "hotelteernstra.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "insolence-restaurant.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -635,6 +665,11 @@
     },
     {
       "domain": "joure.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "kadastralekaart.com",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -1489,11 +1524,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "het-menu.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "hetoudetolhuys.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1539,11 +1569,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "kadastralekaart.com",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "kafebelgie.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1565,6 +1590,11 @@
     },
     {
       "domain": "kleinberlijn.de",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "kuilart.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1819,6 +1849,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "skippershus.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "snookerpoolcentrum.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1835,6 +1870,11 @@
     },
     {
       "domain": "stadsbrouwerijroodnoot.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "stagemarkt.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2617,6 +2657,30 @@
         {
           "id": "cafe-t-singeltje-sneek-2a92fa4",
           "name": "Café 't Singeltje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-t-syltsje-0514-581-718",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syltsje-bakhuizen-319434c",
+          "name": "Café 't Syltsje",
           "roles": [
             "achtergrond"
           ],
@@ -6007,6 +6071,63 @@
       "needs_review": false
     },
     {
+      "url": "https://www.caferomano.nl/",
+      "domain": "caferomano.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-romano-makkum-9aa61f4",
+          "name": "Café Romano",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.caferomano.nl/contact",
+      "domain": "caferomano.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-romano-makkum-9aa61f4",
+          "name": "Café Romano",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://cafetantedoor.nl/",
       "domain": "cafetantedoor.nl",
       "first_registered_on": "2026-10-26",
@@ -6179,6 +6300,56 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cafetsyltsje.nl/",
+      "domain": "cafetsyltsje.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syltsje-bakhuizen-319434c",
+          "name": "Café 't Syltsje",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cafetsyltsje.nl/index.php/contact",
+      "domain": "cafetsyltsje.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syltsje-bakhuizen-319434c",
+          "name": "Café 't Syltsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -8200,6 +8371,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/bruin-cafe-licorne-51926547-41298233",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bruin-cafe-licorne-bakhuizen-841e786",
+          "name": "Bruin Café Licorne",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -8284,6 +8479,30 @@
         {
           "id": "cafe-t-diekje-bolsward-89f46bb",
           "name": "Café 't Diekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.compadex.com/nl/businesses/nl/cafe-t-syltsje-01114620-03217469",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-syltsje-bakhuizen-319434c",
+          "name": "Café 't Syltsje",
           "roles": [
             "achtergrond"
           ],
@@ -8416,6 +8635,30 @@
       "needs_review": true
     },
     {
+      "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/bruin-cafe-licorne-bakhuizen-51926547-000041298233",
+      "domain": "companyinfo.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bruin-cafe-licorne-bakhuizen-841e786",
+          "name": "Bruin Café Licorne",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-stam-joure-b-v-joure-90105648-000003078442",
       "domain": "companyinfo.nl",
       "first_registered_on": "2026-10-30",
@@ -8524,6 +8767,30 @@
         {
           "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
           "name": "Bar Dancing De Ponderosa",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/borrel--en-feestcaf%C3%A9-het-swaentje-13206561.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "feestcafe-het-swaentje-balk-f467edc",
+          "name": "Feestcafé Het Swaentje",
           "roles": [
             "achtergrond"
           ],
@@ -10585,6 +10852,62 @@
       "needs_review": true
     },
     {
+      "url": "https://www.dezwaan-makkum.nl/",
+      "domain": "dezwaan-makkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+          "name": "Café Restaurant De Zwaan",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.dezwaan-makkum.nl/MENU-KAART/",
+      "domain": "dezwaan-makkum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+          "name": "Café Restaurant De Zwaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.discover-utrecht.com/location/ping-pong-club/",
       "domain": "discover-utrecht.com",
       "first_registered_on": "2026-10-26",
@@ -11237,6 +11560,86 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafespoorzicht.nl/",
+      "domain": "eetcafespoorzicht.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-spoorzicht-koudum-aa73210",
+          "name": "Eetcafé Spoorzicht",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafespoorzicht.nl/borrelen/",
+      "domain": "eetcafespoorzicht.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-spoorzicht-koudum-aa73210",
+          "name": "Eetcafé Spoorzicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://eetcafespoorzicht.nl/menukaart/",
+      "domain": "eetcafespoorzicht.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-spoorzicht-koudum-aa73210",
+          "name": "Eetcafé Spoorzicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -12216,6 +12619,30 @@
         {
           "id": "kb-food-drinks-dokkum-b461630",
           "name": "KB Food & Drinks",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.friesland.nl/nl/locaties/3167867968/cafe-romano",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-romano-makkum-9aa61f4",
+          "name": "Café Romano",
           "roles": [
             "achtergrond"
           ],
@@ -13262,6 +13689,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.het-menu.nl/balk/restaurant/borrel_en_feestcafe_het_swaentje",
+      "domain": "het-menu.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "feestcafe-het-swaentje-balk-f467edc",
+          "name": "Feestcafé Het Swaentje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.het-menu.nl/buren/restaurant/de_huyskamer/menukaart",
       "domain": "het-menu.nl",
       "first_registered_on": "2026-10-30",
@@ -13889,6 +14340,62 @@
       "needs_review": true
     },
     {
+      "url": "https://hotelteernstra.nl/",
+      "domain": "hotelteernstra.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "hcr-teernstra-balk-83c5930",
+          "name": "HCR Teernstra",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hotelteernstra.nl/",
+      "domain": "hotelteernstra.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hcr-teernstra-balk-83c5930",
+          "name": "HCR Teernstra",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hotelvanderwerff.nl/",
       "domain": "hotelvanderwerff.nl",
       "first_registered_on": "2026-10-30",
@@ -14322,6 +14829,30 @@
       "needs_review": false
     },
     {
+      "url": "https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004",
+      "domain": "kadastralekaart.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "paviljoen-paal-3-schiermonnikoog-20261030",
+          "name": "Paviljoen Paal 3",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://kadastralekaart.com/adres/sneek-kleinzand-1/1900200000314225",
       "domain": "kadastralekaart.com",
       "first_registered_on": "2026-10-29",
@@ -14747,6 +15278,30 @@
         {
           "id": "eetcafe-kromme-knilles-akkrum-6c30e91",
           "name": "Eetcafé Kromme Knilles",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.kuilart.nl/en/facilities/skipperhus/",
+      "domain": "kuilart.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+          "name": "Grand Café It Skippershûs",
           "roles": [
             "achtergrond"
           ],
@@ -18795,6 +19350,32 @@
       "needs_review": true
     },
     {
+      "url": "https://www.skippershus.nl/",
+      "domain": "skippershus.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-it-skippershus-koudum-04a6af3",
+          "name": "Grand Café It Skippershûs",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.sneek.nl/zien-doen/aan-de-gracht",
       "domain": "sneek.nl",
       "first_registered_on": "2026-10-29",
@@ -19176,6 +19757,30 @@
       "last_data_field_checked_on": "2026-10-25",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://stagemarkt.nl/leerbedrijven/hcr-teernstra_80291a5b-0c05-43ed-b0f7-a98c45070909",
+      "domain": "stagemarkt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hcr-teernstra-balk-83c5930",
+          "name": "HCR Teernstra",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.stathe.nl/",
@@ -26591,6 +27196,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.waterlandvanfriesland.nl/nl/locaties/3261114621/cafe-restaurant-de-zwaan",
+      "domain": "waterlandvanfriesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
+          "name": "Café Restaurant De Zwaan",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.waterlandvanfriesland.nl/nl/locaties/4107148747/spot-langweer",
       "domain": "waterlandvanfriesland.nl",
       "first_registered_on": "2026-10-29",
@@ -27292,10 +27921,6 @@
         "name": "Café 't Syl"
       },
       {
-        "id": "cafe-t-syltsje-bakhuizen-319434c",
-        "name": "Café 't Syltsje"
-      },
-      {
         "id": "cafe-bok-hollum-f23e5ba",
         "name": "Café Bok"
       },
@@ -27440,14 +28065,6 @@
         "name": "Café Restaurant De Watersport"
       },
       {
-        "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
-        "name": "Café Restaurant De Zwaan"
-      },
-      {
-        "id": "cafe-romano-makkum-9aa61f4",
-        "name": "Café Romano"
-      },
-      {
         "id": "cafe-spoarsicht-workum-cbd3e82",
         "name": "Café Spoarsicht"
       },
@@ -27560,10 +28177,6 @@
         "name": "Eetcafé De Smalle Kant"
       },
       {
-        "id": "eetcafe-spoorzicht-koudum-aa73210",
-        "name": "Eetcafé Spoorzicht"
-      },
-      {
         "id": "eetcafe-tante-sjuul-heeg-fcc6b05",
         "name": "Eetcafé Tante Sjuul"
       },
@@ -27616,10 +28229,6 @@
         "name": "Grand Café Het Plein"
       },
       {
-        "id": "grand-cafe-it-skippershus-koudum-04a6af3",
-        "name": "Grand Café It Skippershûs"
-      },
-      {
         "id": "grand-cafe-kade-stavoren-1996c93",
         "name": "Grand Café Kade"
       },
@@ -27634,10 +28243,6 @@
       {
         "id": "harbour-pub-harlingen-7da020c",
         "name": "Harbour Pub"
-      },
-      {
-        "id": "hcr-teernstra-balk-83c5930",
-        "name": "HCR Teernstra"
       },
       {
         "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
@@ -28208,10 +28813,6 @@
       {
         "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
         "name": "Café Restaurant De Zwaan"
-      },
-      {
-        "id": "cafe-romano-makkum-9aa61f4",
-        "name": "Café Romano"
       },
       {
         "id": "cafe-spoarsicht-workum-cbd3e82",
@@ -28803,7 +29404,7 @@
       {
         "id": "bruin-cafe-licorne-bakhuizen-841e786",
         "name": "Bruin Café Licorne",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Compadex/Company.info registreren Bruin café Licorne in april/maart 2026 op Sint Odulphusstraat 35, maar vermelden autoservice-hiemstra.nl als website; dat is geen bevestigd caférooster of bewijs van actuele vrije inloop. Geen officiële openingstijden, laatste toegang of bedrijfswebsite vastgesteld. Uit actuele selectie tot bevestiging."
       },
       {
         "id": "cafe-t-bildt-st-annaparochie-d31a7cb",
@@ -28843,7 +29444,7 @@
       {
         "id": "cafe-t-syltsje-bakhuizen-319434c",
         "name": "Café 't Syltsje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website bevestigt Café 't Syltsje Havenstraat 51 en eigenaren René/Jackelien, maar geeft geen betrouwbaar weekrooster; rechtstreeks openen gaf 502. AlleBiz/het-menu noemen ma/di dicht, wo/do 18:30–00, vr 17–00, za/zo 16–00; geen officiële bevestiging, dus tijden onbekend. Laatste toegang onbekend."
       },
       {
         "id": "cafe-t-waldmantsje-drachten-acaeeab",
@@ -29113,12 +29714,12 @@
       {
         "id": "cafe-restaurant-de-zwaan-makkum-8865caf",
         "name": "Café Restaurant De Zwaan",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen homepage zegt enerzijds 'dagelijks 10:00–00:00', elders zo–wo 10–23 en do–za 10–01. Menupagina herhaalt laatste gedetailleerde rooster; exacte cafésluiting wegens eigen bronconflict niet als zeker opgeslagen. Begin 10:00 is consistent. Externe gidsen geven weer andere dagen; laatste toegang onbekend."
       },
       {
         "id": "cafe-romano-makkum-9aa61f4",
         "name": "Café Romano",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen contactpagina noemt café dagelijks 12–02. Pizzeria la Piccola in hetzelfde pand heeft afzonderlijk do–zo 17–21:30 en winterbezorging; die keukenuren zijn niet als cafésluiting gebruikt. Laatste toegang onbekend."
       },
       {
         "id": "cafe-spoarsicht-workum-cbd3e82",
@@ -29353,7 +29954,7 @@
       {
         "id": "eetcafe-spoorzicht-koudum-aa73210",
         "name": "Eetcafé Spoorzicht",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site: wo–vr vanaf 16:00, za/zo vanaf 12:00; ma/di niet expliciet vermeld. Berichten over sluiting 14/15 oktober en afwijkende 26 september zijn uitzonderingen, geen weekrooster. Laatste toegang en echte einduren onbekend."
       },
       {
         "id": "eetcafe-storm-west-terschelling-3a5bf1d",
@@ -29388,7 +29989,7 @@
       {
         "id": "feestcafe-het-swaentje-balk-f467edc",
         "name": "Feestcafé Het Swaentje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Cylex (bijgewerkt 18-08-2026) geeft di/do 19–22, vr 15–22, za 19–22, zo 17:30–22, ma/wo dicht. Het-menu geeft afwijkend di dicht, do 19–01, vr 15–01, za 19–03, zo 19–01. Geen bereikbare actuele exploitantwebsite of laatste toegang; weekuren onbekend gehouden."
       },
       {
         "id": "fenix-sneek-kleine-kerkstraat-4c",
@@ -29438,7 +30039,7 @@
       {
         "id": "grand-cafe-it-skippershus-koudum-04a6af3",
         "name": "Grand Café It Skippershûs",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen skippershus.nl noemt ma–vr 15–22, za gesloten, zo 12–22. Eigen vakantiepark https://www.kuilart.nl/en/facilities/skipperhus/ zegt dagelijks open 1 april–herfstvakantie, daarbuiten do–ma. Op 30 oktober is seizoenswisseling; tegenstrijdige zaterdag-/dinsdag-/woensdaginformatie en mogelijk aangepaste roosters. Geen jaarrond tijden/laatste toegang als zeker ingevoerd. Geo matched_address 'De Kuilart 1-1' versus officieel adres 'De Kuilart 1': BAG-suffixverschil exact hercontroleren vóór markerclaim."
       },
       {
         "id": "grand-cafe-jan-wergea-08f70f7",
@@ -29488,7 +30089,7 @@
       {
         "id": "hcr-teernstra-balk-83c5930",
         "name": "HCR Teernstra",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site noemt dagelijks vanaf 10:00 en vrije inloop, maar geen werkelijke cafésluiting of laatste toegang. Externe 24-uursvermelding is hotelopenstelling, niet cafésluiting."
       },
       {
         "id": "herberg-de-gekroonde-leeuw-arum-a5e5df6",
