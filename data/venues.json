@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_data_review": "2026-10-29",
+  "last_data_review": "2026-10-30",
   "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Openingstijden ontbreken. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
@@ -9741,33 +9741,51 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publieke Irish pub voor bier, eten en live muziek; geen toegangsbeperking op officiële site aangetroffen.",
+      "alcohol": "Eigen website noemt Ierse bieren en pint aan de bar.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële homepage 30-10-2026; contact- en reserveringspagina geven ma/di een andere starttijd (12:00), zie bronconflict.",
+      "closing_source": "https://paddyoryan.frl/",
+      "closing_notes": "Officiële homepage: ma/di 16–01, wo/do/zo 12–01, vr/za 12–02. Eigen contact-/reserveringspagina vermeldt afwijkend ma/di 12–01; homepage als primaire huidige bron gekozen. Laatste toegang niet vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://paddyoryan.frl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://paddyoryan.frl/",
+        "https://paddyoryan.frl/contact/",
+        "https://paddyoryan.frl/reservation/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website met actuele bedrijfsinformatie en weekrooster gecontroleerd op 2026-10-30; geen live beschikbaarheidsgarantie.",
       "geo": {
         "lat": 53.2008932,
         "lon": 5.8002297,
         "method": "PDOK BAG-adres",
         "matched_address": "Tweebaksmarkt 49, 8911KW Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-30; naam, locatie en horeca-aanbod bevestigd via https://paddyoryan.frl/.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://paddyoryan.frl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officiële homepage 30-10-2026; contact- en reserveringspagina geven ma/di een andere starttijd (12:00), zie bronconflict.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
@@ -9985,33 +10003,49 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Officiële site noemt borrel en cocktailbar; bezoekers kunnen binnenlopen zonder expliciete maaltijdverplichting.",
+      "alcohol": "Eigen website heeft afzonderlijke rubrieken Borrel en Cocktailbar.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen contactpagina 30-10-2026: maandag gesloten, dinsdag t/m zondag 16:00–23:00.",
+      "closing_source": "https://eetcafespinoza.nl/contact/",
+      "closing_notes": "Eigen website: keuken 16:00–20:30; horecazaak tot 23:00. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://eetcafespinoza.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://eetcafespinoza.nl/contact/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website met actuele bedrijfsinformatie en weekrooster gecontroleerd op 2026-10-30; geen live beschikbaarheidsgarantie.",
       "geo": {
         "lat": 53.2026362,
         "lon": 5.7970733,
         "method": "PDOK BAG-adres",
         "matched_address": "Eewal 50, 8911GT Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-30; naam, locatie en horeca-aanbod bevestigd via https://eetcafespinoza.nl/contact/.",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://eetcafespinoza.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen contactpagina 30-10-2026: maandag gesloten, dinsdag t/m zondag 16:00–23:00.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "swing-poolcafe-big-ben-leeuwarden-3e0041e",
@@ -10021,33 +10055,51 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek pool-, biljart- en dartcafé; ook alleen aan de bar een drankje mogelijk volgens eigen site.",
+      "alcohol": "Eigen site bevestigt café/bar en drankservice; specifiek alcoholassortiment niet afzonderlijk uit menukaart geverifieerd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële contactpagina 30-10-2026, consistent met eigen evenementenpagina.",
+      "closing_source": "https://www.poolcafebigben.nl/contact/",
+      "closing_notes": "Ma–wo/zo 14–01, do–za 14–03 volgens eigen website. Geen laatste toegang gepubliceerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.poolcafebigben.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.poolcafebigben.nl/contact/",
+        "https://www.poolcafebigben.nl/evenementen/",
+        "https://www.poolcafebigben.nl/over-big-ben/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website met actuele bedrijfsinformatie en weekrooster gecontroleerd op 2026-10-30; geen live beschikbaarheidsgarantie.",
       "geo": {
         "lat": 53.2014543,
         "lon": 5.7949423,
         "method": "PDOK BAG-adres",
         "matched_address": "Weerd 9, 8911HL Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-30; naam, locatie en horeca-aanbod bevestigd via https://www.poolcafebigben.nl/contact/.",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.poolcafebigben.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officiële contactpagina 30-10-2026, consistent met eigen evenementenpagina.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
@@ -10489,33 +10541,50 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website verwelkomt ook bezoekers voor alleen een borrel.",
+      "alcohol": "Eigen site bevestigt meer dan 100 speciaalbieren, wijnen en gin-tonics.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële website 30-10-2026, volledig weekrooster met expliciete begin- en eindtijden.",
+      "closing_source": "https://www.dedikkevandale.nl/",
+      "closing_notes": "Ma–wo 11–01, do/vr 11–03, za 10–03, zo 12–01. Keuken sluit dagelijks om 22:00, maar dat is niet de café-sluiting. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.dedikkevandale.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
+        "https://uitgaanskaart.nl/cafe/leeuwarden",
+        "https://www.dedikkevandale.nl/",
+        "https://www.dedikkevandale.nl/contact"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website met actuele bedrijfsinformatie en weekrooster gecontroleerd op 2026-10-30; geen live beschikbaarheidsgarantie.",
       "geo": {
         "lat": 53.2012499,
         "lon": 5.7929806,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwestad 69, 8911CK Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-30; naam, locatie en horeca-aanbod bevestigd via https://www.dedikkevandale.nl/.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.dedikkevandale.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Officiële website 30-10-2026, volledig weekrooster met expliciete begin- en eindtijden.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "het-wapen-van-leeuwarden-leeuwarden-cfdbbfd",
