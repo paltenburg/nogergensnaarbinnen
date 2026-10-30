@@ -963,9 +963,9 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
-      "selection": "Voorlopig",
+      "access": "Alleen aangekondigde opening in september 2026; feitelijke publieke exploitatie op 31 oktober nog niet bevestigd.",
+      "alcohol": "Aankondiging van een bar, geen actuele bedrijfseigen drankkaart of feitelijke verkoop bevestigd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -975,16 +975,19 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
+      "closing_quality": "Geen actuele reguliere opening of sluiting bevestigd; niet als open tonen.",
       "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open (14-09-2026) zet Bar Pleur expliciet onder 'Binnenkort open' op Kanaalweg 30. Geen onafhankelijke actuele openingsbevestiging of eigen site gevonden. Op dit adres is Café Keet in oktober 2026 aantoonbaar actief volgens https://www.cafekeet.nl/ en https://kanaal30.mom/. Andere OSM-afgeleide gids https://nuactueel.nl/utrecht/uit-eten noemt Bar Pleur op Kanaalweg 50: ADRESCONFLICT, niet stilzwijgend overschrijven of als tweede bar op Kanaalweg 30 aannemen. Geen vaste tijden; selectie Nog te controleren.",
       "features": "Aangekondigd in september; opening niet bevestigd",
       "website": "",
       "other_sources": [
-        "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open"
+        "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
+        "https://www.cafekeet.nl/",
+        "https://kanaal30.mom/",
+        "https://nuactueel.nl/utrecht/uit-eten"
       ],
-      "original_status": "Aangekondigd; opening niet bevestigd",
+      "original_status": "Aangekondigd, maar feitelijke exploitatie en exact adres niet bevestigd op 31-10-2026.",
       "geo": {
         "lat": 52.0719708,
         "lon": 5.1096777,
@@ -2710,8 +2713,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen website bevestigt vrije inloop voor koffie, lunch, borrel en zondagse muziek; ook bezoekers buiten Kanaal30 welkom.",
+      "alcohol": "Eigen https://www.cafekeet.nl/ vermeldt expliciet bier en wijn voor consumptie binnen en buiten.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "18:00",
@@ -2724,12 +2727,14 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.cafekeet.nl/",
-      "checked_on": "2026-10-26",
-      "closing_notes": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: https://www.cafekeet.nl/ vermeldt ma–vr 09:00–18:00, za gesloten, zondag vanaf 13:00 zonder eigen einduur. De exploitant van het gebouw https://kanaal30.mom/ geeft zondag 13:00–18:00. Zondag 18:00 daarom op basis van gebouwexploitant, niet alleen cafésite. Bier en wijn op eigen site expliciet. Bar Pleur is een afzonderlijke onbevestigde aankondiging op hetzelfde adres.",
       "features": "Kanaalweg",
       "website": "https://www.cafekeet.nl/",
       "other_sources": [
-        "https://www.uitagenda.nl/index.php/utrecht"
+        "https://www.uitagenda.nl/index.php/utrecht",
+        "https://kanaal30.mom/",
+        "https://www.spottedbylocals.com/utrecht/cafe-keet/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -2738,7 +2743,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Kanaalweg 30, 3526KM Utrecht"
       },
-      "website_checked_on": "2026-10-26",
+      "website_checked_on": "2026-10-31",
       "website_provenance": "venue's own website; name, Utrecht location, and address checked",
       "opening": {
         "ma": "09:00",
@@ -2750,7 +2755,7 @@
         "zo": "13:00"
       },
       "opening_source": "https://www.cafekeet.nl/",
-      "opening_checked_on": "2026-10-26"
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "cafe-lijn-4-2439c07",
