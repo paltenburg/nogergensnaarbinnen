@@ -23050,11 +23050,11 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen site nodigt uit voor losse caféborrel, terras en muziekavonden; zaalverhuur is een afzonderlijke functie.",
-      "alcohol": "Eigen caféomschrijving biedt borrel/drankjes; café en barfunctie bevestigd, geen afzonderlijke online alcoholkaart uitgelezen.",
+      "alcohol": "Eigen site bevestigt borrel; lokale berichtgeving over café-activiteit noemt expliciet koud bier (10-12-2023). Geen actuele eigen bierkaart uitgelezen.",
       "selection": "Voorlopig",
       "opening": {
-        "ma": "—",
-        "di": "—",
+        "ma": "?",
+        "di": "?",
         "wo": "16:00",
         "do": "17:00",
         "vr": "16:00",
@@ -23062,17 +23062,17 @@
         "zo": "16:00"
       },
       "closing": {
-        "ma": "—",
-        "di": "—",
+        "ma": "?",
+        "di": "?",
         "wo": "00:00",
         "do": "00:00",
         "vr": "00:00",
         "za": "00:00",
         "zo": "00:00"
       },
-      "closing_quality": "Officiële eigen website: wo 16–00, do 17–00, vr–zo 16–00; ma/di buiten zomer gesloten, in zomer mogelijk afwijkend.",
+      "closing_quality": "Officiële website: wo 16–00, do 17–00, vr–zo 16–00. Ma/di buiten zomerseizoen gesloten, maar zomeruren niet gepubliceerd; daarom geen vaste jaarroosterstatus.",
       "closing_source": "https://www.cafehetwapenvanfriesland.nl/openingstijden",
-      "closing_notes": "30-10-2026: https://www.cafehetwapenvanfriesland.nl/ en https://www.cafehetwapenvanfriesland.nl/openingstijden bevestigen café, Gaastweg 1, 8521 JA Sint Nicolaasga, openbare borrel, wo 16–00, do 17–00, vr–zo 16–00. Exploitant zegt ma/di BUITEN zomerseizoen gesloten; omdat het 30 oktober is en geen datummodel beschikbaar is, ma/di als momenteel gesloten opgenomen maar seizoenswaarschuwing vastgelegd. Niet verwarren met Herbergh Het Wapen van Friesland in Easterlittens (It Plein 2, andere exploitant en domein). Laatste toegang onbekend; evenementen kunnen afwijken.",
+      "closing_notes": "30-10-2026: https://www.cafehetwapenvanfriesland.nl/ en https://www.cafehetwapenvanfriesland.nl/openingstijden bevestigen café, Gaastweg 1, 8521 JA Sint Nicolaasga, openbare borrel, wo 16–00, do 17–00, vr–zo 16–00. Exploitant zegt ma/di BUITEN zomerseizoen gesloten; omdat het 30 oktober is en geen datummodel beschikbaar is, ma/di als momenteel gesloten opgenomen maar seizoenswaarschuwing vastgelegd. Niet verwarren met Herbergh Het Wapen van Friesland in Easterlittens (It Plein 2, andere exploitant en domein). Laatste toegang onbekend; evenementen kunnen afwijken. 30-10-2026: lokale https://www.desintnykster.nl/nieuws/5549-lighting-the-christmas-tree-trekt-veel-publiek noemt bier bij Het Wapen. Bar de Gaast op Gaastweg 10 is een afzonderlijke zaak, geen andere naam van dit café; https://www.desintnykster.nl/nieuws/5999-helden-van-hier-in-sint-nyk-muziek-van-sander-steneker-en-meer noemt beide als aparte locaties. Ma/di bewust ? wegens zomerafwijking.",
       "features": "D0 De Fryske Marren / Sint Nicolaasga; zomer ma/di mogelijk afwijkend; eigen evenementen",
       "website": "https://www.cafehetwapenvanfriesland.nl/",
       "website_checked_on": "2026-10-30",
@@ -23081,7 +23081,9 @@
       "opening_checked_on": "2026-10-30",
       "other_sources": [
         "https://www.cafehetwapenvanfriesland.nl/contact",
-        "https://www.cafehetwapenvanfriesland.nl/zaalverhuur"
+        "https://www.cafehetwapenvanfriesland.nl/zaalverhuur",
+        "https://www.desintnykster.nl/nieuws/5549-lighting-the-christmas-tree-trekt-veel-publiek",
+        "https://www.desintnykster.nl/nieuws/5999-helden-van-hier-in-sint-nyk-muziek-van-sander-steneker-en-meer"
       ],
       "original_status": "Actuele eigen site bevestigt exploitatie en café-uren, seizoensafwijking ma/di genoteerd."
     }
