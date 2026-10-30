@@ -14487,8 +14487,8 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site verwelkomt gasten ook voor uitsluitend een borrel.",
+      "alcohol": "Eigen site heeft borrel en drankenmenu; specifiek assortiment via eigen menukaart nader te verifiëren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14499,21 +14499,38 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt geen café-sluiting; VVV Terschelling geeft 21:30 maar dit is niet op eigen site bevestigd.",
+      "closing_source": "https://zeezicht-terschelling.nl/",
+      "closing_notes": "Dagelijks vanaf 10:00, keuken tot 20:30. VVV https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/ geeft dagelijks 21:30 als sluiting; officiële site noemt alleen opening en keukenuren. Exacte sluiting en laatste toegang daarom onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://zeezicht-terschelling.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://zeezicht-terschelling.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/grand-cafe-zeezicht/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.3589964,
         "lon": 5.2161065,
         "method": "PDOK BAG-adres",
         "matched_address": "Willem Barentszkade 20, 8881BC West-Terschelling"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://zeezicht-terschelling.nl/",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://zeezicht-terschelling.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site 30-10-2026: dagelijks vanaf 10:00; keuken 10:30–20:30.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "eetcafe-storm-west-terschelling-3a5bf1d",
@@ -14523,8 +14540,8 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site noemt lunch, diner en losse borrel zonder maaltijdverplichting.",
+      "alcohol": "Eigen site bevestigt eigen Schoemrakker-bieren van de tap.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14535,21 +14552,39 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "VVV Terschelling noemt 23:00, andere toeristische vermelding noemt 17:00; eigen site geeft geen sluitingsuur. Daarom onbekend.",
+      "closing_source": "https://www.storm-terschelling.nl/",
+      "closing_notes": "Officiële site bevestigt eetcafé en bier van eigen brouwerij, geen exacte openingstijden. VVV https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/ vermeldt 11:30–23:00 alle dagen; https://www.ontdek-terschelling.nl/eten-en-drinken/storm/ geeft afwijkende 11:30–17:00 (overdag) en afhaal/bezorging in avond. Start 11:30 als VVV-vermelding, eindtijd onbekend. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.storm-terschelling.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/west-terschelling"
+        "https://uitgaanskaart.nl/cafe/west-terschelling",
+        "https://www.storm-terschelling.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
+        "https://www.ontdek-terschelling.nl/eten-en-drinken/storm/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.3591022,
         "lon": 5.2147243,
         "method": "PDOK BAG-adres",
         "matched_address": "Torenstraat 27, 8881BG West-Terschelling"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://www.storm-terschelling.nl/",
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "opening_source": "https://www.storm-terschelling.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "VVV Terschelling vermeldt dagelijks vanaf 11:30; eigen site bevestigt zaak en adres maar publiceert geen weekuren.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "cafe-de-zomer-west-terschelling-54c8f87",
@@ -14775,69 +14810,104 @@
       "city": "Vlieland",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen site bevestigt publiek grand café en groepsafhuur; alleen drankje mogelijk volgens grand-café-/barfunctie, maaltijd niet als verplicht vermeld.",
+      "alcohol": "Eigen site noemt café, bar-dancing en restaurant; alcoholaanbod nader te specificeren.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Officiële contactpagina 30-10-2026: dagelijks tot 00:00.",
+      "closing_source": "https://grandcafevlieland.nl/contact/",
+      "closing_notes": "De rechtstreeks geopende eigen contactpagina toont ma–zo 15:00–00:00; zoekindex-snippets en VVV noemen andere openingstijden (17:00 of 12:00), dus conflict vastgelegd en eigen actuele pagina gevolgd. Laatste toegang onbekend; groepsafhuur mogelijk.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://grandcafevlieland.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/vlieland"
+        "https://uitgaanskaart.nl/cafe/vlieland",
+        "https://grandcafevlieland.nl/contact/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.2955652,
         "lon": 5.0683709,
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 81, 8899AD Vlieland"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://grandcafevlieland.nl/contact/",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://grandcafevlieland.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Actuele rechtstreeks geopende officiële contactpagina 30-10-2026 toont alle zeven dagen 15:00–00:00; oudere zoekindex noemt 17:00 of weekend 15:00, maar directe pagina heeft voorrang.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
-      "name": "ZeeVaert Bar & Rotisserie",
+      "name": "ZeeVaert Bistrobar",
       "type": "Bar",
       "address": "Dorpsstraat 61",
       "city": "Vlieland",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen exploitant noemt bar en bistro voor borrel zonder maaltijd; privé-afhuur mogelijk.",
+      "alcohol": "Eigen site noemt cocktails, speciaalbier en wijn.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Hotel-FAQ van exploitant noemt dagelijks 02:00; eigen specifieke restaurantpagina noemt slechts keukenuren tot 21:00/22:00 en bevestigt café-sluiting niet afzonderlijk.",
+      "closing_source": "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
+      "closing_notes": "De exploitant gebruikt nu de naam ZeeVaert Bistrobar (voorheen Bar & Rotisserie). Hotel-FAQ https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/ geeft dagelijks 18:00–02:00 voor Zeevaert; de specifieke https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/ noemt keukenuren laagseizoen zo–do 10–21, vr/za 10–22, hoogseizoen dagelijks 10–22. Dit is niet hetzelfde als bar-sluiting; verifieer of FAQ-rooster nog actueel is. Hotelpagina bevestigt Dorpsstraat 61 (VVV noemt afwijkend 63). Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/vlieland"
+        "https://uitgaanskaart.nl/cafe/vlieland",
+        "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
+        "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
+        "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.2957665,
         "lon": 5.0695225,
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 61, 8899AD Vlieland"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
+      "opening": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Hotel-FAQ van exploitant: Zeevaert dagelijks 18:00–02:00; eigen specifieke restaurantpagina vermeldt afzonderlijk keukenuren vanaf 10:00. Bar- versus keukenuren onderscheiden.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "island-pub-vlieland-f6793f0",
@@ -15135,8 +15205,8 @@
       "city": "Schiermonnikoog",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eetcafé/restaurant volgens eigen website, contact en lunch-/dinerkaart; uitsluitend voor een borrel nog niet apart bevestigd.",
+      "alcohol": "Alcoholassortiment nog niet individueel bevestigd op eigen site.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15147,21 +15217,37 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt geen eindtijd of laatste toegang.",
+      "closing_source": "https://hetoudeboothuis.nl/contact/",
+      "closing_notes": "Contactpagina meldt elke dag geopend maar zonder uren; geen aanname van horeca-/keukensluiting. Exacte opening, sluiting en laatste toegang blijven onbekend. Website toont PHP-deprecation-waarschuwingen, maar inhoud is bereikbaar.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://hetoudeboothuis.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/schiermonnikoog"
+        "https://uitgaanskaart.nl/cafe/schiermonnikoog",
+        "https://hetoudeboothuis.nl/contact/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.4785704,
         "lon": 6.1605259,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwestreek 6, 9166LX Schiermonnikoog"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://hetoudeboothuis.nl/contact/",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://hetoudeboothuis.nl/contact/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site: 'Elke dag geopend', zonder beginuren.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "tox-bar-schiermonnikoog-09b0f73",
@@ -15171,8 +15257,8 @@
       "city": "Schiermonnikoog",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Openbaar eetcafé en bar; dancing alleen in weekenden/vakanties of op aanvraag. Voor dancing geen toegang na 02:00 volgens eigen site.",
+      "alcohol": "Eigen site noemt cocktails, speciaalbier en wijn.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15183,21 +15269,37 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site geeft geen vast sluitingsuur voor café of dancing; dancing is weekend/vakantie of op aanvraag.",
+      "closing_source": "https://toxbar.nl/",
+      "closing_notes": "Eigen site noemt voor dansen expliciet 'Geen toegang na 02:00' en onder 16 jaar tot 23:30. Dit geldt voor dancing/uitgaansgedeelte tijdens openingsnachten, niet bewezen als onvoorwaardelijke laatste toegang voor het café op alle weekdagen; daarom geen generieke last_entry ingevuld. Dancing alleen tijdens weekenden/vakanties of op aanvraag. Exacte sluiting onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://toxbar.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/schiermonnikoog"
+        "https://uitgaanskaart.nl/cafe/schiermonnikoog",
+        "https://toxbar.nl/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
         "lat": 53.4776552,
         "lon": 6.1617294,
         "method": "PDOK BAG-adres",
         "matched_address": "Reeweg 7, 9166PW Schiermonnikoog"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://toxbar.nl/",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://toxbar.nl/",
+      "opening_checked_on": "2026-10-30",
+      "opening_quality": "Eigen site: dagelijks vanaf 12:00; keuken sluit 21:00, dat is geen sluiting van bar/dancing.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "grand-cafe-kade-stavoren-1996c93",
