@@ -19899,6 +19899,10 @@
         "name": "Grand Café Kade"
       },
       {
+        "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
+        "name": "Grand Café Post-Plaza"
+      },
+      {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
         "name": "Grand Café Promenade"
       },
@@ -20890,7 +20894,7 @@
       {
         "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
         "name": "Grand Café Post-Plaza",
-        "reason": "Visit Leeuwarden vermeldt zo–do tot 00:00, vr/za tot 01:00 (huidige gidswaarden behouden). Officiële Post-Plaza groeps-/zalenpagina https://www.post-plaza.nl/vergaderzalen/grand-cafe vermeldt ma–vr 07:00–23:00, za/zo 08:00–23:00, maar staat in vergaderzalencontext. De algemene Grand Café-pagina bevestigt geen publiek weekrooster. Bronconflict open; geen officiële bevestiging van gids-sluitingsuren en laatste toegang."
+        "reason": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-promenade-harlingen-f6e911b",
