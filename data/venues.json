@@ -20291,6 +20291,92 @@
         "https://nl.linkedin.com/company/de-turf-gorredijk"
       ],
       "original_status": "Officieel grand café geopend en bevestigd in openingsverslag 1 mei 2026; site heeft recente agenda oktober–december."
+    },
+    {
+      "id": "restaurant-lyfs-beetsterzwaag-20261030",
+      "name": "Restaurant Lyf's",
+      "type": "Restaurant met borrelkaart",
+      "address": "Hoofdstraat 73",
+      "city": "Beetsterzwaag",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant biedt afzonderlijke borrelbites en borrelplank aan naast lunch/diner; geen maaltijdplicht vermeld, maar vrije barinloop niet afzonderlijk expliciet bevestigd.",
+      "alcohol": "Eigen site bevestigt wijnen en speciaalbier, high-wine met twee glazen wijn of speciaalbier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële site 30-10-2026; afwijkende vakantieperioden apart vermeld.",
+      "closing_source": "https://www.lyfs.nl/",
+      "closing_notes": "30-10-2026: eigen site wo–zo 12–22; andere dagen alleen op afspraak en dus niet als publieke vrije inloop beschouwd. Officiële borrelkaart https://www.lyfs.nl/lunchkaart/voor-bij-de-borrel en high-wine https://www.lyfs.nl/lunchkaart/high-tea-en-high-wine. Eigen site noemt vakantie 27 juli–11 augustus (2026), niet als actuele oktoberuitzondering. Laatste toegang onbekend.",
+      "features": "D0 Opsterland / Beetsterzwaag; borrelkaart en high-wine",
+      "website": "https://www.lyfs.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.lyfs.nl/lunchkaart/voor-bij-de-borrel",
+        "https://www.lyfs.nl/lunchkaart/high-tea-en-high-wine",
+        "https://www.gault-millau.nl/nl/restaurants/lyfs-beetsterzwaag"
+      ],
+      "original_status": "Officiële actuele exploitantwebsite met borrelkaart, wijn/bier en weekrooster; vrije borrel zonder reservering nog te bevestigen."
+    },
+    {
+      "id": "hotel-restaurant-de-stripe-wijnjewoude-20261030",
+      "name": "Hotel & Restaurant De Stripe",
+      "type": "Restaurant / borrelkaart / evenementen",
+      "address": "Duerswâld 23",
+      "city": "Wijnjewoude",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site toont afzonderlijke borrelkaart en publiek restaurant; Bocktoberfest 31-10-2026 is met vooraf aanmelden, geen reguliere vrije toegang tot dat evenement.",
+      "alcohol": "Eigen site bevestigt bockbier op Bocktoberfest 31-10-2026; reguliere drankenkaart niet volledig uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële site vermeldt 09–21 of totdat laatste gast vertrekt; 21:00 is geen gegarandeerde werkelijke sluiting.",
+      "closing_source": "https://destripe.nl/over-ons/openingstijden/",
+      "closing_notes": "30-10-2026: eigen website dagelijks vanaf 09:00, 21:00 of tot laatste gast vertrokken; sluiting dus variabel en niet als exact 21:00 vastgelegd. Bocktoberfest zaterdag 31 oktober 2026: deuren 15:00, bier vanaf 16:00, laatste ronde rond 23:00, aanmelden vooraf vereist; dit is GEEN reguliere zaterdagopening of laatste cafétoegang. Laatste toegang onbekend.",
+      "features": "D0 Opsterland / Wijnjewoude; eventafwijking 31-10-2026",
+      "website": "https://destripe.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://destripe.nl/op-de-kaart/borrelkaart/",
+        "https://destripe.nl/bocktoberfest/",
+        "https://www.allebiz.nl/hotel-restaurant-de-stripe-v-o-f_1Z-0516-541-215"
+      ],
+      "original_status": "Officiële site bevestigt exploitatie en Bocktoberfest 2026, niet automatisch losse alcoholinloop op alle dagen."
     }
   ],
   "admission_policies": [
