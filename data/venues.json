@@ -14747,9 +14747,9 @@
       "city": "Grou",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Eigen exploitant presenteert café d'Oude Oost als af te huren ruimte voor besloten borrels/feesten; reguliere vrije inloop niet bevestigd.",
+      "alcohol": "Exploitant noemt borrel met barbediening, alcoholkaart niet afzonderlijk geverifieerd.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -14759,13 +14759,15 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Geen bedrijfseigen vrij-inlooprooster; privaat te huren café.",
+      "closing_source": "https://oostergoo.nl/vieren-en-vergaderen/",
+      "closing_notes": "Oostergoo beschrijft Café d'Oude Oost als karakteristiek havencafé dat voor eigen gezelschap gehuurd kan worden, niet als regulier vrij toegankelijk café. AlleBiz/RestaurantGuru noemen dagelijks 06–22, maar dat kan hotel-/restauranttijd zijn; niet overgenomen. Uit actuele vrije-inloopselectie tot directe bevestiging.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://oostergoo.nl/vieren-en-vergaderen/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://oostergoo.nl/",
+        "https://www.allebiz.nl/caf%C3%A9-doude-oost-0566-621-309"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14773,18 +14775,21 @@
         "lon": 5.8386235,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwe Kade 1, 9001AE Grou"
-      }
+      },
+      "website_checked_on": "2026-10-30",
+      "website_provenance": "Officiële exploitant Oostergoo bevestigt Café d'Oude Oost als onderdeel van hotel op Nieuwe Kade 1.",
+      "checked_on": "2026-10-30"
     },
     {
       "id": "treemter-grou-dbe48b6",
-      "name": "Treemter",
+      "name": "Grootcafé Treemter",
       "type": "Eetcafé",
       "address": "Doorbraak 1",
       "city": "Grou",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "2026 terrasvergunning en evenementen wijzen op horecagebruik; actuele vrije inloop en toegangsvoorwaarden niet direct via exploitant bevestigd.",
+      "alcohol": "Café/uitgaan en bier volgens evenement-/gidsbronnen; geen eigen actuele drankenkaart bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14795,13 +14800,17 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Geen actueel bedrijfseigen weekrooster; gidsen conflicteren.",
       "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_notes": "2026 terrasvergunning Gemeente Leeuwarden (bekendgemaakt 26-05-2026) voor Grootcafé de Treemter, Doorbraak 1, ondersteunt exploitatie maar niet feitelijke openingsuren. Eigen domein treemter.nl niet bereikbaar; externe gidsen verschillen sterk: do–za 20/21–02:30/03:30 versus di–zo variabel. Geen vaste weekuren/laatste toegang aangenomen. Onderscheid publiek toegankelijke avonden en besloten zaalhuur verder onderzoeken.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://uitgaanskaart.nl/cafe/grou",
+        "https://www.omgevingsalert.nl/meldingen/8616490-verleende-terrasvergunning-voor-grootcafe-de-treemter-aan-de-doorbraak-1-9001-al-grou-ter-2026-036027",
+        "https://www.oozo.nl/bedrijven/leeuwarden/grou-e-o/grou/3771625/de-treemter-b-v",
+        "https://www.uitagenda.nl/locaties/grootcafe-treemter",
+        "https://www.tripadvisor.co.uk/Restaurant_Review-g3646687-d34432526-Reviews-Grootcafe_Treemter-Grou_Friesland_Province.html"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14809,7 +14818,8 @@
         "lon": 5.840146,
         "method": "PDOK BAG-adres",
         "matched_address": "Doorbraak 1, 9001AL Grou"
-      }
+      },
+      "checked_on": "2026-10-30"
     },
     {
       "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
