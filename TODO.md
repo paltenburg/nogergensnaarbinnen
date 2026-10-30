@@ -31,7 +31,7 @@
 
 - **Master:** 491 unieke records (224 `utrecht`, 267 `friesland`), 339 officiële websitevelden, 413 exacte markers (210 Utrecht, 203 Friesland), **78 zonder** (14 Utrecht, 64 Friesland). Nieuwe locaties bewust niet gegeocodeerd. Laatste data-commit `cc12b6f20a12a8d2cf708e2c199b7ffcc9aa19e7`.
 - **Friesland:** 267/267 records met eerste broncontroledatum, 41 `Nog te controleren`, 101/267 met minstens één exacte HH:MM-sluiting. Een bronpoging is geen exploitatiebevestiging en geen volledige gemeente-/dorpsdekking. D0 **niet** gehaald.
-- **Afgeleiden:** `data/source-register.json` bij laatste controle **437 venues / 273 websitevelden / 842 URL's**, `data/geocode-report.json` **437/413**. Workflow bouwt afgeleiden voor Pages; terugschrijven naar main via bestaande maintenance. Publicatie van nieuwste commits en mobiele live interactie niet geverifieerd.
+- **Afgeleiden:** `data/source-register.json` bij laatste controle **437 venues / 273 websitevelden / 842 URL's**, `data/geocode-report.json` **437/413**. Workflow bouwt afgeleiden voor Pages; terugschrijven naar main via bestaande maintenance. **Actions #184 en #185 geslaagd** (database tot 489 records); #186 en #188 bij laatste controle queued, #187 geannuleerd door concurrency. De **nieuwste 491-records-deploy** en mobiele live interactie niet bevestigd.
 - **Audit:** actieve regio's dynamisch uit master: `utrecht` en `friesland`; eerste W45-ronde **nog niet opeisbaar** tot 2026-11-02 10:00 Europe/Amsterdam. Geen audit voltooid verklaard.
 - **UI:** B2-codefix uit vorige uitvoering, echte mobiele pan-/zoomregiowissel en live Pages niet getest. D1/D2 landelijke uitbreiding nog niet vrijgegeven.
 
