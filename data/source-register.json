@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 427,
-    "source_urls": 686,
-    "domains": 338,
-    "direct_website_fields": 238
+    "venues": 431,
+    "source_urls": 721,
+    "domains": 350,
+    "direct_website_fields": 248
   },
   "discovery_sites": [
     {
@@ -149,14 +149,14 @@
       "linked_venues": 54
     },
     {
+      "domain": "allebiz.nl",
+      "source_pages": 21,
+      "linked_venues": 21
+    },
+    {
       "domain": "uitgaanskaart.nl",
       "source_pages": 21,
       "linked_venues": 200
-    },
-    {
-      "domain": "allebiz.nl",
-      "source_pages": 19,
-      "linked_venues": 19
     },
     {
       "domain": "ontdek-utrecht.nl",
@@ -174,12 +174,17 @@
       "linked_venues": 10
     },
     {
+      "domain": "cylex.nl",
+      "source_pages": 10,
+      "linked_venues": 10
+    },
+    {
       "domain": "debuik.nl",
       "source_pages": 10,
       "linked_venues": 16
     },
     {
-      "domain": "cylex.nl",
+      "domain": "compadex.com",
       "source_pages": 9,
       "linked_venues": 9
     },
@@ -187,6 +192,11 @@
       "domain": "hfsfreelancers.nl",
       "source_pages": 9,
       "linked_venues": 9
+    },
+    {
+      "domain": "visitwadden.nl",
+      "source_pages": 9,
+      "linked_venues": 8
     },
     {
       "domain": "allecijfers.nl",
@@ -209,14 +219,9 @@
       "linked_venues": 7
     },
     {
-      "domain": "compadex.com",
+      "domain": "vind-open.nl",
       "source_pages": 7,
       "linked_venues": 7
-    },
-    {
-      "domain": "visitwadden.nl",
-      "source_pages": 7,
-      "linked_venues": 6
     },
     {
       "domain": "westcordhotels.nl",
@@ -229,12 +234,12 @@
       "linked_venues": 1
     },
     {
-      "domain": "vind-open.nl",
+      "domain": "findglocal.com",
       "source_pages": 6,
       "linked_venues": 6
     },
     {
-      "domain": "findglocal.com",
+      "domain": "bestrestos.nl",
       "source_pages": 5,
       "linked_venues": 5
     },
@@ -244,9 +249,9 @@
       "linked_venues": 5
     },
     {
-      "domain": "bestrestos.nl",
+      "domain": "hotelvanderwerff.nl",
       "source_pages": 4,
-      "linked_venues": 4
+      "linked_venues": 1
     },
     {
       "domain": "oozo.nl",
@@ -284,6 +289,11 @@
       "linked_venues": 4
     },
     {
+      "domain": "vvvschiermonnikoog.nl",
+      "source_pages": 4,
+      "linked_venues": 4
+    },
+    {
       "domain": "amelanderbier.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -294,7 +304,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "beachclubnoderstraun.com",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "dekerijfbar.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
+      "domain": "demarlijn.com",
       "source_pages": 3,
       "linked_venues": 1
     },
@@ -414,6 +434,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "de4dames.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "dedikkevandale.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -470,6 +495,11 @@
     },
     {
       "domain": "elize.cafe",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
+      "domain": "fietsroutenetwerk.nl",
       "source_pages": 2,
       "linked_venues": 2
     },
@@ -575,6 +605,11 @@
     },
     {
       "domain": "moos-utrecht.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "njoypoolcentrum.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -974,6 +1009,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafehetraadhuys.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafehetzwaantjeterschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1005,6 +1045,11 @@
     },
     {
       "domain": "cafetantedoor.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafetsjoch.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1244,11 +1289,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "fietsroutenetwerk.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "firmania.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1390,6 +1430,11 @@
     },
     {
       "domain": "kafebelgie.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "kafee8.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1554,6 +1599,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "overuwbuurt.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "paloma-utrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1679,6 +1729,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "tantesientje.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "taphuys.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1795,6 +1850,11 @@
     },
     {
       "domain": "vvvameland.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "waldmantsjedrachten.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2142,6 +2202,34 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-pietje-bel-drachten-5eb1428",
+          "name": "Café Pietje Bel",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -2398,6 +2486,30 @@
         {
           "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
           "name": "Muziekcafé Scooter's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/n-joy_5I-0512-779-158",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Pool Café & Bar",
           "roles": [
             "achtergrond"
           ],
@@ -3209,6 +3321,86 @@
       "needs_review": false
     },
     {
+      "url": "https://www.beachclubnoderstraun.com/",
+      "domain": "beachclubnoderstraun.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+          "name": "Beachclub Noderstraun",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.beachclubnoderstraun.com/cocktails",
+      "domain": "beachclubnoderstraun.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+          "name": "Beachclub Noderstraun",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.beachclubnoderstraun.com/contact",
+      "domain": "beachclubnoderstraun.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+          "name": "Beachclub Noderstraun",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.beersbarrels.nl/nl/contactpagina/",
       "domain": "beersbarrels.nl",
       "first_registered_on": "2026-10-26",
@@ -3369,6 +3561,30 @@
         {
           "id": "cafe-bar-t-skutsje-drachten-7164f2f",
           "name": "Café Bar 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://bestrestos.nl/restaurant/cafe-het-raadhuys---drachten---drachten-3279",
+      "domain": "bestrestos.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-het-raadhuys-drachten-085a1a5",
+          "name": "Café Het Raadhuys",
           "roles": [
             "achtergrond"
           ],
@@ -4731,6 +4947,38 @@
       "needs_review": false
     },
     {
+      "url": "https://cafehetraadhuys.nl/",
+      "domain": "cafehetraadhuys.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-het-raadhuys-drachten-085a1a5",
+          "name": "Café Het Raadhuys",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cafehetzwaantjeterschelling.nl/",
       "domain": "cafehetzwaantjeterschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -5050,6 +5298,38 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafetsjoch.nl/",
+      "domain": "cafetsjoch.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-tsjoch-drachten-c5fc2de",
+          "name": "Café Tsjoch",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -7112,6 +7392,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/kafee-8-57816018-24652164",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "kafee-8-drachten-e7c0e2d",
+          "name": "Kafee 8",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/t-ouwe-vat-sneek-b-v-93398344-01228331",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-29",
@@ -7124,6 +7428,30 @@
         {
           "id": "t-ouwe-vat-sneek-4873eaa",
           "name": "'t Ouwe Vat",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.compadex.com/nl/businesses/nl/t-waldmantsje-69320977-37678604",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-waldmantsje-drachten-acaeeab",
+          "name": "Café 't Wâldmantsje",
           "roles": [
             "achtergrond"
           ],
@@ -7352,6 +7680,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/kafee-8-12715565.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "kafee-8-drachten-e7c0e2d",
+          "name": "Kafee 8",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-30",
@@ -7562,6 +7914,62 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.de4dames.nl/",
+      "domain": "de4dames.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-4-dames-schiermonnikoog-20261030",
+          "name": "De4dames – wijnbar & bistro",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.de4dames.nl/contact/",
+      "domain": "de4dames.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-4-dames-schiermonnikoog-20261030",
+          "name": "De4dames – wijnbar & bistro",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://deamelander.nl/cafe-bok-hollum/",
@@ -8442,6 +8850,86 @@
       "last_data_field_checked_on": "2026-10-29",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://demarlijn.com/",
+      "domain": "demarlijn.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-marlijn-schiermonnikoog-20261030",
+          "name": "Strandpaviljoen De Marlijn",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://demarlijn.com/openingstijden-and-contact-or-de-marlijn",
+      "domain": "demarlijn.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-marlijn-schiermonnikoog-20261030",
+          "name": "Strandpaviljoen De Marlijn",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://demarlijn.com/wijn-or-de-marlijn",
+      "domain": "demarlijn.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-marlijn-schiermonnikoog-20261030",
+          "name": "Strandpaviljoen De Marlijn",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.demorgensterutrecht.nl/",
@@ -9774,6 +10262,30 @@
       "needs_review": true
     },
     {
+      "url": "https://fietsroutenetwerk.nl/afstappunten/cafe-pietje-bell",
+      "domain": "fietsroutenetwerk.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-pietje-bel-drachten-5eb1428",
+          "name": "Café Pietje Bel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit",
       "domain": "fietsroutenetwerk.nl",
       "first_registered_on": "2026-10-29",
@@ -9810,6 +10322,30 @@
         {
           "id": "cafe-de-drie-koningen-bolsward-20261030",
           "name": "Café De Drie Koningen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.findglocal.com/NL/Drachten/842296635843553/Njoy-Poolcentrum",
+      "domain": "findglocal.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Pool Café & Bar",
           "roles": [
             "achtergrond"
           ],
@@ -11829,6 +12365,110 @@
       "needs_review": true
     },
     {
+      "url": "https://hotelvanderwerff.nl/",
+      "domain": "hotelvanderwerff.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+          "name": "Café Hotel van der Werff",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hotelvanderwerff.nl/contact/",
+      "domain": "hotelvanderwerff.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+          "name": "Café Hotel van der Werff",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hotelvanderwerff.nl/dranken/",
+      "domain": "hotelvanderwerff.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+          "name": "Café Hotel van der Werff",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://hotelvanderwerff.nl/gelagkamer/",
+      "domain": "hotelvanderwerff.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+          "name": "Café Hotel van der Werff",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.houtsje.nl/",
       "domain": "houtsje.nl",
       "first_registered_on": "2026-10-30",
@@ -12154,6 +12794,38 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.kafee8.nl/",
+      "domain": "kafee8.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "kafee-8-drachten-e7c0e2d",
+          "name": "Kafee 8",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://karaokebarnachtegaal.nl/",
@@ -13318,6 +13990,62 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.njoypoolcentrum.nl/",
+      "domain": "njoypoolcentrum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Pool Café & Bar",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.njoypoolcentrum.nl/contact",
+      "domain": "njoypoolcentrum.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Pool Café & Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward",
@@ -14548,6 +15276,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.overuwbuurt.nl/kennisgeving/melding-voor-een-incidentele-festiviteit-et-live-muziek-op-26-september-2026-bij-eetcafe-het-oude-boothuis-te-schiermonnikoog/8948268",
+      "domain": "overuwbuurt.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+          "name": "Het Oude Boothuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16754,6 +17506,41 @@
       "needs_review": false
     },
     {
+      "url": "https://www.tantesientje.nl/",
+      "domain": "tantesientje.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "laatste_toegang",
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "danscafe-tante-sientje-drachten-b8e305c",
+          "name": "Danscafé Tante Sientje",
+          "roles": [
+            "laatste_toegang",
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30",
+            "laatste_toegang": "2026-10-30"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.taphuys.nl/utrecht/",
       "domain": "taphuys.nl",
       "first_registered_on": "2026-10-26",
@@ -18230,7 +19017,7 @@
       "venues": [
         {
           "id": "cafe-t-waldmantsje-drachten-acaeeab",
-          "name": "Café 't Waldmantsje",
+          "name": "Café 't Wâldmantsje",
           "roles": [
             "achtergrond"
           ],
@@ -18316,7 +19103,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
@@ -18347,7 +19134,7 @@
         },
         {
           "id": "njoy-poolcentrum-drachten-f14f10e",
-          "name": "Njoy Poolcentrum",
+          "name": "Njoy Pool Café & Bar",
           "roles": [
             "achtergrond"
           ],
@@ -21963,6 +22750,30 @@
       "needs_review": true
     },
     {
+      "url": "https://vind-open.nl/drachten/n-joy-46662",
+      "domain": "vind-open.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "njoy-poolcentrum-drachten-f14f10e",
+          "name": "Njoy Pool Café & Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://vind-open.nl/franeker/tapperij-t-noord-331638",
       "domain": "vind-open.nl",
       "first_registered_on": "2026-10-30",
@@ -22414,6 +23225,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2990038149/de-4-dames",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-4-dames-schiermonnikoog-20261030",
+          "name": "De4dames – wijnbar & bistro",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep",
       "domain": "visitwadden.nl",
       "first_registered_on": "2026-10-30",
@@ -22522,6 +23357,30 @@
         {
           "id": "de-vijfpoort-formerum-fa6312a",
           "name": "Muziekcafé De Vijfpoort",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/1391310235/restaurant-noderstraun",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+          "name": "Beachclub Noderstraun",
           "roles": [
             "achtergrond"
           ],
@@ -22754,6 +23613,102 @@
       "needs_review": true
     },
     {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/het-oude-boothuis",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
+          "name": "Het Oude Boothuis",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/tox-bar",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "tox-bar-schiermonnikoog-09b0f73",
+          "name": "Tox Bar",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/van-der-werff",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+          "name": "Café Hotel van der Werff",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/strandpaviljoen-marlijn",
+      "domain": "vvvschiermonnikoog.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-marlijn-schiermonnikoog-20261030",
+          "name": "Strandpaviljoen De Marlijn",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvterschelling.nl/bedrijven/bar-schotse-vier/",
       "domain": "vvvterschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -22954,6 +23909,38 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.waldmantsjedrachten.nl/",
+      "domain": "waldmantsjedrachten.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-waldmantsje-drachten-acaeeab",
+          "name": "Café 't Wâldmantsje",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -23814,10 +24801,6 @@
         "name": "Café 't Syltsje"
       },
       {
-        "id": "cafe-t-waldmantsje-drachten-acaeeab",
-        "name": "Café 't Waldmantsje"
-      },
-      {
         "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
         "name": "Café Bar De Welp"
       },
@@ -23930,10 +24913,6 @@
         "name": "Café Gewoán Sven"
       },
       {
-        "id": "cafe-het-raadhuys-drachten-085a1a5",
-        "name": "Café Het Raadhuys"
-      },
-      {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste"
       },
@@ -23994,10 +24973,6 @@
         "name": "Café Stockholm"
       },
       {
-        "id": "cafe-tsjoch-drachten-c5fc2de",
-        "name": "Café Tsjoch"
-      },
-      {
         "id": "cafe-us-mem-leeuwarden-21a91b5",
         "name": "Café Us Mem"
       },
@@ -24020,10 +24995,6 @@
       {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
-      },
-      {
-        "id": "danscafe-tante-sientje-drachten-b8e305c",
-        "name": "Danscafé Tante Sientje"
       },
       {
         "id": "de-apotheek-4ced9d6",
@@ -24238,10 +25209,6 @@
         "name": "Kadet"
       },
       {
-        "id": "kafee-8-drachten-e7c0e2d",
-        "name": "Kafee 8"
-      },
-      {
         "id": "kweekvijver-utrecht-c5d2c85",
         "name": "KweekVijver Utrecht"
       },
@@ -24296,10 +25263,6 @@
       {
         "id": "nieuwe-dikke-dries-oost-73e397f",
         "name": "Nieuwe Dikke Dries Oost"
-      },
-      {
-        "id": "njoy-poolcentrum-drachten-f14f10e",
-        "name": "Njoy Poolcentrum"
       },
       {
         "id": "op-roose-dbd6d71",
@@ -24536,6 +25499,10 @@
         "name": "Bassment"
       },
       {
+        "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+        "name": "Beachclub Noderstraun"
+      },
+      {
         "id": "bij-guusjes-fd4468d",
         "name": "Bij Guusjes"
       },
@@ -24594,10 +25561,6 @@
       {
         "id": "cafe-t-syltsje-bakhuizen-319434c",
         "name": "Café 't Syltsje"
-      },
-      {
-        "id": "cafe-t-waldmantsje-drachten-acaeeab",
-        "name": "Café 't Waldmantsje"
       },
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
@@ -24744,6 +25707,10 @@
         "name": "Café Het Raadhuys"
       },
       {
+        "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+        "name": "Café Hotel van der Werff"
+      },
+      {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
         "name": "Café It Alde Ste"
       },
@@ -24804,10 +25771,6 @@
         "name": "Café Stockholm"
       },
       {
-        "id": "cafe-tsjoch-drachten-c5fc2de",
-        "name": "Café Tsjoch"
-      },
-      {
         "id": "cafe-us-mem-leeuwarden-21a91b5",
         "name": "Café Us Mem"
       },
@@ -24830,10 +25793,6 @@
       {
         "id": "club-z-leeuwarden-aecf644",
         "name": "Club Z"
-      },
-      {
-        "id": "danscafe-tante-sientje-drachten-b8e305c",
-        "name": "Danscafé Tante Sientje"
       },
       {
         "id": "de-apotheek-4ced9d6",
@@ -24874,6 +25833,10 @@
       {
         "id": "de-toeter-leeuwarden-f8ed332",
         "name": "De Toeter"
+      },
+      {
+        "id": "de-4-dames-schiermonnikoog-20261030",
+        "name": "De4dames – wijnbar & bistro"
       },
       {
         "id": "dito-bfdb022",
@@ -25137,7 +26100,7 @@
       },
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",
-        "name": "Njoy Poolcentrum"
+        "name": "Njoy Pool Café & Bar"
       },
       {
         "id": "nomono-ce51c6e",
@@ -25234,6 +26197,10 @@
       {
         "id": "strandpaviljoen-t-badhuys-vlieland-20261030",
         "name": "Strandpaviljoen 't Badhuys"
+      },
+      {
+        "id": "de-marlijn-schiermonnikoog-20261030",
+        "name": "Strandpaviljoen De Marlijn"
       },
       {
         "id": "sumventure-flightbar-9f750e7",
@@ -25361,6 +26328,11 @@
         "reason": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend."
       },
       {
+        "id": "beachclub-noderstraun-schiermonnikoog-20261030",
+        "name": "Beachclub Noderstraun",
+        "reason": "Eigen contactpagina geeft okt 2026 ma 19, di/wo 17, do 19, vr–zo 20 maar verklaart dat keukensluiting niet betekent dat bezoekers moeten vertrekken; november/december alleen vr–ma vanaf 10:30, kerstvakantie andere dagen. Geen vaste cafésluiting of laatste toegang; seizoensuren niet als jaarrooster opgeslagen."
+      },
+      {
         "id": "bistro-workum-workum-e121155",
         "name": "Bistro Workum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -25432,8 +26404,8 @@
       },
       {
         "id": "cafe-t-waldmantsje-drachten-acaeeab",
-        "name": "Café 't Waldmantsje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "Café 't Wâldmantsje",
+        "reason": "Eigen website vermeldt ma/di dicht, wo/do 15–01, vr/za 15–02, zo 15–00. Geen geverifieerde laatste toegang."
       },
       {
         "id": "cafe-t-zwaantje-west-terschelling-48d0156",
@@ -25648,7 +26620,12 @@
       {
         "id": "cafe-het-raadhuys-drachten-085a1a5",
         "name": "Café Het Raadhuys",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen website bevestigt zo–vr vanaf 14:00, zaterdag vanaf 09:00, 364 dagen per jaar open. Geen bedrijfseigen eindtijden of laatste toegang. Gidsen noemen 00:00/22:00 maar zijn niet als vast rooster overgenomen."
+      },
+      {
+        "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
+        "name": "Café Hotel van der Werff",
+        "reason": "Eigen site bevestigt café/gelagkamer en alcoholkaart, maar geen vaste openings-/sluitingstijden of laatste toegang. Lunchkaart 11:00–16:00 is niet als caférooster aangenomen."
       },
       {
         "id": "cafe-it-alde-ste-ureterp-a8f9378",
@@ -25679,11 +26656,6 @@
         "id": "cafe-lieman-west-terschelling-3808f8b",
         "name": "Café Lieman",
         "reason": "30-10-2026: VVV bevestigt café/adres/alcohol en noemt rooster, maar https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568 geeft andere ma/do en vr–zo tijden. Geen verifieerbare officiële site, geen vaste sluiting of laatste toegang overgenomen."
-      },
-      {
-        "id": "cafe-pietje-bel-drachten-5eb1428",
-        "name": "Café Pietje Bel",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "cafe-rednick-harlingen-11c235b",
@@ -25723,7 +26695,7 @@
       {
         "id": "cafe-tsjoch-drachten-c5fc2de",
         "name": "Café Tsjoch",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site geeft volledig weekrooster. Een externe gids vermeldt afwijkende uren; eigen site gevolgd. Geen expliciete laatste toegang."
       },
       {
         "id": "cafe-us-mem-leeuwarden-21a91b5",
@@ -25764,11 +26736,6 @@
         "id": "oka-18-west-terschelling-34ccd0e",
         "name": "Danscafé OKA 18",
         "reason": "Eigen site: ma–za 14:00–02:00, zondag 14:00–22:00. VVV toont andere starturen ma/zo; eigen site voorrang. Laatste toegang onbekend."
-      },
-      {
-        "id": "danscafe-tante-sientje-drachten-b8e305c",
-        "name": "Danscafé Tante Sientje",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "de-babbelaar-burgum-5796776",
@@ -25869,6 +26836,11 @@
         "id": "de-welvaart-hollum-8afd4cb",
         "name": "De Welvaart",
         "reason": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend."
+      },
+      {
+        "id": "de-4-dames-schiermonnikoog-20261030",
+        "name": "De4dames – wijnbar & bistro",
+        "reason": "Eigen site: dagelijks vanaf 10:00, einde 'tot de gezelligheid is afgelopen'; keuken sluit zo–do 21:00 en vr/za 21:30, géén barsluiting. Visit Wadden vermeldt ma–do pas 16:00 en sluitingen 23:00/00:00; strijdig met eigen site. Geen vaste einduren of laatste toegang aangenomen."
       },
       {
         "id": "eetcafe-t-praethuys-vlieland-20261030",
@@ -26083,7 +27055,7 @@
       {
         "id": "het-oude-boothuis-schiermonnikoog-30e85ee",
         "name": "Het Oude Boothuis",
-        "reason": "Contactpagina meldt elke dag geopend maar zonder uren; geen aanname van horeca-/keukensluiting. Exacte opening, sluiting en laatste toegang blijven onbekend. Website toont PHP-deprecation-waarschuwingen, maar inhoud is bereikbaar."
+        "reason": "Eigen site meldt dagelijks geopend, zonder begin- of einduur. VVV bevestigt publieke borrel en bier. Gemeentelijke melding van livemuziek op 26-09-2026 is een incidenteel evenement, geen vast rooster. Sluiting en laatste toegang onbekend."
       },
       {
         "id": "het-stamcafe-heerenveen-b1c29a4",
@@ -26113,7 +27085,7 @@
       {
         "id": "kafee-8-drachten-e7c0e2d",
         "name": "Kafee 8",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site noemt do/zo 20:00 tot laat, vr/za 21:30 tot laat. Ma–wo niet expliciet als gesloten aangemerkt. Gidsen melden andere dagen en exacte einduren tot 05:00; niet overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "karaokebar-de-nachtegaal-sneek",
@@ -26182,8 +27154,8 @@
       },
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",
-        "name": "Njoy Poolcentrum",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "name": "Njoy Pool Café & Bar",
+        "reason": "Eigen site bevestigt dagelijks vanaf 14:00, maar geen sluiting. AlleBiz noemt vr/za 02:00 en overige dagen 00:00; VindOpen noemt za 03:30 en andere beginuren. Een bericht over één augustusweek meldt maandag gesloten, geen structureel rooster. Geen gidsuren als bewezen eindtijd gebruikt; laatste toegang onbekend."
       },
       {
         "id": "nomono-ce51c6e",
@@ -26291,6 +27263,11 @@
         "reason": "30-10-2026: WestCord vermeldt dagelijks vanaf 10:00; diner tot 21:30 (laag seizoen 20:30) betreft bediening/keuken en is geen bewezen barsluiting. VVV geeft Badweg 3, oudere gids Badweg 6: fysieke ingang en BAG-adres nog te controleren. Laatste toegang onbekend."
       },
       {
+        "id": "de-marlijn-schiermonnikoog-20261030",
+        "name": "Strandpaviljoen De Marlijn",
+        "reason": "Exploitant: in oktober–18 december 2026 dagelijks vanaf 10:00; ma–vr borrel tot 17:30, za/zo tot 19:00, maar volgens dezelfde site na keukensluiting nog drankje mogelijk en bij slecht weer eerder dicht. Daarom geen exacte cafésluiting ingevuld. Herfstvakantie, kerstvakantie en feestdagen wijken af; oude gidsen spreken elkaar tegen. Seizoensrooster niet als jaarrooster beschouwen. Laatste toegang onbekend."
+      },
+      {
         "id": "strandpaviljoen-sjoerd-nes-ameland-8e2f7a9",
         "name": "Strandpaviljoen Sjoerd",
         "reason": "Eigen site 30-10-2026: ma–wo 10–18, do–zo 10–22. Eigen pagina zegt 'do t/m z0', als donderdag t/m zondag geïnterpreteerd; feestdagen/seizoen en laatste toegang onbekend. Fysieke ligging strand van Nes; Strandweg 65 Buren is expliciet POSTadres, niet als fysiek pand gegeocodeerd. Officiële GPS N53.460155 E5.778620."
@@ -26338,7 +27315,7 @@
       {
         "id": "tox-bar-schiermonnikoog-09b0f73",
         "name": "Tox Bar",
-        "reason": "Eigen site noemt voor dansen expliciet 'Geen toegang na 02:00' en onder 16 jaar tot 23:30. Dit geldt voor dancing/uitgaansgedeelte tijdens openingsnachten, niet bewezen als onvoorwaardelijke laatste toegang voor het café op alle weekdagen; daarom geen generieke last_entry ingevuld. Dancing alleen tijdens weekenden/vakanties of op aanvraag. Exacte sluiting onbekend."
+        "reason": "Eigen site: geen toegang tot dancing na 02:00; onder 16 jaar tot 23:30. Discotheek uitsluitend weekenden/vakanties of op aanvraag; niet als generieke laatste toegang van het café opgeslagen. VVV meldt laagseizoen ma–do vanaf 16:00 versus eigen dagelijks 12:00; seizoensconflict. Keuken sluit 21:00, geen café-eindtijd. Exacte sluiting onbekend."
       },
       {
         "id": "treemter-grou-dbe48b6",

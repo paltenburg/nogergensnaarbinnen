@@ -18729,7 +18729,13 @@
       "opening_source": "https://www.de4dames.nl/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4793854,
+        "lon": 6.1595465,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Langestreek 94, 9166LG Schiermonnikoog"
+      }
     },
     {
       "id": "de-marlijn-schiermonnikoog-20261030",
@@ -18776,7 +18782,13 @@
       "opening_source": "https://demarlijn.com/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4972668,
+        "lon": 6.1882879,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Prins Bernhardweg 2, 9166SH Schiermonnikoog"
+      }
     },
     {
       "id": "beachclub-noderstraun-schiermonnikoog-20261030",
@@ -18823,7 +18835,13 @@
       },
       "opening_source": "https://www.beachclubnoderstraun.com/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.4903636,
+        "lon": 6.1499061,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Badweg 32, 9166NK Schiermonnikoog"
+      }
     },
     {
       "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
@@ -18871,7 +18889,13 @@
       },
       "opening_source": "https://hotelvanderwerff.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.478084,
+        "lon": 6.1607129,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Reeweg 2, 9166PX Schiermonnikoog"
+      }
     }
   ],
   "admission_policies": [
