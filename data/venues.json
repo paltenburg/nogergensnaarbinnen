@@ -20377,6 +20377,136 @@
         "https://www.allebiz.nl/hotel-restaurant-de-stripe-v-o-f_1Z-0516-541-215"
       ],
       "original_status": "Officiële site bevestigt exploitatie en Bocktoberfest 2026, niet automatisch losse alcoholinloop op alle dagen."
+    },
+    {
+      "id": "bliede-eten-drinken-noordwolde-20261030",
+      "name": "Bliede eten&drinken",
+      "type": "Café / cafetaria / borrelterras",
+      "address": "Bovenstreek 1",
+      "city": "Noordwolde",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Regionale VVV en claimed TripAdvisor-vermelding bevestigen openbaar café en terras met losse borrel; geen reserveringseis.",
+      "alcohol": "Friesland.nl bevestigt bier van de tap, speciaalbier, wijn en cocktails; recente KvK-afgeleide geeft SBI 5630 drinkgelegenheid.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen eigen actuele officiële website/rooster gevonden; externe gidsen geven afwijkende sluitingstijden.",
+      "closing_source": "https://www.friesland.nl/nl/locaties/1196406642/bliede-eten-drinken",
+      "closing_notes": "30-10-2026: VVV bevestigt café en alcohol. Claimed TripAdvisor https://www.tripadvisor.nl/Restaurant_Review-g8568611-d32871635-Reviews-Bliede_Eten_drinken-Noordwolde_Friesland_Province.html en RestaurantGuru https://nl.restaurantguru.com/Bliede-etenanddrinken-Noordwolde tonen tegenstrijdige weekroosters, daarom alle uren onbekend. Laatste toegang onbekend. Geen officiële eigen website geverifieerd.",
+      "features": "D0 Weststellingwerf / Noordwolde; bron VVV en actuele KvK",
+      "website": "",
+      "website_checked_on": "",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.compadex.com/nl/businesses/nl/bliede-82979251-49182307",
+        "https://www.kolonienvanweldadigheid.nl/nl/locaties-overzicht/2032563538/bliede-eten-drinken",
+        "https://www.weldadigoord.nl/weldadige-oorden/bliede/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g8568611-d32871635-Reviews-Bliede_Eten_drinken-Noordwolde_Friesland_Province.html"
+      ],
+      "original_status": "VVV bevestigt openbaar café met bier/wijn/cocktails, KvK SBI 5630 bijgewerkt 12-02-2026; weekuren onbekend."
+    },
+    {
+      "id": "restaurant-pieter-poot-de-blesse-20261030",
+      "name": "Restaurant Pieter Poot",
+      "type": "Restaurant / borrel / activiteiten",
+      "address": "Steenwijkerweg 119",
+      "city": "De Blesse",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site noemt publiek borrelen met vrienden zonder verplichte maaltijd; activiteitenruimte heeft apart betaald toegangstarief van 10 euro per uur, NIET reguliere horecatoegang.",
+      "alcohol": "Eigen trouwarrangementpagina bevestigt bier, huiswijnen en gedistilleerd bij arrangementen; reguliere restaurantdrankkaart niet afzonderlijk bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "21:00",
+        "wo": "—",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Eigen contactpagina 30-10-2026; groepsaanvragen ma/wo in overleg mogelijk, niet publieke weekopening.",
+      "closing_source": "https://pieterpoot.nl/contact/",
+      "closing_notes": "30-10-2026: ma/wo gesloten voor gewone publieke horeca, di/do/vr/za/zo 16–21; groepsaanvragen op ma/wo mogelijk, geen vaste publieke tijden. Eigen https://pieterpoot.nl/activiteiten/fun-department/ vraagt 10 euro p.p. per uur voor activiteitenruimte, maar niet voor losse restaurantborrel. Laatste toegang onbekend.",
+      "features": "D0 Weststellingwerf / De Blesse; restaurant en apart betaald activiteitendeel",
+      "website": "https://pieterpoot.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://pieterpoot.nl/trouwen/",
+        "https://pieterpoot.nl/activiteiten/fun-department/",
+        "https://pieterpoot.nl/contact/"
+      ],
+      "original_status": "Eigen actuele horecawebsite met openbare borrel en vaste openingstijden; bier/wijn bevestigd bij arrangementen."
+    },
+    {
+      "id": "hotel-lunia-oldeberkoop-20261030",
+      "name": "Hotel Lunia (restaurant en terras)",
+      "type": "Hotelrestaurant / borrel",
+      "address": "Molenhoek 2",
+      "city": "Oldeberkoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen restaurantpagina bevestigt ontbijt, lunch, borrel en diner voor bezoekers op terras/restaurant; hotelovernachting niet vereist.",
+      "alcohol": "Eigen wijnkaart en bierkaart worden op officiële site genoemd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "07:00",
+        "di": "07:00",
+        "wo": "07:00",
+        "do": "07:00",
+        "vr": "07:00",
+        "za": "07:00",
+        "zo": "07:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site restaurant en terras dagelijks vanaf 07:00; geen vast algemeen einduur; serveertijd diner 17:30–21:00 is geen cafésluiting.",
+      "closing_source": "https://www.lunia.nl/restaurant/menukaart",
+      "closing_notes": "30-10-2026: eigen site 7 dagen/365 dagen restaurant en terras vanaf 07:00; ontbijtdienst 07–09:30, lunch 12–16, diner 17:30–21. Dat zijn SERVEERTIJDEN, geen sluiting/laatste toegang. Eigen site meldt tijdelijke renovatiesluiting 5–22 januari 2026 (historisch, niet actueel oktober). Laatste toegang onbekend.",
+      "features": "D0 Ooststellingwerf / Oldeberkoop; restaurant en terras, eigen bier-/wijnkaart",
+      "website": "https://www.lunia.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://www.lunia.nl/restaurant",
+        "https://www.lunia.nl/restaurant/menukaart",
+        "https://www.lunia.nl/contact"
+      ],
+      "original_status": "Officiële restaurantwebsite bevestigt publiek borrelen, wijn en bier, dagelijks restaurant/terras; eindtijd onbekend."
     }
   ],
   "admission_policies": [
