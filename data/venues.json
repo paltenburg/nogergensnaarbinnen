@@ -20193,14 +20193,15 @@
       },
       "closing_quality": "Eigen actuele website 30-10-2026; feestdagen en besloten feesten uitgezonderd.",
       "closing_source": "https://www.poolcafe-tijdloos.nl/",
-      "closing_notes": "30-10-2026: di 19–23, wo/do 14–23, vr/za 11–00, zo 11–23. Maandag niet expliciet genoemd op eigen site, dus onbekend (gids noemt gesloten). Gids https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416 noemt dinsdag gesloten, in strijd met eigen site. Vrijdag/zaterdag na 19:30 geen activiteitenreservering is NIET laatste cafétoegang. Eigen footer postcode 8401DD vs gids 8401PM: exacte BAG-adresmatch/marker nog controleren.",
+      "closing_notes": "30-10-2026: di 19–23, wo/do 14–23, vr/za 11–00, zo 11–23. Maandag niet expliciet genoemd op eigen site, dus onbekend (gids noemt gesloten). Gids https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416 noemt dinsdag gesloten, in strijd met eigen site. Vrijdag/zaterdag na 19:30 geen activiteitenreservering is NIET laatste cafétoegang. Eigen footer postcode 8401DD bevestigd door regionale VVV https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe; externe bedrijvengids noemt strijdig 8401PM. BAG-marker nog exact controleren.",
       "features": "D0 Opsterland / Gorredijk; eigen agenda met events okt–dec 2026",
       "website": "https://www.poolcafe-tijdloos.nl/",
       "website_checked_on": "2026-10-30",
       "checked_on": "2026-10-30",
       "other_sources": [
         "https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416",
-        "https://www.cylex.nl/bedrijf/tijdloos-poolcaf%C3%A9-13938335.html"
+        "https://www.cylex.nl/bedrijf/tijdloos-poolcaf%C3%A9-13938335.html",
+        "https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe"
       ],
       "original_status": "Officiële website actief 30-10-2026 met Halloween 31 oktober en toekomstige events."
     },
@@ -20246,6 +20247,50 @@
         "https://www.allebiz.nl/caf%C3%A9-restaurant-overwijk-0513-571-217"
       ],
       "original_status": "Actuele exploitantwebsite en eigen bierkaart 30-10-2026."
+    },
+    {
+      "id": "grand-cafe-de-turf-gorredijk-20261030",
+      "name": "Grand Café De Turf",
+      "type": "Grand café / borrel",
+      "address": "Hoofdstraat 37",
+      "city": "Gorredijk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Officiële site bevestigt publieke borrel zonder maaltijd; exploitant zegt gewoon binnenlopen, bevestigd door openingsbericht 1 mei 2026.",
+      "alcohol": "Exploitant bevestigt Paulaner Oktoberfestbier bij eigen evenement 25-10-2026; openingverslag bevestigt glas wijn bij vrije inloop. Volledige reguliere drankenkaart niet afzonderlijk gezien.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen officiële website en actuele 2026 agenda, 30-10-2026.",
+      "closing_source": "https://deturf.nl/",
+      "closing_notes": "30-10-2026: eigen site ma dicht, di–do 10–22, vr/za 10–23, zo 11–22. Specifieke uitzondering Gordykstermerke 25 oktober 10–18, niet als standaard zondag. Eigen bierroutepagina https://deturf.nl/bierroute-gorredijk bevat oningevulde placeholders en is GEEN bewijs voor tijd of deelname. Hotel op site nog 'binnenkort geopend'; uitsluitend Grand Café als operationeel opgenomen. Eigen adres Hoofdstraat 37 vs LinkedIn bedrijfsprofiel 35 en Untappd 37A; exacte BAG-ingang/geocode controleren. Laatste toegang onbekend.",
+      "features": "D0 Opsterland / Gorredijk; Grand Café geopend sinds 1 mei 2026",
+      "website": "https://deturf.nl/",
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "other_sources": [
+        "https://deturf.nl/gordykstermerke",
+        "https://www.grootsa.nl/nieuws/in-bedrijf/131633/grand-cafe-de-turf-in-gorredijk-heeft-haar-deuren-geopend",
+        "https://hotelvak.eu/en/hotel-news/hotel/boundless-hospitality-along-the-turfroute/",
+        "https://nl.linkedin.com/company/de-turf-gorredijk"
+      ],
+      "original_status": "Officieel grand café geopend en bevestigd in openingsverslag 1 mei 2026; site heeft recente agenda oktober–december."
     }
   ],
   "admission_policies": [
