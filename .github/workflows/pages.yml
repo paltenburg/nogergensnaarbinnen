@@ -9,6 +9,10 @@ on:
       - 'tests/test_geocode.py'
       - 'scripts/build_source_registry.py'
       - '.github/workflows/pages.yml'
+  # Pushes immediately rebuild the Pages artifact without writing back to main.
+  # A quiet scheduled run persists generated geocodes/source registers to git.
+  schedule:
+    - cron: '23 3 * * *' # 03:23 UTC, once per day
   workflow_dispatch:
 permissions:
   contents: write
@@ -34,14 +38,19 @@ jobs:
         run: python scripts/geocode.py
       - name: Bronnenregister automatisch bijwerken
         run: python scripts/build_source_registry.py
-      - name: Geocodes en bronnenregister bewaren in masterdatabase
+      # Never push from a push-triggered run: rapid venue commits made the
+      # git branch advance during geocoding, causing repeated non-fast-forward
+      # failures and noisy GitHub Actions emails. The freshly generated files
+      # are still included in the Pages artifact on EVERY push.
+      - name: Geocodes en bronnenregister terugschrijven (dagelijkse run)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           # Generated files can conflict with a previous publishing run or a
           # concurrent venue update. Rebuild against the latest main instead of
           # rebasing generated JSON/Markdown and risking merge conflicts.
-          for attempt in 1 2 3; do
+          for attempt in 1 2 3 4 5; do
             git fetch origin main
             if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
               git reset --hard origin/main
@@ -51,17 +60,20 @@ jobs:
             git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md
             if git diff --cached --quiet; then
               echo 'Generated data already current.'
-              break
+              exit 0
             fi
             git commit -m 'Update gecontroleerde adrescoordinaten [skip ci]'
             if git push origin HEAD:main; then
-              break
+              exit 0
             fi
-            if [ "$attempt" -eq 3 ]; then
-              echo 'Could not publish generated data after three attempts.' >&2
-              exit 1
+            if [ "$attempt" -lt 5 ]; then
+              echo 'Main advanced during maintenance; regenerating from latest main.'
+              sleep 3
             fi
           done
+          # Failure to save derived files is recoverable, not a publication
+          # failure. Next night's run will retry; keep deploying the site.
+          echo '::warning::Generated data could not be committed after five concurrent updates; will retry on the next maintenance run.'
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
