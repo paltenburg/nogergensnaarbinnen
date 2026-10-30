@@ -13442,14 +13442,14 @@
     },
     {
       "id": "grand-cafe-abdij-dokkum-dokkum-6f4a7e0",
-      "name": "Grand Café Abdij Dokkum",
+      "name": "Grand Café Abdij",
       "type": "Grand café",
       "address": "Markt 30a",
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Grand café toegankelijk voor hotelgasten én bezoekers van buiten; borrel en lunch op exploitantwebsite.",
+      "alcohol": "Eigen menu noemt Berenburg, whisky, likeur en wijn; alcoholaanbod bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13460,20 +13460,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site noemt wo–zo lunch vanaf 12:00, maar geen exact café-weekrooster of sluiting",
+      "closing_source": "https://hoteldeabdijdokkum.nl/over-de-abdij/abdij-cafe/",
+      "closing_notes": "Eigen exploitant 30-10-2026: lunch wo–zo 12–15; ontbijt dagelijks 08–11 maar dit bewijst geen borreltoegang vanaf 08:00. Horecasluiting/laatste toegang onbekend. Tripadvisor vermeldt wo–zo 08–22, ma/di dicht, maar niet als officiële cafésluiting overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://hoteldeabdijdokkum.nl/over-de-abdij/abdij-cafe/",
       "other_sources": [
-        "https://uitgaanskaart.nl/dokkum"
+        "https://hoteldeabdijdokkum.nl/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1251041096/grand-cafe-abdij",
+        "https://stagemarkt.nl/leerbedrijven/profiel_eaa609ef-20fb-4eea-8a72-e1a68aefa507"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Hotel en grand café door exploitant en actuele horeca-/stagemarktbronnen bevestigd.",
       "geo": {
         "lat": 53.3268457,
         "lon": 5.9974129,
         "method": "PDOK BAG-adres",
         "matched_address": "Markt 30A, 9101LS Dokkum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       }
     },
     {
@@ -16947,15 +16960,15 @@
     },
     {
       "id": "cafe-de-finne-reahus-fedc896",
-      "name": "Café De Finne",
+      "name": "Café de Ree",
       "type": "Kroeg",
       "address": "Slypsterwei 1",
       "city": "Reahûs",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Eigen website: hoofdzakelijk op afspraak; publieke reguliere vrije inloop niet bevestigd.",
+      "alcohol": "Eigen website noemt eigen Slachtebier en bierproeverijen.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -16965,20 +16978,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site: op afspraak en agenda; geen vaste publieksuren",
+      "closing_source": "https://www.cafederee.nl/",
+      "closing_notes": "Eigen site via zoekindex geraadpleegd 30-10-2026 (direct openen gaf timeout): Café de Ree, Slypsterwei 1, hoofdzakelijk op afspraak geopend. Oude recordnaam 'Café De Finne' op exact hetzelfde adres niet onafhankelijk bevestigd; ID behouden, naam aangepast aan actuele exploitantvermelding. Geen normale vrije inloop, weekrooster of laatste toegang bevestigd. Externe gidsuren niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafederee.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/bolsward"
+        "https://www.allebiz.nl/cafe-de-ree-0515-858-813"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Op hetzelfde adres is exploitant Café de Ree aantoonbaar; relatie met oude inventarisatienaam De Finne nog nader controleren.",
       "geo": {
         "lat": 53.0764707,
         "lon": 5.6363471,
         "method": "PDOK BAG-adres",
         "matched_address": "Slypsterwei 1, 8736JD Reahûs"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
@@ -17112,45 +17136,57 @@
       "city": "Jirnsum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant bevestigt publiek eetcafé/café met losse borrel; snackbar heeft apart rooster.",
+      "alcohol": "Eigen website bevestigt borrel en drankjes; specifieke actuele alcoholkaart niet afzonderlijk bekeken.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "?",
         "wo": "?",
         "do": "?",
         "vr": "?",
-        "za": "?",
+        "za": "00:00",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen homepage en contactpagina hebben intern tegenstrijdige café-uren",
+      "closing_source": "https://2gemeenten.nl/contact/",
+      "closing_notes": "Eigen homepage https://2gemeenten.nl/ (30-10-2026) vermeldt di–vr 10–23, za 12–00, zo 12–22; eigen contactpagina https://2gemeenten.nl/contact/ toont bovenaan di–vr 10–22, za 11:30–00, zo 15–23 en in footer andere uren. Alleen ma gesloten, di–vr 10:00 en za sluiting 00:00 eenduidig; overige start/eindtijden onbekend gehouden. Snackbaruren zijn geen caféuren. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://2gemeenten.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://2gemeenten.nl/contact/",
+        "https://www.visitnoardwestfryslan.nl/nl/locaties/1888225328/eetcafe-de-2-gemeenten"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele officiële site met evenementen in november/december 2026 bevestigt exploitatie.",
       "geo": {
         "lat": 53.082989,
         "lon": 5.7940622,
         "method": "PDOK BAG-adres",
         "matched_address": "Grousterdyk 1, 9011WK Jirnsum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
       "id": "de-fantast-jirnsum-c4f5cbd",
-      "name": "De Fantast",
+      "name": "Café de Fantast",
       "type": "Eetcafé",
       "address": "Rijksweg 132",
       "city": "Jirnsum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "access": "Eigen website adverteert vrije inloop, bier/wijn en terras, maar actualiteit van deze website is onduidelijk.",
+      "alcohol": "Eigen site vermeldt expliciet biertje en wijntje.",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -17160,20 +17196,32 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie.",
+      "closing_quality": "Eigen site toont ongedateerd rooster, externe bedrijvengids meldt gesloten; huidige exploitatie onzeker",
+      "closing_source": "https://www.cafedefantast.nl/",
+      "closing_notes": "Website rechtstreeks gelezen 30-10-2026: ma dicht, di–vr vanaf 16, za/zo vanaf 14; copyright 2019, agenda zonder jaartallen. https://www.allebiz.nl/de-fantast_3K-0566-601-956 markeert zaak als gesloten, terwijl https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830 nog KvK-activiteit 2026 noemt. Geen actuele publieke exploitatie onafhankelijk bevestigd; daarom geen vast rooster of sluiting. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafedefantast.nl/",
       "other_sources": [
-        "https://uitgaanskaart.nl/cafe/grou"
+        "https://www.allebiz.nl/de-fantast_3K-0566-601-956",
+        "https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Identiteit en adres via eigen site/KvK bevestigd, huidige openstelling betwist; geen sluiting als definitief aangemerkt.",
       "geo": {
         "lat": 53.077972,
         "lon": 5.7928087,
         "method": "PDOK BAG-adres",
         "matched_address": "Rijksweg 132, 9011VH Jirnsum"
+      },
+      "website_checked_on": "2026-10-30",
+      "checked_on": "2026-10-30",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       }
     },
     {
