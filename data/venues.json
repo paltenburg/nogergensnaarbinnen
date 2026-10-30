@@ -18158,7 +18158,13 @@
         "https://veerhuys-bolsward.nl/borrel/"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.0619807,
+        "lon": 5.5203461,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Marktplein 6, 8701KG Bolsward"
+      }
     },
     {
       "id": "stadsherberg-de-wijnberg-bolsward-20261030",
@@ -18203,7 +18209,13 @@
         "https://wijnberg-bolsward.nl/"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.061753,
+        "lon": 5.5199954,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Marktplein 5, 8701KG Bolsward"
+      }
     },
     {
       "id": "blend-bolsward-20261030",
@@ -18248,7 +18260,13 @@
         "https://blendbolsward.nl/"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-30",
+      "geo": {
+        "lat": 53.0619765,
+        "lon": 5.5232425,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jongemastraat 2, 8701JD Bolsward"
+      }
     }
   ],
   "admission_policies": [

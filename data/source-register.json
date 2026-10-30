@@ -3,10 +3,10 @@
   "generated_on": "2026-10-30",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 418,
-    "source_urls": 647,
-    "domains": 326,
-    "direct_website_fields": 227
+    "venues": 421,
+    "source_urls": 668,
+    "domains": 335,
+    "direct_website_fields": 232
   },
   "discovery_sites": [
     {
@@ -160,13 +160,13 @@
     },
     {
       "domain": "allebiz.nl",
-      "source_pages": 15,
-      "linked_venues": 15
+      "source_pages": 18,
+      "linked_venues": 18
     },
     {
       "domain": "friesland.nl",
-      "source_pages": 14,
-      "linked_venues": 14
+      "source_pages": 15,
+      "linked_venues": 15
     },
     {
       "domain": "visitleeuwarden.com",
@@ -199,6 +199,11 @@
       "linked_venues": 132
     },
     {
+      "domain": "vvvterschelling.nl",
+      "source_pages": 8,
+      "linked_venues": 8
+    },
+    {
       "domain": "waterlandvanfriesland.nl",
       "source_pages": 8,
       "linked_venues": 7
@@ -219,22 +224,17 @@
       "linked_venues": 6
     },
     {
+      "domain": "visitwadden.nl",
+      "source_pages": 6,
+      "linked_venues": 5
+    },
+    {
       "domain": "findglocal.com",
       "source_pages": 5,
       "linked_venues": 5
     },
     {
       "domain": "grootsneek.nl",
-      "source_pages": 5,
-      "linked_venues": 5
-    },
-    {
-      "domain": "visitwadden.nl",
-      "source_pages": 5,
-      "linked_venues": 4
-    },
-    {
-      "domain": "vvvterschelling.nl",
       "source_pages": 5,
       "linked_venues": 5
     },
@@ -312,6 +312,11 @@
       "domain": "paddyoryan.frl",
       "source_pages": 3,
       "linked_venues": 1
+    },
+    {
+      "domain": "restaurant-terschelling.nl",
+      "source_pages": 3,
+      "linked_venues": 3
     },
     {
       "domain": "sjoerd-ameland.nl",
@@ -669,6 +674,16 @@
       "linked_venues": 1
     },
     {
+      "domain": "veerhuys-bolsward.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vijfpoort.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "waze.com",
       "source_pages": 2,
       "linked_venues": 2
@@ -779,6 +794,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "blendbolsward.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "bodytalk-utrecht.metro.bar",
       "source_pages": 1,
       "linked_venues": 1
@@ -786,7 +806,7 @@
     {
       "domain": "bolsward.nl",
       "source_pages": 1,
-      "linked_venues": 3
+      "linked_venues": 6
     },
     {
       "domain": "boot122.nl",
@@ -1179,12 +1199,22 @@
       "linked_venues": 1
     },
     {
+      "domain": "facebook.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "feestcafedekneus.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
     {
       "domain": "fenixsneek.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "fietsnetwerk.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1220,6 +1250,11 @@
     },
     {
       "domain": "gastrobarflorijn.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "geitenbode.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1389,6 +1424,11 @@
       "linked_venues": 0
     },
     {
+      "domain": "loodscafe.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "maggy.club",
       "source_pages": 1,
       "linked_venues": 1
@@ -1525,11 +1565,6 @@
     },
     {
       "domain": "restaurant-cafe-bar.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "restaurant-terschelling.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1724,6 +1759,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "vlieland.net",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "vlieland.site",
       "source_pages": 1,
       "linked_venues": 1
@@ -1750,6 +1790,11 @@
     },
     {
       "domain": "wijnbar-kurk.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "wijnberg-bolsward.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -2034,6 +2079,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-zomer-west-terschelling-54c8f87",
+          "name": "Café de Zomer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-lieman-west-terschelling-3808f8b",
+          "name": "Café Lieman",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-t-diekje_2R-06-14989705",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -2166,6 +2259,30 @@
         {
           "id": "het-stamcafe-heerenveen-b1c29a4",
           "name": "Het Stamcafé",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/het-veerhuys-bolsward-0515-859-511",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-het-veerhuys-bolsward-20261030",
+          "name": "Stadscafé Het Veerhuys",
           "roles": [
             "achtergrond"
           ],
@@ -3276,6 +3393,37 @@
       "needs_review": true
     },
     {
+      "url": "https://blendbolsward.nl/",
+      "domain": "blendbolsward.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "blend-bolsward-20261030",
+          "name": "Blend Bolsward",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://bodytalk-utrecht.metro.bar/?lang=nl",
       "domain": "bodytalk-utrecht.metro.bar",
       "first_registered_on": "2026-10-26",
@@ -3319,6 +3467,15 @@
       ],
       "venues": [
         {
+          "id": "blend-bolsward-20261030",
+          "name": "Blend Bolsward",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
           "id": "cafe-de-drie-koningen-bolsward-20261030",
           "name": "Café De Drie Koningen",
           "roles": [
@@ -3344,10 +3501,28 @@
           ],
           "checked_on": {},
           "needs_review": true
+        },
+        {
+          "id": "stadscafe-het-veerhuys-bolsward-20261030",
+          "name": "Stadscafé Het Veerhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+          "name": "Stadsherberg De Wijnberg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
-      "linked_venue_count": 3,
+      "linked_venue_count": 6,
       "needs_review": true
     },
     {
@@ -9349,6 +9524,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.facebook.com/EetcafeDeRichel",
+      "domain": "facebook.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-richel-west-terschelling-47de150",
+          "name": "Lunchcafé en Minigolfbaan De Richel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://feestcafedekneus.nl/",
       "domain": "feestcafedekneus.nl",
       "first_registered_on": "2026-10-26",
@@ -9402,6 +9601,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-29",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/",
+      "domain": "fietsnetwerk.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "blend-bolsward-20261030",
+          "name": "Blend Bolsward",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -9905,6 +10128,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.friesland.nl/nl/locaties/3212642821/hotel-restaurant-de-wijnberg",
+      "domain": "friesland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+          "name": "Stadsherberg De Wijnberg",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.friesland.nl/nl/locaties/3864248882/grand-cafe-levels",
       "domain": "friesland.nl",
       "first_registered_on": "2026-10-29",
@@ -10144,6 +10391,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://www.geitenbode.nl/nieuws/zakelijk/19449/island-pub-op-vlieland",
+      "domain": "geitenbode.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "island-pub-vlieland-f6793f0",
+          "name": "The Island Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://go-kids.nl/friesland/eten-en-drinken/theatercafe-hopper-bij-de-lawei-in-drachten",
@@ -12409,6 +12680,38 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 0,
       "needs_review": false
+    },
+    {
+      "url": "https://www.loodscafe.nl/",
+      "domain": "loodscafe.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "island-pub-vlieland-f6793f0",
+          "name": "The Island Pub",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30",
+            "openingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://luifelutrecht.nl/",
@@ -14756,6 +15059,54 @@
         {
           "id": "cafe-de-twin-leeuwarden-0003bb5",
           "name": "Café De Twin",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://restaurant-terschelling.nl/restaurants/cafe-de-zomer/",
+      "domain": "restaurant-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-zomer-west-terschelling-54c8f87",
+          "name": "Café de Zomer",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://restaurant-terschelling.nl/restaurants/eetcafe-de-richel/",
+      "domain": "restaurant-terschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-richel-west-terschelling-47de150",
+          "name": "Lunchcafé en Minigolfbaan De Richel",
           "roles": [
             "achtergrond"
           ],
@@ -19283,7 +19634,7 @@
         },
         {
           "id": "island-pub-vlieland-f6793f0",
-          "name": "Island Pub",
+          "name": "The Island Pub",
           "roles": [
             "achtergrond"
           ],
@@ -19360,26 +19711,8 @@
           "needs_review": true
         },
         {
-          "id": "de-vijfpoort-formerum-fa6312a",
-          "name": "De Vijfpoort",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
           "id": "eetcafe-de-dammesaan-midsland-448a367",
           "name": "Eetcafé de Dammesaan",
-          "roles": [
-            "achtergrond"
-          ],
-          "checked_on": {},
-          "needs_review": true
-        },
-        {
-          "id": "eetcafe-de-richel-west-terschelling-47de150",
-          "name": "Eetcafé De Richel",
           "roles": [
             "achtergrond"
           ],
@@ -19398,6 +19731,24 @@
         {
           "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
           "name": "Grand Café Restaurant Zeezicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "eetcafe-de-richel-west-terschelling-47de150",
+          "name": "Lunchcafé en Minigolfbaan De Richel",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        },
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "Muziekcafé De Vijfpoort",
           "roles": [
             "achtergrond"
           ],
@@ -21149,6 +21500,59 @@
       "needs_review": true
     },
     {
+      "url": "https://veerhuys-bolsward.nl/",
+      "domain": "veerhuys-bolsward.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-het-veerhuys-bolsward-20261030",
+          "name": "Stadscafé Het Veerhuys",
+          "roles": [
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://veerhuys-bolsward.nl/borrel/",
+      "domain": "veerhuys-bolsward.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "stadscafe-het-veerhuys-bolsward-20261030",
+          "name": "Stadscafé Het Veerhuys",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/1/nomono",
       "domain": "verseuitjes.nl",
       "first_registered_on": "2026-10-26",
@@ -21253,6 +21657,62 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vijfpoort.nl/",
+      "domain": "vijfpoort.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "Muziekcafé De Vijfpoort",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vijfpoort.nl/wp/bereikbaarheid/",
+      "domain": "vijfpoort.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "Muziekcafé De Vijfpoort",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -21804,6 +22264,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/949803355/muziekcafe-de-vijfpoort",
+      "domain": "visitwadden.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "Muziekcafé De Vijfpoort",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://vlieland.net/nl/activiteit/hop-over-het-eiland",
+      "domain": "vlieland.net",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "island-pub-vlieland-f6793f0",
+          "name": "The Island Pub",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie",
       "domain": "vlieland.site",
       "first_registered_on": "2026-10-30",
@@ -21952,6 +22460,66 @@
       "needs_review": true
     },
     {
+      "url": "https://www.vvvterschelling.nl/bedrijven/cafe-lieman/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-lieman-west-terschelling-3808f8b",
+          "name": "Café Lieman",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-de-richel/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "eetcafe-de-richel-west-terschelling-47de150",
+          "name": "Lunchcafé en Minigolfbaan De Richel",
+          "roles": [
+            "achtergrond",
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
       "domain": "vvvterschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -21988,6 +22556,30 @@
         {
           "id": "grand-cafe-restaurant-zeezicht-west-terschelling-cd85244",
           "name": "Grand Café Restaurant Zeezicht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.vvvterschelling.nl/bedrijven/muziekcafe-de-vijfpoort/",
+      "domain": "vvvterschelling.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-vijfpoort-formerum-fa6312a",
+          "name": "Muziekcafé De Vijfpoort",
           "roles": [
             "achtergrond"
           ],
@@ -22457,6 +23049,37 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://wijnberg-bolsward.nl/",
+      "domain": "wijnberg-bolsward.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+          "name": "Stadsherberg De Wijnberg",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-10-30",
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://willemslok.nl/",
@@ -22968,10 +23591,6 @@
         "name": "De Troef spelletjescafé"
       },
       {
-        "id": "de-vijfpoort-formerum-fa6312a",
-        "name": "De Vijfpoort"
-      },
-      {
         "id": "dito-bfdb022",
         "name": "Dito"
       },
@@ -23002,10 +23621,6 @@
       {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
         "name": "Eetcafé De Pleats"
-      },
-      {
-        "id": "eetcafe-de-richel-west-terschelling-47de150",
-        "name": "Eetcafé De Richel"
       },
       {
         "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
@@ -23116,10 +23731,6 @@
         "name": "Het Wapen van Leeuwarden"
       },
       {
-        "id": "island-pub-vlieland-f6793f0",
-        "name": "Island Pub"
-      },
-      {
         "id": "jan-de-winter-720539c",
         "name": "Jan de Winter"
       },
@@ -23162,6 +23773,10 @@
       {
         "id": "little-dublin-de45a9d",
         "name": "Little Dublin"
+      },
+      {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Lunchcafé en Minigolfbaan De Richel"
       },
       {
         "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
@@ -23440,6 +24055,10 @@
       {
         "id": "bistro-workum-workum-e121155",
         "name": "Bistro Workum"
+      },
+      {
+        "id": "blend-bolsward-20261030",
+        "name": "Blend Bolsward"
       },
       {
         "id": "boot-122-45b992e",
@@ -23762,10 +24381,6 @@
         "name": "De Toeter"
       },
       {
-        "id": "de-vijfpoort-formerum-fa6312a",
-        "name": "De Vijfpoort"
-      },
-      {
         "id": "dito-bfdb022",
         "name": "Dito"
       },
@@ -23800,10 +24415,6 @@
       {
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
         "name": "Eetcafé De Pleats"
-      },
-      {
-        "id": "eetcafe-de-richel-west-terschelling-47de150",
-        "name": "Eetcafé De Richel"
       },
       {
         "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
@@ -23946,10 +24557,6 @@
         "name": "Het Wapen van Leeuwarden"
       },
       {
-        "id": "island-pub-vlieland-f6793f0",
-        "name": "Island Pub"
-      },
-      {
         "id": "it-reade-hynder-wommels-0121f4b",
         "name": "It Reade Hynder"
       },
@@ -23994,6 +24601,10 @@
         "name": "Lebowski’s Speakeasy"
       },
       {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Lunchcafé en Minigolfbaan De Richel"
+      },
+      {
         "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
         "name": "Ma Kelly's Muziekcafé"
       },
@@ -24012,6 +24623,10 @@
       {
         "id": "molencafe-de-ster-b93b14b",
         "name": "Molencafé De Ster"
+      },
+      {
+        "id": "de-vijfpoort-formerum-fa6312a",
+        "name": "Muziekcafé De Vijfpoort"
       },
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
@@ -24106,6 +24721,14 @@
         "name": "Stadscafé Artisante"
       },
       {
+        "id": "stadscafe-het-veerhuys-bolsward-20261030",
+        "name": "Stadscafé Het Veerhuys"
+      },
+      {
+        "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+        "name": "Stadsherberg De Wijnberg"
+      },
+      {
         "id": "stoker-koffiebar-joure-b54d49f",
         "name": "Stoker Koffiebar"
       },
@@ -24116,6 +24739,10 @@
       {
         "id": "tapperij-t-noord-franeker-340a463",
         "name": "Tapperij 't Noord"
+      },
+      {
+        "id": "island-pub-vlieland-f6793f0",
+        "name": "The Island Pub"
       },
       {
         "id": "the-pub-public-underground-bar-harlingen-5144488",
@@ -24234,6 +24861,11 @@
         "id": "bistro-workum-workum-e121155",
         "name": "Bistro Workum",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+      },
+      {
+        "id": "blend-bolsward-20261030",
+        "name": "Blend Bolsward",
+        "reason": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen."
       },
       {
         "id": "brisa-f2ab931",
@@ -24476,11 +25108,6 @@
         "reason": "Eigen site noemt expliciet privé-café en 'altijd open op reservering'. Daarom uitgesloten van publieke inloopresultaten; dit betekent niet dat de onderneming gesloten is. Geen standaard sluiting of laatste toegang."
       },
       {
-        "id": "cafe-de-zomer-west-terschelling-54c8f87",
-        "name": "Café de Zomer",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "cafe-de-zwarte-arend-peazens-5a1a203",
         "name": "Café De Zwarte Arend",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -24538,7 +25165,7 @@
       {
         "id": "cafe-lieman-west-terschelling-3808f8b",
         "name": "Café Lieman",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "30-10-2026: VVV bevestigt café/adres/alcohol en noemt rooster, maar https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568 geeft andere ma/do en vr–zo tijden. Geen verifieerbare officiële site, geen vaste sluiting of laatste toegang overgenomen."
       },
       {
         "id": "cafe-pietje-bel-drachten-5eb1428",
@@ -24721,11 +25348,6 @@
         "reason": "Pop-up geopend 22 aug 2026 naast de Ping Pong Club in hetzelfde pand; gepland einde in 2027, controleer nieuwe ontwikkelingen."
       },
       {
-        "id": "de-vijfpoort-formerum-fa6312a",
-        "name": "De Vijfpoort",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "de-welvaart-hollum-8afd4cb",
         "name": "De Welvaart",
         "reason": "Eigen site ma gesloten, di–do/zo 15:00–23:00, vr/za 15:00–01:00. EXPLICIETE AFWIJKING: zondag 1 november 2026 gesloten (op contactpagina 30-10-2026). De weektabel kan datumuitzonderingen niet representeren; op 1 november dus niet vertrouwen op standaard zondagrooster. Laatste toegang onbekend."
@@ -24769,11 +25391,6 @@
         "id": "eetcafe-de-pleats-woudsend-0d71b79",
         "name": "Eetcafé De Pleats",
         "reason": "VVV Friesland vermeldt winter: ma/di gesloten, wo–za 16–02, zo 16–00; voorseizoen vanaf 18 april: ma/di gesloten, wo/do 16–02, vr/za 12–02, zo 12–00; hoogseizoen juli/aug: ma–za 12–02, zo 12–00. Omdat publicatiejaar/seizoensovergang niet duidelijk is en eigen domein eetcafedepleats.nl niet toegankelijk was op 29-10-2026, geen van deze roosters als actuele exacte tijden ingevoerd. Laatste toegang onbekend."
-      },
-      {
-        "id": "eetcafe-de-richel-west-terschelling-47de150",
-        "name": "Eetcafé De Richel",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "eetcafe-de-smalle-kant-st-annaparochie-f3aacd0",
@@ -24961,11 +25578,6 @@
         "reason": "Maandag sluit de officiële site om 19:00; andere gidsen vermelden afwijkende tijden. Laatste toegang onbekend."
       },
       {
-        "id": "island-pub-vlieland-f6793f0",
-        "name": "Island Pub",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
-      },
-      {
         "id": "it-reade-hynder-wommels-0121f4b",
         "name": "It Reade Hynder",
         "reason": "Eigen website op 29-10-2026 rechtstreeks gecontroleerd: ma 16:00–21:00, dinsdag op afspraak, wo 11:00–21:00, do 10:30–21:00, vrijdag en zaterdag vanaf 10:30 tot 'sluit', zondag vanaf 11:00 tot 'sluit'. Voor vr/za/zo geen exact einduur; geen laatste toegang. VVV https://www.friesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder toont strijdig rooster (ma–wo gesloten en do–zo 10:00–00:30). Het bedrijf zelf heeft voorrang. BAG https://allecijfers.nl/postcode/8731BB/ bevestigt 't Noard 6 als bijeenkomstfunctie; exacte PDOK-coördinaat nog niet gevonden."
@@ -25011,6 +25623,11 @@
         "reason": "Aparte bar in hetzelfde pand als Grand Café Lebowski; geen eigen gecontroleerde sluitingstijden beschikbaar."
       },
       {
+        "id": "eetcafe-de-richel-west-terschelling-47de150",
+        "name": "Lunchcafé en Minigolfbaan De Richel",
+        "reason": "30-10-2026: VVV vermeldt ma 13–17:30, di/wo dicht, do–zo 10–16; https://restaurant-terschelling.nl/restaurants/eetcafe-de-richel/ noemt tijdelijk gesloten en afwijkende uren. Actuele bedrijfseigen Facebookposts niet geverifieerd; sluiting en laatste toegang onbekend."
+      },
+      {
         "id": "ma-kelly-s-muziekcafe-frieschepalen-0f8f1d0",
         "name": "Ma Kelly's Muziekcafé",
         "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
@@ -25019,6 +25636,11 @@
         "id": "mootz-sneek-0f73107",
         "name": "Mootz",
         "reason": "Mootz is een historische discotheek en de onderneming is niet langer actief. Een actuele Funda-verkoopadvertentie voor Kruizebroederstraat 25 vermeldt dat de begane grond van 23 en 25 momenteel als woonkamer, slaapkamer en hobbybakkerij is ingericht; horeca zou pas na verbouwing opnieuw mogelijk zijn. Er is geen onderbouwde huidige horeca-opvolger. De nog aanwezige HFS-/kaartvermeldingen zijn kennelijk historische of onbevestigde data; neem hun tijden niet over."
+      },
+      {
+        "id": "de-vijfpoort-formerum-fa6312a",
+        "name": "Muziekcafé De Vijfpoort",
+        "reason": "30-10-2026: 2026-programma en seizoen bevestigd. Buiten zomer vrijwel iedere zaterdag vanaf 21:00, overige avonden eventafhankelijk. VVV za 21:00–02:00 niet als gegarandeerd vast rooster overgenomen; laatste toegang onbekend."
       },
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
@@ -25116,6 +25738,16 @@
         "reason": "Eigen site 30-10-2026: wo–za vanaf 10:00, zo–di vanaf 11:00, zonder sluitingsuren. Lokale stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo tot 22:00, vr/za tot 02:00; Cylex en Fietsnetwerk melden afwijkende 23/23:30/01:00. Alle eindtijden onbekend gezet; niet uit onbetrouwbaar rooster afleiden. Laatste toegang onbekend."
       },
       {
+        "id": "stadscafe-het-veerhuys-bolsward-20261030",
+        "name": "Stadscafé Het Veerhuys",
+        "reason": "Eigen site bevestigt tapas en openbare borrel; externe AlleBiz-rooster niet als bevestigd aangenomen. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen."
+      },
+      {
+        "id": "stadsherberg-de-wijnberg-bolsward-20261030",
+        "name": "Stadsherberg De Wijnberg",
+        "reason": "Eigen site bevestigt drankgelegenheid en horeca; reserveringsformulier voor eten is geen algemene toegangsplicht. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen."
+      },
+      {
         "id": "stichtse-taveerne-88f4900",
         "name": "Stichtse Taveerne",
         "reason": "Contactpagina toont reguliere uren; homepage noemt afwijkende openingstijden voor juli/augustus. In oktober reguliere uren aangehouden."
@@ -25144,6 +25776,11 @@
         "id": "teds-stadhuisplein-20261026",
         "name": "Teds Utrecht Stadhuisplein",
         "reason": "Eigen vestigingswebsite 09:00-17:00, bij geschikt zomerweer do-zo 09:00-19:00. De Buik en VindOpen vermelden vrijdag/weekend tot 20:00; tijdconflict expliciet behouden, geen latere sluiting aangenomen."
+      },
+      {
+        "id": "island-pub-vlieland-f6793f0",
+        "name": "The Island Pub",
+        "reason": "30-10-2026: live pagina vrijdag–dinsdag vanaf 15:30 en wo/do dicht. Een oudere zoekindex toont omgekeerd wo–zo; de rechtstreeks geopende eigen pagina gevolgd. Sluiting/laatste toegang onbekend; festivalbeperking voor 27-08-2026 niet als algemeen beleid overgenomen."
       },
       {
         "id": "the-pub-public-underground-bar-harlingen-5144488",
