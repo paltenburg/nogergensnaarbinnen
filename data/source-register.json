@@ -4,9 +4,9 @@
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 412,
-    "source_urls": 508,
-    "domains": 263,
-    "direct_website_fields": 193
+    "source_urls": 536,
+    "domains": 275,
+    "direct_website_fields": 195
   },
   "discovery_sites": [
     {
@@ -169,6 +169,11 @@
       "linked_venues": 10
     },
     {
+      "domain": "visitleeuwarden.com",
+      "source_pages": 9,
+      "linked_venues": 8
+    },
+    {
       "domain": "allecijfers.nl",
       "source_pages": 8,
       "linked_venues": 8
@@ -184,9 +189,24 @@
       "linked_venues": 7
     },
     {
+      "domain": "allebiz.nl",
+      "source_pages": 7,
+      "linked_venues": 7
+    },
+    {
       "domain": "clubbasis.nl",
       "source_pages": 6,
       "linked_venues": 1
+    },
+    {
+      "domain": "cylex.nl",
+      "source_pages": 6,
+      "linked_venues": 6
+    },
+    {
+      "domain": "hfsfreelancers.nl",
+      "source_pages": 6,
+      "linked_venues": 6
     },
     {
       "domain": "grootsneek.nl",
@@ -204,12 +224,7 @@
       "linked_venues": 4
     },
     {
-      "domain": "cylex.nl",
-      "source_pages": 4,
-      "linked_venues": 4
-    },
-    {
-      "domain": "hfsfreelancers.nl",
+      "domain": "compadex.com",
       "source_pages": 4,
       "linked_venues": 4
     },
@@ -237,16 +252,6 @@
       "domain": "vind-open.nl",
       "source_pages": 4,
       "linked_venues": 4
-    },
-    {
-      "domain": "visitleeuwarden.com",
-      "source_pages": 4,
-      "linked_venues": 3
-    },
-    {
-      "domain": "allebiz.nl",
-      "source_pages": 3,
-      "linked_venues": 3
     },
     {
       "domain": "amelanderbier.nl",
@@ -294,6 +299,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "cafederus.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "cafedestad.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -322,11 +332,6 @@
       "domain": "clubclaar.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "compadex.com",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "companyinfo.nl",
@@ -629,7 +634,17 @@
       "linked_venues": 1
     },
     {
+      "domain": "barsybs.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "barwalden.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "binnenopameland.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -665,6 +680,11 @@
     },
     {
       "domain": "brisa.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "broodopameland.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -854,6 +874,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "deamelander.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "debabbelaar.com",
       "source_pages": 1,
       "linked_venues": 1
@@ -934,6 +959,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "doelebar.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "duic.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -995,6 +1025,11 @@
     },
     {
       "domain": "florinutrecht.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "fr.restaurantguru.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1154,6 +1189,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "mapcarta.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "marktzicht030.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1255,6 +1295,11 @@
     },
     {
       "domain": "restaurant-broei.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "restaurant-cafe-bar.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1374,6 +1419,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "tripadvisor.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
       "domain": "ubicautrecht.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -1425,6 +1475,16 @@
     },
     {
       "domain": "vlieland.site",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "vvvameland.com",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "waze.com",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -1569,6 +1629,30 @@
       "needs_review": false
     },
     {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+          "name": "Café de Pastorie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320",
       "domain": "allebiz.nl",
       "first_registered_on": "2026-10-30",
@@ -1581,6 +1665,30 @@
         {
           "id": "cafe-de-strohoed-leeuwarden-2ee1c60",
           "name": "Café de Strohoed",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-twin-leeuwarden-0003bb5",
+          "name": "Café De Twin",
           "roles": [
             "achtergrond"
           ],
@@ -1629,6 +1737,54 @@
         {
           "id": "de-toeter-leeuwarden-f8ed332",
           "name": "De Toeter",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+          "name": "Muziekcafé Scooter's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.allebiz.nl/the-rooster",
+      "domain": "allebiz.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-us-mem-leeuwarden-21a91b5",
+          "name": "Café Us Mem",
           "roles": [
             "achtergrond"
           ],
@@ -2277,6 +2433,36 @@
       "needs_review": true
     },
     {
+      "url": "https://barsybs.nl/",
+      "domain": "barsybs.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://barwalden.nl/",
       "domain": "barwalden.nl",
       "first_registered_on": "2026-10-26",
@@ -2481,6 +2667,30 @@
       "needs_review": true
     },
     {
+      "url": "https://binnenopameland.nl/groepen/",
+      "domain": "binnenopameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+          "name": "Grand Café Brood Ameland",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.biton.nl/",
       "domain": "biton.nl",
       "first_registered_on": "2026-10-29",
@@ -2669,6 +2879,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://broodopameland.nl/",
+      "domain": "broodopameland.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+          "name": "Grand Café Brood Ameland",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://brothersinlawtaphouse.nl/",
@@ -3106,6 +3340,54 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-25",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafederus.nl/",
+      "domain": "cafederus.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-rus-leeuwarden-9df98c2",
+          "name": "Café De Rus",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://cafederus.nl/contact/",
+      "domain": "cafederus.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-rus-leeuwarden-9df98c2",
+          "name": "Café De Rus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -5626,6 +5908,54 @@
       "needs_review": true
     },
     {
+      "url": "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687",
+      "domain": "compadex.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bok-hollum-f23e5ba",
+          "name": "Café Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606",
       "domain": "compadex.com",
       "first_registered_on": "2026-10-30",
@@ -5794,6 +6124,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-twin-leeuwarden-0003bb5",
+          "name": "Café De Twin",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.cylex.nl/bedrijf/de-ping-pong-club-13135258.html",
       "domain": "cylex.nl",
       "first_registered_on": "2026-10-26",
@@ -5806,6 +6160,30 @@
         {
           "id": "de-ping-pong-club-3e4df3c",
           "name": "De Ping Pong Club",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "de-markies-leeuwarden-d3d3930",
+          "name": "De Markies",
           "roles": [
             "achtergrond"
           ],
@@ -5980,6 +6358,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://deamelander.nl/cafe-bok-hollum/",
+      "domain": "deamelander.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bok-hollum-f23e5ba",
+          "name": "Café Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.debabbelaar.com/",
@@ -7027,6 +7429,30 @@
       "needs_review": true
     },
     {
+      "url": "https://doelebar.nl/locatie/",
+      "domain": "doelebar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://dokkum.nl/eten-en-drinken/",
       "domain": "dokkum.nl",
       "first_registered_on": "2026-10-29",
@@ -7787,6 +8213,30 @@
       "last_data_field_checked_on": "2026-10-26",
       "linked_venue_count": 1,
       "needs_review": false
+    },
+    {
+      "url": "https://fr.restaurantguru.com/Cafe-Bok-Hollum-2",
+      "domain": "fr.restaurantguru.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bok-hollum-f23e5ba",
+          "name": "Café Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
@@ -8646,6 +9096,30 @@
       "needs_review": true
     },
     {
+      "url": "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+          "name": "Muziekcafé Scooter's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.hfsfreelancers.nl/en/locaties/sneek/bars/mootz",
       "domain": "hfsfreelancers.nl",
       "first_registered_on": "2026-10-29",
@@ -8706,6 +9180,30 @@
         {
           "id": "kweekvijver-utrecht-c5d2c85",
           "name": "KweekVijver Utrecht",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem",
+      "domain": "hfsfreelancers.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-us-mem-leeuwarden-21a91b5",
+          "name": "Café Us Mem",
           "roles": [
             "achtergrond"
           ],
@@ -9795,6 +10293,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-10-26",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://mapcarta.com/N2732928237",
+      "domain": "mapcarta.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bok-hollum-f23e5ba",
+          "name": "Café Bok",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -11758,6 +12280,30 @@
       "needs_review": true
     },
     {
+      "url": "https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/",
+      "domain": "restaurant-cafe-bar.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-twin-leeuwarden-0003bb5",
+          "name": "Café De Twin",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.restaurant273.com/",
       "domain": "restaurant273.com",
       "first_registered_on": "2026-10-29",
@@ -13234,6 +13780,30 @@
       "last_data_field_checked_on": "2026-10-30",
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.tripadvisor.nl/Restaurant_Review-g652194-d19484820-Reviews-Grand_Cafe_Brood-Nes_Ameland_Friesland_Province.html",
+      "domain": "tripadvisor.nl",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+          "name": "Grand Café Brood Ameland",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://ubicautrecht.nl/reserveren",
@@ -15173,7 +15743,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": true
+          "needs_review": false
         },
         {
           "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
@@ -17924,6 +18494,130 @@
       "needs_review": true
     },
     {
+      "url": "https://visitleeuwarden.com/locaties/1489954868/www-cafescooters-com",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
+          "name": "Muziekcafé Scooter's",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://visitleeuwarden.com/locaties/2614250416/cafe-de-pastorie",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-pastorie-leeuwarden-ca96efd",
+          "name": "Café de Pastorie",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "de-markies-leeuwarden-d3d3930",
+          "name": "De Markies",
+          "roles": [
+            "achtergrond",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "sluitingstijden": "2026-10-30"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-10-30",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitleeuwarden.com/locaties/1361140994/bar-sybs",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus",
+      "domain": "visitleeuwarden.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-de-rus-leeuwarden-9df98c2",
+          "name": "Café De Rus",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter",
       "domain": "visitleeuwarden.com",
       "first_registered_on": "2026-10-30",
@@ -18113,6 +18807,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
+    },
+    {
+      "url": "https://www.vvvameland.com/companies/eat-and-drink-ameland/restaurants-and-eateries/restaurants-in-nes",
+      "domain": "vvvameland.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
+          "name": "Grand Café Brood Ameland",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": false
     },
     {
       "url": "https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/",
@@ -18373,6 +19091,30 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 0,
       "needs_review": false
+    },
+    {
+      "url": "https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4",
+      "domain": "waze.com",
+      "first_registered_on": "2026-10-30",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-us-mem-leeuwarden-21a91b5",
+          "name": "Café Us Mem",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://werkenbijutrechtsehorecagroep.nl/contact/",
@@ -18747,10 +19489,6 @@
         "name": "Bar Suc 6"
       },
       {
-        "id": "bar-sybs-leeuwarden-71570c8",
-        "name": "Bar Sybs"
-      },
-      {
         "id": "bassment-7cf6c51",
         "name": "Bassment"
       },
@@ -18909,10 +19647,6 @@
       {
         "id": "cafe-de-pastorie-leeuwarden-ca96efd",
         "name": "Café de Pastorie"
-      },
-      {
-        "id": "cafe-de-rus-leeuwarden-9df98c2",
-        "name": "Café De Rus"
       },
       {
         "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
@@ -19629,10 +20363,6 @@
         "name": "Bar Suc 6"
       },
       {
-        "id": "bar-sybs-leeuwarden-71570c8",
-        "name": "Bar Sybs"
-      },
-      {
         "id": "bassment-7cf6c51",
         "name": "Bassment"
       },
@@ -19983,10 +20713,6 @@
       {
         "id": "de-kroeg-heerenveen-9b76232",
         "name": "De Kroeg"
-      },
-      {
-        "id": "de-markies-leeuwarden-d3d3930",
-        "name": "De Markies"
       },
       {
         "id": "de-prins-h-leeuwarden-bde2dfe",
@@ -20490,7 +21216,7 @@
       {
         "id": "bar-sybs-leeuwarden-71570c8",
         "name": "Bar Sybs",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend."
       },
       {
         "id": "bistro-workum-workum-e121155",
@@ -20590,7 +21316,7 @@
       {
         "id": "cafe-bok-hollum-f23e5ba",
         "name": "Café Bok",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Hollum, NIET Café Bok in Enkhuizen (https://cafebok.nl/ hoort bij Enkhuizen). https://www.compadex.com/nl/businesses/nl/cafe-de-bok-88076474-23153687 registreert drinkgelegenheid op Johan Wilhelm Burgerstraat 3a, bijgewerkt februari 2026. OSM-afgeleide https://mapcarta.com/N2732928237 meldt 16:00–01:30, https://fr.restaurantguru.com/Cafe-Bok-Hollum-2 noemt dinsdag gesloten en 17:00–01:30, zondag 00:00; conflict. Geen bedrijfseigen website of rooster gevonden, alle tijden en laatste toegang onbekend."
       },
       {
         "id": "cafe-d-oude-oost-grou-006c9f7",
@@ -20685,12 +21411,12 @@
       {
         "id": "cafe-de-pastorie-leeuwarden-ca96efd",
         "name": "Café de Pastorie",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Visit Leeuwarden bevestigt café op Kleine Kerkstraat 9 en publiek bezoek. Gids Allebiz noemt wo/zo 16–22, do-za 14–22, ma/di gesloten, maar eigen cafebiljartdepastorie.nl niet bereikbaar; daarom weekrooster onbekend. Laatste toegang onbekend."
       },
       {
         "id": "cafe-de-rus-leeuwarden-9df98c2",
         "name": "Café De Rus",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Eigen contactpagina bevestigt Stationsweg 28 en publieke borrels; geen bedrijfseigen sluitingsrooster of laatste toegang gevonden (30-10-2026). Gidsuren niet overgenomen."
       },
       {
         "id": "cafe-de-schieve-deure-nijeholtpade-bb60bad",
@@ -20715,7 +21441,7 @@
       {
         "id": "cafe-de-twin-leeuwarden-0003bb5",
         "name": "Café De Twin",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend."
       },
       {
         "id": "cafe-de-zaak-516b7d2",
@@ -20835,7 +21561,7 @@
       {
         "id": "cafe-us-mem-leeuwarden-21a91b5",
         "name": "Café Us Mem",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "https://www.allebiz.nl/the-rooster vermeldt Cafe Us Mem Bij de Put 6 als gesloten (historische uren). https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem beschrijft zaak als actief en geeft 16:00–02:00 / weekend 03:00, maar is geen bedrijfseigen bron; https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4 vermeldt afwijkend vr/za 19:00–01:00. Status en tijden tegenstrijdig, geen sluiting of heropening bewezen; uit standaardresultaten tot verificatie."
       },
       {
         "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
@@ -20925,7 +21651,7 @@
       {
         "id": "de-markies-leeuwarden-d3d3930",
         "name": "De Markies",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Visit Leeuwarden en Friesland.nl tonen ma gesloten, di-do 16–01, vr/za 15–01, zo 15–20. Cylex noemt vr/za 02 en zo 21; conflict. Eigen domein de-markies.nl genoemd maar niet rechtstreeks bereikbaar bij controle 30-10-2026; laatste toegang onbekend."
       },
       {
         "id": "de-ping-pong-club-3e4df3c",
@@ -21081,11 +21807,6 @@
         "id": "grand-cafe-bowling-de-kaden-drachten-be2b006",
         "name": "Grand Café Bowling de Kaden",
         "reason": "Maandag/dinsdag uitsluitend op reservering; geen vast tijdvenster. Officiële pagina noemt afwijkende herfstvakantie- en feestdagenopening. Laatste toegang onbekend."
-      },
-      {
-        "id": "grand-cafe-brood-ameland-nes-7b1c8d3",
-        "name": "Grand Café Brood Ameland",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
       },
       {
         "id": "grand-cafe-bullock-bolsward-e66a509",
@@ -21280,7 +22001,7 @@
       {
         "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
         "name": "Muziekcafé Scooter's",
-        "reason": "Tijden en laatste toegang nog te controleren; geen aanname uit vergunning of categorie."
+        "reason": "Visit Leeuwarden bevestigt livemuziek vr/za, pubquiz wo, karaoke do en afterparty na 01:00. Cafescooters.com genoemd als eigen domein maar niet bereikbaar. Gidsen geven uiteenlopende uren (o.a. dinsdag/woensdag/zondag); geen bedrijfseigen weekrooster of laatste toegang geverifieerd, daarom onbekend."
       },
       {
         "id": "nes-cafe-nes-b14449a",

@@ -1,7 +1,7 @@
 {
   "total": 412,
-  "with_coordinates": 389,
-  "without_coordinates": 23,
+  "with_coordinates": 388,
+  "without_coordinates": 24,
   "added_in_this_run": 0,
   "unmatched": [
     {
@@ -86,6 +86,12 @@
       "name": "Tijm",
       "address": "Donkere Gaard 3",
       "city": "Utrecht",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Bar Sybs",
+      "address": "Oude Doelesteeg 2",
+      "city": "Leeuwarden",
       "reason": "no-exact-PDOK-match"
     },
     {
