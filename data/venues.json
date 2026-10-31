@@ -23942,6 +23942,54 @@
         "https://zekaa.com/cafe-zalen-hossebos"
       ],
       "original_status": "2026 lokaal eigenareninterview en bedrijfsvermelding bevestigen exploitatie-identiteit; geen primaire huidige caféuren of alcoholkaart."
+    },
+    {
+      "id": "erics-cafe-dokkum-20261031",
+      "name": "Eric's Café",
+      "type": "Uitgaanscafé / kroeg",
+      "address": "Markt 36",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor een biertje, borrel, biljart, darts en dansen; geen reserveringseis vermeld.",
+      "alcohol": "Eigen website noemt Heineken en Brand van de tap en 14 soorten flessenbier; alcoholaanbod rechtstreeks bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "14:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "04:00",
+        "wo": "04:00",
+        "do": "04:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://www.erics-cafe.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website, weekrooster rechtstreeks gelezen 31-10-2026.",
+      "closing_source": "https://www.erics-cafe.nl/",
+      "closing_quality": "Eigen website, exact weekrooster rechtstreeks gelezen 31-10-2026.",
+      "closing_notes": "Eigen site: ma gesloten; di-vr 16:00-04:00, za 14:00-04:00, zo 16:00-22:00. Gidsen melden afwijkende begintijden en zondag 04:00, daarom niet overgenomen. Eigen agenda vermeldt 01-11 HalloweenParty, geen algemene uitzondering uit afgeleid. Laatste toegang onbekend. Geen BAG-marker zonder exact PDOK-resultaat.",
+      "website": "https://www.erics-cafe.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite rechtstreeks gecontroleerd: https://www.erics-cafe.nl/ en https://www.erics-cafe.nl/contactformulier/.",
+      "checked_on": "2026-10-31",
+      "features": "Dokkum centrum; live muziek, dansen, biljart en darts; nachtelijke sluiting di-za 04:00",
+      "other_sources": [
+        "https://www.erics-cafe.nl/agenda/",
+        "https://www.erics-cafe.nl/contactformulier/",
+        "https://www.cylex.nl/bedrijf/eric%27s-caf%C3%A9-11018438.html",
+        "https://restaurantguru.com/Erics-Cafe-Dokkum"
+      ],
+      "original_status": "Exploitantwebsite met actuele weekrooster en agenda 2026, secundaire 2026 bedrijfsgids; daadwerkelijke openstelling ter plekke niet live geverifieerd."
     }
   ],
   "admission_policies": [
