@@ -28904,6 +28904,51 @@
         "https://www.allebiz.nl/restaurant-oant-wetter-0566-622-305"
       ],
       "original_status": "31-10-2026: eigen restaurantwebsite met weekrooster en borrelkaart, plus 2026 exploitantberichten over bier/wijn en publieke loungebar; geen laatste toegang."
+    },
+    {
+      "id": "grandcafe-hotel-goerres-akkrum-20261031",
+      "name": "Grandcafé & Hotel Goerres",
+      "type": "Grandcafé / hotelrestaurant",
+      "address": "Kanadeeskestrjitte 45",
+      "city": "Akkrum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitant presenteert een publiek grandcafé met terras, eten en borrelgerechten; geen maaltijdverplichting vermeld.",
+      "alcohol": "Eigen menukaart mei 2026 noemt Bobby's Gin Tonic, Aperol Spritz en cava; borrelgerechten apart vermeld.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exploitant publiceert uitsluitend een rooster voor september; oktober/november-rooster en sluituren niet bevestigd.",
+      "closing_notes": "31-10-2026: officiële https://www.goerres.nl/restaurant-goerres noemt alleen 'Openingstijden September': ma/di dicht, wo–vr vanaf 11:30, za/zo vanaf 10:00. Niet doorgetrokken naar oktober/november. Alle weekuren onbekend; hotelkamers zeven dagen open bewijzen geen grandcafé-opening. Laatste toegang onbekend.",
+      "features": "Grandcafé met waterterras en hotel; actuele 2026 borrelkaart met alcohol.",
+      "website": "https://www.goerres.nl/",
+      "other_sources": [
+        "https://www.goerres.nl/restaurant-goerres",
+        "https://www.goerres.nl/uploads/menukaart-mei-2026-goerres-v2.pdf",
+        "https://www.goerres.nl/"
+      ],
+      "original_status": "31-10-2026: eigen actuele site bevestigt exploitatie en adres; eigen menukaart 2026 bevestigt alcohol en borrelfunctie. Reguliere actuele oktoberuren ontbreken."
     }
   ],
   "admission_policies": [
