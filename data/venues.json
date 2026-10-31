@@ -27983,6 +27983,52 @@
         "https://www.lafontaineheerenveen.nl/arrangementen/cocktail-arrangement/"
       ],
       "features": "Lunchroom, wijn, speciaalbier en cocktails; Heerenveen centrum"
+    },
+    {
+      "id": "it-stee-foar-iters-en-drinkers-surhuisterveen-20261031",
+      "name": "It Stee foar Iters en Drinkers",
+      "type": "Café-restaurant / borrel",
+      "address": "De Kolk 31",
+      "city": "Surhuisterveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen actuele contactpagina nodigt uit om voor een borrel binnen te lopen; openbaar café-restaurant met terras. Geen verplichte maaltijd of reservering voor gewone inloop vermeld.",
+      "alcohol": "Actuele eigen online drankenkaart vermeldt tapbier, speciaalbier, wijn per glas en sterke drank (waaronder Beerenburg en whisky).",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "closing_quality": "Actuele website vermeldt geen bevestigd weekrooster. Eigen PDF-menukaarten uit 2018, 2023 en 2024 tonen onderling verschillende dag- en sluituren; externe gidsen verschillen eveneens. Daarom geen historische uren als actuele zekerheid opgenomen.",
+      "closing_notes": "31-10-2026: huidige eigen site bevestigt exploitatie onder Sierd en Siepie Vegelin (overname maart 2025), borrel en actuele online drankkaart. Oude PDF uit 2024 vermeldt wo/do 09:30–19, vr/za 09:30–23, zo 11–22; deze tijden zijn NIET als actuele tijden overgenomen. Externe AlleBiz geeft afwijkende dinsdag- en weekenduren. Laatste toegang en exacte weekuren onbekend; geen kaartcoördinaten verzonnen.",
+      "features": "Achtkarspelen / Surhuisterveen; café-restaurant met bier, wijn en sterke drank",
+      "website": "https://www.itstee.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.itstee.nl/contact",
+        "https://www.itstee.nl/menukaart",
+        "https://www.itstee.nl/over-ons",
+        "https://www.itstee.nl/assets/uploads/menukaart-2024.pdf",
+        "https://www.allebiz.nl/it-stee-foar-iters-en-drinkers-0512-361-580"
+      ],
+      "original_status": "Eigen site bevestigt exploitatie, openbare borrel en alcoholkaart; dag- en einduren nog niet actueel bevestigd."
     }
   ],
   "admission_policies": [
