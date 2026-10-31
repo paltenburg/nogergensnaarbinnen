@@ -14382,8 +14382,8 @@
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Door exploitant geschreven 2026-posts (via FindGlocal-spiegel) nodigen publiek uit voor voetbal kijken, dansen en een drankje; spontane café-inloop bevestigd als aangeboden concept. Club 24 op hetzelfde adres is een aparte nachtclubfunctie.",
+      "alcohol": "Exploitantberichten van april/mei/juli 2026 noemen bier, Aperol Spritz en cocktails expliciet.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14396,23 +14396,24 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "VVBL-ledenlijst bevestigt Café Le Duc/Kortestreek 24 met Facebook als bedrijfskanaal. Cylex (bijgewerkt 28-09-2026) geeft wo/do 20–04, vr 15:30–04, za/zo 15–04; AlleBiz geeft andere beginuren en HFS noemt afwijkend dagelijks rooster. Geen actueel bedrijfseigen weekrooster gevonden: alle begin-/einduren en laatste toegang onbekend gehouden. Ook Club 24 op Kortestreek 24–25 als mogelijke afzonderlijke exploitatie nader onderzoeken.",
+      "closing_notes": "VVBL-ledenlijst bevestigt Café Le Duc/Kortestreek 24 met Facebook als bedrijfskanaal. Cylex (bijgewerkt 28-09-2026) geeft wo/do 20–04, vr 15:30–04, za/zo 15–04; AlleBiz geeft andere beginuren en HFS noemt afwijkend dagelijks rooster. Geen actueel bedrijfseigen weekrooster gevonden: alle begin-/einduren en laatste toegang onbekend gehouden. Ook Club 24 op Kortestreek 24–25 als mogelijke afzonderlijke exploitatie nader onderzoeken. 31-10-2026: eigen 2026-posts bevestigen kroeg, bier en cocktails; weekuren niet uit evenementposts afgeleid. Gidsen verschillen (o.a. 04:00 versus 02:00/03:00), dus einduren onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer",
         "https://vvbl.nl/leden/cafe-le-duc/",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-le-duc-11876905.html",
-        "https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837"
+        "https://www.allebiz.nl/caf%C3%A9-le-duc_1k-0514-563-837",
+        "https://www.findglocal.com/NL/Lemmer/1224603484222569/Caf%C3%A9-Le-Duc-Lemmer"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitantberichten van maart–augustus 2026 bevestigen actieve kroeg en alcoholaanbod. Vast weekrooster niet primair bevestigd: gidsen geven onderling tegenstrijdige uren; laatste toegang onbekend.",
       "geo": {
         "lat": 52.8456094,
         "lon": 5.7084788,
         "method": "PDOK BAG-adres",
         "matched_address": "Kortestreek 24, 8531JG Lemmer"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-31"
     },
     {
       "id": "lange-piet-lemmer-c0e9ba4",
@@ -14436,21 +14437,24 @@
       },
       "closing_quality": "Gids markeert lijst gesloten, geen onafhankelijk bewijs van definitieve bedrijfsbeëindiging.",
       "closing_source": "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet",
-      "closing_notes": "AlleBiz noemt 'deze lijst is gesloten' en toont historische uren; dat bewijst geen definitieve sluiting of opvolger. Geen actueel bedrijfseigen bewijs voor Eetcafé Lange Piet Langestreek 2. Uit actuele selectie tot hercontrole.",
+      "closing_notes": "AlleBiz noemt 'deze lijst is gesloten' en toont historische uren; dat bewijst geen definitieve sluiting of opvolger. Geen actueel bedrijfseigen bewijs voor Eetcafé Lange Piet Langestreek 2. Uit actuele selectie tot hercontrole. 31-10-2026: oud eetcafé gesloten volgens bedrijvengids, huidige restaurant Hier is 't op hetzelfde adres met eigen website. Geen oude sluituren hergebruiken.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer",
-        "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet"
+        "https://www.allebiz.nl/eetcaf%C3%A9-lange-piet",
+        "https://indo-hierist.nl/contact/",
+        "https://indo-hierist.nl/",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-restaurants/indonesisch-restaurant-hier-is-t-lemmer-69305765"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Historisch eetcafé Lange Piet: AlleBiz markeert de vermelding als gesloten; de actuele exploitantwebsite indo-hierist.nl toont op hetzelfde adres Langestreek 2 Indonesisch restaurant Hier is 't. Oude Lange Piet-uren niet gebruiken. De actuele restaurantfunctie bewijst geen vrije drankinloop; Lange Piet blijft verborgen.",
       "geo": {
         "lat": 52.8446392,
         "lon": 5.7100395,
         "method": "PDOK BAG-adres",
         "matched_address": "Langestreek 2, 8531HV Lemmer"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -14469,8 +14473,8 @@
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Lemsternijs-interview 10-03-2025: uitbaters van Bistro Âld Lemmer behielden de afzonderlijke British Pub, gasten welkom voor lunch, diner en borrel. Exploitatie in oktober 2026 niet rechtstreeks bevestigd.",
+      "alcohol": "Lemsternijs 10-03-2025 noemt speciaalbieren in de British Pub expliciet. Actuele 2026-drankkaart ontbreekt.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -14488,16 +14492,17 @@
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer",
-        "https://www.allebiz.nl/the-british-pub-0514-561-856"
+        "https://www.allebiz.nl/the-british-pub-0514-561-856",
+        "https://lemsternijs.nl/bistro-ald-lemmer-heeft-vanaf-1-april-nieuwe-uitbaters/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigenaren bevestigden in maart 2025 voortzetting van afzonderlijke British Pub naast de overgenomen Bistro (nu Pakhûs9). Actuele oktober-2026-exploitatie, openingstijden en vrije inloop niet opnieuw bewezen; status Nog te controleren behouden.",
       "geo": {
         "lat": 52.8444556,
         "lon": 5.7103455,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudesluis 7, 8531HS Lemmer"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -14612,7 +14617,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -14624,23 +14629,25 @@
       },
       "closing_quality": "Bedrijfseigen site niet bereikbaar; onderling afwijkende gidsroosters.",
       "closing_source": "https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743",
-      "closing_notes": "Cylex/AlleBiz 1: ma dicht, di 18–02, wo–vr 16–02, za/zo 14–02; andere AlleBiz-vermelding di/wo 17–01. Domein cafedelaatstestuiver.nl niet bereikbaar. Geen onbevestigde uren ingevuld.",
+      "closing_notes": "Cylex/AlleBiz 1: ma dicht, di 18–02, wo–vr 16–02, za/zo 14–02; andere AlleBiz-vermelding di/wo 17–01. Domein cafedelaatstestuiver.nl niet bereikbaar. Geen onbevestigde uren ingevuld. 31-10-2026: Cylex/Allebiz/Restaurant Guru hebben uiteenlopende weekuren; Oozo vermeldt inactieve oude KvK-registratie. Geen exacte tijden overgenomen; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/lemmer",
         "https://www.cylex.nl/bedrijf/stuiver-caf%C3%A9-de-laatste-10797282.html",
         "https://www.allebiz.nl/caf%C3%A9-de-laatste-stuiver-lemmer-06-55458743",
-        "https://www.allebiz.nl/cafe-de-laatste-stuiver-lemmer-06-46273848"
+        "https://www.allebiz.nl/cafe-de-laatste-stuiver-lemmer-06-46273848",
+        "https://www.oozo.nl/bedrijven/de-fryske-marren/lemmer/lemmer-kom/224927/cafe-de-laatste-stuiver",
+        "https://es.restaurantguru.com/Cafe-de-Laatste-Stuiver-Lemmer"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "31-10-2026: Oozo noemt KvK-inschrijving 01034835 niet langer actief, terwijl Cylex/Allebiz nog actuele horeca en roosters tonen. Dit bewijst geen definitieve sluiting of voortzetting onder nieuwe exploitant. Verborgen tot actuele exploitatie bevestigd.",
       "geo": {
         "lat": 52.8433925,
         "lon": 5.7116068,
         "method": "PDOK BAG-adres",
         "matched_address": "Schans 10, 8531DW Lemmer"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -25432,6 +25439,57 @@
         "https://lemsternijs.nl/herberg2-de-wildeman-is-nu-officieel-van-kevin-sven-en-ties-dam/"
       ],
       "original_status": "Eigen actuele site bevestigt publieke borrelfunctie, maar publiceert intern tegenstrijdige tijden."
+    },
+    {
+      "id": "club-24-lemmer-20261031",
+      "name": "Club 24",
+      "type": "Discotheek/nachtclub",
+      "address": "Kortestreek 24-25",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; DJ- en ticketavonden; gedeeld complex met Café Le Duc",
+      "access": "Publieke clubavonden en ticketverkoop bevestigd; eigen huisregels vermelden minimumleeftijd 16 jaar en mogelijkheid van toegangscontrole. Niet bewezen dat er elke vrijdag/zaterdag vrije inloop is; evenementen en deurbeleid kunnen wisselen.",
+      "alcohol": "Eigen exploitantwebsite vermeldt feesten met drankjes en bier; vacatures voor barpersoneel en tapverhuur. Actuele reguliere drankenkaart niet aangetroffen.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen website noemt geen vast weekrooster. Gidsen spreken elkaar tegen (vrijdag 21:00 of 22:45; zaterdag 22:00 of 22:45). Daarom geen vaste openingstijd aangenomen.",
+      "closing_quality": "Gidsen geven vrijdag 02:00/04:00 en zaterdag 03:00/04:00; exploitant bevestigt geen vast sluituur. Event 17-10-2026 22:00–01:00 is geen reguliere sluiting.",
+      "opening_source": "https://www.club24.nl/",
+      "closing_source": "https://www.club24.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen website, huisregels en ticketlink gecontroleerd. Hart van Lemmer kondigde een DJ-avond op zaterdag 17 oktober 2026 22:00–01:00 aan; afzonderlijke ticketavond 17 januari 2026. Beide bewijzen evenementen, geen vast weekrooster. Eigen adres Kortestreek 24-25 is een bereik, niet één BAG-huisnummer; geen coördinaten gegokt. Laatste toegang onbekend.",
+      "website": "https://www.club24.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site, huisregels, feesten en vacatures gecontroleerd 31-10-2026; gedateerd evenement 17-10-2026 via Hart van Lemmer.",
+      "other_sources": [
+        "https://www.club24.nl/huisregels/",
+        "https://www.club24.nl/feesten-2/",
+        "https://www.club24.nl/vacatures-2/",
+        "https://www.glartent.com/NL/Unknown/167409370084209/Hart-van-Lemmer",
+        "https://shop.ikbenaanwezig.nl/tickets/event/club-24-invites-jeroen-post-gio",
+        "https://www.cylex.nl/bedrijf/club-24-lemmer-13232767.html",
+        "https://www.allebiz.nl/club_94g-0514-562-121"
+      ],
+      "original_status": "Eigen clubsite actief en lokale aankondiging voor oktober 2026; fysieke toegang op huidige avond niet getest. Afzonderlijke clubfunctie van Café Le Duc op 24, niet automatisch een dubbel record."
     }
   ],
   "admission_policies": [
