@@ -54,12 +54,23 @@ def build_report(dataset, snapshot_date):
             "total": len(venues),
             "selection_counts": dict(sorted(selections.items())),
             "with_website_url": sum(bool(p.get("website")) for p in venues),
+            "without_website_url": sum(not p.get("website") for p in venues),
             "with_recorded_review_date": sum(bool(p.get("checked_on")) for p in venues),
+            "without_recorded_review_date": sum(not p.get("checked_on") for p in venues),
+            "with_opening_source_url": sum(bool(p.get("opening_source")) for p in venues),
+            "with_closing_source_url": sum(bool(p.get("closing_source")) for p in venues),
             "with_coordinates": sum(isinstance(p.get("geo"), dict) and
                                     isinstance(p["geo"].get("lat"), (int, float)) and
                                     isinstance(p["geo"].get("lon"), (int, float)) for p in venues),
+            "without_coordinates": sum(not (isinstance(p.get("geo"), dict) and
+                                       isinstance(p["geo"].get("lat"), (int, float)) and
+                                       isinstance(p["geo"].get("lon"), (int, float))) for p in venues),
+            "with_geocode_blocked": sum(bool(p.get("geocode_blocked")) for p in venues),
+            "with_any_exact_opening": sum(has_exact_time(p, "opening") for p in venues),
             "with_any_exact_closing": sum(has_exact_time(p, "closing") for p in venues),
+            "without_any_exact_closing": sum(not has_exact_time(p, "closing") for p in venues),
             "with_any_explicit_last_entry": sum(has_exact_time(p, "last_entry") for p in venues),
+            "without_explicit_last_entry": sum(not has_exact_time(p, "last_entry") for p in venues),
             "shared_address_candidates": shared,
             "shared_address_group_count": len(shared),
         })
