@@ -30,11 +30,15 @@ def addr_parts(address):
     text = str(address or "").split(",", 1)[0].strip()
     # A house-number range is not one exact BAG address.
     # Never silently map a range to its first house number.
-    match = re.fullmatch(r"(.+?)\s+(\d+)\s*([a-zA-Z]?)", text)
+    # A single-letter suffix may be written as 65A or 65-A. Both still
+    # require an EXACT BAG huisletter match; numeric ranges remain invalid.
+    match = re.fullmatch(
+        r"(.+?)\s+(\d+)(?:\s*-\s*([a-zA-Z])|\s*([a-zA-Z]?))", text
+    )
     if not match:
         return None
-    street, house_number, letter = match.groups()
-    return street, int(house_number), letter.lower()
+    street, house_number, dashed_letter, plain_letter = match.groups()
+    return street, int(house_number), (dashed_letter or plain_letter).lower()
 
 
 def extract_point(wkt):
