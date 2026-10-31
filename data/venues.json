@@ -23990,6 +23990,75 @@
         "https://restaurantguru.com/Erics-Cafe-Dokkum"
       ],
       "original_status": "Exploitantwebsite met actuele weekrooster en agenda 2026, secundaire 2026 bedrijfsgids; daadwerkelijke openstelling ter plekke niet live geverifieerd."
+    },
+    {
+      "id": "cafe-de-lantaarn-dokkum-20261031",
+      "name": "Café De Lantaarn",
+      "type": "Café / cafetaria (afzonderlijke caféuren)",
+      "address": "Allert Jacob van der Poortstraat 1",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site vermeldt een publiek café met eigen openingstijden, afzonderlijk van de cafetaria; geen reserveringseis gevonden.",
+      "alcohol": "Bieraanbod ondersteund door externe horecavermelding https://skip.menu/at/14130-de-lantaarn ('great beer selection'); de eigen online menukaart toont alleen frisdrank van de cafetaria. Actuele café-drankenkaart niet primair geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "22:00"
+      },
+      "last_entry": {
+        "ma": "22:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
+      },
+      "closing_latest": {
+        "ma": "22:00",
+        "di": "04:00",
+        "wo": "04:00",
+        "do": "04:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://www.lantaarndokkum.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Exploitant onderscheidt expliciet café- en cafetaria-uren.",
+      "closing_source": "https://www.lantaarndokkum.nl/openingstijden/",
+      "closing_quality": "Ma/zo exact tot 22:00; di-za alleen deur-/laatste-toegang-grens, sluiting variabel tot uiterlijk 04:00.",
+      "closing_notes": "31-10-2026: café ma/zo 16:00-22:00. Di/wo 16:00, do 11:00, vr/za 11:00; deur dicht di-do 00:00, vr/za 02:00, soms eerder. Personeel kan aanwezigen maximaal tot 04:00 laten blijven. Dit is GEEN vaste sluiting om 00/02 of gegarandeerde opening tot 04. Cafetaria heeft eigen korter rooster en bezorgtijden; niet als caféuren gebruikt.",
+      "last_entry_source": "https://www.lantaarndokkum.nl/openingstijden/",
+      "last_entry_checked_on": "2026-10-31",
+      "last_entry_quality": "Exploitant noemt expliciet deur-dicht-tijden; incidenteel eerder, dus bovengrens, geen garantie.",
+      "last_entry_notes": "Di-do uiterlijk 00:00, vr/za uiterlijk 02:00. Ma/zo sluit café om 22:00; geen afzonderlijke eerdere deur-dicht-regel. Uitloop na deur-dicht maximaal 04:00 op personeelsoordeel.",
+      "website": "https://www.lantaarndokkum.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitant eigen site met aparte cafétijden rechtstreeks gecontroleerd.",
+      "checked_on": "2026-10-31",
+      "features": "Dokkum; cafédeur sluit eerder dan mogelijke uitloop, laatste toegang belangrijk",
+      "other_sources": [
+        "https://www.lantaarndokkum.nl/menukaart/",
+        "https://skip.menu/at/14130-de-lantaarn",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-cafetaria-de-lantaarn-13849943.html"
+      ],
+      "original_status": "Actuele eigen caféroosters; externe indicatie bieraanbod, primaire drankkaart en feitelijke inloop nog niet apart bevestigd."
     }
   ],
   "admission_policies": [
