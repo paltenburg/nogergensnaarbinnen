@@ -25385,6 +25385,53 @@
         "https://www.pakhus9.nl/wp-content/uploads/Menukaart-A4-Pakhus0925-NL-online.pdf"
       ],
       "original_status": "Eigen actuele exploitantwebsite en lokale 2025 naamswijziging; alcoholaanbod secundair, reserveringsvereiste niet definitief."
+    },
+    {
+      "id": "herberg-de-wildeman-lemmer-20261031",
+      "name": "Herberg De Wildeman",
+      "type": "Eet- en drinkcafé/herberg",
+      "address": "Schulpen 6",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; herberg en restaurant; evenementen",
+      "access": "Eigen actuele homepage nodigt expliciet bezoekers uit die alleen langskomen voor een drankje, zonder diner of overnachting; publiek toegankelijk café-/restaurantgedeelte.",
+      "alcohol": "Eigen homepage noemt glaasje bubbels bij evenement en borrelen; VVV beschrijft eet- en drinkcafé. Individuele drankkaart niet geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "17:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage 31-10-2026 noemt ma–wo 17–22, do 17–22, vr–zo 12–22; eigen contactpagina noemt ma–wo gesloten, do 15–23, vr–zo 12–23. Ma–wo onbekend, donderdag conservatief 17, vr–zo 12.",
+      "closing_quality": "Eigen homepage en contactpagina spreken elkaar voor alle dagen tegen (22:00 versus 23:00, ma–wo open versus gesloten); alle einduren onbekend gehouden.",
+      "opening_source": "https://restaurantdewildeman.nl/",
+      "closing_source": "https://restaurantdewildeman.nl/contact",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen homepage toont ma–wo 17–22 en do 17–22, vr–zo 12–22; eigen contactpagina ma–wo gesloten, do 15–23, vr–zo 12–23. Niet te combineren tot bewezen sluituren. Homepage bevat evenement 05-11-2026 met bubbels en borrel; event is geen normaal weekrooster. Laatste toegang onbekend. Eerdere namen/websites uit oude gidsen niet als huidige exploitant overgenomen.",
+      "website": "https://restaurantdewildeman.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage en contactpagina rechtstreeks gecontroleerd 31-10-2026; tegenstrijdige eigen weekuren expliciet gedocumenteerd.",
+      "other_sources": [
+        "https://restaurantdewildeman.nl/contact",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/3334051386/restaurant-de-wildeman",
+        "https://lemsternijs.nl/herberg2-de-wildeman-is-nu-officieel-van-kevin-sven-en-ties-dam/"
+      ],
+      "original_status": "Eigen actuele site bevestigt publieke borrelfunctie, maar publiceert intern tegenstrijdige tijden."
     }
   ],
   "admission_policies": [
