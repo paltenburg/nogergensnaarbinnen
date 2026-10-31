@@ -76,7 +76,7 @@ def geo(place):
     # and "Terschelling" as the gemeentenaam. Match BOTH, never discard
     # the qualifier and risk geocoding to a different Hoorn.
     city_label = str(place.get("city") or "").strip()
-    qualified = re.fullmatch(r"(.+?)\\s*\\(([^()]+)\\)", city_label)
+    qualified = re.fullmatch(r"(.+?)\s*\(([^()]+)\)", city_label)
     city = qualified.group(1).strip() if qualified else city_label
     municipality = qualified.group(2).strip() if qualified else None
     query = f'{street} {number}{suffix} {city}'
