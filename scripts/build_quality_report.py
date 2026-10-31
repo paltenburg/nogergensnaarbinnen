@@ -48,10 +48,32 @@ def build_report(dataset, snapshot_date):
             for items in address_groups.values() if len(items) > 1
         ]
         shared.sort(key=lambda x: (normalized(x["city"]), normalized(x["address"])))
+        # Group by named settlement, not municipality. This is a discovery queue,
+        # NOT a completeness assessment: towns with zero recorded venues are absent.
+        city_groups = defaultdict(list)
+        for place in venues:
+            city_groups[normalized(place.get("city")) or "(onbekend)"].append(place)
+        city_coverage = []
+        for city_key in sorted(city_groups):
+            city_venues = city_groups[city_key]
+            city_coverage.append({
+                "city": next((p["city"] for p in city_venues if p.get("city")), "(onbekend)"),
+                "total": len(city_venues),
+                "without_website_url": sum(not p.get("website") for p in city_venues),
+                "without_recorded_website_check_date": sum(not p.get("website_checked_on") for p in city_venues),
+                "without_coordinates": sum(not (isinstance(p.get("geo"), dict) and
+                                           isinstance(p["geo"].get("lat"), (int, float)) and
+                                           isinstance(p["geo"].get("lon"), (int, float))) for p in city_venues),
+                "needs_selection_review": sum(p.get("selection") == "Nog te controleren" for p in city_venues),
+                "without_any_exact_closing": sum(not has_exact_time(p, "closing") for p in city_venues),
+                "without_explicit_last_entry": sum(not has_exact_time(p, "last_entry") for p in city_venues),
+            })
         regions.append({
             "id": region_id,
             "name": region_names.get(region_id, region_id),
             "total": len(venues),
+            "settlement_count": len(city_coverage),
+            "settlement_coverage": city_coverage,
             "selection_counts": dict(sorted(selections.items())),
             "with_website_url": sum(bool(p.get("website")) for p in venues),
             "without_website_url": sum(not p.get("website") for p in venues),
@@ -77,7 +99,7 @@ def build_report(dataset, snapshot_date):
     return {
         "snapshot_date": snapshot_date,
         "source": "data/venues.json",
-        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. A recorded review date does not certify present operation.",
+        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. A recorded review date does not certify present operation. Settlement coverage includes only places already in the database; it cannot establish municipal or geographic completeness.",
         "total": len(places),
         "regions": regions,
     }
