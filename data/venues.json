@@ -24610,6 +24610,97 @@
         "https://www.friesland.nl/nl/locaties/796875641/het-raadsel-van-de-wadden"
       ],
       "original_status": "Publieke borrelfunctie en alcoholgerelateerde evenementen bevestigd; ma–wo actuele uren conflicteren tussen exploitantpagina's."
+    },
+    {
+      "id": "de-kroon-van-marijn-ferwert-20261031",
+      "name": "De Kroon van Marijn",
+      "type": "Restaurant / proeflokaal / borrel",
+      "address": "Hoofdstraat 16",
+      "city": "Ferwert",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt uit om zonder reservering binnen te lopen voor een drankje of praatje; proeflokaal is ook afzonderlijk af te huren voor groepen.",
+      "alcohol": "Visit Wadden bevestigt lokaal Ferwerter bier; eigen site spreekt van proeflokaal, een goed glas en borrel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://dekroonvanmarijn.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://dekroonvanmarijn.nl/",
+      "closing_quality": "Eigen website: vrijdag–zondag 11:00–23:00; maandag–donderdag uitsluitend op aanvraag. Regionale toerismesite noemt afwijkend vr–zo 17:00–22:00; actuele eigen site aangehouden, conflict expliciet vermeld.",
+      "closing_notes": "31-10-2026: eigen https://dekroonvanmarijn.nl/ en https://dekroonvanmarijn.nl/home/ vermelden vrijdag–zondag 11–23 en maandag–donderdag 'op aanvraag', dus deze dagen zijn niet als standaard gesloten ingevoerd. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1795737577/restaurant-de-kroon-van-marijn noemt vr–zo 17–22 en ma–do gesloten: conflict met eigen site. Laatste toegang onbekend; afwijkingen door evenementen en reserveringen mogelijk.",
+      "website": "https://dekroonvanmarijn.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen actuele restaurant- en proeflokaalwebsite met adres, borrelfunctie en openingstijden.",
+      "checked_on": "2026-10-31",
+      "features": "Ferwert; proeflokaal, Ferwerter bier, borrel; afwijkende gidsuren",
+      "other_sources": [
+        "https://dekroonvanmarijn.nl/home/",
+        "https://dekroonvanmarijn.nl/proef/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1795737577/restaurant-de-kroon-van-marijn"
+      ],
+      "original_status": "Eigen website bevestigt actuele publieke horeca en losse drankinloop; laatste toegang en afwijkende openingstijden niet afzonderlijk geverifieerd."
+    },
+    {
+      "id": "de-pannekoektrein-marrum-20261031",
+      "name": "De Pannekoektrein",
+      "type": "Pannenkoekenrestaurant met alcoholkaart",
+      "address": "Stasjonswei 24",
+      "city": "Marrum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publiek restaurant met reguliere openingstijden en reserveringsmogelijkheid. Alleen een alcoholisch drankje zonder maaltijd is niet expliciet bevestigd; groepsarrangementen zijn afzonderlijk op reservering.",
+      "alcohol": "Eigen menukaart noemt Hertog Jan, Spoorbier, Texels Skuumkoppe, wijn, Beerenburg en whisky.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "opening_source": "https://depannekoektrein.nl/contact-en-openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://depannekoektrein.nl/contact-en-openingstijden/",
+      "closing_quality": "Exploitant vermeldt wo–vr 17:00–21:00 en za/zo 12:00–21:00; ma/di niet genoemd en daarom onbekend, niet automatisch gesloten.",
+      "closing_notes": "31-10-2026: eigen openingstijdenpagina geeft wo–vr 17–21 en za/zo 12–21. Ma/di niet expliciet als gesloten aangeduid. Eigen https://depannekoektrein.nl/menukaart/ bevestigt alcoholkaart. Primair pannenkoekenrestaurant; uitsluitend een drankje zonder eten en laatste toegang niet bevestigd. Alleen groepsarrangementen vereisen expliciet reservering; dat niet als algemene toegangsregel toegepast.",
+      "website": "https://depannekoektrein.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen restaurantwebsite met adres, exploitantweekrooster en bier-/wijn-/sterkedrankenkaart.",
+      "checked_on": "2026-10-31",
+      "features": "Marrum; pannenkoekenrestaurant met bier en wijn; drank-zonder-eten niet expliciet bevestigd",
+      "other_sources": [
+        "https://depannekoektrein.nl/menukaart/",
+        "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/3978738178/station-marrum-de-pannekoektrein"
+      ],
+      "original_status": "Eigen actuele site bevestigt reguliere publieke restaurantfunctie en alcoholaanbod; uitsluitend drankinloop nog niet bewezen."
     }
   ],
   "admission_policies": [
