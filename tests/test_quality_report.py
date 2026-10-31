@@ -76,5 +76,30 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(r["shared_address_group_count"], 0)
 
 
+    def test_settlement_coverage_is_data_driven_and_not_municipal_completeness(self):
+        dataset = {"regions": [{"id": "friesland", "name": "Friesland"}], "places": [
+            {"id": "a", "region": "friesland", "city": "Sneek", "address": "Markt 1",
+             "website": "https://example.org", "website_checked_on": "2026-10-31",
+             "closing": {"vr": "02:00"}, "geo": {"lat": 53.0, "lon": 5.7},
+             "selection": "Voorlopig"},
+            {"id": "b", "region": "friesland", "city": "SNEEK", "address": "Markt 2",
+             "selection": "Nog te controleren", "closing": {"vr": "?"}},
+            {"id": "c", "region": "friesland", "city": "Dokkum", "address": "Diepswal 5",
+             "selection": "Nee", "closing": {"vr": "?"}},
+        ]}
+        r = build_report(dataset, "2026-10-31")["regions"][0]
+        self.assertEqual(r["settlement_count"], 2)
+        self.assertEqual([c["city"] for c in r["settlement_coverage"]], ["Dokkum", "Sneek"])
+        sneek = r["settlement_coverage"][1]
+        self.assertEqual(sneek["total"], 2)
+        self.assertEqual(sneek["without_website_url"], 1)
+        self.assertEqual(sneek["without_recorded_website_check_date"], 1)
+        self.assertEqual(sneek["without_coordinates"], 1)
+        self.assertEqual(sneek["needs_selection_review"], 1)
+        self.assertEqual(sneek["without_any_exact_closing"], 1)
+        self.assertEqual(sneek["without_explicit_last_entry"], 2)
+        self.assertEqual(r["settlement_coverage"][0]["needs_selection_review"], 0)
+
+
 if __name__ == "__main__":
     unittest.main()
