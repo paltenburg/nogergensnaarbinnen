@@ -23514,6 +23514,54 @@
         "https://www.compadex.com/nl/businesses/nl/double-ff-drachten-81182678-47496991"
       ],
       "original_status": "Bedrijfseigen website bevestigt openbare alcoholhoreca en weekrooster, onafhankelijk 2026-bezoekersmateriaal ondersteunt exploitatie; laatste toegang niet vastgesteld."
+    },
+    {
+      "id": "bar-t-kypmantsje-ijlst-20261031",
+      "name": "Bar 't Kypmantsje",
+      "type": "Dorpsbar / kroeg (naast snackbar De Witte Kat)",
+      "address": "Popmawal 2-3",
+      "city": "IJlst",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website noemt de bar een kroeg; ondernemersvereniging IJlst bevestigt zelfstandige barfunctie naast snackbar. Reguliere vrije inloop niet afzonderlijk op iedere dag bevestigd.",
+      "alcohol": "Boerenshot vermeldt Bar 't Kypmantsje als horeca-afzetpunt voor alcoholische shots; eigen actuele drankenkaart niet aangetroffen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site vermeldt geen uitgeschreven vast weekrooster; externe gidsen geven verschillende, deels snackbar-gerelateerde openingstijden. Geen einduren overgenomen.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: eigen https://www.baritkypmantsje.nl/ noemt Bar 't Kypmantsje en Snackbar De Witte Kat, Popmawal 2-3 IJlst. https://ovijlst.nl/lid/bar-t-kypmatsje/ bevestigt lokale bar, maar geeft alleen Popmawal 3; het volledige 2-3-pandadres is van de eigen site. 2026 evenement door de bar georganiseerd: https://brommerritten.nl/ritten/brommertocht-bar-t-kypmantsje/ (31 mei 2026), ondersteunt recente activiteit maar niet vaste opening. Alcoholverkooppunt volgens https://www.boerenshot.com/en/pages/winkelzoeker. Externe https://www.cylex.nl/bedrijf/snackbar-de-witte-kat---bar-%E2%80%98t-kypmantsje-11800532.html en https://snackbarindebuurt.nl/snackbars-in-ijlst/snackbar-de-witte-kat-bar-t-kypmantsje-in-ijlst/ hebben strijdige tijden; die kunnen ook snackbaruren zijn. Alle gestructureerde uren en laatste toegang onbekend. Huisnummerreeks 2-3 niet naar één BAG-pand of ingang reduceren; geen marker zonder exacte entree.",
+      "features": "D0 Súdwest-Fryslân / IJlst; kroeg en snackbar onder gezamenlijke site",
+      "website": "https://www.baritkypmantsje.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Bedrijfseigen homepage rechtstreeks geraadpleegd 31-10-2026",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://ovijlst.nl/lid/bar-t-kypmatsje/",
+        "https://brommerritten.nl/ritten/brommertocht-bar-t-kypmantsje/",
+        "https://www.boerenshot.com/en/pages/winkelzoeker",
+        "https://www.cylex.nl/bedrijf/snackbar-de-witte-kat---bar-%E2%80%98t-kypmantsje-11800532.html",
+        "https://snackbarindebuurt.nl/snackbars-in-ijlst/snackbar-de-witte-kat-bar-t-kypmantsje-in-ijlst/"
+      ],
+      "original_status": "Bedrijfseigen barwebsite, lokale ondernemersvereniging en evenement in 2026 bevestigen bar als exploitatieconcept; vaste uren/laatste toegang onbevestigd."
     }
   ],
   "admission_policies": [
