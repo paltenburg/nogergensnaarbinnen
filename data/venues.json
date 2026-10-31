@@ -27767,6 +27767,179 @@
         "https://www.missethoreca.nl/416058/chef-geert-jan-vaartjes-opent-vernieuwd-de-bosberg-in-appelscha"
       ],
       "features": "Heropend mei 2026; circa 75 speciaalbieren; borrel zonder maaltijd"
+    },
+    {
+      "id": "bar-zelle-leeuwarden-20261031",
+      "name": "Bar Zelle",
+      "type": "Bar / tapas / cocktails",
+      "address": "Nieuwestad 129",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen homepage verwelkomt bezoekers voor cocktails en tapas; VVV noemt expliciet losse borrel zonder maaltijd.",
+      "alcohol": "Eigen site bevestigt cocktails; VVV toont Birra Moretti en rosé, dus alcoholaanbod bevestigd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://www.barzelle.nl/contact",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.barzelle.nl/contact",
+      "closing_quality": "Eigen contactpagina: ma/di 11–18, wo/do 11–22, vr/za 10–22, zo 12–18. VVV en oudere gidsen spreken dit rooster deels tegen; eigen actuele bron gekozen.",
+      "closing_notes": "Laatste toegang onbekend. Eigen contactgegevens zijn afwijkend van enkele VVV/gidsvermeldingen; eigen actuele rooster gebruikt. Exacte BAG-marker nog via Actions.",
+      "website": "https://www.barzelle.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage en contactpagina rechtstreeks gecontroleerd 31-10-2026.",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.visitleeuwarden.com/locaties/181177306/bar-zelle",
+        "https://www.friesland.nl/nl/locaties/493879129/bar-zelle"
+      ],
+      "features": "Cocktails, tapas en losse borrel; Leeuwarden"
+    },
+    {
+      "id": "lunchroom-op-t-oost-wolvega-20261031",
+      "name": "Lunchroom Op 't Oost",
+      "type": "Lunchroom / borrel",
+      "address": "Hoofdstraat Oost 7",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site: openbare lunchroom, gasten welkom voor een los drankje; geen maaltijdverplichting.",
+      "alcohol": "Eigen actuele menukaart noemt Hertog Jan-bier en rode/witte/roséwijn.",
+      "opening": {
+        "ma": "12:30",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "17:30",
+        "di": "17:30",
+        "wo": "17:30",
+        "do": "21:00",
+        "vr": "17:30",
+        "za": "17:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.optoost.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.optoost.nl/contact/",
+      "closing_quality": "Eigen contactpagina vermeldt daguren, keuken sluit 30 minuten eerder; dit is niet de cafésluiting.",
+      "closing_notes": "Laatste toegang niet afzonderlijk bevestigd. Eigen site toont zowel menukaart als weekrooster; geen avondopening op andere dagen aangenomen.",
+      "website": "https://www.optoost.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.optoost.nl/lunchen-menukaart/"
+      ],
+      "features": "Lunchroom met bier en wijn; donderdag tot 21:00"
+    },
+    {
+      "id": "restaurant-bruisss-wolvega-20261031",
+      "name": "Restaurant Bruisss",
+      "type": "Buurtrestaurant / borrel",
+      "address": "Steenwijkerweg 52",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site noemt publiek buurtrestaurant, terras en vrije lunch; borrelhapjes en losse drank op eigen menukaart.",
+      "alcohol": "Eigen online menukaart vermeldt bierkaart, wijn per glas, Beerenburg, jenever, rum, likeuren en cocktails.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "14:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://restaurantbruisss.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://restaurantbruisss.nl/menukaart/",
+      "closing_quality": "Eigen site en contactpagina tonen reguliere opening ma/di/do–zo 10–17, wo 10–14; avonduren alleen op afspraak voor groepen.",
+      "closing_notes": "Groepsreserveringen na 17:00 zijn geen reguliere publieke inloop. Laatste toegang onbekend. In Nieuw Lenna; geen aparte horecalocatie voor evenementen toegevoegd.",
+      "website": "https://restaurantbruisss.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://restaurantbruisss.nl/reserveren/"
+      ],
+      "features": "Buurtrestaurant, terras, bier/wijn en borrelhapjes"
+    },
+    {
+      "id": "kelder-65-leeuwarden-20261031",
+      "name": "Kelder 65 (Roast)",
+      "type": "Cocktailbar / kelder",
+      "address": "Nieuwestad 65",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen Roast-vacatures uit 2026 bevestigen dat Kelder65 als aparte publiek toegankelijke cocktailbar wordt geëxploiteerd; geen maaltijdverplichting. Gevestigd in hetzelfde complex als Roast, geen dubbel record voor Roast toegevoegd.",
+      "alcohol": "Eigen Roast-site bevestigt cocktailbar en aparte bartenderfuncties; VVV beschrijft cocktails met amaretto en andere alcohol.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "16:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "?"
+      },
+      "opening_source": "https://roastleeuwarden.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://roastleeuwarden.nl/contact/",
+      "closing_quality": "Eigen Roast-contactpagina geeft cocktailbar do 17–01, vr 17–01, za 16–01; VVV noemt ook wo 17–01 en za 17–01. Woensdag en andere niet door eigen site genoemde dagen blijven onbekend, zaterdag eigen site gevolgd.",
+      "closing_notes": "Laatste toegang onbekend. Eigen kelder65.nl niet rechtstreeks uitleesbaar; websiteveld gebruikt verifieerbare eigenaar Roast. Eigen actuele vacatures noemen Kelder65 expliciet; aparte bar binnen Roast-complex. Onbekende dagen niet als gesloten aangenomen.",
+      "website": "https://roastleeuwarden.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Actuele exploitantwebsite met eigen Kelder65-vermelding en cocktailbaruren op 31-10-2026 gelezen.",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://roastleeuwarden.nl/vacatures/bartender/",
+        "https://roastleeuwarden.nl/over-roast/",
+        "https://www.friesland.nl/nl/locaties/3050877960/kelder-65"
+      ],
+      "features": "Cocktailbar in kelder van Roast, eigen openingstijden"
     }
   ],
   "admission_policies": [
