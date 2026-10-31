@@ -4387,27 +4387,28 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen https://bardobelo.nl/ nodigt gasten expliciet uit aan de bar samen te komen en cocktails te drinken; publiek cocktailcafé met tapas, geen verplichte maaltijd vermeld.",
+      "alcohol": "Eigen website https://bardobelo.nl/ noemt huisgemaakte alcoholische cocktails en sangria, met actuele drink menu-link.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
-        "di": "00:00",
-        "wo": "00:00",
-        "do": "00:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "00:00"
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Lokale Centrum Utrecht-gids; officiële site sluit zonder vast tijdstip",
-      "closing_source": "https://centrumutrecht.nl/company/do-belo/",
-      "checked_on": "2026-10-26",
-      "closing_notes": "",
+      "closing_quality": "Officiële site noemt dinsdag–zondag 15:00 tot 'late' zonder exact einduur. Centrum Utrecht-gids noemt di–do/zo 00:00, vr/za 01:00, maar niet bevestigd door eigen site; voor strenge filter geen exact sluituur aannemen.",
+      "closing_source": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: officiële https://bardobelo.nl/ bevestigt adres Predikherenstraat 21, dinsdag t/m zondag vanaf 15:00, sluiting alleen 'until late', maandag dicht, alcoholische cocktails/sangria en publiek barconcept. https://centrumutrecht.nl/company/do-belo/ noemt di–do/zo 00:00 en vr/za 01:00; dat zijn gidsuren, niet het bedrijfseigen sluitrooster. Eerder als exact opgeslagen einduren daarom verwijderd. Laatste toegang onbekend; vraag exploitant om feitelijke sluiting per dag.",
       "features": "Cocktails van de tap",
       "website": "https://bardobelo.nl/",
       "other_sources": [
         "https://www.ontdek-utrecht.nl/nieuws/nieuwe-hotspots/",
-        "https://utrechtcocktailweek.nl/index.php/deelnemers/"
+        "https://utrechtcocktailweek.nl/index.php/deelnemers/",
+        "https://centrumutrecht.nl/company/do-belo/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -4416,8 +4417,8 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Predikherenstraat 21, 3512TM Utrecht"
       },
-      "website_checked_on": "2026-10-26",
-      "website_provenance": "Verified official venue page",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Bedrijfseigen website en contact/opening hours rechtstreeks gecontroleerd op 31-10-2026.",
       "opening": {
         "ma": "—",
         "di": "15:00",
@@ -4427,8 +4428,9 @@
         "za": "15:00",
         "zo": "15:00"
       },
-      "opening_source": "https://centrumutrecht.nl/company/do-belo/",
-      "opening_checked_on": "2026-10-26"
+      "opening_source": "https://bardobelo.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website vermeldt 15:00 di–zo, ma gesloten"
     },
     {
       "id": "eetcafe-de-baron-ac00c3c",
