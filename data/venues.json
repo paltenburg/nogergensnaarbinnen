@@ -25153,6 +25153,97 @@
         "https://www.strandtenten.nl/friesland/lemmer/beachclub-lemmer/"
       ],
       "original_status": "Eigen actuele horecasite en publieke borrelfunctie bevestigd; geen fysieke inlooptest."
+    },
+    {
+      "id": "bierstube-oude-sluis-lemmer-20261031",
+      "name": "Bierstube Oude Sluis",
+      "type": "Biercafé/kroeg",
+      "address": "Oudesluis 12",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; biercafé",
+      "access": "Publieke kroeg volgens recente 2026 bezoekersbeoordelingen en horecagidsen; vrije inloop aannemelijk, niet rechtstreeks bij exploitant geverifieerd.",
+      "alcohol": "Recent bezoekersverslag (2026) noemt bier en andere dranken; restaurantgids vermeldt bier, jenever en rum. Geen actuele eigen drankenkaart gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Secundaire RestaurantGuru en eetgerust geven do–zo vanaf 16:00 en ma–wo gesloten, maar niet bevestigd door eigen exploitant; bewust onbekend.",
+      "closing_quality": "Secundaire gidsen geven do/zo 23:00 en vr/za 01:00, niet bedrijfseigen bevestigd; onbekend gehouden.",
+      "opening_source": "https://de.restaurantguru.com/Bierstube-Oude-Sluis-Lemmer",
+      "closing_source": "https://restaurantguru.com/Bierstube-Oude-Sluis-Lemmer",
+      "closing_notes": "31-10-2026: twee gidsen tonen ma–wo gesloten, do/zo 16–23 en vr/za 16–01; bronherkomst mogelijk dezelfde Google-profieldata, dus geen onafhankelijk bevestigde vaste einduren. Een Google-bezoekersreview van circa juli 2026 noemt een actuele bierkroeg. Geen actuele exploitantenwebsite gevonden, laatste toegang onbekend. Het KvK-afgeleide Oozo-adres Kadijk 2A betreft bedrijfsregistratie en is niet als cafébezoekadres gebruikt.",
+      "website": "",
+      "other_sources": [
+        "https://de.restaurantguru.com/Bierstube-Oude-Sluis-Lemmer",
+        "https://eetgerust.nl/restaurant/bierstube-oude-sluis-lemmer",
+        "https://lemmer-leeft.nl/en/eten-en-drinken"
+      ],
+      "original_status": "Actuele gidsen en recente gastreview, geen rechtstreekse exploitantverificatie."
+    },
+    {
+      "id": "the-launch-t-hoekje-lemmer-20261031",
+      "name": "The Launch 't Hoekje",
+      "type": "Eetcafé/borrel",
+      "address": "Markt 13",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; terras bij de brug",
+      "access": "Exploitant presenteert borrel- en drankkaart, informeel eetcafé met terras; zelfstandige borrelbezoekers genoemd in regionale gids. Geen maaltijdverplichting aangetroffen.",
+      "alcohol": "Regionale horecabeschrijving noemt expliciet bier en wijn; eigen homepage verwijst naar een uitgebreide drank- en borrelkaart, maar eigen alcoholprijzen niet afzonderlijk geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "22:00",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage 31-10-2026 toont bovenaan ma–wo 12–17, do 12–22, vr–zo 12–21; footer ma–wo 10–17 en do–zo 10–22. Conservatief 12:00 voor do–zo, ma–wo wegens bronconflict onbekend.",
+      "closing_quality": "Eigen homepage en footer beide donderdag tot 22:00; vr–zo verschillen 21:00 en 22:00, dus onbekend. Ma–wo regionale gids zegt gesloten terwijl eigen site uren noemt.",
+      "opening_source": "https://www.thelaunchthoekje.nl/",
+      "closing_source": "https://www.thelaunchthoekje.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen homepage heeft tegenstrijdige uren in hoofdsectie versus footer; ma–wo 10/12–17 versus regionale gids gesloten; daarom ma–wo onbekend. Donderdag beide tot 22:00, start conservatief 12:00. Vrijdag–zondag eigen secties 21:00 versus 22:00, dus einduren onbekend. Eigen site en Lemmer Leeft noemen Markt 13; andere gidsen noemen Burgemeester Krijgerplein 13. Exacte BAG-ingang nog verifiëren, geen geo gegokt. Laatste toegang onbekend.",
+      "website": "https://www.thelaunchthoekje.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage en over-ons-pagina gecontroleerd 31-10-2026; drank/alcohol mede ondersteund door regionale horecagids.",
+      "other_sources": [
+        "https://www.thelaunchthoekje.nl/about-us",
+        "https://lemmer-leeft.nl/en/eten-en-drinken",
+        "https://mblend.nl/restaurant/the-launch-t-hoekje/"
+      ],
+      "original_status": "Eigen site actief, bronconflicten over uren en adres expliciet; fysieke inloop niet getest."
     }
   ],
   "admission_policies": [
