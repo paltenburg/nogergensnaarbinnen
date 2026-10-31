@@ -23354,6 +23354,53 @@
         "https://vvzwaagwesteinde.nl/sponsors"
       ],
       "original_status": "Reguliere caféfunctie ondersteund door lokaal interview 2024 en alcoholleverancier; feitelijke opening in 2026 niet afzonderlijk bevestigd."
+    },
+    {
+      "id": "cafe-de-taperij-burgum-20261031",
+      "name": "Café De Taperij",
+      "type": "Dorpscafé / kroeg",
+      "address": "Lageweg 44",
+      "city": "Burgum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publiek café volgens Friesland.nl en bezoekersbeschrijvingen; actuele vrije inloop in oktober 2026 niet rechtstreeks bij exploitant bevestigd.",
+      "alcohol": "Boerenshot vermeldt Café de Taperij op Lageweg 44 als horeca-verkooppunt van alcoholische shots; geen eigen actuele drankenkaart gevonden.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen eigen openingstijden gevonden; externe Restaurant Guru vermeldt di–do 16–00, vr/za 16–02, zo 11–00, ma dicht, maar geen exploitantbevestiging.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: https://www.friesland.nl/nl/locaties/1677769895/de-taperij-burgum noemt café en Lageweg 44; https://www.compadex.com/nl/businesses/nl/de-taperij-57492840-11682965 toont op 12-02-2026 bijgewerkte KvK-exploitatie van drinkgelegenheden (SBI 5630) op hetzelfde adres; https://www.boerenshot.com/en/pages/winkelzoeker noemt Café de Taperij als alcoholverkooppunt. https://de.restaurantguru.com/Pizzeria-Burgum-Burgum toont externe weekuren, maar geen eigen bron of bevestiging van actuele vrije inloop; alle uren bewust onbekend. Historisch 't Praathus op hetzelfde adres kan oude handelsnaam zijn: https://www.allebiz.nl/cafe-biljart-t-praathus-0511-464-913, geen tweede locatie toevoegen. Laatste toegang onbekend.",
+      "features": "D0 Tytsjerksteradiel / Burgum; actuele reguliere opening en laatste toegang nog verifiëren",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/1677769895/de-taperij-burgum",
+        "https://www.compadex.com/nl/businesses/nl/de-taperij-57492840-11682965",
+        "https://www.boerenshot.com/en/pages/winkelzoeker",
+        "https://de.restaurantguru.com/Pizzeria-Burgum-Burgum",
+        "https://www.allebiz.nl/cafe-biljart-t-praathus-0511-464-913"
+      ],
+      "original_status": "Kandidaat met 2026 KvK- en leveranciersvermelding; huidige publieke inloop niet primair bevestigd, daarom verborgen als Nog te controleren."
     }
   ],
   "admission_policies": [
