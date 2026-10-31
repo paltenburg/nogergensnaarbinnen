@@ -23798,6 +23798,97 @@
         "https://www.allebiz.nl/caf-u-e-cafetaria-us-th-u-fas-0511-421-902"
       ],
       "original_status": "Caféfunctie en recente sociale berichten ondersteund; alcoholaanbod en actuele reguliere toegang nog niet primair bevestigd, daarom verborgen."
+    },
+    {
+      "id": "cafe-cafetaria-de-witte-olifant-burdaard-20261031",
+      "name": "Café Cafetaria De Witte Olifant",
+      "type": "Bruin café / cafetaria",
+      "address": "Eewal 19",
+      "city": "Burdaard",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt een openbaar bruin café voor dorpsbewoners, watersporters en toeristen, naast cafetaria.",
+      "alcohol": "KvK SBI 5630 voor exploitatie van drinkgelegenheden en eigen omschrijving als bruin café; geen afzonderlijke actuele bier-/wijnkaart uitgelezen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:30",
+        "za": "23:30",
+        "zo": "23:30"
+      },
+      "closing_quality": "Eigen openingstijdenpagina rechtstreeks gelezen 31-10-2026; vrijdag twee gescheiden blokken.",
+      "closing_source": "https://de-witte-olifant.nl/openingstijden/",
+      "closing_notes": "31-10-2026: eigen https://de-witte-olifant.nl/openingstijden/ geeft ma gesloten, di–do 16–22, vr 11:30–13 én 16–23:30, za/zo 16–23:30. JSON ondersteunt geen gescheiden dagintervallen; vrijdag uitsluitend avondblok 16–23:30 vastgelegd, zodat 13–16 niet onterecht open lijkt. Eigen homepage vermeldt oude vakantiesluiting 26 aug–9 sep; niet als actuele sluiting. Externe AlleBiz 24/7-rooster verworpen. Laatste toegang onbekend.",
+      "features": "Noardeast-Fryslân / Burdaard; vrijdag extra lunchblok 11:30–13",
+      "website": "https://de-witte-olifant.nl/",
+      "website_provenance": "Eigen site en openingspagina gelezen 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://de-witte-olifant.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.compadex.com/nl/businesses/nl/de-witte-olifant-01099973-12724068",
+        "https://www.allebiz.nl/de-witte-olifant_4q-0519-332-657"
+      ],
+      "original_status": "Eigen openbare caféfunctie en 2026 KvK; laatste toegang en actuele drankkaart niet apart gecontroleerd."
+    },
+    {
+      "id": "eetcafe-de-boerkes-ie-20261031",
+      "name": "Eetcafé De Boerkes",
+      "type": "Dorps-eetcafé / café",
+      "address": "Uniastrjitte 34A",
+      "city": "Ie",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen contactpagina nodigt bezoekers uit om zonder maaltijd een drankje te doen; catering en feesten zijn extra opties.",
+      "alcohol": "Externe horecamenusite noemt bier; eigen https://eetcafedeboerkes.nl/menu.html toont alleen voedsel, geen primaire alcoholkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "11:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Eigen contactpagina geeft exact weekrooster; gids noemt zondag 00:00 maar eigen site 02:00.",
+      "closing_source": "https://eetcafedeboerkes.nl/contact.html",
+      "closing_notes": "31-10-2026: eigen https://eetcafedeboerkes.nl/contact.html bevestigt ma/di dicht, wo/do 16–20, vr 11–02, za/zo 16–02; eigen https://eetcafedeboerkes.nl/menu.html bevat voedsel maar geen alcoholkaart. Externe https://menukaart.menu/restaurants/ee-146/eetcafe-de-boerkes-ee noemt bier, maar afwijkende zondag 00:00; bedrijfseigen 02:00 aangehouden. https://www.compadex.com/nl/businesses/nl/eetcafe-de-boerkes-b-v-98423983-63590336 bevestigt 2026 horeca-BV op Uniastrjitte 34A. Andere VOF op 34B niet als tweede café opgenomen. Laatste toegang onbekend.",
+      "features": "Noardeast-Fryslân / Ie; bieraanbod nog rechtstreeks bij exploitant bevestigen",
+      "website": "https://eetcafedeboerkes.nl/",
+      "website_provenance": "Eigen contact- en menupagina gecontroleerd 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://eetcafedeboerkes.nl/contact.html",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://eetcafedeboerkes.nl/menu.html",
+        "https://menukaart.menu/restaurants/ee-146/eetcafe-de-boerkes-ee",
+        "https://www.compadex.com/nl/businesses/nl/eetcafe-de-boerkes-b-v-98423983-63590336"
+      ],
+      "original_status": "Publieke eetcaféfunctie en weekrooster eigen bron; alcohol secundair ondersteund."
     }
   ],
   "admission_policies": [
