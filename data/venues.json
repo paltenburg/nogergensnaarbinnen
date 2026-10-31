@@ -26833,6 +26833,135 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Tijdelijk gesloten t/m 05-11-2026; heropening nog controleren"
+    },
+    {
+      "id": "brasserie-rijsterbosch-rijs-20261031",
+      "name": "Brasserie Rijsterbosch",
+      "type": "Brasserie / borrel",
+      "address": "Marderleane 2",
+      "city": "Rijs",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Regionale VVV noemt publiek restaurant/brasserie; reguliere vrije drankinloop niet afzonderlijk door exploitant bevestigd.",
+      "alcohol": "VVV noemt Belgische bieren en Franse wijnen; Untappd toont bierproeverij juni 2026.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële site rijsterbosch.nl niet toegankelijk tijdens controle; Untappd noemt vr–zo uren, maar niet als primaire vaste tijden aangenomen.",
+      "closing_quality": "Geen actuele primaire sluituren bevestigd.",
+      "closing_source": "https://www.friesland.nl/nl/locaties/1365486278/brasserie-rijsterbosch",
+      "closing_notes": "31-10-2026: VVV bevestigt naam, Marderleane 2, Belgische bieren/wijnen en brasserie. Untappd heeft een bierproeverij van 13-06-2026 en toont vr 14–20, za 11–20, zo 11–18, maar die tijden niet overgenomen omdat exploitantwebsite niet bereikbaar is. Laatste toegang onbekend.",
+      "website": "https://rijsterbosch.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantdomein volgens VVV en Untappd; directe site niet bereikbaar, geen eigen rooster geverifieerd.",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/1365486278/brasserie-rijsterbosch",
+        "https://untappd.com/v/b-and-b-rijsterbosch/5119159/activity",
+        "https://untappd.com/v/b-and-b-rijsterbosch/5119159/event/955367/attending"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Belgisch bier; wijn; terras; brasserie"
+    },
+    {
+      "id": "paviljoen-t-mar-mirns-20261031",
+      "name": "Paviljoen 't Mar",
+      "type": "Strandpaviljoen / borrel",
+      "address": "Murnserdyk 46A",
+      "city": "Mirns",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site bevestigt publieke lunch, borrel en diner, reserveren niet verplicht voor terras.",
+      "alcohol": "Tripadvisor bedrijfsvermelding bevestigt alcohol, eigen site noemt borrel; actuele primaire drankkaart nog niet apart geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen site toont geen vast weekrooster; gidsen noemen afwijkend wo gesloten versus dagelijks open.",
+      "closing_quality": "Geen eigen sluituren; Fietsnetwerk wijkt af van Tripadvisor/Waze/strandtenten.nl.",
+      "closing_source": "https://paviljoentmar.nl/",
+      "closing_notes": "31-10-2026: exploitant bevestigt borrel en publiek terras; VVV noemt vrijwel jaarrond open, maar geen exacte uren. Fietsnetwerk noemt woensdag gesloten, andere gidsen dagelijks 10–22. Geen van deze conflicterende gidsroosters als zekerheid gebruikt. Laatste toegang onbekend.",
+      "website": "https://paviljoentmar.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://paviljoentmar.nl/contact/",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/768350711/paviljoen-t-mar",
+        "https://www.fietsnetwerk.nl/knooppunt/paviljoen-t-mar-mirns/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Mirnserklif; borrel; terras; bijna jaarrond"
+    },
+    {
+      "id": "hotel-restaurant-jans-rijs-20261031",
+      "name": "Hotel Restaurant Jans",
+      "type": "Hotelrestaurant / bar",
+      "address": "Mientwei 1",
+      "city": "Rijs",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen restaurantpagina noemt ook aperitief in bargedeelte voor bezoekers; op 31-10-2026 uitsluitend toegang voor deelnemers Wildavond.",
+      "alcohol": "Eigen restaurantpagina noemt aperitief; speciale Wijn- en Spijsavonden bevestigen wijn, huidige drankenkaart niet afzonderlijk ingezien.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen site noemt jaarrond zeven dagen restaurant open, maar geen vaste café-openingsstart; lunch 12–15 en dinerreserveringen 17:30–20 zijn geen baruren.",
+      "closing_quality": "Geen vaste horecasluituren; actuele uitzonderingen expliciet.",
+      "closing_source": "https://hoteljans.nl/restaurant.html",
+      "closing_notes": "31-10-2026: exploitant meldt vandaag uitsluitend toegang voor Wildavond-deelnemers. 27/28 nov wijn-spijsavonden, 12/15/18/19 dec besloten activiteiten en 20 dec–4 jan vakantie; homepage en restaurantpagina verschillen op 27/28 vs 28/29 nov. Verborgen tot reguliere vrije drankinloop opnieuw bevestigd. Hotel 24u is geen barrooster; laatste toegang onbekend.",
+      "website": "https://hoteljans.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://hoteljans.nl/restaurant.html",
+        "https://www.friesland.nl/nl/locaties/3229439716/hotel-restaurant-jans-1"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Aperitief; bargedeelte; op 31-10-2026 alleen Wildavond"
     }
   ],
   "admission_policies": [
