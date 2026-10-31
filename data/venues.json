@@ -23617,6 +23617,53 @@
         "https://www.oozo.nl/bedrijven/achtkarspelen/noord/kootstertille/1951923/eetcafe-cafe-cafetaria-de-viersprong"
       ],
       "original_status": "Actuele bestelwebsite met 18+-alcoholaanbod en lokaal café bevestigd; café-weekuren niet primair geverifieerd."
+    },
+    {
+      "id": "cafe-snackbar-burgerheide-noardburgum-20261031",
+      "name": "Café en Snackbar Burgerheide",
+      "type": "Dorpscafé / snackbar",
+      "address": "Zevenhuisterweg 15",
+      "city": "Noardburgum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "2026 gemeentelijke evenementenmelding noemt livemuziek in Café Burgerheide op 7 november; bezoekersgids beschrijft publiek café met terras. Reguliere vrije inloop en feitelijke uitvoering van aangekondigd evenement niet onafhankelijk bevestigd.",
+      "alcohol": "Een oudere bezoekersrecensie op RestaurantGuru noemt expliciet bier bij de bar; geen actuele bedrijfseigen alcoholkaart of schenkvergunning direct gecontroleerd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Alleen externe gidsuren, mogelijk snackbaruren; gemeentelijke evenementmelding 7 november 21:00–01:00 is een eenmalig gepland evenement, geen vast weekrooster of sluitingsbewijs.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: gemeentelijke bekendmaking van 27-10-2026 (Gemeenteblad 2026 nr. 500630) via https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-500630/gemeente-tytsjerksteradiel-melding-livemuziek-in-cafe-burgerheide-op-7-november/ vermeldt ontvangen melding voor livemuziek 07-11-2026 21:00–01:00 op Zevenhuisterweg 15. Een melding bewijst niet dat evenement doorgaat of café op 31-10 publiek open is. https://nl.restaurantguru.com/Cafe-en-snackbar-Burgerheide-Noardburgum toont 2026-bezoekersrecensies en een oudere expliciete bierreview; externe gidsuren vr 11:30–13/16–00, za 16–01, zo 17–19:30 niet als caféuren overgenomen. https://nuactueel.nl/noardburgum toont bedrijfscategorie en adres uit OSM. Officiële website niet gevonden; actuele vrije inloop, eigen drankkaart, rooster, laatste toegang en exact BAG-ingang nog te controleren. Verborgen voor tijdsresultaten tot bevestiging.",
+      "features": "D0 Tytsjerksteradiel / Noardburgum; 7 november 2026 evenement alleen aangekondigd",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Gericht gezocht naar eigen bedrijfswebsite op 31-10-2026; geen verifieerbare officiële site gevonden.",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://politiek.app/gemeente/tytsjerksteradiel/bekendmaking/gmb-2026-500630/gemeente-tytsjerksteradiel-melding-livemuziek-in-cafe-burgerheide-op-7-november/",
+        "https://nl.restaurantguru.com/Cafe-en-snackbar-Burgerheide-Noardburgum",
+        "https://nuactueel.nl/noardburgum",
+        "https://zoek.officielebekendmakingen.nl/gmb-2025-283805.html"
+      ],
+      "original_status": "Sterke kandidaat met 2026 gemeentelijke melding en bezoekersmateriaal; actuele reguliere publieke exploitatie en alcoholaanbod niet primair geverifieerd, daarom Nog te controleren."
     }
   ],
   "admission_policies": [
