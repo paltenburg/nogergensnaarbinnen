@@ -4,6 +4,10 @@
 **Masterdatabase:** `data/venues.json`  
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
+## Correctie 31-10-2026 — Badmeester Keimpe seizoensrisico
+
+**[0faec88](https://github.com/paltenburg/nogergensnaarbinnen/commit/0faec8888cca7bd9ffbf4276986512f97662ff62)**: `paviljoen-badmeester-keimpe-balk-20261031` is nu **`Nog te controleren` (standaard verborgen)**. Reden: de exploitant geeft oktober wo–zo, november alleen zondag en december alleen besloten, terwijl de huidige UI uitsluitend een generiek weekrooster heeft. Een zichtbare `Voorlopig` met alle tijden `?` zou ten onrechte maandag–zaterdag in november als mogelijke dranklocatie suggereren. Bronnen en alle onbekende tijden blijven behouden; geen fictieve sluiting. Master blijft **578**. Nieuwste data-commit moet nog door CI; eerdere #283 publiceerde 578 vóór deze veiligheidswijziging.
+
 ## Laatste CI-check 31-10-2026 — **578** locaties gepubliceerd via Actions #283
 
 **[Workflow #283](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41197316013)** voor data-commit `5c44b5f5194059521be487b371b5cdeb66d7c08a` is **completed/success**. Werkelijke joblog via GitHub gelezen: **17/17 tests OK**, **527/578 gegeocodeerd**, **51 unmatched**, afgeleid bronnenregister **1.578 URL's / 632 domeinen / 578 locaties**, upload-pages-artifact en **deploy-pages success** op 31-10-2026 om 12:34 Europe/Amsterdam. Dit bevestigt Actions-deployment, **niet** een live browser- of mobiele interactietest. De ingecheckte `main`-afgeleiden kunnen nog achterlopen op de Pages-build totdat de scheduled sync draait. De nieuw gegeocodeerde +1 sinds #281 is niet individueel toegewezen aan Bij Guusjes of Gaastmeer; inspecteer het actuele artifact of de volgende teruggeschreven `data/geocode-report.json` voordat je een markerclaim per zaak doet. 
