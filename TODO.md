@@ -5,6 +5,16 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+## Primaire bronverificaties 31-10-2026 — De Markies en Harbour Hub
+
+**De Markies Leeuwarden, bestaand ID `de-markies-leeuwarden-d3d3930`**: eigen https://www.de-markies.nl/contact/ op **31-10-2026** uitgelezen en volledig weekrooster bevestigd: ma dicht, di–do **16–01**, vr/za **15–01**, zo **15–20**. Eigen https://www.de-markies.nl/ bevestigt 250+ bieren, 12 wisseltaps en openbare borrel. De oude waarden waren al correct uit VVV; **alleen bronkwaliteit, datums, toelichting en `opening_source`/`closing_source` bijgewerkt** in [942a01a](https://github.com/paltenburg/nogergensnaarbinnen/commit/942a01a9d81845cf31d903ae2d931a60f266553d). Proeverijen mogen in het weekend uiterlijk om 17:00 beginnen, maar dat is **niet** de laatste cafétoegang. Geen nieuwe locatie.
+
+**The Harbour Pub (Harbour Hub), Harlingen**: https://harbourhubhotel.nl/ op 31-10-2026 opnieuw gecontroleerd: bedrijf en route-instructies noemen **Noorderhaven 71**, passend bij bestaande BAG-marker. VVV https://www.friesland.nl/nl/locaties/881973706/harbour-hub noemt **69**; Booking.com noemt gebouwreeks 67/71. **Bestaand 71 niet gewijzigd**, maar precieze afzonderlijke pub-ingang blijft onbevestigd. Receptie 07–22 is **niet** de sluiting van de pub; 7 dagen open zonder exact pubrooster. Geen nieuwe locatie of coördinaten.
+
+**CI:** #294 (587) volledig geslaagd: 20 tests, 536/587 markers, 51 unmatched, 1.611 URL's, gegenereerd kwaliteitsrapport en Pages-deploy. #299 voor 588 en nieuwe rapportveldnaam bij laatste controle nog `in_progress`; #300 `cancelled` na opvolgende push; #301 voor laatste De Markies-wijziging `pending`. **Actuele master 588 = Friesland 364, Utrecht 224; twee bestaande records De Spoek/De Markies in deze ronde verbeterd.** De afgeleide rapportvelden blijven puur dekkingsindicatoren, geen volledigheidsclaim. Volgende run moet deze CI-status bijwerken, niet aannemen dat #301 al gepubliceerd is.
+
+
+
 ## Laatste aanvulling 31-10-2026 — Café De Spoek primaire verificatie, CI 587
 
 **Bestaand record gecorrigeerd (geen extra locatie):** `cafe-de-spoek-leeuwarden-6d9baae`, commit [c34456e](https://github.com/paltenburg/nogergensnaarbinnen/commit/c34456e94421a0db8e10829af51d2814432e1e0e). Eigen https://cafedespoek.nl/index.html op **31-10-2026** daadwerkelijk uitgelezen: **85+ whisky's, 55+ speciaalbieren**, adres Sint Jacobsstraat 29 en **ma–do dicht, vr/za 19:00–01:00, zo 19:00–23:00**. Bestaande uren waren al gelijk aan VVV; nu alcohol, vrije muziekcaféfunctie en openings-/sluitbronnen naar primaire site gecorrigeerd. Laatste toegang onbekend. **Master blijft 588 = Friesland 364 + Utrecht 224**; unieke ID behouden.
