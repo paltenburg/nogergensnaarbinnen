@@ -24409,14 +24409,14 @@
         "ma": "23:00",
         "di": "23:00",
         "wo": "23:00",
-        "do": "23:00",
+        "do": "?",
         "vr": "01:00",
         "za": "01:00",
-        "zo": "23:00"
+        "zo": "?"
       },
-      "closing_quality": "Officiële exploitantwebsite, 31-10-2026",
+      "closing_quality": "Twee officiële exploitantpagina's spreken elkaar tegen voor donderdag en zondag; alleen onbetwiste tijden overgenomen (31-10-2026).",
       "closing_source": "https://gerechtheerenveen.nl/",
-      "closing_notes": "Eigen homepage toont ma–do 07:00–23:00, vr 07:00–01:00, za 08:00–01:00, zo 08:00–23:00. Publieke borrelfunctie genoemd; laatste toegang en eventuele uitzonderingen onbekend.",
+      "closing_notes": "31-10-2026: eigen homepage https://gerechtheerenveen.nl/ geeft do en zo sluiting 23:00, maar eigen https://gerechtheerenveen.nl/contact/ geeft voor beide 00:00. Beide dagen daarom onbekend ('?'), niet een van beide als zeker aangenomen. Overige eigen uren consistent: ma–wo 07–23, vr 07–01, za 08–01. Donderdag start 07:00 en zondag start 08:00 zijn wel consistent. Laatste toegang niet vermeld.",
       "opening_source": "https://gerechtheerenveen.nl/",
       "opening_checked_on": "2026-10-31",
       "website": "https://gerechtheerenveen.nl/",
@@ -24424,7 +24424,9 @@
       "website_provenance": "Eigen website: grand café, adres Gemeenteplein 33, borrelfunctie en openingstijden.",
       "checked_on": "2026-10-31",
       "features": "Grand café met borrel, hotel en evenementenlocatie",
-      "other_sources": [],
+      "other_sources": [
+        "https://gerechtheerenveen.nl/contact/"
+      ],
       "original_status": "Actuele exploitantwebsite vermeldt publiek grand café met borrelfunctie; exacte laatste toegang niet vermeld."
     }
   ],
