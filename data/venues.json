@@ -27280,6 +27280,50 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Borrel; flesbier en wijn (secundair menu uit 2025)"
+    },
+    {
+      "id": "cafe-restaurant-boszicht-nijeberkoop-20261031",
+      "name": "Café Restaurant Boszicht",
+      "type": "Café-restaurant / terras / borrel",
+      "address": "Bovenweg 26",
+      "city": "Nijeberkoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen contactpagina nodigt uit om zonder reservering binnen te lopen voor een drankje of maaltijd; alleen voor diner wordt reserveren gevraagd.",
+      "alcohol": "Eigen dessert-/koffiekaart noemt Irish coffee met whiskey, French coffee met Grand Marnier, Italian coffee met amaretto en advocaat. Bier- en wijnassortiment niet rechtstreeks bevestigd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "?",
+        "vr": "?",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.boszichtnijeberkoop.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.boszichtnijeberkoop.nl/",
+      "closing_quality": "Eigen site geeft ma/di gesloten, wo vanaf 16:00, za/zo vanaf 10:30; do/vr 10:30 buiten 1 okt–1 mei, 16:00 binnen die periode. Generieke UI kent geen seizoen, daarom do/vr onbekend; einduren niet genoemd.",
+      "closing_notes": "Eigen site: winterdo/vr vanaf 16:00 (1 okt–1 mei), zomer vanaf 10:30. Keuken- en reserveringstijden niet als café-einduur gebruikt. Historische vakantiesluiting 21 sep–8 okt is voorbij. Laatste toegang onbekend. Dranksoorten alleen bevestigd via koffie met sterke drank; bier/wijn nog nazoeken.",
+      "website": "https://www.boszichtnijeberkoop.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.boszichtnijeberkoop.nl/contact/",
+        "https://www.boszichtnijeberkoop.nl/lunch/desserts/",
+        "https://oldeberkoop.nl/restaurant-boszicht/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Terras; borrel; seizoensafhankelijke donderdag/vrijdag; koffie met sterke drank"
     }
   ],
   "admission_policies": [
