@@ -24106,6 +24106,52 @@
         "https://www.allebiz.nl/hotel-caf%C3%A9-restaurant-de-posthoorn-0519-293-500"
       ],
       "original_status": "Eigen actuele 2026 agenda en cafe-exploitatie bevestigd; feitelijke sluiting per avond en laatste toegang niet beschikbaar."
+    },
+    {
+      "id": "kafee-de-turf-jubbega-20261031",
+      "name": "Kafee De Turf",
+      "type": "Dorpscafé / biljart- en dartcafé / live muziek",
+      "address": "Schoolweg 2A",
+      "city": "Jubbega",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Lokale dorpsnieuwsbrief januari 2026 kondigt publiek optreden 'Turf-Live' aan op Schoolweg 2a. Lokale reportage 2023 beschrijft vrije inloop en stamgasten; feitelijke reguliere vrije inloop in oktober 2026 niet afzonderlijk bevestigd.",
+      "alcohol": "Uitagenda.nl noemt Café De Turf Jubbega expliciet als plek voor bier, baco en wijn, maar vermeldt oud/conflicterend adres P.W. Janssenweg 92. Eigen actuele drankenkaart ontbreekt; alcohol slechts secundair onderbouwd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "2026 dorpsnieuwsbrief is aankondiging van 24-01 optreden, geen weekrooster; 2023 lokale reportage met begintijden is historisch.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: https://jubbega-hoornsterzwaag.nl/wp-content/uploads/Nieuwsbrief-2601.pdf (nieuwsbrief januari 2026) noemt 'Biljart - Dart - Café De Turf', Schoolweg 2a, telefoon 06 50 52 58 14, aangekondigd optreden 24-01-2026 21:00. Niet bewezen of optreden plaatsvond. https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/68165/vierde-editie-de-turf-live-in-jubbega-op-zaterdag-25-maart beschrijft in 2023 café Schoolweg 2 en opening di-vr 19:00, weekend 15:00, NIET als actueel 2026-rooster overgenomen. https://www.pizzeria-jubbega.nl/ bevestigt dat oude gidsadres P.W. Janssenweg 92 nu Pizzeria Babylon is. https://straten.openalfa.nl/friesland/eten-drinken noemt OSM-bar Schoolweg 2A. Laatste toegang en BAG-marker onbekend.",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Geen rechtstreeks verifieerbare eigen website aangetroffen; lokale 2026 dorpsnieuwsbrief is primaire lokale evenementbron.",
+      "checked_on": "2026-10-31",
+      "features": "Jubbega; 2026 Turf-Live-kandidaat, reguliere exploitatie/alcohol/uren nog controleren",
+      "other_sources": [
+        "https://jubbega-hoornsterzwaag.nl/wp-content/uploads/Nieuwsbrief-2601.pdf",
+        "https://www.grootfryslan.nl/nieuws/cultuur-en-uitgaan/68165/vierde-editie-de-turf-live-in-jubbega-op-zaterdag-25-maart",
+        "https://www.uitagenda.nl/locaties/cafe-de-turf-jubbega",
+        "https://straten.openalfa.nl/friesland/eten-drinken",
+        "https://www.pizzeria-jubbega.nl/"
+      ],
+      "original_status": "2026 evenement aangekondigd op lokaal bronadres; huidige reguliere vrije inloop niet bewezen. Daarom verborgen als Nog te controleren."
     }
   ],
   "admission_policies": [
