@@ -25338,6 +25338,53 @@
         "https://eetgerust.nl/restaurant/beer-burgers-factory"
       ],
       "original_status": "Eigen actuele exploitantwebsite en recente 2026 gastreviews; bar-only toegang niet expliciet bevestigd."
+    },
+    {
+      "id": "pakhus9-lemmer-20261031",
+      "name": "Pakhûs9",
+      "type": "Restaurant/borrel",
+      "address": "Oudesluis 9",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; historisch pakhuis",
+      "access": "De eigen website verwelkomt publiek en adviseert vooraf een plek te reserveren. Lokale berichtgeving over opening 2025 noemt expliciet reserveren voor lunch, diner of borrel; vrije spontane drankinloop zonder reservering niet bevestigd.",
+      "alcohol": "TripAdvisor vermeldt alcohol en drankjes; lokale aankondiging 2025 noemt borrel. Eigen menu PDF gecontroleerd voor horecaconcept, maar afzonderlijke actuele drankkaart niet gevonden.",
+      "opening": {
+        "ma": "11:00",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen exploitantwebsite https://www.pakhus9.nl/ rechtstreeks gecontroleerd 31-10-2026; ma en wo–zo 11–22, dinsdag gesloten.",
+      "closing_quality": "Eigen exploitantwebsite sluit dagelijks 22:00 behalve dinsdag; aparte keukenuren tot 20:00/20:30/21:00 zijn niet als zaal-/bar-sluiting gebruikt.",
+      "opening_source": "https://www.pakhus9.nl/",
+      "closing_source": "https://www.pakhus9.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen website ma en wo–zo 11:00–22:00, dinsdag gesloten; keuken sluit ma/wo/do 20:00, vr/za 21:00, zo 20:30. Reserveren vooraf aangeraden, terras niet reserveerbaar. Laatste toegang onbekend. Lokale berichtgeving 21-03-2025 bevestigt dat **Bistro Âld Lemmer op Oudesluis 9 per 9 april 2025 Pakhûs9 werd**; geen aparte huidige Bistro Âld Lemmer op dit adres aangemaakt. The British Pub aan Oudesluis 7 heeft eigen historisch record en moet afzonderlijk op actuele exploitatie worden gecontroleerd.",
+      "website": "https://www.pakhus9.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage met volledige actuele uren en adres 31-10-2026 gecontroleerd; 2025 lokale naamsovergang en 2026 recensies onderbouwen exploitatie.",
+      "other_sources": [
+        "https://lemsternijs.nl/bistro-oud-lemmer-verandert-naam-naar-pakhus-9-een-nieuwe-naam-een-nieuwe-toekomst/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1045111-d33024880-Reviews-Pakhus9-Lemmer_Friesland_Province.html",
+        "https://www.pakhus9.nl/wp-content/uploads/Menukaart-A4-Pakhus0925-NL-online.pdf"
+      ],
+      "original_status": "Eigen actuele exploitantwebsite en lokale 2025 naamswijziging; alcoholaanbod secundair, reserveringsvereiste niet definitief."
     }
   ],
   "admission_policies": [
