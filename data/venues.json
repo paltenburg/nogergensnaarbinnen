@@ -28857,6 +28857,53 @@
         "https://markt23.nl/vacatures/open-sollicitatie/"
       ],
       "original_status": "31-10-2026: exploitant bevestigt actieve vestiging, adres, bar/borrel, alcoholaanbod en dagelijkse begintijd; geen sluiting/laatste toegang geverifieerd."
+    },
+    {
+      "id": "restaurant-oant-wetter-grou-20261031",
+      "name": "Restaurant Oan 't Wetter",
+      "type": "Restaurant / loungebar met borrelterras",
+      "address": "Yn'e Lijte 2",
+      "city": "Grou",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant presenteert terras, borrelkaart en loungebar; losse drankjes op het terras volgens 2026-exploitantberichten. Evenementen en reserveringen kunnen afwijken.",
+      "alcohol": "Exploitantberichten uit 2026 noemen wijn en bier op het terras; menukaart bevat alcoholische koffiedranken en een aparte borrelkaart.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://oantwettergrou.nl/menukaart/",
+      "closing_source": "https://oantwettergrou.nl/menukaart/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exploitantwebsite toont vr–zo 12:00–22:00, ma–do gesloten; gids noemt vrijdag 17:00 en 2026-evenementen vinden soms woensdag plaats. Regulier rooster, geen garantie voor uitzonderingen.",
+      "closing_notes": "31-10-2026: eigen website vr/za/zo 12–22 en ma–do gesloten. 2026-exploitantberichten noemen incidentele woensdag-bingo; geen vaste woensdagopening aangenomen. Gidsen geven afwijkende vrijdagstart (17:00) en/of woensdaguren; primaire site aangehouden. Laatste toegang niet gevonden.",
+      "features": "Borrelkaart, terras aan het water, restaurant en loungebar; evenementen afwijkend.",
+      "website": "https://oantwettergrou.nl/",
+      "other_sources": [
+        "https://oantwettergrou.nl/menukaart/",
+        "https://www.findglocal.com/NL/Grouw/459167540834157/Oan%27t-Wetter",
+        "https://www.visitnoardwestfryslan.nl/nl/locaties/2807283627/restaurant-oan-t-we",
+        "https://www.allebiz.nl/restaurant-oant-wetter-0566-622-305"
+      ],
+      "original_status": "31-10-2026: eigen restaurantwebsite met weekrooster en borrelkaart, plus 2026 exploitantberichten over bier/wijn en publieke loungebar; geen laatste toegang."
     }
   ],
   "admission_policies": [
