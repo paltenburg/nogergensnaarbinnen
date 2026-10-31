@@ -23894,6 +23894,54 @@
         "https://www.compadex.com/nl/businesses/nl/eetcafe-de-boerkes-b-v-98423983-63590336"
       ],
       "original_status": "Publieke eetcaféfunctie en weekrooster eigen bron; alcohol secundair ondersteund."
+    },
+    {
+      "id": "cafe-de-hossebos-de-westereen-20261031",
+      "name": "Café De Hossebos",
+      "type": "Dorpscafé / café-restaurant en zalen",
+      "address": "Foarstrjitte 21",
+      "city": "De Westereen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigenaar Wessel de Roos wordt in lokaal nieuws van 1 juli 2026 expliciet aangeduid als eigenaar van Café de Hossebos; lokaal bedrijvenoverzicht april 2026 bevestigt café-restaurant op Foarstrjitte 21. Reguliere vrije inloop niet rechtstreeks op eigen site geverifieerd.",
+      "alcohol": "Horecagidsen noemen expliciet bier en andere alcoholische dranken; eigen actuele drankenkaart of schenkvergunning niet rechtstreeks gecontroleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen verifieerbaar bedrijfseigen weekrooster; Cylex en AlleBiz conflicteren voor di/do/vr en geven foutieve/onbruikbare websites.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: lokale https://www.westereender.nl/2026/geduld-het-toverwoord-bij-uitwerking-plannen-nieuwe-foarstrjitte-er-ligt-straks-een-straat-waar-de-westereen-trots-op-kan-zijn/ (01-07-2026) interviewt Wessel de Roos als eigenaar Café de Hossebos. Bedrijvenlijst https://www.westereender.nl/wp-content/uploads/2026/04/Westereender-0426-LR.pdf (april 2026) noemt Café-Restaurant De Hossebos, Foarstrjitte 21, telefoon 0511-444622, website hossebos.nl; website op 31-10 niet uitleesbaar. https://www.cylex.nl/bedrijf/caf%C3%A9-zalen-hossebos-11786763.html geeft di/do/vr/za uren anders dan https://www.allebiz.nl/caf%C3%A9-zalen-hossebos-0511-444-622; alle uren en laatste toegang onbekend gehouden. https://zekaa.com/cafe-zalen-hossebos noemt alcohol/beer/wine/cocktails maar geen primaire drankkaart. De historische familie Prins/Old Dutch https://www.westereender.nl/2026/zelfs-midden-in-de-nacht-stond-de-barman-naast-ons-bed-familie-prins-blikt-terug-op-vijftig-jaar-old-dutch-in-de-westereen/ betreft geschiedenis en is geen bewijs van huidige exploitant. Geen BAG-coördinaten aangenomen.",
+      "features": "D0 Dantumadiel / De Westereen; exacte weekuren, alcoholkaart en publieke inloop nader verifiëren",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "hossebos.nl uit lokale april-2026 bedrijvengids geprobeerd; niet uitleesbaar, niet als bevestigde officiële actieve site opgenomen.",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.westereender.nl/2026/geduld-het-toverwoord-bij-uitwerking-plannen-nieuwe-foarstrjitte-er-ligt-straks-een-straat-waar-de-westereen-trots-op-kan-zijn/",
+        "https://www.westereender.nl/wp-content/uploads/2026/04/Westereender-0426-LR.pdf",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-zalen-hossebos-11786763.html",
+        "https://www.allebiz.nl/caf%C3%A9-zalen-hossebos-0511-444-622",
+        "https://zekaa.com/cafe-zalen-hossebos"
+      ],
+      "original_status": "2026 lokaal eigenareninterview en bedrijfsvermelding bevestigen exploitatie-identiteit; geen primaire huidige caféuren of alcoholkaart."
     }
   ],
   "admission_policies": [
