@@ -5,6 +5,8 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+**31-10-2026 — Veiligheidscheckpoint [7eace48](https://github.com/paltenburg/nogergensnaarbinnen/commit/7eace482ab38c8773311deb6278ed87c8d4471c8):** `Café Bar-Dé` is na herbeoordeling van de **slechts tot juli 2026 daterende exploitantberichten** van `Voorlopig` naar **`Nog te controleren`** gezet. Daardoor **niet standaard zichtbaar** als actuele kroeg zonder recent oktoberbewijs. Stabiele ID en bronnen behouden, geen extra locatie. **Master blijft 607 (224 Utrecht, 383 Friesland)**. De nog lopende/ingeplande 607-Pages-run voor de voorgaande data-SHA kan door de nieuwe commit worden geannuleerd; verifieer de uiteindelijke nieuwe run en **claim geen geslaagde 607-deployment totdat die aantoonbaar klaar is**. Overige nog niet primair bevestigde kandidaten blijven verborgen.
+
 ### Checkpoint 31-10-2026 18:05 Europe/Amsterdam — Leeuwarden nachtleven (master **607**)
 
 **Werkelijk uitgevoerd 31-10-2026:** **5 Friese records toegevoegd**, waarvan **4 met primair bedrijfseigen horeca- en drankbewijs** en **1 met exploitantberichten tot juli 2026 maar nog zonder direct oktoberrooster**. Master **607 unieke IDs**, **224 Utrecht / 383 Friesland**, JSON volledig geparsed en alle 607 IDs en alle aanwezige zeven dagvelden gecontroleerd: **0 fouten**. Master bevat op dit moment **514 ingecheckte coördinaten**, 93 zonder; dit is **niet** hetzelfde als de extra PDOK-markers die de Pages-build genereert. Geocode voor gedeeld/adresconflict niet verzonnen. Geen UI-code gewijzigd; echte mobiele browsercontrole blijft open.
