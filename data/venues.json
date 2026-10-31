@@ -14190,13 +14190,14 @@
       },
       "closing_quality": "Geen eigen vast weekrooster.",
       "closing_source": "https://cafethert.nl/",
-      "closing_notes": "Eigen contactpagina vraagt voor opening van vandaag te bellen of Facebook te controleren. Geen vast eigen weekrooster; gidsuren niet overgenomen.",
+      "closing_notes": "Eigen contactpagina vraagt voor opening van vandaag te bellen of Facebook te controleren. Geen vast eigen weekrooster; gidsuren niet overgenomen. 31-10-2026: vrijdag Vrijmibo vanaf 16:00 primair bevestigd; sluituur en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://cafethert.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/joure",
         "https://cafethert.nl/contact/",
-        "https://www.allebiz.nl/caf%C3%A9-t-hert_1Q-0513-412-112"
+        "https://www.allebiz.nl/caf%C3%A9-t-hert_1Q-0513-412-112",
+        "https://cafethert.nl/agenda/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -14207,18 +14208,19 @@
       },
       "website_checked_on": "2026-10-30",
       "website_provenance": "Directe bedrijfssite, naam en adres gecontroleerd 2026-10-30.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
         "wo": "?",
         "do": "?",
-        "vr": "?",
+        "vr": "16:00",
         "za": "?",
         "zo": "?"
       },
-      "opening_source": "https://cafethert.nl/",
-      "opening_checked_on": "2026-10-30"
+      "opening_source": "https://cafethert.nl/agenda/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website en agenda 31-10-2026 bevestigen elke vrijdag Vrijmibo vanaf 16:00. Voor andere dagen geen vast weekrooster: eigen contactpagina verwijst naar telefoon/Facebook."
     },
     {
       "id": "grand-cafe-de-oranjerie-joure-2c77ca7",
@@ -14331,11 +14333,11 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen exploitantwebsite biedt een afzonderlijke borrelkaart en noemt lunch, borrel en diner; reserveren wordt aanbevolen, niet als harde toegangseis aangetroffen. Vrije drankinloop niet afzonderlijk gegarandeerd.",
+      "alcohol": "Eigen borrelkaart noemt o.a. Peroni 5,0%, Grolsch Weizen 5,1%, Grolsch Radler 2,0%; eigen site biedt wijnproeverijen. Primair bevestigd.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "—",
+        "ma": "?",
         "di": "22:00",
         "wo": "22:00",
         "do": "22:00",
@@ -14343,36 +14345,41 @@
         "za": "22:00",
         "zo": "22:00"
       },
-      "closing_quality": "Officiële regiogids",
-      "closing_source": "https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure",
-      "closing_notes": "Maandag gesloten, dinsdag–zondag tot 22:00.",
+      "closing_quality": "31-10-2026: exploitantwebsite dagelijks tot 22:00; Joure.nl dinsdag–zondag tot 22:00, maandag gesloten. Maandag onbekend, overige einduren 22:00. Keuken sluit volgens exploitant 21:00, niet als café-sluiting gebruikt.",
+      "closing_source": "https://www.dejongensvanjoure.nl/",
+      "closing_notes": "31-10-2026: eigen website zegt ma–zo 17:00–22:00, keuken tot 21:00. Regionale Joure.nl noemt maandag dicht, di–za 11–22 en zo 16–22. Daarom ma onbekend, di–zo vanaf 17 als gezamenlijke veilige opening, sluit 22. Eigen borrelkaart bevestigt alcohol. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.dejongensvanjoure.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/joure",
-        "https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure"
+        "https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure",
+        "https://www.dejongensvanjoure.nl/menu/borrel",
+        "https://www.dejongensvanjoure.nl/over-ons/vacatures",
+        "https://www.joure.nl/activiteit/de-jongens-van-joure",
+        "https://www.dejongensvanjoure.nl/berichten/44-reis-door-de-wijn-wijnproeverijen-en-wijncursus-sden1"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
-      "website_checked_on": "2026-10-29",
-      "website_provenance": "Directe site gekoppeld op basis van officiële locatievermelding / adres",
+      "checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage, borrelkaart en 2026 wijnproeverijen gecontroleerd 31-10-2026.",
       "opening": {
-        "ma": "—",
-        "di": "11:00",
-        "wo": "11:00",
-        "do": "11:00",
-        "vr": "11:00",
-        "za": "11:00",
-        "zo": "16:00"
+        "ma": "?",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
       },
-      "opening_source": "https://www.waterlandvanfriesland.nl/nl/locaties/3259775691/grand-cafe-de-jongens-van-joure",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://www.dejongensvanjoure.nl/",
+      "opening_checked_on": "2026-10-31",
       "geo": {
         "lat": 52.9650444,
         "lon": 5.8006553,
         "method": "PDOK BAG-adres",
         "matched_address": "De Merk 13, 8501AN Joure"
-      }
+      },
+      "opening_quality": "31-10-2026: exploitantwebsite vermeldt dagelijks 17:00–22:00 als restauranturen, terwijl Joure.nl dinsdag–zaterdag 11:00–22:00, zondag 16:00–22:00 en maandag gesloten noemt. Maandag onbekend wegens conflict; dinsdag–zondag conservatief vanaf 17:00, het tijdstip dat beide bronnen de zaak open beschrijven. Eventuele vroegere borreluren niet bewezen."
     },
     {
       "id": "cafe-le-duc-lemmer-adc5a8b",
