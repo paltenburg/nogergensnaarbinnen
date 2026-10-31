@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_data_review": "2026-10-31",
+  "last_data_review": "2026-11-01",
   "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Niet voor iedere locatie zijn openingstijden en laatste toegang bekend. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
@@ -29282,6 +29282,50 @@
         "https://www.cylex.nl/bedrijf/bistro-bries-lemmer-13932967.html"
       ],
       "original_status": "Heropening mei 2026 en voortgezette exploitatie in lokaal artikel 27-10-2026 bevestigd; actuele vrije alcoholinloop en weekrooster onbekend. Exploitantwebsite niet bereikbaar."
+    },
+    {
+      "id": "restaurant-bar-iselmar-lemmer-20261101",
+      "name": "Restaurant en bar Iselmar",
+      "type": "Hotelbar / restaurant / borrel",
+      "address": "Plattedijk 16",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen restaurantpagina beschrijft een bar voor een borrel, snacks en maaltijd en verwelkomt bezoekers; geen reserveringsplicht voor losse barconsumptie vermeld. Toegang voor niet-hotelgasten niet letterlijk afzonderlijk bevestigd.",
+      "alcohol": "Eigen actuele menukaart noemt onder meer Hertog Jan, speciaalbier, wijn, gin, jenever, Beerenburg en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen actueel apart weekrooster voor de hotelbar gepubliceerd; ontbijttijden, restaurantservice en receptie-uren zijn geen baruren.",
+      "closing_source": "",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: https://app.iselmar.nl/restaurant/ vermeldt aparte bar voor borrel, snacks en maaltijd; https://app.iselmar.nl/restaurant/menukaart/ bevestigt alcoholaanbod; https://app.iselmar.nl/ vermeldt Plattedijk 16. Geen afzonderlijke baropening, sluiting of laatste toegang; alle weekuren onbekend. https://app.iselmar.nl/jachthaven/ beschrijft havenbar The Mermaid als op verzoek voor besloten groepen vanaf 30 personen buiten de zomer; deze is NIET als tweede vrij toegankelijke zaak toegevoegd.",
+      "features": "D0 Lemmer; hotelbar aan jachthaven, niet verwarren met groepshavenbar The Mermaid",
+      "website": "https://www.iselmar.nl/restaurant",
+      "website_checked_on": "2026-11-01",
+      "other_sources": [
+        "https://app.iselmar.nl/restaurant/",
+        "https://app.iselmar.nl/restaurant/menukaart/",
+        "https://app.iselmar.nl/",
+        "https://app.iselmar.nl/jachthaven/"
+      ],
+      "original_status": "Exploitant bevestigt bar, alcohol en locatie. Exacte vrije toegang voor niet-hotelgasten en weekuren blijven te verifiëren; geen tijden ingevuld."
     }
   ],
   "admission_policies": [
