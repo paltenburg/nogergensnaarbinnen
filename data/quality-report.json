@@ -1,0 +1,134 @@
+{
+  "snapshot_date": "2026-10-31",
+  "source": "data/venues.json",
+  "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. A recorded review date does not certify present operation.",
+  "total": 586,
+  "regions": [
+    {
+      "id": "friesland",
+      "name": "Friesland",
+      "total": 362,
+      "selection_counts": {
+        "Nee": 8,
+        "Nog te controleren": 60,
+        "Voorlopig": 294
+      },
+      "with_official_website": 268,
+      "with_recorded_review_date": 362,
+      "with_coordinates": 312,
+      "with_any_exact_closing": 146,
+      "with_any_explicit_last_entry": 3,
+      "shared_address_candidates": [
+        {
+          "city": "Harlingen",
+          "address": "Voorstraat 64",
+          "venue_ids": [
+            "cafe-gewoan-sven-harlingen-dccd931",
+            "cafe-rednick-harlingen-11c235b"
+          ]
+        },
+        {
+          "city": "Vlieland",
+          "address": "Dorpsstraat 61",
+          "venue_ids": [
+            "eetcafe-t-praethuys-vlieland-20261030",
+            "zeevaert-bar-rotisserie-vlieland-a8283d7"
+          ]
+        }
+      ],
+      "shared_address_group_count": 2
+    },
+    {
+      "id": "utrecht",
+      "name": "Utrecht",
+      "total": 224,
+      "selection_counts": {
+        "Ja (aanbod bekend)": 11,
+        "Nee": 4,
+        "Nog te controleren": 16,
+        "Voorlopig": 193
+      },
+      "with_official_website": 152,
+      "with_recorded_review_date": 170,
+      "with_coordinates": 202,
+      "with_any_exact_closing": 144,
+      "with_any_explicit_last_entry": 2,
+      "shared_address_candidates": [
+        {
+          "city": "Utrecht",
+          "address": "Concordiastraat 80",
+          "venue_ids": [
+            "de-ping-pong-club-3e4df3c",
+            "de-troef-spelletjescafe-7a45c78"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Domplein 17",
+          "venue_ids": [
+            "lebowski-4b66c94",
+            "lebowskis-speakeasy-2a1a46d"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Jaarbeursplein 6a",
+          "venue_ids": [
+            "beatrix-theater-royal-bar-6a50c76",
+            "restaurant-queens-4d55fcd"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Kanaalweg 30",
+          "venue_ids": [
+            "bar-pleur-4b33634",
+            "cafe-keet-b7e333b"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Lucasbolwerk 24",
+          "venue_ids": [
+            "stadsschouwburg-utrecht-fc1adf8",
+            "zindering-3782b89"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Oudegracht 158",
+          "venue_ids": [
+            "wijnbar-vino-ae6ef03",
+            "winkel-van-sinkel-27c2af5"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Twijnstraat 15",
+          "venue_ids": [
+            "manners-cocktail-lounge-1a48ee6",
+            "papis-comfort-kitchen-bf4bc0e"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Voorstraat 102",
+          "venue_ids": [
+            "bassment-7cf6c51",
+            "ulu-bar-20261026"
+          ]
+        },
+        {
+          "city": "Utrecht",
+          "address": "Vredenburgkade 11",
+          "venue_ids": [
+            "het-gegeven-paard-b8698f6",
+            "kitchen-bar-danel-4c5a5ea",
+            "tivolivredenburg-869d218"
+          ]
+        }
+      ],
+      "shared_address_group_count": 9
+    }
+  ]
+}
