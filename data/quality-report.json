@@ -2,19 +2,19 @@
   "snapshot_date": "2026-10-31",
   "source": "data/venues.json",
   "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. A recorded review date does not certify present operation.",
-  "total": 587,
+  "total": 588,
   "regions": [
     {
       "id": "friesland",
       "name": "Friesland",
-      "total": 363,
+      "total": 364,
       "selection_counts": {
         "Nee": 8,
         "Nog te controleren": 60,
-        "Voorlopig": 295
+        "Voorlopig": 296
       },
-      "with_official_website": 269,
-      "with_recorded_review_date": 363,
+      "with_official_website": 270,
+      "with_recorded_review_date": 364,
       "with_coordinates": 312,
       "with_any_exact_closing": 147,
       "with_any_explicit_last_entry": 3,
