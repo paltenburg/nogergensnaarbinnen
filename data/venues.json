@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_data_review": "2026-10-30",
+  "last_data_review": "2026-10-31",
   "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Niet voor iedere locatie zijn openingstijden en laatste toegang bekend. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
@@ -150,43 +150,45 @@
     },
     {
       "id": "t-pakhuis-e59df99",
-      "name": "’t Pakhuis",
-      "type": "Feestcafé",
+      "name": "Bar Pakhuis",
+      "type": "Borrelbar / nachtcafé",
       "address": "Janskerkhof 21",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Exploitant bevestigt publieke borrelbar en vrije inloop zonder reservering; actuele weekstarts rechtstreeks gecontroleerd.",
+      "alcohol": "Exploitant noemt pils, Aperol, borrelplank en andere alcoholische dranken.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "—",
-        "di": "—",
-        "wo": "04:00",
-        "do": "04:00",
-        "vr": "04:00",
-        "za": "04:00",
-        "zo": "—"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Officiële website",
-      "closing_source": "https://www.hetpakhuis.nl/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "De vernieuwde zaak heet Bar Pakhuis. Eigen website noemt geen vaste sluitingstijd, oude 04:00-informatie mogelijk achterhaald.",
+      "closing_quality": "Geen actuele officiële sluitingstijden; gidsuren (03:00/04:00) zijn niet bedrijfseigen bevestigd.",
+      "closing_source": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: officiële https://barpakhuis.nl/ bevestigt hernieuwde naam Bar Pakhuis, dagelijkse openstelling ma–do vanaf 16:00 en vr–zo vanaf 14:00, zonder sluituren. Oud record 't Pakhuis had ma/di/zo als gesloten en wo–za 04:00 op basis van verouderde vermelding https://centrumutrecht.nl/company/t-pakhuis/; dat is in strijd met de actuele eigen site. Externe gidsen https://www.cylex.nl/bedrijf/bar-pakhuis-10769430.html en https://vind-open.nl/utrecht/bar-pakhuis-847850 noemen 04:00 ma–za en 03:00 zo, maar geen primaire bevestiging; alle sluituren daarom onbekend. Laatste toegang onbekend. Stabiel ID en BAG-marker behouden.",
       "features": "Uitgaan / dansen",
       "website": "https://barpakhuis.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
-        "https://www.uitagenda.nl/index.php/utrecht"
+        "https://www.uitagenda.nl/index.php/utrecht",
+        "https://centrumutrecht.nl/company/t-pakhuis/",
+        "https://www.cylex.nl/bedrijf/bar-pakhuis-10769430.html"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
+      "original_status": "Actuele exploitantensite bevestigt vrije inloop en openingsstarts; exacte einduren en laatste toegang onbekend.",
       "geo": {
         "lat": 52.0938752,
         "lon": 5.1205985,
         "method": "PDOK BAG-adres",
         "matched_address": "Janskerkhof 21, 3512BM Utrecht"
       },
-      "website_provenance": "Directe officiële website: Bar Pakhuis, Janskerkhof 21",
-      "website_checked_on": "2026-10-26",
+      "website_provenance": "Exploitantensite https://barpakhuis.nl/ direct geverifieerd 31-10-2026; dezelfde locatie en nieuw concept",
+      "website_checked_on": "2026-10-31",
       "opening": {
         "ma": "16:00",
         "di": "16:00",
@@ -197,7 +199,7 @@
         "zo": "14:00"
       },
       "opening_source": "https://barpakhuis.nl/",
-      "opening_checked_on": "2026-10-26"
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "t-pandje-323e93f",
@@ -22473,11 +22475,11 @@
       "opening": {
         "ma": "—",
         "di": "—",
-        "wo": "11:00",
-        "do": "11:00",
-        "vr": "11:00",
-        "za": "11:00",
-        "zo": "11:00"
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       },
       "closing": {
         "ma": "—",
@@ -22488,15 +22490,15 @@
         "za": "22:00",
         "zo": "22:00"
       },
-      "closing_quality": "Eigen homepage direct uitgelezen 30-10-2026 geeft wo–zo 11–22; zoekindex toont afwijkend 12–22. Tijdelijke sluiting 4–29 oktober in banner; heropening op controledatum niet afzonderlijk bevestigd.",
+      "closing_quality": "Eigen homepage 31-10-2026 geeft wo–zo 12:00–22:00; feitelijke heropening na sluitingsperiode 4–29 oktober niet onafhankelijk bevestigd.",
       "closing_source": "https://www.eetcafededames.nl/",
-      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren.",
+      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren. | 31-10-2026: de opnieuw opgehaalde eigen homepage https://www.eetcafededames.nl/ geeft nu 12:00–22:00 op wo–zo (eerder op 30-10 rechtstreeks 11:00 gelezen); begintijden bijgewerkt. De zoekindex en homepage komen nu overeen. Er is nog geen onafhankelijk bewijs dat de zaak na de aangekondigde tijdelijke sluiting daadwerkelijk heropend is; selectie blijft Nog te controleren.",
       "features": "D0 De Fryske Marren / Balk; tijdelijke sluiting t/m 29 oktober; heropening verifiëren",
       "website": "https://www.eetcafededames.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
       "opening_source": "https://www.eetcafededames.nl/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-10-31",
       "other_sources": [
         "https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf",
         "https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/"
