@@ -28541,6 +28541,51 @@
         "https://tablova.nl/zaak/leeuwarden/de-lytse-pub-n3066854028"
       ],
       "original_status": "Eigen exploitantwebsite en recent lokaal horeca-overzicht gecontroleerd 31-10-2026; live avondopening niet afzonderlijk getest."
+    },
+    {
+      "id": "restaurant-pyramide-buitenpost-20261031",
+      "name": "Restaurant Pyramide",
+      "type": "Restaurant / pizzeria / grillhouse (vrije borrel onbekend)",
+      "address": "Voorstraat 30",
+      "city": "Buitenpost",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site bevestigt publiek restaurant voor diner; alleen voor bier of wijn zonder maaltijd binnenlopen is niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen site https://pyramidebuitenpost.nl/lopend-buffet/ noemt onbeperkt bier en wijn als onderdeel van groepsbuffet vanaf 15 personen; los drankaanbod voor vrije inloop niet bevestigd.",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://pyramidebuitenpost.nl/",
+      "closing_source": "https://pyramidebuitenpost.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen site meldt expliciet maandag gesloten tot en met 22 maart 2027, di–zo 12–22, feestdagen altijd open zonder exact uitzonderingsrooster.",
+      "closing_notes": "31-10-2026: eigen https://pyramidebuitenpost.nl/ en https://pyramidebuitenpost.nl/contact/ rechtstreeks gecontroleerd, ma tot 22-03-2027 dicht, di–zo 12–22. https://pyramidebuitenpost.nl/lopend-buffet/ bevestigt bier/wijn bij groepsarrangement, niet per se een losse borrel. Daarom verborgen kandidaat totdat vrije drankinloop en alcoholkaart expliciet bevestigd zijn. Laatste toegang onbekend; feestdagen kunnen afwijken.",
+      "website": "https://pyramidebuitenpost.nl/",
+      "other_sources": [
+        "https://pyramidebuitenpost.nl/lopend-buffet/",
+        "https://pyramidebuitenpost.nl/contact/",
+        "https://pyramidebuitenpost.nl/afhalen/"
+      ],
+      "original_status": "Actuele exploitantwebsite bevestigt restaurant, uren en alcohol bij groepsarrangement, niet vrije alcoholinloop."
     }
   ],
   "admission_policies": [
