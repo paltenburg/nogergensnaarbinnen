@@ -3083,12 +3083,12 @@
       "id": "cafe-van-wegen-bef6c2e",
       "name": "Café van Wegen",
       "type": "Bruin café",
-      "address": "Lange Koestraat 19",
+      "address": "Lange Koestraat 15",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen website nodigt nieuwkomers expliciet uit binnen te stappen voor een borrel, speciaalbier, wijn of koffie; openbaar bruin café.",
+      "alcohol": "Eigen website bevestigt Amstel van de tap, negen speciaalbieren, wijn per glas, champagne en port.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "23:00",
@@ -3097,12 +3097,12 @@
         "do": "23:00",
         "vr": "23:00",
         "za": "23:00",
-        "zo": "20:30"
+        "zo": "20:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/cafe-van-wegen/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Adressen verschillen: oude lijst Lange Koestraat 19; gids noemt 15. Adres kan afwijken tussen gidsen; controle nodig.",
+      "closing_quality": "Eigen website met exact weekrooster en adres rechtstreeks gecontroleerd 31-10-2026.",
+      "closing_source": "https://www.cafevanwegen.nl/",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: bedrijfseigen https://www.cafevanwegen.nl/ bevestigt Lange Koestraat **15** (oude database stond fout op 19), ma/do/vr 16–23, za 15–23, zo 15–20, di/wo gesloten (eventueel op afspraak). Oude zo 20:30 uit gids gecorrigeerd naar 20:00. Oude BAG-marker voor nummer 19 verwijderd; alleen exacte nieuwe PDOK-match op 15 accepteren. Eigen site bevat ongedateerde vakantieboodschap '23 augustus tot 12 september' zonder jaar, dus niet als actuele 2026-sluiting geïnterpreteerd. Laatste toegang onbekend.",
       "features": "Biljart / speciaalbier",
       "website": "https://www.cafevanwegen.nl/",
       "other_sources": [
@@ -3110,14 +3110,20 @@
         "https://uitgaanskaart.nl/cafe/utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": {
-        "lat": 52.0936291,
-        "lon": 5.114193,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Lange Koestraat 19, 3511RL Utrecht"
+      "website_provenance": "Bedrijfseigen homepage met exact adres, weekrooster en alcoholaanbod 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "opening": {
+        "ma": "16:00",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "15:00",
+        "zo": "15:00"
       },
-      "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "opening_source": "https://www.cafevanwegen.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website, 31-10-2026"
     },
     {
       "id": "cafe-voortuin-6ee1714",
@@ -3260,22 +3266,22 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen website heeft actuele agenda met openbare PopRonde op 22 oktober en Smartlappenfestival op 13 november 2026; publiek café met aparte ticketvoorwaarden voor specifieke shows.",
+      "alcohol": "Café met borrel- en muziekprogramma; eigen website en contactpagina tonen horecabar, actuele drankenkaart nog afzonderlijk te controleren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "00:00",
         "di": "00:00",
-        "wo": "01:00",
-        "do": "01:00",
+        "wo": "00:00",
+        "do": "02:00",
         "vr": "02:00",
         "za": "02:00",
         "zo": "00:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/cafe-willem-slok/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Eigen website publiceert exact rooster, 31-10-2026.",
+      "closing_source": "https://willemslok.nl/",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen https://willemslok.nl/ vermeldt ma–wo 16–00, do–za 16–02, zo 16–00. Eerdere Centrum Utrecht-gids gaf woensdag 01:00 en donderdag 01:00; beide gecorrigeerd naar eigen site. Recente eigen agenda 20-10-2026 noemt 22-10 PopRonde en 13-11 Smartlappenfestival; evenementtijden niet als café-einduren gebruikt. Laatste toegang onbekend.",
       "features": "Wijk C",
       "website": "https://willemslok.nl/",
       "other_sources": [
@@ -3290,8 +3296,20 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Korte Koestraat 2, 3511RP Utrecht"
       },
-      "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_provenance": "Bedrijfseigen homepage met weekrooster en 2026-agenda rechtstreeks gecontroleerd 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://willemslok.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen site, 31-10-2026"
     },
     {
       "id": "cambridgebar-c5c7346",
