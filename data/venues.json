@@ -13613,15 +13613,17 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen site noemt wo–zo lunch vanaf 12:00, maar geen exact café-weekrooster of sluiting",
+      "closing_quality": "Actuele exploitant bevestigt publieke borrel, maar geen apart caférooster; lunch-/ontbijttijden zijn geen café-uren.",
       "closing_source": "https://hoteldeabdijdokkum.nl/over-de-abdij/abdij-cafe/",
-      "closing_notes": "Eigen exploitant 30-10-2026: lunch wo–zo 12–15; ontbijt dagelijks 08–11 maar dit bewijst geen borreltoegang vanaf 08:00. Horecasluiting/laatste toegang onbekend. Tripadvisor vermeldt wo–zo 08–22, ma/di dicht, maar niet als officiële cafésluiting overgenomen.",
+      "closing_notes": "31-10-2026: officiële pagina https://hoteldeabdijdokkum.nl/over-de-abdij/abdij-cafe/ geeft lunch wo–zo 12:00–15:00 en ontbijt dagelijks 08:00–11:00, maar geen reguliere café-borrelopen- of sluituren. Deze maaltijdtijden zijn niet als baropening te gebruiken. Contactbereikbaarheid 08:00–19:00 is evenmin horecaopening. Alle caféuren en laatste toegang onbekend; gidsen geven onderling verschillende weekuren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://hoteldeabdijdokkum.nl/over-de-abdij/abdij-cafe/",
       "other_sources": [
         "https://hoteldeabdijdokkum.nl/",
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/1251041096/grand-cafe-abdij",
-        "https://stagemarkt.nl/leerbedrijven/profiel_eaa609ef-20fb-4eea-8a72-e1a68aefa507"
+        "https://stagemarkt.nl/leerbedrijven/profiel_eaa609ef-20fb-4eea-8a72-e1a68aefa507",
+        "https://hoteldeabdijdokkum.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/1251041096/grand-cafe-abdij"
       ],
       "original_status": "Hotel en grand café door exploitant en actuele horeca-/stagemarktbronnen bevestigd.",
       "geo": {
@@ -13630,17 +13632,19 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Markt 30A, 9101LS Dokkum"
       },
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
-        "wo": "12:00",
-        "do": "12:00",
-        "vr": "12:00",
-        "za": "12:00",
-        "zo": "12:00"
-      }
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "bar-dancing-de-ponderosa-dokkum-6bf890f",
@@ -28949,6 +28953,96 @@
         "https://www.goerres.nl/"
       ],
       "original_status": "31-10-2026: eigen actuele site bevestigt exploitatie en adres; eigen menukaart 2026 bevestigt alcohol en borrelfunctie. Reguliere actuele oktoberuren ontbreken."
+    },
+    {
+      "id": "drink-eetlokaal-proefverlof-leeuwarden-20261031",
+      "name": "Drink- en Eetlokaal Proefverlof",
+      "type": "Drink- en eetlokaal / terrasborrel",
+      "address": "Blokhuisplein 40",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitant biedt openbare drank- en borrelkaart, terras en losse wijn; geen maaltijdplicht vermeld. Andere horecazaken in de Blokhuispoort zijn afzonderlijke exploitatieconcepten.",
+      "alcohol": "Eigen 2026-menu bevat afzonderlijke Bieren & Frisdrank- en Wijnkaart; eigen pagina noemt wijn op terras.",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.proefverlof.frl/contact",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exploitant schrijft dinsdag–zondag '11.00 - sluit' zonder einduur; homepage geeft zondag 18:00, contactpagina noemt zondag 'sluit'. Zondag einduur daarom onbekend.",
+      "closing_notes": "31-10-2026: eigen contactpagina ma gesloten, di–zo vanaf 11:00; keuken 12–21 is GEEN café-sluiting. Homepage vermeldt zo tot 18:00, contactpagina variabel; geen vaste zondag-sluiting aangenomen. Laatste toegang niet vermeld. Café de Bak in hetzelfde Blokhuispoortcomplex is een afzonderlijk café met ander weekrooster; niet als dezelfde zaak samenvoegen.",
+      "features": "Blokhuispoort Leeuwarden; eigen wijn- en bierkaart; apart terras; sluituren variabel.",
+      "website": "https://www.proefverlof.frl/",
+      "other_sources": [
+        "https://www.proefverlof.frl/contact",
+        "https://www.proefverlof.frl/blokhuispoort/cafe-de-bak",
+        "https://www.cafedebak.frl/"
+      ],
+      "original_status": "31-10-2026: officiële site met 2026-menu, alcohol, adres, reguliere dagstarts en actuele exploitatie gecheckt; geen einduren of laatste toegang vastgesteld."
+    },
+    {
+      "id": "grand-cafe-de-hofdame-leeuwarden-20261031",
+      "name": "Grand Café De Hofdame",
+      "type": "Grandcafé / restaurant / borrel",
+      "address": "Grote Kerkstraat 7",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen restaurant heeft aparte borrelkaart; Visit Leeuwarden bevestigt informele publieke borrel. Geen maaltijdverplichting voor losse borrel gevonden.",
+      "alcohol": "Visit Leeuwarden en Friesland.nl noemen wijnen, bieren en cocktails; eigen site biedt aparte borrelkaart. Geen eigen volledige actuele drankprijzen geverifieerd.",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://dehofdameleeuwarden.nl/",
+      "closing_source": "https://dehofdameleeuwarden.nl/",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Actuele eigen website noemt dagelijks tot 22:00; sommige gidsen geven vrijdag/zaterdag 23:00, daarom exploitantrooster leidend.",
+      "closing_notes": "31-10-2026: eigen site ma–za 09:00–22:00, zo 10:00–22:00. Derden vermelden soms vr/za 23:00, niet overgenomen. Dit zijn de gepubliceerde bedrijfsuren; laatste dranktoegang niet afzonderlijk bevestigd.",
+      "features": "Leeuwarden centrum; publieke borrel; wijn, bier, cocktails volgens toeristische gids.",
+      "website": "https://dehofdameleeuwarden.nl/",
+      "other_sources": [
+        "https://dehofdameleeuwarden.nl/menu",
+        "https://visitleeuwarden.com/locaties/2683441490/grand-cafe-de-hofdame",
+        "https://www.friesland.nl/nl/locaties/2565820665/grand-cafe-de-hofdame"
+      ],
+      "original_status": "31-10-2026: actuele exploitantsite voor identiteit/adres/uren, gemeentelijke/toeristische gids voor losse borrel en alcoholaanbod."
     }
   ],
   "admission_policies": [
