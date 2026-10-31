@@ -749,20 +749,11 @@
     change();
   }
   function mapContentPadding(){
-    const size=map.getSize();
-    let left=18,right=18,top=18,bottom=18;
-    if(window.matchMedia('(min-width:881px)').matches){
-      left=Math.ceil(el('results').getBoundingClientRect().right+22);
-      top=80;
-    }else{
-      top=Math.ceil(el('after').getBoundingClientRect().bottom+28);
-      bottom=Math.ceil(size.y-el('results-header').getBoundingClientRect().top+16);
-    }
-    // Ensure Leaflet always has a usable map rectangle, even on short phones.
-    left=Math.min(left,Math.max(18,size.x-right-60));
-    top=Math.min(top,Math.max(18,size.y-bottom-60));
-    bottom=Math.min(bottom,Math.max(18,size.y-top-60));
-    return {left,right,top,bottom};
+    // The Leaflet container is a separate, unobstructed element on desktop
+    // and mobile. Header, filters and cards are outside #map in the layout.
+    // Viewport-relative overlay measurements used here previously shifted the
+    // map's effective centre, preventing reliable mobile region switching.
+    return {left:18,right:18,top:18,bottom:18};
   }
   // Keep the list and selected region in sync with where the user pans/zooms.
   // Consider ALL known venue locations, not just the currently filtered markers:
@@ -773,18 +764,9 @@
   // Touch interaction on phones can otherwise leave the region unchanged.
   function regionAtMapCenter(){
     if(!map||!db.regions?.length||!db.places?.length)return null;
-    // On mobile the top selectors and bottom cards cover much of the map.
-    // Use the centre of the *unobstructed* map rectangle, not Leaflet's
-    // geometric centre (which can be hidden behind the cards).
-    // The same calculation excludes the floating sidebar on desktop.
-    const padding=mapContentPadding();
-    const size=map.getSize();
-    const width=Math.max(1,size.x-padding.left-padding.right);
-    const height=Math.max(1,size.y-padding.top-padding.bottom);
-    const center=map.containerPointToLatLng([
-      padding.left+width/2,
-      padding.top+height/2
-    ]);
+    // #map has no overlaid controls on either layout; use the true Leaflet
+    // centre. This remains stable across mobile screen sizes and zoom levels.
+    const center=map.getCenter();
     const available=new Set(db.regions.map(region=>region.id));
     const nearest=new Map();
     for(const place of db.places){
