@@ -24394,7 +24394,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website presenteert een publiek toegankelijk grand café voor ontbijten, lunchen, borrelen en dineren.",
-      "alcohol": "Eigen website bevestigt borrelfunctie; concrete actuele bier- of wijnkaart niet afzonderlijk gecontroleerd.",
+      "alcohol": "Eigen actuele High Beer- en High Wine-pagina's bevestigen bierkaart, wijnkaart, biersommelier en wijnselectie; ook alcoholvrije alternatieven. Arrangementen zijn op reservering, maar grand café is afzonderlijk publiek toegankelijk.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "07:00",
@@ -24423,11 +24423,13 @@
       "website_checked_on": "2026-10-31",
       "website_provenance": "Eigen website: grand café, adres Gemeenteplein 33, borrelfunctie en openingstijden.",
       "checked_on": "2026-10-31",
-      "features": "Grand café met borrel, hotel en evenementenlocatie",
+      "features": "Grand café met publiek borrelen, eigen bier- en wijnkaart, High Beer/High Wine-arrangementen, hotel en evenementenlocatie",
       "other_sources": [
-        "https://gerechtheerenveen.nl/contact/"
+        "https://gerechtheerenveen.nl/contact/",
+        "https://gerechtheerenveen.nl/arrangementen/high-beer/",
+        "https://gerechtheerenveen.nl/arrangementen/high-wine/"
       ],
-      "original_status": "Actuele exploitantwebsite vermeldt publiek grand café met borrelfunctie; exacte laatste toegang niet vermeld."
+      "original_status": "Actuele exploitantwebsite bevestigt publiek grand café en eigen bier-/wijnkaart; donderdag-/zondagsluiting intern tegenstrijdig, laatste toegang onbekend."
     },
     {
       "id": "eetcafe-bij-de-buuf-oudeschoot-20261031",
