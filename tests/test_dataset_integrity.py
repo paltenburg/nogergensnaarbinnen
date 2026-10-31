@@ -4,6 +4,8 @@ import re
 import unittest
 from pathlib import Path
 
+from scripts import geocode
+
 DATA = Path(__file__).resolve().parents[1] / "data" / "venues.json"
 DAYS = ("ma", "di", "wo", "do", "vr", "za", "zo")
 SPECIAL = {"?", "—", "Event", "Varieert"}
@@ -46,6 +48,23 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
             if p.get("geocode_blocked"):
                 with self.subTest(venue=p["id"]):
                     self.assertFalse(p.get("geo"), "Disputed venue entrance has a marker")
+
+    def test_pdok_markers_match_exact_house_number_and_suffix(self):
+        # A BAG result like Wed 1-1 is NOT an exact match for venue Wed 1.
+        # Exclude GPS/manual beach locations; only compare PDOK BAG addresses.
+        for p in self.places:
+            geo = p.get("geo") or {}
+            if geo.get("method") != "PDOK BAG-adres":
+                continue
+            if p.get("geo_entrance_verified"):
+                continue  # Individually verified entrance may have a different BAG label.
+            expected = geocode.addr_parts(p.get("address"))
+            if expected is None:
+                continue
+            actual = geocode.addr_parts(geo.get("matched_address", ""))
+            with self.subTest(venue=p["id"]):
+                self.assertIsNotNone(actual, "PDOK address contains unverified addition/range")
+                self.assertEqual(expected[1:], actual[1:], "PDOK house number/suffix differs")
 
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
