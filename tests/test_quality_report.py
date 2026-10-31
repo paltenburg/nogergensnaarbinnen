@@ -20,7 +20,7 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(report["total"], 3)
         self.assertEqual([r["id"] for r in report["regions"]], ["friesland", "new-region"])
         f = report["regions"][0]
-        self.assertEqual(f["with_official_website"], 1)
+        self.assertEqual(f["with_website_url"], 1)
         self.assertEqual(f["with_recorded_review_date"], 1)
         self.assertEqual(f["with_coordinates"], 1)
         self.assertEqual(f["with_any_exact_closing"], 1)
