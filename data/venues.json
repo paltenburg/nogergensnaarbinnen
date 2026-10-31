@@ -28676,6 +28676,97 @@
         "https://www.ducoleeuwarden.nl/de/"
       ],
       "original_status": "Nederlandstalige exploitantwebsite gecontroleerd 31-10-2026; borrel en ma–zo-uren bevestigd, zondagversieconflict gemarkeerd."
+    },
+    {
+      "id": "restaurant-it-posthus-burdaard-20261031",
+      "name": "Restaurant It Posthûs",
+      "type": "Seizoensrestaurant / borrelterras",
+      "address": "Ds. R.H. Kuipersstraat 1",
+      "city": "Burdaard",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site bevestigt vrije borrel bij restaurant/terras in het seizoen. Van november tot en met februari is het restaurant volgens de exploitant gesloten; hotelopening is geen bewijs van baropening.",
+      "alcohol": "Eigen site noemt borrel en drankjes, maar actuele alcoholsoorten/losse alcoholkaart niet expliciet vastgesteld.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://itposthusburdaard.nl/restaurant/",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Seizoensgebonden; eigen site: november–februari restaurant volledig gesloten. Geen actueel dagelijks einduur. Eigen contactkop noemt dagelijks vanaf 10:00 maar seizoensrooster in footer is specifieker.",
+      "closing_notes": "31-10-2026: eigen site vermeldt november–februari ma–zo gesloten; maart di–zo vanaf 17, april–september dagelijks vanaf 10, oktober di–zo vanaf 17. Wegens ontbreken datumafhankelijke seizoensfilter alle vaste weekuren onbekend en record verborgen, zodat winterbezoekers geen onjuiste reguliere opening zien. Hotel blijft apart open; dit is geen baropening. Laatste toegang onbekend.",
+      "features": "Burdaard, terras aan Dokkumer Ee; seizoen november–februari restaurant dicht",
+      "website": "https://itposthusburdaard.nl/",
+      "other_sources": [
+        "https://itposthusburdaard.nl/restaurant/",
+        "https://itposthusburdaard.nl/contact/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/115032721/restaurant-it-posthus"
+      ],
+      "original_status": "Exploitantwebsite gecontroleerd 31-10-2026; actuele winterseizoenssluiting bevestigd, alcoholsoorten nog controleren."
+    },
+    {
+      "id": "de-herberg-van-smallingerland-rottevalle-20261031",
+      "name": "De Herberg van Smallingerland",
+      "type": "Restaurant / herbergbar en caféavonden",
+      "address": "Muldersplein 2",
+      "city": "Rottevalle",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site noemt informele borrel in de bar en publieke caféavonden; gewone vrije drankinloop op elke restaurantdag niet afzonderlijk bevestigd. Voor grotere gezelschappen en diners kan reservering nodig zijn.",
+      "alcohol": "Eigen homepage noemt schenken met of zonder alcohol; onafhankelijke restaurantrecensie vermeldt wijn per glas. Exacte losse drankkaart niet gevonden.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "12:30"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.herbergvansmallingerland.nl/contact/",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exploitant noemt wo–za vanaf 17:00, zo vanaf 12:30, overige dagen alleen op afspraak; geen sluituren. Michelin noemt andere beginuren; niet overgenomen.",
+      "closing_notes": "31-10-2026: exploitantcontact geeft reguliere wo–za 17:00, zo 12:30; ma/di geen reguliere opening, alleen bijzondere afspraak. De exploitant noemt 2026 caféavond en informele borrel in bar; dagelijkse vrije alcoholinloop nog controleren. Alle sluituren en laatste toegang onbekend; Michelin 12:30–22 is niet als primaire opening overgenomen.",
+      "features": "Historische herberg Rottevalle; caféavonden en restaurantbar",
+      "website": "https://www.herbergvansmallingerland.nl/",
+      "other_sources": [
+        "https://www.herbergvansmallingerland.nl/over-de-herberg/",
+        "https://www.herbergvansmallingerland.nl/agenda/vrijdag-2-oktober-wedstrijd-de-lekkerste-gehaktbal/",
+        "https://guide.michelin.com/nl/nl/fryslan/rottevalle/restaurant/de-herberg-van-smallingerland",
+        "https://www.gault-millau.nl/nl/restaurants/de-herberg-van-smallingerland-rottevalle"
+      ],
+      "original_status": "Eigen actuele site en 2026 caféavond gecontroleerd 31-10-2026; opening bevestigd, losse dranktoegang niet volledig."
     }
   ],
   "admission_policies": [
