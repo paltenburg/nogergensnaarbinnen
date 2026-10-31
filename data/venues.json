@@ -25831,6 +25831,147 @@
         "https://sloten.nl/resources/Bedrijven/SERVICEPAGINA-MIDDENSTAND-SO-JUNI-24.pdf"
       ],
       "original_status": "2026 toeristische gids noemt café/snackbar, geen actuele exploitantverificatie/alcoholkaart; verborgen."
+    },
+    {
+      "id": "restaurant-de-nostalgie-oudemirdum-20261031",
+      "name": "Restaurant De Nostalgie",
+      "type": "Restaurant/bar/borrel",
+      "address": "De Brink 6",
+      "city": "Oudemirdum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Oudemirdum; restaurant met bar; historische naam Grand Café",
+      "access": "Eigen site biedt expliciet lunch, diner en borrel; toeristische regiogids beschrijft café en bierkaart. Niet automatisch aparte exploitatie als Grand Café/Den Nostalgie aangemaakt.",
+      "alcohol": "Regiogids Friesland.nl noemt verfijnde bierkaart; 2026 TripAdvisor-bezoekers vermelden wijn. Eigen site biedt borrel, geen afzonderlijke eigen drankenkaart in tekst gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen openingstijdenpagina bijgewerkt 18-10-2026 noemt alleen komende week dinsdag, donderdag, vrijdag, zaterdag en zondag; geen terugkerend weekschema of vaste uren. Gidsen spreken elkaar tegen, geen tijd overgenomen.",
+      "closing_quality": "Geen vaste primaire sluituren of laatste toegang. Historische Grand Café-uren (01:00/04:00) mogen niet voor huidige Restaurant De Nostalgie worden gebruikt.",
+      "opening_source": "https://www.restaurantdenostalgie.nl/openingstijden/",
+      "closing_source": "https://www.restaurantdenostalgie.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: exploitantwebsite bijgewerkt 18 oktober 2026 met wisselende dagen en kerstregeling, geen vaste uren. Oude Grand Café/Den Nostalgie bedrijvengidsen tonen mogelijk andere exploitatie en zeer late uren; niet als actueel aangenomen. Laatste toegang onbekend.",
+      "website": "https://www.restaurantdenostalgie.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site met update 02-10/18-10-2026 en menu 17-10-2026 gecontroleerd 31-10-2026.",
+      "other_sources": [
+        "https://www.restaurantdenostalgie.nl/restaurant/",
+        "https://www.friesland.nl/nl/locaties/852694674/bar-en-restaurant-de-nostalgie",
+        "https://www.tripadvisor.nl/Restaurant_Review-g652202-d23478567-Reviews-Grand_Cafe_Nostalgie-Oudemirdum_Friesland_Province.html",
+        "https://www.allebiz.nl/cafe-den-nostalgie_1k-0514-852-122"
+      ],
+      "original_status": "Huidig restaurant sinds maart 2022; eigen site actief bijgewerkt oktober 2026, publieke borrelfunctie en alcohol secundair bevestigd. Geen dubbel record voor historische kroeg."
+    },
+    {
+      "id": "hotel-restaurant-boschlust-oudemirdum-20261031",
+      "name": "Hotel-Restaurant Boschlust",
+      "type": "Hotelrestaurant/borrel",
+      "address": "De Brink 3",
+      "city": "Oudemirdum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Oudemirdum; publiek hotelrestaurant; terras",
+      "access": "Eigen site bevestigt dat ook niet-hotelgasten welkom zijn voor ontbijt, lunch, borrel of diner. Borrel zonder maaltijd wordt aangeboden.",
+      "alcohol": "Eigen site noemt borrel maar geen expliciete bier-/wijnkaart in gecontroleerde pagina's; alcoholische drank nog niet afzonderlijk primair bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen homepage en footer noemen wo–zo 10–22, eigen restaurant/contactbody zegt alle dagen 10–22. Ma/di conflicteren en blijven onbekend; wo–zo 10–22 consistent.",
+      "closing_quality": "Eigen site zegt sluiting 22:00 op wo–zo; keuken tot 20:00 is geen horecasluiting. Ma/di onbekend door tegenstrijdige eigen pagina's. Laatste toegang onbekend.",
+      "opening_source": "https://hotelboschlust.nl/",
+      "closing_source": "https://hotelboschlust.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen site tegenstrijdig over ma/di (wo–zo versus alle dagen). Wo–zo 10:00–22:00 primair bevestigd; keuken 12–20. Laatste toegang en alcoholkaart nog te verifiëren.",
+      "website": "https://hotelboschlust.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage, restaurant en contactpagina gecontroleerd 31-10-2026.",
+      "other_sources": [
+        "https://hotelboschlust.nl/restaurant/",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/1165695972/hotel-restaurant-boschlust"
+      ],
+      "original_status": "Actueel hotelrestaurant met openbare borrelfunctie; exacte weekuren wo–zo primair, ma/di tegenstrijdig."
+    },
+    {
+      "id": "de-hege-gerzen-oudemirdum-20261031",
+      "name": "De Hege Gerzen",
+      "type": "Seizoensstrandpaviljoen",
+      "address": "Liemerige Wei 4",
+      "city": "Oudemirdum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Oudemirdum; strandpaviljoen IJsselmeer; seizoensgebonden",
+      "access": "Eigen site beschrijft publiek strandterras en loket met dranken. Seizoen begin april t/m eind oktober; buiten seizoen alleen feesten/partijen op aanvraag. Vanaf november geen reguliere vrije inloop aangenomen.",
+      "alcohol": "Eigen arrangementenpagina noemt expliciet bier, wijn en binnenlands gedestilleerd; niet beperkt tot frisdrank.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen site: april/oktober alleen weekenden, mei–september dagelijks 10–20; slecht weer kan afwijken. Seizoensrooster niet zonder datumcontext in een generiek weekrooster gezet.",
+      "closing_quality": "20:00 betreft seizoensgebonden recreatietijd; feesten op aanvraag tot 24:00 zijn geen publieke sluituren of gegarandeerde laatste toegang.",
+      "opening_source": "https://hegegerzen.nl/",
+      "closing_source": "https://hegegerzen.nl/arrangementen/voetbalgolf/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen site noemt reguliere openstelling uitsluitend begin april–eind oktober; vanaf 01-11-2026 buiten seizoen. Standaard verborgen om geen winterse reguliere inloop te suggereren. Alle weekuren onbekend wegens datum-/weerafhankelijkheid; 24:00 alleen voor privéfeesten op aanvraag.",
+      "website": "https://hegegerzen.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage en arrangementenpagina gecontroleerd 31-10-2026; expliciete seizoensdata en alcohol bevestigd.",
+      "other_sources": [
+        "https://hegegerzen.nl/arrangementen/voetbalgolf/",
+        "https://hegegerzen.nl/feesten-en-partijen/",
+        "https://www.grootdefryskemarren.nl/agenda/2026/4/1/recreeren-bij-de-hege-gerzen-127949"
+      ],
+      "original_status": "Publieke zomerhoreca en alcohol bevestigd; buiten seizoen geen reguliere inloop, daarom verborgen tot seizoen-/datumfilter."
     }
   ],
   "admission_policies": [
