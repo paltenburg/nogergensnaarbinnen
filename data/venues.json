@@ -27324,6 +27324,49 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Terras; borrel; seizoensafhankelijke donderdag/vrijdag; koffie met sterke drank"
+    },
+    {
+      "id": "hof-van-oldeberkoop-20261031",
+      "name": "Hof van Oldeberkoop",
+      "type": "Restaurant / terras / mogelijk borrel",
+      "address": "Oosterwoldseweg 3",
+      "city": "Oldeberkoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "In 2026 heropend als publiek restaurant volgens exploitantgerichte Social Deal-pagina. Alcoholwetvergunning op dit adres verleend. Losse borrel zonder maaltijd/reservering niet expliciet bevestigd.",
+      "alcohol": "Gemeente Ooststellingwerf heeft 19-03-2026 Alcoholwetvergunning voor Hof van Oldeberkoop verleend; Social Deal-aanbieding uit 2026 noemt drie soorten tapbier en vijf huiswijnen.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.socialdeal.nl/bedrijf/drenthe/hof-van-oldeberkoop/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.socialdeal.nl/bedrijf/drenthe/hof-van-oldeberkoop/",
+      "closing_quality": "Social Deal noemt vanaf 1 oktober ma–do gesloten, vr–zo 12–20, maar dit is een seizoensrooster en geen jaarrond weekrooster. De huidige UI kan dit niet per datum representeren; daarom alle generieke dagvelden onbekend.",
+      "closing_notes": "Alcoholwetvergunning bewijst vergunning, niet feitelijke openingstijden. Heropening in 2026 door dealplatform vermeld, met actuele klantreacties. Losse drankinloop, officiële bedrijfssite en laatste toegang nog verifiëren. Verschillende gidsen hebben afwijkende weekuren; geen tijden overgenomen.",
+      "website": "",
+      "other_sources": [
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-134849.pdf",
+        "https://www.socialdeal.nl/bedrijf/drenthe/hof-van-oldeberkoop/",
+        "https://www.socialdeal.nl/deals/friesland/hof-van-oldeberkoop/geniet-van-een-smakelijke-lunch-of-heerlijk-diner-bij-hof-van-oldeberkoop-smul-van-nachos-om-te-delen-een-burger-naar-keuze-en-een-lekker-tapbiertje-wijntje-of-frisje-apr-2026-friesland/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Heropend 2026; vergunning alcohol; seizoenrooster; vrije borrel onbekend"
     }
   ],
   "admission_policies": [
