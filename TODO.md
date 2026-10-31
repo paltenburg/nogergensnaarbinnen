@@ -5,6 +5,19 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+### Nacontrole 31-10-2026 — CI #309 en exacte BAG-resultaten
+
+**CI daadwerkelijk geslaagd:** [GitHub Pages #309](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41210942574), commit `87f28037b8c55bda009084fa9ae936705ed3e2f5`. **23/23 Python-tests geslaagd**, PDOK **546/596** met exacte BAG-coördinaten, **50** zonder marker (tegenover **544/596** en 52 zonder marker vóór de huisletterreparatie), bronregister **1.651 URL's** over **654 domeinen**, kwaliteitsrapport **596 locaties / 2 actieve regio's** en Pages-deployment geslaagd. De ZIP van de werkelijk gebouwde Pages-artifact is gedownload en uitgepakt; daarin expliciet gecontroleerd:
+- **Paradiso Bar, Kollum**: `Voorstraat 65-A` → PDOK BAG `Voorstraat 65A, 9291CE Kollum` (`53.2807849, 6.1519107`).
+- **Aan de Hoarne, Terherne**: `Syl 12-A` → PDOK BAG `Syl 12A, 8493LL Terherne` (`53.0423398, 5.7737102`).
+- **It Stee, Surhuisterveen**: `De Kolk 31` → PDOK BAG `De Kolk 31, 9231CV Surhuisterveen` (`53.1826528, 6.1663605`).
+- De gebouwde `data/quality-report.json` heeft alle nieuwe ontbrekende-data-tellers. Friesland: **343/372** met geo, **29** zonder, **218** zonder exact sluituur, **369** zonder expliciete laatste toegang, **94** zonder website. Utrecht: **203/224** met geo, **21** zonder, **80** zonder exact sluituur, **222** zonder expliciete laatste toegang, **72** zonder website.
+- Lokale regressiesuite op het uitgepakte Pages-artifact opnieuw gedraaid: **23/23 geslaagd**. Controle van dubbele coördinaten: **11** groepen met gedeeld adres, niet automatisch duplicaten (o.a. TivoliVredenburg/Het Gegeven Paard/Danel, Café Rednick/Gewoán Sven). Laatste twee waren al als historische/onbevestigde naam versus huidige zaak onderscheiden.
+- **Browserbeperking:** poging tot headless Chromium/Playwright met mobiel viewport en lokale build liep vast: lokale HTTP geblokkeerd door omgevingsbeleid (`ERR_BLOCKED_BY_ADMINISTRATOR`), daarna Playwright-timeout bij ingebedde HTML. Daarom **géén geslaagde mobiele kaart- of regiowisseltest** en geen claim van live mobiele werking. Deploymentstatus bewijst geen echte browserinteractie.
+- De **Pages-build** is actueel; ingecheckte afgeleide bestanden op `main` lopen nog achter omdat push-runs bewust niet terugschrijven. De eerstvolgende geplande onderhoudsrun of expliciete workflow-dispatch moet `data/venues.json`-geocodes, bronregister en kwaliteitsrapport synchroniseren. Geen tweede schrijvende automation aangemaakt.
+
+**Hervat:** controleer eerst geplande onderhoudsrun en de 50 resterende unmatched; echte mobiel/desktop-browserinteractie blijft open. W45 vanaf maandag 02-11 10:00; D0 Friesland blijft open.
+
 ## Checkpoint 31-10-2026 — Surhuisterveen, bronkwaliteit en BAG-huisletters (master **596**)
 
 **Werkelijk gelezen:** actuele `TODO.md` (incl. sectie *Uitvoeringsstrategie: opzettelijk grote opdracht, doorwerken tot de grens*), volledige `data/venues.json`, `index.html`, `scripts/geocode.py`, `scripts/build_quality_report.py`, tests, actuele GitHub Actions en afgeleide geo-/kwaliteitsrapporten. Actieve masterregio's: **Utrecht 224** en **Friesland 372**. Geen W45-audit verschuldigd vóór **maandag 02-11-2026 10:00 Europe/Amsterdam**. D0 Friesland **open**, landelijke D1/D2 **niet gestart**.
