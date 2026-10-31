@@ -24428,6 +24428,51 @@
         "https://gerechtheerenveen.nl/contact/"
       ],
       "original_status": "Actuele exploitantwebsite vermeldt publiek grand café met borrelfunctie; exacte laatste toegang niet vermeld."
+    },
+    {
+      "id": "eetcafe-bij-de-buuf-oudeschoot-20261031",
+      "name": "Eetcafé bij de Buuf",
+      "type": "Dorpscafé / eetcafé / borrel",
+      "address": "Marktweg 2",
+      "city": "Oudeschoot",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Lokale krant meldt heropening van het dorpscafé in september 2024; recente 2026-bezoekersreacties en Uitagenda beschrijven publiek café voor een drankje. Eigen actuele toegangsregels niet rechtstreeks geverifieerd.",
+      "alcohol": "Horecagids vermeldt onder meer Jägermeister; bier/wijnkaart niet rechtstreeks bij exploitant gecontroleerd. Actueel alcoholassortiment blijft te verifiëren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "—",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Secundaire horecagidsen (31-10-2026); dinsdag tegenstrijdig en daarom onbekend. Geen eigen rooster gevonden.",
+      "closing_source": "https://www.het-menu.nl/oudeschoot/restaurant/cafe_bij_de_buuf",
+      "closing_notes": "31-10-2026: https://www.het-menu.nl/oudeschoot/restaurant/cafe_bij_de_buuf en https://restaurantguru.com/De-Buuf-Heerenveen bevestigen do 16–00, vr/za 16–02, zo 16–00, ma/wo gesloten. Dinsdag conflicteert: het-menu 'gesloten', Restaurant Guru 19–00; dinsdag daarom '?'. Geen eigen weekrooster of laatste toegang aangetroffen. In september 2024 heropend in het voormalige Café 't Skoat op Marktweg 2; 't Skoat NIET als tweede actuele locatie toevoegen. Recente bezoekersreviews uit 2026 ondersteunen exploitatie, maar geen garantie op deze exacte uren.",
+      "opening_source": "https://www.het-menu.nl/oudeschoot/restaurant/cafe_bij_de_buuf",
+      "opening_checked_on": "2026-10-31",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "features": "Dorpscafé op voormalige locatie 't Skoat; vrije drankinloop; dinsdag onzeker; rooster uit secundaire bronnen",
+      "other_sources": [
+        "https://restaurantguru.com/De-Buuf-Heerenveen",
+        "https://www.uitagenda.nl/locaties/cafe-bij-de-buuf",
+        "https://lc.nl/weekbladenfriesland/heerenveensecourant/Caf%C3%A9-Bij-de-Buuf-keert-terug-in-caf%C3%A9-%E2%80%99t-Skoat-in-Oudeschoot-29202041.html"
+      ],
+      "original_status": "2024 heropening en 2026 bezoekersreacties; exploitantwebsite ontbreekt, huidige alcoholkaart en exacte uren nog niet primair geverifieerd."
     }
   ],
   "admission_policies": [
