@@ -26962,6 +26962,91 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Aperitief; bargedeelte; op 31-10-2026 alleen Wildavond"
+    },
+    {
+      "id": "grandcafe-t-stadhuys-wolvega-20261031",
+      "name": "Grandcafé 't Stadhuys",
+      "type": "Grand café / borrel",
+      "address": "Heerenveenseweg 1",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen FAQ: vrij binnenlopen, alleen een drankje aan de bar of op het terras zonder maaltijd toegestaan.",
+      "alcohol": "Eigen site toont cocktailboom en recente bokbiervermelding; cocktails en bier onderbouwd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.tstadhuys.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.tstadhuys.nl/",
+      "closing_quality": "Eigen site noemt alleen opening wo–zo vanaf 11:00; geen cafésluituren gepubliceerd.",
+      "closing_notes": "Keuken vanaf 12:00 is geen café-openingsuur. Geen sluitingstijd of laatste toegang aangenomen. Kerstarrangement 2026 is geen regulier rooster.",
+      "website": "https://www.tstadhuys.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.tstadhuys.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/3397599155/grandcafe-t-stadhuys-1"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Vrije borrel zonder maaltijd; cocktailboom; terras"
+    },
+    {
+      "id": "lagerhuis-wolvega-20261031",
+      "name": "Restaurant Lagerhuis",
+      "type": "Restaurant / bar / borrel",
+      "address": "Heerenveenseweg 5",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site biedt drinks & bites, losse borrels en borrelkaart; publiek restaurant/bar.",
+      "alcohol": "Eigen website bevestigt wijnen per glas, cocktails en speciaalbieren.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://lagerhuiswolvega.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://lagerhuiswolvega.nl/contact/",
+      "closing_quality": "Eigen contactpagina onderscheidt vrijdag/zaterdag keuken tot 22:00 van BAR tot 24:00.",
+      "closing_notes": "Vr/za bar tot 00:00 (middernacht); keuken tot 22:00 is geen horecasluiting. Andere dagen 22:00 volgens eigen openingstijden. Laatste toegang niet afzonderlijk vermeld.",
+      "website": "https://lagerhuiswolvega.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://lagerhuiswolvega.nl/eten-drinken/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Speciaalbier, cocktails, wijn; vrijdag/zaterdag bar langer dan keuken"
     }
   ],
   "admission_policies": [
