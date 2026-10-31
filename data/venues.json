@@ -24667,7 +24667,7 @@
       "country": "Nederland",
       "access": "Publiek restaurant met reguliere openingstijden en reserveringsmogelijkheid. Alleen een alcoholisch drankje zonder maaltijd is niet expliciet bevestigd; groepsarrangementen zijn afzonderlijk op reservering.",
       "alcohol": "Eigen menukaart noemt Hertog Jan, Spoorbier, Texels Skuumkoppe, wijn, Beerenburg en whisky.",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -24690,7 +24690,7 @@
       "opening_checked_on": "2026-10-31",
       "closing_source": "https://depannekoektrein.nl/contact-en-openingstijden/",
       "closing_quality": "Exploitant vermeldt wo–vr 17:00–21:00 en za/zo 12:00–21:00; ma/di niet genoemd en daarom onbekend, niet automatisch gesloten.",
-      "closing_notes": "31-10-2026: eigen openingstijdenpagina geeft wo–vr 17–21 en za/zo 12–21. Ma/di niet expliciet als gesloten aangeduid. Eigen https://depannekoektrein.nl/menukaart/ bevestigt alcoholkaart. Primair pannenkoekenrestaurant; uitsluitend een drankje zonder eten en laatste toegang niet bevestigd. Alleen groepsarrangementen vereisen expliciet reservering; dat niet als algemene toegangsregel toegepast.",
+      "closing_notes": "31-10-2026: eigen openingstijdenpagina geeft wo–vr 17–21 en za/zo 12–21. Ma/di niet expliciet als gesloten aangeduid. Eigen https://depannekoektrein.nl/menukaart/ bevestigt alcoholkaart. Primair pannenkoekenrestaurant; uitsluitend een drankje zonder eten en laatste toegang niet bevestigd. Alleen groepsarrangementen vereisen expliciet reservering; dat niet als algemene toegangsregel toegepast. 31-10-2026 kwaliteitscorrectie: als 'Nog te controleren' verborgen totdat afzonderlijke drankinloop is bevestigd; geen aanname uit restaurantopening.",
       "website": "https://depannekoektrein.nl/",
       "website_checked_on": "2026-10-31",
       "website_provenance": "Eigen restaurantwebsite met adres, exploitantweekrooster en bier-/wijn-/sterkedrankenkaart.",
@@ -24700,7 +24700,52 @@
         "https://depannekoektrein.nl/menukaart/",
         "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/3978738178/station-marrum-de-pannekoektrein"
       ],
-      "original_status": "Eigen actuele site bevestigt reguliere publieke restaurantfunctie en alcoholaanbod; uitsluitend drankinloop nog niet bewezen."
+      "original_status": "Exploitantwebsite bevestigt restaurant en alcoholkaart, maar drankinloop zonder maaltijd is niet bevestigd; daarom verborgen als kandidaat voor verificatie."
+    },
+    {
+      "id": "eetcafe-t-hoekje-ferwert-20261031",
+      "name": "Eetcafé 't Hoekje",
+      "type": "Eetcafé / cafetaria",
+      "address": "Hegebeintumerdyk 1",
+      "city": "Ferwert",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt bezoekers uit om langs te komen voor lunch of diner, en noemt feesten/partijen. Reguliere alleen-drank-inloop niet expliciet aangetoond.",
+      "alcohol": "Actueel alcoholaanbod niet vastgesteld. Historische caféfunctie is geen bewijs van huidige alcoholverkoop.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "12:00",
+        "do": "16:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "20:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://www.t-hoekje-ferwert.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.t-hoekje-ferwert.nl/",
+      "closing_quality": "Eigen website heeft aparte eetcafé- en cafetariauren. Alleen eetcafé-uren overgenomen; ma/di niet vermeld en daarom onbekend.",
+      "closing_notes": "31-10-2026: eigen https://www.t-hoekje-ferwert.nl/ vermeldt eetcafé wo 12–20, do 16–22, vr/za 12–22, zo 12–20; cafetaria kent andere uren en is niet met eetcafé verward. Ma/di niet expliciet als gesloten benoemd. Alcoholaanbod en vrije drankinloop niet bevestigd, dus verborgen. De naam 'It Kroechje' op https://www.uitagenda.nl/locaties/it-kroechje verwijst naar dezelfde locatie en tekst: geen tweede record. Laatste toegang onbekend.",
+      "website": "https://www.t-hoekje-ferwert.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site met huidige naam, adres en gescheiden eetcafé-/cafetariaroosters; alcohol niet bevestigd.",
+      "checked_on": "2026-10-31",
+      "features": "Ferwert; eetcafé, alcohol en alleen-drank-inloop nog te verifiëren",
+      "other_sources": [
+        "https://www.uitagenda.nl/locaties/it-kroechje",
+        "https://www.allebiz.nl/het-hoekje-ferwert-0518-842-145"
+      ],
+      "original_status": "Actuele eigen horecapresentatie; huidige alcoholverkoop en drankinloop niet vastgesteld. Verborgen kandidaat."
     }
   ],
   "admission_policies": [
