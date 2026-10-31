@@ -27367,6 +27367,50 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Heropend 2026; vergunning alcohol; seizoenrooster; vrije borrel onbekend"
+    },
+    {
+      "id": "restaurant-t-koepelbos-oldeberkoop-20261031",
+      "name": "Restaurant 't Koepelbos",
+      "type": "Restaurant / terras / drankje",
+      "address": "Stellingenweg 1",
+      "city": "Oldeberkoop",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site zegt dat bezoekers terechtkunnen voor een drankje, lunch of diner; vrije inloop voor drankje aannemelijk maar alcoholische borrel zonder maaltijd niet expliciet apart bevestigd.",
+      "alcohol": "Secundaire menukaart uit juni 2025 noemt Grand Marnier, Tia Maria, Amaretto, Licor 43 en jenever; andere gids toont bier. Eigen huidige site vermeldt dranken maar geen expliciete alcoholkaart.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://koepelbos.com/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://koepelbos.com/",
+      "closing_quality": "Eigen website geeft alle zeven dagen vanaf 11:00, geen sluituur. Secundaire gidsen noemen 19:30 of 23:00, onderling conflicterend; geen einduren overgenomen.",
+      "closing_notes": "Laatste toegang onbekend. Eigen site noemt restaurant en snackbar, beide op hetzelfde adres; één horecalocatie. Alcoholkaart alleen secundair en deels uit 2025; actueel assortiment en losse drankinloop verifiëren.",
+      "website": "https://koepelbos.com/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.het-menu.nl/oldeberkoop/restaurant/t_koepelbos/menukaart",
+        "https://menukaart.menu/restaurants/oldeberkoop-1/snackbar-t-west-3/menu",
+        "https://oldeberkoop.nl/snackbar-de-koepelbos/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Restaurant, terras, drankje; alcohol secundair bevestigd"
     }
   ],
   "admission_policies": [
