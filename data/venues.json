@@ -27237,6 +27237,49 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Borrel met uitzicht; extra feestdagopening; groepen op afspraak"
+    },
+    {
+      "id": "home-brasserie-wolvega-20261031",
+      "name": "Home Brasserie",
+      "type": "Brasserie / borrel",
+      "address": "Frisaxstraat 12",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website verwelkomt bezoekers expliciet voor een uitgebreide borrel of een los drankje in de brasserie in Home Center; geen verplichte maaltijd vermeld.",
+      "alcohol": "Bier en wijn op fles expliciet in secundaire menukaart (laatst bijgewerkt augustus 2025); eigen actuele menupagina heeft download/links, alcoholassortiment in 2026 niet rechtstreeks bevestigd.",
+      "opening": {
+        "ma": "13:00",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "21:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "—"
+      },
+      "opening_source": "https://homebrasserie.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://homebrasserie.nl/contact/",
+      "closing_quality": "Eigen contactpagina: ma 13–18, di/wo/vr/za 09:30–18, do 09:30–21, zo gesloten.",
+      "closing_notes": "Openingstijden op eigen contactpagina gecontroleerd 31-10-2026; laatste toegang niet vermeld. Menukaart via derde partij van 11-08-2025, dus actueel alcoholaanbod nog te bevestigen.",
+      "website": "https://homebrasserie.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://homebrasserie.nl/menu/",
+        "https://www.het-menu.nl/wolvega/restaurant/home_brasserie/menukaart"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Borrel; flesbier en wijn (secundair menu uit 2025)"
     }
   ],
   "admission_policies": [
