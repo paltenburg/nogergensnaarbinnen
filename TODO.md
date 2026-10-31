@@ -51,6 +51,8 @@
 
 - **Laatste publicatiecontrole:** geslaagde run [#228](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41157821136) (14 tests + PDOK + Pages). Run [#229](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41157927236) op correctie `654654a` nog **in progress**, run [#230](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41157987361) op nieuwste databatch `bbfb329` nog **pending** bij laatste controle 31-10. Dus laatste **522** records nog niet als live gepubliceerd bevestigd. 
 
+- **Eindcontrole database (31-10):** GitHub-master opnieuw teruggelezen na `bbfb329`: **522/522 unieke venue-IDs**, **Utrecht 224 / Friesland 298**, **365** ingevulde officiële websitevelden, **404** ingecheckte markers; alle **5 nieuw toegevoegde records** hebben volledige 7-daagse `opening`- en `closing`-velden zonder verzonnen tijden. Een strengere ad-hoc-validator op de **hele historische database** meldde 267 afwijkingen omdat oude records `opening` optioneel houden en `closing` soms `Varieert`/`Event` gebruikt; dit is **geen CI-failure en geen claim van 267 nieuwe defecten**. Officiële teststap op run #228 is geslaagd; run #230 voor laatste data nog te bevestigen. 
+
 ### Exact hervatpunt
 
 1. **Urgent:** controleer [Pages-run #230](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41157987361) (laatste datacommit `bbfb329`) en eventuele latere run: alle **14 tests**, PDOK, bronregister en Pages-deploy; #228 op regexfix is al geslaagd. Bij nieuwe failure joblogs lezen en repareren. Testen van echte mobiele pan/zoom in Sneek blijft afzonderlijk open.
