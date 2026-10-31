@@ -24262,7 +24262,7 @@
       "selection": "Voorlopig",
       "opening": {
         "ma": "08:30",
-        "di": "—",
+        "di": "?",
         "wo": "08:30",
         "do": "08:30",
         "vr": "08:30",
@@ -24271,16 +24271,16 @@
       },
       "closing": {
         "ma": "17:00",
-        "di": "—",
+        "di": "?",
         "wo": "17:00",
         "do": "17:00",
         "vr": "21:00",
         "za": "21:00",
         "zo": "17:00"
       },
-      "closing_quality": "Eigen website toont ma/wo/do/zo 08:30–17:00, vr/za 08:30–21:00; dinsdag niet genoemd, als gesloten geïnterpreteerd, nog te bevestigen.",
+      "closing_quality": "Eigen website toont ma/wo/do/zo 08:30–17:00 en vr/za 08:30–21:00; dinsdag niet vermeld, dus onbekend (niet automatisch gesloten).",
       "closing_source": "https://www.debranderijdokkum.nl/",
-      "closing_notes": "31-10-2026: eigen homepage toont ma-woe-do-zo 08:30–17:00, vr-zat 08:30–21:00; dinsdag niet genoemd en daarom voorlopig '—' als niet-geopende dag. Eigen 'borrel & cocktails' bevestigt losse borrel. Tripadvisor https://www.tripadvisor.nl/Restaurant_Review-g652196-d33071368-Reviews-De_Branderij_Dokkum-Dokkum_Friesland_Province.html heeft afwijkende 09:00/18:00 en woensdag 22:00, niet overgenomen. Laatste toegang onbekend. Feestdagen en incidentele avondactiviteiten kunnen afwijken.",
+      "closing_notes": "31-10-2026: eigen homepage toont ma-woe-do-zo 08:30–17:00, vr-zat 08:30–21:00; dinsdag niet genoemd en daarom opening/sluiting onbekend. Eigen 'borrel & cocktails' bevestigt losse borrel. Tripadvisor https://www.tripadvisor.nl/Restaurant_Review-g652196-d33071368-Reviews-De_Branderij_Dokkum-Dokkum_Friesland_Province.html heeft afwijkende 09:00/18:00 en woensdag 22:00, niet overgenomen. Laatste toegang onbekend. Feestdagen en incidentele avondactiviteiten kunnen afwijken.",
       "website": "https://www.debranderijdokkum.nl/",
       "website_checked_on": "2026-10-31",
       "website_provenance": "Exploitantwebsite bevestigt adres, menu en weekuren; eigen naam/identiteit.",
