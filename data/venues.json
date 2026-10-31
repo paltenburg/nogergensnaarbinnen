@@ -18058,8 +18058,8 @@
       "city": "Blije",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Alleen lokale gidsvermelding; publieke exploitatie en exacte locatie niet direct bevestigd.",
-      "alcohol": "Onbekend; geen menukaart of exploitantbron.",
+      "access": "Dorpswebsite kondigde in juni 2026 een dorpsfeestavond aan bij 't Spoarke; daarmee is een incidentele publieke activiteit onderbouwd, maar reguliere vrije inloop niet. Het exacte adres conflicteert tussen bronnen.",
+      "alcohol": "Lokale dorpsfeestpublicatie bevat bieremoji, maar dat is geen concrete exploitantbevestiging van regulier alcoholaanbod; onbekend.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -18072,21 +18072,18 @@
       },
       "closing_quality": "Onbekend",
       "closing_source": "https://www.uitagenda.nl/blije",
-      "closing_notes": "30-10-2026: https://www.uitagenda.nl/blije vermeldt Spoarke Blije op Farrewei 37, maar inventarisatie heeft Farrewei 22; https://nuactueel.nl/noardeast-fryslan/uit-eten vermeldt 22 zonder eigen bewijs. Geen actuele exploitantbron, niet kiezen tussen adressen zonder verificatie. Bestaande BAG-marker 22 is adresmatch, NIET bewezen horecalocatie; uit actuele selectie voor hercontrole.",
+      "closing_notes": "30-10-2026: https://www.uitagenda.nl/blije vermeldt Spoarke Blije op Farrewei 37, maar inventarisatie heeft Farrewei 22; https://nuactueel.nl/noardeast-fryslan/uit-eten vermeldt 22 zonder eigen bewijs. Geen actuele exploitantbron, niet kiezen tussen adressen zonder verificatie. Bestaande BAG-marker 22 is adresmatch, NIET bewezen horecalocatie; uit actuele selectie voor hercontrole. 31-10-2026: https://blije.frl/agenda/2026-06-04/ kondigt dorpsfeestopening op 4 juni 2026 bij 't Spoarke aan; https://blije.frl/strjittekeatsen/ noemt 't Spoarke als sponsor. https://www.allebiz.nl/t-spoarke-06-23434125 ondersteunt Farrewei 37, maar geen primair adresbewijs. BAG-marker op Farrewei 22 verwijderd: adres 22 is niet als horecalocatie bewezen. Reguliere opening, alcoholaanbod en laatste toegang blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://www.uitagenda.nl/blije",
-        "https://nuactueel.nl/noardeast-fryslan/uit-eten"
+        "https://nuactueel.nl/noardeast-fryslan/uit-eten",
+        "https://blije.frl/agenda/2026-06-04/",
+        "https://blije.frl/strjittekeatsen/",
+        "https://www.allebiz.nl/t-spoarke-06-23434125"
       ],
-      "original_status": "Adresconflict 22 versus 37; actuele horeca niet bevestigd.",
-      "geo": {
-        "lat": 53.3503216,
-        "lon": 5.8652445,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Farrewei 22, 9171LM Blije"
-      },
-      "checked_on": "2026-10-30",
+      "original_status": "Dorpsfeestactiviteit juni 2026 bij 't Spoarke aangetoond, maar geen vaste publieke café-exploitatie, alcoholkaart of correct huisnummer bevestigd; verborgen.",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -18096,7 +18093,7 @@
         "za": "?",
         "zo": "?"
       },
-      "geocode_notes": "BAG-marker Farrewei 22 matcht inventarisatieadres, maar Uitagenda noemt Farrewei 37. Exacte horecabezoeklocatie onbekend; marker niet als bewezen ingang beschouwen."
+      "geocode_notes": "31-10-2026: onzekere horecalocatie Farrewei 22 versus 37; BAG-marker op 22 bewust verwijderd. Pas hergeocoderen na primaire bevestiging van exacte ingang."
     },
     {
       "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
