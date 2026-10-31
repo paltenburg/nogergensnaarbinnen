@@ -27047,6 +27047,93 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Speciaalbier, cocktails, wijn; vrijdag/zaterdag bar langer dan keuken"
+    },
+    {
+      "id": "cafe-de-huyskamer-wolvega-20261031",
+      "name": "Café De Huyskamer",
+      "type": "Café / borrel",
+      "address": "Heerenveenseweg 2D",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Lokale berichtgeving 09-07-2026 noemt eigenaar als deelnemende exploitant van Summer Sundays; vrije reguliere café-inloop volgens meerdere horecagidsen, niet direct bij exploitant geverifieerd.",
+      "alcohol": "Uitagenda noemt ambachtelijke bieren; geen actuele eigen drankkaart gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Tegenstrijdige secundaire roosters (Allebiz di/do–za 19–03, Eetgerust do–zo 16–22). Niet overgenomen.",
+      "closing_quality": "Geen primair geverifieerde sluituren.",
+      "closing_source": "",
+      "closing_notes": "Eigen domein cafedehuyskamer.nl op 31-10-2026 niet uitleesbaar; website daarom niet als geverifieerd opgeslagen. Lokale Stellingwerf-interview 09-07-2026 bevestigt eigenaar Sjoerd Brouwer bij Summer Sundays. Allebiz en Eetgerust tonen verschillende weekroosters; laatste toegang onbekend. Heerenveenseweg 2D is een eigen horecafunctie naast Pub '84 op nummer 2; niet samenvoegen.",
+      "website": "",
+      "other_sources": [
+        "https://www.stellingwerf.nl/wolvega/zondag-feestje-centrumplein-wolvega/158426874.html",
+        "https://www.allebiz.nl/caf%C3%A9-de-huyskamer-06-47785991",
+        "https://eetgerust.nl/restaurant/cafe-de-huyskamer-wolvega",
+        "https://www.uitagenda.nl/locaties/cafe-de-huyskamer"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Café aan Centrumplein; actueel eigenaarschap in lokale berichtgeving juli 2026"
+    },
+    {
+      "id": "paviljoen-badmeester-keimpe-balk-20261031",
+      "name": "Paviljoen Restaurant Badmeester Keimpe",
+      "type": "Paviljoen / restaurant / borrel",
+      "address": "Tsjamkedykje 10",
+      "city": "Balk",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site: publieke restaurant-/terrasfunctie; VVV bevestigt vrij toegankelijk muziekprogramma zondag 1 november 2026. Borrel zonder maaltijd niet expliciet als vaste optie bevestigd.",
+      "alcohol": "VVV noemt cava en glühwein, eigen reserveringsplatform vermeldt Pinot Grigio; wijn onderbouwd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "10:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "17:30"
+      },
+      "opening_source": "https://www.badmeesterkeimpe.nl/contact-openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.badmeesterkeimpe.nl/contact-openingstijden/",
+      "closing_quality": "Seizoensschema voor november: uitsluitend zondag 10:30–17:30; december uitsluitend besloten bijeenkomsten.",
+      "closing_notes": "Specifiek novemberrooster; NIET geldig in andere maanden. Maart–juni en september–oktober wo–zo vanaf 10:30 tot 21:00+ (geen exact einduur); juli/augustus dagelijks. December geen reguliere publieke opening; januari/februari zondag 10:30–17:30. Hercontrole op 01-12-2026 en bij seizoenswissel noodzakelijk. VVV vermeldt gratis live optreden 01-11 15:00–18:30, dat botst met algemeen zondagseizoenrooster 17:30: evenementen kunnen uitlopen; generieke sluiting 17:30 is niet gegarandeerd. Laatste toegang onbekend.",
+      "website": "https://www.badmeesterkeimpe.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.waterlandvanfriesland.nl/nl/locaties/2611067957/paviljoen-restaurant-badmeester-keimpe",
+        "https://www.waterlandvanfriesland.nl/nl/uitagenda/380303863/lazy-sunday-afternoon-henk-kuyper-1",
+        "https://pages.resmio.com/restaurant-badmeester-keimpe/pl"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Seizoenshoreca; november alleen zondag; december besloten"
     }
   ],
   "admission_policies": [
