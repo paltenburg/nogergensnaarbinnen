@@ -27177,6 +27177,50 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Wijn; borrelplanken; vrijdag/zaterdag tot 21:00"
+    },
+    {
+      "id": "boppe-de-golle-gaastmeer-20261031",
+      "name": "Boppe de Golle",
+      "type": "Eetcafé / restaurant / borrel",
+      "address": "Munkedyk 2",
+      "city": "Gaastmeer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website biedt lunch, diner of borrel en zegt 'kom langs'; vrije publieke drankinloop zonder maaltijd plausibel maar niet afzonderlijk als regel bevestigd.",
+      "alcohol": "Door zaak geclaimde Tripadvisor-vermelding vermeldt bieren, wijnen en 'serveert alcohol'; eigen menu toont geen afzonderlijke drankkaart.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://restaurantboppedegolle.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://restaurantboppedegolle.nl/",
+      "closing_quality": "Eigen site geeft ma/di gesloten, wo–zo 16:00–22:00; afwijkende gidsroosters niet gebruikt.",
+      "closing_notes": "Eigen site noemt ook extra open op feestdagen en bij gehesen vlaggen, en groepen vanaf 10 personen buiten reguliere uren op afspraak. Geen laatste toegang vermeld. Oude site boppedegolle.nl en gidsen geven tegenstrijdige tijden, actuele eigen restaurantboppedegolle.nl gevolgd. Adres Munkedyk 2 volgens eigen site; sommige gidsen gebruiken 2A, BAG-ingang nog te verifiëren.",
+      "website": "https://restaurantboppedegolle.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.tripadvisor.nl/Restaurant_Review-g3675837-d10365556-Reviews-Boppe_de_Golle-Gaastmeer_Friesland_Province.html",
+        "https://www.allebiz.nl/boppe-de-golle-0515-469-922",
+        "https://www.cylex.nl/bedrijf/eetcaf%C3%A9-boppe-de-golle-11836632.html"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Borrel met uitzicht; extra feestdagopening; groepen op afspraak"
     }
   ],
   "admission_policies": [
