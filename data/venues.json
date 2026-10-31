@@ -21923,13 +21923,13 @@
       "alcohol": "Eigen website vermeldt drankje en champagne-icoon, maar actuele expliciete bier-/wijnkaart niet geverifieerd; daarom nog te controleren.",
       "selection": "Nog te controleren",
       "opening": {
-        "ma": "10:00",
-        "di": "10:00",
-        "wo": "10:00",
-        "do": "10:00",
-        "vr": "10:00",
-        "za": "10:00",
-        "zo": "10:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
       "closing": {
         "ma": "?",
@@ -21942,13 +21942,13 @@
       },
       "closing_quality": "Nieuwe exploitantwebsite meldt dagelijks welkom vanaf 10:00, geen einduren; keuken vanaf 12:00, reserveren tot 19:30 is geen cafésluiting. In november–maart aangepaste uren mogelijk.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://www.brasseriedehildenberg.nl/ en https://brasseriedehildenberg.nl/index.php/reserveren tonen actuele Brasserie de Hildenberg op Gruun 3, dagelijks vanaf 10:00, keuken vanaf 12:00, reserveren tot 19:30, naseizoen afwijkend. Niet verwarren met oude Grand Café De Hildenberg op Gruun 5: https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha beschrijft voormalig eigenaar Johan Herder die nu catering doet. Zonder expliciete actuele alcoholkaart of sluituur blijft dit record 'Nog te controleren'; geen oude gidsuren overgenomen.",
+      "closing_notes": "30-10-2026: https://www.brasseriedehildenberg.nl/ en https://brasseriedehildenberg.nl/index.php/reserveren tonen actuele Brasserie de Hildenberg op Gruun 3, dagelijks vanaf 10:00, keuken vanaf 12:00, reserveren tot 19:30, naseizoen afwijkend. Niet verwarren met oude Grand Café De Hildenberg op Gruun 5: https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha beschrijft voormalig eigenaar Johan Herder die nu catering doet. Zonder expliciete actuele alcoholkaart of sluituur blijft dit record 'Nog te controleren'; geen oude gidsuren overgenomen. 31-10-2026 aanvullende veiligheidscontrole: vanaf november is seizoensafwijking expliciet mogelijk; vaste 10:00 dagstarts uit weekvelden verwijderd totdat winterrooster bevestigd is.",
       "features": "D0 Ooststellingwerf / Appelscha; nieuwe brasserie Gruun 3, opvolging oude Grand Café",
       "website": "https://www.brasseriedehildenberg.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening_source": "https://www.brasseriedehildenberg.nl/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-10-31",
       "other_sources": [
         "https://brasseriedehildenberg.nl/index.php/reserveren",
         "https://brasseriedehildenberg.nl/index.php/kerst",
@@ -21960,7 +21960,8 @@
         "lon": 6.3526752,
         "method": "PDOK BAG-adres",
         "matched_address": "Gruun 3, 8426NA Appelscha"
-      }
+      },
+      "opening_quality": "Eigen site noemt dagelijks vanaf 10:00 als algemene opening, maar meldt voor november–maart afwijkende uren zonder exact winterrooster. Om op 31-10-2026 niet onterecht novemberopening te garanderen, alle dagstarts voorlopig onbekend."
     },
     {
       "id": "de-groene-weide-hoorn-terschelling-20261030",
@@ -27677,6 +27678,95 @@
         "https://www.tripadvisor.ca/Restaurant_Review-g227917-d32712632-Reviews-Mister_Jacks_Franeker-Franeker_Friesland_Province.html"
       ],
       "features": "Eetcafé en borrel, Franeker; vr/za roosterconflict"
+    },
+    {
+      "id": "cafe-restaurant-lin-wolvega-20261031",
+      "name": "Café Restaurant Lin",
+      "type": "Café / restaurant / borrel",
+      "address": "Heerenveenseweg 4",
+      "city": "Wolvega",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen 'Ons team'-pagina verwelkomt gasten expliciet om alleen iets te drinken in café of restaurant; publieke inloop.",
+      "alcohol": "Eigen restaurantmenupagina bevestigt speciaalbieren (o.a. Hertog Jan, Aziatische bieren), wijn en alcoholische dranken.",
+      "opening": {
+        "ma": "14:30",
+        "di": "14:30",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://www.caferestaurantlin.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.caferestaurantlin.nl/",
+      "closing_quality": "Eigen homepage toont volledig dagrooster. Feestdagen 12:00–23:00, niet als normaal weekrooster overgenomen.",
+      "closing_notes": "Laatste toegang onbekend. Eigen website zegt overname van voormalig Restaurant De Smulpot: geen afzonderlijk actueel record voor voorganger. Bezoekadres Heerenveenseweg 4 via bedrijfsregistratie van 12-02-2026 bevestigd; nog geen exacte BAG-marker.",
+      "website": "https://www.caferestaurantlin.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite op 31-10-2026 rechtstreeks gecontroleerd; adres via handelsregister-afgeleide bron.",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.caferestaurantlin.nl/ons-team",
+        "https://www.caferestaurantlin.nl/restaurantmenu",
+        "https://www.compadex.com/nl/businesses/nl/cafe-restaurant-lin-74191950-13671642"
+      ],
+      "features": "Publieke borrel, bier/wijn, Wolvega; voormalige De Smulpot"
+    },
+    {
+      "id": "restaurant-de-bosberg-appelscha-20261031",
+      "name": "Restaurant De Bosberg",
+      "type": "Restaurant / borrel / terras",
+      "address": "De Bosberg 3",
+      "city": "Appelscha",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen actuele website zegt expliciet dat bezoekers kunnen binnenlopen voor koffie, lunch, borrel of diner; geen verplichte maaltijd.",
+      "alcohol": "Eigen online menukaart noemt tap- en speciaalbier, wijn per glas, sterke drank en cocktails.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://debosberg.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://debosberg.nl/contact/",
+      "closing_quality": "Eigen actuele homepage en contactpagina vermelden dagelijks 10:00–22:00. Geen aparte laatste toegang.",
+      "closing_notes": "Opnieuw geopend in mei 2026 na verbouwing; bericht 17-05-2026 en actuele exploitantwebsite bevestigen exploitatie. Oude gidsinformatie met adres De Bosberg 2 en oudere telefoon niet overgenomen. Feestdagen/evenementen kunnen afwijken; laatste toegang onbekend. Exacte BAG-geocodering nog via Actions.",
+      "website": "https://debosberg.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite rechtstreeks gelezen 31-10-2026; eigen menukaart en contactpagina.",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://debosberg.nl/restaurants/",
+        "https://www.missethoreca.nl/416058/chef-geert-jan-vaartjes-opent-vernieuwd-de-bosberg-in-appelscha"
+      ],
+      "features": "Heropend mei 2026; circa 75 speciaalbieren; borrel zonder maaltijd"
     }
   ],
   "admission_policies": [
