@@ -23,6 +23,16 @@ class ExactBagAddressTests(unittest.TestCase):
         with patch.object(geocode, "request", return_value=candidates):
             return geocode.geo({"address": address, "city": "Sneek"})
 
+    def test_unverified_venue_address_never_queries_pdok(self):
+        with patch.object(geocode, "request") as req:
+            location, reason = geocode.geo({
+                "name": "Unverified café", "address": "Kleinzand 1",
+                "city": "Sneek", "geocode_blocked": True,
+            })
+        self.assertIsNone(location)
+        self.assertEqual(reason, "address-unverified")
+        req.assert_not_called()
+
     def test_range_is_not_silently_mapped_to_first_number(self):
         self.assertIsNone(geocode.addr_parts("Harinxmastrjitte 69-73"))
         self.assertIsNone(geocode.addr_parts("Greate Buorren 4–8"))
