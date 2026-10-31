@@ -25105,6 +25105,54 @@
         "https://www.tripadvisor.nl/Restaurant_Review-g1045111-d23591726-Reviews-Fem_Aan_Het_Dok-Lemmer_Friesland_Province.html"
       ],
       "original_status": "Eigen exploitantwebsite actief en recente borrelreview; niet fysiek geverifieerd."
+    },
+    {
+      "id": "beachclub-lemmer-20261031",
+      "name": "Beachclub Lemmer",
+      "type": "Strandpaviljoen/restaurant/borrel",
+      "address": "Industrieweg 2",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemsterstrand; terras; seizoensinvloeden",
+      "access": "Eigen homepage nodigt publiek expliciet uit voor lunch, borrel en diner; reservering voor terras is volgens eigen reserveringspagina niet mogelijk. Geen verplichte maaltijd vermeld.",
+      "alcohol": "Eigen kaartpagina noemt een drankenkaart en borrelkaart; Tripadvisor-vermelding noemt alcohol en volledige bar. Bier/cocktailaanbod ook in regionale horecabeschrijving, actuele individuele drankenprijzen niet gecontroleerd.",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage en contactpagina 31-10-2026: ma gesloten, wo–vr vanaf 11:00, za/zo vanaf 10:00. Dinsdag intern conflict: homepage gesloten, contact vanaf 11:00; onbekend.",
+      "closing_quality": "Exploitant publiceert geen exacte sluitingstijden; uiteenlopende gidsuren (21/22/23) niet als bewezen overgenomen.",
+      "opening_source": "https://www.beachclublemmer.nl/",
+      "closing_source": "https://www.beachclublemmer.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen homepage noemt dinsdag gesloten, eigen contactpagina dinsdag vanaf 11:00. Daarom dinsdag opening/sluiting onbekend, geen permanente sluiting geclaimd. Eigen site noemt geen einduren, terwijl gidsen voor vrijdag/zaterdag 21:00, 22:00 en 23:00 noemen. Geen van deze gidswaarden als vaste sluiting ingevoerd. Laatste toegang en seizoen-/evenementafwijkingen onbekend.",
+      "website": "https://www.beachclublemmer.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage, contact-, reserverings- en kaartpagina rechtstreeks geraadpleegd op 31-10-2026.",
+      "other_sources": [
+        "https://www.beachclublemmer.nl/contact/",
+        "https://www.beachclublemmer.nl/kaart/",
+        "https://www.beachclublemmer.nl/reserveren/",
+        "https://www.strandtenten.nl/friesland/lemmer/beachclub-lemmer/"
+      ],
+      "original_status": "Eigen actuele horecasite en publieke borrelfunctie bevestigd; geen fysieke inlooptest."
     }
   ],
   "admission_policies": [
