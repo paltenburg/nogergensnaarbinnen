@@ -26656,6 +26656,183 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Liemerige Wei 4, 8567HM Oudemirdum"
       }
+    },
+    {
+      "id": "de-boazumer-mjitte-boazum-20261031",
+      "name": "Dorpscafé De Boazumer Mjitte",
+      "type": "Dorpscafé / eetcafé",
+      "address": "Waltawei 22",
+      "city": "Boazum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site bevestigt openbare caféfunctie en een drankje aan de bar; ook dorpshuisactiviteiten.",
+      "alcohol": "Eigen menukaart: Hertog Jan van tap, Tjerkebier, wijn, Beerenburg en sterke drank.",
+      "opening": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage: donderdag t/m maandag geopend; geen uren per dag.",
+      "opening_source": "https://deboazumermjitte.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_quality": "Eigen homepage noemt open dagen, maar geen feitelijke sluituren.",
+      "closing_source": "https://deboazumermjitte.nl/",
+      "closing_notes": "31-10-2026: eigen site zegt donderdag t/m maandag geopend; di/wo gesloten volgens dit rooster. Exacte begin- en einduren en laatste toegang niet gepubliceerd. Dorpshuisfunctie bewijst geen vaste avonduren.",
+      "website": "https://deboazumermjitte.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://deboazumermjitte.nl/menukaart-boazumermjitte/",
+        "https://www.friesland.nl/nl/locaties/2853374681/cafe-de-boazumer-mjitte"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Dorpscafé; borrel; terras; dorpshuis"
+    },
+    {
+      "id": "restaurant-de-fuke-echten-20261031",
+      "name": "Restaurant De Fûke",
+      "type": "Restaurant / borrel",
+      "address": "Hoofdweg 24",
+      "city": "Echten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website nodigt uit voor een losse borrel met vrienden op het terras, zonder verplichte maaltijd.",
+      "alcohol": "Exploitant heeft actuele drankenkaart (2026) op menupagina; bier en wijn worden tevens door restaurantgids vermeld. Exact assortiment van afbeeldingskaart niet uitgelezen.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen restaurantwebsite: de hele week 12:00–22:00.",
+      "opening_source": "https://www.restaurantdefuke.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_quality": "Eigen restaurantwebsite: de hele week 12:00–22:00; laatste toegang onbekend.",
+      "closing_source": "https://www.restaurantdefuke.nl/",
+      "closing_notes": "31-10-2026: eigen site bevestigt 12–22 alle dagen en borreltoegang. Geen afzonderlijke laatste-toegangstijd; 22:00 is horeca-einduur, niet keuken- of deurbeleid.",
+      "website": "https://www.restaurantdefuke.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://restaurantdefuke.nl/Menukaart/",
+        "https://www.fietsnetwerk.nl/en/places/restaurant-de-fuke-echten-fr/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Borrel; terras; restaurant"
+    },
+    {
+      "id": "strandpaviljoen-de-potvis-stavoren-20261031",
+      "name": "Strandpaviljoen De Potvis",
+      "type": "Strandpaviljoen / borrel",
+      "address": "Súderstrand 32",
+      "city": "Stavoren",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website bevestigt publiek paviljoen voor borrel zonder maaltijd; seizoen eind maart tot medio november.",
+      "alcohol": "Eigen website noemt expliciet wijn, cocktails en borrel.",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen seizoensrooster: wo–zo vanaf 11:00 tussen maart en 15 november; di uitsluitend zomer t/m 15 september.",
+      "opening_source": "https://www.de-potvis.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_quality": "Eigen site noemt geen vaste einduren; gidsen verschillen (23:00/24:00), niet overgenomen.",
+      "closing_source": "https://www.de-potvis.nl/openingstijden/",
+      "closing_notes": "31-10-2026: eigen site: open eind maart–15 november, wo–zo vanaf 11:00; in zomer dinsdag vanaf 15:00 t/m 15 september; winter gesloten. Dinsdag wegens seizoenverschil onbekend, ma volgens eigen weekrooster niet open. Na 15-11-2026 standaard zichtbaarheid herbeoordelen; geen jaarrond uren claimen. Laatste toegang onbekend.",
+      "website": "https://www.de-potvis.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.de-potvis.nl/openingstijden/",
+        "https://www.strandtenten.nl/friesland/stavoren/restaurant-paviljoen-de-potvis/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Seizoen eind maart–15 november; terras; wijn; borrel"
+    },
+    {
+      "id": "brasserie-de-brink-oudemirdum-20261031",
+      "name": "Brasserie De Brink",
+      "type": "Restaurant / brasserie",
+      "address": "De Brink 8",
+      "city": "Oudemirdum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen website bevestigt restaurant met gasten; alleen-drank-inloop niet expliciet bevestigd. Tijdelijk gesloten t/m 05-11-2026.",
+      "alcohol": "Tripadvisor bedrijfsvermelding noemt wijn en serveert alcohol; actuele eigen drankenkaart niet gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage: vakantieverlof t/m 05-11-2026, geplande heropening 06-11 voor diner vanaf 17:00 vr–zo. Geen regulier weekrooster.",
+      "opening_source": "https://www.brasseriedebrink.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_quality": "Geen exploitantbevestigde reguliere sluituren; gidsen conflicteren.",
+      "closing_source": "https://www.brasseriedebrink.nl/",
+      "closing_notes": "31-10-2026: exploitant meldt tijdelijke sluiting t/m 5 november 2026, geplande heropening vrijdag 6 november vanaf 17:00 voor diner. Een aankondiging bewijst niet dat de heropening al plaatsvond. Verborgen tot heropening én vrije drankinloop bevestigd. Cylex noemt di–zo 12–21, lacarte andere uren; niet overgenomen.",
+      "website": "https://www.brasseriedebrink.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.brasseriedebrink.nl/nl/contact--amp--reserveren",
+        "https://www.friesland.nl/nl/locaties/4111695519/restaurant-brasserie-de-brink",
+        "https://www.tripadvisor.nl/Restaurant_Review-g652202-d744515-Reviews-Brasserie_de_Brink-Oudemirdum_Friesland_Province.html"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Tijdelijk gesloten t/m 05-11-2026; heropening nog controleren"
     }
   ],
   "admission_policies": [
