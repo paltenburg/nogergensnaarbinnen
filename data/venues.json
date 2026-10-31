@@ -28365,9 +28365,11 @@
         "https://www.cylex.nl/bedrijf/caf%C3%A9-freezone-11786746.html",
         "https://www.leeuwarden058.nl/poolcafe-freezone-8911hb/",
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/poolcafe-freezone-leeuwarden-01137411-000008979847",
-        "https://www.leeuwardenstudentcity.nl/hotspots/poolcafe-freezone"
+        "https://www.leeuwardenstudentcity.nl/hotspots/poolcafe-freezone",
+        "https://www.allecijfers.nl/weg/grote-hoogstraat-leeuwarden/",
+        "https://kadastralekaart.com/adres/leeuwarden-grote-hoogstraat-24/0080200000450521"
       ],
-      "geocode_notes": "31-10-2026: eigen exploitant en KvK-registratie 01137411 (bron Company.info, KVK stand 25-02-2026), Leeuwarden058 en Student City bevestigen Grote Hoogstraat 24; alleen Firmania/Cylex noemen 24A. Huisnummer 24 voldoende onderbouwd voor exacte PDOK-poging, maar niet handmatig 24A of coördinaten overnemen; PDOK-match moet exact zijn.",
+      "geocode_notes": "31-10-2026: eigen exploitant en KvK-registratie 01137411 (bron Company.info, KVK stand 25-02-2026), Leeuwarden058 en Student City bevestigen Grote Hoogstraat 24; alleen Firmania/Cylex noemen 24A. Huisnummer 24 voldoende onderbouwd voor exacte PDOK-poging, maar niet handmatig 24A of coördinaten overnemen; PDOK-match moet exact zijn. Aanvullende BAG-afgeleide adrescontrole 31-10-2026: https://www.allecijfers.nl/weg/grote-hoogstraat-leeuwarden/ vermeldt nummer 24 als bijeenkomstfunctie (228 m²), 24-A als woonfunctie (94 m²). https://kadastralekaart.com/adres/leeuwarden-grote-hoogstraat-24/0080200000450521 bevestigt 24-A als woonfunctie. Dit ondersteunt 24 als horecavestiging; fysieke deur niet ter plaatse bekeken. Exacte PDOK-match op 24 blijft vereist.",
       "original_status": "Eigen actieve exploitantwebsite gecontroleerd 31-10-2026; actuele sociale bevestiging niet apart getest."
     },
     {
