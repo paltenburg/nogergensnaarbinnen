@@ -29091,6 +29091,53 @@
         "https://oostergoo.nl/vieren-en-vergaderen/"
       ],
       "original_status": "31-10-2026: eigen exploitant bevestigt publieke terrasdrank, wijn, adres en exploitatie; precieze drankuren niet bewezen. Gedeeld pand maar afzonderlijk aanbod ten opzichte van verhuurcafé d'Oude Oost."
+    },
+    {
+      "id": "vino-en-verder-wijnbar-leeuwarden-20261031",
+      "name": "Vino & Verder",
+      "type": "Wijnbar / borrel",
+      "address": "Wolvesteeg 5",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitant nodigt individuele bezoekers en groepen uit voor een los glas wijn; wijnproeverijen zijn afzonderlijke arrangementen op reservering.",
+      "alcohol": "Eigen wijnbar verkoopt wijn per glas; Visit Leeuwarden bevestigt wit, rood, rosé en prosecco per glas/fles.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "?"
+      },
+      "opening_source": "https://vinoenverder.nl/",
+      "closing_source": "https://vinoenverder.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Tegenstrijdige exploitantpagina's: homepage ma–wo dicht, do–za 15–00, zo 15–22; aparte exploitantpagina zegt wo–zo 15–00. Woensdag en zondag-einduur onbekend gehouden.",
+      "closing_notes": "31-10-2026: https://vinoenverder.nl/ noemt ma/di/wo gesloten, do–za 15–00, zo 15–22; https://vinoenverder.nl/vino-en-verder-wijnbar-in-leeuwarden-4/ noemt ma/di dicht, wo–zo 15–00. Geen woensdaguren of zondag-sluituur aangenomen. Exploitant schrijft 'Wolvensteeg 5', maar BAG-afgeleid https://www.allecijfers.nl/weg/wolvesteeg-leeuwarden/ bevestigt officiële straatnaam Wolvesteeg 5, postcode 8911ZZ; toeristische gids heeft 8911KZ, niet overgenomen. Laatste toegang onbekend. Proeverijtijden buiten reguliere openingstijden zijn geen vrije inloop.",
+      "features": "Leeuwarder wijnbar met terras; losse wijn per glas; proeverijen apart te boeken.",
+      "website": "https://vinoenverder.nl/",
+      "other_sources": [
+        "https://vinoenverder.nl/wijnproeverij/",
+        "https://vinoenverder.nl/vino-en-verder-wijnbar-in-leeuwarden-4/",
+        "https://visitleeuwarden.com/locaties/2152107581/vino-verder",
+        "https://www.allecijfers.nl/weg/wolvesteeg-leeuwarden/"
+      ],
+      "original_status": "31-10-2026: primaire wijnbar/exploitatie en borreltoegang geverifieerd; exacte woensdaguren en zondag-einduur conflicteren, daarom onbekend."
     }
   ],
   "admission_policies": [
