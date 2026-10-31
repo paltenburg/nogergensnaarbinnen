@@ -17673,14 +17673,14 @@
     },
     {
       "id": "cafe-it-alde-ste-ureterp-a8f9378",
-      "name": "Café It Alde Ste",
+      "name": "Café It Alde Sté",
       "type": "Kroeg",
       "address": "Weibuorren 100",
       "city": "Ureterp",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Horecamakelaar beschrijft bestaand dorpscafé met klanten en bar; lokale reportage bevestigt uitbater tot eind 2026.",
-      "alcohol": "Makelaarsadvertentie bevestigt biertanks en bar; specifieke actuele drankkaart niet gevonden.",
+      "access": "Eigen website bevestigt een dorpscafé met twee te combineren publieke caféruimten, biljart en darts, naast cafetaria; besloten feesten zijn afzonderlijk mogelijk. Overname eind 2026 blijft onzeker.",
+      "alcohol": "Makelaarsadvertentie bevestigt biertanks/bar; bedrijfseigen website bevestigt caféfunctie, maar publiceert geen actuele drankkaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17691,14 +17691,17 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Geen eigen weekrooster; bedrijf te koop, sluiting niet bevestigd",
-      "closing_source": "https://edensmakelaars.nl/aanbod/cafetaria-eetcafe-it-alde-ste-te-ureterp/",
-      "closing_notes": "Horecamakelaar biedt draaiend café It Alde Sté aan ter overname op Weibuorren 100; reportage https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a meldt dat uitbater eind 2026 stopt. Overnameaanbod/voornemen bewijst GEEN sluiting op 30-10-2026; actuele uren en laatste toegang onbekend. Later opvolger of sluiting verifiëren.",
+      "closing_quality": "Eigen kroegwebsite bevat geen betrouwbaar vast weekrooster; externe gidsuren niet als officieel bevestigd. Bedrijf staat te koop, sluiting niet aangetoond.",
+      "closing_source": "",
+      "closing_notes": "Horecamakelaar biedt draaiend café It Alde Sté aan ter overname op Weibuorren 100; reportage https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a meldt dat uitbater eind 2026 stopt. Overnameaanbod/voornemen bewijst GEEN sluiting op 30-10-2026; actuele uren en laatste toegang onbekend. Later opvolger of sluiting verifiëren. | 31-10-2026: eigen https://kroeg.aldeste.nl/ en https://kroeg.aldeste.nl/contact/ bevestigen café, adres Weibuorren 100 en publieke activiteiten, maar geen weekuren. Onafhankelijke https://oerrock.nl/gevonden-voorwerpen-2/ van 17-05-2026 verwees bezoekers voor ophalen gevonden voorwerpen tot 31 mei naar het café: extra bevestiging exploitatie in 2026. Overname/voornemen tot stoppen blijft toekomstig, geen sluiting verondersteld. Geen einduren of laatste toegang toegevoegd.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://kroeg.aldeste.nl/",
       "other_sources": [
         "https://edensmakelaars.nl/aanbod/cafetaria-eetcafe-it-alde-ste-te-ureterp/",
-        "https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a"
+        "https://www.grootsa.nl/nieuws/in-bedrijf/123872/dorpscafes-verdwijnen-langzamerhand-uit-het-straatbeeld-van-a",
+        "https://kroeg.aldeste.nl/",
+        "https://kroeg.aldeste.nl/contact/",
+        "https://oerrock.nl/gevonden-voorwerpen-2/"
       ],
       "original_status": "Bestaande exploitatie via makelaar en lokale reportage 2026, toekomstige overdracht nog open.",
       "geo": {
@@ -17707,7 +17710,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Weibuorren 100, 9247BD Ureterp"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -17716,7 +17719,9 @@
         "vr": "?",
         "za": "?",
         "zo": "?"
-      }
+      },
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Bedrijfseigen kroeg.aldeste.nl en contactpagina rechtstreeks gecontroleerd 31-10-2026; hoofdsite aldeste.nl toont geen uitleesbare tekst."
     },
     {
       "id": "cafe-sportlust-houtigehage-5fee14e",
