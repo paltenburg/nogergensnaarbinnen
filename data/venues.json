@@ -27115,7 +27115,7 @@
       "city": "Balk",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "access": "Eigen site: publieke restaurant-/terrasfunctie; VVV bevestigt vrij toegankelijk muziekprogramma zondag 1 november 2026. Borrel zonder maaltijd niet expliciet als vaste optie bevestigd.",
       "alcohol": "VVV noemt cava en glühwein, eigen reserveringsplatform vermeldt Pinot Grigio; wijn onderbouwd.",
       "opening": {
@@ -27140,7 +27140,7 @@
       "opening_checked_on": "2026-10-31",
       "closing_source": "https://www.badmeesterkeimpe.nl/contact-openingstijden/",
       "closing_quality": "Seizoensafhankelijke opening; een generiek weekrooster zou oktober/november/december onjuist combineren. Geen jaarrond exact sluituur.",
-      "closing_notes": "Eigen exploitant: september–oktober wo–zo vanaf 10:30 tot 21:00+ (geen exacte eindtijd); november alleen zondag 10:30–17:30 als standaard; december uitsluitend besloten; januari/februari zondag 10:30–17:30; maart–juni wo–zo 10:30–21:00+; juli/augustus dagelijks. VVV kondigt op zondag 01-11 gratis live optreden 15:00–18:30 aan, later dan het november-standaarduur 17:30. Daarom alle generieke dagvelden onbekend, geen gegarandeerde sluiting of laatste toegang. Seizoens-/evenementfilter is nog een open UI-taak.",
+      "closing_notes": "Eigen exploitant: september–oktober wo–zo vanaf 10:30 tot 21:00+ (geen exacte eindtijd); november alleen zondag 10:30–17:30 als standaard; december uitsluitend besloten; januari/februari zondag 10:30–17:30; maart–juni wo–zo 10:30–21:00+; juli/augustus dagelijks. VVV kondigt op zondag 01-11 gratis live optreden 15:00–18:30 aan, later dan het november-standaarduur 17:30. Daarom alle generieke dagvelden onbekend, geen gegarandeerde sluiting of laatste toegang. Seizoens-/evenementfilter is nog een open UI-taak. Tot datumafhankelijk seizoenrooster in UI is verwerkt standaard verborgen: anders zou november ma–za als mogelijk open worden voorgesteld. Publiek optreden 01-11 kan langer doorlopen dan algemene novemberuren.",
       "website": "https://www.badmeesterkeimpe.nl/",
       "website_checked_on": "2026-10-31",
       "other_sources": [
