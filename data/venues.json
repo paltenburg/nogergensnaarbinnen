@@ -27584,6 +27584,49 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Borrel, terras; Leeuwarden Huizum"
+    },
+    {
+      "id": "club-eigentijds-harlingen-20261031",
+      "name": "Club Eigentijds",
+      "type": "Club / danscafé / bar",
+      "address": "Grote Bredeplaats 29",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant publiceert openbare clubavonden vr/za met DJ's, live acts en een bar; eventuele tickets, leeftijdsgrenzen en laatste toegang per avond niet geverifieerd.",
+      "alcohol": "Exploitant spreekt van drankjes aan de bar en borrel; actuele expliciete bier-/wijnkaart niet aangetroffen. KVK-afgeleide bedrijfsclassificatie 56300 drinkgelegenheden ondersteunt horecafunctie, geen bewijs van afzonderlijk assortiment.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "—"
+      },
+      "opening_source": "https://eigentijds.com/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://eigentijds.com/",
+      "closing_quality": "Eigen site vermeldt club vr/za 23:00–05:00; ma–do en zo gesloten. Seizoenterras momenteel gesloten tot 2027; de zomerterrasuren 11–20 zijn dus niet als huidige uren overgenomen.",
+      "closing_notes": "Cluburen betreffen de nacht na de genoemde uitgaansdag. Feestagenda en eventuele tickets/laatste toegang onbekend; geen gegarandeerde vrije entree. Officiële site vermeldt terras pas weer in 2027. VVV heeft een oudere algemene daghorecaomschrijving die niet als actueel weekrooster is gebruikt.",
+      "website": "https://eigentijds.com/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/eigentijds-harlingen-78256631-000001621114",
+        "https://www.friesland.nl/nl/locaties/1706027937/eigentijds"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Clubnachten vrijdag en zaterdag tot 05:00; Harlingen"
     }
   ],
   "admission_policies": [
