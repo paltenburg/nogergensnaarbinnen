@@ -24565,6 +24565,51 @@
         "https://toxopeusanjum.nl/contact/"
       ],
       "original_status": "Exploitant bevestigt actieve publieke horeca en alcoholkaart; alleen-drank-inloop en laatste toegang nog niet expliciet geverifieerd."
+    },
+    {
+      "id": "het-raadsel-van-de-wadden-anjum-20261031",
+      "name": "Het Raadsel van de Wadden",
+      "type": "Restaurant / borrel / evenementen",
+      "address": "Oostmahorn 31",
+      "city": "Anjum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen actuele site nodigt publiek uit voor lunch, diner of borrel met uitzicht op het Lauwersmeer; reservering niet als algemene inloopvoorwaarde vermeld.",
+      "alcohol": "Exploitant organiseert bierproeverijen met speciaalbier en wijnproeverijen met wijnen; regionale toerismesite bevestigt wijnassortiment. Actuele afzonderlijke reguliere drankenkaart niet gevonden.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "14:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://restaurantlauwersmeer.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://restaurantlauwersmeer.nl/contact/",
+      "closing_quality": "Eigen contactpagina geeft do–zo; eigen evenementenpagina en VVV geven ma–wo andere informatie. Ma–wo daarom onbekend.",
+      "closing_notes": "31-10-2026: eigen https://restaurantlauwersmeer.nl/contact/ noemt uitsluitend do/vr 17–22, za 14–22, zo 12–22. Eigen https://restaurantlauwersmeer.nl/evenementen/ en toeristische https://www.friesland.nl/nl/locaties/796875641/het-raadsel-van-de-wadden vermelden óók ma–wo 17–22. Tegenstrijdige actuele exploitantpagina's; ma–wo opening en sluiting op '?' gehouden, niet als gesloten aangenomen. Eigen evenementenpagina kondigt 2027-openingsfeest aan en vermeldt bier-/wijnproeverijen; die zijn geen regulier caférooster. Laatste toegang onbekend. Niet verwarren met Toxopeus op de Dijk op Oostmahorn 29.",
+      "website": "https://restaurantlauwersmeer.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen actuele site met adres, borrelfunctie, vier consistente daguren en bier-/wijnproeverijen.",
+      "checked_on": "2026-10-31",
+      "features": "Oostmahorn / Anjum; borrel, wijn, bierproeverijen; ma–wo bronconflict",
+      "other_sources": [
+        "https://restaurantlauwersmeer.nl/evenementen/",
+        "https://www.friesland.nl/nl/locaties/796875641/het-raadsel-van-de-wadden"
+      ],
+      "original_status": "Publieke borrelfunctie en alcoholgerelateerde evenementen bevestigd; ma–wo actuele uren conflicteren tussen exploitantpagina's."
     }
   ],
   "admission_policies": [
