@@ -24021,13 +24021,13 @@
         "zo": "22:00"
       },
       "last_entry": {
-        "ma": "22:00",
+        "ma": "?",
         "di": "00:00",
         "wo": "00:00",
         "do": "00:00",
         "vr": "02:00",
         "za": "02:00",
-        "zo": "22:00"
+        "zo": "?"
       },
       "closing_latest": {
         "ma": "22:00",
@@ -24043,11 +24043,11 @@
       "opening_quality": "Exploitant onderscheidt expliciet café- en cafetaria-uren.",
       "closing_source": "https://www.lantaarndokkum.nl/openingstijden/",
       "closing_quality": "Ma/zo exact tot 22:00; di-za alleen deur-/laatste-toegang-grens, sluiting variabel tot uiterlijk 04:00.",
-      "closing_notes": "31-10-2026: café ma/zo 16:00-22:00. Di/wo 16:00, do 11:00, vr/za 11:00; deur dicht di-do 00:00, vr/za 02:00, soms eerder. Personeel kan aanwezigen maximaal tot 04:00 laten blijven. Dit is GEEN vaste sluiting om 00/02 of gegarandeerde opening tot 04. Cafetaria heeft eigen korter rooster en bezorgtijden; niet als caféuren gebruikt.",
+      "closing_notes": "31-10-2026: café ma/zo 16:00-22:00. Di/wo 16:00, do 11:00, vr/za 11:00; deur dicht di-do 00:00, vr/za 02:00, soms eerder. Personeel kan aanwezigen maximaal tot 04:00 laten blijven. Dit is GEEN vaste sluiting om 00/02 of gegarandeerde opening tot 04. Cafetaria heeft eigen korter rooster en bezorgtijden; niet als caféuren gebruikt. Ma/zo laatste toegang niet apart expliciet gepubliceerd.",
       "last_entry_source": "https://www.lantaarndokkum.nl/openingstijden/",
       "last_entry_checked_on": "2026-10-31",
       "last_entry_quality": "Exploitant noemt expliciet deur-dicht-tijden; incidenteel eerder, dus bovengrens, geen garantie.",
-      "last_entry_notes": "Di-do uiterlijk 00:00, vr/za uiterlijk 02:00. Ma/zo sluit café om 22:00; geen afzonderlijke eerdere deur-dicht-regel. Uitloop na deur-dicht maximaal 04:00 op personeelsoordeel.",
+      "last_entry_notes": "Di-do uiterlijk 00:00, vr/za uiterlijk 02:00 volgens eigen deur-dicht-regel; soms eerder. Voor ma/zo is alleen de sluiting om 22:00 bekend, geen afzonderlijke expliciete laatste-toegangstijd. Uitloop na deur-dicht maximaal 04:00 op personeelsoordeel.",
       "website": "https://www.lantaarndokkum.nl/",
       "website_checked_on": "2026-10-31",
       "website_provenance": "Exploitant eigen site met aparte cafétijden rechtstreeks gecontroleerd.",
