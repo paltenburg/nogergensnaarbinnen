@@ -6642,8 +6642,8 @@
       "alcohol": "Eigen site noemt expliciet bieren en wijnen bij diner en borrel; aanbod volgens exploitant.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "?",
         "do": "?",
         "vr": "?",
@@ -21357,10 +21357,10 @@
         "zo": "10:00"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
         "vr": "?",
         "za": "?",
         "zo": "?"
@@ -26461,9 +26461,9 @@
         "zo": "17:00"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
         "do": "?",
         "vr": "?",
         "za": "?",
@@ -26813,7 +26813,7 @@
         "zo": "11:00"
       },
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "?",
         "wo": "?",
         "do": "?",
@@ -28754,8 +28754,8 @@
         "zo": "12:30"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "?",
         "do": "?",
         "vr": "?",
