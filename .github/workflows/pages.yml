@@ -35,6 +35,8 @@ jobs:
           python-version: '3.12'
       - name: Controleer exacte BAG-adresmatching
         run: python -m unittest discover -s tests -v
+      - name: Controleer mobiele regiowissel (synthetische kaart)
+        run: node tests/test_map_region_sync.js
       - name: Adressen op kaart plaatsen (PDOK)
         run: python scripts/geocode.py
       - name: Bronnenregister automatisch bijwerken
