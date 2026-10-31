@@ -15614,42 +15614,55 @@
     },
     {
       "id": "cafe-de-zomer-west-terschelling-54c8f87",
-      "name": "Café de Zomer",
-      "type": "Kroeg",
+      "name": "De Doerak",
+      "type": "Speciaalbiercafé / eetcafé",
       "address": "Torenstraat 19",
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Nog te controleren",
+      "access": "Eigen site nodigt expliciet uit om ook zonder maaltijd aan de bar een speciaalbier te drinken; publieke inloop.",
+      "alcohol": "Eigen actuele drankkaart met ruim 100 speciaalbieren, tapbier, wijn per glas en cocktails.",
+      "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
       },
-      "closing_quality": "Onbekend; gids noemt tot nader order gesloten, andere bedrijvengids toont standaarduren.",
-      "closing_source": "",
-      "closing_notes": "30-10-2026: https://restaurant-terschelling.nl/restaurants/cafe-de-zomer/ meldt 'tot nader orde gesloten' maar publiceert ook oud weekrooster. https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714 toont die uren nog. Geen onafhankelijk bewijs van huidige publieke opening of definitieve sluiting; niet als open tonen. Eigen domein cafedezomer.nl niet geverifieerd.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "closing_quality": "Eigen actuele website, weekrooster.",
+      "closing_source": "https://www.dedoerakterschelling.nl/",
+      "closing_notes": "31-10-2026: exploitant De Doerak bevestigd op Torenstraat 19. Op dit adres stond in de master de onzekere oude naam Café de Zomer; stabiele locatie-ID behouden en niet dubbel toegevoegd. Eigen site: di–do 12–00, vr/za 12–01, ma/zo dicht. Laatste toegang onbekend; evenementen kunnen afwijken.",
+      "features": "West-Terschelling; speciaalbierbar; voormalige registratie Café de Zomer",
+      "website": "https://www.dedoerakterschelling.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/west-terschelling",
         "https://restaurant-terschelling.nl/restaurants/cafe-de-zomer/",
-        "https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714"
+        "https://www.allebiz.nl/caf%C3%A9-de-zomer-0562-850-714",
+        "https://www.dedoerakterschelling.nl/menu"
       ],
-      "original_status": "Tegenstrijdige gidsgegevens; huidige exploitatie onbekend op 30-10-2026.",
+      "original_status": "31-10-2026: actuele exploitantwebsite De Doerak toont publiek café en alcoholkaart; oudere Café de Zomer-vermelding op hetzelfde adres is historisch.",
       "geo": {
         "lat": 53.3588583,
         "lon": 5.2150178,
         "method": "PDOK BAG-adres",
         "matched_address": "Torenstraat 19, 8881BG West-Terschelling"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-31",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.dedoerakterschelling.nl/",
+      "website_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "cafe-lieman-west-terschelling-3808f8b",
@@ -17510,8 +17523,8 @@
       "city": "Wergea",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen site noemt publiek grand café en borrels/feesten; geen hotelbeperking.",
-      "alcohol": "Borrel en proosten bevestigd, maar specifieke alcoholkaart nog niet afzonderlijk gecontroleerd.",
+      "access": "Eigen site nodigt uit aan de bar voor een biertje of cocktail, zonder verplichte maaltijd of reservering.",
+      "alcohol": "Eigen actuele website bevestigt losse bierbestelling (ruim 30 soorten), cocktails en wijn-/drankenkaart; borrel zonder maaltijd mogelijk.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17530,7 +17543,9 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou",
         "https://www.grandcafejan.nl/contact",
-        "https://www.visitleeuwarden.com/de/Standorte/2955624759/Grand-Cafe-Jan"
+        "https://www.visitleeuwarden.com/de/Standorte/2955624759/Grand-Cafe-Jan",
+        "https://www.grandcafejan.nl/",
+        "https://www.grandcafejan.nl/over-jan"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17541,7 +17556,7 @@
       },
       "opening_checked_on": "2026-10-30",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "website_provenance": "Exploitantwebsite en contactpagina gecontroleerd 2026-10-30.",
       "opening": {
         "ma": "?",
@@ -28029,6 +28044,96 @@
         "https://www.allebiz.nl/it-stee-foar-iters-en-drinkers-0512-361-580"
       ],
       "original_status": "Eigen site bevestigt exploitatie, openbare borrel en alcoholkaart; dag- en einduren nog niet actueel bevestigd."
+    },
+    {
+      "id": "strandrestaurant-west-aan-zee-west-terschelling-20261031",
+      "name": "Strandrestaurant West aan Zee",
+      "type": "Strandrestaurant / borrel",
+      "address": "Badweg West 7",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site beschrijft toegankelijk publiek strandrestaurant en vrije lunchinloop zonder reservering; losse drankinloop niet afzonderlijk gegarandeerd.",
+      "alcohol": "Eigen actuele menupagina biedt speciaalbier, wijnkaart en cocktails.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.westaanzee.nl/",
+      "closing_source": "",
+      "closing_quality": "Exploitantpagina's conflicteren: dagelijks 10:00–17:30 versus dinerarrivé vóór 19:15. Geen betrouwbaar bar-sluituur.",
+      "closing_notes": "31-10-2026: dagelijks vanaf 10:00 op eigen site. Dezelfde exploitant noemt zowel 17:30 sluiting als dinergasten tot 19:15; geen vaste sluiting aangenomen. 19:15 is uitsluitend dinerarrivé, NIET laatste borreltoegang.",
+      "features": "Terschelling; strandrestaurant met bier, wijn en cocktails",
+      "website": "https://www.westaanzee.nl/",
+      "website_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.westaanzee.nl/menu",
+        "https://www.westaanzee.nl/en",
+        "https://www.westaanzee.nl/over-ons"
+      ],
+      "original_status": "Exploitantwebsite op 31-10-2026 gecontroleerd; opening en alcohol bevestigd, sluituur conflicteert."
+    },
+    {
+      "id": "aan-de-fluessen-elahuizen-20261031",
+      "name": "Eten & Drinken aan de Fluessen",
+      "type": "Eetcafé / terrasborrel (seizoensafhankelijk)",
+      "address": "Mardyk 13",
+      "city": "Elahuizen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Exploitantwebsite nodigt uit voor een los drankje op het terras. Buiten reguliere opening uitsluitend groepen vanaf tien personen op aanvraag.",
+      "alcohol": "Voorgaande eigen website van Eetcafé de Fluessen vermeldt wijn-spijsarrangementen; huidig los alcoholaanbod nog niet primair geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "closing_quality": "Exploitant publiceert uitsluitend september/oktober vr–zo vanaf 12:00; geen november/winterrooster. Daarom geen jaarrond uren ingevuld.",
+      "closing_notes": "31-10-2026: huidige site bevestigt naam Aan de Fluessen, Mardyk 13 en publieke borrel. Oude Eetcafé de Fluessen is dezelfde locatie, niet dubbel opgenomen. Wijn op oudere exploitantwebsite; actuele losse alcoholkaart, winteropening, sluiting en laatste toegang onbekend. Verborgen kandidaat tot verificatie.",
+      "features": "Elahuizen; seizoenshoreca; voorheen Eetcafé de Fluessen",
+      "website": "https://aandefluessen.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://aandefluessen.nl/eten-drinken/",
+        "https://aandefluessen.nl/contact/",
+        "https://www.eetcafedefluessen.nl/en/specials2025",
+        "https://www.friesland.nl/nl/locaties/3827245122/eetcafe-de-fluessen"
+      ],
+      "original_status": "Actuele exploitantwebsite bevestigd; winteruren en huidig los alcoholaanbod ontbreken."
     }
   ],
   "admission_policies": [
