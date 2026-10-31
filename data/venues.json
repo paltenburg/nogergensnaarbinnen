@@ -29517,6 +29517,56 @@
         "https://www.harlingenwelkomaanzee.nl/nl/locaties/3440402257/jonas-harlingen"
       ],
       "original_status": "Actuele exploitantwebsite bevestigt publiek restaurant en losse borrel met alcohol; tijden zijn conflicterend, daarom onbekend."
+    },
+    {
+      "id": "enoteca-wine-and-bites-harlingen-20261101",
+      "name": "Enoteca Wine & Bites",
+      "type": "Wijnbar / restaurant / borrel",
+      "address": "Grote Bredeplaats 5/5A",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website zegt dat bezoekers ook uitsluitend voor een glas wijn aan de ruime bar welkom zijn, zonder maaltijdverplichting.",
+      "alcohol": "Eigen website: uitgebreide wijnkaart, cocktails, 24 wijnen per glas en bieren van de tap volgens regionale bezoekersgids.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://enotecaharlingen.nl/",
+      "closing_source": "https://enotecaharlingen.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_quality": "Exploitantwebsite 01-11-2026: ma en wo–zo 12–22, di gesloten; laatste toegang onbekend. Afwijkende gidsuren niet overgenomen.",
+      "closing_notes": "01-11-2026: eigen https://enotecaharlingen.nl/ en https://enotecaharlingen.nl/over-ons/ bevestigen vrije wijnbarinloop en actuele exploitatie; homepage geeft ma/wo–zo 12–22, di gesloten. Regionale https://www.harlingenwelkomaanzee.nl/nl/locaties/1466138238/enoteca-wine-and-bites geeft Grote Bredeplaats 5, maar eigen bestelpagina https://www.enoteca-harlingen.nl/contact en Thuisbezorgd noemen 5A. Het adres 5A komt ook in historische vermeldingen van The Shamrock voor. Fysieke ingang/BAG-unit nog niet geverifieerd: geen automatische geocode, niet twee records maken. Laatste toegang onbekend.",
+      "features": "Harlingen; 24 wijnen per glas; wijnbar; adres 5/5A te controleren",
+      "website": "https://enotecaharlingen.nl/",
+      "other_sources": [
+        "https://enotecaharlingen.nl/over-ons/",
+        "https://enotecaharlingen.nl/menukaart/",
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/1466138238/enoteca-wine-and-bites",
+        "https://www.enoteca-harlingen.nl/contact",
+        "https://www.thuisbezorgd.nl/en/menu/enoteca-winebites"
+      ],
+      "geocode_blocked": true,
+      "geocode_notes": "Horecagids geeft Grote Bredeplaats 5; eigen bestelpagina 5A. Oude Shamrock-gids noemt eveneens 5A. Geen BAG-marker kiezen zonder bevestigde fysieke entree.",
+      "original_status": "Eigen exploitant bevestigt huidige publieke wijnbar en weekrooster; huisnummer 5 versus 5A nog niet fysiek bevestigd."
     }
   ],
   "admission_policies": [
