@@ -1,5 +1,14 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Aanvullend checkpoint 01-11-2026 — Leeuwarden primaire verificatie en onbetrouwbare website-subpagina (master 624)
+
+**Nieuwe datacommit [4753628](https://github.com/paltenburg/nogergensnaarbinnen/commit/4753628f7a49dc3a6bb8db5ac7f11ea824fe6ff5), 0 toegevoegd / 2 bestaande Friese records bijgewerkt, IDs en tijden behouden.** Bij **Café De Rus**, Stationsweg 28 Leeuwarden, bevestigen eigen https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ op **01-11-2026** vrije publieke borrel, speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt het adres. `access`, `alcohol`, `website_checked_on`, `checked_on`, `website_provenance` en bronnotities bijgewerkt. **Geen officieel weekrooster of laatste toegang aangetroffen; alle uren blijven onbekend.** Recente 2026-recensie op eigen https://cafederus.nl/reviews/ ondersteunt bezoek maar is geen tijdbron.
+
+Bij **Café De Ouwe Stoep**, Oude Doelesteeg 6 Leeuwarden, blijft https://www.ouwestoep.nl/ de caféhomepage met al bekende weekstarts. De subpagina **https://www.ouwestoep.nl/fotos/** retourneert bij controle **01-11-2026** niet-gerelateerde gok-/SEO-inhoud, mogelijk gecompromitteerd. Dit is **geen bewijs dat de hele site of zaak onbetrouwbaar/gesloten is**; websiteveld niet gewist, maar waarschuwing en datum in bronnotities toegevoegd. Subpagina **niet als bron gebruiken** en exploitant/domeinstatus later controleren. Geen gidsuren of onzekere sluitingen ingevuld.
+
+**Status na deze write:** master nog **624** (224 Utrecht / 400 Friesland); nieuwste GitHub blob via SHA gecontroleerd vóór write. D0 niet afgerond; W45 pas maandag 02-11 10:00 verschuldigd. **Vervolg:** naast vorige checkpointlijst Ouwe Stoep exploitant/domeincompromis navragen en bij Café De Rus het reguliere bedrijfseigen weekrooster zoeken. CI/Pages voor deze nieuwste commit en echte mobiele interactie nog niet bevestigd.
+
+
 ### Checkpoint 01-11-2026 00:18+ Europe/Amsterdam — Lemmer Iselmar, 12 dagconsistenties, regressietests (master 624)
 
 **Werkelijk uitgevoerd 01-11-2026:** actuele TODO inclusief leidende sectie *Uitvoeringsstrategie: opzettelijk grote opdracht, doorwerken tot de grens*, master `data/venues.json` via actuele blob-SHA/`fetch_blob`, `index.html`, `.github/workflows/pages.yml`, kwaliteitsrapportgenerator en bestaande tests gelezen. Start **623** locaties (224 Utrecht, 399 Friesland); einde **624** (224 Utrecht, **400 Friesland**). **1 nieuw Friese horecarecord met exploitantbronnen**, **5 bestaande records technisch genormaliseerd op 12 weekdagwaarden**, **1 nieuw regressietestbestand**, geen coördinaten/laatste toegang/sluituren verzonnen. Alle controles en bronraadplegingen hieronder op **01-11-2026**. Geen W45-audit geclaimd (pas verschuldigd **ma 02-11-2026 10:00 Europe/Amsterdam**). D0 nog niet gehaald; landelijke uitbreiding niet gestart.
