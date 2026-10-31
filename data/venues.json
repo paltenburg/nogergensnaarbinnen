@@ -16605,16 +16605,11 @@
         "https://www.kuilart.nl/en/facilities/skipperhus/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "geo": {
-        "lat": 52.9069035,
-        "lon": 5.4732287,
-        "method": "PDOK BAG-adres",
-        "matched_address": "De Kuilart 1-1, 8723CG Koudum"
-      },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "website_checked_on": "2026-10-30",
       "website_provenance": "Exploitantwebsite en vakantieparkpagina gecontroleerd 2026-10-30.",
-      "geocode_notes": "Eigen adres De Kuilart 1, bestaande PDOK matched_address De Kuilart 1-1: huisnummersuffix handmatig controleren, niet als exacte match claimen."
+      "geocode_notes": "Eigen adres De Kuilart 1, bestaande PDOK matched_address De Kuilart 1-1: huisnummersuffix handmatig controleren, niet als exacte match claimen.\n31-10-2026: eigen https://www.skippershus.nl/ vermeldt De Kuilart 1 als bezoekadres, maar bestaande BAG-marker was De Kuilart 1-1; huisnummertoevoeging 1-1 is niet als exacte café-ingang bewezen. Marker verwijderd en automatische geocodering geblokkeerd tot onafhankelijke adres-/ingangsverificatie. Seizoensroosterconflict blijft open.",
+      "geocode_blocked": true
     },
     {
       "id": "cafe-de-boekanier-hindeloopen-eb8a931",
@@ -17890,13 +17885,7 @@
         "https://straten.openalfa.nl/straten/g-f-vosstraat-oldeholtpade-weststellingwerf"
       ],
       "original_status": "Oude routevermelding; niet onafhankelijk als huidige publieke horeca bevestigd.",
-      "geo": {
-        "lat": 52.8923479,
-        "lon": 6.0456041,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Hoofdweg 124, 8474CJ Oldeholtpade"
-      },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -17906,7 +17895,8 @@
         "za": "?",
         "zo": "?"
       },
-      "geocode_notes": "Inventarisatie Hoofdweg 124 versus OSM 124E; huidige exacte horeca-ingang niet bevestigd, bestaande BAG-marker is alleen adresmatch."
+      "geocode_notes": "Inventarisatie Hoofdweg 124 versus OSM 124E; huidige exacte horeca-ingang niet bevestigd, bestaande BAG-marker is alleen adresmatch.\n31-10-2026: oude https://www.routeyou.com/nl-nl/location/view/47432534 noemt Hoofdweg 124, OSM https://straten.openalfa.nl/straten/g-f-vosstraat-oldeholtpade-weststellingwerf noemt 124E. Geen recente exploitantbevestiging of exacte ingang. BAG-marker 124 verwijderd, automatische geocodering geblokkeerd. Reguliere exploitatie/alcohol/uren blijven onbekend.",
+      "geocode_blocked": true
     },
     {
       "id": "cafe-de-landerije-steggerda-2dfe96e",
