@@ -5,6 +5,10 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+**Laatste CI-verificatie 31-10-2026:** [Pages #299](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41205972616) is inmiddels **volledig geslaagd** voor **588 records**, met **20/20 tests**, **537/588** geocodeerd (**51 unmatched**), **1.617 bron-URL's / 645 domeinen**, gegenereerd kwaliteitsrapport voor 2 actieve regio's en succesvol Pages-deployment. Dit bevestigt de 588-recordversie **vóór** de laatste twee broncorrecties; [#301](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41206143739) voor De Markies was bij laatste check nog `in_progress`. Geen live mobiele kaartinteractie getest. `data/geocode-report.json` en `data/source-register.json` op `main` nog achter op 565 totdat dagelijkse synchronisatie werkt.
+
+
+
 ## Primaire bronverificaties 31-10-2026 — De Markies en Harbour Hub
 
 **De Markies Leeuwarden, bestaand ID `de-markies-leeuwarden-d3d3930`**: eigen https://www.de-markies.nl/contact/ op **31-10-2026** uitgelezen en volledig weekrooster bevestigd: ma dicht, di–do **16–01**, vr/za **15–01**, zo **15–20**. Eigen https://www.de-markies.nl/ bevestigt 250+ bieren, 12 wisseltaps en openbare borrel. De oude waarden waren al correct uit VVV; **alleen bronkwaliteit, datums, toelichting en `opening_source`/`closing_source` bijgewerkt** in [942a01a](https://github.com/paltenburg/nogergensnaarbinnen/commit/942a01a9d81845cf31d903ae2d931a60f266553d). Proeverijen mogen in het weekend uiterlijk om 17:00 beginnen, maar dat is **niet** de laatste cafétoegang. Geen nieuwe locatie.
