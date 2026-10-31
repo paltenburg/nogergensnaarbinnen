@@ -29141,6 +29141,53 @@
         "https://www.allecijfers.nl/weg/wolvesteeg-leeuwarden/"
       ],
       "original_status": "31-10-2026: primaire wijnbar/exploitatie en borreltoegang geverifieerd; exacte woensdaguren en zondag-einduur conflicteren, daarom onbekend."
+    },
+    {
+      "id": "stadsbrouwerij-bonifatius-754-dokkum-20261031",
+      "name": "Stadsbrouwerij Bonifatius 754",
+      "type": "Stadsbrouwerij/proeflokaal",
+      "address": "Diepswal 5",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt proeflokaal waar bier gedronken wordt; vrije inloop zonder reservering niet expliciet bevestigd. Bierproeverijen alleen op reservering.",
+      "alcohol": "Eigen site bevestigt bierproeven en consumptie van Bonifatiusbier in het proeflokaal.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen site vermeldt wo–za 15:00–18:00 als openingstijden van de stadsbrouwerij; niet bewezen dat dit de vrije toegangstijden van het proeflokaal zijn. Daarom alle caféuren onbekend.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: eigen site bevestigt proeflokaal met consumptie en een apart te reserveren bierproeverij; vrije inloop en vaste proeflokaaluren nog te verifiëren. Geen laatste toegang bekend. Fietsnetwerk vermeldt afwijkende 09:00–17:00; niet overgenomen.",
+      "opening_source": "",
+      "opening_quality": "Brouwerij-uren niet zonder bewijs als proeflokaaluren overgenomen.",
+      "website": "https://www.bonifatius754.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen website rechtstreeks gecontroleerd 31-10-2026: naam, adres, bierproeflokaal en reserveringsproeverijen.",
+      "other_sources": [
+        "https://www.bonifatius754.nl/stadbrouwerij/",
+        "https://www.bonifatius754.nl/bierproeverij/",
+        "https://www.bonifatius754.nl/contactformulier/",
+        "https://www.fietsnetwerk.nl/knooppunt/stadsbrouwerij-bonifatius-dokkum/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Brouwerij, proeflokaal; vrije inloop nog niet bevestigd",
+      "original_status": "Actuele eigen site met proeflokaal, maar publieke vrije inloop niet afzonderlijk bewezen; verborgen tot nadere bevestiging."
     }
   ],
   "admission_policies": [
