@@ -24918,6 +24918,99 @@
         "https://www.friesland.nl/nl/locaties/1948450388/het-theehuis-grou"
       ],
       "original_status": "Actuele exploitantwebsite en FAQ gecontroleerd, live beschikbaarheid niet getest."
+    },
+    {
+      "id": "aan-de-hoarne-terherne-20261031",
+      "name": "Aan de Hoarne",
+      "type": "Restaurant/borrel",
+      "address": "Syl 12-A",
+      "city": "Terherne",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Terherne; D0 controle",
+      "access": "Exploitant nodigt ook bezoekers die alleen voor een borrel of drankje komen uit; geen maaltijdverplichting vermeld.",
+      "alcohol": "Eigen site noemt expliciet wijn, bier en borrel; eigen drankenkaart.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "—",
+        "do": "—",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "20:30",
+        "di": "20:30",
+        "wo": "—",
+        "do": "—",
+        "vr": "20:30",
+        "za": "20:30",
+        "zo": "20:30"
+      },
+      "opening_quality": "Eigen actuele homepage 31-10-2026: ma/di 16–20:30, wo/do gesloten, vr–zo 11–20:30.",
+      "closing_quality": "Eigen homepage toont bedrijfsrooster; sluiting voor aparte bar niet afzonderlijk geverifieerd.",
+      "closing_source": "https://aandehoarne.nl/",
+      "opening_source": "https://aandehoarne.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: exploitant noemt ma/di 16–20:30, wo/do gesloten, vr–zo 11–20:30. Gidsen en dealplatforms geven afwijkende roosters; primaire actuele homepage gevolgd. Eigen pagina spelt postcode 8393 LL, externe adressen geven 8493 LL; geen postcode in adresveld opgenomen. Zelfde Syl 12-A als historische Eetcafé Portunus, géén tweede Portunus-record aangemaakt. Laatste toegang onbekend.",
+      "website": "https://aandehoarne.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite met eigen dranken-/borrelkaart en actuele weektijden gecontroleerd 31-10-2026.",
+      "other_sources": [
+        "https://www.fietsnetwerk.nl/knooppunt/restaurant-aan-de-hoarne-terherne/",
+        "https://www.socialdeal.nl/firma/den-helder/aan-de-hoarne/"
+      ],
+      "original_status": "Eigen actuele exploitantwebsite gecontroleerd, niet fysiek bezocht."
+    },
+    {
+      "id": "t-schippershuis-terherne-20261031",
+      "name": "Hotel Restaurant 't Schippershuis",
+      "type": "Hotelrestaurant/borrel",
+      "address": "Buorren 69",
+      "city": "Terherne",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Terherne; D0 controle",
+      "access": "Eigen restaurant en terrassen voor publiek; eigen Oyster Hours beschrijft reguliere zondagmiddagborrel.",
+      "alcohol": "Eigen actuele menukaart noemt gin, rosébubbels, Pornstar Martini en wijn.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen contactpagina: vanaf 19 oktober do–zo vanaf 12:00; ma–wo niet als permanente sluitingsdagen geclaimd.",
+      "closing_quality": "Eigen site geeft geen exact restaurant-/bar-einduur; speciale evenementen zijn geen vaste sluiting.",
+      "closing_source": "https://tschippershuis.nl/contact/",
+      "opening_source": "https://tschippershuis.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen najaarsbericht vermeldt vanaf 29 september do–ma (za/zo 11), maar expliciet VANAF 19 OKTOBER do–zo vanaf 12:00. Laatste datum gevolgd voor do–zo; ma–wo onbekend i.p.v. jaarrond gesloten. Einduren en laatste toegang onbekend. Eigen agenda toont Italiaanse avond 31-10 en zondagse Oyster Hours, niet als vast weekschema verwerkt.",
+      "website": "https://tschippershuis.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site bevestigt huidige hotelrestaurant, adres, menukaart, najaarsrooster en borrelevenementen.",
+      "other_sources": [
+        "https://tschippershuis.nl/menukaart/",
+        "https://tschippershuis.nl/agenda/oyster-hours/",
+        "https://www.friesland.nl/nl/locaties/3172715545/t-schippershuis"
+      ],
+      "original_status": "Eigen actuele exploitantwebsite en menukaart gecontroleerd, geen fysieke deurcontrole."
     }
   ],
   "admission_policies": [
