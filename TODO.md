@@ -4,6 +4,10 @@
 **Masterdatabase:** `data/venues.json`  
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
+## Aanvullende Gaastmeer-check 31-10-2026 — niet toegevoegd
+
+**Restaurant D'Ald Herberch**, Munkedyk 46 Gaastmeer: eigen https://www.aldherberch.nl/ noemt **15 juni t/m 15 augustus** dagelijks lunch/diner, elders geen eenduidig huidig winterrooster; eigen https://www.aldherberch.nl/menukaart publiceert geen expliciete alcoholkaart in tekst. VVV https://www.friesland.nl/nl/locaties/3075467410/d-ald-herberch-yn-e-ielaek bevestigt recente restaurantfunctie en eigenaresse, maar niet actuele publieke winterborrel. Gids https://www.fietsnetwerk.nl/knooppunt/restaurant-dald-herberch-gaastmeer/ claimt april–september dagelijks 11–22, conflicteert met eigen 15 juni–15 augustus. **Geen opname**, eerst actuele seizoensexploitatie, alcohol en drankinloop bij zaak bevestigen. Andere Gaastmeerhoreca Waterrecreatie Syperda https://www.cylex.nl/bedrijf/waterrecreatie-syperda-10661767.html is **verhuur/park op hetzelfde adres Munkedyk 2** als Boppe de Golle; geen tweede horecavermelding zonder afzonderlijke exploitatie. Geen D0-dekking geclaimd.
+
 ## Correctie 31-10-2026 — Badmeester Keimpe seizoensrisico
 
 **[0faec88](https://github.com/paltenburg/nogergensnaarbinnen/commit/0faec8888cca7bd9ffbf4276986512f97662ff62)**: `paviljoen-badmeester-keimpe-balk-20261031` is nu **`Nog te controleren` (standaard verborgen)**. Reden: de exploitant geeft oktober wo–zo, november alleen zondag en december alleen besloten, terwijl de huidige UI uitsluitend een generiek weekrooster heeft. Een zichtbare `Voorlopig` met alle tijden `?` zou ten onrechte maandag–zaterdag in november als mogelijke dranklocatie suggereren. Bronnen en alle onbekende tijden blijven behouden; geen fictieve sluiting. Master blijft **578**. Nieuwste data-commit moet nog door CI; eerdere #283 publiceerde 578 vóór deze veiligheidswijziging.
