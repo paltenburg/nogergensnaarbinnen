@@ -64,6 +64,53 @@ class ExactBagAddressTests(unittest.TestCase):
         self.assertIsNone(location)
         self.assertEqual(reason, "no-exact-PDOK-match")
 
+    def test_disambiguated_hoorn_requires_correct_municipality(self):
+        # Hoorn in Terschelling and Hoorn in Noord-Holland must never mix.
+        address = "Dorpsstraat 81"
+        place = {"address": address, "city": "Hoorn (Terschelling)"}
+        wrong = {
+            "type": "adres", "woonplaatsnaam": "Hoorn",
+            "gemeentenaam": "Hoorn", "straatnaam": "Dorpsstraat",
+            "huisnummer": 81, "huisletter": "", "huisnummertoevoeging": "",
+            "centroide_ll": "POINT(5.662485 53.0325694)",
+            "weergavenaam": "Dorpsstraat 81, Hoorn",
+        }
+        correct = dict(wrong, gemeentenaam="Terschelling",
+                       weergavenaam="Dorpsstraat 81, Hoorn (Terschelling)")
+        with patch.object(geocode, "request", return_value=[wrong, correct]) as req:
+            location, reason = geocode.geo(place)
+        self.assertEqual(reason, "ok")
+        self.assertEqual(location["matched_address"], correct["weergavenaam"])
+        self.assertIn("Terschelling", req.call_args.args[0])
+
+    def test_disambiguated_hoorn_does_not_accept_other_municipality(self):
+        wrong = {
+            "type": "adres", "woonplaatsnaam": "Hoorn",
+            "gemeentenaam": "Hoorn", "straatnaam": "Dorpsstraat",
+            "huisnummer": 81, "huisletter": "", "huisnummertoevoeging": "",
+            "centroide_ll": "POINT(5.662485 53.0325694)",
+        }
+        with patch.object(geocode, "request", return_value=[wrong]):
+            location, reason = geocode.geo({
+                "address": "Dorpsstraat 81", "city": "Hoorn (Terschelling)"
+            })
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
+    def test_qualified_village_rejects_missing_municipality(self):
+        missing = {
+            "type": "adres", "woonplaatsnaam": "Hoorn",
+            "straatnaam": "Dorpsstraat", "huisnummer": 81,
+            "huisletter": "", "huisnummertoevoeging": "",
+            "centroide_ll": "POINT(5.662485 53.0325694)",
+        }
+        with patch.object(geocode, "request", return_value=[missing]):
+            location, reason = geocode.geo({
+                "address": "Dorpsstraat 81", "city": "Hoorn (Terschelling)"
+            })
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
 
 if __name__ == "__main__":
     unittest.main()
