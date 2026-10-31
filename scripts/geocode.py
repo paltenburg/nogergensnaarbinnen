@@ -71,9 +71,22 @@ def geo(place):
     if not parts:
         return None, "no-number-or-unparseable-address"
     street, number, suffix = parts
-    candidates = request(f'{street} {number}{suffix} {place["city"]}')
+    # Dataset display labels can disambiguate homonymous villages, e.g.
+    # "Hoorn (Terschelling)". PDOK uses "Hoorn" as the woonplaatsnaam
+    # and "Terschelling" as the gemeentenaam. Match BOTH, never discard
+    # the qualifier and risk geocoding to a different Hoorn.
+    city_label = str(place.get("city") or "").strip()
+    qualified = re.fullmatch(r"(.+?)\\s*\\(([^()]+)\\)", city_label)
+    city = qualified.group(1).strip() if qualified else city_label
+    municipality = qualified.group(2).strip() if qualified else None
+    query = f'{street} {number}{suffix} {city}'
+    if municipality:
+        query += f' {municipality}'
+    candidates = request(query)
     for candidate in candidates:
-        if norm(candidate.get("woonplaatsnaam")) != norm(place.get("city")):
+        if norm(candidate.get("woonplaatsnaam")) != norm(city):
+            continue
+        if municipality and norm(candidate.get("gemeentenaam")) != norm(municipality):
             continue
         if str(candidate.get("type", "")).lower() != "adres":
             continue
