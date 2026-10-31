@@ -25244,6 +25244,53 @@
         "https://mblend.nl/restaurant/the-launch-t-hoekje/"
       ],
       "original_status": "Eigen site actief, bronconflicten over uren en adres expliciet; fysieke inloop niet getest."
+    },
+    {
+      "id": "brasserie-no-14-lemmer-20261031",
+      "name": "Brasserie No. 14",
+      "type": "Brasserie/borrel",
+      "address": "Kortestreek 14",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; terras aan het water",
+      "access": "Eigen homepage en regionale VVV nodigen expliciet uit voor een drankje of borrel zonder maaltijd; publieke brasserie met terras.",
+      "alcohol": "Eigen homepage heeft cocktailkaart en noemt wijn; eigen menupagina biedt cocktails. Alcoholaanbod rechtstreeks bevestigd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen actuele site (homepage, menupagina, Lemmerpagina) 31-10-2026: dagelijks 10:00–00:00.",
+      "closing_quality": "Eigen exploitantwebsite vermeldt dagelijks tot 00:00; andere gidsen noemen 22:00/23:00, primaire site gevolgd.",
+      "opening_source": "https://brasserie-no14.nl/lemmer/",
+      "closing_source": "https://brasserie-no14.nl/menu/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen exploitantpagina's vermelden consequent 7 dagen 10–00. Gidsen noemen soms 22/23 uur; actuele exploitantwebsite gevolgd. 00:00 is einde van de gekozen uitgaansdag, niet sluiting van de voorafgaande dag. Laatste toegang niet gepubliceerd. Geen aparte horeca-ingang of kaartcoördinaten aangenomen.",
+      "website": "https://brasserie-no14.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage, Lemmerpagina en menupagina rechtstreeks gecontroleerd 31-10-2026; adres, borrel en cocktailaanbod bevestigd.",
+      "other_sources": [
+        "https://brasserie-no14.nl/lemmer/",
+        "https://brasserie-no14.nl/menu/",
+        "https://www.friesland.nl/nl/locaties/2394633820/brasserie-no-14"
+      ],
+      "original_status": "Actuele eigen website en VVV bevestigen publieke brasserie/borrel; fysieke inloop niet getest."
     }
   ],
   "admission_policies": [
