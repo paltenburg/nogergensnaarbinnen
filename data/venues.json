@@ -29237,6 +29237,51 @@
       "geocode_blocked": true,
       "geocode_notes": "Adres 9/11 bevat twee huisnummers. Geen automatisch BAG-match op een van beide zonder bevestigde fysieke entree.",
       "original_status": "Eigen website met publieke lunchroom, actuele openingstijden en alcoholische drankenkaart; geen aparte laatste-toegangregel."
+    },
+    {
+      "id": "bistro-bries-lemmer-20261031",
+      "name": "Bistro Bries",
+      "type": "Bistro/restaurant; borrelfunctie onbevestigd",
+      "address": "Plattedijk 13",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "checked_on": "2026-10-31",
+      "features": "Vakantiepark Lemmer; terras; ook toegankelijk voor niet-parkbezoekers; seizoens-/weekrooster wisselend",
+      "access": "Exploitant verklaart in lokaal interview 13-05-2026 dat iedereen welkom is, ook zonder verblijf op het vakantiepark. Vrije losse borrel zonder maaltijd niet bevestigd.",
+      "alcohol": "Alcoholaanbod niet met een primaire drankenkaart of exploitantbericht bevestigd; restaurantstatus alleen is onvoldoende bewijs.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitantinterview 13-05-2026 noemt do–zo en weekendlunch; nieuws 27-10-2026 meldt voortzetting na zomer. Geen actuele volledige weekuren of café-/borreluren bevestigd.",
+      "closing_quality": "Geen betrouwbare exploitantbron voor café-sluiting of laatste toegang; Cylex bevat ongerijmde 00:00–12:00 en 00:00–23:00 dagvelden, niet overgenomen.",
+      "opening_source": "https://lemsternijs.nl/horeca-op-vakantiepark-lemmer-verder-onder-de-naam-bistro-bries/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: Lemsternijs bericht 13-05-2026 over opening onder Bistro Bries, openbare toegang en Plattedijk 13; artikel 27-10-2026 citeert exploitant dat Bistro Bries voorlopig openblijft en niet uitsluitend campinggasten bedient. Exploitantwebsite bistrobries.nl niet rechtstreeks bereikbaar bij controle. Alcohol, losse borrel, weekuren en laatste toegang niet bevestigd. Verborgen houden tot primaire bevestiging van alcohol en borreltoegang; niet als definitief seizoensgesloten markeren.",
+      "website": "",
+      "other_sources": [
+        "https://lemsternijs.nl/horeca-op-vakantiepark-lemmer-verder-onder-de-naam-bistro-bries/",
+        "https://lemsternijs.nl/bistro-bries-3-gangen-menu-voor-2150/",
+        "https://www.cylex.nl/bedrijf/bistro-bries-lemmer-13932967.html"
+      ],
+      "original_status": "Heropening mei 2026 en voortgezette exploitatie in lokaal artikel 27-10-2026 bevestigd; actuele vrije alcoholinloop en weekrooster onbekend. Exploitantwebsite niet bereikbaar."
     }
   ],
   "admission_policies": [
