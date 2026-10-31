@@ -1298,12 +1298,12 @@
       "id": "bij-guusjes-fd4468d",
       "name": "Bij Guusjes",
       "type": "Café/restaurant",
-      "address": "'s Gravesandestraat 27",
+      "address": "Van 's-Gravesandestraat 27",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen site bevestigt spontaan binnenlopen voor koffie, lunch, borrel of diner, reserveren niet verplicht.",
+      "alcohol": "Eigen site: >40 flesbieren, 8 wisselende tapbieren, huisbieren Blinde Vink en Dove Kwartel, wijn en cocktails.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -1314,17 +1314,33 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
+      "closing_quality": "Geen exact sluituur op de eigen website; alle dagvelden blijven onbekend.",
       "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "Eigen website bevestigt dagelijks vanaf 11:30, maar publiceert geen sluituren of laatste toegang. Ontdek Utrecht geeft afwijkende oudere 08:30-start en einduren; niet als primaire tijden aangenomen. BAG-straatnaam officieel Van 's-Gravesandestraat; eigen bereikbaarheidspagina gebruikt dezelfde straat met spaties en zonder koppelteken.",
       "features": "Eten en borrelen",
       "website": "https://www.etenbijguusjes.nl/",
-      "other_sources": [],
-      "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
+      "other_sources": [
+        "https://www.etenbijguusjes.nl/bereikbaarheid",
+        "https://www.etenbijguusjes.nl/eten--drinken/borrelen-utrecht",
+        "https://www.postcode-adresboek.nl/pand-van-s-gravesandestraat-27bsa-utrecht",
+        "https://www.ontdek-utrecht.nl/locatie/bij-guusjes/"
+      ],
+      "original_status": "Eigen site 31-10-2026 bevestigt adres, actuele publieke borrel, alcohol en dagelijkse starttijd. Exacte sluiting onbekend.",
       "geo": null,
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-31",
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "opening_source": "https://www.etenbijguusjes.nl/",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "binnen-best-b02c865",
