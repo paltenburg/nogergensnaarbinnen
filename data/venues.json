@@ -28369,7 +28369,7 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "access": "Exploitantberichten via sociale-mediapagina (gekopieerd door FindGlocal) tonen in juli 2026 reguliere caféactiviteit en wisselende dagopening; geen maaltijdverplichting genoemd.",
       "alcohol": "Barfunctie en cafébezoekers bevestigd in actuele gidsen; specifieke actuele alcoholsoorten of bedrijfseigen drankkaart niet primair bevestigd.",
       "opening": {
@@ -28391,7 +28391,7 @@
         "zo": "?"
       },
       "closing_quality": "2026-sociale berichten bevestigen afwijkingen; vaste weekuren alleen secundair en onderling conflicterend. Geen exact rooster overgenomen.",
-      "closing_notes": "31-10-2026: https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9 toont exploitantberichten juni/juli 2026 (sluiting vakantie 20 juli–4 aug, heropening dinsdag 4 aug 16:00), maar geen directe oktoberverificatie. https://www.cafebarde.nl/ toont slechts afbeelding, geen actuele uren. Cylex, RestaurantGuru en andere gidsen verschillen op ma/zo; geen sluituren overgenomen. Oude naam Café Baljee op hetzelfde adres mogelijk historisch, niet dubbel aangemaakt. Laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9 toont exploitantberichten juni/juli 2026 (sluiting vakantie 20 juli–4 aug, heropening dinsdag 4 aug 16:00), maar geen directe oktoberverificatie. https://www.cafebarde.nl/ toont slechts afbeelding, geen actuele uren. Cylex, RestaurantGuru en andere gidsen verschillen op ma/zo; geen sluituren overgenomen. Oude naam Café Baljee op hetzelfde adres mogelijk historisch, niet dubbel aangemaakt. Laatste toegang onbekend. 31-10-2026 veiligheidscontrole: selectie expliciet verborgen totdat een recente primaire bron exploitatie en alcohol bevestigt.",
       "website": "https://www.cafebarde.nl/",
       "website_checked_on": "2026-10-31",
       "checked_on": "2026-10-31",
@@ -28401,7 +28401,7 @@
         "https://nl.restaurantguru.com/Cafe-Bar-De-Leeuwarden",
         "https://leeuwarden.uitloper.nu/locaties/cafe-baljee"
       ],
-      "original_status": "Exploitantberichten tot juli 2026 tonen operationeel café; actuele oktoberstatus en exacte uren niet rechtstreeks bevestigd."
+      "original_status": "Verborgen kandidaat: sociale exploitantberichten juni/juli 2026 tonen activiteit, maar actuele oktoberopening en drankaanbod niet rechtstreeks bevestigd. Niet standaard tonen."
     },
     {
       "id": "cafe-de-nachtwacht-leeuwarden-20261031",
