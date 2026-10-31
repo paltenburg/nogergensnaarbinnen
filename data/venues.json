@@ -3319,32 +3319,48 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Exploitant verwelkomt bezoekers voor vrije borrel en eten, zonder verplichte reservering; terras bij beschikbare plek.",
+      "alcohol": "Exploitant heeft een eigen drankenkaart en biedt borrels; Ontdek Utrecht bevestigt bier en rosé.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "00:00",
-        "di": "00:00",
-        "wo": "00:00",
-        "do": "01:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "00:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Officiële website",
-      "closing_source": "https://www.campingganspoort.nl/en/murdergame-at-the-camping/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Mogelijk verouderde subpagina; actuele homepage geeft geen sluitingstijden.",
+      "closing_quality": "Huidige Nederlandstalige exploitantensite noemt alleen opening vanaf 08:00/10:00; sluituren op oude Engelstalige subpagina niet betrouwbaar als actueel.",
+      "closing_source": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: https://www.campingganspoort.nl/nl/ bevestigt vrije borrel, eigen drankenkaart en opening ma–vr vanaf 08:00, za/zo vanaf 10:00; geen exacte sluituren. Oud https://www.campingganspoort.nl/en/murdergame-at-the-camping/ toont ma–wo/zo 00:00, do–za 01:00 maar bevat historische 2022-inhoud; die einduren zijn niet op actuele NL homepage bevestigd en zijn daarom onbekend gezet. Externe gidsen geven uiteenlopende sluitingen 22:00–01:00; keuken sluit om 21:00, geen bewijs voor cafésluiting. Laatste toegang onbekend.",
       "features": "Openbare borrellocatie",
-      "website": "",
-      "other_sources": [],
-      "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
+      "website": "https://www.campingganspoort.nl/nl/",
+      "other_sources": [
+        "https://www.campingganspoort.nl/en/murdergame-at-the-camping/",
+        "https://www.ontdek-utrecht.nl/locatie/camping-ganspoort/"
+      ],
+      "original_status": "Actuele officiële NL-website bevestigt openbare horeca, openingsstarts en borrel; exacte sluituren niet gepubliceerd.",
       "geo": {
         "lat": 52.0761321,
         "lon": 5.121471,
         "method": "PDOK BAG-adres",
         "matched_address": "Helling 87, 3523CB Utrecht"
-      }
+      },
+      "website_provenance": "Actuele Nederlandstalige exploitantensite, rechtstreeks gecontroleerd 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "opening": {
+        "ma": "08:00",
+        "di": "08:00",
+        "wo": "08:00",
+        "do": "08:00",
+        "vr": "08:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.campingganspoort.nl/nl/",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "cerveceria-boulevard-20261026",
