@@ -23704,6 +23704,100 @@
         "https://zoek.officielebekendmakingen.nl/gmb-2025-283805.html"
       ],
       "original_status": "Sterke kandidaat met 2026 gemeentelijke melding en bezoekersmateriaal; actuele reguliere publieke exploitatie en alcoholaanbod niet primair geverifieerd, daarom Nog te controleren."
+    },
+    {
+      "id": "cafe-prins-kollumersweach-20261031",
+      "name": "Café Prins",
+      "type": "Dorpscafé / cafetaria met optredens",
+      "address": "Foarwei 77",
+      "city": "Kollumersweach",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "KvK 2026 classificeert de onderneming als exploitatie van drinkgelegenheden; artiestenagenda kondigde optreden op 13 juni 2026 aan. Actuele reguliere vrije inloop niet primair bevestigd.",
+      "alcohol": "Caféfunctie (SBI 56300) en horecavermeldingen ondersteunen alcoholschenken, maar een actuele bedrijfseigen drankkaart of vergunning is niet gecontroleerd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Cylex en AlleBiz geven conflicterende roosters; eigen caférooster niet gevonden. De eigen cafetariasite publiceert geen café-sluituren.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-prins-b-v-kollumersweach-01034007-000020269854 toont KvK-update 17-04-2026, Foarwei 77 en SBI 56300; https://douwekamminga.nl/ vermeldt Café Prins Kollumerzwaag in artiestenagenda 13-06-2026, maar bevestigt niet dat optreden daadwerkelijk plaatsvond. https://cafetaria-prins.nl/ is een bedrijfseigen site voor de cafetaria, niet bewezen caférooster. Externe https://www.cylex.nl/bedrijf/caf%C3%A9-cafetaria-prins-11794468.html en https://www.allebiz.nl/caf%C3%A9-prins-b-v-0511-443-250 spreken elkaar tegen over donderdag/vrijdag/zondag; geen uren overgenomen. Café Prins is geen Café de Prins-H in Leeuwarden en geen Café de Prins in Amersfoort. Laatste toegang onbekend; reguliere exploitatie nader verifiëren.",
+      "features": "D0 Noardeast-Fryslân / Kollumersweach; actuele caféuren, publieke toegang en alcoholkaart nog verifiëren",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "31-10-2026: cafetaria-prins.nl rechtstreeks gelezen; cafeprins.nl niet bereikbaar; geen betrouwbare eigen caféroosterpagina.",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-prins-b-v-kollumersweach-01034007-000020269854",
+        "https://douwekamminga.nl/",
+        "https://cafetaria-prins.nl/",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-cafetaria-prins-11794468.html",
+        "https://www.allebiz.nl/caf%C3%A9-prins-b-v-0511-443-250"
+      ],
+      "original_status": "2026 KvK-registratie en aangekondigd optreden; actuele openbare exploitatie niet zelfstandig vastgesteld, daarom verborgen."
+    },
+    {
+      "id": "cafe-cafetaria-us-thus-driezum-20261031",
+      "name": "Café Cafetaria Us Thús",
+      "type": "Dorpscafé / cafetaria met biljart en klaverjassen",
+      "address": "Van Sytzemaweg 6",
+      "city": "Driezum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Uit eigen Facebookberichten overgenomen 2026-berichten nodigen publiek uit voor klaverjassen en eten; vrije inloop in café aannemelijk maar niet afzonderlijk geverifieerd.",
+      "alcohol": "Als bar vermeld in OSM-afgeleide kaart en als café bij Uitagenda; geen rechtstreeks gecontroleerde eigen bier-/wijnkaart, vergunning of alcoholverkoop in 2026.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen sociale berichten noemen enkele cafetaria-openingsmomenten, niet een volledig caférooster. AlleBiz en Restaurant Guru publiceren overeenkomende maar niet-primair geverifieerde cafetariauren.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: https://www.bars10.com/NL/Driezum/551117391621356/Caf%C3%A9-Cafetaria-Us-Th%C3%BAs toont aan Facebook toegeschreven eigen berichten op 05-08, 06-08, 07-08 en 24-09-2026, waaronder klaverjassen en cafetariaopenstelling; https://www.uitagenda.nl/locaties/cafe-us-thus-driesum beschrijft café, drankje, biljarten en publieke gezelligheid; https://www.cartogiraffe.com/nederland/nederland/frysl%C3%A2n/dantumadiel/driezum/leijensingel/ noemt OSM-bar op Van Sytzamawei 6. Adresbron schrijft Van Sytzemaweg, andere Van Sytzamawei: BAG-straatnaam nog controleren. https://www.allebiz.nl/caf-u-e-cafetaria-us-th-u-fas-0511-421-902 geeft cafetariauren, niet overgenomen als caféuren. Geen eigen directe alcoholbevestiging, sluiting of laatste toegang. Geen marker gegokt.",
+      "features": "D0 Dantumadiel / Driezum; BAG-straatspelling, alcoholaanbod en caférooster verifiëren",
+      "website": "",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.bars10.com/NL/Driezum/551117391621356/Caf%C3%A9-Cafetaria-Us-Th%C3%BAs",
+        "https://www.uitagenda.nl/locaties/cafe-us-thus-driesum",
+        "https://www.cartogiraffe.com/nederland/nederland/frysl%C3%A2n/dantumadiel/driezum/leijensingel/",
+        "https://www.allebiz.nl/caf-u-e-cafetaria-us-th-u-fas-0511-421-902"
+      ],
+      "original_status": "Caféfunctie en recente sociale berichten ondersteund; alcoholaanbod en actuele reguliere toegang nog niet primair bevestigd, daarom verborgen."
     }
   ],
   "admission_policies": [
