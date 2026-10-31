@@ -21,12 +21,41 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual([r["id"] for r in report["regions"]], ["friesland", "new-region"])
         f = report["regions"][0]
         self.assertEqual(f["with_website_url"], 1)
+        self.assertEqual(f["without_website_url"], 1)
         self.assertEqual(f["with_recorded_review_date"], 1)
+        self.assertEqual(f["without_recorded_review_date"], 1)
+        self.assertEqual(f["with_opening_source_url"], 0)
+        self.assertEqual(f["with_closing_source_url"], 0)
         self.assertEqual(f["with_coordinates"], 1)
+        self.assertEqual(f["without_coordinates"], 1)
+        self.assertEqual(f["with_geocode_blocked"], 0)
+        self.assertEqual(f["with_any_exact_opening"], 0)
         self.assertEqual(f["with_any_exact_closing"], 1)
+        self.assertEqual(f["without_any_exact_closing"], 1)
         self.assertEqual(f["with_any_explicit_last_entry"], 1)
+        self.assertEqual(f["without_explicit_last_entry"], 1)
         self.assertEqual(f["shared_address_group_count"], 1)
         self.assertEqual(f["shared_address_candidates"][0]["venue_ids"], ["a", "b"])
+
+    def test_gap_metrics_do_not_treat_unverified_data_as_complete(self):
+        dataset = {"regions": [], "places": [
+            {"id": "a", "region": "r", "city": "X", "address": "Street 1",
+             "opening": {"vr": "17:00"}, "closing": {"vr": "?"},
+             "geocode_blocked": True, "opening_source": "https://example.org/hours"},
+            {"id": "b", "region": "r", "city": "X", "address": "Street 2",
+             "closing": {"vr": "01:00"}, "closing_source": "https://example.org/close",
+             "geo": {"lat": 53.0, "lon": 6.0}},
+        ]}
+        r = build_report(dataset, "2026-10-31")["regions"][0]
+        self.assertEqual(r["with_any_exact_opening"], 1)
+        self.assertEqual(r["with_opening_source_url"], 1)
+        self.assertEqual(r["with_closing_source_url"], 1)
+        self.assertEqual(r["with_geocode_blocked"], 1)
+        self.assertEqual(r["without_coordinates"], 1)
+        self.assertEqual(r["without_any_exact_closing"], 1)
+        self.assertEqual(r["without_explicit_last_entry"], 2)
+        self.assertEqual(r["without_website_url"], 2)
+        self.assertEqual(r["without_recorded_review_date"], 2)
 
     def test_unknown_or_nonexact_times_not_counted(self):
         dataset = {"regions": [], "places": [{"id": "x", "region": "r", "city": "A",
