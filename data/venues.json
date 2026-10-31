@@ -28229,6 +28229,91 @@
         "https://www.tripadvisor.be/Restaurant_Review-g8505730-d8658741-Reviews-Cafe_Restaurant_De_Zwarte_Haan-Sint_Jacobiparochie_Friesland_Province.html"
       ],
       "original_status": "Exploitantwebsite actueel gecontroleerd 31-10-2026; exacte reguliere uren bevestigd. Losse alcoholkaart en binnenkomstdeadline onbekend."
+    },
+    {
+      "id": "cafe-restaurant-de-prins-makkum-20261031",
+      "name": "Café Restaurant De Prins",
+      "type": "Café-restaurant (exploitatie na verbouwingsaankondiging te controleren)",
+      "address": "Kerkstraat 1",
+      "city": "Makkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "VVV en exploitant beschrijven publieke caféfunctie en een drankje zonder maaltijd; daadwerkelijke toegang na aangekondigde verbouwing niet bevestigd.",
+      "alcohol": "Tripadvisor noemt serveert alcohol en wijn/bier; bezoekersrecensies juli/september 2026 noemen wijn. Geen actueel bedrijfseigen alcoholmenu gelezen.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "closing_quality": "Eigen homepage toont historisch regulier rooster ma/wo–zo 10–22, di gesloten, maar eigen aankondiging zegt dat na september 2026 een verbouwing volgt; huidige oktoberopening niet bevestigd.",
+      "closing_notes": "31-10-2026: eigen homepage en evenementpagina bekeken. Eigen https://www.deprinsmakkum.nl/hotel-de-prins meldt geplande verbouwing na het zomerseizoen en theatervoorstelling 12–13 september. Recensie september 2026 bevestigt exploitatie toen, niet na verbouwing. Geen reguliere uren of open-status voor oktober overgenomen. Verborgen tot actuele bevestiging.",
+      "website": "https://www.deprinsmakkum.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.deprinsmakkum.nl/hotel-de-prins",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/3192144646/cafe-restaurant-de-prins",
+        "https://www.inmakkum.nl/event/net-kinne-koese-yn-hotel-de-prins/",
+        "https://www.tripadvisor.be/Restaurant_Review-g1022345-d6976775-Reviews-Cafe_Restaurant_de_Prins-Makkum_Friesland_Province.html"
+      ],
+      "original_status": "Voorlopige verborgen kandidaat; exploitatie vóór septemberverbouwing bevestigd, actuele opening na aankondiging onbekend."
+    },
+    {
+      "id": "grand-cafe-de-alde-stempel-makkum-20261031",
+      "name": "Grand café De Alde Stempel",
+      "type": "Grand café / borrel (te verifiëren)",
+      "address": "Plein 15",
+      "city": "Makkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "VVV Zuidwest Friesland noemt publiek grand café voor koffie, borrel, bites en maaltijd; eigen bevestiging niet bereikbaar.",
+      "alcohol": "VVV noemt 'borrel' zonder actuele gespecificeerde alcoholkaart; losse alcoholbestelling niet rechtstreeks geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "closing_quality": "Geen actuele primaire openingstijden gevonden.",
+      "closing_notes": "31-10-2026: actuele VVV-vermelding Plein 15 en grand-caféconcept bekeken; eigen domein aldestempel.nl bij eerdere en huidige zoekronde niet inhoudelijk uitleesbaar. Geen actuele exploitatie, alcoholsoorten, rooster of laatste toegang primair bevestigd. Daarom verborgen kandidaat.",
+      "website": "",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.waterlandvanfriesland.nl/nl/locaties/2349967872/grand-cafe-de-alde-stempel",
+        "https://aldestempel.nl/"
+      ],
+      "original_status": "Alleen actuele VVV-vermelding, geen primaire exploitatieverificatie."
     }
   ],
   "admission_policies": [
