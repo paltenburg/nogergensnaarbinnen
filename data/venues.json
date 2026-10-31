@@ -10658,7 +10658,7 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://barsybs.nl/",
-      "closing_notes": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend.",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend. Aanvullende controle 31-10-2026: 2026 KvK-aggregator Compadex meldt Sybs op 2A (KvK 97008966, bijgewerkt 29-05-2026), terwijl exploitant Sybs 2 noemt; exploitant Doelebar noemt eveneens 2A. Adresconflict blijft ONOPGELOST; geen geforceerde geocode of samenvoeging.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://barsybs.nl/",
       "other_sources": [
@@ -10678,7 +10678,7 @@
         "za": "12:00",
         "zo": "21:00"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-10-31"
     },
     {
       "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
@@ -28360,9 +28360,11 @@
       "other_sources": [
         "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/freezone",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-freezone-11786746.html",
-        "https://www.leeuwarden058.nl/poolcafe-freezone-8911hb/"
+        "https://www.leeuwarden058.nl/poolcafe-freezone-8911hb/",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/poolcafe-freezone-leeuwarden-01137411-000008979847",
+        "https://www.leeuwardenstudentcity.nl/hotspots/poolcafe-freezone"
       ],
-      "geocode_notes": "Exploitant noemt Grote Hoogstraat 24; gidsen noemen 24A. Niet automatisch 24A accepteren zonder exact huisnummerbewijs.",
+      "geocode_notes": "31-10-2026: eigen exploitant en KvK-registratie 01137411 (bron Company.info, KVK stand 25-02-2026), Leeuwarden058 en Student City bevestigen Grote Hoogstraat 24; alleen Firmania/Cylex noemen 24A. Huisnummer 24 voldoende onderbouwd voor exacte PDOK-poging, maar niet handmatig 24A of coördinaten overnemen; PDOK-match moet exact zijn.",
       "original_status": "Eigen actieve exploitantwebsite gecontroleerd 31-10-2026; actuele sociale bevestiging niet apart getest."
     },
     {
