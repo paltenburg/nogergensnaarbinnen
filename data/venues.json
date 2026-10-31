@@ -18202,7 +18202,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publiek dorpscafé met snackbar; exploitant bevestigt vrijdag en zaterdag vanaf 16:00.",
-      "alcohol": "Authentiek bruin café volgens eigen website; concrete drankenkaart niet afzonderlijk gecontroleerd.",
+      "alcohol": "Eigen https://www.cafedebuntebok.nl/Us-Cafe/ noemt expliciet een vers getapt biertje; publieke bruine kroeg bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -18215,12 +18215,13 @@
       },
       "closing_quality": "Eigen website bevestigt vr/za vanaf 16:00, maar geen eindtijd; gidsen conflicteren",
       "closing_source": "https://www.cafedebuntebok.nl/",
-      "closing_notes": "Eigen site rechtstreeks geraadpleegd 30-10-2026: vrijdag/zaterdag vanaf 16:00, andere reguliere dagen niet open volgens site; cafetaria apart vr/za 17–20. Gidsen geven 22:00 of 01:00 als eindtijd, niet als bedrijfseigen bevestigd. Laatste toegang onbekend. Site heeft agenda met toekomstige november-evenementen.",
+      "closing_notes": "Eigen site rechtstreeks geraadpleegd 30-10-2026: vrijdag/zaterdag vanaf 16:00, andere reguliere dagen niet open volgens site; cafetaria apart vr/za 17–20. Gidsen geven 22:00 of 01:00 als eindtijd, niet als bedrijfseigen bevestigd. Laatste toegang onbekend. Site heeft agenda met toekomstige november-evenementen. | 31-10-2026: https://www.cafedebuntebok.nl/Us-Cafe/ bevestigt vers getapt bier; https://www.cafedebuntebok.nl/Menukaart/ toont alleen cafetariauren 17–20, niet als café-sluiting gebruikt. Eigen website heeft 2026 vrijwilligersavond en aankomende novemberagenda; geen sluituren toegevoegd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafedebuntebok.nl/",
       "other_sources": [
         "https://www.cafedebuntebok.nl/Menukaart/",
-        "https://www.rtvnof.nl/agenda/vernieuwd-cafe-de-bunte-bok-opent-haar-deuren-met-een-feestelijke-heropening/"
+        "https://www.rtvnof.nl/agenda/vernieuwd-cafe-de-bunte-bok-opent-haar-deuren-met-een-feestelijke-heropening/",
+        "https://www.cafedebuntebok.nl/Us-Cafe/"
       ],
       "original_status": "Eigen exploitant bevestigt actuele dorpscaféfunctie en adres.",
       "geo": {
@@ -18229,8 +18230,8 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Doarpsstrjitte 20, 9134NN Ljussens"
       },
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -18239,7 +18240,8 @@
         "vr": "16:00",
         "za": "16:00",
         "zo": "—"
-      }
+      },
+      "website_provenance": "Eigen homepage, Ús Café en cafetariamenupagina rechtstreeks gecontroleerd 31-10-2026."
     },
     {
       "id": "cafe-de-kalkman-wierum-bc9219c",
