@@ -28494,6 +28494,53 @@
         "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399"
       ],
       "original_status": "Eigen exploitantwebsite actueel bereikbaar, maar fysieke co-locatie met Sybs nog verifiëren."
+    },
+    {
+      "id": "de-lytse-pub-leeuwarden-20261031",
+      "name": "De Lytse Pub",
+      "type": "Pub / feestcafé / cocktailbar",
+      "address": "Oude Doelesteeg 14",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site bevestigt openbare kroeg voor volwassen stappubliek met borrel, live muziek en dansen; besloten cocktailworkshops en feesten zijn apart.",
+      "alcohol": "Eigen site noemt Guinness, Affligem, Mannenliefde, Heineken, Pornstar Martini, Pinot Grigio en shots.",
+      "opening": {
+        "ma": "—",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "20:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "21:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "03:00",
+        "wo": "03:00",
+        "do": "05:00",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "03:00"
+      },
+      "opening_source": "https://www.delytseleeuwarden.nl/openingstijden/",
+      "closing_source": "https://www.delytseleeuwarden.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen website ma reguliere toegang gesloten, di/wo 21–03, do 20–05, vr/za 19–05, zo 21–03; feestdagen afwijkend, laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: eigen homepage en openingstijdenpagina rechtstreeks gecontroleerd. Maandag geen publieke reguliere inloop; ma/di overdag wel besloten cocktailworkshops/feesten op afspraak, niet als publiek open geteld. Eigen site zegt tijdens feestdagen alle dagen open zonder vaste afwijkende uren; tijdsfilter op feestdagen kan onjuist zijn, controle nodig. Laatste toegang onbekend. Officiële Alcoholwetvergunning 2025 is ondersteunend, geen bewijs van dagelijkse exploitatie.",
+      "website": "https://www.delytseleeuwarden.nl/",
+      "other_sources": [
+        "https://www.delytseleeuwarden.nl/openingstijden/",
+        "https://www.delytseleeuwarden.nl/donderdag-live-de-lytse/",
+        "https://www.delytseleeuwarden.nl/vrijgezellenfeest/",
+        "https://zoek.officielebekendmakingen.nl/gmb-2025-102227.html",
+        "https://tablova.nl/zaak/leeuwarden/de-lytse-pub-n3066854028"
+      ],
+      "original_status": "Eigen exploitantwebsite en recent lokaal horeca-overzicht gecontroleerd 31-10-2026; live avondopening niet afzonderlijk getest."
     }
   ],
   "admission_policies": [
