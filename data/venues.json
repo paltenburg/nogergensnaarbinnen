@@ -28402,6 +28402,98 @@
         "https://leeuwarden.uitloper.nu/locaties/cafe-baljee"
       ],
       "original_status": "Exploitantberichten tot juli 2026 tonen operationeel café; actuele oktoberstatus en exacte uren niet rechtstreeks bevestigd."
+    },
+    {
+      "id": "cafe-de-nachtwacht-leeuwarden-20261031",
+      "name": "Café De Nachtwacht",
+      "type": "Nachtcafé / feestcafé",
+      "address": "Oude Doelesteeg 8",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website beschrijft publieke avondkroeg met wekelijkse themafeesten, vrije inloop en mogelijkheid voor privéfeesten apart.",
+      "alcohol": "Eigen website noemt expliciet wodka bij Mannen Maandag en drankjes; publiek alcoholaanbod bevestigd.",
+      "opening": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "21:00"
+      },
+      "closing": {
+        "ma": "05:00",
+        "di": "05:00",
+        "wo": "05:00",
+        "do": "05:00",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "05:00"
+      },
+      "opening_source": "https://www.nachtwachtleeuwarden.nl/",
+      "closing_source": "https://www.nachtwachtleeuwarden.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen website dagelijks tot 05:00, ma–za vanaf 20:00 en zo vanaf 21:00; laatste toegang niet gepubliceerd.",
+      "closing_notes": "31-10-2026: eigen website rechtstreeks gecontroleerd, ook bezoekadres Oude Doelesteeg 8. Onafhankelijke 2026-adres/urencontrole https://tablova.nl/zaak/leeuwarden/nachtwacht-n2102872856 bevestigt rooster. Geen aparte laatste-toegangstijd of actuele evenementuitzonderingen gevonden.",
+      "website": "https://www.nachtwachtleeuwarden.nl/",
+      "other_sources": [
+        "https://www.visitleeuwarden.com/locaties/3358067896/cafe-de-nachtwacht",
+        "https://tablova.nl/zaak/leeuwarden/nachtwacht-n2102872856"
+      ],
+      "original_status": "Exploitantwebsite en actuele 2026-lokale vermeldingen bevestigen nachtbar; specifieke live opening vandaag niet gecontroleerd."
+    },
+    {
+      "id": "de-doelebar-leeuwarden-20261031",
+      "name": "De Doelebar",
+      "type": "Biercafé / studenten- en buurtcafé",
+      "address": "Oude Doelesteeg 2A",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site: openbare kroeg met vrije bierinloop, darts en spelletjes; geen verplichte reservering of maaltijd.",
+      "alcohol": "Eigen site noemt Grolsch Puur Weizen 5,1%, Grolsch Pils 5% en Herfstbok 6,5%.",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "19:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:45",
+        "vr": "02:45",
+        "za": "02:45",
+        "zo": "01:00"
+      },
+      "opening_source": "https://doelebar.nl/locatie/",
+      "closing_source": "https://doelebar.nl/locatie/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen website expliciet ma–wo 15–02, do/vr 15–02:45, za 19–02:45, zo 16–01; laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: eigen https://doelebar.nl/ en https://doelebar.nl/locatie/ rechtstreeks gecontroleerd. Eigen telefoon 058-2133213 en bierkaart onderscheiden deze onderneming van Bar Sybs. Adres 2A op eigen site, maar Visit Leeuwarden en KvK-aggregator noemen ook Bar Sybs op 2A terwijl Sybs eigen site 2 noemt; fysieke ingangen/unit nog niet onafhankelijk bewezen. Daarom géén marker totdat exacte deur en BAG-unit gecontroleerd zijn.",
+      "geocode_blocked": true,
+      "geocode_notes": "Oude Doelesteeg 2A door exploitant bevestigd, maar Visit Leeuwarden/KvK noemen ook Bar Sybs op 2A (Sybs zelf 2). Mogelijk twee ingangen in hetzelfde pand; geen BAG-marker toekennen zonder fysieke unit-verificatie.",
+      "website": "https://doelebar.nl/",
+      "other_sources": [
+        "https://www.visitleeuwarden.com/en/locations/797974975/de-doelebar",
+        "https://www.visitleeuwarden.com/en/locations/1361140994/bar-sybs",
+        "https://www.compadex.com/nl/businesses/nl/doele-bar-01089728-02123258",
+        "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399"
+      ],
+      "original_status": "Eigen exploitantwebsite actueel bereikbaar, maar fysieke co-locatie met Sybs nog verifiëren."
     }
   ],
   "admission_policies": [
