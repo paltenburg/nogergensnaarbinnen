@@ -27940,6 +27940,49 @@
         "https://www.friesland.nl/nl/locaties/3050877960/kelder-65"
       ],
       "features": "Cocktailbar in kelder van Roast, eigen openingstijden"
+    },
+    {
+      "id": "la-fontaine-heerenveen-20261031",
+      "name": "La Fontaine",
+      "type": "Restaurant / lunchroom / borrel",
+      "address": "Gemeenteplein 59",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen 'Over ons' en contactpagina bevestigen openbaar restaurant/lunchroom waar bezoekers terechtkunnen voor lunch, diner of losse borrel; reservering niet als voorwaarde genoemd.",
+      "alcohol": "Eigen site biedt High Wine, Bier arrangement en High Cocktail met wijn, speciaalbier en cocktails. Gewone losse borrel wordt genoemd, maar specifieke drankbestelling buiten arrangement nog niet afzonderlijk getest.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.lafontaineheerenveen.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.lafontaineheerenveen.nl/contact/",
+      "closing_quality": "Eigen actuele contactpagina bevestigt ma 10–18, di–zo 10–23; evenement- en feestdagenafwijkingen mogelijk.",
+      "closing_notes": "Laatste toegang onbekend. High Cocktail-arrangement moet vooraf gereserveerd worden; dat is geen eis voor reguliere restaurant- of borrelinloop. Geen BAG-marker verzonnen.",
+      "website": "https://www.lafontaineheerenveen.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.lafontaineheerenveen.nl/over-la-fontaine/",
+        "https://www.lafontaineheerenveen.nl/arrangementen/cocktail-arrangement/"
+      ],
+      "features": "Lunchroom, wijn, speciaalbier en cocktails; Heerenveen centrum"
     }
   ],
   "admission_policies": [
