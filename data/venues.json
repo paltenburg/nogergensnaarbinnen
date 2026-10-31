@@ -27134,6 +27134,49 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Seizoenshoreca; november alleen zondag; december besloten"
+    },
+    {
+      "id": "het-ambacht-noordwolde-20261031",
+      "name": "Het Ambacht",
+      "type": "Lunchroom / restaurant / borrel",
+      "address": "Hoofdstraat Oost 1",
+      "city": "Noordwolde",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website beschrijft publiek lunchroom/restaurant met borrelplanken; losse drankinloop zonder maaltijd niet expliciet bevestigd.",
+      "alcohol": "Eigen lunchroompagina noemt bij diner expliciet een goed glas wijn; alcohol bevestigd, geen afzonderlijke volledige drankkaart ingezien.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://hetambachtnoordwolde.nl/nl/pages/contact",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://hetambachtnoordwolde.nl/nl/pages/contact",
+      "closing_quality": "Eigen contactpagina publiceert weekuren; wo/do/zo tot 17:00, vr/za tot 21:00.",
+      "closing_notes": "Eigen lunchroompagina bevestigt wijn bij diner, maar niet dat losse drankinloop altijd zonder maaltijd kan. Laatste toegang onbekend; seizoensuitzonderingen niet apart vermeld.",
+      "website": "https://hetambachtnoordwolde.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://hetambachtnoordwolde.nl/pages/lunchroom",
+        "https://www.kolonienvanweldadigheid.nl/nl/locaties-overzicht/1135255632/het-ambacht-lunchroom-delicatessen"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Wijn; borrelplanken; vrijdag/zaterdag tot 21:00"
     }
   ],
   "admission_policies": [
