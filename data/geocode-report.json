@@ -1,9 +1,27 @@
 {
-  "total": 437,
-  "with_coordinates": 413,
-  "without_coordinates": 24,
-  "added_in_this_run": 1,
+  "total": 565,
+  "with_coordinates": 514,
+  "without_coordinates": 51,
+  "added_in_this_run": 114,
   "unmatched": [
+    {
+      "name": "Bar Bet",
+      "address": "Wed 1",
+      "city": "Utrecht",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Bar Patine",
+      "address": "Oudegracht 101-103",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Bierlokaal de Luifel",
+      "address": "Neude 35-36",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
+    },
     {
       "name": "Bij Guusjes",
       "address": "'s Gravesandestraat 27",
@@ -15,6 +33,12 @@
       "address": "Pratumplaats 2A",
       "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café de Beurs",
+      "address": "Neude 37-39",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Café Heen en Weer",
@@ -41,10 +65,34 @@
       "reason": "no-exact-PDOK-match"
     },
     {
+      "name": "Het Oude Tolhuys",
+      "address": "Weg naar Rhijnauwen 13-15",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "KABUL à GoGo",
+      "address": "Gietijzerstraat 3-5",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
       "name": "Kleine Max",
       "address": "J.P. Coenstraat 69",
       "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Le French Café",
+      "address": "Voorstraat 16-18",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Le Journal",
+      "address": "Neude 32-34",
+      "city": "Utrecht",
+      "reason": "no-number-or-unparseable-address"
     },
     {
       "name": "Nomono",
@@ -89,6 +137,12 @@
       "reason": "no-exact-PDOK-match"
     },
     {
+      "name": "Eetcafé Spinoza",
+      "address": "Eewal 50-52",
+      "city": "Leeuwarden",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
       "name": "Bar Sybs",
       "address": "Oude Doelesteeg 2",
       "city": "Leeuwarden",
@@ -128,7 +182,13 @@
       "name": "Café Restaurant De Smidte",
       "address": "Súd 106-108",
       "city": "Workum",
-      "reason": "no-exact-PDOK-match"
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Grand Café It Skippershûs",
+      "address": "De Kuilart 1",
+      "city": "Koudum",
+      "reason": "address-unverified"
     },
     {
       "name": "Eetcafé De Pleats",
@@ -143,10 +203,112 @@
       "reason": "no-exact-PDOK-match"
     },
     {
+      "name": "Eetcafé Wever",
+      "address": "Hoofdweg 124",
+      "city": "Oldeholtpade",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Spoarke Blije",
+      "address": "Farrewei 22",
+      "city": "Blije",
+      "reason": "address-unverified"
+    },
+    {
       "name": "Karaokebar de Nachtegaal",
       "address": "Kleine Kerkstraat 4",
       "city": "Sneek",
       "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Eetcafé Bar Hulst",
+      "address": "Vaart Zuidzijde 9",
+      "city": "Appelscha",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Paradiso Bar",
+      "address": "Voorstraat 65-A",
+      "city": "Kollum",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Hotel Eetcafé Duhoux",
+      "address": "Greate Buorren 4-8",
+      "city": "Wirdum",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Eetcafé De Boeier",
+      "address": "Harinxmastrjitte 69-73",
+      "city": "Heeg",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Bar 't Kypmantsje",
+      "address": "Popmawal 2-3",
+      "city": "IJlst",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Café Cafetaria Us Thús",
+      "address": "Van Sytzemaweg 6",
+      "city": "Driezum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café Veldzicht",
+      "address": "Roptawei 14",
+      "city": "Metslawier",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Hotel Restaurant Toxopeus",
+      "address": "De Singel 5",
+      "city": "Anjum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Het Raadsel van de Wadden",
+      "address": "Oostmahorn 31",
+      "city": "Anjum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "De Blije Dobber",
+      "address": "Oostmahorn 29",
+      "city": "Anjum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Aan de Hoarne",
+      "address": "Syl 12-A",
+      "city": "Terherne",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Restaurant De Brekken",
+      "address": "Brekkenweg 10",
+      "city": "Lemmer",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Club 24",
+      "address": "Kortestreek 24-25",
+      "city": "Lemmer",
+      "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Eetkavee Fryske Pub",
+      "address": "Hellingpad 5",
+      "city": "Echtenerbrug",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Restaurant Het Bolwerk",
+      "address": "Voorstreek 116-117",
+      "city": "Sloten",
+      "reason": "no-number-or-unparseable-address"
     }
   ]
 }
