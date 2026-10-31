@@ -67,6 +67,10 @@ def request(query):
 
 
 def geo(place):
+    # A valid BAG address is not proof that the venue uses that entrance.
+    # Never geocode a record whose actual street number is disputed.
+    if place.get("geocode_blocked"):
+        return None, "address-unverified"
     parts = addr_parts(place.get("address"))
     if not parts:
         return None, "no-number-or-unparseable-address"
@@ -122,6 +126,14 @@ def main():
     updated = 0
     failures = []
     for index, place in enumerate(dataset["places"], 1):
+        if place.get("geocode_blocked"):
+            # Also discard stale coordinates from older generated datasets.
+            place.pop("geo", None)
+            failures.append({
+                "name": place["name"], "address": place.get("address", ""),
+                "city": place.get("city"), "reason": "address-unverified",
+            })
+            continue
         existing = place.get("geo")
         if isinstance(existing, dict) and existing.get("lat") and existing.get("lon"):
             continue
