@@ -23562,6 +23562,53 @@
         "https://snackbarindebuurt.nl/snackbars-in-ijlst/snackbar-de-witte-kat-bar-t-kypmantsje-in-ijlst/"
       ],
       "original_status": "Bedrijfseigen barwebsite, lokale ondernemersvereniging en evenement in 2026 bevestigen bar als exploitatieconcept; vaste uren/laatste toegang onbevestigd."
+    },
+    {
+      "id": "cafe-cafetaria-de-viersprong-kootstertille-20261031",
+      "name": "Café-Cafetaria De Viersprong",
+      "type": "Bruin café / eetcafé en cafetaria",
+      "address": "Tillebuorren 2",
+      "city": "Kootstertille",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Fietsnetwerk beschrijft een vrij toegankelijk bruin café met terras, naast cafetaria; officiële bestelwebsite noemt eetcafé en café. Geen toegangsrestrictie aangetroffen.",
+      "alcohol": "Eigen bestelmenukaart bevat alcoholische dranken, waaronder Hertog Jan, Heineken en hard iced tea; verkoop aan 18+.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen bestelwebsite noemt uitsluitend bezorgtijden, niet opening/sluiting van het café. Fietsnetwerk toont een weekrooster met bij mooi weer ruimere uren; andere gidsen wijken af. Geen vaste café-uren als zeker aangenomen.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: bedrijfseigen https://www.eetcafe-cafe-cafetaria-de-viersprong.nl/ toont café-identiteit, actuele bestelkaart en 18+ bier. Eigen https://www.eetcafe-cafe-cafetaria-de-viersprong.nl/contact noemt adres Tillebuorren 2 en uitsluitend BEZORGtijden (wo–zo 16:30–19:45); die zijn niet caféuren. https://www.fietsnetwerk.nl/knooppunt/cafe-cafetaria-de-viersprong-kootstertille/ noemt vrij toegankelijk bruin café, uren ma/di dicht, wo 16–20, do 11:30–20, vr/za 11:30–23:45, zo 15–20, maar zegt ook dat bij mooi weer langer wordt geopend. https://snackbarindebuurt.nl/snackbars-in-kootstertille/eetcafe-cafe-cafetaria-de-viersprong-in-kootstertille/ geeft afwijkende vr/za-eindtijden 20:00; niet overgenomen. Laatste toegang onbekend, geen marker zonder BAG-match. Niet verwarren met gelijknamige bedrijven in Markelo, Kessel of De Rips.",
+      "features": "D0 Achtkarspelen / Kootstertille; café en snackbar, horeca- en bezorgtijden onderscheiden",
+      "website": "https://www.eetcafe-cafe-cafetaria-de-viersprong.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Bedrijfseigen bestelwebsite met alcoholkaart en contactpagina rechtstreeks gelezen 31-10-2026",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.eetcafe-cafe-cafetaria-de-viersprong.nl/contact",
+        "https://www.fietsnetwerk.nl/knooppunt/cafe-cafetaria-de-viersprong-kootstertille/",
+        "https://snackbarindebuurt.nl/snackbars-in-kootstertille/eetcafe-cafe-cafetaria-de-viersprong-in-kootstertille/",
+        "https://www.oozo.nl/bedrijven/achtkarspelen/noord/kootstertille/1951923/eetcafe-cafe-cafetaria-de-viersprong"
+      ],
+      "original_status": "Actuele bestelwebsite met 18+-alcoholaanbod en lokaal café bevestigd; café-weekuren niet primair geverifieerd."
     }
   ],
   "admission_policies": [
