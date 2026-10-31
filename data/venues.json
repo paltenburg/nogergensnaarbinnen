@@ -28586,6 +28586,96 @@
         "https://pyramidebuitenpost.nl/afhalen/"
       ],
       "original_status": "Actuele exploitantwebsite bevestigt restaurant, uren en alcohol bij groepsarrangement, niet vrije alcoholinloop."
+    },
+    {
+      "id": "strandpaviljoen-t-zilt-harlingen-20261031",
+      "name": "Strandpaviljoen 't Zilt",
+      "type": "Strandpaviljoen / borrel",
+      "address": "Westerzeedijk 2",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Officiële toeristische stadsgids noemt expliciet een losse borrel op het terras met bier, wijn en cocktails; eigen website bevestigt actuele exploitatie en adres. Seizoens- en weersafhankelijk.",
+      "alcohol": "Harlingen Welkom aan Zee vermeldt expliciet wijn, bier en cocktails bij vrije borrel; actuele eigen drankkaart niet aangetroffen.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Geen betrouwbaar actueel eigen weekrooster. Gidsen noemen tegenstrijdige dagen en einduren; niet overgenomen.",
+      "closing_notes": "31-10-2026: actuele eigen site bevestigt horeca en adres. Stadsgids bevestigt borrel met bier/wijn/cocktails. Seizoens- en weersinvloed; verschillende gidsen geven tegenstrijdige openingstijden (o.a. ma/di). Alle daguren en laatste toegang onbekend tot eigen actuele weekplanning.",
+      "features": "Strandpaviljoen aan de Waddenzee; bier, wijn, cocktails; seizoen/weersafhankelijk",
+      "website": "https://tzilt.nl/",
+      "other_sources": [
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/1750383463/strandpaviljoen-t-zilt",
+        "https://to-the-beach.com/beach-bar/netherlands/harlingen/t-zilt",
+        "https://www.allebiz.nl/strandpaviljoen-t-zilt-0517-419-307"
+      ],
+      "original_status": "Eigen website en lokale toeristische gids gecontroleerd 31-10-2026; exacte uren en laatste toegang onbekend."
+    },
+    {
+      "id": "bar-bistro-duco-leeuwarden-20261031",
+      "name": "Bar Bistro DuCo Leeuwarden",
+      "type": "Bistro / cocktail- en borrelbar",
+      "address": "Hofplein 29",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitantwebsite nodigt uit voor een losse borrel en cocktails; dineren vereist volgens afzonderlijke pagina een reservering, losse drank niet expliciet reserveringsplichtig.",
+      "alcohol": "Eigen exploitantwebsite noemt cocktails, wijnkaart, drankenkaart en alcoholisch drankje bij losse borrel.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.ducoleeuwarden.nl/nl",
+      "closing_source": "https://www.ducoleeuwarden.nl/nl",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Nederlandstalige exploitant-homepage vermeldt ma–zo 10:00–23:00. Duitstalige versie noemt ma–za; zondag apart bij exploitant verifiëren.",
+      "closing_notes": "31-10-2026: Nederlandse eigen homepage ma–zo 10:00–23:00; aparte restaurantpagina noemt diner 17–22 en vooraf reserveren, niet als baruren of laatste toegang gebruiken. Duitse taalversie laat zondag weg; zondag 10–23 is Nederlands primair, maar expliciet conflicterend taalversieveld. Feestdagen kunnen afwijken; laatste toegang onbekend.",
+      "features": "Hofplein; vrije borrel, cocktails, wijn en bites; restaurant en hotel",
+      "website": "https://www.ducoleeuwarden.nl/nl",
+      "other_sources": [
+        "https://www.ducoleeuwarden.nl/nl/uit-eten-leeuwarden",
+        "https://www.ducoleeuwarden.nl/de/"
+      ],
+      "original_status": "Nederlandstalige exploitantwebsite gecontroleerd 31-10-2026; borrel en ma–zo-uren bevestigd, zondagversieconflict gemarkeerd."
     }
   ],
   "admission_policies": [
