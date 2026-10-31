@@ -5,6 +5,16 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+## Aanvullend checkpoint 31-10-2026 — La Fontaine Heerenveen (master **595**)
+
+**1 extra Friese locatie na de zes eerder genoemde toegevoegd**, geen bestaande records gewijzigd: **La Fontaine**, Gemeenteplein 59 Heerenveen, ID `la-fontaine-heerenveen-20261031`, commit [e9b7a89](https://github.com/paltenburg/nogergensnaarbinnen/commit/e9b7a899d4106d6003336b7d22521f359ed4cf82). Op **31-10-2026** werkelijk gecontroleerd: eigen https://www.lafontaineheerenveen.nl/over-la-fontaine/ bevestigt openbare lunchroom/restaurant met borrelfunctie; https://www.lafontaineheerenveen.nl/contact/ bevestigt **ma 10–18, di–zo 10–23**, adres en vrije borrel; https://www.lafontaineheerenveen.nl/arrangementen/cocktail-arrangement/ bevestigt cocktail-, bier- en wijnarrangementen. De arrangementen vereisen vooraf reserveren, maar **niet** als voorwaarde voor normale borrel genoteerd. Specifieke losse drankbestelling niet afzonderlijk geverifieerd, laatste toegang onbekend; geen coördinaten verzonnen. **Totaal 595 = Utrecht 224 + Friesland 371**, 595 unieke IDs. 
+
+**Onafhankelijke kandidaat onderzocht maar niet toegevoegd:** **De Dikke Draai**, Gedempte Vaart 24 Surhuisterveen. Eigen https://dedikkedraai.nl/ en https://dedikkedraai.nl/contact/ bevestigen openbare restaurant-/bowlingborrel, di–za vanaf 11:00, ma/zo reguliere toegang gesloten; eigen https://dedikkedraai.nl/catering/ noemt bier en wijn **bij catering**, maar actuele vrije alcoholverkoop **in het restaurant** is niet rechtstreeks bevestigd. Exacte einduren ontbreken; externe gidsen verschillen (21:00/22:00). Volgende run eerst on-premise alcoholbron zoeken; geen fictief rooster. 
+
+**CI:** [#303](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41207509032) geslaagd voor **594**, [#304](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41207650873) **waiting** voor **595** bij check. Geen mobiele of live browserinteractie getest. **Hervat:** #304 / eventuele opvolgende run, BAG-match 7 nieuwe locaties sinds 588, oude 51 unmatched, sync afgeleide bestanden, D0 Friesland en B2; W45-audit vanaf maandag 02-11 10:00. D0 en landelijke D1/D2 nog **open**.
+
+
+
 ## Checkpoint 31-10-2026 14:50–15:xx Europe/Amsterdam — Wolvega, Appelscha en Leeuwarden (master 594)
 
 **Actueel begin:** TODO.md en `data/venues.json` (588 locaties, blob-SHA `3417454`) daadwerkelijk gelezen, plus `data/quality-report.json`, bestaande records, GitHub Actions-status en primaire horecasites. Geen W45-audit verschuldigd: die begint pas **maandag 02-11-2026 10:00 Europe/Amsterdam**. Actieve regio's uit de master: **Utrecht-stad en Friesland**; geen nieuwe regio. De strategie 'opzettelijk grote opdracht' hierboven gelezen en gevolgd. D0 blijft open; landelijke uitbreiding **niet** gestart.
@@ -26,7 +36,7 @@
 
 
 
-**Laatste CI-verificatie 31-10-2026:** [Pages #299](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41205972616) is inmiddels **volledig geslaagd** voor **588 records**, met **20/20 tests**, **537/588** geocodeerd (**51 unmatched**), **1.617 bron-URL's / 645 domeinen**, gegenereerd kwaliteitsrapport voor 2 actieve regio's en succesvol Pages-deployment. Dit bevestigt de 588-recordversie **vóór** de laatste twee broncorrecties; [#301](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41206143739) voor De Markies was bij laatste check nog `in_progress`. Geen live mobiele kaartinteractie getest. `data/geocode-report.json` en `data/source-register.json` op `main` nog achter op 565 totdat dagelijkse synchronisatie werkt.
+**Laatste CI-verificatie 31-10-2026:** [Pages #303](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41207509032) is **geslaagd** voor **594 locaties** (6 nieuwe Friese locaties na de eerdere 588), inclusief workflowstappen voor BAG-adressen, bronregister, kwaliteitsrapport en Pages-deployment. Dit is **geen** live mobiele UI-test. [#304](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41207650873) voor **595** locaties was bij laatste controle nog **waiting**, dus niet als geslaagd of gepubliceerd beschouwen. Afgeleide `data/geocode-report.json` en `data/source-register.json` op `main` liepen nog achter (geocoder ingecheckt 565) tot een geslaagde dagelijkse synchronisatie.
 
 
 
