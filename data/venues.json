@@ -69,8 +69,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen https://neutje.nl/ nodigt studenten en andere bezoekers uit in publiek speciaalbiercafé; menukaart en reserveren beschikbaar, geen reserveringsplicht vermeld.",
+      "alcohol": "Eigen https://neutje.nl/ heeft expliciete bierkaart en noemt meer dan 50 speciaalbieren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "02:00",
@@ -81,10 +81,10 @@
         "za": "04:00",
         "zo": "02:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/cafe-t-neutje/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Eigen website publiceert exact weekrooster inclusief nachtelijke sluitingen, rechtstreeks gecontroleerd 31-10-2026.",
+      "closing_source": "https://neutje.nl/",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen https://neutje.nl/ bevestigt ma/di/zo 10–02, wo 10–02:30, do 10–03, vr/za 09–04. Eigen site vermeldt afwijkende feestdaguren: kerstavond 10–02, eerste kerstdag 11–18, tweede kerstdag 10–02, oudjaarsdag 10–18, nieuwjaarsdag 12–01; niet als gewone weekuren behandelen. Laatste toegang onbekend, ondanks exact sluituur.",
       "features": "Centrum",
       "website": "https://neutje.nl/",
       "other_sources": [
@@ -96,7 +96,21 @@
         "lon": 5.118539,
         "method": "PDOK BAG-adres",
         "matched_address": "Neude 30, 3512AG Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://neutje.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Bedrijfseigen rooster, 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage met volledige week- en feestdagroosters rechtstreeks gecontroleerd 31-10-2026"
     },
     {
       "id": "t-oude-pothuys-c89ea4d",
@@ -658,26 +672,27 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen https://bar-bet.nl/ bevestigt openbare wijnbar met spontane binnenloop en gereserveerde tafels; voor wijn of borrelhap zonder diner welkom.",
+      "alcohol": "Eigen https://bar-bet.nl/ noemt circa 250 wijnen op fles, 30 per glas en cocktails.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "00:00",
-        "di": "—",
-        "wo": "—",
-        "do": "00:00",
-        "vr": "00:00",
-        "za": "00:00",
-        "zo": "00:00"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/bar-bet/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Eigen website: sluiting hangt af van de avond; geen vast HH:MM-rooster. De eerdere gidsuren 00:00 en gesloten di/wo zijn niet actueel bevestigd, dus verwijderd.",
+      "closing_source": "",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: officiële https://bar-bet.nl/ zegt dagelijks open: ma–vr 17:00, za/zo 15:00; vanaf 15:00 weekend wijn en barhappen, diner vanaf 17:00. 'Wanneer we sluiten hangt een beetje af van de avond.' Oude https://centrumutrecht.nl/company/bar-bet/ had di/wo gesloten, vr 15:00 en overige einduren 00:00; die zijn tegenstrijdig met de eigen actuele site. Gestructureerde sluitingen en laatste toegang bewust onbekend. Fysieke BAG-ingang van Wed 1 versus matched_address 'Wed 1-1' nog apart controleren; geen coördinaten gewijzigd.",
       "features": "Borrel / diner",
       "website": "https://bar-bet.nl/",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/"
+        "https://www.uitutrecht.com/uitgaan/",
+        "https://centrumutrecht.nl/company/bar-bet/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -686,19 +701,20 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Wed 1-1, 3512JH Utrecht"
       },
-      "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26",
+      "website_provenance": "Eigen homepage met rooster en wijnbarconcept rechtstreeks gecontroleerd 31-10-2026",
+      "website_checked_on": "2026-10-31",
       "opening": {
         "ma": "17:00",
-        "di": "—",
-        "wo": "—",
+        "di": "17:00",
+        "wo": "17:00",
         "do": "17:00",
-        "vr": "15:00",
+        "vr": "17:00",
         "za": "15:00",
         "zo": "15:00"
       },
-      "opening_source": "https://centrumutrecht.nl/company/bar-bet/",
-      "opening_checked_on": "2026-10-26"
+      "opening_source": "https://bar-bet.nl/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Bedrijfseigen rooster, 31-10-2026"
     },
     {
       "id": "bar-beton-76def5a",
