@@ -29188,6 +29188,53 @@
       "checked_on": "2026-10-31",
       "features": "Brouwerij, proeflokaal; vrije inloop nog niet bevestigd",
       "original_status": "Actuele eigen site met proeflokaal, maar publieke vrije inloop niet afzonderlijk bewezen; verborgen tot nadere bevestiging."
+    },
+    {
+      "id": "lekkernij-dokkum-20261031",
+      "name": "Lekkernij",
+      "type": "Lunchroom/borrel",
+      "address": "Waagstraat 9/11",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke lunchroom met aparte dranken- en borrelkaart; vrije losse drankinloop aannemelijk, niet als afzonderlijke deurregel bevestigd.",
+      "alcohol": "Eigen drankenkaart noemt huiswijn per glas, Heineken, Radler, whiskey, Tia Maria, Amaretto en Beerenburg.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "21:00",
+        "za": "17:30",
+        "zo": "—"
+      },
+      "closing_quality": "Officiële contactpagina gecontroleerd 31-10-2026; tijden gelden voor Lekkernij, geen afzonderlijke laatste toegang bekend.",
+      "closing_source": "https://www.lekkernijdokkum.nl/contact",
+      "closing_notes": "31-10-2026: eigen drankenkaart bevat wijn, bier, sterke drank en borrelhapjes. Eigen site geeft Waagstraat 9/11, oudere bron Waagstraat 11; exacte BAG-entree niet vastgesteld, geocoding geblokkeerd. Laatste toegang onbekend.",
+      "opening_source": "https://www.lekkernijdokkum.nl/contact",
+      "opening_checked_on": "2026-10-31",
+      "website": "https://www.lekkernijdokkum.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite en eigen actuele contactpagina rechtstreeks gecontroleerd 31-10-2026.",
+      "other_sources": [
+        "https://www.lekkernijdokkum.nl/assets/img/uploads/files/drankenkaart-23.pdf",
+        "https://dokkum.nl/eten-en-drinken/lekkernij/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Wijn, bier, sterke drank, borrelkaart",
+      "geocode_blocked": true,
+      "geocode_notes": "Adres 9/11 bevat twee huisnummers. Geen automatisch BAG-match op een van beide zonder bevestigde fysieke entree.",
+      "original_status": "Eigen website met publieke lunchroom, actuele openingstijden en alcoholische drankenkaart; geen aparte laatste-toegangregel."
     }
   ],
   "admission_policies": [
