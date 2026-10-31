@@ -13428,7 +13428,7 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Bedrijvengidsen bevestigen historische cafévermelding op Hoogstraat 34; actuele vrije inloop niet primair bevestigd.",
+      "access": "De Dokkumse stadsgids https://dokkum.nl/eten-drinken/ noemt Café De Swalker als horecalocatie; dit is geen zelfstandig bewijs van feitelijke opening op 31-10-2026.",
       "alcohol": "Niet onafhankelijk bevestigd voor actuele exploitatie.",
       "selection": "Nog te controleren",
       "closing": {
@@ -13442,12 +13442,13 @@
       },
       "closing_quality": "AlleBiz heeft weekuren maar geen eigen actuele bron",
       "closing_source": "https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545",
-      "closing_notes": "30-10-2026: https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545 geeft ma dicht, di–do 17–23, vr/za 16–02, zo 16–23; geen officiële website. Tweede gids https://www.allebiz.nl/de-swalker-06-51825104 toont ander telefoonnummer. Exploitatie en uren niet rechtstreeks bevestigd; onbekend, laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545 geeft ma dicht, di–do 17–23, vr/za 16–02, zo 16–23; geen officiële website. Tweede gids https://www.allebiz.nl/de-swalker-06-51825104 toont ander telefoonnummer. Exploitatie en uren niet rechtstreeks bevestigd; onbekend, laatste toegang onbekend. | 31-10-2026: actuele Dokkumse stadsgids https://dokkum.nl/eten-drinken/ bevat Café De Swalker. Geen eigen exploitantspagina of onafhankelijke 2026-openingswaarneming gevonden; selectie blijft Nog te controleren, geen gidsuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://www.allebiz.nl/caf%C3%A9-de-swalker-0519-297-545",
-        "https://www.allebiz.nl/de-swalker-06-51825104"
+        "https://www.allebiz.nl/de-swalker-06-51825104",
+        "https://dokkum.nl/eten-drinken/"
       ],
       "original_status": "Alleen gidsvermelding, actuele exploitant nog onbekend.",
       "geo": {
@@ -13456,7 +13457,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Hoogstraat 34, 9101LJ Dokkum"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -20843,7 +20844,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Café-/barregistratie en actuele publieke gidsvermeldingen; individuele vrije toegang niet op eigen site bevestigd.",
-      "alcohol": "KvK SBI 56300 exploitatie van drinkgelegenheden, gids classificeert als café/pub; specifiek alcoholmenu niet primair bevestigd.",
+      "alcohol": "KvK SBI 56300 en een in https://www.uitagenda.nl/locaties/cafe-de-brege gepubliceerde bezoekersbeschrijving noemt expliciet een glas bier; geen actuele bedrijfseigen drankkaart.",
       "selection": "Nog te controleren",
       "opening": {
         "ma": "?",
@@ -20865,15 +20866,17 @@
       },
       "closing_quality": "Geen eigen website gevonden. Externe gidsen noemen vergelijkbaar rooster maar geen actueel primair weekrooster; tijden onbekend.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: actuele KvK SBI 56300 volgens bron KvK 24-03-2026, adres bevestigd. https://www.allebiz.nl/cafe-de-brege-0512-461-644 en https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets noemen wo–zo uren maar niet van exploitant; géén sluitingen of laatste toegang overgenomen. Primaire site, inloop en bier/wijn nog bevestigen.",
+      "closing_notes": "30-10-2026: actuele KvK SBI 56300 volgens bron KvK 24-03-2026, adres bevestigd. https://www.allebiz.nl/cafe-de-brege-0512-461-644 en https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets noemen wo–zo uren maar niet van exploitant; géén sluitingen of laatste toegang overgenomen. Primaire site, inloop en bier/wijn nog bevestigen. | 31-10-2026: https://www.uitagenda.nl/locaties/cafe-de-brege bevat bezoekersbeschrijving met glas bier; https://www.grootsa.nl/nieuws/sport/104230/bij-biljartclub-de-hoek-de-brege-nij-beets-draait-het-niet-om beschrijft biljartclub in café (15-01-2025). Dit onderbouwt cafégebruik, maar geen huidige primaire vrije inloop of weekuren. Verborgen gehouden.",
       "features": "D0 Opsterland / Nij Beets; kandidaat met KvK drinkgelegenheid",
       "website": "",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "other_sources": [
         "https://www.allebiz.nl/cafe-de-brege-0512-461-644",
         "https://menuweb.menu/restaurants/fryslan/cafe-de-brege-nij-beets",
         "https://de.restaurantguru.com/cheese-Nij-Beets-m11",
-        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-brege-nij-beets-72171022-000004460995"
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-brege-nij-beets-72171022-000004460995",
+        "https://www.uitagenda.nl/locaties/cafe-de-brege",
+        "https://www.grootsa.nl/nieuws/sport/104230/bij-biljartclub-de-hoek-de-brege-nij-beets-draait-het-niet-om"
       ],
       "original_status": "KvK en gids ondersteunen exploitatie; officiële site, actuele tijden en publieke alcoholinloop onbevestigd."
     },
