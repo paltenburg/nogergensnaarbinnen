@@ -47,6 +47,21 @@ class ExactBagAddressTests(unittest.TestCase):
         self.assertEqual(geocode.addr_parts("Kleinzand 4B"), ("Kleinzand", 4, "b"))
         self.assertEqual(geocode.addr_parts("Kleinzand 1"), ("Kleinzand", 1, ""))
 
+    def test_hyphenated_single_letter_is_exact_house_letter(self):
+        self.assertEqual(geocode.addr_parts("Voorstraat 65-A"), ("Voorstraat", 65, "a"))
+        self.assertEqual(geocode.addr_parts("Syl 12 - A"), ("Syl", 12, "a"))
+        self.assertEqual(geocode.addr_parts("Voorstraat 65A"), ("Voorstraat", 65, "a"))
+        location, reason = self.locate("Kleinzand 4-B", [candidate(4, "B")])
+        self.assertEqual(reason, "ok")
+        self.assertEqual(location["matched_address"], "Kleinzand 4B, 8601BE Sneek")
+
+    def test_hyphenated_letter_never_accepts_plain_number(self):
+        location, reason = self.locate("Kleinzand 4-B", [candidate(4, "")])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+        self.assertIsNone(geocode.addr_parts("Kleinzand 4-"))
+        self.assertIsNone(geocode.addr_parts("Kleinzand 4-12"))
+
     def test_plain_number_skips_a_and_uses_exact_number(self):
         location, reason = self.locate("Kleinzand 1", [
             candidate(1, "A"), candidate(1, ""), candidate(1, "B"),
