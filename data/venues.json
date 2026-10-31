@@ -24339,6 +24339,93 @@
         "https://www.diner-cadeau.nl/dinerbon-restaurants/gewoan-op-e-dyk-bbq-en-grill/"
       ],
       "original_status": "Eigen actuele borrel-/barfunctie bevestigd 31-10-2026; sluituren en laatste toegang onbekend; geen BAG-marker aangenomen."
+    },
+    {
+      "id": "restaurant-spoorzicht-heerenveen-20261031",
+      "name": "Restaurant Spoorzicht",
+      "type": "Restaurant / borrel / voormalig café",
+      "address": "Parallelweg 48",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt dat bezoekers zonder reservering kunnen binnenlopen; specifiek uitsluitend een drankje zonder maaltijd niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen website noemt expliciet een goed glas wijn, borrelplank en borrels voor groepen; actuele drankenkaart niet apart gecontroleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "—",
+        "wo": "—",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële exploitantwebsite, 31-10-2026",
+      "closing_source": "https://spoorzichtheerenveen.nl/",
+      "closing_notes": "Eigen website noemt ma/zo 16:00–23:00, di/wo gesloten, do 16:00–23:00 en vr/za 16:00–00:00. Op 2 januari 2026 heropend onder nieuwe eigenaren; actuele website bevat recensies uit mei/juni 2026. Secundaire gidsen vermelden oudere, afwijkende weekroosters; niet overgenomen. Laatste toegang niet vermeld.",
+      "opening_source": "https://spoorzichtheerenveen.nl/",
+      "opening_checked_on": "2026-10-31",
+      "website": "https://spoorzichtheerenveen.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site: restaurant, adres Parallelweg 48 Heerenveen, borrel/wijn, vrije inloop en weekrooster.",
+      "checked_on": "2026-10-31",
+      "features": "Wijn en borrel; restaurant met historisch caféverleden; alleen-dranktoegang nog te verifiëren",
+      "other_sources": [
+        "https://www.grootheerenveen.nl/nieuws/in-bedrijf/121420/spoorzicht-heerenveen-gaat-weer-open-als-restaurant",
+        "https://bestrestos.nl/restaurant/spoorzicht-heerenveen-heerenveen-3523"
+      ],
+      "original_status": "Actuele exploitantwebsite en 2026-bezoekersreacties ondersteunen openstelling; zelfstandig borrelen zonder maaltijd niet expliciet bevestigd."
+    },
+    {
+      "id": "grand-cafe-t-gerecht-heerenveen-20261031",
+      "name": "Grand Café 't Gerecht",
+      "type": "Grand café / borrel / hotel",
+      "address": "Gemeenteplein 33",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website presenteert een publiek toegankelijk grand café voor ontbijten, lunchen, borrelen en dineren.",
+      "alcohol": "Eigen website bevestigt borrelfunctie; concrete actuele bier- of wijnkaart niet afzonderlijk gecontroleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "07:00",
+        "di": "07:00",
+        "wo": "07:00",
+        "do": "07:00",
+        "vr": "07:00",
+        "za": "08:00",
+        "zo": "08:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële exploitantwebsite, 31-10-2026",
+      "closing_source": "https://gerechtheerenveen.nl/",
+      "closing_notes": "Eigen homepage toont ma–do 07:00–23:00, vr 07:00–01:00, za 08:00–01:00, zo 08:00–23:00. Publieke borrelfunctie genoemd; laatste toegang en eventuele uitzonderingen onbekend.",
+      "opening_source": "https://gerechtheerenveen.nl/",
+      "opening_checked_on": "2026-10-31",
+      "website": "https://gerechtheerenveen.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen website: grand café, adres Gemeenteplein 33, borrelfunctie en openingstijden.",
+      "checked_on": "2026-10-31",
+      "features": "Grand café met borrel, hotel en evenementenlocatie",
+      "other_sources": [],
+      "original_status": "Actuele exploitantwebsite vermeldt publiek grand café met borrelfunctie; exacte laatste toegang niet vermeld."
     }
   ],
   "admission_policies": [
