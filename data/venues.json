@@ -24153,6 +24153,55 @@
         "https://www.pizzeria-jubbega.nl/"
       ],
       "original_status": "2026 evenement aangekondigd op lokaal bronadres; huidige reguliere vrije inloop niet bewezen. Daarom verborgen als Nog te controleren."
+    },
+    {
+      "id": "cafe-veldzicht-metslawier-20261031",
+      "name": "Café Veldzicht",
+      "type": "Dorpscafé / bar / lunchroom",
+      "address": "Roptawei 14",
+      "city": "Metslawier",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant noemt een openbaar dorpscafé voor bewoners en toeristen, met regulier caférooster en evenementen. Geen reserveringsplicht voor gewone café-inloop vermeld; bij pubquiz/bingo en dorpsfeest kunnen afwijkingen gelden.",
+      "alcohol": "Eigen site noemt Bar/Café en dorpskroeg; een afzonderlijke actuele bier-/wijnkaart niet gevonden. Alcoholaanbod aannemelijk op basis van caféfunctie, niet per drank primair bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "19:00",
+        "vr": "17:00",
+        "za": "16:00",
+        "zo": "16:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "20:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "00:00",
+        "zo": "20:00"
+      },
+      "closing_quality": "Exploitant geeft actueel weekrooster voor komende periode, kan bij evenementen afwijken. Vrijdag toont twee blokken 11:30–13:30 en 17:00–23:00; vroege blok mogelijk lunchroom, daarom alleen avondblok voor café opgenomen.",
+      "closing_source": "https://www.veldzichtmetslawier.nl/contact/",
+      "closing_notes": "31-10-2026: eigen contact- en cafépagina bevestigen ma/di gesloten, wo 17–20, do 19–23, vr 11:30–13:30 én 17–23, za 16–00, zo 16:30–20. De site toont donderdag op enkele pagina's 19:30 i.p.v. 19:00; daarom do-start mogelijk 19:30, vóór bezoek controleren. Voor vrijdag is eerste blok niet als café-inloop bewezen; alleen 17:00–23:00 in filter. Eigen bericht 01-06-2026 onderscheidt café van lunchroom tijdens dorpsfeest, afwijkende uren niet als regulier overgenomen. Eigen bericht 19-10 kondigt feest 14-11 aan; evenementtijden zijn geen regulier rooster. Laatste toegang onbekend. Voor actuele tijden adviseert exploitant bellen.",
+      "website": "https://www.veldzichtmetslawier.nl/",
+      "website_provenance": "Eigen café- en contactpagina met adres en exploitatie; nieuws oktober 2026 ondersteunt actualiteit.",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://www.veldzichtmetslawier.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website; vrijdag alleen avondblok opgenomen; donderdag 19:00/19:30 conflict",
+      "features": "Noardeast-Fryslân / Metslawier; eigen 2026-agenda, biljart, bingo en café; evenementafwijkingen",
+      "other_sources": [
+        "https://www.veldzichtmetslawier.nl/bar-cafe/",
+        "https://www.veldzichtmetslawier.nl/contact/",
+        "https://www.veldzichtmetslawier.nl/aankomend-weekend-4-t-m-7-juni-2026-is-het-dorpsfeest-in-mitselwierdaarom-passen-we-bij-veldzich/",
+        "https://www.veldzichtmetslawier.nl/op-zaterdag-14-november-2026-organiseren-we-een-voute-party-in-cafe-veldzicht-zie-de-afbeelding-v/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/4027903447/cafe-veldzicht"
+      ],
+      "original_status": "Actueel café bevestigd via exploitant en oktober-2026 evenementagenda; geen BAG-marker of expliciete laatste toegang."
     }
   ],
   "admission_policies": [
