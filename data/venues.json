@@ -27627,6 +27627,52 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Clubnachten vrijdag en zaterdag tot 05:00; Harlingen"
+    },
+    {
+      "id": "mister-jacks-franeker-20261031",
+      "name": "Mister Jacks",
+      "type": "Eetcafé / borrel",
+      "address": "Sint Martiniplantsoen 4",
+      "city": "Franeker",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitantpromotie 21 januari 2026 bevestigt ook losse borrel met hapjes en drankenkaart; restaurant is geen uitsluitend besloten zaal.",
+      "alcohol": "Tripadvisor-profiel vermeldt wijn en bier en 'serves alcohol'; 2026-exploitantpromotie noemt drankenkaart, maar eigen actuele alcoholkaart niet rechtstreeks leesbaar. Specifiek assortiment nog primair verifiëren.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "16:30",
+        "vr": "?",
+        "za": "?",
+        "zo": "16:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://franekeractueel.nl/nieuw-lunch-bij-mister-jacks/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "",
+      "closing_quality": "Dated exploitantpromo 26-03-2026 zegt vanaf april vr/za lunch vanaf 12:00; toeristische gids toont nog 16:30, en eigen online bestelpagina 16:30 afhaal. Daarom vr/za café-begintijden onbekend. Geen actuele officiële einduren: VVV 21:00, ouder ondernemersregister 20:00, promo 'sluit'.",
+      "closing_notes": "Laatste toegang onbekend. Vrijdag- en zaterdagrooster niet uit gidsen afgeleid. Eigen hoofdwebsite was bij controle niet rechtstreeks uitleesbaar; besteluren zijn geen caféuren.",
+      "website": "https://www.misterjacks.nl/",
+      "website_provenance": "Officieel domein vermeld door Franeker.frl en eigen exploitantpromotie, maar op 31-10-2026 niet rechtstreeks uitleesbaar.",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://franekeractueel.nl/nieuw-bij-mister-jacks-franeker-nog-meer-om-van-te-genieten/",
+        "https://franekeractueel.nl/nieuw-lunch-bij-mister-jacks/",
+        "https://www.friesland.nl/nl/locaties/2188150173/mister-jacks-franeker",
+        "https://bestellen.misterjacks.nl/",
+        "https://www.tripadvisor.ca/Restaurant_Review-g227917-d32712632-Reviews-Mister_Jacks_Franeker-Franeker_Friesland_Province.html"
+      ],
+      "features": "Eetcafé en borrel, Franeker; vr/za roosterconflict"
     }
   ],
   "admission_policies": [
