@@ -28730,8 +28730,8 @@
       "city": "Rottevalle",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Voorlopig",
-      "access": "Eigen site noemt informele borrel in de bar en publieke caféavonden; gewone vrije drankinloop op elke restaurantdag niet afzonderlijk bevestigd. Voor grotere gezelschappen en diners kan reservering nodig zijn.",
+      "selection": "Nog te controleren",
+      "access": "Eigen site noemt borrel in de bar en georganiseerde caféavonden, maar geen expliciete vrije inloop voor uitsluitend een alcoholisch drankje op gewone restaurantdagen; verborgen totdat toegang is bevestigd.",
       "alcohol": "Eigen homepage noemt schenken met of zonder alcohol; onafhankelijke restaurantrecensie vermeldt wijn per glas. Exacte losse drankkaart niet gevonden.",
       "opening": {
         "ma": "—",
@@ -28757,7 +28757,7 @@
       "website_checked_on": "2026-10-31",
       "checked_on": "2026-10-31",
       "closing_quality": "Exploitant noemt wo–za vanaf 17:00, zo vanaf 12:30, overige dagen alleen op afspraak; geen sluituren. Michelin noemt andere beginuren; niet overgenomen.",
-      "closing_notes": "31-10-2026: exploitantcontact geeft reguliere wo–za 17:00, zo 12:30; ma/di geen reguliere opening, alleen bijzondere afspraak. De exploitant noemt 2026 caféavond en informele borrel in bar; dagelijkse vrije alcoholinloop nog controleren. Alle sluituren en laatste toegang onbekend; Michelin 12:30–22 is niet als primaire opening overgenomen.",
+      "closing_notes": "31-10-2026: exploitantcontact geeft reguliere wo–za 17:00, zo 12:30; ma/di geen reguliere opening, alleen bijzondere afspraak. De exploitant noemt 2026 caféavond en informele borrel in bar; dagelijkse vrije alcoholinloop nog controleren. Alle sluituren en laatste toegang onbekend; Michelin 12:30–22 is niet als primaire opening overgenomen. Veiligheidsherbeoordeling 31-10-2026: borrelpagina's kunnen op groeps-/evenementenarrangementen doelen, dus niet als reguliere vrije barinloop tonen.",
       "features": "Historische herberg Rottevalle; caféavonden en restaurantbar",
       "website": "https://www.herbergvansmallingerland.nl/",
       "other_sources": [
@@ -28766,7 +28766,7 @@
         "https://guide.michelin.com/nl/nl/fryslan/rottevalle/restaurant/de-herberg-van-smallingerland",
         "https://www.gault-millau.nl/nl/restaurants/de-herberg-van-smallingerland-rottevalle"
       ],
-      "original_status": "Eigen actuele site en 2026 caféavond gecontroleerd 31-10-2026; opening bevestigd, losse dranktoegang niet volledig."
+      "original_status": "Actuele exploitatie, adres en reguliere restaurantstart bevestigd 31-10-2026; zelfstandige vrije alcoholinloop niet bewezen, daarom verborgen."
     }
   ],
   "admission_policies": [
