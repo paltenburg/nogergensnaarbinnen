@@ -53,7 +53,7 @@ def build_report(dataset, snapshot_date):
             "name": region_names.get(region_id, region_id),
             "total": len(venues),
             "selection_counts": dict(sorted(selections.items())),
-            "with_official_website": sum(bool(p.get("website")) for p in venues),
+            "with_website_url": sum(bool(p.get("website")) for p in venues),
             "with_recorded_review_date": sum(bool(p.get("checked_on")) for p in venues),
             "with_coordinates": sum(isinstance(p.get("geo"), dict) and
                                     isinstance(p["geo"].get("lat"), (int, float)) and
