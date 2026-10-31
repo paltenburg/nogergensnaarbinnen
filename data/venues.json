@@ -29330,6 +29330,101 @@
         "https://app.iselmar.nl/jachthaven/"
       ],
       "original_status": "Eigen site bevestigt bar, alcohol en locatie, maar niet expliciet vrije toegang voor niet-hotelgasten. Daarom voorlopig verborgen totdat die toegang bevestigd is. Exacte weekuren onbekend."
+    },
+    {
+      "id": "brasserie-de-jasmijn-harlingen-20261101",
+      "name": "Brasserie de Jasmijn",
+      "type": "Brasserie / borrel",
+      "address": "Grote Bredeplaats 15",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website: vanaf 1 oktober 2026 koffie, lunch en losse borrel zonder verplichte maaltijd; reserveren is niet verplicht. Diner alleen vanaf maart 2027 of voor groepen op reservering.",
+      "alcohol": "Eigen actuele menu-omschrijving: Peroni van de tap, overige bieren, wijn en seizoenscocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "18:00"
+      },
+      "opening_quality": "Eigen homepage toont twee onderling afwijkende weekroosters; alleen gemeenschappelijke dagwaarden vastgelegd, overige onbekend.",
+      "closing_quality": "Eigen homepage/reserveringspagina bevatten tegenstrijdige uren; zondag 18:00 en maandag 18:00 komen overeen; overige conflicterende einduren onbekend.",
+      "opening_source": "https://www.brasseriedejasmijn.nl/",
+      "closing_source": "https://www.brasseriedejasmijn.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: exploitant https://www.brasseriedejasmijn.nl/diner bevestigt vanaf 1 oktober uitsluitend lunch/koffie/losse borrel (diner regulier pas maart 2027), reserveren niet verplicht. Eigen homepage toont twee niet gelabelde uurblokken: ma start 12 vs 11, do start 11 vs 12 en eind 18 vs 19:30, vr/za eind 18 vs 19:30; https://www.brasseriedejasmijn.nl/reserveren toont weer andere daguren. Daarom uitsluitend gemeenschappelijk bevestigde dagwaarden opgenomen; geen laatste toegang. Evenementen op reservering zijn niet als reguliere borreluren gebruikt.",
+      "features": "Harlingen; vrije borrel; winter geen reguliere dinerkaart",
+      "website": "https://www.brasseriedejasmijn.nl/",
+      "other_sources": [
+        "https://www.brasseriedejasmijn.nl/kopi%C3%ABren-van-home",
+        "https://www.brasseriedejasmijn.nl/diner",
+        "https://www.brasseriedejasmijn.nl/reserveren",
+        "https://www.brasseriedejasmijn.nl/thema-avond"
+      ],
+      "original_status": "Eigen exploitant bevestigt actuele exploitatie, publieke borrel en alcohol; exacte tijden gedeeltelijk tegenstrijdig en niet volledig ingevuld."
+    },
+    {
+      "id": "brasserie-booming-harlingen-20261101",
+      "name": "Brasserie Booming",
+      "type": "Brasserie / lunch en borrel",
+      "address": "Voorstraat 73",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant adverteert spontane lunch en borrel binnen en buiten, zonder maaltijd- of reserveringsplicht voor borrel.",
+      "alcohol": "Eigen aanbod High Wine met verschillende wijnen; eigen site adverteert borrel. Alcoholaanbod primair bevestigd op https://www.brasseriebooming.nl/mogelijkheden.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_quality": "Eigen specifieke contactpagina: winter ma/di dicht tot voorjaar, wo–zo 11–18; algemene homepage zegt tegenstrijdig dagelijks 11–18.",
+      "closing_quality": "Eigen contactpagina noemt 16–24 november 2026 volledig gesloten wegens verbouwing; app ondersteunt datumuitzonderingen nog niet.",
+      "opening_source": "https://www.brasseriebooming.nl/contact-en-info",
+      "closing_source": "https://www.brasseriebooming.nl/contact-en-info",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: eigen contactpagina specificeert ma/di gesloten tot voorjaar, wo–zo 11–18 en VERBOUWINGSGESLOTEN 16 t/m 24 november 2026. Eigen homepage zegt tegenstrijdig dagelijks 11–18; toeristische gids noemt weer andere weekuren. Specifieke exploitantcontactpagina leidend voor normaal winterrooster. **Verborgen tot datumafhankelijke uitzonderingen in filter werken**, omdat app anders in sluitingsweek foutief 'open' zou suggereren. Laatste toegang onbekend; na 24 november hercontrole van heropening.",
+      "features": "Harlingen; winterrooster; aangekondigde verbouwingssluiting 16–24 november 2026",
+      "website": "https://www.brasseriebooming.nl/",
+      "other_sources": [
+        "https://www.brasseriebooming.nl/mogelijkheden",
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/92215371/brasserie-booming",
+        "https://www.visitwadden.nl/de/veranstaltungen/2917536039/ziegenwanderung"
+      ],
+      "original_status": "Actuele eigen website bevestigt exploitatie, borrel en wijn. Tijdelijke volledige sluiting 16–24 november 2026 expliciet; verborgen tot app datumuitzonderingen kan toepassen."
     }
   ],
   "admission_policies": [
