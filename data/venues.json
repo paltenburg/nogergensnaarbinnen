@@ -24248,6 +24248,51 @@
         "https://www.openingstijden.nl/Hotel-Cafe-Restaurant-t-Raedhus/Dokkum/Koningstraat-1-Nauwstraat-1/"
       ],
       "original_status": "Café en drankaanbod primair bevestigd, exploitantwebsite bereikbaar; actuele specifieke caféweekuren en laatste toegang onbekend; geen geocode aangenomen."
+    },
+    {
+      "id": "de-branderij-dokkum-20261031",
+      "name": "De Branderij",
+      "type": "Brasserie / borrel / cocktails",
+      "address": "Legeweg 5",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt ontbijt, lunch, borrel en diner als afzonderlijke bezoekmogelijkheden; reserveren mogelijk maar niet als verplichting voor borrel vermeld.",
+      "alcohol": "Eigen https://www.debranderijdokkum.nl/ heeft sectie 'Borrel & cocktails'; door exploitant beheerde Tripadvisor-vermelding noemt bier, wijn en alcohol.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "08:30",
+        "di": "—",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "08:30",
+        "zo": "08:30"
+      },
+      "closing": {
+        "ma": "17:00",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Eigen website toont ma/wo/do/zo 08:30–17:00, vr/za 08:30–21:00; dinsdag niet genoemd, als gesloten geïnterpreteerd, nog te bevestigen.",
+      "closing_source": "https://www.debranderijdokkum.nl/",
+      "closing_notes": "31-10-2026: eigen homepage toont ma-woe-do-zo 08:30–17:00, vr-zat 08:30–21:00; dinsdag niet genoemd en daarom voorlopig '—' als niet-geopende dag. Eigen 'borrel & cocktails' bevestigt losse borrel. Tripadvisor https://www.tripadvisor.nl/Restaurant_Review-g652196-d33071368-Reviews-De_Branderij_Dokkum-Dokkum_Friesland_Province.html heeft afwijkende 09:00/18:00 en woensdag 22:00, niet overgenomen. Laatste toegang onbekend. Feestdagen en incidentele avondactiviteiten kunnen afwijken.",
+      "website": "https://www.debranderijdokkum.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite bevestigt adres, menu en weekuren; eigen naam/identiteit.",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://www.debranderijdokkum.nl/",
+      "opening_checked_on": "2026-10-31",
+      "features": "Dokkum Legeweg; borrel en cocktails, ontbijt/lunch/diner; vroege sluiting op meeste dagen",
+      "other_sources": [
+        "https://www.tripadvisor.nl/Restaurant_Review-g652196-d33071368-Reviews-De_Branderij_Dokkum-Dokkum_Friesland_Province.html",
+        "https://dokkum.nl/eten-drinken/"
+      ],
+      "original_status": "Eigen website en borrelaanbod gecontroleerd 31-10-2026; daadwerkelijke laatste toegang onbekend; geen BAG-marker aangenomen."
     }
   ],
   "admission_policies": [
