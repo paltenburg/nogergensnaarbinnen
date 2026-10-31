@@ -24293,6 +24293,52 @@
         "https://dokkum.nl/eten-drinken/"
       ],
       "original_status": "Eigen website en borrelaanbod gecontroleerd 31-10-2026; daadwerkelijke laatste toegang onbekend; geen BAG-marker aangenomen."
+    },
+    {
+      "id": "gewoan-op-e-dyk-dokkum-20261031",
+      "name": "Gewoan op 'e Dyk",
+      "type": "Grillrestaurant / borrel / bar",
+      "address": "De Dijk 14",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen restaurantpagina nodigt bezoekers uit voor een praatje aan de bar en een borrel, ook zonder maaltijd; eigen site noemt lokaal bierspecialist en terrasboot. Reserveren aangeraden, niet als verplichting voor drankje genoemd.",
+      "alcohol": "Eigen https://www.gewoanopedyk.frl/ noemt 'Lokaal bierspecialist'; https://www.gewoanopedyk.frl/restaurant/ noemt borrelplank met goed glas wijn. Specifieke actuele drankkaart nog niet rechtstreeks gecontroleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen homepage (31-10-2026) noemt ma–do gesloten, vr–zo open vanaf 11:00 zonder einduur. Lokale gids toont ouder afwijkend wo/do/zo-rooster; daarom geen einduren aangenomen.",
+      "closing_source": "https://www.gewoanopedyk.frl/",
+      "closing_notes": "31-10-2026: eigen https://www.gewoanopedyk.frl/ en https://www.gewoanopedyk.frl/restaurant/ tonen ma–do gesloten, vr/za/zo vanaf 11:00, einduren niet genoemd. https://dokkum.nl/eten-en-drinken/gewoan-op-e-dyk/ en https://www.diner-cadeau.nl/dinerbon-restaurants/gewoan-op-e-dyk-bbq-en-grill/ geven afwijkend wo/do open en andere vr/zo-starts/einduren; die gidsuren niet als huidige exploitantgegevens overgenomen. Eigen site waarschuwt voor vakantieafwijkingen en verwijst naar Facebook. Laatste toegang onbekend.",
+      "website": "https://www.gewoanopedyk.frl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen homepage, restaurantpagina en contactgegevens; De Dijk 14 Dokkum.",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://www.gewoanopedyk.frl/",
+      "opening_checked_on": "2026-10-31",
+      "features": "Dokkum De Dijk; borrel met wijn en lokaal bier; grillrestaurant; openingstijden conflict met toeristische gids",
+      "other_sources": [
+        "https://www.gewoanopedyk.frl/restaurant/",
+        "https://dokkum.nl/eten-en-drinken/gewoan-op-e-dyk/",
+        "https://www.diner-cadeau.nl/dinerbon-restaurants/gewoan-op-e-dyk-bbq-en-grill/"
+      ],
+      "original_status": "Eigen actuele borrel-/barfunctie bevestigd 31-10-2026; sluituren en laatste toegang onbekend; geen BAG-marker aangenomen."
     }
   ],
   "admission_policies": [
