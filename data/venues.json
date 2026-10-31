@@ -17541,8 +17541,8 @@
       "city": "Reduzum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Bestelwebsite bevestigt exploitatie op Haedstrjitte 14; actuele vrije café-inloop en drankservice niet direct vastgesteld.",
-      "alcohol": "Alcoholaanbod niet via eigen menukaart bevestigd; naam/categorie café alleen indicatie.",
+      "access": "Eigen bestelwebsite bevestigt actieve exploitatie op Haedstrjitte 14. Dorpssite beschrijft De Welp als lokaal café en uitgaansgids vermeldt openbare biertjes; vaste vrije inloop en openingstijden van het café nog niet rechtstreeks geverifieerd.",
+      "alcohol": "Exploitant vermeldt via zakelijk LinkedIn-profiel Café Bar De Welp expliciet bier voor bedrijfsborrels en evenementen; dit bevestigt alcoholaanbod van het bedrijf, maar niet de vaste tijden van de publieke bar.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -17555,14 +17555,17 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Eigen bestelwebsite geeft ma–wo gesloten, do–zo 17–20:30; dit kunnen bestel-/afhaaltijden zijn en is geen bewezen bar-sluiting. Tweede eigen eatbu-pagina noemt do–zo circa 17:30–19:30, AlleBiz tot 01/03. Daarom geen begin-/eindtijden als bevestigd caféschema overgenomen. Laatste toegang onbekend; feitelijke horecavorm verder verifiëren.",
+      "closing_notes": "Eigen bestelwebsite geeft ma–wo gesloten, do–zo 17–20:30; dit kunnen bestel-/afhaaltijden zijn en is geen bewezen bar-sluiting. Tweede eigen eatbu-pagina noemt do–zo circa 17:30–19:30, AlleBiz tot 01/03. Daarom geen begin-/eindtijden als bevestigd caféschema overgenomen. Laatste toegang onbekend; feitelijke horecavorm verder verifiëren. | 31-10-2026 aanvullende verificatie: https://nl.linkedin.com/in/jeroen-dijk-28936b61 deelt namens Café Bar De Welp een aanbod met ijskoud bier voor bedrijfsborrels; alcoholbedrijf bevestigd, maar dit gaat over catering en bewijst geen café-einduren. https://reduzum.com/de-sterkste-bliuwt-oer/ beschrijft de historische en actuele dorpscaféfunctie; https://www.uitagenda.nl/locaties/cafe-bar-de-welp noemt een biertje drinken. Eigen besteluren do–zo 17–20:30 blijven geen caféuren. Geen gestructureerde tijden veranderd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafebardewelp.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou",
         "https://www.cafebardewelp.nl/informatie",
         "https://cafebardewelp.eatbu.com/?lang=nl",
-        "https://www.allebiz.nl/caf%C3%A9-de-welp-0566-601-541"
+        "https://www.allebiz.nl/caf%C3%A9-de-welp-0566-601-541",
+        "https://nl.linkedin.com/in/jeroen-dijk-28936b61",
+        "https://reduzum.com/de-sterkste-bliuwt-oer/",
+        "https://www.uitagenda.nl/locaties/cafe-bar-de-welp"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17572,7 +17575,7 @@
         "matched_address": "Haedstrjitte 14, 9008SP Reduzum"
       },
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "website_provenance": "Eigen bestelwebsite en informatiepagina gecontroleerd 2026-10-30."
     },
     {
