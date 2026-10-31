@@ -24059,6 +24059,53 @@
         "https://www.cylex.nl/bedrijf/caf%C3%A9-cafetaria-de-lantaarn-13849943.html"
       ],
       "original_status": "Actuele eigen caféroosters; externe indicatie bieraanbod, primaire drankkaart en feitelijke inloop nog niet apart bevestigd."
+    },
+    {
+      "id": "hotel-cafe-de-posthoorn-dokkum-20261031",
+      "name": "Hotel Café Restaurant De Posthoorn",
+      "type": "Hotelcafé / restaurant / borrel",
+      "address": "Diepswal 21",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site zegt dat het café dagelijks open is en noemt publieke pubquiz en borrels; ook bezoekers van buiten hotel welkom volgens regionale toeristische gids.",
+      "alcohol": "Eigen site noemt cocktails en borrelen, en kondigt pubquiz 06-11-2026 aan; alcoholische cocktails rechtstreeks op eigen publicaties genoemd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_source": "",
+      "closing_quality": "Eigen website zegt café dagelijks open 'tot zolang het gezellig is'; geen vast cafe-weekrooster.",
+      "closing_notes": "31-10-2026: https://www.hotel-deposthoorn.nl/contact-informatie/ onderscheidt hotelontbijt 07–10, lunch 12–17, diner 17–21 en café dagelijks 'tot zolang het gezellig is'. Dit zijn GEEN café-begintijden of -sluituren. https://www.friesland.nl/nl/locaties/2458498689/cafe-restaurant-de-posthoorn noemt 07–21, maar dat is niet bewezen de borreltoegang; https://www.allebiz.nl/hotel-caf%C3%A9-restaurant-de-posthoorn-0519-293-500 geeft andere einduren. Alle caféuren en laatste toegang onbekend gehouden. Eigen site heeft 06-11-2026 pubquiz 20:30; evenementuur is geen gewone sluiting.",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website": "https://www.hotel-deposthoorn.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite met 2026 agenda en aparte cafésectie gecontroleerd.",
+      "checked_on": "2026-10-31",
+      "features": "Dokkum; café dagelijks variabel, pubquiz 6 november 2026",
+      "other_sources": [
+        "https://www.hotel-deposthoorn.nl/contact-informatie/",
+        "https://dokkum.nl/eten-en-drinken/cafe-restaurant-de-posthoorn/",
+        "https://www.friesland.nl/nl/locaties/2458498689/cafe-restaurant-de-posthoorn",
+        "https://www.allebiz.nl/hotel-caf%C3%A9-restaurant-de-posthoorn-0519-293-500"
+      ],
+      "original_status": "Eigen actuele 2026 agenda en cafe-exploitatie bevestigd; feitelijke sluiting per avond en laatste toegang niet beschikbaar."
     }
   ],
   "admission_policies": [
