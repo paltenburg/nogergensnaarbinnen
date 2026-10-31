@@ -43,6 +43,18 @@
 - **Publicatie:** voorgaande run op `020b2e8` [#212](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41150650908) is **completed/success** inclusief tests, PDOK, bronregister en deploy. Nieuwe runs #213–#216: bij controle #213 **in progress**, #214/#215 **cancelled** door concurrency, #216 **pending**; nieuwste commit **niet** als live gepubliceerd geclaimd. Laatste live mobiele regiowissel en daadwerkelijke kaartbediening niet getest. Ingecheckte bronregister/geocoderapport zijn nog historisch **437 records**, niet 516; geplande maintenance moet afgeleiden terugschrijven.
 - **Weekaudit:** op 31-10-2026 ISO-week 44, W45 **nog niet verschuldigd**. Vanaf maandag 02-11-2026 10:00 Europe/Amsterdam geografisch roulerend controleren in **alle dan actieve regio's**; op dit moment Utrecht en Friesland. Niets voortijdig als W45 afgerond markeren. **D0 Friesland niet gehaald; landelijke D1/D2 nog niet starten.**
 
+### Kwaliteitsmomentopname uit master (31-10-2026, na commit 448e7a4)
+
+Onderstaande aantallen zijn **opnieuw uit de actuele `data/venues.json` berekend** (niet overgenomen uit de oude B3-tabel). Exacte sluiting = minstens één dag `HH:MM`; gedeeltelijk = minstens één dag zonder `HH:MM`. Gedeelde adressen zijn een onderzoekssignaal, **geen** bewezen dubbele locaties.
+
+| Regio | Records | Website ontbreekt | Sluiting alle dagen onbekend | Sluiting gedeeltelijk onbekend | Laatste toegang alle dagen onbekend | Exacte marker ontbreekt | Zonder `checked_on` | `Nog te controleren` | Gedeelde-adresgroepen |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Utrecht | 224 | 72 | 78 | 141 | 222 | 21 | 55 | 16 | 9 |
+| Friesland | 292 | 81 | 179 | 254 | 290 | 90 | 0 | 46 | 2 |
+| **Totaal** | **516** | **153** | **257** | **395** | **512** | **111** | **55** | **62** | **11** |
+
+Friese gedeelde-adresgroepen handmatig nagezien: Café Rednick en Café Gewoán Sven op Voorstraat 64 Harlingen zijn **historische/actuele naam op hetzelfde adres**; Rednick staat terecht `Nog te controleren`, geen tweede gelijktijdige exploitatie aannemen. ZeeVaert Bistrobar en Eetcafé 't Praethuys op Dorpsstraat 61 Vlieland zijn **twee afzonderlijke WestCord-concepten** volgens hun eigen restaurantpagina's. Geen samenvoeging of ID-wijziging. De 292/292 Friese `checked_on`-velden tonen alleen dat er een gedateerde controle is vastgelegd, **niet** dat 292 exploitaties volledig zijn geverifieerd. Wekelijkse audit blijft een aparte taak.
+
 ### Exacte volgende werkvolgorde
 
 1. Controleer **nieuwste** Pages-run op `b1ff7dc` [#216](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41152090760): alle 11 tests, PDOK, bronregister voor **516**, deploy. Een geannuleerde oudere workflow is niet automatisch een fout in de nieuwste. Daarna nachtelijke maintenance terugschrijfcontrole `data/source-register.json`, `data/source-register.md`, `data/geocode-report.json` en `data/venues.json`; nooit geocodes uit een oud artefact kopiëren.
