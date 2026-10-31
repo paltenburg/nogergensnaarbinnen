@@ -10514,8 +10514,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek borrelcafé volgens eigen site en Visit Leeuwarden",
-      "alcohol": "Speciaalbier en wijn expliciet genoemd door Visit Leeuwarden",
+      "access": "Exploitant https://cafederus.nl/over-de-rus/ bevestigt publiek toegankelijk café en spontane borrel zonder maaltijd; iedereen welkom.",
+      "alcohol": "Exploitant https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ noemt speciaalbier, wijn, cocktails en borrelhapjes.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10528,7 +10528,7 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Eigen contactpagina bevestigt Stationsweg 28 en publieke borrels; geen bedrijfseigen sluitingsrooster of laatste toegang gevonden (30-10-2026). Gidsuren niet overgenomen.",
+      "closing_notes": "01-11-2026: https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ bevestigen open publiek café met speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt Stationsweg 28. Geen bedrijfseigen weekrooster of laatste toegang; evenementtijden niet als standaard caféuren overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://cafederus.nl/",
       "other_sources": [
@@ -10536,14 +10536,16 @@
         "https://cafederus.nl/contact/",
         "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitantwebsite en recente 2026-recensie op eigen site bevestigen publieke café-exploitatie; reguliere weekuren nog onbekend.",
       "geo": {
         "lat": 53.1973416,
         "lon": 5.795617,
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 28, 8911AJ Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "01-11-2026: eigen homepage, over-ons en contact rechtstreeks gecontroleerd voor actuele publieke exploitatie, alcohol en adres; geen weekrooster of laatste toegang gepubliceerd."
     },
     {
       "id": "de-markies-leeuwarden-d3d3930",
@@ -10885,7 +10887,7 @@
       },
       "closing_quality": "Officiële website geeft alleen openingsuren; eindtijden onbekend",
       "closing_source": "https://www.ouwestoep.nl/",
-      "closing_notes": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist.",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist. | 01-11-2026: homepage https://www.ouwestoep.nl/ toont nog de cafégegevens en bestaande weekstarts, maar https://www.ouwestoep.nl/fotos/ toont niet-gerelateerde gok-/SEO-inhoud (mogelijke sitecompromittering). Subpagina niet gebruiken voor horecaverificatie; eigenaar/domeinstatus nader controleren. Sluituren blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.ouwestoep.nl/",
       "other_sources": [
@@ -10903,13 +10905,15 @@
         "za": "12:00",
         "zo": "19:00"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "geo": {
         "lat": 53.2004794,
         "lon": 5.7925442,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Doelesteeg 6, 8911CA Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "01-11-2026: homepage met caféadres en openingsstarts opnieuw gelezen; /fotos/ toont externe gok-/SEO-inhoud en is niet betrouwbaar als horeca- of tijdbron."
     },
     {
       "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
