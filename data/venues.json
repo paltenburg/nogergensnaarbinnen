@@ -29043,6 +29043,52 @@
         "https://www.friesland.nl/nl/locaties/2565820665/grand-cafe-de-hofdame"
       ],
       "original_status": "31-10-2026: actuele exploitantsite voor identiteit/adres/uren, gemeentelijke/toeristische gids voor losse borrel en alcoholaanbod."
+    },
+    {
+      "id": "hotel-restaurant-oostergoo-grou-20261031",
+      "name": "Hotel Restaurant Oostergoo",
+      "type": "Publiek hotelrestaurant / terrasborrel",
+      "address": "Nieuwe Kade 1",
+      "city": "Grou",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitant nodigt iedereen uit om zonder maaltijd of hotelovernachting iets te drinken op het terras aan het water. Zelfde pand als Café d'Oude Oost, maar dát café is een afzonderlijk af te huren besloten ruimte en blijft verborgen.",
+      "alcohol": "Exploitant noemt expliciet een glas wijn en vrije borrel op terras; geen actuele uitgesplitste bierkaart bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen praktische-info noemt RESTAURANT dagelijks 08:00–22:00, maar niet afzonderlijk vanaf/tot wanneer losse alcoholische terrasborrel mogelijk is.",
+      "closing_notes": "31-10-2026: https://oostergoo.nl/praktische-info/ geeft dagelijks 08–22 voor restaurant, niet gegarandeerd café- of drankservice. Geen café-uren of laatste toegang afgeleid. Exploitant https://oostergoo.nl/over-ons/ bevestigt wijn en exploitatie sinds 2023. Café d'Oude Oost op exact hetzelfde BAG-adres is een aparte, alleen te huren zaal; deze publieke hotelrestaurantfunctie is geen tweede vermelding van die besloten cafézaal. Gedeelde kaartmarker is verwacht, niet twee onafhankelijke adressen.",
+      "features": "Grou aan Pikmeer; publieke wijn-/terrasborrel; gedeeld pand met besloten Café d'Oude Oost.",
+      "website": "https://oostergoo.nl/",
+      "other_sources": [
+        "https://oostergoo.nl/over-ons/",
+        "https://oostergoo.nl/praktische-info/",
+        "https://oostergoo.nl/aanmeren-en-aanschuiven/",
+        "https://oostergoo.nl/vieren-en-vergaderen/"
+      ],
+      "original_status": "31-10-2026: eigen exploitant bevestigt publieke terrasdrank, wijn, adres en exploitatie; precieze drankuren niet bewezen. Gedeeld pand maar afzonderlijk aanbod ten opzichte van verhuurcafé d'Oude Oost."
     }
   ],
   "admission_policies": [
