@@ -687,20 +687,15 @@
       "closing_quality": "Eigen website: sluiting hangt af van de avond; geen vast HH:MM-rooster. De eerdere gidsuren 00:00 en gesloten di/wo zijn niet actueel bevestigd, dus verwijderd.",
       "closing_source": "",
       "checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: officiële https://bar-bet.nl/ zegt dagelijks open: ma–vr 17:00, za/zo 15:00; vanaf 15:00 weekend wijn en barhappen, diner vanaf 17:00. 'Wanneer we sluiten hangt een beetje af van de avond.' Oude https://centrumutrecht.nl/company/bar-bet/ had di/wo gesloten, vr 15:00 en overige einduren 00:00; die zijn tegenstrijdig met de eigen actuele site. Gestructureerde sluitingen en laatste toegang bewust onbekend. Fysieke BAG-ingang van Wed 1 versus matched_address 'Wed 1-1' nog apart controleren; geen coördinaten gewijzigd.",
+      "closing_notes": "31-10-2026: officiële https://bar-bet.nl/ zegt dagelijks open: ma–vr 17:00, za/zo 15:00; vanaf 15:00 weekend wijn en barhappen, diner vanaf 17:00. 'Wanneer we sluiten hangt een beetje af van de avond.' Oude https://centrumutrecht.nl/company/bar-bet/ had di/wo gesloten, vr 15:00 en overige einduren 00:00; die zijn tegenstrijdig met de eigen actuele site. Gestructureerde sluitingen en laatste toegang bewust onbekend. Fysieke BAG-ingang van Wed 1 versus matched_address 'Wed 1-1' nog apart controleren; geen coördinaten gewijzigd. 31-10-2026: BAG-marker Wed 1-1 nu verwijderd en geocode_blocked gezet, geen gok op nummer 1.",
       "features": "Borrel / diner",
       "website": "https://bar-bet.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/",
-        "https://centrumutrecht.nl/company/bar-bet/"
+        "https://centrumutrecht.nl/company/bar-bet/",
+        "https://stagemarkt.nl/leerbedrijven/profiel_654d8c92-0b0f-4810-9122-5f47b86af23e"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": {
-        "lat": 52.0897994,
-        "lon": 5.1214373,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Wed 1-1, 3512JH Utrecht"
-      },
       "website_provenance": "Eigen homepage met rooster en wijnbarconcept rechtstreeks gecontroleerd 31-10-2026",
       "website_checked_on": "2026-10-31",
       "opening": {
@@ -714,7 +709,9 @@
       },
       "opening_source": "https://bar-bet.nl/",
       "opening_checked_on": "2026-10-31",
-      "opening_quality": "Bedrijfseigen rooster, 31-10-2026"
+      "opening_quality": "Bedrijfseigen rooster, 31-10-2026",
+      "geocode_blocked": true,
+      "geocode_notes": "31-10-2026: eigen https://bar-bet.nl/ en https://stagemarkt.nl/leerbedrijven/profiel_654d8c92-0b0f-4810-9122-5f47b86af23e noemen Wed 1. Bestaande PDOK BAG-marker was 'Wed 1-1' en kan een afzonderlijk verblijfsobject zijn. Geen bewijs dat dit de exacte horeca-ingang is; marker verwijderd en automatische geocodering geblokkeerd totdat de juiste ingang primair bevestigd is."
     },
     {
       "id": "bar-beton-76def5a",
