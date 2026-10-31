@@ -1,5 +1,10 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Nacorrectie 01-11-2026 — Iselmar veilig verborgen (master blijft 624)
+
+**Datacommit [3971d3f](https://github.com/paltenburg/nogergensnaarbinnen/commit/3971d3f091e24fc9200aeb46fcc2dd3581eb2fb2):** nieuw Iselmar-record `restaurant-bar-iselmar-lemmer-20261101` van `Voorlopig` naar **`Nog te controleren`** gezet, dus **niet standaard zichtbaar**. Reden: exploitant bevestigt bar en alcohol, maar **niet expliciet vrije spontane barinloop voor niet-hotelgasten**; dit bewijs is voor de app essentieel. De eerdere checkpointzin die `Voorlopig` noemt, is hierdoor achterhaald. **0 nieuwe locaties, 0 tijden/coördinaten ingevuld**, 624 masterlocaties. Vervolg: rechtstreeks exploitantbewijs voor losse publieke barconsumptie verkrijgen; daarna pas zichtbaarheid heroverwegen. Nieuwste CI/Pages voor deze SHA niet bevestigd.
+
+
 ### Aanvullend checkpoint 01-11-2026 — Leeuwarden primaire verificatie en onbetrouwbare website-subpagina (master 624)
 
 **Nieuwe datacommit [4753628](https://github.com/paltenburg/nogergensnaarbinnen/commit/4753628f7a49dc3a6bb8db5ac7f11ea824fe6ff5), 0 toegevoegd / 2 bestaande Friese records bijgewerkt, IDs en tijden behouden.** Bij **Café De Rus**, Stationsweg 28 Leeuwarden, bevestigen eigen https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ op **01-11-2026** vrije publieke borrel, speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt het adres. `access`, `alcohol`, `website_checked_on`, `checked_on`, `website_provenance` en bronnotities bijgewerkt. **Geen officieel weekrooster of laatste toegang aangetroffen; alle uren blijven onbekend.** Recente 2026-recensie op eigen https://cafederus.nl/reviews/ ondersteunt bezoek maar is geen tijdbron.
