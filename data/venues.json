@@ -28314,6 +28314,94 @@
         "https://aldestempel.nl/"
       ],
       "original_status": "Alleen actuele VVV-vermelding, geen primaire exploitatieverificatie."
+    },
+    {
+      "id": "poolcafe-freezone-leeuwarden-20261031",
+      "name": "Poolcafé Freezone",
+      "type": "Poolcafé / speciaalbierbar (18+)",
+      "address": "Grote Hoogstraat 24",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitantwebsite: publiek toegankelijk poolcafé, 18+, vrije inloop voor speciaalbier, darts en sportwedstrijden; geen verplicht poolspel.",
+      "alcohol": "Eigen site toont meer dan 75 bieren met percentages, o.a. pils, IPA, stout, cider; expliciet 18+-bar.",
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "opening_source": "https://www.poolcafeleeuwarden.nl/",
+      "closing_source": "https://www.poolcafeleeuwarden.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen website vermeldt ma/di 17–00, wo 15–00, do 15–01, vr/za 15–02, zo 15–00; laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: eigen site rechtstreeks geopend; reguliere opening/sluiting en 18+-bar/75 bieren bevestigd. Eigen adres Grote Hoogstraat 24; secundaire gidsen Cylex/Firmania noemen 24A. Exact BAG-unit en fysieke ingang eerst verifiëren; geen coördinaten aannemen.",
+      "website": "https://www.poolcafeleeuwarden.nl/",
+      "other_sources": [
+        "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/freezone",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-freezone-11786746.html",
+        "https://www.leeuwarden058.nl/poolcafe-freezone-8911hb/"
+      ],
+      "geocode_notes": "Exploitant noemt Grote Hoogstraat 24; gidsen noemen 24A. Niet automatisch 24A accepteren zonder exact huisnummerbewijs.",
+      "original_status": "Eigen actieve exploitantwebsite gecontroleerd 31-10-2026; actuele sociale bevestiging niet apart getest."
+    },
+    {
+      "id": "cafe-bar-de-leeuwarden-20261031",
+      "name": "Café Bar-Dé",
+      "type": "Buurtcafé / bar",
+      "address": "Baljéestraat 19",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitantberichten via sociale-mediapagina (gekopieerd door FindGlocal) tonen in juli 2026 reguliere caféactiviteit en wisselende dagopening; geen maaltijdverplichting genoemd.",
+      "alcohol": "Barfunctie en cafébezoekers bevestigd in actuele gidsen; specifieke actuele alcoholsoorten of bedrijfseigen drankkaart niet primair bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "2026-sociale berichten bevestigen afwijkingen; vaste weekuren alleen secundair en onderling conflicterend. Geen exact rooster overgenomen.",
+      "closing_notes": "31-10-2026: https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9 toont exploitantberichten juni/juli 2026 (sluiting vakantie 20 juli–4 aug, heropening dinsdag 4 aug 16:00), maar geen directe oktoberverificatie. https://www.cafebarde.nl/ toont slechts afbeelding, geen actuele uren. Cylex, RestaurantGuru en andere gidsen verschillen op ma/zo; geen sluituren overgenomen. Oude naam Café Baljee op hetzelfde adres mogelijk historisch, niet dubbel aangemaakt. Laatste toegang onbekend.",
+      "website": "https://www.cafebarde.nl/",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-d%C3%A9-14004712.html",
+        "https://nl.restaurantguru.com/Cafe-Bar-De-Leeuwarden",
+        "https://leeuwarden.uitloper.nu/locaties/cafe-baljee"
+      ],
+      "original_status": "Exploitantberichten tot juli 2026 tonen operationeel café; actuele oktoberstatus en exacte uren niet rechtstreeks bevestigd."
     }
   ],
   "admission_policies": [
