@@ -24202,6 +24202,52 @@
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/4027903447/cafe-veldzicht"
       ],
       "original_status": "Actueel café bevestigd via exploitant en oktober-2026 evenementagenda; geen BAG-marker of expliciete laatste toegang."
+    },
+    {
+      "id": "hcr-t-raedhus-dokkum-20261031",
+      "name": "Hotel Café Restaurant 't Raedhûs",
+      "type": "Hotel-café / bar / restaurant",
+      "address": "Koningstraat 1",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant noemt een afzonderlijke café-bar waar je na een dagje uit voor een drankje of hapje terechtkunt; publieke terras-/borrelfunctie bevestigd door Friesland.nl. Geen reserveringsplicht voor café genoemd.",
+      "alcohol": "Eigen https://www.raedhus.nl/diensten/dienst-2/ noemt meer dan 30 soorten speciaalbier en wijn (Sauvignon, Pinotage, Chardonnay).",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Exploitant publiceert geen afzonderlijk caféweekrooster. Restaurant vanaf 17:00 is dinerstart, niet caféopening; externe gidsen onderling tegenstrijdig.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: eigen https://www.raedhus.nl/ en https://www.raedhus.nl/diensten/dienst-2/ bevestigen café/bar en alcohol. https://www.raedhus.nl/diensten/dienst-4/ noemt restaurant dagelijks diner vanaf 17:00, geen caféstart. https://www.allebiz.nl/hotel-cafe-restaurant-t-raedhus-0519-294-082 geeft ma/di/do 10–00, wo/zo 10–23, vr/za 10–02; https://www.openingstijden.nl/Hotel-Cafe-Restaurant-t-Raedhus/Dokkum/Koningstraat-1-Nauwstraat-1/ geeft 08–22:30/23:00, strijdig. Geen gidsuren als exact overgenomen. Laatste toegang onbekend.",
+      "website": "https://www.raedhus.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site en café-bar-subpagina gecontroleerd 31-10-2026; Koningstraat 1 9101 LP.",
+      "checked_on": "2026-10-31",
+      "features": "Dokkum; afzonderlijke café-bar met speciaalbier, restaurant en hotel",
+      "other_sources": [
+        "https://www.raedhus.nl/diensten/dienst-2/",
+        "https://www.raedhus.nl/diensten/dienst-4/",
+        "https://www.friesland.nl/nl/locaties/1912167651/cafe-restaurant-t-raedhus",
+        "https://www.allebiz.nl/hotel-cafe-restaurant-t-raedhus-0519-294-082",
+        "https://www.openingstijden.nl/Hotel-Cafe-Restaurant-t-Raedhus/Dokkum/Koningstraat-1-Nauwstraat-1/"
+      ],
+      "original_status": "Café en drankaanbod primair bevestigd, exploitantwebsite bereikbaar; actuele specifieke caféweekuren en laatste toegang onbekend; geen geocode aangenomen."
     }
   ],
   "admission_policies": [
