@@ -13499,8 +13499,8 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek grand café voor alleen een drankje volgens eigen website; laatste toegang onbekend",
-      "alcohol": "Wijn en bier volgens eigen site/plaatselijke gids",
+      "access": "Exploitant bevestigt expliciet vrije inloop voor een glas wijn, tapbier, cocktails en borrelhapjes; geen verplichte maaltijd.",
+      "alcohol": "Eigen actuele bier- en wijnkaart bevestigt tapbier, speciaalbier en wijn; eigen over-ons-pagina bevestigt cocktails en vrije borrel zonder maaltijd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13513,14 +13513,17 @@
       },
       "closing_quality": "Officiële website voor opening; actuele sluiting niet bevestigd",
       "closing_source": "",
-      "closing_notes": "Officiële homepage 30-10-2026: dagelijks open, di–za vanaf 10:00 en zo/ma vanaf 11:30, zonder sluitingsuren. Een andere eigen URL https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/ toont historisch/feestdagenmateriaal en 10–17; externe gidsen melden 00:00. Niet duidelijk wat actueel is, dus geen eindtijd ingevuld. Laatste toegang onbekend.",
+      "closing_notes": "Officiële homepage 30-10-2026: dagelijks open, di–za vanaf 10:00 en zo/ma vanaf 11:30, zonder sluitingsuren. Een andere eigen URL https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/ toont historisch/feestdagenmateriaal en 10–17; externe gidsen melden 00:00. Niet duidelijk wat actueel is, dus geen eindtijd ingevuld. Laatste toegang onbekend. 31-10-2026: eigen bierkaart, wijnkaart en over-ons-pagina geverifieerd; sluituren onveranderd onbekend wegens conflicterende oude pagina.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.dewaeghdokkum.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/dokkum",
         "https://www.dewaeghdokkum.nl/",
         "https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/",
-        "https://dokkum.nl/eten-en-drinken/grand-cafe-de-waegh/"
+        "https://dokkum.nl/eten-en-drinken/grand-cafe-de-waegh/",
+        "https://www.dewaeghdokkum.nl/over-de-waegh/",
+        "https://www.dewaeghdokkum.nl/dranken/bierkaart/",
+        "https://www.dewaeghdokkum.nl/dranken/wijnkaart/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -13529,7 +13532,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Grote Breedstraat 1, 9101KH Dokkum"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-10-31",
       "opening": {
         "ma": "11:30",
         "di": "10:00",
@@ -13540,7 +13543,8 @@
         "zo": "11:30"
       },
       "opening_source": "https://www.dewaeghdokkum.nl/",
-      "opening_checked_on": "2026-10-30"
+      "opening_checked_on": "2026-10-30",
+      "website_checked_on": "2026-10-31"
     },
     {
       "id": "club33-dokkum-e7228a2",
@@ -28179,6 +28183,52 @@
         "https://www.cylex.nl/bedrijf/dax-gastrobar-13488736.html"
       ],
       "original_status": "Actuele exploitantwebsite op 31-10-2026 bevestigt exploitatie, alcohol en publieke borrel; sluiting onbekend."
+    },
+    {
+      "id": "restaurant-de-zwarte-haan-sint-jacobiparochie-20261031",
+      "name": "Restaurant De Zwarte Haan",
+      "type": "Restaurant / café-borrel",
+      "address": "Nieuwebildtdijk 428",
+      "city": "Sint Jacobiparochie",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen actuele site biedt publieke lunch, diner en borrelhapjes; losse borrel zonder maaltijd aannemelijk maar niet expliciet als afzonderlijke dienst bevestigd.",
+      "alcohol": "Tripadvisor-vermelding door bedrijf geclaimd: serveert alcohol, wijn en bier; eigen menu noemt borrelhapjes, maar geen actuele losse drankkaart. Alcoholaanbod secundair bevestigd, nog primair controleren.",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://www.zwartehaan.nl/",
+      "closing_source": "https://www.zwartehaan.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Eigen homepage vermeldt ma gesloten, di–zo 12:00–22:00. Geen afzonderlijke laatste toegang gepubliceerd.",
+      "closing_notes": "31-10-2026: eigen homepage rechtstreeks gevonden met reguliere di–zo 12–22 en maandag dicht; eigen menupagina bevestigt borrelhapjes. Alcoholsoorten via geclaimde Tripadvisor-bedrijfsvermelding, nog niet via actuele eigen drankenkaart bevestigd. Geen laatste toegang of seizoensuitzonderingen vastgesteld.",
+      "website": "https://www.zwartehaan.nl/",
+      "other_sources": [
+        "https://www.zwartehaan.nl/menu",
+        "https://www.zwartehaan.nl/contact",
+        "https://www.friesland.nl/nl/locaties/1593629152/restaurant-de-zwarte-haan",
+        "https://www.tripadvisor.be/Restaurant_Review-g8505730-d8658741-Reviews-Cafe_Restaurant_De_Zwarte_Haan-Sint_Jacobiparochie_Friesland_Province.html"
+      ],
+      "original_status": "Exploitantwebsite actueel gecontroleerd 31-10-2026; exacte reguliere uren bevestigd. Losse alcoholkaart en binnenkomstdeadline onbekend."
     }
   ],
   "admission_policies": [
