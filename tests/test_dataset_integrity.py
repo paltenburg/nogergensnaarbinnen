@@ -41,6 +41,12 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
                             f"{p['id']}: {field}.{day} = {value!r}",
                         )
 
+    def test_disputed_addresses_never_have_a_marker(self):
+        for p in self.places:
+            if p.get("geocode_blocked"):
+                with self.subTest(venue=p["id"]):
+                    self.assertFalse(p.get("geo"), "Disputed venue entrance has a marker")
+
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
             geo = p.get("geo")
