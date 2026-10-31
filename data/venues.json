@@ -24475,6 +24475,96 @@
         "https://lc.nl/weekbladenfriesland/heerenveensecourant/Caf%C3%A9-Bij-de-Buuf-keert-terug-in-caf%C3%A9-%E2%80%99t-Skoat-in-Oudeschoot-29202041.html"
       ],
       "original_status": "2024 heropening en 2026 bezoekersreacties; exploitantwebsite ontbreekt, huidige alcoholkaart en exacte uren nog niet primair geverifieerd."
+    },
+    {
+      "id": "grandcafe-hotel-van-der-meer-dokkum-20261031",
+      "name": "Grandcafé - Hotel Van der Meer",
+      "type": "Grand café / restaurant / hotel",
+      "address": "Woudweg 1",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen actuele website en Dokkumse stadsgids beschrijven een publiek grand café met drankjes en borrelhapjes; geen hotelovernachting of dinerreservering als voorwaarde genoemd.",
+      "alcohol": "Dokkumse officiële stadsgids noemt expliciet zorgvuldig geselecteerde wijnen en borrels; eigen grand-cafésite beschrijft eten en drinken. Specifieke actuele bierkaart niet apart geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "?"
+      },
+      "opening_source": "https://www.hotelvandermeer.nl/openingstijden/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.hotelvandermeer.nl/openingstijden/",
+      "closing_quality": "Exploitant toont op specifieke openingstijdenpagina naseizoen ma–za tot 20:00; zondag is seizoensafhankelijk en daarom onbekend.",
+      "closing_notes": "31-10-2026: eigen https://www.hotelvandermeer.nl/openingstijden/ vermeldt ma–wo 14:00–20:00, do–za 11:00–20:00; van 1 november tot 1 april zondag gesloten, UITZONDERING 29 november en 27 december. Andere exploitantpagina's tonen afwijkend algemeen rooster (o.a. dagelijks vanaf 11:00), daarom naseizoen expliciet gebruikt; zondag 'onbekend' in het vaste weekschema wegens uitzonderingszondagen en zomerrooster. Dit is geen onbeperkt jaarrond rooster. Laatste toegang onbekend. Restaurant-/keukentijden niet verward met toegangstijden.",
+      "website": "https://www.hotelvandermeer.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen exploitantwebsite met adres, hotel en grand café; specifiek naseizoensrooster rechtstreeks gelezen.",
+      "checked_on": "2026-10-31",
+      "features": "Dokkum; publieke borrel en wijn; seizoensrooster en uitzonderingszondagen; geen gegarandeerde laatste toegang",
+      "other_sources": [
+        "https://www.hotelvandermeer.nl/dokkum/",
+        "https://dokkum.nl/eten-en-drinken/grandcafe-hotel-van-der-meer/",
+        "https://www.socialdeal.nl/deals/friesland/grandcafe-hotel-van-der-meer/geniet-van-een-overheerlijk-3-gangen-keuzediner-bij-grandcafe-hotel-van-der-meer-in-dokkum-laat-je-in-de-watten-leggen-met-hemelse-gerechten-sep-2026-friesland/"
+      ],
+      "original_status": "Eigen actuele site en stadsgids ondersteunen huidige publieke borrelhoreca; zondag en seizoensafwijkingen niet als vaste tijd voorspeld."
+    },
+    {
+      "id": "hotel-restaurant-toxopeus-anjum-20261031",
+      "name": "Hotel Restaurant Toxopeus",
+      "type": "Restaurant / hotel / borrel",
+      "address": "De Singel 5",
+      "city": "Anjum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site: ook bezoekers die niet in het hotel verblijven zijn welkom in het restaurant en op het terras; expliciet kopje koffie of lunch, borrelhapjes op de kaart. Alleen alcohol drinken zonder maaltijd niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen actuele restaurantmenukaart: Heineken van de tap, Grutte Pier-bieren, wijn per glas en sterke drank in Irish/Spanish coffee.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "20:30",
+        "di": "20:30",
+        "wo": "20:30",
+        "do": "20:30",
+        "vr": "20:30",
+        "za": "20:30",
+        "zo": "20:30"
+      },
+      "opening_source": "https://toxopeusanjum.nl/restaurant/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://toxopeusanjum.nl/restaurant/",
+      "closing_quality": "Eigen restaurant- en contactpagina's noemen dagelijks 15:00–20:30; keuken tot 20:00, niet als horeca-sluiting gebruikt.",
+      "closing_notes": "31-10-2026: officiële https://toxopeusanjum.nl/restaurant/ en https://toxopeusanjum.nl/contact/ noemen 15:00–20:30 alle dagen. Eigen menukaart toont tapbier, Grutte Pier, wijnen en sterke drank. Restaurant noemt expliciet niet-hotelgasten; uitsluitend een drankje zonder maaltijd nog niet expliciet bevestigd. Laatste toegang onbekend. LET OP: niet verwarren met 'Toxopeus op de dijk' / De Gouden Stek, Oostmahorn 29: dit is een ander adres en exploitant.",
+      "website": "https://toxopeusanjum.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen hotel-/restaurantsite met adres, publiek restaurant, drankenkaart en actuele daguren.",
+      "checked_on": "2026-10-31",
+      "features": "Anjum; tapbier, Friese bieren en wijn; publiek restaurant, keuken tot 20:00",
+      "other_sources": [
+        "https://toxopeusanjum.nl/contact/"
+      ],
+      "original_status": "Exploitant bevestigt actieve publieke horeca en alcoholkaart; alleen-drank-inloop en laatste toegang nog niet expliciet geverifieerd."
     }
   ],
   "admission_policies": [
