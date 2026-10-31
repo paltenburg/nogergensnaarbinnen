@@ -27411,6 +27411,179 @@
       ],
       "checked_on": "2026-10-31",
       "features": "Restaurant, terras, drankje; alcohol secundair bevestigd"
+    },
+    {
+      "id": "eetcafe-t-anker-elsloo-20261031",
+      "name": "Eetcafé 't Anker",
+      "type": "Eetcafé / borrel",
+      "address": "Hoofdweg 29",
+      "city": "Elsloo",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant: iedereen welkom voor een borrel, met of zonder maaltijd, binnen of op terras.",
+      "alcohol": "Exploitant toont oktober 2026 eigen Oktoberfest-berichten met bier; bieraanbod expliciet bevestigd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "21:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "21:00"
+      },
+      "opening_source": "https://eetcafeanker.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://eetcafeanker.nl/contact/",
+      "closing_quality": "Exploitant publiceert do 17–21, vr/za 11–22, zo 11–21; ma–wo niet als open vermeld en ook als gesloten door Social Deal. Keukeneinduur 20:00 is geen cafésluiting.",
+      "closing_notes": "Laatste toegang niet gepubliceerd. Evenementen en incidentele vrije dagen kunnen afwijken; socialfeed op eigen homepage bevat een zaterdagse vrije dag.",
+      "website": "https://eetcafeanker.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://eetcafeanker.nl/contact/",
+        "https://www.socialdeal.nl/deals/friesland/eetcafe-t-anker/geniet-van-een-smakelijk-3-gangen-keuzediner-bij-eetcafe-t-anker-in-elsloo-smul-bijvoorbeeld-van-mosterdsoep-met-spekjes-een-broodje-hamburger-en-2-bolletjes-ijs-met-slagroom-sep-2026-drenthe-friesland/"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Publieke borrel, bier, terras; Ooststellingwerf / Elsloo"
+    },
+    {
+      "id": "pand-1880-haulerwijk-20261031",
+      "name": "Pand 1880",
+      "type": "Restaurant / bar / borrel",
+      "address": "Norgerweg 1",
+      "city": "Haulerwijk",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site: vrije inloop voor borrel aan de bar, ook zonder maaltijd; publiek restaurant en terras.",
+      "alcohol": "Eigen site noemt wijn en lokaal speciaalbier van de tap bij borrel.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "opening_source": "https://www.pand1880.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://www.pand1880.nl/contact/",
+      "closing_quality": "Exploitant vermeldt restaurant wo/do 11:00–22:00 en vr/za/zo 11:00–00:00; ma/di geen reguliere opening. Cafetaria heeft andere uren en is niet apart opgenomen.",
+      "closing_notes": "Eigen https://www.pand1880.nl/over-ons/ bevestigt dat het vroegere café Het Bruine Paard in 2020 werd overgenomen en verbouwd: geen tweede actuele zaak op Norgerweg 1. Laatste toegang niet gepubliceerd.",
+      "website": "https://www.pand1880.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.pand1880.nl/over-ons/",
+        "https://www.friesland.nl/nl/locaties/2885891450/pand-1880"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Wijn, speciaalbier, borrelbar; Haulerwijk"
+    },
+    {
+      "id": "hanenburg-stadscafe-sneek-20261031",
+      "name": "Hanenburg Stadscafé",
+      "type": "Stadscafé / cocktailbar / wijnbar",
+      "address": "Wijde Noorderhorne 2",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant: publieke lunch en vrije borrel vanaf middag; geen verplichte maaltijd. De naastgelegen Bodega y Tapas is een ander concept op hetzelfde pand.",
+      "alcohol": "Eigen site biedt cocktails, wijn en een afzonderlijke dranken- en cocktailkaart.",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://hanenburgstadscafe.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://hanenburgstadscafe.nl/",
+      "closing_quality": "Eigen homepage-header vermeldt di–zo 11:00–23:00; verderop staat alleen 'vanaf 11:00' en maandag gesloten. Gids met vr/za 01:00 conflicteert; primaire header gebruikt met voorbehoud.",
+      "closing_notes": "Laatste toegang onbekend. Gedeeld adres met Bodega y Tapas, maar exploitant presenteert afzonderlijk stadscafé en bodega; niet samenvoegen zonder bewijs. Openingsnieuws juli 2025 is niet gebruikt als enige bewijs van huidige exploitatie.",
+      "website": "https://hanenburgstadscafe.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/4056358571/hanenburg-stadscafe",
+        "https://www.grootfryslan.nl/nieuws/in-bedrijf/113705/iris-de-jong-opent-op-woensdag-9-juli-nieuwe-horecazaak-in-sn"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Cocktails, wijn, borrelplanken; Sneek centrum"
+    },
+    {
+      "id": "eetcafe-de-basuin-leeuwarden-20261031",
+      "name": "Eetcafé De Basuin",
+      "type": "Eetcafé / borrel",
+      "address": "Nieuwe Hollanderdijk 1",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant noemt spontaan borrelen met vrienden; regionale Visit Leeuwarden beschrijft vrije inloop voor drankje.",
+      "alcohol": "Eigen website noemt borrelen maar geen uitgeschreven actuele bier-/wijnkaart; HFS vermeldt bier bij gerechten. Exact assortiment nog primair verifiëren.",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "12:00",
+        "za": "14:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://basuin.nl/contact/",
+      "opening_checked_on": "2026-10-31",
+      "closing_source": "https://basuin.nl/contact/",
+      "closing_quality": "Eigen site geeft ma gesloten, di–do/zo vanaf 16, vr vanaf 12, za vanaf 14, zonder einduren. Externe gidsen noemen onderling 22:00 of 00:00; niet als bevestigd overgenomen.",
+      "closing_notes": "Laatste toegang onbekend. Reservering voor groepen groter dan zes vereist tijdige afstemming; geen bewijs van reserveringsplicht voor individuele borrel.",
+      "website": "https://basuin.nl/",
+      "website_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/3008250621/eetcafe-de-basuin",
+        "https://visitleeuwarden.com/en/locations/2392105226/eatery-De-Basuin",
+        "https://www.hfsfreelancers.nl/locaties/leeuwarden/restaurants/eetcafe-de-basuin"
+      ],
+      "checked_on": "2026-10-31",
+      "features": "Borrel, terras; Leeuwarden Huizum"
     }
   ],
   "admission_policies": [
