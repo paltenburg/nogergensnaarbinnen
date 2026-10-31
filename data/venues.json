@@ -23417,6 +23417,55 @@
         "https://www.allebiz.nl/cafe-biljart-t-praathus-0511-464-913"
       ],
       "original_status": "Kandidaat met 2026 KvK- en leveranciersvermelding; huidige publieke inloop niet primair bevestigd, daarom verborgen als Nog te controleren."
+    },
+    {
+      "id": "cafe-moarkswal-aldtsjerk-20261031",
+      "name": "Café Moarkswâl",
+      "type": "Dorpscafé / bruin café",
+      "address": "Van Sminiaweg 107",
+      "city": "Aldtsjerk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen caféwebsite verwelkomt publiek voor een hapje en drankje, biljarten, darten en klaverjassen; feesten en partijen zijn aanvullend.",
+      "alcohol": "Wielersportbond NTFU/Fietssport noemt expliciet een biertje bij Café Moarkswâl; eigen website noemt tapverhuur en dranken maar bevat geen uitgewerkte alcoholkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen volledig eigen weekrooster of actuele einduren op rechtstreeks geraadpleegde website; gids 03:00 niet overgenomen.",
+      "closing_source": "",
+      "closing_notes": "31-10-2026: eigen https://www.cafemoarkswal.nl/ verwelkomt publieke cafégasten en noemt op een dynamische dagtekst donderdag 'vanaf 18:00'; dit bewijst niet automatisch een vaste weekregeling. Eigen https://www.cafemoarkswal.nl/contact/ bevestigt Van Sminiaweg 107, 9064 KG Oudkerk/Aldtsjerk. https://www.fietssport.nl/spots/325/cafe-bar-moarkswal (NTFU) noemt bier en publiek café. https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-bar-moarkswal-aldtsjerk-01049513-000010224297 toont KvK/SBI 56300 met bronupdate 24-03-2026. https://www.rtvnof.nl/balken-vol-schaatsverhalen-blijft-traditie-bij-cafe-moarkswal-bestaan/ (05-09-2026) meldt café te koop, toekomst exploitatie onzeker; geen bewijs van sluiting. Externe https://www.allebiz.nl/caf%C3%A9-moarksw%C3%A2l-058-256-3300 geeft di–zo sluiting 03:00, maar niet bedrijfseigen geverifieerd. Alle gestructureerde weekuren en laatste toegang onbekend; geen kaartcoördinaten aangenomen.",
+      "features": "D0 Tytsjerksteradiel / Aldtsjerk; in september 2026 te koop, actuele overname/status blijven controleren",
+      "website": "https://www.cafemoarkswal.nl/",
+      "website_provenance": "Eigen website en contactpagina direct gecontroleerd 31-10-2026",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "opening_source": "",
+      "opening_checked_on": "2026-10-31",
+      "other_sources": [
+        "https://www.cafemoarkswal.nl/contact/",
+        "https://www.cafemoarkswal.nl/eten-drinken/",
+        "https://www.fietssport.nl/spots/325/cafe-bar-moarkswal",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-bar-moarkswal-aldtsjerk-01049513-000010224297",
+        "https://www.rtvnof.nl/balken-vol-schaatsverhalen-blijft-traditie-bij-cafe-moarkswal-bestaan/",
+        "https://www.allebiz.nl/caf%C3%A9-moarksw%C3%A2l-058-256-3300"
+      ],
+      "original_status": "Actuele eigen site bevestigt caféfunctie; lokale berichtgeving 05-09-2026 bevestigt café te koop, geen definitieve sluiting. Exploitatie/uren blijven controlepunt."
     }
   ],
   "admission_policies": [
