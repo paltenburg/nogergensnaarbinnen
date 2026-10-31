@@ -10003,8 +10003,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant beschrijft openbaar muziekcafé aan Sint Jacobsstraat 29 met whisky, speciaalbier en muziek; geen reserveringsplicht gepubliceerd.",
+      "alcohol": "Eigen officiële website bevestigt meer dan 85 whisky's en 55 speciaalbieren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -10015,19 +10015,20 @@
         "za": "01:00",
         "zo": "23:00"
       },
-      "closing_quality": "Officiële regiogids",
-      "closing_source": "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek",
-      "closing_notes": "Volgens regiogids ma–do dicht, vrijdag en zaterdag tot 01:00, zondag tot 23:00.",
+      "closing_quality": "Eigen officiële caféwebsite bevestigt ma–do gesloten, vr/za 19:00–01:00 en zo 19:00–23:00.",
+      "closing_source": "https://cafedespoek.nl/index.html",
+      "closing_notes": "31-10-2026: eigen https://cafedespoek.nl/index.html bevestigt exact dezelfde uren als regionale VVV: ma–do dicht, vr/za 19–01, zo 19–23. Laatste toegang onbekend; externe gidsen met ruimere uren niet gevolgd.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://www.cafedespoek.nl/",
+      "website": "https://cafedespoek.nl/index.html",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
-        "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek"
+        "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek",
+        "https://cafedespoek.nl/index.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
-      "website_checked_on": "2026-10-29",
-      "website_provenance": "Directe site gekoppeld op basis van officiële locatievermelding / adres",
+      "original_status": "Eigen website bevestigt huidige openbare muziekcaféfunctie, whisky/speciaalbier en weekrooster op 31-10-2026.",
+      "checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Exploitantwebsite direct uitgelezen op 31-10-2026; adres, whisky-/bieraanbod en weekrooster bevestigd.",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -10037,8 +10038,8 @@
         "za": "19:00",
         "zo": "19:00"
       },
-      "opening_source": "https://www.friesland.nl/nl/locaties/845003542/cafe-de-spoek",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://cafedespoek.nl/index.html",
+      "opening_checked_on": "2026-10-31",
       "geo": {
         "lat": 53.2019513,
         "lon": 5.7964707,
