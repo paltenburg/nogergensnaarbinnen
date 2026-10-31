@@ -25011,6 +25011,100 @@
         "https://www.friesland.nl/nl/locaties/3172715545/t-schippershuis"
       ],
       "original_status": "Eigen actuele exploitantwebsite en menukaart gecontroleerd, geen fysieke deurcontrole."
+    },
+    {
+      "id": "restaurant-de-brekken-lemmer-20261031",
+      "name": "Restaurant De Brekken",
+      "type": "Restaurant/bar/borrel",
+      "address": "Brekkenweg 10",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; bar en terras; vrijdag/zaterdag livemuziek",
+      "access": "Exploitant nodigt bezoekers uit voor alleen een drankje of borrel aan de 20 meter lange bar, zonder maaltijdplicht; reguliere restaurant- en barinloop.",
+      "alcohol": "Exploitant noemt whisky, rum, gin, wijnen, bieren, speciaalbier en cocktails op eigen barpagina.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "opening_quality": "Eigen actuele contact-/barpagina 31-10-2026: restaurant ma–do/zo 12:00–23:00, vr/za 12:00–01:00.",
+      "closing_quality": "Eigen bar- en contactpagina 31-10-2026: restaurant-/barrooster, niet aparte snackbar- of winkeluren.",
+      "opening_source": "https://www.debrekken.nl/contact/",
+      "closing_source": "https://www.debrekken.nl/bar-en-zaal/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: de eigen homepage en barpagina geven ma–do 12–23, vr/za 12–01 en zo 12–23. Snackbar sluit 21:15; die tijd is niet als bar-einduur gebruikt. Feest-/livemuziek kan afwijken. Laatste toegang niet gepubliceerd. 'Café De Kleine Kneipe' op hetzelfde complex wordt op de eigen site als aparte ruimte voor feesten/verhuur genoemd; geen tweede regulier publiek café aangemaakt.",
+      "website": "https://www.debrekken.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen website, contact en barpagina 31-10-2026 gecontroleerd; actuele bar-/alcoholfunctie en adres rechtstreeks bevestigd.",
+      "other_sources": [
+        "https://www.debrekken.nl/bar-en-zaal/",
+        "https://www.debrekken.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/1845432495/restaurant-de-brekken"
+      ],
+      "original_status": "Eigen site met actuele publieke borrelfunctie; geen fysieke inlooptest."
+    },
+    {
+      "id": "fem-aan-het-dok-lemmer-20261031",
+      "name": "FEM aan het Dok",
+      "type": "Restaurant/bistro/borrel",
+      "address": "Kortestreek 13b",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; terras aan het water",
+      "access": "Reserveren is volgens exploitant niet verplicht. Een recente gastenbeoordeling van augustus 2026 beschrijft bezoek uitsluitend voor een borrel; actuele vrije inloop fysiek niet getest.",
+      "alcohol": "Eigen menukaart vermeldt wijnen; TripAdvisor-vermelding en recente gastenbeoordeling augustus 2026 noemen wijn, cava en bier/cocktails.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Exploitantcontactpagina 31-10-2026: ma–do 10–22, vr/za 10–24, zo 10–22.",
+      "closing_quality": "Eigen contactpagina; 24:00 genormaliseerd naar 00:00 op dezelfde uitgaansdag.",
+      "opening_source": "https://www.femaanhetdok.nl/contact",
+      "closing_source": "https://www.femaanhetdok.nl/contact",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen contactpagina zegt ma–do en zo 10–22, vr/za 10–24; 24:00 als 00:00 vastgelegd. TripAdvisor en andere gidsen tonen oudere/afwijkende sluituren tot 23:00; primaire exploitantpagina gevolgd. Laatste toegang onbekend. Exploitantcontact vermeldt postcode 8531 PZ, gidsen 8531 JE; postcode daarom niet in adresveld. Niet gelijk aan Café Le Duc Kortestreek 24.",
+      "website": "https://www.femaanhetdok.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen contactpagina en eigen menukaart 31-10-2026 gecontroleerd; losse borrel onderbouwd met recensie van augustus 2026, niet als exploitantgarantie voorgesteld.",
+      "other_sources": [
+        "https://www.femaanhetdok.nl/contact",
+        "https://www.femaanhetdok.nl/menukaart",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1045111-d23591726-Reviews-Fem_Aan_Het_Dok-Lemmer_Friesland_Province.html"
+      ],
+      "original_status": "Eigen exploitantwebsite actief en recente borrelreview; niet fysiek geverifieerd."
     }
   ],
   "admission_policies": [
