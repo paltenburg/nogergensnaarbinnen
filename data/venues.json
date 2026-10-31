@@ -25291,6 +25291,53 @@
         "https://www.friesland.nl/nl/locaties/2394633820/brasserie-no-14"
       ],
       "original_status": "Actuele eigen website en VVV bevestigen publieke brasserie/borrel; fysieke inloop niet getest."
+    },
+    {
+      "id": "beer-and-burgers-factory-lemmer-20261031",
+      "name": "Beer & Burgers Factory",
+      "type": "Sportsbar/burgerrestaurant",
+      "address": "Nieuwburen 16",
+      "city": "Lemmer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-10-31",
+      "features": "De Fryske Marren; Lemmer; sportsbar; soms DJ-avonden",
+      "access": "Eigen website vermeldt publiek restaurant, reserveren wordt aangeraden maar niet verplicht. Gidsen noemen sportsbar en drankjes; alleen-drank-inloop niet afzonderlijk bevestigd.",
+      "alcohol": "Bieraanbod ondersteund door zaaknaam, recente bezoekersrecensies over bier en gin-tonic en gidsen met bier/wijn; geen actuele eigen drankkaart geraadpleegd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen exploitantwebsite 31-10-2026: uitsluitend vrijdag t/m zondag vanaf 16:00; ma–do niet als open geadverteerd.",
+      "closing_quality": "Eigen site geeft geen sluituren; gidsen conflicteren (vr/za/zo 22/21/23/01). Niet als exacte sluiting ingevoerd.",
+      "opening_source": "https://beerandburgersfactory.nl/",
+      "closing_source": "https://beerandburgersfactory.nl/",
+      "opening_checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: eigen homepage en informatiepagina noemen alleen vr–zo vanaf 16:00. Gidsen verschillen sterk over einduren, daarom vr–zo onbekend. Eigen site geeft Nieuwburen 16 postcode 8531 EH; enkele gidsen noemen 8531 RL. Postcode niet opgenomen in adres. Laatste toegang onbekend. Voor puur borrelbezoek is reservering niet verplicht volgens tekst, maar expliciete vrije drankinloop niet primair bevestigd.",
+      "website": "https://beerandburgersfactory.nl/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen site en adrespagina gecontroleerd op 31-10-2026; recente 2026 bezoekersreviews ondersteunen exploitatie.",
+      "other_sources": [
+        "https://beerandburgersfactory.nl/een-homepagina-sectie/location-contact-us-right-now/",
+        "https://www.tripadvisor.fr/Restaurant_Review-g1045111-d17679081-Reviews-Beer_Burgers_Factory-Lemmer_Friesland_Province.html",
+        "https://eetgerust.nl/restaurant/beer-burgers-factory"
+      ],
+      "original_status": "Eigen actuele exploitantwebsite en recente 2026 gastreviews; bar-only toegang niet expliciet bevestigd."
     }
   ],
   "admission_policies": [
