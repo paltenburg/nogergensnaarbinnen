@@ -18093,7 +18093,8 @@
         "za": "?",
         "zo": "?"
       },
-      "geocode_notes": "31-10-2026: onzekere horecalocatie Farrewei 22 versus 37; BAG-marker op 22 bewust verwijderd. Pas hergeocoderen na primaire bevestiging van exacte ingang."
+      "geocode_notes": "31-10-2026: onzekere horecalocatie Farrewei 22 versus 37; BAG-marker op 22 bewust verwijderd. Pas hergeocoderen na primaire bevestiging van exacte ingang. Automatische PDOK-geocodering geblokkeerd via geocode_blocked=true totdat exact adres door primaire bron is vastgesteld.",
+      "geocode_blocked": true
     },
     {
       "id": "herberg-de-waard-van-ternaard-ternaard-1aceffe",
