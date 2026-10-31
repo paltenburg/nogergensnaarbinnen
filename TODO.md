@@ -5,6 +5,18 @@
 **Status:** doorlopend; niet af. Deze lijst is bedoeld als hervatpunt bij **"ga door"**.
 
 
+### Aanvullende ontdekkingscontrole 31-10-2026 — Delfstrahuizen, Sint Jacobiparochie en Leeuwarden (geen nieuwe masterwijzigingen)
+
+Na het 599-recordcheckpoint aanvullende onafhankelijke bronnen gecontroleerd, **0 nieuwe zaken gecommit** wegens onvoldoende actuele primaire onderbouwing van het volledige profiel:
+- **Eetkavee Dikke Tút**, Marwei 19 Delfstrahuizen: https://www.friesland.nl/fy/lokaasjes/1403029601/dikke-tut bevestigt borrelfunctie; https://www.allebiz.nl/eetcaf%C3%A9-dikke-tut_2j-0514-542-075 en https://www.restaurants.nl/delfstrahuizen/dikke-tut geven tegenstrijdige weeksluitingen, eigen https://dikketut.nl/ gaf bij controle timeout. Geen actuele primaire drankkaart of betrouwbaar sluituur, niet toegevoegd. Gids https://fietsroutenetwerk.nl/afstappunten/eetkavee-dikke-tt noemt bovendien afwijkend huisnummer 16; BAG/adres nog verifiëren.
+- **Eetkafee De Oasthoek**, Sint Jacobiparochie: https://friesland.headliner.nl/item/muzikant-rintje-kas-heropent-het-al-zeven-jaar-gesloten-cafe-de-oasthoek-dit-komt-helemaal-goed-lc-105028 en https://sintjabik.nl/actueel/ bevatten een **heropeningsplan** uit 2025, geen actuele feitelijke reguliere exploitatie. Niet toegevoegd.
+- **Café De Aardappelbeurs**, Zuideinde 64 Sint Jacobiparochie: https://sintjabik.nl/horeca/caf%C3%A9-de-aardappelbeurs/ bevestigt lokale vermelding, https://www.allebiz.nl/caf%C3%A9-restaurant-de-aardappelbeurs-0518-491-224 geeft onbetrouwbaar gidsrooster; geen actuele eigen weekuren of bewezen openstelling, niet toegevoegd.
+- **Restaurant De Zwarte Haan**, Nieuwebildtdijk 428 Sint Jacobiparochie: https://www.zwartehaan.nl/ bevestigt exploitatie en di–zo 12–22, https://www.zwartehaan.nl/menu bevestigt borrelhapjes maar niet expliciet een los actueel alcoholassortiment; geen ongecontroleerde alcoholaanname of nieuw record.
+- **It Polderhûs**, De Veenhoop: https://www.itpolderhus.nl/ noemt vanaf 1 oktober do/vr 16, za 14, zo 12 en seizoensverschillen; https://www.itpolderhus.nl/high-tea/ noemt prosecco bij reserveringsarrangement, losse vrije borrel blijft onbekend. Niet toegevoegd.
+- **Café De Oase versus Café Perridon**, Breedpad 9 Heerenveen, nogmaals op 31-10 gecontroleerd: https://www.cafedeoase.nl/ blijft een verouderde maar werkende oude site; https://www.cafeperridon.nl/ bevestigt **huidige** Café Perridon. De correctie staat al in commit `a9b4dec`; niet nogmaals wijzigen of dubbelen.
+
+**Hervat deze kandidaten alleen bij nieuwe primaire exploitatie-/drank-/adresinformatie**, niet opnieuw dezelfde gidsuren overnemen. Eerstvolgende prioriteit blijft 599-record Pages-CI en geocode, daarna D0 andere gemeenten, B2/B4 en W45 vanaf 02-11 10:00. Landelijke D1/D2 niet gestart.
+
 ### Checkpoint 31-10-2026 — Terschelling, Elahuizen, Leeuwarden en oude cafénaam (master **599**)
 
 **Actuele TODO en volledige master gelezen:** de strategie *Uitvoeringsstrategie: opzettelijk grote opdracht, doorwerken tot de grens* is toegepast. Master na writes **599 unieke locaties**, **Utrecht 224 / Friesland 375**. Actieve regio's blijven precies deze twee; **W45-audit nog niet verschuldigd** (start 02-11-2026 10:00 Europe/Amsterdam). **D0 Friesland open**; landelijke D1/D2 niet gestart.
