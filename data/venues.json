@@ -10562,9 +10562,9 @@
         "za": "01:00",
         "zo": "20:00"
       },
-      "closing_quality": "Toeristische regiogids (niet rechtstreeks bedrijfseigen geverifieerd)",
-      "closing_source": "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
-      "closing_notes": "30-10-2026: https://www.de-markies.nl/ rechtstreeks geopend; bevestigt naam, adres, openbare biercaféfunctie en alcoholassortiment, maar geeft op homepage geen weekrooster. Gids https://www.visitleeuwarden.com/locaties/2927114596/speciaalbiercafe-de-markies geeft ma dicht, di–do 16–01, vr/za 15–01, zo 15–20. Externe gidsen noemen soms vr/za 02; niet overgenomen. Op eigen site genoemde uiterste starttijd proeverij (17:00 in weekend) is GEEN laatste cafétoegang.",
+      "closing_quality": "Eigen officiële contactpagina publiceert volledig weekrooster (ma dicht, di–do 16–01, vr/za 15–01, zo 15–20).",
+      "closing_source": "https://www.de-markies.nl/contact/",
+      "closing_notes": "31-10-2026: officiële https://www.de-markies.nl/contact/ bevestigt volledige bestaande begin- en sluituren; regionale VVV had dezelfde tijden. Eigen https://www.de-markies.nl/ bevestigt >250 bieren, wisseltaps en borrel. Afwijkende externe vr/za 02:00 niet gevolgd. Proeverijen in weekend uiterlijk 17:00 starten is GEEN laatste cafétoegang; laatste toegang onbekend. Andere uren alleen voor afgesproken groepsactiviteiten.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.de-markies.nl/",
       "other_sources": [
@@ -10572,9 +10572,10 @@
         "https://www.visitleeuwarden.com/en/locations/2927114596/specialty-beer-cafe-De-Markies",
         "https://www.cylex.nl/bedrijf/speciaalbier-caf%C3%A9-de-markies-11171717.html",
         "https://www.de-markies.nl/",
-        "https://www.visitleeuwarden.com/locaties/2927114596/speciaalbiercafe-de-markies"
+        "https://www.visitleeuwarden.com/locaties/2927114596/speciaalbiercafe-de-markies",
+        "https://www.de-markies.nl/contact/"
       ],
-      "original_status": "Actuele eigen website bevestigd op 30-10-2026; weekrooster uit regionale gids, laatste toegang onbekend.",
+      "original_status": "Exploitant bevestigt eigen biercafé, alcohol en exact weekrooster via contactpagina op 31-10-2026.",
       "geo": {
         "lat": 53.2006648,
         "lon": 5.7897238,
@@ -10590,9 +10591,11 @@
         "za": "15:00",
         "zo": "15:00"
       },
-      "checked_on": "2026-10-30",
-      "website_checked_on": "2026-10-30",
-      "website_provenance": "Directe exploitantsite bevestigt De Markies, Groot Schavernek 19 en speciaalbiercafé; https://www.de-markies.nl/"
+      "checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Directe exploitantsite bevestigt De Markies, Groot Schavernek 19 en speciaalbiercafé; https://www.de-markies.nl/",
+      "opening_source": "https://www.de-markies.nl/contact/",
+      "opening_checked_on": "2026-10-31"
     },
     {
       "id": "cafe-de-pastorie-leeuwarden-ca96efd",
