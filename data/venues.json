@@ -29425,6 +29425,98 @@
         "https://www.visitwadden.nl/de/veranstaltungen/2917536039/ziegenwanderung"
       ],
       "original_status": "Actuele eigen website bevestigt exploitatie, borrel en wijn. Tijdelijke volledige sluiting 16–24 november 2026 expliciet; verborgen tot app datumuitzonderingen kan toepassen."
+    },
+    {
+      "id": "grandcafe-de-zaak-harlingen-20261101",
+      "name": "Grandcafé De Zaak",
+      "type": "Grand café / borrel en diner",
+      "address": "Voorstraat 45",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website adverteert losse namiddagborrel op terras en spontaan binnenlopen; maaltijd of reservering niet verplicht voor borrel.",
+      "alcohol": "Eigen site vermeldt wijn die wordt geschonken en borrelfunctie; concrete drankenkaart niet als tekst beschikbaar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "—"
+      },
+      "opening_source": "https://dezaakharlingen.nl/",
+      "closing_source": "https://dezaakharlingen.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_quality": "Exploitantwebsite: maandag–zaterdag 10:00–21:00, zondag gesloten; laatste toegang niet vermeld.",
+      "closing_notes": "01-11-2026: eigen https://dezaakharlingen.nl/ en https://dezaakharlingen.nl/menu/ bevestigen actuele exploitatie sinds heropening na verbouwing 2025, adres Voorstraat 45, losse borrel en ma–za 10–21, zondag dicht. Eigen tekst noemt wijn; geen exacte laatste toegang. De toeristische gids toont nog ouder 09–21-rooster; eigen site leidend. Niet verwarren met De Zaak Utrecht/Leeuwarden.",
+      "features": "Harlingen; voorheen Wally's; lunch, borrel, diner",
+      "website": "https://dezaakharlingen.nl/",
+      "other_sources": [
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/3853834926/grandcafe-de-zaak",
+        "https://www.franeker.frl/locaties/736/grandcafe-de-zaak/"
+      ],
+      "original_status": "Eigen exploitantwebsite met naam, adres, wijn, losse borrel en weekrooster bevestigd op 01-11-2026."
+    },
+    {
+      "id": "jonas-harlingen-20261101",
+      "name": "Jonas Harlingen",
+      "type": "Restaurant / borrel aan haven",
+      "address": "Nieuwe Willemskade 9",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt uit om spontaan binnen te waaien voor koffie of wijn; geen maaltijdverplichting voor losse borrel.",
+      "alcohol": "Eigen site bevestigt wijn, lokaal speciaalbier van Het Brouwdok en borrel met hapjes.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitantwebsite heeft meerdere onderling conflicterende weekroosters; regionale VVV noemt afwijkend expliciet november/december-rooster.",
+      "closing_quality": "Geen betrouwbaar eenduidig actueel borrelweekrooster; alle daguren en laatste toegang onbekend gehouden.",
+      "opening_source": "",
+      "closing_source": "",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: https://jonasharlingen.nl/ en https://jonasharlingen.nl/samenwerkingen/ bevestigen vrije borrel, wijn en speciaalbier, Nieuwe Willemskade 9. Eigen homepage/contactfooter zeggen ma–zo 11–19:30, eigen reserveringspagina noemt ma/di 12–17 en vr–zo 12–19, eigen menukaartenfooter weer vanaf 10. Regionale https://www.harlingenwelkomaanzee.nl/nl/locaties/3440402257/jonas-harlingen vermeldt voor november/december ma/di 12–18, wo/do gesloten, vr–zo 09–20. Dit is tegenstrijdig; geen vast rooster overgenomen. Laatste toegang onbekend. Geen tweede record voor Het Brouwdok op nr. 8.",
+      "features": "Harlingen; winteruren conflicteren; los borrelen aan Waddenhaven",
+      "website": "https://jonasharlingen.nl/",
+      "other_sources": [
+        "https://jonasharlingen.nl/contact/",
+        "https://jonasharlingen.nl/reserveren/",
+        "https://jonasharlingen.nl/menukaarten/",
+        "https://jonasharlingen.nl/samenwerkingen/",
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/3440402257/jonas-harlingen"
+      ],
+      "original_status": "Actuele exploitantwebsite bevestigt publiek restaurant en losse borrel met alcohol; tijden zijn conflicterend, daarom onbekend."
     }
   ],
   "admission_policies": [
