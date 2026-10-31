@@ -23466,6 +23466,54 @@
         "https://www.allebiz.nl/caf%C3%A9-moarksw%C3%A2l-058-256-3300"
       ],
       "original_status": "Actuele eigen site bevestigt caféfunctie; lokale berichtgeving 05-09-2026 bevestigt café te koop, geen definitieve sluiting. Exploitatie/uren blijven controlepunt."
+    },
+    {
+      "id": "grand-cafe-de-babbelaar-drachten-20261031",
+      "name": "Grand Café De Babbelaar Drachten",
+      "type": "Grand café / borrelbar",
+      "address": "Zuiderbuurt 64",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen vestigingswebsite nodigt bezoekers uit om zonder verplichte maaltijd aan te schuiven voor een borrel; reserveren is mogelijk maar niet als verplicht vermeld.",
+      "alcohol": "Eigen cocktailkaart noemt rum, wodka, tequila en likeuren; eigen homepage noemt high wine en high beer.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website, expliciet rooster vestiging Drachten, 31-10-2026; vr/za tot 23:00, niet de middernachturen van vestiging Burgum.",
+      "closing_source": "https://www.debabbelaar.com/",
+      "closing_notes": "31-10-2026: https://www.debabbelaar.com/ vermeldt expliciet Drachten Zuiderbuurt 64, ma 11–22, di gesloten, wo/do 11–22, vr/za 11–23, zo 11–22; https://www.debabbelaar.com/cocktails/ bevestigt alcohol. https://www.socialdeal.nl/bedrijf/den-helder/grand-cafe-de-babbelaar-drachten/ vermeldt vr/za 00:00, in strijd met de eigen vestigingspagina; eigen site gevolgd. Recente 2026-bezoekerservaringen bij https://novovibe.com/nl/nederland/drachten/lunch-en-diner/grandcafe-babbelaar ondersteunen actuele exploitatie, geen live garantie. De Babbelaar Burgum is een andere vestiging, ID niet samenvoegen. Laatste toegang onbekend; geen geocode aangenomen.",
+      "features": "D0 Smallingerland / Drachten; cocktailbar en losse borrel",
+      "website": "https://www.debabbelaar.com/",
+      "website_checked_on": "2026-10-31",
+      "website_provenance": "Eigen vestigingspagina en cocktailkaart rechtstreeks gecontroleerd op 31-10-2026",
+      "checked_on": "2026-10-31",
+      "opening_source": "https://www.debabbelaar.com/",
+      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen vestigingspagina Drachten, 31-10-2026",
+      "other_sources": [
+        "https://www.debabbelaar.com/cocktails/",
+        "https://www.socialdeal.nl/bedrijf/den-helder/grand-cafe-de-babbelaar-drachten/",
+        "https://novovibe.com/nl/nederland/drachten/lunch-en-diner/grandcafe-babbelaar",
+        "https://www.compadex.com/nl/businesses/nl/double-ff-drachten-81182678-47496991"
+      ],
+      "original_status": "Bedrijfseigen website bevestigt openbare alcoholhoreca en weekrooster, onafhankelijk 2026-bezoekersmateriaal ondersteunt exploitatie; laatste toegang niet vastgesteld."
     }
   ],
   "admission_policies": [
