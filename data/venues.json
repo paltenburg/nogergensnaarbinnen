@@ -5858,14 +5858,16 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.lejournal.nl/verbouwing",
-      "checked_on": "2026-10-26",
-      "closing_notes": "Vanwege verbouwing tijdelijk gesloten; officiële site kondigt heropening op 2 november 2026 aan. Tot bevestiging van feitelijke heropening niet opnemen als geopend; nieuwe openings- en sluitingstijden nog onbekend. Controle nodig op of na 2 november.",
+      "checked_on": "2026-10-31",
+      "closing_notes": "31-10-2026: https://www.lejournal.nl/ bevestigt nog steeds heropening gepland op 2 november na renovatie. Op 31 oktober niet als feitelijk heropend behandelen; selectie Nee/alle uren gesloten blijft tot daadwerkelijke opening onafhankelijk of door exploitant bevestigd. Oudere gidsroosters van vóór verbouwing niet overnemen. Hercontrole op/na 02-11 vereist.",
       "features": "Neude; Neude / terras",
       "website": "https://www.lejournal.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/5/",
-        "https://www.lejournal.nl/"
+        "https://www.lejournal.nl/",
+        "https://www.lejournal.nl/verbouwing",
+        "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/787/cafe-le-journal"
       ],
       "original_status": "Verbouwing binnen; terras wel toegankelijk volgens officiële website",
       "opening": {
@@ -6636,9 +6638,9 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Exploitant vermeldt vrije inloop bij de bar en een deel van de tafels, ook 's avonds; vanaf 30 oktober aangekondigd, feitelijke heropening nog niet onafhankelijk bevestigd.",
+      "access": "Exploitant https://www.nomono-utrecht.nl/ bevestigt vrije inloop aan bar en niet-gereserveerde tafels. Onafhankelijke journalistieke publicatie JFK van 31-10-2026 meldt dat de nieuwe zaak sinds 30-10 daadwerkelijk publiek open is.",
       "alcohol": "Eigen site noemt expliciet bieren en wijnen bij diner en borrel; aanbod volgens exploitant.",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -6651,16 +6653,17 @@
       "closing_quality": "Officiële site vermeldt woensdag t/m zondag 10:00 tot 'laat'; geen exact sluitingsuur of laatste toegang gepubliceerd.",
       "closing_source": "https://www.nomono-utrecht.nl/",
       "checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: exploitant https://www.nomono-utrecht.nl/ noemt Bemuurde Weerd Oostzijde 13, vrije inloop aan bar en enkele tafels, en vanaf 30 oktober open woensdag t/m zondag 10:00 tot 'laat'. Maandag/dinsdag uitsluitend mogelijke besloten verhuur, dus reguliere inloop gesloten. De tekst is een eigen openingsverklaring, geen onafhankelijke bevestiging dat de zaak daadwerkelijk sinds 30 oktober publiek draait; selectie blijft Nog te controleren. Sluiting en laatste toegang onbekend. Gidsen zoals https://uitjesmap.nl/uiteten/nomono-utrecht/ verwijzen nog naar de OUDE Europalaan 2B; nooit als huidig adres of uren gebruiken. Nieuwe BAG-marker ontbreekt.",
+      "closing_notes": "31-10-2026: onafhankelijke verslaggever JFK (https://jfk.nl/news/luisterbar-nomono-utrecht-heropent-nieuwe-locatie-centrum/) meldt expliciet feitelijke heropening 30-10-2026 aan Bemuurde Weerd O.Z. tegenover EKKO, inclusief foto's en ervaring. Exploitant https://www.nomono-utrecht.nl/ bevestigt Bemuurde Weerd Oostzijde 13, wo–zo vanaf 10:00 tot 'laat', vrije inloop bar/tafels; ma/di alleen besloten verhuur. Geen exact sluituur/laatste toegang, geen coördinaat aangenomen. Oude Europalaan-vermeldingen zijn verouderd.",
       "features": "Muziek / natuurwijn / cocktails; recent verhuisd",
       "website": "https://www.nomono-utrecht.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/5/",
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
         "https://deplaatsmaker.nl/actueel/nomono-vestigt-zich-aan-de-bemuurde-weerd",
-        "https://www.corner.inc/place/puZzLBj1Q3De"
+        "https://www.corner.inc/place/puZzLBj1Q3De",
+        "https://jfk.nl/news/luisterbar-nomono-utrecht-heropent-nieuwe-locatie-centrum/"
       ],
-      "original_status": "Eigen site verklaart opening vanaf 30 oktober 2026, fysieke opening nog niet onafhankelijk bevestigd op 31 oktober.",
+      "original_status": "31-10-2026: daadwerkelijke heropening sinds 30 oktober onafhankelijk gemeld door JFK, in overeenstemming met actuele eigen site; sluituren onbekend.",
       "geo": null,
       "website_checked_on": "2026-10-31",
       "website_provenance": "Verified official venue page",
