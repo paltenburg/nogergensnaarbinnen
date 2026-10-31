@@ -28767,6 +28767,96 @@
         "https://www.gault-millau.nl/nl/restaurants/de-herberg-van-smallingerland-rottevalle"
       ],
       "original_status": "Actuele exploitatie, adres en reguliere restaurantstart bevestigd 31-10-2026; zelfstandige vrije alcoholinloop niet bewezen, daarom verborgen."
+    },
+    {
+      "id": "markt23-sneek-20261031",
+      "name": "Markt23 Sneek",
+      "type": "Grandcafé / restaurantbar",
+      "address": "Marktstraat 23",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant noemt het restaurant én de bar en noemt borrelen als zelfstandig bezoekmoment; geen verplicht diner voor een losse borrel vermeld.",
+      "alcohol": "Exploitant toont op eigen drankenkaart tapbier, wijn per glas, cocktails en sterke drank.",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://markt23.nl/contact/",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exacte sluituren en laatste toegang niet primair bevestigd; onbekend gehouden.",
+      "closing_notes": "31-10-2026: Officiële contactpagina: dagelijks vanaf 09:00; geen sluituren of laatste toegang. Pubquiz- en feesttijden niet als regulier rooster aangenomen.",
+      "features": "Grandcafé met borrel, bier, wijn en cocktails; restaurantfunctie.",
+      "website": "https://markt23.nl/",
+      "other_sources": [
+        "https://markt23.nl/menukaart/",
+        "https://markt23.nl/restaurant/",
+        "https://markt23.nl/vacatures/open-sollicitatie/"
+      ],
+      "original_status": "31-10-2026: exploitant bevestigt actieve vestiging, adres, bar/borrel, alcoholaanbod en dagelijkse begintijd; geen sluiting/laatste toegang geverifieerd."
+    },
+    {
+      "id": "markt23-drachten-20261031",
+      "name": "Markt23 Drachten",
+      "type": "Grandcafé / restaurantbar",
+      "address": "Noordkade 31",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant noemt het restaurant én de bar en noemt borrelen als zelfstandig bezoekmoment; geen verplicht diner voor een losse borrel vermeld.",
+      "alcohol": "Exploitant toont op eigen drankenkaart tapbier, wijn per glas, cocktails en sterke drank.",
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://markt23.nl/contact/",
+      "closing_source": "",
+      "opening_checked_on": "2026-10-31",
+      "website_checked_on": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "closing_quality": "Exacte sluituren en laatste toegang niet primair bevestigd; onbekend gehouden.",
+      "closing_notes": "31-10-2026: Officiële contactpagina: dagelijks vanaf 11:30. Secundaire gidsen verschillen sterk in sluituren; niet overgenomen. Pubquiz- en feesttijden niet als regulier rooster aangenomen.",
+      "features": "Grandcafé met borrel, bier, wijn en cocktails; restaurantfunctie.",
+      "website": "https://markt23.nl/grandcafe-restaurant-drachten/",
+      "other_sources": [
+        "https://markt23.nl/menukaart/",
+        "https://markt23.nl/restaurant/",
+        "https://markt23.nl/vacatures/open-sollicitatie/"
+      ],
+      "original_status": "31-10-2026: exploitant bevestigt actieve vestiging, adres, bar/borrel, alcoholaanbod en dagelijkse begintijd; geen sluiting/laatste toegang geverifieerd."
     }
   ],
   "admission_policies": [
