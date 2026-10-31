@@ -8,6 +8,7 @@ on:
       - 'scripts/geocode.py'
       - 'tests/**'
       - 'scripts/build_source_registry.py'
+      - 'scripts/build_quality_report.py'
       - '.github/workflows/pages.yml'
   # Pushes immediately rebuild the Pages artifact without writing back to main.
   # A quiet scheduled run persists generated geocodes/source registers to git.
@@ -38,6 +39,8 @@ jobs:
         run: python scripts/geocode.py
       - name: Bronnenregister automatisch bijwerken
         run: python scripts/build_source_registry.py
+      - name: Datakwaliteitsrapport per actieve regio genereren
+        run: python scripts/build_quality_report.py
       # Never push from a push-triggered run: rapid venue commits made the
       # git branch advance during geocoding, causing repeated non-fast-forward
       # failures and noisy GitHub Actions emails. The freshly generated files
@@ -56,8 +59,9 @@ jobs:
               git reset --hard origin/main
               python scripts/geocode.py
               python scripts/build_source_registry.py
+              python scripts/build_quality_report.py
             fi
-            git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md
+            git add data/venues.json data/geocode-report.json data/source-register.json data/source-register.md data/quality-report.json
             if git diff --cached --quiet; then
               echo 'Generated data already current.'
               exit 0
