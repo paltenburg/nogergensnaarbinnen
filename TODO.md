@@ -1,5 +1,14 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Eindcontrole 01-11-2026 — datasetvalidatie en Leeuwarden-spotcheck
+
+**Na data-commit 73ecbac** actuele `data/venues.json` teruggelezen op blob `83e1340972af91b62ad5abd49856744ee0045425`: **666 records, 666 unieke IDs, Friesland 442, Utrecht 224, 0 ongeldige dagwaarden in aanwezige opening/closing/last_entry-objecten, 11/11 nieuwe records met complete zeven-dagen-openings- en sluitingsvelden, geen nieuwe dubbele (regio, woonplaats, adres)-groepen.** Dit is uitsluitend structurele JSON/JS-controle; **geen volledige CI, PDOK- of live mobiele test**. Vorige 655-record CI/Pages-run [41259871827](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41259871827) success bevestigd; 666-deployment niet geverifieerd. Er zijn nog **160 oude records zonder opening-object** (113 Utrecht, 47 Friesland); de frontend behandelt afwezig als onbekend, niet als gesloten. Niet blind opvullen met fictieve tijden.
+
+**Leeuwarden gecontroleerd zonder mutatie**: Café de Pastorie (Kleine Kerkstraat 9), Café-Bar 't Hoekje (Weaze 44), Café De Twin (Nieuwesteeg 2) zijn al in master met onzekere uren en zonder eigen verifieerbare website. 01-11-2026 opnieuw gevonden: https://www.visitleeuwarden.com/en/locations/2614250416/cafe-the-rectory, https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html, https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388. Bij Twin wijkt zondag/opening op gidsen af; bij Hoekje 22 vs 23; Pastorie-exploitant https://www.cafebiljartdepastorie.nl/ was niet bereikbaar. Geen primaire actuele roosters bevestigd, dus bestaande onbekenden behouden. **Volgende actie:** direct exploitant/recente officiële sociale kanalen voor deze drie, niet opnieuw generieke gidsuren overnemen.
+
+**Samenvatting werkelijke mutaties van deze uitvoering:** 11 nieuwe Friese records, 0 bestaande recordwijzigingen, **4 datacommits + 4 TODO-commits inclusief dit checkpoint**; CI/live publicatie van laatste dataset onbekend. W45-audit pas vanaf maandag 02-11-2026 10:00.
+
+
 ### Vervolgcheckpoint 01-11-2026 03:xx Europe/Amsterdam — WestCord/Brandaris, master 666
 
 **3 extra Terschellinger locaties** opgeslagen in [data-commit 73ecbac](https://github.com/paltenburg/nogergensnaarbinnen/commit/73ecbac23be2b186f3ee7d264efe8797db0d1f2d). **Totaal deze uitvoering: 11 nieuwe records (655 → 666), 4 datacommits en 3 eerdere TODO-commits, 0 bestaande records gewijzigd of verwijderd.** Actuele master-blob na write `83e1340972af91b62ad5abd49856744ee0045425` (nogmaals teruglezen bij volgende wijziging). **CI/Pages voor 666, PDOK en echte mobiele touchtest niet bevestigd.**
