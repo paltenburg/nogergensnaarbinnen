@@ -13748,8 +13748,8 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Actuele bedrijvengids vermeldt exploitatie van drinkgelegenheden op Schilbanken 17; vrije inloop niet afzonderlijk bij exploitant geverifieerd.",
-      "alcohol": "Drinkgelegenheid volgens actuele bedrijfsregistratie; concreet aanbod niet op eigen kaart bevestigd.",
+      "access": "Fietssport beschrijft De Kleine Beurs op Schilbanken 17 als café dat ook passerende fietsers welkom heet voor een drankje; zelfstandige recente exploitantbevestiging ontbreekt.",
+      "alcohol": "Fietssport noemt expliciet verschillende bieren en andere drankjes in het café; geen actuele eigen drankkaart of laatste toegang bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13762,13 +13762,15 @@
       },
       "closing_quality": "Onbekend: lokale bedrijvengids toont OSM/Google/zelfbeheer-uren zonder individuele bronherkomst; geen officiële bedrijfssite.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs vermeldt horeca, handelsnaam 'Café De Stee' en gidsuren (ma/di dicht, wo vanaf 16, do–za tot 01), maar zegt expliciet dat de tijddata uit OSM, Google of zelfbeheer kunnen komen. Niet bedrijfseigen bevestigd; weekrooster en laatste toegang onbekend gehouden. Naam niet zonder bevestiging veranderd.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs vermeldt horeca, handelsnaam 'Café De Stee' en gidsuren (ma/di dicht, wo vanaf 16, do–za tot 01), maar zegt expliciet dat de tijddata uit OSM, Google of zelfbeheer kunnen komen. Niet bedrijfseigen bevestigd; weekrooster en laatste toegang onbekend gehouden. Naam niet zonder bevestiging veranderd. | 01-11-2026: Fietssport noemt openbare café-inloop en verschillende bieren; RestaurantGuru toont een bezoekersrecensie van circa 2025 en uren wo–za 16–01, maar deze zijn niet rechtstreeks door de exploitant bevestigd. Bestaande onbekende weekuren gehandhaafd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen",
         "https://franeker.nl/bedrijven/5653dc1c560085ad0ccb6e14ab7c9e34/cafe-de-kleine-beurs",
-        "https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080"
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-kleine-beurs-56942087-26432080",
+        "https://www.fietssport.nl/spots/958/cafe-de-kleine-beurs",
+        "https://nl.restaurantguru.com/amp/De-Kleine-Beurs-Franeker"
       ],
       "original_status": "Bedrijvengids met KvK-sector drinkgelegenheden op adres gecontroleerd 2026-10-30; officiële website ontbreekt.",
       "geo": {
@@ -13777,7 +13779,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Schilbanken 17, 8801MH Franeker"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "grand-cafe-de-doelen-franeker-8aee2be",
@@ -13880,8 +13882,8 @@
       "city": "Franeker",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Lokale bedrijvengids bevestigt registratie als drinkgelegenheid op Schilcampen 1; publieke inloop niet rechtstreeks bij zaak bevestigd.",
-      "alcohol": "Drinkgelegenheid volgens KvK-gerelateerde gids; geen bedrijfseigen kaart gecontroleerd.",
+      "access": "In interview met eigenaar Wilco (FranekerActueel 05-06-2025) wordt expliciet iedereen uitgenodigd voor een borrel en sport kijken; lokale bedrijfsregistratie is in 2026 geactualiseerd. Actuele open-deurstatus op 01-11-2026 niet rechtstreeks bevestigd.",
+      "alcohol": "Eigenaar noemt in interview 05-06-2025 standaard barassortiment en speciaalbieren, waaronder Guinness; geen actuele 2026-drankkaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13894,12 +13896,14 @@
       },
       "closing_quality": "Onbekend: uren uit gemengde gids/OSM/zelfbeheerbron, niet bedrijfseigen bevestigd.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend. | 01-11-2026: interview met eigenaar 05-06-2025 bevestigt geplande do vanaf 19 en vr–zo vanaf 17, maar dit is een historisch openingsplan en geen 2026-weekrooster; geen begin-/einduren ingevuld. KvK-afgeleide update 12-02-2026 ondersteunt identiteit/adres, niet feitelijke deur-openstatus.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen",
-        "https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908"
+        "https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908",
+        "https://franekeractueel.nl/bar-1908-opent-haar-deuren-in-franeker-een-nieuw-tijdperk-voor-een-vertrouwd-adres/",
+        "https://www.compadex.com/nl/businesses/nl/bar-1908-84780606-62702939"
       ],
       "original_status": "KvK-gerelateerde bedrijfsvermelding op Schilcampen 1 geraadpleegd 2026-10-30; actuele inloop en tijden niet zelfstandig bewezen.",
       "geo": {
@@ -13908,7 +13912,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Schilcampen 1, 8801ME Franeker"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "de-bocht-fen-gune-franeker-1bf8b1f",
@@ -28321,7 +28325,7 @@
       "country": "Nederland",
       "selection": "Voorlopig",
       "access": "Eigen actuele site biedt publieke lunch, diner en borrelhapjes; losse borrel zonder maaltijd aannemelijk maar niet expliciet als afzonderlijke dienst bevestigd.",
-      "alcohol": "Tripadvisor-vermelding door bedrijf geclaimd: serveert alcohol, wijn en bier; eigen menu noemt borrelhapjes, maar geen actuele losse drankkaart. Alcoholaanbod secundair bevestigd, nog primair controleren.",
+      "alcohol": "Eigen exploitantwebsite bevestigt wijnservice bij Wadd'n-dinerarrangement; geclaimde Tripadvisor-bedrijfsvermelding noemt daarnaast wijn/bier. Losse alcoholbestelling zonder maaltijd en actuele zelfstandige drankkaart niet primair bevestigd.",
       "opening": {
         "ma": "—",
         "di": "12:00",
@@ -28345,15 +28349,16 @@
       "opening_checked_on": "2026-10-31",
       "closing_checked_on": "2026-10-31",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-01",
       "closing_quality": "Eigen homepage vermeldt ma gesloten, di–zo 12:00–22:00. Geen afzonderlijke laatste toegang gepubliceerd.",
-      "closing_notes": "31-10-2026: eigen homepage rechtstreeks gevonden met reguliere di–zo 12–22 en maandag dicht; eigen menupagina bevestigt borrelhapjes. Alcoholsoorten via geclaimde Tripadvisor-bedrijfsvermelding, nog niet via actuele eigen drankenkaart bevestigd. Geen laatste toegang of seizoensuitzonderingen vastgesteld.",
+      "closing_notes": "31-10-2026: eigen homepage rechtstreeks gevonden met reguliere di–zo 12–22 en maandag dicht; eigen menupagina bevestigt borrelhapjes. Alcoholsoorten via geclaimde Tripadvisor-bedrijfsvermelding, nog niet via actuele eigen drankenkaart bevestigd. Geen laatste toegang of seizoensuitzonderingen vastgesteld. | 01-11-2026: eigen Wadd'n-arrangement noemt expliciet bijpassende wijnen bij diner; dit bewijst wijnverstrekking, niet vrije losse borrel of laatste toegang. Eigen homepage met 12–22 opnieuw gevonden, geen uurwijziging.",
       "website": "https://www.zwartehaan.nl/",
       "other_sources": [
         "https://www.zwartehaan.nl/menu",
         "https://www.zwartehaan.nl/contact",
         "https://www.friesland.nl/nl/locaties/1593629152/restaurant-de-zwarte-haan",
-        "https://www.tripadvisor.be/Restaurant_Review-g8505730-d8658741-Reviews-Cafe_Restaurant_De_Zwarte_Haan-Sint_Jacobiparochie_Friesland_Province.html"
+        "https://www.tripadvisor.be/Restaurant_Review-g8505730-d8658741-Reviews-Cafe_Restaurant_De_Zwarte_Haan-Sint_Jacobiparochie_Friesland_Province.html",
+        "https://www.zwartehaan.nl/waddn-arrangement"
       ],
       "original_status": "Exploitantwebsite actueel gecontroleerd 31-10-2026; exacte reguliere uren bevestigd. Losse alcoholkaart en binnenkomstdeadline onbekend."
     },
