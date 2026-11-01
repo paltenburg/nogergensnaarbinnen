@@ -30692,6 +30692,52 @@
         "https://www.vvvterschelling.de/firmen/strandpaviljoen-heartbreak-hotel/"
       ],
       "original_status": "Eigen site bevestigt publieke jaarrond strandbar; VVV-uren conflicteren."
+    },
+    {
+      "id": "de-heeren-van-der-schelling-oosterend-20261101",
+      "name": "De Heeren van Der Schelling",
+      "type": "Restaurant / wijn / terrasborrel",
+      "address": "Oosterend 43",
+      "city": "Oosterend",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt losse wijn op zonnig terras; VVV zegt overdag zonder reservering welkom, geen maaltijdplicht.",
+      "alcohol": "Eigen site heeft wijnarrangement en noemt wijn per glas.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://deheerenvanderschelling.nl/",
+      "closing_source": "https://deheerenvanderschelling.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen 2026-site: 26-10 t/m 22-11 do–zo 11–23; 23-11 t/m 10-12 gesloten; kerstdata afwijkend; 3-1 t/m februari gesloten; zomer april–okt wo–zo 11–23. Datumfilter ontbreekt, dus geen generiek weekrooster.",
+      "closing_quality": "Alleen datumafhankelijk 23:00, in sluitperiodes gesloten. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://deheerenvanderschelling.nl/ geeft concrete seizoens-/datumblokken: 26 okt–22 nov 2026 do–zo 11–23; 23 nov–10 dec gesloten; kerstvakantie afwijkend; 3 jan–feb 2027 gesloten; april–okt wo–zo 11–23. https://www.vvvterschelling.nl/bedrijven/restaurant-heeren-van-der-schelling/ heeft alleen generiek wo–zo 11–23 en mist winteruitzonderingen. Wegens ontbreken datumafhankelijke filtering veilig verborgen. Geen 23:00 als vaste sluiting aangenomen.",
+      "features": "Terschelling Oosterend; terras; wijn; expliciete winter-sluitperiodes",
+      "website": "https://deheerenvanderschelling.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/restaurant-heeren-van-der-schelling/",
+        "https://www.terschellingoosterend.nl/bedrijven/eten-en-drinken/14-eten-en-drinken/64-de-heeren-van-der-schelling"
+      ],
+      "original_status": "Eigen website bevestigt exploitatie en publieke wijnborrel; datumspecifieke winterkalender verhindert generiek rooster."
     }
   ],
   "admission_policies": [
