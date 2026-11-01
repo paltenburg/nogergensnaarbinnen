@@ -34691,6 +34691,55 @@
       "checked_on": "2026-11-01",
       "original_status": "Nieuwe exploitatieregistratie in 2026 en recensies na oude faillissement, maar huidige publieke novemberopening nog onbevestigd; verborgen kandidaat.",
       "features": "Terherne, oude E59 failliet 2025, nieuwe exploitant KvK 2026; status en openingstijden eerst bevestigen"
+    },
+    {
+      "id": "cafe-zevenwouden-terherne-20261101",
+      "name": "Café Zevenwouden",
+      "type": "Bruin café / biljartcafé",
+      "address": "Buorren 24",
+      "city": "Terherne",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "VVV en lokale dorpssite beschrijven een publiek bruin café met terras, biljart, kaarten en vrije bezoekers; actuele toegangsvoorwaarden niet rechtstreeks van exploitant bevestigd.",
+      "alcohol": "Caféfunctie als drinkgelegenheid bevestigd door KvK-afgeleide 2026-registratie (SBI 5630) en lokale VVV; specifieke actuele drankenkaart niet primair geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen bereikbare en bevestigde actuele exploitantwebsite met regulier weekrooster. Cylex, Waze, AlleBiz en Eetgerust vermelden onderling verschillende beginuren/dagen.",
+      "closing_quality": "Cylex 00:00/02:00, Waze 23:00/01:00, AlleBiz dagelijks 02:00, Eetgerust andere uren. Geen primaire sluitingsuren of laatste toegang; alle onbekend.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "01-11-2026: lokale dorpsgids en VVV bevestigen historische en huidige publieke kroeg op Buorren 24; Compadex bevestigt KvK-registratie 93899165 voor drinkgelegenheid bijgewerkt 12-02-2026. Geen actuele eigen site gevonden; oude cafezevenwoudenterherne.nl slechts als historisch domein vermeld. Gidsroosters conflicteren: niet overgenomen. Laatste toegang, novemberse feitelijke openstelling en precieze BAG-coördinaten onbekend.",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Geen werkende actuele eigen website bevestigd op 01-11-2026; lokale dorpssite en VVV gebruikt, oude domeinnaam niet als actuele URL overgenomen.",
+      "other_sources": [
+        "https://www.genieteninterherne.nl/nl/dorpsleven/cafe-zevenwouden",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/3405720142/cafe-zevenwouden",
+        "https://www.compadex.com/nl/businesses/nl/cafe-zevenwouden-93899165-43852998",
+        "https://www.cylex.nl/bedrijf/zeven-wouden-caf%C3%A9-11006594.html",
+        "https://www.allebiz.nl/caf%C3%A9-zevenwouden-06-13838523",
+        "https://eetgerust.nl/restaurant/cafe-zevenwouden-terherne"
+      ],
+      "checked_on": "2026-11-01",
+      "original_status": "Actuele KvK-registratie en VVV/dorpssite ondersteunen bestaande publieke caféfunctie; primaire weekuren en actuele exploitantwebsite ontbreken.",
+      "features": "Terherne; bruin café, biljart, terras; geen sluituur of geocode gegokt"
     }
   ],
   "admission_policies": [
