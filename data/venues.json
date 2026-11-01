@@ -13896,14 +13896,16 @@
       },
       "closing_quality": "Onbekend: uren uit gemengde gids/OSM/zelfbeheerbron, niet bedrijfseigen bevestigd.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend. | 01-11-2026: interview met eigenaar 05-06-2025 bevestigt geplande do vanaf 19 en vr–zo vanaf 17, maar dit is een historisch openingsplan en geen 2026-weekrooster; geen begin-/einduren ingevuld. KvK-afgeleide update 12-02-2026 ondersteunt identiteit/adres, niet feitelijke deur-openstatus.",
+      "closing_notes": "30-10-2026: https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908 toont geregistreerde vestiging sinds 01-06-2025 en uren do 19–22, vr 17–00, za 17–00:30, zo 17–22; bron van tijddata kan OSM/Google/zelfbeheer zijn. Geen eigen website; niet als bevestigd weekrooster ingevuld. Laatste toegang onbekend. | 01-11-2026: interview met eigenaar 05-06-2025 bevestigt geplande do vanaf 19 en vr–zo vanaf 17, maar dit is een historisch openingsplan en geen 2026-weekrooster; geen begin-/einduren ingevuld. KvK-afgeleide update 12-02-2026 ondersteunt identiteit/adres, niet feitelijke deur-openstatus. | 01-11-2026 identiteits-/dubbelingscontrole: RestaurantGuru toont ook Bar Allouette en café Frenz op hetzelfde Schilcampen 1 zonder recente openingstijden of bezoekersbewijs; deze niet als afzonderlijke huidige locaties toegevoegd. Eigenaarinterview 2025 noemt Coco Nuts en Ons Café als voorgangers op dit adres. De exacte historische relatie van Allouette/Frenz is niet vastgesteld.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen",
         "https://franeker.nl/bedrijven/aaaf85c03b188b3ba18987720b6cfb7e/bar-1908",
         "https://franekeractueel.nl/bar-1908-opent-haar-deuren-in-franeker-een-nieuw-tijdperk-voor-een-vertrouwd-adres/",
-        "https://www.compadex.com/nl/businesses/nl/bar-1908-84780606-62702939"
+        "https://www.compadex.com/nl/businesses/nl/bar-1908-84780606-62702939",
+        "https://de.restaurantguru.com/Bar-Allouette-Franeker",
+        "https://de.restaurantguru.com/Cafe-Frenz-Franeker"
       ],
       "original_status": "KvK-gerelateerde bedrijfsvermelding op Schilcampen 1 geraadpleegd 2026-10-30; actuele inloop en tijden niet zelfstandig bewezen.",
       "geo": {
