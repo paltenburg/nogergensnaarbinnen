@@ -33123,6 +33123,55 @@
       "original_status": "01-11-2026: actuele exploitantwebsite en toeristische gids bevestigen publieke afzonderlijke cocktailbar; weekuren wo–za primair gecontroleerd, entree-/laatste-toegangstijd niet bekend.",
       "features": "Leeuwarden; kelder-speakeasy bij Spinoza; gedeeld adres bewust, aparte bar",
       "geocode_notes": "Eigen site noemt Eewal zonder huisnummer; verbonden Spinoza gebruikt Eewal 50-52. Exacte kelderingang onbekend, geen BAG-punt verzonnen."
+    },
+    {
+      "id": "scamele-muziek-sportcafe-leeuwarden-20261101",
+      "name": "Scamele - Muziek & Sportcafé",
+      "type": "Bruincafé / muziek- en sportcafé",
+      "address": "Ruiterskwartier 103",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site beschrijft openbaar bruin café waar bezoekers voor een drankje en muziek binnen kunnen lopen; bovenzaal voor besloten partijen afzonderlijk.",
+      "alcohol": "Cafébedrijf en eigen site bevestigen drankjes; Cylex vermeldt bier en Bacardi, recente onafhankelijke bezoekersrecensies noemen bier. Geen actuele bedrijfseigen drankkaart gecontroleerd.",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Exploitantwebsite op 01-11-2026: ma–za 15:00, zondag 14:00.",
+      "closing_quality": "Exploitantwebsite op 01-11-2026: dagelijks 00:00. Allebiz geeft afwijkende latere tijden; officiële bron aangehouden.",
+      "opening_source": "https://www.scamele.nl/",
+      "closing_source": "https://www.scamele.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.scamele.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Exploitantwebsite 01-11-2026 rechtstreeks geopend; naam, Ruiterskwartier 103 en alle zeven daguren gepubliceerd.",
+      "closing_notes": "01-11-2026: officiële https://www.scamele.nl/ vermeldt ma–za 15–00 en zo 14–00. https://www.allebiz.nl/scamele-muziek-sportcaf%C3%A9-058-215-4041 geeft ma–do 13–01, vr/za 13–03, zo 14–00: niet overgenomen wegens conflict. https://tablova.nl/zaak/leeuwarden/scamele-n3066861214 (OSM) ondersteunt eigen 15–00. Laatste toegang onbekend; niet afgeleid uit 00:00 sluiting.",
+      "other_sources": [
+        "https://www.scamele.nl/",
+        "https://www.allebiz.nl/scamele-muziek-sportcaf%C3%A9-058-215-4041",
+        "https://tablova.nl/zaak/leeuwarden/scamele-n3066861214",
+        "https://www.cylex.nl/bedrijf/de-scamele-ruter-10664088.html"
+      ],
+      "original_status": "01-11-2026: eigen bedrijfswebsite bevestigt actuele publieke kroegfunctie, adres en weekrooster; fysieke deurtoegang niet gecontroleerd.",
+      "features": "Leeuwarden; bruin muziek- en sportcafé; bovenzaal voor groepen"
     }
   ],
   "admission_policies": [
