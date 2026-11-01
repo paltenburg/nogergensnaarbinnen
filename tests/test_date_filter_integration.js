@@ -67,6 +67,17 @@ const byId = id => {
   assert.ok(place, 'missing venue: ' + id);
   return place;
 };
+// Sondrio's verified Christmas/New Year closure crosses the calendar year.
+for (const [date, day, expected] of [
+  ['2026-12-24', 'do', true],
+  ['2026-12-25', 'vr', false],
+  ['2027-01-01', 'vr', false],
+  ['2027-01-02', 'za', true]
+]) {
+  state.date = date; state.day = day; state.after = '';
+  assert.equal(eligible(byId('sondrio-drachten-20261101')), expected,
+    'Sondrio dated closure boundary ' + date);
+}
 const datedCases = [
   ['discotheek-de-lichtboei-nes-20261101', '2026-11-06', 'vr', true],
   ['discotheek-de-lichtboei-nes-20261101', '2026-11-05', 'do', false],
