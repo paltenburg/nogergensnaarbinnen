@@ -20162,7 +20162,8 @@
         "https://www.vvvschiermonnikoog.com/food-and-drinks/locations-near-the-sea/paviljoen-paal-3",
         "https://www.vvvschiermonnikoog.nl/eten-en-drinken/locaties-aan-zee/",
         "https://www.tripadvisor.nl/Restaurant_Review-g652206-d12629574-Reviews-Paviljoen_Paal_3-Schiermonnikoog_Friesland_Province.html",
-        "https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004"
+        "https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004",
+        "https://paal3schiermonnikoog.nl/"
       ],
       "opening_quality": "Geen actueel, jaarrond geldig bedrijfseigen weekrooster voor de publieke borrelfunctie bevestigd.",
       "closing_notes": "VVV: paviljoen alleen mei–eind september, in oktober buiten seizoen. Eigen site vermeldt di–zo 11–18 met weersafwijkingen, uitsluitend relevant in seizoen. Geen jaarrond opening of gegarandeerde sluiting; uit actuele tijdresultaten gehouden, hercontrole mei 2027.",
@@ -20183,7 +20184,7 @@
       "closing_source": "https://paal3schiermonnikoog.nl/",
       "features": "Schiermonnikoog; uitsluitend zomerseizoen mei–september; in oktober niet regulier open",
       "original_status": "Exploitantwebsite en VVV bevestigen seizoen mei–september 2026; niet regulier open op controledatum 30-10-2026.",
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
       "website_provenance": "Directe exploitantwebsite gecontroleerd 2026-10-30.",
       "opening": {
         "ma": "?",
@@ -20196,14 +20197,16 @@
       },
       "opening_source": "https://paal3schiermonnikoog.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "geo": {
         "lat": 53.4929589,
         "lon": 6.145855,
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg 145, 9166NH Schiermonnikoog"
       },
-      "geocode_notes": "PDOK/BAG exacte adresmatch Badweg 145, 9166NH Schiermonnikoog (standplaats); VVV-pagina vermeldt afwijkend 9166RS, en Tripadvisor 9166NK. BAG-afgeleid https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004 bevestigt 9166NH. Marker is BAG-adres/standplaats, fysieke positie van tijdelijk strandpaviljoen niet met terreinmeting bevestigd."
+      "geocode_notes": "PDOK/BAG exacte adresmatch Badweg 145, 9166NH Schiermonnikoog (standplaats); VVV-pagina vermeldt afwijkend 9166RS, en Tripadvisor 9166NK. BAG-afgeleid https://kadastralekaart.com/adres/schiermonnikoog-badweg-145/0088200000200004 bevestigt 9166NH. Marker is BAG-adres/standplaats, fysieke positie van tijdelijk strandpaviljoen niet met terreinmeting bevestigd.",
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: eigen homepage https://paal3schiermonnikoog.nl/ meldt 'We zijn gesloten voor dit seizoen' en 'Tot volgend jaar'. VVV https://www.vvvschiermonnikoog.com/food-and-drinks/locations-near-the-sea/paviljoen-paal-3 vermeldt mei t/m eind september. Geen exact openingsinterval voor 2027 bevestigd; daarom geen date_schedules en ook bij 'onzekere zaken' verborgen."
     },
     {
       "id": "paviljoen-de-leyen-rottevalle-da3fd25",
@@ -26788,7 +26791,7 @@
       "region": "friesland",
       "country": "Nederland",
       "selection": "Nog te controleren",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-01",
       "features": "De Fryske Marren; Oudemirdum; strandpaviljoen IJsselmeer; seizoensgebonden",
       "access": "Eigen site beschrijft publiek strandterras en loket met dranken. Seizoen begin april t/m eind oktober; buiten seizoen alleen feesten/partijen op aanvraag. Vanaf november geen reguliere vrije inloop aangenomen.",
       "alcohol": "Eigen arrangementenpagina noemt expliciet bier, wijn en binnenlands gedestilleerd; niet beperkt tot frisdrank.",
@@ -26817,7 +26820,7 @@
       "opening_checked_on": "2026-10-31",
       "closing_notes": "31-10-2026: eigen site noemt reguliere openstelling uitsluitend begin april–eind oktober; vanaf 01-11-2026 buiten seizoen. Standaard verborgen om geen winterse reguliere inloop te suggereren. Alle weekuren onbekend wegens datum-/weerafhankelijkheid; 24:00 alleen voor privéfeesten op aanvraag.",
       "website": "https://hegegerzen.nl/",
-      "website_checked_on": "2026-10-31",
+      "website_checked_on": "2026-11-01",
       "website_provenance": "Eigen homepage en arrangementenpagina gecontroleerd 31-10-2026; expliciete seizoensdata en alcohol bevestigd.",
       "other_sources": [
         "https://hegegerzen.nl/arrangementen/voetbalgolf/",
@@ -26830,7 +26833,9 @@
         "lon": 5.544855,
         "method": "PDOK BAG-adres",
         "matched_address": "Liemerige Wei 4, 8567HM Oudemirdum"
-      }
+      },
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: eigen https://hegegerzen.nl/ bevestigt reguliere publieke opening begin april t/m eind oktober, in april/oktober alleen weekenden en mei–september dagelijks 10:00–20:00 onder weersvoorbehoud. Buiten seizoen geen reguliere vrije inloop; besloten feesten zijn geen publieke opening. Begin april 2027 is geen exacte datum, dus geen nieuw date_schedules-interval."
     },
     {
       "id": "de-boazumer-mjitte-boazum-20261031",
@@ -26951,18 +26956,46 @@
       },
       "opening_quality": "Eigen seizoensrooster: wo–zo vanaf 11:00 tussen maart en 15 november; di uitsluitend zomer t/m 15 september.",
       "opening_source": "https://www.de-potvis.nl/openingstijden/",
-      "opening_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-11-01",
       "closing_quality": "Eigen site noemt geen vaste einduren; gidsen verschillen (23:00/24:00), niet overgenomen.",
       "closing_source": "https://www.de-potvis.nl/openingstijden/",
-      "closing_notes": "31-10-2026: eigen site: open eind maart–15 november, wo–zo vanaf 11:00; in zomer dinsdag vanaf 15:00 t/m 15 september; winter gesloten. Dinsdag wegens seizoenverschil onbekend, ma volgens eigen weekrooster niet open. Na 15-11-2026 standaard zichtbaarheid herbeoordelen; geen jaarrond uren claimen. Laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: eigen site: open eind maart–15 november, wo–zo vanaf 11:00; in zomer dinsdag vanaf 15:00 t/m 15 september; winter gesloten. Dinsdag wegens seizoenverschil onbekend, ma volgens eigen weekrooster niet open. Na 15-11-2026 standaard zichtbaarheid herbeoordelen; geen jaarrond uren claimen. Laatste toegang onbekend. 01-11-2026: datumfilter vereist; 01–15 november geverifieerd wo–zo vanaf 11:00, daarna winterstop; geen jaarrond openstelling.",
       "website": "https://www.de-potvis.nl/",
       "website_checked_on": "2026-10-31",
       "other_sources": [
         "https://www.de-potvis.nl/openingstijden/",
         "https://www.strandtenten.nl/friesland/stavoren/restaurant-paviljoen-de-potvis/"
       ],
-      "checked_on": "2026-10-31",
-      "features": "Seizoen eind maart–15 november; terras; wijn; borrel"
+      "checked_on": "2026-11-01",
+      "features": "Seizoen eind maart–15 november; terras; wijn; borrel",
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-15",
+          "source": "https://www.de-potvis.nl/openingstijden/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "11:00",
+            "do": "11:00",
+            "vr": "11:00",
+            "za": "11:00",
+            "zo": "11:00"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "?",
+            "do": "?",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          }
+        }
+      ],
+      "date_schedule_notes": "01-11-2026: eigen openingstijdenpagina bevestigt wo–zo vanaf 11:00 tussen eind maart en 15 november; dinsdag alleen in zomer t/m 15 september. Alleen 01–15 november 2026 als verifieerbaar toekomstig interval opgeslagen; na 15 november wintergesloten. Begin seizoen 2027 niet als vaste datum aangenomen. Geen exacte barsluiting of laatste toegang."
     },
     {
       "id": "brasserie-de-brink-oudemirdum-20261031",
@@ -28848,9 +28881,9 @@
       },
       "opening_source": "https://itposthusburdaard.nl/restaurant/",
       "closing_source": "",
-      "opening_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-11-01",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-01",
       "closing_quality": "Seizoensgebonden; eigen site: november–februari restaurant volledig gesloten. Geen actueel dagelijks einduur. Eigen contactkop noemt dagelijks vanaf 10:00 maar seizoensrooster in footer is specifieker.",
       "closing_notes": "31-10-2026: eigen site vermeldt november–februari ma–zo gesloten; maart di–zo vanaf 17, april–september dagelijks vanaf 10, oktober di–zo vanaf 17. Wegens ontbreken datumafhankelijke seizoensfilter alle vaste weekuren onbekend en record verborgen, zodat winterbezoekers geen onjuiste reguliere opening zien. Hotel blijft apart open; dit is geen baropening. Laatste toegang onbekend.",
       "features": "Burdaard, terras aan Dokkumer Ee; seizoen november–februari restaurant dicht",
@@ -28860,7 +28893,9 @@
         "https://itposthusburdaard.nl/contact/",
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/115032721/restaurant-it-posthus"
       ],
-      "original_status": "Exploitantwebsite gecontroleerd 31-10-2026; actuele winterseizoenssluiting bevestigd, alcoholsoorten nog controleren."
+      "original_status": "Exploitantwebsite gecontroleerd 31-10-2026; actuele winterseizoenssluiting bevestigd, alcoholsoorten nog controleren.",
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: officiële https://itposthusburdaard.nl/restaurant/ en https://itposthusburdaard.nl/contact/ vermelden november t/m februari restaurant alle dagen gesloten; hotel blijft open. Geen datumrooster ingevoerd: maart 2027 wel vanaf 17:00 di–zo aangekondigd, maar losse alcoholborrel en exacte baruren niet bevestigd. Tot gerichte hercontrole ook met onzeker-toggle verborgen."
     },
     {
       "id": "de-herberg-van-smallingerland-rottevalle-20261031",
