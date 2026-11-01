@@ -191,4 +191,12 @@ assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20
   '10:00 precedes 10:30 opening');
 state.after = '';
 
+state.date = '2026-11-01'; state.day = 'zo'; state.after = '17:30';
+assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), true,
+  'Berenloop Sunday is open until 18:00');
+state.after = '18:00';
+assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), false,
+  'Berenloop Sunday closes exactly at 18:00');
+state.after = '';
+
 console.log('Frontend dated-closure integration tests passed');
