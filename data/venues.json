@@ -34004,6 +34004,53 @@
       ],
       "original_status": "Actieve exploitant en vrije borrel op eigen site; adres Voorstraat 12.",
       "features": "Harlingen; wijn-, cocktail- en borrelkaart"
+    },
+    {
+      "id": "brasserie-braam-harlingen-20261101",
+      "name": "Brasserie Braam (Art Hotel)",
+      "type": "Hotelbrasserie / bar",
+      "address": "Voorstraat 18",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant beschrijft een publieke brasserie, een aparte bar en borrels in de binnentuin; dinsdag en woensdag uitsluitend voor hotelgasten.",
+      "alcohol": "Exploitant noemt een borrel in de bar; door zaak geclaimde Tripadvisor-vermelding noemt expliciet alcohol en volledige bar, maar actuele eigen drankkaart niet tekstueel gecontroleerd.",
+      "opening": {
+        "ma": "15:00",
+        "di": "—",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële Art Hotel-brasseriepagina 01-11-2026: donderdag t/m maandag vanaf 15:00, dinsdag/woensdag alleen hotelgasten.",
+      "closing_quality": "Exploitant publiceert geen sluitingstijd; externe Tripadvisor-uren niet overgenomen.",
+      "opening_source": "https://www.arthotelharlingen.nl/brasserie-braam/",
+      "closing_source": "https://www.arthotelharlingen.nl/brasserie-braam/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.arthotelharlingen.nl/brasserie-braam/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Officiële website van Art Hotel Harlingen met brasserie, adres, publieke dagen en bar.",
+      "closing_notes": "01-11-2026: bedrijfseigen site bevestigt openbare borrel en vanaf 15:00 do–ma, di/wo uitsluitend hotelgasten. Externe Tripadvisor claimt do–ma 15–23 maar eigen einduren ontbreken; dus ? en laatste toegang onbekend. Geen restauranturen als gegarandeerde barsluiting aangenomen.",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/3311613278/brasserie-braam-art-hotel-harlingen",
+        "https://www.tripadvisor.nl/Restaurant_Review-g612459-d33054430-Reviews-Brasserie_Braam-Harlingen_Friesland_Province.html"
+      ],
+      "original_status": "Eigen exploitant bevestigt actieve brasserie met bar en publiek borrelen; alleen do–ma reguliere publieke dagen.",
+      "features": "Hotelbrasserie; bar en binnentuin; di/wo alleen hotelgasten"
     }
   ],
   "admission_policies": [
