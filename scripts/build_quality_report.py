@@ -81,6 +81,8 @@ def build_report(dataset, snapshot_date):
             "duplicate_alias_count": len(aliases),
             "duplicate_aliases": [{"id": p["id"], "duplicate_of": p["duplicate_of"]} for p in aliases],
             "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in venues),
+            "date_schedule_venue_count": sum(bool(p.get("date_schedules")) for p in venues),
+            "requires_date_schedule_count": sum(bool(p.get("requires_date_schedule")) for p in venues),
             "settlement_count": len(city_coverage),
             "settlement_coverage": city_coverage,
             "selection_counts": dict(sorted(selections.items())),
@@ -113,6 +115,8 @@ def build_report(dataset, snapshot_date):
         "distinct_recorded_venues": sum(not p.get("duplicate_of") for p in places),
         "duplicate_alias_count": sum(bool(p.get("duplicate_of")) for p in places),
         "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in places),
+        "date_schedule_venue_count": sum(bool(p.get("date_schedules")) for p in places),
+        "requires_date_schedule_count": sum(bool(p.get("requires_date_schedule")) for p in places),
         "regions": regions,
     }
 
