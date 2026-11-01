@@ -94,7 +94,7 @@ const timedFunctions = [
   inlineRange('function effectiveAdmission(', 'function entryBeforeClosing('),
   inlineRange('function openAtSelectedTime(', 'function eligible('),
   source
-].join('\\n');
+].join('\n');
 const timedEligible = vm.runInNewContext(timedFunctions + '; eligible', {
   state, NGNBDateClosures, db: master, closing
 });
