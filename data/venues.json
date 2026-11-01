@@ -33225,6 +33225,58 @@
       ],
       "original_status": "01-11-2026: KvK 2026 en terrasvergunning 2025, maar actuele exploitantopening niet bevestigd; standaard verborgen.",
       "features": "Grou; biljartcafé; bronconflict; 2025 terrasvergunning"
+    },
+    {
+      "id": "the-drunken-dragon-leeuwarden-20261101",
+      "name": "The Drunken Dragon",
+      "type": "Fantasycafé / themabar",
+      "address": "Weerd 13",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Openbaar fantasycafé: oprichters benadrukken vrije publieke toegang; samenwerking met onafhankelijke organisator MytheMakers bevestigt geplande pubquiz 12-11-2026. Ticket voor specifieke pubquiz is niet gelijk aan entreeplicht bij gewone café-inloop.",
+      "alcohol": "Leeuwarder Courant 08-06-2026 beschrijft creatieve alcoholische cocktails en pubfood; gewijzigde Alcoholwetvergunning op Weerd 13 verleend juni 2026. Vergunning alleen is geen bewijs van feitelijke schenktijden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actuele exploitantweekrooster gevonden op 01-11-2026. OSM-afgeleid We–Fr 16–02, za 13–02, zo 13–19 niet als bevestigd overgenomen.",
+      "closing_quality": "Geen door exploitant bevestigd weeksluituur of laatste toegang. Event 12-11-2026 20–23 is pubquizduur, niet reguliere sluiting.",
+      "opening_source": "https://leeuwarden-nieuws.nl/adressen/the-drunken-dragon-weerd/",
+      "closing_source": "https://mythemakers.nl/en/events/fantasy-pubquiz/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Geen rechtstreeks verifieerbare eigen officiële site gevonden; gelijknamige buitenlandse restaurants/bars niet overnemen.",
+      "closing_notes": "01-11-2026: LC 08-06-2026 meldt opening 13-06-2026 in voormalige YAI, cocktails, publieke inclusieve fantasybar. MytheMakers heeft na uitverkochte pubquiz van 29-10 een nieuwe samenwerking 12-11 20–23 in Drunken Dragon Weerd 13; Keunstwurk kondigt event 15-11 op dezelfde locatie aan. Dit ondersteunt recente exploitatie, maar geen live open-deurcheck. Weerd 13 wordt bevestigd door eventorganisator en juni 2026 gemeentelijke terras-/Alcoholwetvergunning. KvK-afgeleide Company.info/Compadex noemen Hoeksterpad 2 als registratieadres; niet als cafébezoekadres gebruikt. OSM geeft wo–vr 16–02, za 13–02, zo 13–19 maar geen exploitantverificatie, dus alle basisuren ?. Laatste toegang onbekend; geen geocode verzonnen.",
+      "other_sources": [
+        "https://www.lc.nl/regio/friesland/leeuwarden/article157597051.ece",
+        "https://mythemakers.nl/en/events/fantasy-pubquiz/",
+        "https://keunstwurk.nl/agenda/kunstbende-kick-off-the-first-try-out/",
+        "https://www.omgevingsalert.nl/meldingen/8673516-verleende-gewijzigde-alcoholwetvergunning-voor-the-drunken-dragon-aan-de-weerd-13-8911-hl-leeuwarden-hor-2026-037845",
+        "https://www.omgevingsalert.nl/meldingen/8673557-verleende-terrasvergunning-voor-the-drunken-dragon-aan-de-weerd-13-8911-hl-leeuwarden-ter-2026-037844",
+        "https://leeuwarden-nieuws.nl/adressen/the-drunken-dragon-weerd/",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/the-drunken-dragon-leeuwarden-99835290-000064880362"
+      ],
+      "original_status": "01-11-2026: juni 2026 opening aangekondigd en oktober 2026 daadwerkelijk gehouden pubquiz plus novemberafspraken bevestigd via onafhankelijke organisator. Reguliere weekuren niet primair vastgesteld.",
+      "features": "Leeuwarden; fantasy-/D&D-thema, cocktails, opvolger van YAI; eventuren niet als reguliere sluituren"
     }
   ],
   "admission_policies": [
