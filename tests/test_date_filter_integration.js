@@ -26,6 +26,16 @@ assert.equal(eligible(kaap), true, 'weekday-only view remains unfiltered by date
 state.date = '2026-11-01';
 assert.equal(eligible({ ...kaap, selection:'Nee', date_closures:[] }), false,
   'duplicate aliases remain excluded even if uncertain toggle is off');
+const berkenplas = {id:'berkenplas',region:'friesland',selection:'Voorlopig',
+  name:'De Berkenplas',requires_date_schedule:true,
+  date_schedules:[{start:'2026-11-01',end:'2027-03-31',
+    opening:{vr:'10:30'},closing:{vr:'17:30'}}]};
+state.date = '';
+assert.equal(eligible(berkenplas), false, 'seasonal venue hidden without an exact date');
+state.date = '2026-11-20';
+assert.equal(eligible(berkenplas), true, 'seasonal venue allowed in verified winter range');
+state.date = '2027-04-01';
+assert.equal(eligible(berkenplas), false, 'seasonal venue hidden outside verified range');
 assert.ok(html.includes('id="visitDate"'), 'the date selector is exposed');
 assert.ok(html.includes("p.set('datum',state.date)"), 'date deep links are retained');
 console.log('Frontend dated-closure integration tests passed');
