@@ -106,6 +106,28 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(r["without_website_url"], 2)
         self.assertEqual(r["without_recorded_review_date"], 2)
 
+    def test_dated_closing_coverage_is_separate_from_year_round_hours(self):
+        dataset = {"places": [
+            {"id": "seasonal", "region": "friesland", "city": "Stavoren",
+             "closing": {"vr": "?"},
+             "requires_date_schedule": True,
+             "date_schedules": [{"start": "2026-11-01", "end": "2026-11-15",
+                                 "closing": {"vr": "20:00"}}]},
+            {"id": "ordinary", "region": "friesland", "city": "Stavoren",
+             "closing": {"vr": "01:00"}},
+            {"id": "unknown", "region": "friesland", "city": "Stavoren",
+             "closing": {"vr": "?"}},
+        ]}
+        r = build_report(dataset, "2026-11-01")["regions"][0]
+        self.assertEqual(r["with_any_exact_closing"], 1)
+        self.assertEqual(r["without_any_exact_closing"], 2)
+        self.assertEqual(r["with_dated_exact_closing"], 1)
+        self.assertEqual(r["with_any_exact_closing_including_dated"], 2)
+        self.assertEqual(r["without_any_exact_closing_including_dated"], 1)
+        town = r["settlement_coverage"][0]
+        self.assertEqual(town["with_dated_exact_closing"], 1)
+        self.assertEqual(town["without_any_exact_closing_including_dated"], 1)
+
     def test_unknown_or_nonexact_times_not_counted(self):
         dataset = {"regions": [], "places": [{"id": "x", "region": "r", "city": "A",
                     "address": "B 1", "closing": {"vr": "24:00"},
