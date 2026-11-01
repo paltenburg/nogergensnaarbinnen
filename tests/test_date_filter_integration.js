@@ -345,7 +345,7 @@ const optionDb = {places:[
   {region:'friesland',selection:'Nog te controleren',
    opening:{vr:'12:00'},closing:{vr:'16:00'}}
 ]};
-const optionTimeVal = s => /^\\d\\d:\\d\\d$/.test(String(s))
+const optionTimeVal = s => /^\d\d:\d\d$/.test(String(s))
   ? Number(s.slice(0,2))*60+Number(s.slice(3))+
     (Number(s.slice(0,2))<12?1440:0) : null;
 const optionValues = vm.runInNewContext(optionsSource+'; arrivalOptionClosings', {
