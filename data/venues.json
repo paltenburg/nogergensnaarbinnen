@@ -33759,6 +33759,101 @@
       "original_status": "Eigen actuele vestigingspagina en Sneek.nl bevestigen exploitatie, alcohol en bezoek voor drankje; zelfstandige inloop zonder tapas blijft afzonderlijk te verifiëren.",
       "geocode_blocked": true,
       "geocode_notes": "Zelfde BAG-adres Wijde Noorderhorne 2 als Hanenburg Stadscafé; twee onderscheiden exploitantconcepten in hetzelfde pand, maar fysieke ingangspositie niet afzonderlijk geverifieerd. Geen tweede overlappende marker gegokt."
+    },
+    {
+      "id": "bistro-sinnyn-franeker-20261101",
+      "name": "Bistro Sinnyn",
+      "type": "Bistro / publieke wijn- en bierborrel",
+      "address": "Dijkstraat 44",
+      "city": "Franeker",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant schrijft expliciet dat men ook uitsluitend voor een glas wijn of speciaalbier kan binnenlopen, zonder maaltijd. Geen fysieke deurcontrole.",
+      "alcohol": "Eigen https://www.sinnyn.nl/over-ons noemt wijn en speciaalbier voor losse borrel; homepage noemt speciaalbieren en wijnen bij VrijMiBo.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "20:00",
+        "za": "17:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.sinnyn.nl/reserveren/openingstijden",
+      "closing_source": "https://www.sinnyn.nl/reserveren/openingstijden",
+      "opening_quality": "Eigen website met expliciet weekrooster op 01-11-2026 gecontroleerd.",
+      "closing_quality": "Eigen website geeft weeksluituren; feestdagen en bijzondere gelegenheden kunnen afwijken.",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.sinnyn.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen exploitantwebsite, contact, losse borrel, alcohol en weekrooster 01-11-2026 geopend.",
+      "closing_notes": "Eigen website meldt ma/di/zo gesloten, wo/do/za 11:00–17:00 en vr 11:00–20:00; speciale gelegenheden kunnen afwijken. Laatste toegang niet expliciet gepubliceerd.",
+      "other_sources": [
+        "https://www.sinnyn.nl/",
+        "https://www.sinnyn.nl/over-ons",
+        "https://www.sinnyn.nl/reserveren/openingstijden"
+      ],
+      "original_status": "Eigen exploitantwebsite op 01-11-2026 bevestigt lopende bistro met losse bier-/wijnborrel en rooster; feitelijke open deur niet live getest.",
+      "features": "Franeker; VrijMiBo; bistro met speciaalbier en wijn; vroeg sluitend"
+    },
+    {
+      "id": "james-bistro-bar-drachten-20261101",
+      "name": "James’ Bistro & Bar",
+      "type": "Bistro / cocktailbar",
+      "address": "Zuidkade 45",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen barpagina nodigt expliciet uit voor een losse vrijdagmiddagborrel of cocktail, zonder diner; geen reservering als algemene voorwaarde vermeld.",
+      "alcohol": "Eigen barpagina noemt cocktails, wijn en bier; homepage bevestigt eigen gebrouwen bier.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://jamesdrachten.nl/bar/",
+      "closing_source": "",
+      "opening_quality": "Eigen barpagina noemt bar do–zo vanaf 17:00; algemene contactpagina noemt het volledige bedrijf dagelijks vanaf 16:00, maar dit is niet bewezen als zelfstandige baropening ma–wo.",
+      "closing_quality": "Eigen contactpagina noemt bedrijfsuren ma/di/zo tot 22:00, wo/do tot 23:00 en vr/za tot 02:00; de afzonderlijke barpagina specificeert geen sluituren. Daarom alle barsluituren onbekend.",
+      "opening_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://jamesdrachten.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Exploitantwebsite en eigen bar-/contactpagina's rechtstreeks geraadpleegd 01-11-2026.",
+      "closing_notes": "Bedrijfspagina https://jamesdrachten.nl/contact/ zegt ma/di 16–22, wo/do 16–23, vr/za 16–02, zo 16–22. Eigen barpagina https://jamesdrachten.nl/bar/ noemt echter bar do–zo vanaf 17:00, zonder afzonderlijke barsluiting. Geen bedrijfsuren stilzwijgend als baruren overgenomen. Ma–wo barstatus, alle barsluitingen en laatste toegang onbekend.",
+      "other_sources": [
+        "https://jamesdrachten.nl/",
+        "https://jamesdrachten.nl/bar/",
+        "https://jamesdrachten.nl/contact/"
+      ],
+      "original_status": "Eigen website bevestigt publieke bar en drankaanbod. Weekdagen en barsluituren hebben brononderscheid; geen fysieke controle.",
+      "features": "Drachten; aparte bar naast bistro; cocktails, bier, wijn; vrijdagmiddagborrel"
     }
   ],
   "admission_policies": [
