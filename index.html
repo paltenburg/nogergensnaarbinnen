@@ -362,7 +362,7 @@
   function timeVal(s){ if(!/^\d\d:\d\d$/.test(String(s)))return null; let [h,m]=s.split(':').map(Number);if(h>23||m>59)return null; return 60*h+m+(h<12?1440:0); }
   function arrivalVal(){const v=timeVal(state.after);return v===null?null:(state.sameDayMorning&&Number(state.after.slice(0,2))<12?v-1440:v);}
   function category(s){s=s.toLocaleLowerCase('nl');if(/nachtclub|club|dans|discotheek/.test(s))return 'club';if(/muziek|podium|theater|concert|cultureel/.test(s))return 'music';if(/restaurant|eetcaf[eé]|bistro|brasserie|restobar|diner/.test(s))return 'restaurant';if(/pub|kroeg|caf[eé]/.test(s))return 'cafe';if(/bar|cocktail|wijn/.test(s))return 'bar';return 'other';}
-  function closing(place){return place.closing?.[state.day]||'?';}
+  function closing(place){return NGNBDateClosures.field(place,'closing',state.day,state.date);}
   // A continuous time scale: each half-hour (and intermediate quarter-hour)
   // has its own color. Order follows the nightlife day through midnight.
   const closingPalette=[
@@ -422,7 +422,7 @@
   function effectiveAdmission(p,day=state.day){
     // A venue-specific entry limit can coexist with an explicitly assigned law.
     // If both apply, use the earliest restriction. No policy is inferred from city.
-    const actual=p.last_entry?.[day];
+    const actual=NGNBDateClosures.field(p,'last_entry',day,state.date);
     const actualAt=timeVal(actual);
     const policy=db.admission_policies?.find(rule=>rule.id===p.admission_policy_id);
     const legalAt=timeVal(policy?.max_last_entry);
@@ -434,14 +434,14 @@
   }
   function entryBeforeClosing(p,day=state.day){
     const entry=effectiveAdmission(p,day);
-    if(!entry||p.closing?.[day]==='—')return null;
-    const closes=timeVal(p.closing?.[day]);
+    if(!entry||NGNBDateClosures.field(p,'closing',day,state.date)==='—')return null;
+    const closes=timeVal(NGNBDateClosures.field(p,'closing',day,state.date));
     // A known entry cutoff still deserves prominent display if closing is variable.
     return closes===null||timeVal(entry.time)<closes?entry:null;
   }
   function displayAdmission(entry){return (entry.approx?'≈ ':'')+entry.time;}
   function openAtSelectedTime(p,arrivalAt){
-    const opening=p.opening?.[state.day];
+    const opening=NGNBDateClosures.field(p,'opening',state.day,state.date);
     if(opening==='—')return false;
     if(!/^\d\d:\d\d$/.test(String(opening)))return true; // unknown opening: cannot exclude
     const [h,m]=opening.split(':').map(Number);
@@ -452,6 +452,7 @@
   }
   function eligible(p){
     if(state.date&&NGNBDateClosures.isClosed(p,state.date))return false;
+    if(p.requires_date_schedule&&!NGNBDateClosures.scheduleFor(p,state.date))return false;
     if(p.selection==='Nee'||(!state.uncertain&&p.selection==='Nog te controleren'))return false;
     if(state.region&&p.region!==state.region)return false;
     if(state.category&&category(p.type)!==state.category)return false;
@@ -647,13 +648,13 @@
       if(p.last_entry||p.admission_policy_id){
         line('Uiterste toegang per uitgaansavond',days.map(d=>{
           const adm=effectiveAdmission(p,d);
-          return d.toUpperCase()+' '+(adm?displayAdmission(adm):closingLabel(p.last_entry?.[d]));
+          return d.toUpperCase()+' '+(adm?displayAdmission(adm):closingLabel(NGNBDateClosures.field(p,'last_entry',d,state.date)));
         }).join(' · '));
         line('Betrouwbaarheid toegang',p.last_entry_quality||(p.admission_policy_id?'Gemeentelijke bovengrens; individuele vergunning controleren':''));
         line('Opmerking toegang',p.last_entry_notes);
       }
       const weekly=document.createElement('p');const label=document.createElement('strong');label.textContent='Sluiting per uitgaansavond: ';weekly.appendChild(label);
-      weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+displayClosing(p,p.closing?.[d],d)).join(' · ')));content.appendChild(weekly);
+      weekly.appendChild(document.createTextNode(days.map(d=>d.toUpperCase()+' '+displayClosing(p,NGNBDateClosures.field(p,'closing',d,state.date),d)).join(' · ')));content.appendChild(weekly);
       const source=cleanLink(String(p.closing_source||'').split(';')[0].trim());
       if(source){const a=document.createElement('a');a.href=source;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Bron sluitingstijden ↗';content.appendChild(a);}
       const admissionSource=cleanLink(p.last_entry_source||db.admission_policies?.find(rule=>rule.id===p.admission_policy_id)?.source);
@@ -698,7 +699,7 @@
       &&(state.uncertain||p.selection!=='Nog te controleren')
       &&(!state.region||p.region===state.region))
       .flatMap(p=>{
-        const exact=timeVal(p.closing?.[state.day]),window=closingWindow(p);
+        const exact=timeVal(NGNBDateClosures.field(p,'closing',state.day,state.date)),window=closingWindow(p);
         return exact!==null?[exact]:window?[window.earliest,window.latest]:[];
       });
     const earliest=values.length?Math.min(...values):1020; // 17:00 fallback if no data
