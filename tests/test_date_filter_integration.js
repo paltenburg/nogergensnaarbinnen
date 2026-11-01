@@ -208,4 +208,17 @@ state.date = ''; state.day = 'vr';
 assert.equal(eligible(byId('beachclub-sneek-offingawier-20261101')), false,
   'October-only hours must not be treated as year-round hours');
 
+// Every event/season venue without a sourced date range must stay hidden,
+// including when the user opts into showing unverified candidates.
+state.region = 'friesland'; state.after = ''; state.uncertain = true;
+for (const venue of master.places.filter(p => p.requires_date_schedule &&
+    (!Array.isArray(p.date_schedules) || p.date_schedules.length === 0))) {
+  for (const date of ['2026-11-06', '2026-11-14', '']) {
+    state.date = date; state.day = 'vr';
+    assert.equal(eligible(venue), false,
+      venue.id + ' has no verified date schedule: ' + (date || 'no date'));
+  }
+}
+state.uncertain = false; state.date = '';
+
 console.log('Frontend dated-closure integration tests passed');
