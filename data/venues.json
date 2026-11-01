@@ -32974,6 +32974,54 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 8, 8911AH Leeuwarden"
       }
+    },
+    {
+      "id": "bar-bubbels-leeuwarden-20261101",
+      "name": "Bar Bubbels",
+      "type": "Bar / gaybar",
+      "address": "Klokstraat 19",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "2026-LHBTQ+-gids beschrijft vrij toegankelijke gemengde bar; recente bezoekersreacties en bedrijfsregistratie ondersteunen exploitatie, maar actuele inloop en dagen niet rechtstreeks door de uitbater bevestigd.",
+      "alcohol": "Recente bezoekersrecensies noemen drankjes in de bar; geen actuele eigen drankenkaart of assortiment rechtstreeks geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Gidsen/OSM verschillen: wo 21:00 of dicht; do–za 21:00 of 22:00. Geen actueel exploitantrooster bevestigd; alle tijden onbekend.",
+      "closing_quality": "OSM/gids 05:00, Cylex woensdag 03:00, overige gidsen uiteenlopend. Geen primair geverifieerde bar-sluiting of laatste toegang.",
+      "opening_source": "https://www.gaysite.nl/uitgaan/gay-bar-bubbels-leeuwarden",
+      "closing_source": "https://www.cylex.nl/bedrijf/gay-bar-bubbels---leeuwarden-13055132.html",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "closing_notes": "01-11-2026: KvK-afgeleide Compadex toont vestiging Klokstraat 19, geactualiseerd 20-05-2026; GaySite gids gecheckt 09-08-2026 noemt vrije entree, maar geen eigen weekuren. RestaurantGuru toont bezoekersreviews van september/oktober 2026 inclusief een getoonde exploitantreactie; dit is aanwijzing voor recente exploitatie, geen rechtstreeks gecontroleerde exploitantpublicatie. OSM/Tablova en Cylex spreken elkaar tegen over woensdag en openingstijden. Geen tijden of coördinaten overgenomen; kandidaat standaard verborgen tot bedrijfseigen bevestiging van openstelling, alcohol en laatste toegang.",
+      "other_sources": [
+        "https://www.compadex.com/nl/businesses/nl/bar-bubbels-01109054-32807317",
+        "https://www.gaysite.nl/uitgaan/gay-bar-bubbels-leeuwarden",
+        "https://fr.restaurantguru.com/Bubbels-Leeuwarden",
+        "https://tablova.nl/zaak/leeuwarden/bar-bubbels-n3066729818",
+        "https://www.cylex.nl/bedrijf/gay-bar-bubbels---leeuwarden-13055132.html"
+      ],
+      "original_status": "01-11-2026: geregistreerde horecazaak en recente bezoekersreacties; actuele bedrijfseigen openingsbevestiging ontbreekt. Bewust verborgen.",
+      "features": "Leeuwarden; LHBTQ+-bar; recente exploitatieaanwijzingen, tijdconflict"
     }
   ],
   "admission_policies": [
