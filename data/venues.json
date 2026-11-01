@@ -15021,8 +15021,8 @@
       "city": "Grou",
       "region": "friesland",
       "country": "Nederland",
-      "access": "2026 terrasvergunning en evenementen wijzen op horecagebruik; actuele vrije inloop en toegangsvoorwaarden niet direct via exploitant bevestigd.",
-      "alcohol": "Café/uitgaan en bier volgens evenement-/gidsbronnen; geen eigen actuele drankenkaart bevestigd.",
+      "access": "Officiële website biedt borrel, cocktails, shots en ticketagenda; vrije inloop op alle gewone avonden niet bevestigd. Besloten feesten/zaalhuur worden afzonderlijk aangeboden.",
+      "alcohol": "Eigen https://treemter.nl/borrelen/ toont drankenkaart, cocktails en shots. Geen actueel volledig drankenassortiment of prijzen overgenomen.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -15033,26 +15033,31 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Geen actueel bedrijfseigen weekrooster; gidsen conflicteren.",
+      "closing_quality": "Exploitantwebsite intern tegenstrijdig: home/contact noemen een weekrooster, /borrelen meldt tijdelijk gesloten; de agenda bevat alleen een evenement uit 2025. Geen betrouwbaar actueel novemberrooster.",
       "closing_source": "",
-      "closing_notes": "2026 terrasvergunning Gemeente Leeuwarden (bekendgemaakt 26-05-2026) voor Grootcafé de Treemter, Doorbraak 1, ondersteunt exploitatie maar niet feitelijke openingsuren. Eigen domein treemter.nl niet bereikbaar; externe gidsen verschillen sterk: do–za 20/21–02:30/03:30 versus di–zo variabel. Geen vaste weekuren/laatste toegang aangenomen. Onderscheid publiek toegankelijke avonden en besloten zaalhuur verder onderzoeken.",
+      "closing_notes": "2026 terrasvergunning Gemeente Leeuwarden (bekendgemaakt 26-05-2026) voor Grootcafé de Treemter, Doorbraak 1, ondersteunt exploitatie maar niet feitelijke openingsuren. Eigen domein treemter.nl niet bereikbaar; externe gidsen verschillen sterk: do–za 20/21–02:30/03:30 versus di–zo variabel. Geen vaste weekuren/laatste toegang aangenomen. Onderscheid publiek toegankelijke avonden en besloten zaalhuur verder onderzoeken. Hercontrole 01-11-2026: eigen https://treemter.nl/ en /contact/ zijn bereikbaar en vermelden ma/zo dicht, di/wo 19–23, do 19–01, vr/za 16–02. Maar eigen https://treemter.nl/borrelen/ meldt 'Tijdelijk gesloten' met andere contactpersoon; agenda https://treemter.nl/agenda/ bevat slechts 15-11-2025. Deze interne inconsistentie verhindert het overnemen van het footerrooster als actueel. Geen feitelijke novemberopening, sluiting of laatste toegang geverifieerd; alle weekuren blijven ?. Site als officiële link opgenomen, met waarschuwing in notities.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://treemter.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou",
         "https://www.omgevingsalert.nl/meldingen/8616490-verleende-terrasvergunning-voor-grootcafe-de-treemter-aan-de-doorbraak-1-9001-al-grou-ter-2026-036027",
         "https://www.oozo.nl/bedrijven/leeuwarden/grou-e-o/grou/3771625/de-treemter-b-v",
         "https://www.uitagenda.nl/locaties/grootcafe-treemter",
-        "https://www.tripadvisor.co.uk/Restaurant_Review-g3646687-d34432526-Reviews-Grootcafe_Treemter-Grou_Friesland_Province.html"
+        "https://www.tripadvisor.co.uk/Restaurant_Review-g3646687-d34432526-Reviews-Grootcafe_Treemter-Grou_Friesland_Province.html",
+        "https://treemter.nl/",
+        "https://treemter.nl/contact/",
+        "https://treemter.nl/borrelen/",
+        "https://treemter.nl/agenda/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen site bereikbaar 01-11-2026, maar intern tegenstrijdige sluitingsmelding en weekuren; 2026 terrasvergunning ondersteunt horecafunctie, niet actuele vrije toegang.",
       "geo": {
         "lat": 53.0968267,
         "lon": 5.840146,
         "method": "PDOK BAG-adres",
         "matched_address": "Doorbraak 1, 9001AL Grou"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01"
     },
     {
       "id": "wijn-tap-eethuis-amicaal-grou-090fbca",
