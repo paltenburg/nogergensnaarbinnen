@@ -18599,23 +18599,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen website meldt wisselende openingsdagen; vaste VVV-weekuren niet actueel bevestigd",
+      "closing_quality": "Exploitant 01-11-2026: wisselende caféopeningen tijdens restauratie, geen geverifieerde datum- of sluituren. Verouderd VVV-weekrooster niet gebruiken.",
       "closing_source": "https://degekroondeleeuw.nl/",
-      "closing_notes": "Eigen site 30-10-2026: verbouwing richting groepshotel; 'Het café blijft open', in zomer wisselende weekenddagen, actuele uren via Facebook. Visit Wadden toont ma dicht, di 16–01, wo 16–23, do 16–01, vr 16–02, za 15–02, zo 15–20, maar eigen site weerspreekt een vast weekrooster; daarom niet overgenomen. Laatste toegang onbekend.",
+      "closing_notes": "Eigen site 30-10-2026: verbouwing richting groepshotel; 'Het café blijft open', in zomer wisselende weekenddagen, actuele uren via Facebook. Visit Wadden toont ma dicht, di 16–01, wo 16–23, do 16–01, vr 16–02, za 15–02, zo 15–20, maar eigen site weerspreekt een vast weekrooster; daarom niet overgenomen. Laatste toegang onbekend. | 01-11-2026: https://degekroondeleeuw.nl/ vermeldt verbouwing en 'Het café blijft open' uitsluitend op wisselende momenten; Facebook heeft actuele dagen. Daarom requires_date_schedule=true zonder concreet geverifieerd datumrooster; verborgen buiten specifieke bevestigde openingen. https://www.friesland.nl/nl/locaties/2501793986/herberg-de-gekroonde-leeuw toont een vast weekrooster, maar dit is niet bevestigd tijdens de verbouwing. Geen laatste toegang.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://degekroondeleeuw.nl/",
       "other_sources": [
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2501793986/herberg-de-gekroonde-leeuw"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2501793986/herberg-de-gekroonde-leeuw",
+        "https://degekroondeleeuw.nl/",
+        "https://www.friesland.nl/nl/locaties/2501793986/herberg-de-gekroonde-leeuw"
       ],
-      "original_status": "Exploitant bevestigt nog open café ondanks verbouwing, maar geen vast actueel weekrooster.",
+      "original_status": "01-11-2026 eigen site bevestigt behoud van café tijdens restauratie maar wisselende openingen; geen concrete datum of standaardweekuren geverifieerd.",
       "geo": {
         "lat": 53.1304351,
         "lon": 5.474685,
         "method": "PDOK BAG-adres",
         "matched_address": "Sytzamaweg 15, 8822VB Arum"
       },
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -18624,7 +18626,13 @@
         "vr": "?",
         "za": "?",
         "zo": "?"
-      }
+      },
+      "requires_date_schedule": true,
+      "website_provenance": "01-11-2026 officiële https://degekroondeleeuw.nl/ direct geopend: restauratie, café blijft behouden maar tijdens verbouwing slechts wisselende momenten open; geen algemeen weekrooster.",
+      "opening_quality": "Exploitant 01-11-2026: tijdens restauratie alleen op wisselende momenten open; actuele datums via Facebook, niet in deze controle bevestigd. Geen vaste weekuren.",
+      "opening_source": "https://degekroondeleeuw.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "cafe-de-hollandse-kus-pingjum-9c0a58a",
