@@ -33426,6 +33426,55 @@
       ],
       "original_status": "01-11-2026: eigen website meldt tijdelijke sluiting; geen datum van heropening, bewust verborgen.",
       "features": "Leeuwarden; cocktailbar/shisha-lounge, tijdelijk gesloten"
+    },
+    {
+      "id": "birdys-bar-hotel-sneek-20261101",
+      "name": "Birdy's Bar (Hotel Sneek)",
+      "type": "Hotelbar / borrelbar",
+      "address": "Burgemeester Rasterhofflaan 1",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen Hotel Sneek-site verwelkomt bezoekers in Birdy's Bar en biedt borrel aan; barreservering wordt aangeraden maar niet verplicht genoemd. Hotelovernachting niet als voorwaarde vermeld; geen fysieke deurcontrole.",
+      "alcohol": "Eigen Birdy's Bar-pagina noemt speciaalbier van de tap, uitgebreide wijnkaart en borrelhapjes.",
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen hotelbarpagina 01-11-2026: ma–do vanaf 17:00, vr–zo vanaf 15:00. Dit is het barrooster, niet het restaurantrooster.",
+      "closing_quality": "Eigen site noemt geen reguliere barsluiting. Restaurant-/keukenstop 22:00 en een speciale 31-december-23:00 baruitzondering zijn geen bewijs voor andere baravonden.",
+      "opening_source": "https://www.hotelsneek.nl/eten-drinken/birdys-bar/",
+      "closing_source": "https://www.hotelsneek.nl/eten-drinken/birdys-bar/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.hotelsneek.nl/eten-drinken/birdys-bar/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Officiële Hotel Sneek-site rechtstreeks gecontroleerd op 01-11-2026; afzonderlijke barpagina, hoteladres en tijden.",
+      "closing_notes": "01-11-2026: https://www.hotelsneek.nl/eten-drinken/birdys-bar/ bevestigt ma–do 17:00, vr–zo 15:00, tapbier en wijn. https://www.hotelsneek.nl/eten-drinken/ geeft restaurant/keuken tot 22:00, maar niet het sluituur van de bar; dus alle bar-einduren ?. De eigen barpagina vermeldt specifiek 31 december tot 23:00, maar zonder jaartal; niet als gedateerde uitzondering voor 2026 aangenomen. https://www.hotelsneek.nl/eten-drinken/terras-aan-het-water/ zegt expliciet dat hotelterras toegankelijk is voor externe bezoekers; buitengebruik weersafhankelijk, terras 11–22 niet als barrooster overgenomen. Geen expliciete laatste toegang, geen handmatige BAG-marker.",
+      "other_sources": [
+        "https://www.hotelsneek.nl/eten-drinken/birdys-bar/",
+        "https://www.hotelsneek.nl/eten-drinken/",
+        "https://www.hotelsneek.nl/eten-drinken/terras-aan-het-water/",
+        "https://www.hotelsneek.nl/"
+      ],
+      "original_status": "01-11-2026: actuele officiële hotelbarpagina bevestigt borrel en alcohol, starttijden; barsluitingen onbekend.",
+      "features": "Sneek; afzonderlijke Birdy's hotelbar met terras, geen hotelovernachting vereist volgens site"
     }
   ],
   "admission_policies": [
