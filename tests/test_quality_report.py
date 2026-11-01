@@ -37,6 +37,25 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(f["shared_address_group_count"], 1)
         self.assertEqual(f["shared_address_candidates"][0]["venue_ids"], ["a", "b"])
 
+    def test_duplicate_alias_and_date_closure_counts(self):
+        dataset = {"regions": [], "places": [
+            {"id": "old", "region": "friesland", "city": "Hoorn", "address": "Badweg 1",
+             "selection": "Voorlopig",
+             "date_closures": [{"start": "2026-11-01", "end": "2026-11-01",
+                                "source": "https://example.org", "checked_on": "2026-11-01"}]},
+            {"id": "new", "region": "friesland", "city": "Hoorn (Terschelling)",
+             "address": "Badweg 1", "selection": "Nee", "duplicate_of": "old"},
+        ]}
+        report = build_report(dataset, "2026-11-01")
+        self.assertEqual(report["total"], 2)
+        self.assertEqual(report["distinct_recorded_venues"], 1)
+        self.assertEqual(report["duplicate_alias_count"], 1)
+        self.assertEqual(report["date_closure_venue_count"], 1)
+        region = report["regions"][0]
+        self.assertEqual(region["distinct_recorded_venues"], 1)
+        self.assertEqual(region["duplicate_alias_count"], 1)
+        self.assertEqual(region["duplicate_aliases"], [{"id": "new", "duplicate_of": "old"}])
+
     def test_gap_metrics_do_not_treat_unverified_data_as_complete(self):
         dataset = {"regions": [], "places": [
             {"id": "a", "region": "r", "city": "X", "address": "Street 1",
