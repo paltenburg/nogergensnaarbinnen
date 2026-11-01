@@ -170,4 +170,25 @@ assert.equal(timedEligible(byId('eetcafe-de-winze-wyns-20261030')), false,
   'winter Friday 23:00 is closing, not arrival');
 state.after = '';
 
+// De Branding: published kitchen cutoff is not the venue closing time.
+state.after = ''; state.date = '2026-11-05'; state.day = 'do';
+assert.equal(eligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), true,
+  'Thursday winter opening is dated and confirmed');
+state.date = '2026-11-02'; state.day = 'ma';
+assert.equal(eligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), false,
+  'Monday winter closure is respected');
+state.date = '2026-12-19'; state.day = 'za';
+assert.equal(eligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), false,
+  'Christmas opening not inferred from ordinary winter schedule');
+state.date = '2026-11-05'; state.day = 'do'; state.after = '17:00';
+assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), true,
+  '17:00 kitchen stop is not bar closing');
+state.after = '17:30';
+assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), false,
+  '17:30 is venue closing');
+state.after = '10:00';
+assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20261101')), false,
+  '10:00 precedes 10:30 opening');
+state.after = '';
+
 console.log('Frontend dated-closure integration tests passed');
