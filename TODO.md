@@ -2,6 +2,9 @@
 
 ### Checkpoint 01-11-2026 — 3 Friese borrellocaties, datumconflictbeveiliging en Nu-grenstests (694 records)
 
+**Publicatiecheck 01-11-2026:** [Actions-run 41334338304](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41334338304) voor de **694-record master** is **completed/success**, inclusief PDOK, bronregister, kwaliteitsrapport, alle op dat moment aanwezige Python-/Node-tests en `deploy-pages`. Dit bewijst de Pages-workflow, **niet** dat een gebruiker de site fysiek op mobiel heeft getest. De daarna toegevoegde Sondrio-jaargrensregressie draait afzonderlijk in [41334511669](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41334511669); resultaat bij deze controle nog open.
+
+
 **Vervolgcontroles 01-11-2026:** `tests/test_date_filter_integration.js` is aangevuld met 4 concrete grensgevallen voor de officiële Sondrio-sluiting **24/25 december en 1/2 januari**; commit [c6bf4ec](https://github.com/paltenburg/nogergensnaarbinnen/commit/c6bf4ec14ff99fc40ec31215331dd89061670c51), bij noteren nog in CI-wachtrij. De complete `Nu`-test/workflowrun [41334282135](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41334282135) is inmiddels **completed/success**, inclusief deploy-pages; dit bewijst synthetische tests en publicatie, niet fysieke mobiele bediening.
 
 **Geografische hervatvolgorde op basis van actuele 694-master, 01-11-2026:** Leeuwarden **10** `Nog te controleren` / 11 zonder marker; Bolsward **6** / 0 zonder marker; Sneek **4** / 4; Lemmer **4** / 2; Harlingen **3** / 2; Makkum **3** / 1. Deze aantallen komen uit de master, niet uit een nieuwe gemeentelijke volledigheidsinventarisatie. Voor de volgende run: eerst de echte W45-audit als die inmiddels verschuldigd is, daarna Bolsward/Leeuwarden en ontbrekende sluituren.
