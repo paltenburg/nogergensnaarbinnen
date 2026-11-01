@@ -1,5 +1,12 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Definitieve runvalidatie 01-11-2026 — na twee BAG-terugschrijvingen
+
+[GitHub Actions 41288334462](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41288334462) voor de **laatste data-SHA `9060c8756bc47e5179413d3ab4ef8891e07d0589`** is op **01-11-2026** **completed/success** teruggelezen. Alle stappen geslaagd: exacte BAG-tests, synthetische kaart/regiowissel, datumfilterregressies, PDOK, afgeleid bronregister/kwaliteitsrapport en **GitHub Pages-deployment**. Log: **613/673 geocodeerd**, **58 unmatched**, kwaliteitsrapport **673 locaties / 2 actieve regio's**, Pages deploy **Reported success!**. De twee nieuwe exacte BAG-coördinaten zijn nu óók in de master opgeslagen; totaal master **516**. Het aantal buildmarkers blijft **613** (niet +2 boven de vorige 613; die twee zaten al in de eerdere build). Ook lokaal in het gedownloade Pages-artifact de echte Node-datumtests en acht Python-kwaliteitsrapporttests uitgevoerd: **alle geslaagd**. **Geen fysieke mobiele touchtest en geen directe live-site-inhoudscontrole** uitgevoerd.
+
+**Volgende zelfstandige taak:** bronregister/kwaliteits-/geocodeterugschrijfworkflow op main controleren, daarna gerichte geocode-onmatches en D0 Friesland. **W45 vanaf 02-11-2026 10:00 CET**, dan alle actieve regio's in de master auditen. Geen landelijke uitbreiding zolang D0-startcriterium niet gehaald is.
+
+
 ### PDOK-/kwaliteitsrapportanalyse 01-11-2026 — echte 673-record Pages-artifact uitgelezen
 
 **Niet op oude ingecheckte rapporten gebaseerd:** het **geslaagde** GitHub Actions/Pages-artifact uit [run 41288020243](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41288020243) daadwerkelijk gedownload en `artifact.tar` geïnspecteerd. Het **in de build gegenereerde** `data/geocode-report.json` telt **673 totaal, 613 met coördinaten, 60 zonder**, waarvan **58 expliciet unmatched** (twee uitgesloten aliasrecords). Redenen voor 58: **35 `no-exact-PDOK-match`**, **14 `no-number-or-unparseable-address`** (vaak adresbereik), **9 `address-unverified`**. Geografisch: **21 Utrecht-stad, 37 Friesland**. Dit zijn **automatische PDOK-pogingen**, niet 58 handmatig geverifieerde fysieke ingangen. Geen willekeurige huisnummers of coördinaten toegekend.
