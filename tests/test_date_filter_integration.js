@@ -382,4 +382,18 @@ assert.equal(timedEligible(byId('cocktailbar-dr-watson-leeuwarden-20261101')),fa
   'Dr Watson Friday 02:00 is not a valid arrival');
 state.after='';state.date='';state.day='vr';
 
+// Scamele's official midnight closing is the end of the chosen nightlife day.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-06';state.day='vr';
+state.after='23:30';
+assert.equal(timedEligible(byId('scamele-muziek-sportcafe-leeuwarden-20261101')),true,
+  'Scamele Friday 23:30 precedes published midnight closing');
+state.after='00:00';
+assert.equal(timedEligible(byId('scamele-muziek-sportcafe-leeuwarden-20261101')),false,
+  'Scamele midnight is closing, not arrival');
+state.after='14:30';
+assert.equal(timedEligible(byId('scamele-muziek-sportcafe-leeuwarden-20261101')),false,
+  'Scamele Friday opens at 15:00');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
