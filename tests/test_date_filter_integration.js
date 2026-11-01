@@ -323,4 +323,45 @@ assert.equal(timedEligible(byId('weids-bolsward-20261101')), false,
   'Weids published closing is not a valid arrival time');
 state.after = ''; state.date = ''; state.day = 'vr';
 
+// The arrival-time dropdown must not take its earliest closure from a
+// seasonal venue outside its verified interval or a one-day closed venue.
+const optionsSource = inlineRange('function arrivalOptionClosings(){',
+  'function fillArrivalOptions(){');
+const optionState = {region:'friesland',day:'vr',date:'2026-11-06',uncertain:false};
+const optionDb = {places:[
+  {region:'friesland',selection:'Voorlopig',requires_date_schedule:true,
+   opening:{vr:'10:00'},closing:{vr:'18:00'},date_schedules:[
+     {start:'2026-11-01',end:'2026-11-30',
+      opening:{vr:'11:00'},closing:{vr:'20:00'}}]},
+  {region:'friesland',selection:'Voorlopig',
+   opening:{vr:'17:00'},closing:{vr:'22:00'}},
+  {region:'friesland',selection:'Voorlopig',
+   opening:{vr:'10:00'},closing:{vr:'15:00'},
+   date_closures:[{start:'2026-11-06',end:'2026-11-06'}]},
+  {region:'friesland',selection:'Voorlopig',
+   opening:{vr:'—'},closing:{vr:'12:00'}},
+  {region:'utrecht',selection:'Voorlopig',
+   opening:{vr:'10:00'},closing:{vr:'14:00'}},
+  {region:'friesland',selection:'Nog te controleren',
+   opening:{vr:'12:00'},closing:{vr:'16:00'}}
+]};
+const optionTimeVal = s => /^\\d\\d:\\d\\d$/.test(String(s))
+  ? Number(s.slice(0,2))*60+Number(s.slice(3))+
+    (Number(s.slice(0,2))<12?1440:0) : null;
+const optionValues = vm.runInNewContext(optionsSource+'; arrivalOptionClosings', {
+  db:optionDb,state:optionState,NGNBDateClosures,
+  timeVal:optionTimeVal,closingWindow:()=>null
+});
+assert.equal(JSON.stringify(optionValues()),JSON.stringify([1200,1320]),
+  'only the sourced winter 20:00 and ordinary 22:00 closings apply');
+optionState.date='2026-12-04';
+assert.equal(JSON.stringify(optionValues()),JSON.stringify([1320,900]),
+  'expired seasonal 18:00 must not influence December; regular 15:00 returns');
+optionState.date='';
+assert.equal(JSON.stringify(optionValues()),JSON.stringify([1320,900]),
+  'seasonal venues without a selected date remain excluded');
+optionState.date='2026-11-06';optionState.uncertain=true;
+assert.equal(JSON.stringify(optionValues()),JSON.stringify([1200,1320,960]),
+  'uncertain venues are considered only when the user enables them');
+
 console.log('Frontend dated-closure integration tests passed');
