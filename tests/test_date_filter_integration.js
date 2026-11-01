@@ -41,6 +41,23 @@ state.day = 'ma';
 assert.equal(eligible(berkenplas), false, 'closed Monday excluded even without arrival time');
 state.date = '2027-04-01';
 assert.equal(eligible(berkenplas), false, 'seasonal venue hidden outside verified range');
+// A conflicting dated interval must never fall back to the ordinary timetable,
+// even for a venue that does not require a date-specific schedule.
+const conflicted = {id:'conflicted',name:'Conflict',region:'friesland',selection:'Voorlopig',
+  opening:{vr:'18:00'},closing:{vr:'03:00'},
+  date_schedules:[
+    {start:'2026-11-01',end:'2026-11-30',opening:{vr:'18:00'},closing:{vr:'02:00'}},
+    {start:'2026-11-15',end:'2026-12-15',opening:{vr:'19:00'},closing:{vr:'04:00'}}
+  ]};
+state.date = '2026-11-20'; state.day = 'vr';
+assert.equal(eligible(conflicted), false,
+  'overlapping special schedules must hide the venue on an ambiguous date');
+state.date = '2026-11-06';
+assert.equal(eligible(conflicted), true,
+  'one matching dated schedule remains valid');
+state.date = '2026-12-18';
+assert.equal(eligible(conflicted), true,
+  'ordinary timetable applies outside dated schedules');
 assert.ok(html.includes('id="visitDate"'), 'the date selector is exposed');
 assert.ok(html.includes("p.set('datum',state.date)"), 'date deep links are retained');
 // Source-verified winter schedules: exercise the actual master, not just fixtures.
