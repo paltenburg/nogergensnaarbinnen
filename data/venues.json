@@ -31307,6 +31307,49 @@
         }
       ],
       "date_closures_checked_on": "2026-11-01"
+    },
+    {
+      "id": "hotel-cafe-restaurant-duinzicht-schiermonnikoog-20261101",
+      "name": "Hotel Café Restaurant Duinzicht",
+      "type": "Hotelbar / restaurant / terrasborrel",
+      "address": "Badweg 17",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "VVV bevestigt publieke terrasconsumptie zonder reservering (bij beschikbare plaats); voor binnen wordt reserveren genoemd. Toegang tot hotelbar voor niet-hotelgasten niet apart bevestigd.",
+      "alcohol": "Eigen hotelhuisregels bevestigen alcoholverstrekking; VVV noemt exclusieve bramenport en drankje op terras.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Hotel noemt jaarrond open, VVV noemt keuken 10:00–21:00; geen bevestigd weekrooster of sluituur voor losse bar-/terrasborrel. Daarom alle tijden onbekend.",
+      "closing_notes": "01-11-2026: eigen https://www.hotelduinzicht.nl/contact/ bevestigt adres en jaarrond hotel/restaurant. Eigen https://www.hotelduinzicht.nl/huisregels/ noemt alcoholverstrekking. VVV https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants/restaurant-duinzicht bevestigt spontaan terrasdrankje zonder reservering en bramenport, maar voor binnen reserveren; keukenuren 10–21 zijn geen baruren. Laatste toegang onbekend.",
+      "features": "Schiermonnikoog; publiek terrasdrankje; hotelbar binnen niet afzonderlijk geverifieerd",
+      "website": "https://www.hotelduinzicht.nl/",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "other_sources": [
+        "https://www.hotelduinzicht.nl/contact/",
+        "https://www.hotelduinzicht.nl/huisregels/",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants/restaurant-duinzicht",
+        "https://www.vvvschiermonnikoog.nl/overnachten/hotels/hotel-duinzicht"
+      ],
+      "original_status": "Actueel hotel/restaurant en alcohol + publieke terrasdrank bevestigd; losse baruren en binneninloop onbekend."
     }
   ],
   "admission_policies": [
