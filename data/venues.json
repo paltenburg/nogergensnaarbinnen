@@ -33072,6 +33072,57 @@
       ],
       "original_status": "01-11-2026: actuele KvK-registratie, maar geen bedrijfseigen bewijs van open deur of uren; kandidaat bewust verborgen.",
       "features": "Leeuwarden; oude stadscafé; 1/1A-adresprecisie controleren"
+    },
+    {
+      "id": "cocktailbar-dr-watson-leeuwarden-20261101",
+      "name": "Cocktailbar Dr. Watson",
+      "type": "Cocktailbar / speakeasy",
+      "address": "Eewal 50-52",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitantwebsite: reserveren vanaf vijf personen; kleinere gezelschappen kunnen zonder reservering langskomen. Afzonderlijke speakeasy-kelderbar bij Spinoza, geen maaltijdplicht genoemd.",
+      "alcohol": "Exploitantwebsite bevestigt klassieke en moderne cocktails, alcoholische dranken; Spinoza noemt een aparte cocktailbar onder het restaurant.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen drwatson.frl op 01-11-2026: wo/do 20–01, vr/za 19–02. Ma/di/zo niet in gewone weektabel genoemd, daarom onbekend in plaats van als expliciet gesloten ingevuld.",
+      "closing_quality": "Eigen exploitantwebsite vermeldt wo/do tot 01:00 en vr/za tot 02:00. Geen expliciete laatste toegang; zomeruitzondering 20 juli–9 augustus niet als jaarrond rooster overgenomen.",
+      "opening_source": "https://drwatson.frl/",
+      "closing_source": "https://drwatson.frl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://drwatson.frl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen exploitantwebsite 01-11-2026 rechtstreeks geopend, bevestigt aparte speakeasy-kelderbar, reserveringsregels en weekuren.",
+      "closing_notes": "01-11-2026: officiële https://drwatson.frl/ vermeldt wo/do 20–01 en vr/za 19–02; zomerperiode 20 juli–9 augustus afwijkend do–za 20–01 en zo–wo dicht. Geen jaartal bij die zomerdagen, niet geëxtrapoleerd naar november. Ma/di/zo buiten gepubliceerd standaardrooster niet expliciet gesloten genoemd: ?. Laatste toegang onbekend. Officiële Spinoza https://eetcafespinoza.nl/borrel/ bevestigt dat Dr. Watson een afzonderlijke cocktailbar/ruimte is onder hetzelfde complex. Gedeeld pand Eewal 50-52 met Eetcafé Spinoza is bewuste aparte conceptregistratie, geen duplicaat. Exploitantpagina geeft alleen 'Eewal, Leeuwarden'; exact kelderingangsnummer niet bewezen. Geen geocode overgenomen.",
+      "other_sources": [
+        "https://drwatson.frl/",
+        "https://eetcafespinoza.nl/borrel/",
+        "https://eetcafespinoza.nl/over-spinoza/",
+        "https://visitleeuwarden.com/doen/uitgaan/",
+        "https://restaurantguru.com/Dr-Watson-Leeuwarden"
+      ],
+      "original_status": "01-11-2026: actuele exploitantwebsite en toeristische gids bevestigen publieke afzonderlijke cocktailbar; weekuren wo–za primair gecontroleerd, entree-/laatste-toegangstijd niet bekend.",
+      "features": "Leeuwarden; kelder-speakeasy bij Spinoza; gedeeld adres bewust, aparte bar",
+      "geocode_notes": "Eigen site noemt Eewal zonder huisnummer; verbonden Spinoza gebruikt Eewal 50-52. Exacte kelderingang onbekend, geen BAG-punt verzonnen."
     }
   ],
   "admission_policies": [
