@@ -73,6 +73,33 @@ class VenueInvariantsTests(unittest.TestCase):
                     self.assertTrue(item.get("source", "").startswith("https://"))
                     date.fromisoformat(item["checked_on"])
 
+    def test_seasonal_schedules_have_unambiguous_sourced_days(self):
+        from datetime import date
+
+        for place in self.places:
+            intervals = []
+            for item in place.get("date_schedules", []):
+                with self.subTest(venue=place["id"], schedule=item):
+                    start = date.fromisoformat(item["start"])
+                    end = date.fromisoformat(item["end"])
+                    self.assertLessEqual(start, end)
+                    self.assertTrue(item.get("source", "").startswith("https://"))
+                    date.fromisoformat(item["checked_on"])
+                    for field in ("opening", "closing"):
+                        values = item[field]
+                        self.assertEqual(set(values), DAYS)
+                        for value in values.values():
+                            self.assertTrue(
+                                value in ("?", "—", "Event", "Varieert")
+                                or bool(TIME.fullmatch(str(value)))
+                            )
+                    intervals.append((start, end))
+            intervals.sort()
+            for earlier, later in zip(intervals, intervals[1:]):
+                self.assertLess(earlier[1], later[0], place["id"])
+            if place.get("requires_date_schedule"):
+                self.assertTrue(intervals, place["id"])
+
     def test_weekly_fields_are_complete_and_well_formed(self):
         for place in self.places:
             for field in ("opening", "closing", "last_entry"):
