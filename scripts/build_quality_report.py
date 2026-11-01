@@ -72,6 +72,7 @@ def build_report(dataset, snapshot_date):
                 "needs_selection_review": sum(p.get("selection") == "Nog te controleren" for p in city_venues),
                 "without_any_exact_closing": sum(not has_exact_time(p, "closing") for p in city_venues),
                 "without_explicit_last_entry": sum(not has_exact_time(p, "last_entry") for p in city_venues),
+                "undated_schedule_required_count": sum(bool(p.get("requires_date_schedule")) and not p.get("date_schedules") for p in city_venues),
             })
         regions.append({
             "id": region_id,
@@ -83,6 +84,7 @@ def build_report(dataset, snapshot_date):
             "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in venues),
             "date_schedule_venue_count": sum(bool(p.get("date_schedules")) for p in venues),
             "requires_date_schedule_count": sum(bool(p.get("requires_date_schedule")) for p in venues),
+            "undated_schedule_required_count": sum(bool(p.get("requires_date_schedule")) and not p.get("date_schedules") for p in venues),
             "settlement_count": len(city_coverage),
             "settlement_coverage": city_coverage,
             "selection_counts": dict(sorted(selections.items())),
@@ -110,13 +112,14 @@ def build_report(dataset, snapshot_date):
     return {
         "snapshot_date": snapshot_date,
         "source": "data/venues.json",
-        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
+        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. The undated schedule count identifies venues intentionally hidden until a specific verified date is available. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
         "total": len(places),
         "distinct_recorded_venues": sum(not p.get("duplicate_of") for p in places),
         "duplicate_alias_count": sum(bool(p.get("duplicate_of")) for p in places),
         "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in places),
         "date_schedule_venue_count": sum(bool(p.get("date_schedules")) for p in places),
         "requires_date_schedule_count": sum(bool(p.get("requires_date_schedule")) for p in places),
+        "undated_schedule_required_count": sum(bool(p.get("requires_date_schedule")) and not p.get("date_schedules") for p in places),
         "regions": regions,
     }
 
