@@ -32326,6 +32326,55 @@
       ],
       "original_status": "Kandidaat: sportbar in 2026 reportage aantoonbaar gebruikt bij sporttoernooi; zelfstandige publieke toegang en alcoholaanbod niet bewezen. Verborgen.",
       "features": "Bolsward; sporthal De Middelzee; evenementgebonden toegang onzeker"
+    },
+    {
+      "id": "cafe-de-stee-leeuwarden-20261101",
+      "name": "Café De Stee",
+      "type": "Bruincafé / bar",
+      "address": "Stationsweg 8",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen huidige website beschrijft openbaar bruin café en borrels; op 01-11-2026 meldt de officiële /nieuwe-site/-pagina dat het café tijdelijk gesloten is wegens vakantie en voorbereiding van nieuwe uitbaters. Geen actuele vrije inloop.",
+      "alcohol": "Eigen historische caféwebsite noemt borrels, maar actueel aanbod tijdens tijdelijke sluiting niet van toepassing. Oudere onafhankelijke bron beschrijft bier, wijn en cocktails; niet als actueel drankaanbod bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "requires_date_schedule": true,
+      "opening_quality": "Officiële pagina vermeldt tijdelijke sluiting en 'Datum heropening volgt'; geen actuele openingsdag, begin- of eindtijd.",
+      "closing_quality": "Geen huidige baruren. Oude gids- en OSM-roosters dateren van vóór de aangekondigde exploitantenwisseling; niet overgenomen.",
+      "opening_source": "https://www.destee.nl/nieuwe-site/",
+      "closing_source": "https://www.destee.nl/nieuwe-site/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.destee.nl/nieuwe-site/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Exploitantpagina /nieuwe-site/ rechtstreeks gecontroleerd 01-11-2026. Hoofddomein www.destee.nl leidt naar oude Jimdo-cafépagina met een ongedateerd 23-februari-evenement; niet als actuele opening geïnterpreteerd.",
+      "closing_notes": "01-11-2026: eigen https://www.destee.nl/nieuwe-site/ meldt dat Arman en Ilva Stoelwinder na 27 jaar zijn gestopt; nieuwe uitbaters Stephan en Angela Kleeftra. 'De Stee is door vakantie en voorbereidingen tijdelijk gesloten' en 'Datum heropening volgt'. Geen concrete datum of reguliere uren; requires_date_schedule=true zonder interval houdt zaak ook bij 'onzekere locaties' verborgen. Geen definitieve sluiting beweerd. https://www.destee.nl/ verwijst naar oudere https://cafe-de-stee.jimdosite.com/ met niet-gejaarmerkt evenement; oudere gidsuren niet gebruikt.",
+      "other_sources": [
+        "https://www.destee.nl/nieuwe-site/",
+        "https://www.destee.nl/",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-stee-56942087-19114729",
+        "https://leeuwarden-nieuws.nl/adressen/de-stee-stationsweg/"
+      ],
+      "original_status": "01-11-2026: officiële exploitantpagina bevestigt tijdelijke sluiting en aangekondigde overname; geen heropeningsdatum. Bewust niet publiek getoond; adres uit eigen site, geen marker zonder exacte BAG-verificatie."
     }
   ],
   "admission_policies": [
