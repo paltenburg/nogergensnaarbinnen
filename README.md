@@ -55,7 +55,7 @@ De **enige uurlijkse projectuitvoerder** verzorgt tevens de wekelijkse, geografi
 
 De hoofdvraag is: **waar kunnen we nog naar binnen?** Kies de uitgaansavond en het tijdstip waarop je wilt aankomen, of klik **Nu** om de actuele Nederlandse tijd te gebruiken. De filtering is **strikt later dan** de gekozen tijd: bij 04:00 valt een locatie met sluitingstijd 04:00 af; 05:00 blijft staan.
 
-Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vrijdagavond, 04:00* betekent zaterdagochtend 04:00. De Nu-knop kiest voor tijdstippen vóór 12:00 de voorgaande uitgaansavond.
+Tijdstippen na middernacht horen bij de ochtend na de gekozen uitgaansavond: *vrijdagavond, 04:00* betekent zaterdagochtend 04:00. De Nu-knop kiest tussen 00:00 en 05:59 de voorgaande uitgaansavond. Vanaf 06:00 kiest Nu de huidige kalenderdag; tussen 06:00 en 11:59 wordt de aankomsttijd als ochtend van diezelfde dag geïnterpreteerd (niet als volgende uitgaansnacht).
 
 **Belangrijke beperking:** met alleen sluitingstijden kunnen we niet garanderen dat een zaak op dat moment daadwerkelijk open is of dat bezoekers dan nog worden toegelaten. Daarvoor zijn ook openingsuren en laatste-toegangstijden nodig. Onbekende sluitingstijden worden bij een actief tijdsfilter niet als open weergegeven.
 
