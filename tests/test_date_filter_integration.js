@@ -285,4 +285,26 @@ assert.equal(timedEligible(byId('de-polle-de-veenhoop-20261030')), false,
   '20:00 is closing, not an arrival time');
 state.after = ''; state.date = ''; state.day = 'vr';
 
+// Dokkum winter Sundays: the operator explicitly closes every Sunday
+// November–March except two named exceptions. Neither exception proves hours.
+state.region = 'friesland'; state.uncertain = false; state.after = '';
+state.date = '2026-11-01'; state.day = 'zo';
+assert.equal(eligible(byId('grandcafe-hotel-van-der-meer-dokkum-20261031')), false,
+  'winter Sunday November 1 is closed');
+state.date = '2026-11-29';
+assert.equal(eligible(byId('grandcafe-hotel-van-der-meer-dokkum-20261031')), true,
+  'named November exception must not be incorrectly marked closed');
+state.date = '2026-12-27';
+assert.equal(eligible(byId('grandcafe-hotel-van-der-meer-dokkum-20261031')), true,
+  'named December exception must not be incorrectly marked closed');
+state.date = '2027-01-03';
+assert.equal(eligible(byId('grandcafe-hotel-van-der-meer-dokkum-20261031')), false,
+  'winter Sunday in January is closed');
+state.date = '2027-03-28';
+assert.equal(eligible(byId('grandcafe-hotel-van-der-meer-dokkum-20261031')), false,
+  'final winter Sunday remains closed');
+assert.equal(byId('grandcafe-hotel-van-der-meer-dokkum-20261031').opening.wo, '?',
+  'contradictory Wednesday opening must remain unknown');
+state.date = ''; state.day = 'vr';
+
 console.log('Frontend dated-closure integration tests passed');
