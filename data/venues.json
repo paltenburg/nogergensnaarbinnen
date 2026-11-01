@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_data_review": "2026-11-01",
+  "last_data_review": "2026-11-02",
   "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Niet voor iedere locatie zijn openingstijden en laatste toegang bekend. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
@@ -34838,6 +34838,55 @@
       "checked_on": "2026-11-01",
       "original_status": "Actueel exploitantbewijs en expliciete vrije drankinloop; wedstrijdzondagen en laatste toegang variabel/onbekend.",
       "features": "Heerenveen; sportcafé met vrije borrel; SC Heerenveen wedstrijdzondagen afwijkend; exacte geocode ontbreekt"
+    },
+    {
+      "id": "bruin-cafe-jimbar-wommels-20261102",
+      "name": "Bruin Café Jimbar",
+      "type": "Bruin dorpscafé",
+      "address": "Terp 4",
+      "city": "Wommels",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Dorpswebsite Wommels.nl beschrijft laagdrempelige publieke café-inloop voor een borrel; actuele toegangsvoorwaarden en eventuele evenementafwijkingen niet afzonderlijk bevestigd.",
+      "alcohol": "Dorpswebsite noemt borrel; bezoekersbeschrijving bij RestaurantGuru noemt rode wijn. Geen eigen actuele drankkaart gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actueel weekrooster van exploitant; twee gidsnamen op hetzelfde adres (Jimbar/Bruin Café Brouwer) en gidsuren zijn niet primair bevestigd.",
+      "closing_quality": "Geen primair geverifieerde gewone sluitingstijden of laatste toegang; 02:00 in gidsen niet als feit aangenomen.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "02-11-2026: dorpswebsite https://wommels.nl/bov/jimbar/ noemt Jimbar het bruine café van Wommels, expliciet open voor spontane borrel. KvK-afgeleide https://www.oozo.nl/bedrijven/littenseradiel/zuid/wommels/3797872/bruin-cafe-jimbar noemt Bruin Café Jimbar op Terp 4 met SBI café; gemeentelijke https://zoek.officielebekendmakingen.nl/gmb-2026-250573.html bevestigt een evenementenvergunning 05-08-2026 op Terp 4, maar geen regulier rooster of bewezen café-exploitatie op 02-11. AlleBiz noemt Jimbar en Bruin Café Brouwer op hetzelfde adres met vergelijkbare roosters; geen tweede zaak aangemaakt, geen gidsuren overgenomen. Actuele eigen website en laatste toegang onbekend; exacte geo niet gegokt.",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Geen afzonderlijke exploitantwebsite vastgesteld; dorpssite is geen eigen website. Facebooklink in dorpssite niet als geverifieerde officiële website overgenomen.",
+      "other_sources": [
+        "https://wommels.nl/bov/jimbar/",
+        "https://www.oozo.nl/bedrijven/littenseradiel/zuid/wommels/3797872/bruin-cafe-jimbar",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-250573.html",
+        "https://www.allebiz.nl/jimbar-0515-331-075",
+        "https://www.allebiz.nl/bruin-caf%C3%A9-brouwer-0515-331-836",
+        "https://de.restaurantguru.com/Jimbar-Wommels"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Dorpssite ondersteunt publieke borrelfunctie en KvK-afgeleide registratie adres; feitelijke openingsuren en recente eigen exploitantbevestiging ontbreken.",
+      "features": "Wommels; dorpscafé; Freule-kaatsen; onzekere reguliere uren"
     }
   ],
   "admission_policies": [
