@@ -26265,7 +26265,7 @@
       "region": "friesland",
       "country": "Nederland",
       "selection": "Voorlopig",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-01",
       "features": "De Fryske Marren; Lemmer; DJ- en ticketavonden; gedeeld complex met Café Le Duc",
       "access": "Publieke clubavonden en ticketverkoop bevestigd; eigen huisregels vermelden minimumleeftijd 16 jaar en mogelijkheid van toegangscontrole. Niet bewezen dat er elke vrijdag/zaterdag vrije inloop is; evenementen en deurbeleid kunnen wisselen.",
       "alcohol": "Eigen exploitantwebsite vermeldt feesten met drankjes en bier; vacatures voor barpersoneel en tapverhuur. Actuele reguliere drankenkaart niet aangetroffen.",
@@ -26292,7 +26292,7 @@
       "opening_source": "https://www.club24.nl/",
       "closing_source": "https://www.club24.nl/",
       "opening_checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: eigen website, huisregels en ticketlink gecontroleerd. Hart van Lemmer kondigde een DJ-avond op zaterdag 17 oktober 2026 22:00–01:00 aan; afzonderlijke ticketavond 17 januari 2026. Beide bewijzen evenementen, geen vast weekrooster. Eigen adres Kortestreek 24-25 is een bereik, niet één BAG-huisnummer; geen coördinaten gegokt. Laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: eigen website, huisregels en ticketlink gecontroleerd. Hart van Lemmer kondigde een DJ-avond op zaterdag 17 oktober 2026 22:00–01:00 aan; afzonderlijke ticketavond 17 januari 2026. Beide bewijzen evenementen, geen vast weekrooster. Eigen adres Kortestreek 24-25 is een bereik, niet één BAG-huisnummer; geen coördinaten gegokt. Laatste toegang onbekend. | 01-11-2026: eigen https://www.club24.nl/ toont rubriek 'Upcoming Parties' zonder concreet volgend evenement; eigen https://www.club24.nl/tickets/ verwijst naar ticketverkoop zonder geverifieerde toekomstige datum. Gidsen noemen conflicterende vaste vrijdag-/zaterdaguren. Daarom requires_date_schedule=true zonder datumintervallen: club blijft verborgen tot een specifieke clubavond met volledig bronbevestigde uren beschikbaar is. Dit is geen bewijs van definitieve sluiting of dat reguliere avonden niet bestaan.",
       "website": "https://www.club24.nl/",
       "website_checked_on": "2026-10-31",
       "website_provenance": "Eigen site, huisregels, feesten en vacatures gecontroleerd 31-10-2026; gedateerd evenement 17-10-2026 via Hart van Lemmer.",
@@ -26303,9 +26303,11 @@
         "https://www.glartent.com/NL/Unknown/167409370084209/Hart-van-Lemmer",
         "https://shop.ikbenaanwezig.nl/tickets/event/club-24-invites-jeroen-post-gio",
         "https://www.cylex.nl/bedrijf/club-24-lemmer-13232767.html",
-        "https://www.allebiz.nl/club_94g-0514-562-121"
+        "https://www.allebiz.nl/club_94g-0514-562-121",
+        "https://www.club24.nl/tickets/"
       ],
-      "original_status": "Eigen clubsite actief en lokale aankondiging voor oktober 2026; fysieke toegang op huidige avond niet getest. Afzonderlijke clubfunctie van Café Le Duc op 24, niet automatisch een dubbel record."
+      "original_status": "Eigen clubsite actief en lokale aankondiging voor oktober 2026; fysieke toegang op huidige avond niet getest. Afzonderlijke clubfunctie van Café Le Duc op 24, niet automatisch een dubbel record.",
+      "requires_date_schedule": true
     },
     {
       "id": "tigh-barra-joure-20261031",
