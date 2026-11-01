@@ -15950,13 +15950,14 @@
       },
       "closing_quality": "Officiële contactpagina 30-10-2026: dagelijks tot 00:00.",
       "closing_source": "https://grandcafevlieland.nl/contact/",
-      "closing_notes": "De rechtstreeks geopende eigen contactpagina toont ma–zo 15:00–00:00; zoekindex-snippets en VVV noemen andere openingstijden (17:00 of 12:00), dus conflict vastgelegd en eigen actuele pagina gevolgd. Laatste toegang onbekend; groepsafhuur mogelijk.",
+      "closing_notes": "De rechtstreeks geopende eigen contactpagina toont ma–zo 15:00–00:00; zoekindex-snippets en VVV noemen andere openingstijden (17:00 of 12:00), dus conflict vastgelegd en eigen actuele pagina gevolgd. Laatste toegang onbekend; groepsafhuur mogelijk. 01-11-2026: eigen https://www.grandcafevlieland.nl/reserveren/ bevestigt nieuwe begintijden; sluiting 00:00 blijft gelijk; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://grandcafevlieland.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/vlieland",
         "https://grandcafevlieland.nl/contact/",
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3318571321/grand-cafe-de-oude-stoep",
+        "https://www.grandcafevlieland.nl/reserveren/"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -15968,18 +15969,18 @@
       "website_checked_on": "2026-10-30",
       "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://grandcafevlieland.nl/contact/",
       "opening": {
-        "ma": "15:00",
-        "di": "15:00",
-        "wo": "15:00",
-        "do": "15:00",
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
         "vr": "15:00",
         "za": "15:00",
-        "zo": "15:00"
+        "zo": "17:00"
       },
-      "opening_source": "https://grandcafevlieland.nl/contact/",
-      "opening_checked_on": "2026-10-30",
-      "opening_quality": "Actuele rechtstreeks geopende officiële contactpagina 30-10-2026 toont alle zeven dagen 15:00–00:00; oudere zoekindex noemt 17:00 of weekend 15:00, maar directe pagina heeft voorrang.",
-      "checked_on": "2026-10-30"
+      "opening_source": "https://www.grandcafevlieland.nl/reserveren/",
+      "opening_checked_on": "2026-11-01",
+      "opening_quality": "Eigen reserveringspagina gecontroleerd 01-11-2026: ma–do en zo 17:00–00:00, vr/za 15:00–00:00. Vorige database-opening dagelijks 15:00 was onjuist. Laatste toegang niet vermeld.",
+      "checked_on": "2026-11-01"
     },
     {
       "id": "zeevaert-bar-rotisserie-vlieland-a8283d7",
@@ -29567,6 +29568,190 @@
       "geocode_blocked": true,
       "geocode_notes": "Horecagids geeft Grote Bredeplaats 5; eigen bestelpagina 5A. Oude Shamrock-gids noemt eveneens 5A. Geen BAG-marker kiezen zonder bevestigde fysieke entree.",
       "original_status": "Eigen exploitant bevestigt huidige publieke wijnbar en weekrooster; huisnummer 5 versus 5A nog niet fysiek bevestigd."
+    },
+    {
+      "id": "cafe-de-brouwerij-nes-20261101",
+      "name": "Café De Brouwerij",
+      "type": "Bruin café / bar",
+      "address": "Marten Janszenstraat 3",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen cafépagina bevestigt vrij toegankelijke borrel aan de bar of op het terras; disco in hetzelfde pand is een afzonderlijk horecaconcept.",
+      "alcohol": "Eigen cafépagina noemt Nobeltje en bier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "04:00",
+        "di": "04:00",
+        "wo": "04:00",
+        "do": "04:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "04:00"
+      },
+      "opening_source": "https://www.delichtboei-ameland.nl/contact",
+      "closing_source": "https://www.delichtboei-ameland.nl/contact",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen website: café iedere dag 16:00–04:00; discotheek heeft een ander rooster. Feestdagen en afwijkingen niet gegarandeerd.",
+      "closing_quality": "Eigen contactpagina: café dagelijks tot 04:00; laatste toegang niet vermeld.",
+      "closing_notes": "01-11-2026: https://www.delichtboei-ameland.nl/cafe bevestigt eigen bruincafé met bier/Nobeltje, snacks en publieke inloop; https://www.delichtboei-ameland.nl/contact vermeldt café dagelijks 16–04. Zelfde gebouw en exploitant als Discotheek De Lichtboei, maar ander gebruik en openingstijden; bewuste gedeelde-adresgroep, niet een onopgemerkte dubbele registratie. Laatste toegang onbekend.",
+      "features": "Nes Ameland; bruin café; Nobeltje; zelfde pand als discotheek De Lichtboei",
+      "website": "https://www.delichtboei-ameland.nl/cafe",
+      "other_sources": [
+        "https://www.delichtboei-ameland.nl/contact",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/discotheek-de-lichtboei"
+      ],
+      "original_status": "Actuele eigen website met afzonderlijke caféfunctie en dagelijks rooster; niet dezelfde functie als discotheek."
+    },
+    {
+      "id": "discotheek-de-lichtboei-nes-20261101",
+      "name": "Discotheek De Lichtboei",
+      "type": "Discotheek / nachtclub",
+      "address": "Marten Janszenstraat 3",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website adverteert publieksfeesten met dj's; geen uitsluitend besloten club. Aangrenzend Café De Brouwerij in hetzelfde pand.",
+      "alcohol": "Eigen café-/discopagina bevestigt alcoholische drank (bier/Nobeltje) in hetzelfde uitgaanscomplex; afzonderlijke discobarassortiment niet gespecificeerd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.delichtboei-ameland.nl/disco",
+      "closing_source": "https://www.delichtboei-ameland.nl/disco",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen pagina vermeldt winter vr/za 22:00–04:00, maar elders dagelijks open in hoogseizoen en vakanties; datum-/seizoensselectie ontbreekt, daarom weekrooster niet als algemeen geldig ingevoerd.",
+      "closing_quality": "Eigen winterrooster vr/za tot 04:00; overige dagen en seizoensafwijkingen niet uniform. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://www.delichtboei-ameland.nl/disco bevestigt publieke disco en winter vr/za 22–04, maar tekst noemt dagelijks tijdens hoogseizoen en schoolvakanties; de footer specificeert die afwijkende dagen niet. Veilig verborgen totdat seizoens-/datumfilter en daadwerkelijk geldende avonden verifieerbaar zijn. Bewust zelfde adres als Café De Brouwerij; verschillende functies/roosters, geen nieuwe geocode gegokt.",
+      "features": "Nes Ameland; disco; winter vrijdag en zaterdag 22–04; seizoensafhankelijk",
+      "website": "https://www.delichtboei-ameland.nl/disco",
+      "other_sources": [
+        "https://www.delichtboei-ameland.nl/contact",
+        "https://www.delichtboei-ameland.nl/cafe",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/discotheek-de-lichtboei"
+      ],
+      "original_status": "Actuele eigen site bevestigt disco, maar seizoens- en vakantie-uitzonderingen verhinderen betrouwbaar generiek weekrooster."
+    },
+    {
+      "id": "de-griffel-hollum-20261101",
+      "name": "Eet- en Drinklokaal De Griffel",
+      "type": "Eet- en drinklokaal / borrel / restaurant",
+      "address": "Burenlaan 41",
+      "city": "Hollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit op verwarmd terras voor een drankje; vraagt telefonisch tafel te bespreken maar noemt geen verplichte maaltijd.",
+      "alcohol": "Eigen site heeft afzonderlijke dranken-, wijn- en cocktailkaarten; café-/borrelfunctie ook bevestigd door VVV.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafeterias-hollum/de-griffel",
+      "opening_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "VVV Ameland vermeldt jaarrond dagelijks vanaf 11:00; eigen website bevestigt zaak en terras, maar noemt geen sluituur. Gidsen hebben uiteenlopende einduren; niet overgenomen.",
+      "closing_quality": "Geen officiële café-sluiting of laatste toegang vastgesteld.",
+      "closing_notes": "01-11-2026: https://www.degriffelameland.nl/ bevestigt adres, actuele exploitatie en terrasborrel; https://www.degriffelameland.nl/drankenkaart/ en https://www.degriffelameland.nl/wijnkaart/ zijn exploitantkaarten. VVV noemt jaarrond dagelijks vanaf 11:00. De externe 21:30/22:30/23:00-gidsuren niet als officiële sluiting ingevuld; laatste toegang onbekend.",
+      "features": "Hollum Ameland; terras; wijn; cocktails; borrel",
+      "website": "https://www.degriffelameland.nl/",
+      "other_sources": [
+        "https://www.degriffelameland.nl/drankenkaart/",
+        "https://www.degriffelameland.nl/wijnkaart/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafeterias-hollum/de-griffel"
+      ],
+      "original_status": "Actuele eigen exploitantwebsite en VVV bevestigen openbare zaak; einduren nog onbekend."
+    },
+    {
+      "id": "bravo-ameland-nes-20261101",
+      "name": "Bravo Ameland",
+      "type": "Strandrestaurant / bar / borrel",
+      "address": "Strandweg 53",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt losse borrel zonder verplichte maaltijd aan; actuele winteropening nog te bevestigen.",
+      "alcohol": "Eigen drankenpagina bevestigt wijn, tien tapbieren en cocktails.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.bravoameland.nl/eten-drinken",
+      "closing_source": "https://www.bravoameland.nl/eten-drinken",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen site toont oktoberrooster en elders nog septemberrooster met uitzonderingen; geen aantoonbaar geldig novemberrooster. Geen tijden overgenomen.",
+      "closing_quality": "Oktoberrooster en incidentele Oktoberfest-eindtijd zijn geen reguliere november-sluiting; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://www.bravoameland.nl/eten-drinken/dranken bevestigt 10 tapbieren, wijn en cocktails; https://www.bravoameland.nl/eten-drinken noemt vrije borrel en adres Strandweg 53. Rooster is expliciet oktober of september, niet voor november geldig; verborgen tot actuele winteropening bevestigd. Geen marker of sluituur verzonnen.",
+      "features": "Nes Ameland; strandbar; borrel; winteropening onbekend",
+      "website": "https://www.bravoameland.nl/",
+      "other_sources": [
+        "https://www.bravoameland.nl/eten-drinken",
+        "https://www.bravoameland.nl/eten-drinken/dranken"
+      ],
+      "original_status": "Actuele exploitantwebsite, borrel en alcohol bewezen; actuele novemberopening niet bewezen."
     }
   ],
   "admission_policies": [
