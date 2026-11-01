@@ -33584,6 +33584,55 @@
       "geocode_blocked": true,
       "geocode_notes": "Bezoekers-/parkbronnen noemen De Holle Poarte 2; actuele KvK-afgeleide registratie noemt 2F, oudere menugids ook 2-B2. Fysieke café-ingang en exacte BAG-unit eerst primair verifiëren; geen automatische of handmatige marker.",
       "features": "Makkum De Holle Poarte; bar/pool en mogelijk seizoensgebonden; geen huidige openingsgarantie"
+    },
+    {
+      "id": "stek-leeuwarden-20261101",
+      "name": "STEK Leeuwarden",
+      "type": "Brasserie / borrel- en lunchcafé",
+      "address": "Harlingersingel 2",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website: reserveren niet mogelijk; gasten mogen bij beschikbare plek direct plaatsnemen. Visit Leeuwarden noemt expliciet een zelfstandige borrel naast ontbijt, lunch en diner. Geen fysieke toegangscontrole.",
+      "alcohol": "Bij de eigen bestelomgeving staan wijnen en een afzonderlijke borrelkaart; wijn is bevestigd, actuele consumptie ter plaatse niet afzonderlijk op locatie gecontroleerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://www.stekleeuwarden.nl/contact",
+      "closing_source": "https://www.stekleeuwarden.nl/contact",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Exploitant vermeldt ma/di 11:00–18:00 en wo–zo 09:00–18:00, ook bevestigd door regionale VVV. Geen evenementuitzonderingen vastgesteld.",
+      "closing_quality": "Exploitant vermeldt 18:00 als reguliere sluiting voor alle zeven dagen; feestdagafwijkingen en laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://www.stekleeuwarden.nl/contact en https://www.stekleeuwarden.nl/ direct geraadpleegd; adres Harlingersingel 2, weekrooster, open in herfst/winter en vrije inloop bij beschikbare plaats. https://www.visitleeuwarden.com/nl/locaties/1396692218/stek-leeuwarden bevestigt zelfstandige borrel. https://stekleeuwarden.foodticket.nl/foodticket/cgi/bestel.cgi toont categorieën Wijnen en Borrelen. Geen eerdere laatste toegang aangenomen. Geen BAG-coördinaat handmatig gegokt.",
+      "website": "https://www.stekleeuwarden.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen homepage en contactpagina op 01-11-2026 geopend; bezoeker zonder reservering welkom.",
+      "other_sources": [
+        "https://www.stekleeuwarden.nl/",
+        "https://www.stekleeuwarden.nl/contact",
+        "https://www.visitleeuwarden.com/nl/locaties/1396692218/stek-leeuwarden",
+        "https://stekleeuwarden.foodticket.nl/foodticket/cgi/bestel.cgi"
+      ],
+      "original_status": "01-11-2026 officiële website actief en reguliere publieke borrel met alcohol en tijden onderbouwd; geen live deur- of laatste-toegangstest.",
+      "features": "Brugwachtershuisje; borrel overdag; geen reservering; kaartmarker pas na exacte BAG-match"
     }
   ],
   "admission_policies": [
