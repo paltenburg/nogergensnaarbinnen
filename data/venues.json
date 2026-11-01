@@ -32106,6 +32106,101 @@
       ],
       "original_status": "Eigen website met publiek terras en alcoholaanbod; actuele novemberexploitatie en exact BAG-adres niet bevestigd; verborgen.",
       "features": "Waterskibaan/strandterras De Potten; paviljoen aan het water; apart van jachthaven Paviljoen Sneekermeer op nummer 4"
+    },
+    {
+      "id": "weids-bolsward-20261101",
+      "name": "Weids",
+      "type": "Café / restaurant / borrel",
+      "address": "Snekerstraat 2",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site bevestigt publiek café, uitnodiging om binnen te lopen en borrels; reservering voor een losse caféborrel niet als verplicht genoemd.",
+      "alcohol": "Eigen site spreekt over borrels maar noemt geen concrete alcoholsoort; Untappd bevat biercheck-ins bij Weids in augustus 2026, KvK-activiteit omvat drinkgelegenheden. Bieraanbod aannemelijk maar niet met eigen actuele drankenkaart bevestigd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Exploitant publiceert dagelijks 10:00–22:00 voor Weids; afzonderlijke cafébar-eindtijd en laatste toegang niet apart aangegeven.",
+      "closing_quality": "Dagelijkse bedrijfsopening 10:00–22:00 op eigen site; niet apart bevestigd of caféborrel tot exact 22:00 mogelijk is.",
+      "opening_source": "https://weidsbolsward.nl/contact/",
+      "closing_source": "https://weidsbolsward.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website": "https://weidsbolsward.nl/",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: eigen homepage/contact bevestigen Snekerstraat 2, dagelijks 10–22, café en publieke inloop. Eigen borrelpagina noemt borrels in het café, maar geen afzonderlijke laatste toegang of concrete dranksoorten. Untappd augustus 2026 biercheck-ins zijn bezoekerbijdragen, geen bedrijfseigen menukaart. Heropening van oude De Groene Weide als Weids op 04-12-2025 door lokale journalistiek bevestigd; geen dubbel historisch record.",
+      "other_sources": [
+        "https://weidsbolsward.nl/feesten/borrel/",
+        "https://www.friesland.nl/nl/locaties/2350547117/weids",
+        "https://www.grootbolsward-ijsselmeerkust.nl/nieuws/in-bedrijf/121433/cafe-restaurant-weids-opent-de-deuren-een-nieuw-hoofdstuk-voo",
+        "https://untappd.com/v/weids/13872292"
+      ],
+      "original_status": "Exploitantwebsite op 01-11-2026 actueel en eigen rooster; publieke caféfunctie bevestigd, bier alleen via bezoekerscheck-ins, live opening niet ter plaatse geverifieerd.",
+      "features": "Bolsward; opvolger van De Groene Weide; publiek café en borrel; 2026 eigen weekrooster"
+    },
+    {
+      "id": "bistro-duinkerken-leeuwarden-20261101",
+      "name": "Bistro Duinkerken",
+      "type": "Bistro / wijn en bier bij diner",
+      "address": "Groot Schavernek 13A",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site nodigt uit om een tafel te reserveren; vrije losse borrel zonder maaltijd niet expliciet bevestigd. Zaterdag/zondag uitsluitend besloten gezelschappen op afspraak; daarom niet standaard als publiek borrelcafé getoond.",
+      "alcohol": "Eigen exploitant noemt brede wijnselectie en bieren van Brouwdok Harlingen.",
+      "opening": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "—",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "—",
+        "zo": "—"
+      },
+      "opening_quality": "Eigen site di–vr 17:00–22:00; ma gesloten, weekend uitsluitend besloten/op afspraak. Dit is het restaurantrooster, niet afzonderlijk vrije borreltoegang.",
+      "closing_quality": "Eigen site noemt restaurant sluiting 22:00 di–vr; losse borrel/laatste toegang niet bevestigd.",
+      "opening_source": "https://bistroduinkerken.nl/reserveren-en-contact/",
+      "closing_source": "https://bistroduinkerken.nl/reserveren-en-contact/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website": "https://bistroduinkerken.nl/",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: eigen reserveringspagina geeft di–vr 17–22, ma dicht, za/zo uitsluitend besloten op afspraak. Eigen website noemt wijn en Brouwdok-bier, maar niet dat men zonder dinerreservering uitsluitend een drankje kan halen. Regionale VVV en KvK-afgeleide registratie bevestigen identiteit/adres, geen vrije borrel. Verborgen tot expliciete inloopbevestiging; geen baruren of laatste toegang verzonnen.",
+      "other_sources": [
+        "https://bistroduinkerken.nl/",
+        "https://visitleeuwarden.com/en/locations/794741279/bistro-Dunkirk",
+        "https://www.compadex.com/nl/businesses/nl/bistro-duinkerken-97935735-63127938"
+      ],
+      "original_status": "Actuele bistro met wijn/bier en bedrijfsrooster bevestigd; publieke losse borrel zonder maaltijd niet bewezen, daarom verborgen.",
+      "features": "Leeuwarden; Groot Schavernek; bistro; weekend alleen besloten"
     }
   ],
   "admission_policies": [
