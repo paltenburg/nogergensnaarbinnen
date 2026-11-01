@@ -33329,6 +33329,103 @@
       ],
       "original_status": "01-11-2026: lokale krant bevestigt heropening 16-10-2026 en een nieuwe publieke bijeenkomst in december; exacte normale openingstijden en ingang niet vastgesteld.",
       "features": "Koudum; heropend 16-10-2026, nieuwe eigenaren; adres 25 vs eventvermelding 27, BAG/ingang nog controleren; geen geocode"
+    },
+    {
+      "id": "fellini-city-lounge-leeuwarden-20261101",
+      "name": "Fellini City Lounge",
+      "type": "Grand café / city lounge",
+      "address": "Wilhelminaplein 20",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website en Visit Leeuwarden bevestigen publieke borrel zonder maaltijdplicht, ook binnen en op terras; geen reservering als voorwaarde aangetroffen. Geen fysieke deurtest.",
+      "alcohol": "Eigen /over-ons/-pagina noemt een ijskoud biertje en wijn; homepage noemt cocktails en borrelplank.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "09:30",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen website, dagelijks rooster rechtstreeks gecontroleerd op 01-11-2026; uitzonderingen niet bekend.",
+      "closing_quality": "Eigen website geeft dagelijkse eindtijden; laatste toegang nergens expliciet vermeld.",
+      "opening_source": "https://www.fellinileeuwarden.nl/",
+      "closing_source": "https://www.fellinileeuwarden.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.fellinileeuwarden.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen exploitantwebsite en /over-ons/ 01-11-2026 rechtstreeks gecontroleerd; toeristische Visit Leeuwarden bevestigt losse borrel.",
+      "closing_notes": "01-11-2026: eigen https://www.fellinileeuwarden.nl/ vermeldt ma/di 11–00, wo/do 10–00, vr 09:30–01, za 10–01, zo 10–00. Eigen https://www.fellinileeuwarden.nl/over-ons/ noemt bier en wijn; https://www.visitleeuwarden.com/locaties/2440721053/fellini-city-lounge bevestigt borrel zonder diner. Laatste toegang onbekend; geen BAG-coördinaten verzonnen. Exacte opening op feestdagen kan afwijken.",
+      "other_sources": [
+        "https://www.fellinileeuwarden.nl/",
+        "https://www.fellinileeuwarden.nl/over-ons/",
+        "https://www.visitleeuwarden.com/locaties/2440721053/fellini-city-lounge"
+      ],
+      "original_status": "01-11-2026: eigen actuele website bevestigt exploitatie, borrel en volledig regulier weekrooster; geen fysieke live check.",
+      "features": "Leeuwarden; City Lounge aan Wilhelminaplein, terras en binnenborrel"
+    },
+    {
+      "id": "mango-lounge-leeuwarden-20261101",
+      "name": "Mango Lounge",
+      "type": "Cocktailbar / lounge",
+      "address": "Ruiterskwartier 107",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site beschrijft vrije inloop en reserveren niet verplicht, maar vermeldt op 01-11-2026 expliciet TIJDELIJK GESLOTEN; dus momenteel geen bevestigde toegang.",
+      "alcohol": "Eigen site toont cocktailkaart, tapbier, wijn en sterke drank; aanbod is niet beschikbaar zolang zaak gesloten is.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "requires_date_schedule": true,
+      "opening_quality": "Eigen site 01-11-2026: TIJDELIJK GESLOTEN; geen heropeningsdatum of actuele weekuren.",
+      "closing_quality": "Oude externe gidsen geven tegenstrijdige uren, maar eigen site meldt tijdelijke sluiting; alle reguliere tijden onbekend en locatie verborgen.",
+      "opening_source": "https://www.mangolounge.nl/",
+      "closing_source": "https://www.mangolounge.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.mangolounge.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen exploitantwebsite op 01-11-2026 rechtstreeks geopend; kop 'Openingstijden (TIJDELIJK GESLOTEN)' met alle dagen —.",
+      "closing_notes": "01-11-2026: eigen https://www.mangolounge.nl/ toont expliciet 'Openingstijden (TIJDELIJK GESLOTEN)' en voor alle dagen —. Gidsen https://www.bars10.com/NL/Leeuwarden/497822950292362/Mango-Lounge-Leeuwarden en https://firmania.nl/leeuwarden/mango-lounge-511773 tonen oude, onderling afwijkende openingstijden; deze niet overgenomen. Geen concrete heropeningsdatum, laatste toegang of BAG-marker. selection 'Nog te controleren' en requires_date_schedule zonder interval voorkomen zichtbaarheid, ook als onzekere locaties aangezet worden. Periodiek heropening bij exploitant controleren.",
+      "other_sources": [
+        "https://www.mangolounge.nl/",
+        "https://www.bars10.com/NL/Leeuwarden/497822950292362/Mango-Lounge-Leeuwarden",
+        "https://firmania.nl/leeuwarden/mango-lounge-511773"
+      ],
+      "original_status": "01-11-2026: eigen website meldt tijdelijke sluiting; geen datum van heropening, bewust verborgen.",
+      "features": "Leeuwarden; cocktailbar/shisha-lounge, tijdelijk gesloten"
     }
   ],
   "admission_policies": [
