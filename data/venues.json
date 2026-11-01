@@ -31102,6 +31102,30 @@
       "requires_date_schedule": true,
       "date_schedules": [
         {
+          "start": "2026-11-01",
+          "end": "2026-11-01",
+          "source": "https://strandpaviljoendebranding.nl/openingstijden/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "—",
+            "za": "—",
+            "zo": "10:30"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "—",
+            "za": "—",
+            "zo": "18:00"
+          }
+        },
+        {
           "start": "2026-11-02",
           "end": "2026-12-18",
           "source": "https://strandpaviljoendebranding.nl/openingstijden/",
@@ -31127,7 +31151,7 @@
         }
       ],
       "date_schedules_checked_on": "2026-11-01",
-      "date_schedule_notes": "01-11-2026: eigen actuele openingstijdenpagina: vanaf 02-11 ma–wo dicht, do–zo 10:30–17:30, keuken tot 17:00 (geen barsluiting). Alleen t/m 18-12 als conservatief datuminterval: kerstvakantie heeft afzonderlijke uren en 4–28 januari expliciete wintersluiting; overige datums niet zonder afzonderlijke verificatie vrijgegeven. Alcohol: door bedrijf geclaimd Tripadvisor-profiel vermeldt volledige bar/serveert alcohol; eigen menukaart is alleen een afbeelding. Laatste toegang onbekend."
+      "date_schedule_notes": "01-11-2026: eigen actuele openingstijdenpagina: vanaf 02-11 ma–wo dicht, do–zo 10:30–17:30, keuken tot 17:00 (geen barsluiting). Alleen t/m 18-12 als conservatief datuminterval: kerstvakantie heeft afzonderlijke uren en 4–28 januari expliciete wintersluiting; overige datums niet zonder afzonderlijke verificatie vrijgegeven. Alcohol: door bedrijf geclaimd Tripadvisor-profiel vermeldt volledige bar/serveert alcohol; eigen menukaart is alleen een afbeelding. Laatste toegang onbekend. Voor Berenloop-zondag 01-11-2026 is afzonderlijk 10:30–18:00 als eendaags rooster vastgelegd."
     },
     {
       "id": "zandzeebar-formerum-aan-zee-20261101",
