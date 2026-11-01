@@ -66,6 +66,26 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(region["settlement_coverage"][0]["total"], 1)
         self.assertEqual(region["shared_address_group_count"], 0)
 
+    def test_undated_event_schedule_backlog_per_region_and_town(self):
+        dataset = {"places": [
+            {"id": "event", "region": "friesland", "city": "Formerum",
+             "requires_date_schedule": True},
+            {"id": "winter", "region": "friesland", "city": "Wyns",
+             "requires_date_schedule": True,
+             "date_schedules": [{"start": "2026-11-01", "end": "2026-12-18"}]},
+            {"id": "ordinary", "region": "utrecht", "city": "Utrecht"},
+        ]}
+        report = build_report(dataset, "2026-11-01")
+        self.assertEqual(report["undated_schedule_required_count"], 1)
+        fr = next(r for r in report["regions"] if r["id"] == "friesland")
+        self.assertEqual(fr["requires_date_schedule_count"], 2)
+        self.assertEqual(fr["date_schedule_venue_count"], 1)
+        self.assertEqual(fr["undated_schedule_required_count"], 1)
+        by_city = {x["city"]: x for x in fr["settlement_coverage"]}
+        self.assertEqual(by_city["Formerum"]["undated_schedule_required_count"], 1)
+        self.assertEqual(by_city["Wyns"]["undated_schedule_required_count"], 0)
+        self.assertEqual(next(r for r in report["regions"] if r["id"] == "utrecht")["undated_schedule_required_count"], 0)
+
     def test_gap_metrics_do_not_treat_unverified_data_as_complete(self):
         dataset = {"regions": [], "places": [
             {"id": "a", "region": "r", "city": "X", "address": "Street 1",
