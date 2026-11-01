@@ -424,4 +424,30 @@ assert.equal(timedEligible(byId('scamele-muziek-sportcafe-leeuwarden-20261101'))
   'Scamele Friday opens at 15:00');
 state.after='';state.date='';state.day='vr';
 
+// Harlingen D0: new operator-verified borrel locations and public access days.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-06';state.day='vr';
+state.after='19:30';
+assert.equal(timedEligible(byId('basta-harlingen-20261101')),true,
+  'Basta Friday 19:30 is before its own 20:00 closing');
+state.after='20:00';
+assert.equal(timedEligible(byId('basta-harlingen-20261101')),false,
+  'Basta Friday 20:00 is closing, not an arrival time');
+state.after='23:30';
+assert.equal(timedEligible(byId('grandcafe-de-reus-harlingen-20261101')),true,
+  'De Reus Friday 23:30 precedes its published midnight closing');
+state.after='00:00';
+assert.equal(timedEligible(byId('grandcafe-de-reus-harlingen-20261101')),false,
+  'De Reus midnight is closing, not a valid arrival');
+state.after='17:00';
+assert.equal(timedEligible(byId('brasserie-braam-harlingen-20261101')),false,
+  'Braam has no verified bar closing time for timed arrival');
+state.after='';state.date='2026-11-03';state.day='di';
+assert.equal(eligible(byId('brasserie-braam-harlingen-20261101')),false,
+  'Braam Tuesday is hotel guests only, not public');
+state.date='2026-11-05';state.day='do';
+assert.equal(eligible(byId('brasserie-braam-harlingen-20261101')),true,
+  'Braam Thursday is publicly accessible from 15:00');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
