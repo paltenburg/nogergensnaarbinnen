@@ -38,4 +38,25 @@ const overlapping = { date_schedules:[
 ] };
 assert.equal(scheduleFor(overlapping, '2026-11-20'), null,
   'ambiguous overlapping seasonal schedules must not be chosen');
+// A verified dated timetable must be authoritative, including absent fields.
+const partialSeason = {
+  opening:{vr:'18:00',za:'18:00'},
+  closing:{vr:'03:00',za:'03:00'},
+  last_entry:{vr:'02:00'},
+  date_schedules:[{
+    start:'2026-11-01',end:'2026-11-30',
+    opening:{vr:'22:00'},closing:{vr:'04:00'}
+  }]
+};
+assert.equal(field(partialSeason,'opening','vr','2026-11-06'),'22:00');
+assert.equal(field(partialSeason,'closing','vr','2026-11-06'),'04:00');
+assert.equal(field(partialSeason,'opening','za','2026-11-07'),'?',
+  'missing dated opening must not inherit 18:00');
+assert.equal(field(partialSeason,'closing','za','2026-11-07'),'?',
+  'missing dated closing must not inherit 03:00');
+assert.equal(field(partialSeason,'last_entry','vr','2026-11-06'),'?',
+  'old entry cutoff cannot be silently carried into a special event');
+assert.equal(field(partialSeason,'closing','vr','2026-12-04'),'03:00',
+  'outside the dated interval the base timetable is unchanged');
+
 console.log('Date closure boundary tests passed');
