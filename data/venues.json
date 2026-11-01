@@ -23263,16 +23263,17 @@
       },
       "closing_quality": "Eigen website wo–zo 17:00–22:00, ma/di gesloten; afzonderlijke aangekondigde besloten feesten wijken af.",
       "closing_source": "https://eetcafedebuorren.nl/eetcafe/",
-      "closing_notes": "30-10-2026: https://eetcafedebuorren.nl/ en https://eetcafedebuorren.nl/eetcafe/ bevestigen adres Buorren 4, 8624 TN Uitwellingerga, vrije borrel, horeca-uren wo–zo 17–22 en ma/di gesloten. Eigen site meldt dat exploitatie doorgaat ondanks verkoopadvertentie; geen einddatum. Specifieke uitzonderingen: za 31 oktober, zo 1 november, vr 6 november en vr 20 november 2026 gesloten voor regulier eetcafé wegens besloten feesten; snackbar kan apart open zijn. Deze eventafwijkingen niet als reguliere weekuren overgenomen. Laatste toegang onbekend. Andere 'De Buorren' op Buorren 85 in Tzummarum is een aparte, nog niet voor alcohol geverifieerde locatie.",
+      "closing_notes": "30-10-2026: https://eetcafedebuorren.nl/ en https://eetcafedebuorren.nl/eetcafe/ bevestigen adres Buorren 4, 8624 TN Uitwellingerga, vrije borrel, horeca-uren wo–zo 17–22 en ma/di gesloten. Eigen site meldt dat exploitatie doorgaat ondanks verkoopadvertentie; geen einddatum. Specifieke uitzonderingen: za 31 oktober, zo 1 november, vr 6 november en vr 20 november 2026 gesloten voor regulier eetcafé wegens besloten feesten; snackbar kan apart open zijn. Deze eventafwijkingen niet als reguliere weekuren overgenomen. Laatste toegang onbekend. Andere 'De Buorren' op Buorren 85 in Tzummarum is een aparte, nog niet voor alcohol geverifieerde locatie. 01-11-2026: vijf exact gedateerde eetcafé-sluitingen 31-10, 01-11, 06-11, 20-11 en 12-12 uit eigen actuele agenda als date_closures ingevoerd; snackbaropening telt niet als vrije eetcaféborrel.",
       "features": "D0 Súdwest-Fryslân / Uitwellingerga; uitzonderingsdagen 31-10, 01-11, 06-11, 20-11 2026; pand te koop",
       "website": "https://eetcafedebuorren.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening_source": "https://eetcafedebuorren.nl/eetcafe/",
       "opening_checked_on": "2026-10-30",
       "other_sources": [
         "https://eetcafedebuorren.nl/eetcafe/",
-        "https://www.allebiz.nl/eetcaf%C3%A9-de-buorren-06-11495788"
+        "https://www.allebiz.nl/eetcaf%C3%A9-de-buorren-06-11495788",
+        "https://eetcafedebuorren.nl/"
       ],
       "original_status": "Eigen exploitantsite bevat evenementen in oktober–december 2026, bevestigt voortgezette exploitatie en reguliere weekuren.",
       "geo": {
@@ -23280,7 +23281,44 @@
         "lon": 5.7021178,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 4, 8624TN Uitwellingerga"
-      }
+      },
+      "date_closures": [
+        {
+          "start": "2026-10-31",
+          "end": "2026-10-31",
+          "source": "https://eetcafedebuorren.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant: eetcafé gesloten voor reguliere vrije inloop; snackbar kan op enkele dagen afzonderlijk open zijn wegens besloten feest of kerstdiner."
+        },
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-01",
+          "source": "https://eetcafedebuorren.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant: eetcafé gesloten voor reguliere vrije inloop; snackbar kan op enkele dagen afzonderlijk open zijn wegens besloten feest of kerstdiner."
+        },
+        {
+          "start": "2026-11-06",
+          "end": "2026-11-06",
+          "source": "https://eetcafedebuorren.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant: eetcafé gesloten voor reguliere vrije inloop; snackbar kan op enkele dagen afzonderlijk open zijn wegens besloten feest of kerstdiner."
+        },
+        {
+          "start": "2026-11-20",
+          "end": "2026-11-20",
+          "source": "https://eetcafedebuorren.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant: eetcafé gesloten voor reguliere vrije inloop; snackbar kan op enkele dagen afzonderlijk open zijn wegens besloten feest of kerstdiner."
+        },
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-12",
+          "source": "https://eetcafedebuorren.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant: eetcafé gesloten voor reguliere vrije inloop; snackbar kan op enkele dagen afzonderlijk open zijn wegens besloten feest of kerstdiner."
+        }
+      ]
     },
     {
       "id": "eetcafe-het-graauwe-paard-oudebildtzijl-20261030",
@@ -34051,6 +34089,104 @@
       ],
       "original_status": "Eigen exploitant bevestigt actieve brasserie met bar en publiek borrelen; alleen do–ma reguliere publieke dagen.",
       "features": "Hotelbrasserie; bar en binnentuin; di/wo alleen hotelgasten"
+    },
+    {
+      "id": "wapen-van-langweer-langweer-20261101",
+      "name": "Wapen van Langweer",
+      "type": "Eetcafé / borrelcafé",
+      "address": "Buorren 36",
+      "city": "Langweer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website bevestigt vrij toegankelijk eetcafé met losse borrel aan de bar zonder verplichte maaltijd; terras en feesten zijn aanvullende opties.",
+      "alcohol": "Eigen website bevestigt bar en losse borrel; afzonderlijke actuele drankkaart niet als tekst bevestigd.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "—",
+        "do": "—",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële contactpagina en homepage noemen vijf openingsdagen vanaf 16:00; geen exacte barsluituren.",
+      "closing_quality": "Eigen website vermeldt geen sluituur. Externe maaltijd-/dealtijden 20:00/20:30 niet als bewezen barsluiting overgenomen.",
+      "opening_source": "https://www.wapenvanlangweer.nl/contact/",
+      "closing_source": "https://www.wapenvanlangweer.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.wapenvanlangweer.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen homepage bevestigt naam, bezoekadres Buorren 36, losse borrel, exploitant Otto en Heleen en weekstarturen.",
+      "closing_notes": "Laatste toegang onbekend. Eigen site ma/di/vr/za/zo vanaf 16:00, wo/do gesloten; externe diner-/dealtijden zijn geen bar-einduren.",
+      "other_sources": [
+        "https://www.wapenvanlangweer.nl/",
+        "https://www.wapenvanlangweer.nl/menukaart/",
+        "https://www.socialdeal.de/deals/friesland/wapen-van-langweer/heerlijk-2--of-3-gangendiner-a-la-carte-bij-wapen-van-langweer-geniet-bijvoorbeeld-van-mosselen-malse-biefstuk-en-verrukkelijke-cheesecake-sep-2026-friesland/"
+      ],
+      "original_status": "Actueel eigen café en bar met vrije borrel bevestigd 01-11-2026; exacte sluiting en laatste toegang niet gevonden.",
+      "features": "De Fryske Marren / Langweer; vijf dagen vanaf 16:00; geen vaste barsluituren bewezen."
+    },
+    {
+      "id": "eetcafe-de-drie-zwaantjes-langweer-20261101",
+      "name": "Eetcafé De Drie Zwaantjes",
+      "type": "Dorpscafé / eetcafé",
+      "address": "Buorren 22",
+      "city": "Langweer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Actuele regionale berichtgeving 02-07-2026 noemt door Aagje Faber geëxploiteerd dorpscafé; publieke activiteit 25-10-2026. Geen ledenclub. Huidige november-inloop niet afzonderlijk door exploitant bevestigd.",
+      "alcohol": "Historische plaatselijke horecagids noemt koud bier en openbare caféborrel; actuele primaire drankkaart ontbreekt. KvK-activiteit drinkgelegenheden, geen bewijs voor afzonderlijke openingstijden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen betrouwbare actuele eigen weekroosterpagina. Externe gidsen geven onderling afwijkende tijden; evenement 25 oktober 14–17 is geen gewoon weekrooster.",
+      "closing_quality": "Geen eigen actueel barsluituur; historische zomer-/winteruren en externe roosters zijn tegenstrijdig. Geluidshandhavingskwestie kan invloed hebben op openingstijden.",
+      "opening_source": "https://www.desintnykster.nl/nieuws/7074-stortvloed-aan-reacties-in-slepende-geluidskwestie-de-drie-zwaantjes",
+      "closing_source": "https://rtvspannenburg.nl/2026/07/02/handhavingsverzoek-zet-toekomst-de-drie-zwaantjes-onder-druk/amp/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "www.driezwaantjes.nl wordt door meerdere gidsen genoemd, maar was op 01-11-2026 niet bereikbaar; niet als geverifieerde eigen website ingevoerd.",
+      "closing_notes": "25-10-2026 openbare puzzelrit bij De Drie Zwaantjes, 02-07-2026 actuele café-exploitant Aagje Faber. Geluidshandhavingsverzoek bedreigt openingstijden, maar geen bevestigde sluiting. Alle reguliere uren en laatste toegang onbekend. Geen opening afgeleid uit evenement.",
+      "other_sources": [
+        "https://www.desintnykster.nl/nieuws/7074-stortvloed-aan-reacties-in-slepende-geluidskwestie-de-drie-zwaantjes",
+        "https://rtvspannenburg.nl/2026/07/02/handhavingsverzoek-zet-toekomst-de-drie-zwaantjes-onder-druk/amp/",
+        "https://nuactueel.nl/langweer/2026-10-25/puzzelrit-mac-de-walden-langweer",
+        "https://www.compadex.com/nl/businesses/nl/eetcafe-de-drie-zwaantjes-63604639-32505116",
+        "https://visitlangweer.wordpress.com/cafes/"
+      ],
+      "original_status": "Café in exploitatie en publiek evenement in 2026 bevestigd; actuele novemberopening en exploitantweekrooster nog niet rechtstreeks bevestigd. Voorlopig, niet als gegarandeerd open.",
+      "features": "De Fryske Marren / Langweer; lopende geluidskwestie; novemberuren onbekend."
     }
   ],
   "admission_policies": [
