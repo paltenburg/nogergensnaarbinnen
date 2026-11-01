@@ -9867,7 +9867,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -9879,21 +9879,22 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden.",
+      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden. | 01-11-2026: opnieuw alleen gidsen https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html (11–22) en https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435 (11–23) gevonden; actuele exploitant, alcoholassortiment en vrije inloop niet primair bevestigd. Geen uren overgenomen. Standaard verborgen tot betrouwbare bevestiging.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
-        "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html"
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html",
+        "https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435"
       ],
-      "original_status": "Recente gidsvermelding gecontroleerd 2026-10-30; exploitatie en rooster niet bedrijfseigen bevestigd.",
+      "original_status": "01-11-2026: gids-/registervermeldingen, maar actuele exploitatie, vrije alcoholborrel en baruren niet rechtstreeks bevestigd. Standaard verborgen.",
       "geo": {
         "lat": 53.1995591,
         "lon": 5.797902,
         "method": "PDOK BAG-adres",
         "matched_address": "Weaze 44, 8911LM Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "elzibar-leeuwarden-a07b14c",
@@ -10391,7 +10392,7 @@
       "country": "Nederland",
       "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -10403,23 +10404,24 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend.",
+      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend. | 01-11-2026: https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 geven dezelfde gidsuren, maar https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ wijkt af (zo gesloten, wo tot 23). Geen eigen bron of recente onafhankelijke exploitatiebevestiging. Niet verwarren met lunchroom De Tweeling, Herenwaltje 20, https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling. Standaard verborgen tot exploitant/alcohol/inloop bevestigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html",
         "https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388",
-        "https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/"
+        "https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/",
+        "https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling"
       ],
-      "original_status": "Gidsen met onderling afwijkende uren geraadpleegd 30-10-2026; geen eigen bron en geen harde actuele exploitatiebevestiging.",
+      "original_status": "01-11-2026: gids-/registervermeldingen, maar actuele exploitatie, vrije alcoholborrel en baruren niet rechtstreeks bevestigd. Standaard verborgen.",
       "geo": {
         "lat": 53.2013339,
         "lon": 5.7932901,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwesteeg 2, 8911DT Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
