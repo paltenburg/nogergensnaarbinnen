@@ -19960,16 +19960,16 @@
       "city": "Joure",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Voorlopig",
-      "closing_quality": "Bedrijfseigen rooster op site betreft uitsluitend 1 september t/m 3 oktober 2026; actuele dagen/uren na 3 oktober onbekend.",
-      "features": "Joure; gecontroleerde publieke drinklocatie",
-      "original_status": "Officiële website en aanvullende actuele bron op 2026-10-30 gecontroleerd; live opening niet gegarandeerd.",
+      "selection": "Nee",
+      "closing_quality": "Exploitant bevestigt definitieve sluiting op eigen website; historische roosterregels elders op pagina zijn achterhaald.",
+      "features": "Joure; definitief gesloten volgens eigen exploitant, geen actuele horecalocatie",
+      "original_status": "01-11-2026: exploitant meldt expliciet dat ROEST Urban Food Bar definitief is gestopt. TCGFavours gaat op deze locatie door, maar is niet aangetoond als opvolgende publiek toegankelijke horecazaak.",
       "website_checked_on": "2026-10-30",
       "website_provenance": "Directe eigen website met overeenkomende naam/adres.",
       "opening_source": "https://www.roestjoure.nl/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-01",
       "closing_source": "https://www.roestjoure.nl/",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "id": "roest-urban-food-bar-joure-20261030",
       "name": "ROEST Urban Food Bar",
       "type": "Foodbar/borrel",
@@ -19978,24 +19978,24 @@
       "access": "Eigen site bevestigt borrel en shared bites zonder verplicht diner; locatie is voormalige Grand Café Het Tolhuis.",
       "alcohol": "Officiële drankenkaart bevat gin, whisky, jenever, Beerenburg, likeuren en cocktails/koffiespecialiteiten met alcohol.",
       "opening": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
       },
-      "closing_notes": "tolhuisjoure.nl verwijst naar ROEST, officiële site meldt transformatie van Het Tolhuis. Gepubliceerde tijden (ma/di 17–21, vr–zo 17–22, wo/do dicht) zijn expliciet voor 1 september–3 oktober 2026, dus op 30 oktober geen geldig weekrooster. Nieuwe naam/exploitatie bevestigd, geen vaste sluiting of laatste toegang aangenomen.",
+      "closing_notes": "tolhuisjoure.nl verwijst naar ROEST, officiële site meldt transformatie van Het Tolhuis. Gepubliceerde tijden (ma/di 17–21, vr–zo 17–22, wo/do dicht) zijn expliciet voor 1 september–3 oktober 2026, dus op 30 oktober geen geldig weekrooster. Nieuwe naam/exploitatie bevestigd, geen vaste sluiting of laatste toegang aangenomen. 01-11-2026: eigen homepage https://www.roestjoure.nl/ begint met 'ROEST is gesloten' en 'besloten definitief te stoppen met ROEST – Urban Food Bar'; overige menu-, reserverings- en oude september/oktoberuren zijn nog zichtbaar als verouderde paginacontent. ROEST niet als open tonen; eventuele nieuwe horeca op dit adres afzonderlijk verifiëren.",
       "other_sources": [
         "https://www.tolhuisjoure.nl/",
         "https://www.roestjoure.nl/",
@@ -20009,7 +20009,9 @@
         "lon": 5.7921885,
         "method": "PDOK BAG-adres",
         "matched_address": "Appelwyk 11, 8501BM Joure"
-      }
+      },
+      "opening_quality": "Exploitant bevestigt op eigen website definitieve beëindiging van ROEST; geen actuele opening.",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "de-ware-jakob-schiermonnikoog-20261030",
@@ -29924,24 +29926,24 @@
     {
       "id": "bistro-bries-lemmer-20261031",
       "name": "Bistro Bries",
-      "type": "Bistro/restaurant; borrelfunctie onbevestigd",
+      "type": "Bistro / publieke borrel",
       "address": "Plattedijk 13",
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
-      "checked_on": "2026-10-31",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-01",
       "features": "Vakantiepark Lemmer; terras; ook toegankelijk voor niet-parkbezoekers; seizoens-/weekrooster wisselend",
-      "access": "Exploitant verklaart in lokaal interview 13-05-2026 dat iedereen welkom is, ook zonder verblijf op het vakantiepark. Vrije losse borrel zonder maaltijd niet bevestigd.",
-      "alcohol": "Alcoholaanbod niet met een primaire drankenkaart of exploitantbericht bevestigd; restaurantstatus alleen is onvoldoende bewijs.",
+      "access": "Eigen website nodigt bezoekers uit voor een goed glas wijn of een diner; exploitant verklaarde in Lemsternijs 13-05-2026 dat ook niet-campinggasten welkom zijn. Geen reserveringsplicht voor losse borrel genoemd.",
+      "alcohol": "Eigen website noemt wijn en toont cocktails (Sex on the Beach) onder specialiteiten. Actuele volledige drankenkaart en laatste toegang niet gecontroleerd.",
       "opening": {
         "ma": "?",
         "di": "?",
         "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "do": "16:00",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
       },
       "closing": {
         "ma": "?",
@@ -29952,25 +29954,28 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_quality": "Exploitantinterview 13-05-2026 noemt do–zo en weekendlunch; nieuws 27-10-2026 meldt voortzetting na zomer. Geen actuele volledige weekuren of café-/borreluren bevestigd.",
-      "closing_quality": "Geen betrouwbare exploitantbron voor café-sluiting of laatste toegang; Cylex bevat ongerijmde 00:00–12:00 en 00:00–23:00 dagvelden, niet overgenomen.",
-      "opening_source": "https://lemsternijs.nl/horeca-op-vakantiepark-lemmer-verder-onder-de-naam-bistro-bries/",
-      "opening_checked_on": "2026-10-31",
+      "opening_quality": "Eigen website vermeldt do vanaf 16:00, vr–zo vanaf 10:30; ma–wo niet genoemd, dus onbekend (niet automatisch gesloten). Seizoensuitzonderingen blijven mogelijk.",
+      "closing_quality": "Eigen website geeft alleen starturen, geen barsluiting; alle einduren en laatste toegang onbekend.",
+      "opening_source": "https://www.bistrobries.nl/",
+      "opening_checked_on": "2026-11-01",
       "closing_source": "",
-      "closing_notes": "31-10-2026: Lemsternijs bericht 13-05-2026 over opening onder Bistro Bries, openbare toegang en Plattedijk 13; artikel 27-10-2026 citeert exploitant dat Bistro Bries voorlopig openblijft en niet uitsluitend campinggasten bedient. Exploitantwebsite bistrobries.nl niet rechtstreeks bereikbaar bij controle. Alcohol, losse borrel, weekuren en laatste toegang niet bevestigd. Verborgen houden tot primaire bevestiging van alcohol en borreltoegang; niet als definitief seizoensgesloten markeren.",
-      "website": "",
+      "closing_notes": "31-10-2026: Lemsternijs bericht 13-05-2026 over opening onder Bistro Bries, openbare toegang en Plattedijk 13; artikel 27-10-2026 citeert exploitant dat Bistro Bries voorlopig openblijft en niet uitsluitend campinggasten bedient. Exploitantwebsite bistrobries.nl niet rechtstreeks bereikbaar bij controle. Alcohol, losse borrel, weekuren en laatste toegang niet bevestigd. Verborgen houden tot primaire bevestiging van alcohol en borreltoegang; niet als definitief seizoensgesloten markeren. 01-11-2026: officiële https://www.bistrobries.nl/ rechtstreeks geopend, bevestigt publieke borrel (goed glas wijn), cocktails en starturen do 16:00, vr–zo 10:30. Ma–wo niet als gesloten aangenomen; geen einduren. Website vermeldt geen expliciete november-/winterafwijking; actuele toegang ter plaatse niet getest.",
+      "website": "https://www.bistrobries.nl/",
       "other_sources": [
         "https://lemsternijs.nl/horeca-op-vakantiepark-lemmer-verder-onder-de-naam-bistro-bries/",
         "https://lemsternijs.nl/bistro-bries-3-gangen-menu-voor-2150/",
-        "https://www.cylex.nl/bedrijf/bistro-bries-lemmer-13932967.html"
+        "https://www.cylex.nl/bedrijf/bistro-bries-lemmer-13932967.html",
+        "https://www.bistrobries.nl/"
       ],
-      "original_status": "Heropening mei 2026 en voortgezette exploitatie in lokaal artikel 27-10-2026 bevestigd; actuele vrije alcoholinloop en weekrooster onbekend. Exploitantwebsite niet bereikbaar.",
+      "original_status": "01-11-2026: eigen site toont wijn/cocktails en reguliere starturen; onafhankelijk exploitantinterview bevestigt ook niet-parkbezoekers. Voorlopig zichtbaar, maar sluiting en laatste toegang onbekend.",
       "geo": {
         "lat": 52.8458984,
         "lon": 5.6950615,
         "method": "PDOK BAG-adres",
         "matched_address": "Plattedijk 13, 8531PB Lemmer"
-      }
+      },
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website direct geopend op 01-11-2026; adres en naam komen overeen met exploitantinterview en BAG."
     },
     {
       "id": "restaurant-bar-iselmar-lemmer-20261101",
