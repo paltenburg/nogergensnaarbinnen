@@ -29808,7 +29808,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website noemt publiek eetcafé en expliciet 'Kom lekker borrelen'; VVV bevestigt spontane borrel.",
-      "alcohol": "Eetcafé adverteert borrel; afzonderlijke actuele bier-/wijnmerken niet gespecificeerd, alcoholaanbod aannemelijk maar nog niet per menukaart geverifieerd.",
+      "alcohol": "De door de zaak geclaimde Tripadvisor-vermelding noemt expliciet wijn, bier, volledige bar en alcoholservice; eigen website bevestigt borrel maar heeft geen afzonderlijk leesbare drankenkaart.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "12:00",
@@ -29834,11 +29834,12 @@
       "checked_on": "2026-11-01",
       "opening_quality": "Eigen website: dagelijks vanaf 12:00; geen bedrijfseigen sluituren gevonden.",
       "closing_quality": "Sluituren uit externe gidsen (03:00) niet bevestigd door exploitant; laatste toegang onbekend.",
-      "closing_notes": "01-11-2026: https://deherbergameland.nl/ bevestigt adres, openbare borrel en dagelijks vanaf 12:00. https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg bevestigt drankfunctie. Externe gids noemt 03:00 maar is niet als sluiting overgenomen. Specifieke alcoholkaart nog zoeken.",
+      "closing_notes": "01-11-2026: https://deherbergameland.nl/ bevestigt adres, openbare borrel en dagelijks vanaf 12:00. https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg bevestigt drankfunctie. Externe gids noemt 03:00 maar is niet als sluiting overgenomen. Specifieke alcoholkaart nog zoeken. Aanvullend 01-11-2026: geclaimde Tripadvisor-pagina bevestigt alcoholaanbod, maar daar genoemde 21:30 is geen bedrijfseigen geverifieerde cafésluiting.",
       "features": "Nes Ameland; eetcafé; borrel; sluituur onbekend",
       "website": "https://deherbergameland.nl/",
       "other_sources": [
-        "https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg"
+        "https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg",
+        "https://www.tripadvisor.nl/Restaurant_Review-g652194-d4014066-Reviews-Eetcafe_De_Herberg-Nes_Ameland_Friesland_Province.html"
       ],
       "original_status": "Exploitant en VVV bevestigen huidige eetcafé/borrel; drankkaart en einduren nog nazoeken."
     },
@@ -29970,6 +29971,51 @@
         "https://www.vvvameland.com/companies/eat-and-drink-ameland/bars-and-cafes-ameland/bars-and-cafeterias-hollum/the-sunset"
       ],
       "original_status": "Eigen site en VVV bevestigen openbare beachclub; novemberuren niet bevestigd."
+    },
+    {
+      "id": "ags-pub-hollum-20261101",
+      "name": "A.G.'s Pub",
+      "type": "Irish pub / seizoenskroeg",
+      "address": "Oosterhiemweg 42",
+      "city": "Hollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant Parc Koudenburg bevestigt dat ook passanten en eilandbewoners spontaan voor een borrel welkom zijn, niet uitsluitend campinggasten. Voor eten vooraf bellen.",
+      "alcohol": "Exploitant noemt Hertog Jan, Murphy's Irish Red, Leffe Blond, Amelander Amber en wijnen.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.koudenburg.nl/parc-koudenburg/a-g-s-pub",
+      "closing_source": "https://www.koudenburg.nl/parc-koudenburg/a-g-s-pub",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen parkwebsite: alleen seizoensgewijs geopend, actuele komende week op Google-profiel; geen vast winterweekrooster. 17:00 betreft een specifiek politiek café, geen algemene opening.",
+      "closing_quality": "Geen bedrijfseigen vaste sluituren of laatste toegang; externe 17–01/02 niet overgenomen.",
+      "closing_notes": "01-11-2026: https://www.koudenburg.nl/parc-koudenburg/a-g-s-pub bevestigt publiek borrel voor passanten, alcohol en adres. Alleen seizoensopening; verborgen totdat concrete actuele weekopening/uitzonderingen bevestigd zijn. VVV https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-hollum/a.g.s-pub bevestigt de locatie; geen vaste uren.",
+      "features": "Hollum Ameland; Irish pub; camping én passanten; alleen seizoensgewijs open",
+      "website": "https://www.koudenburg.nl/parc-koudenburg/a-g-s-pub",
+      "other_sources": [
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-hollum/a.g.s-pub"
+      ],
+      "original_status": "Eigen parkwebsite bevestigt publieksborrel en bier/wijn, maar winteropening onbekend."
     }
   ],
   "admission_policies": [
