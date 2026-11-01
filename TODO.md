@@ -13,6 +13,22 @@
 **Exact vervolg:** (1) CI/Pages voor **655** en BAG-marker-/bron-/kwaliteitsartifact bevestigen; (2) winterseizoen en conflicterend adres ZandZeeBar, alcoholkaart De Stoep/Zonneweelde en ontbrekende actuele horeca overige Friese plaatsen; (3) datumgebaseerde open-/sluitlogica voor De Heeren, A.G.'s Pub, Booming, De Lichtboei en Bravo; (4) echte mobiele regiowisseltest, D0-verificatie en daarna landelijke D1/D2; (5) W45-audit **pas 02-11-2026 vanaf 10:00** Europe/Amsterdam.
 
 
+### Dataset-QA 01-11-2026 — actuele master 655, ontbrekende velden en CI
+
+**Programmatic read van GitHub-blob `b6998fddabad6536b5a030f399b8ffdacf321c86`:** **655/655 unieke IDs**, Utrecht **224**, Friesland **431**, **0 structurele fouten** in aanwezige ma–zo opening/closing/last_entry (waarden `HH:MM`, `?`, `—`, `Varieert`, `Event`). Geen echte mobiele interactie getest.
+
+| Regio | Locaties | `Nog te controleren` of `Nee` | Website leeg | Master `geo` ontbreekt | Alle sluitdagen `?` | Laatste toegang geheel onbekend |
+|---|---:|---:|---:|---:|---:|---:|
+| Utrecht | 224 | 19 | 72 | 22 | 62 | 222 |
+| Friesland | 431 | 86 | 98 | 119 | 210 | 428 |
+
+**Belangrijk:** ontbrekende `geo` in **master** is **niet** gelijk aan ontbrekende markers op de **gebouwde Pages-site**: de CI/PDOK-stap geocodeert voor publicatie extra adressen, en dagelijkse terugschrijfstap was in push-CI overgeslagen. De laatste toegang is voor verreweg de meeste zaken niet gepubliceerd en mag niet worden afgeleid uit sluituur. Deze aantallen zijn een **kwaliteitsachterstand**, geen percentage niet-bestaande horeca en geen D0-dekkingsmeting.
+
+**CI-bewijs:** [652-run 41259751409](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41259751409) **success** inclusief BAG-regressietest, synthetische mobiele regiowisseltest, PDOK-geocodering, bronregister, kwaliteitsrapport en Pages-deployment. De [655-run 41259871827](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41259871827) was bij laatste controle **in progress**; BAG- en synthetische kaarttest daarin al **success**, PDOK-geocodering nog bezig. Live 655-publicatie en echte mobiele touchtest **niet bevestigd**.
+
+**Vervolg:** prioriteer 98 ontbrekende Friese websites met officiële bronnen en 210 records met alle sluituren onbekend, zonder te gokken; behandel 119 master-geo-missers via exacte BAG-match of als geblokkeerd; verbeter datumuitzonderingen vóór verborgen winterzaken zichtbaar worden. Audit W45 pas vanaf maandag 02-11 10:00 verschuldigd.
+
+
 ### Checkpoint 01-11-2026 02:xx Europe/Amsterdam — Terschelling Midsland/Hoorn/West; master 652
 
 **Actueel:** na de eerdere Ameland-controle (15 toegevoegd) in deze uitvoering ook de bestaande Terschellinger plaatsendekking in `data/venues.json` vergeleken met VVV Terschelling en primaire exploitantwebsites. Er waren **0 Hoorn-records, 3 Midsland-records**; de gecontroleerde bronronde leverde **8 nieuwe locaties** op (waarvan 2 Hoorn, 4 Midsland, 1 Midsland Noord, 1 West-Terschelling). **Totaal in deze uitvoering 23 nieuwe Friese records**, 2 bestaande records inhoudelijk gecorrigeerd, 1 foutieve bron-URL bij nieuw record hersteld. Datawrite [391b31a](https://github.com/paltenburg/nogergensnaarbinnen/commit/391b31a86c1681c63a45ac2f0bcecdc671875ab8) bevestigd en de actuele blob **f706e498ff2a1354f5ccbe24d960b35ef75b08c7** teruggelezen: **652 unieke IDs, 428 Friesland / 224 Utrecht, 514 ingecheckte geo-objecten, 0 ongeldige/missende bestaande dag-/tijdvelden**. Geen coördinaten gegokt. De synthetische mobiele regiowisseltest en BAG-test waren al **success** in de voorafgaande CI-stappen, **geen echte mobiele touchtest**. Nieuwste [652 Pages/CI-run](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41259751409) **nog niet afgerond** bij deze controle; 644-run evenmin als succesvol bevestigd.
