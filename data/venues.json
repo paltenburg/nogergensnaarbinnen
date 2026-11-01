@@ -15151,20 +15151,21 @@
         "ma": "—",
         "di": "—",
         "wo": "—",
-        "do": "?",
+        "do": "—",
         "vr": "01:00",
         "za": "01:00",
         "zo": "22:00"
       },
       "closing_quality": "Eigen site (do tegenstrijdig, overige dagen consistent).",
       "closing_source": "https://deheerenvanheeres.nl/",
-      "closing_notes": "Eigen homepage/cafépagina: donderdag gesloten; eigen over-ons-pagina: donderdag 17–22. Daarom donderdag onbekend. Vrijdag/zaterdag 17–01, zondag 17–22, ma–wo dicht. Eigen site zegt na 21:00 barfunctie; laatste toegang onbekend.",
+      "closing_notes": "Eigen homepage/cafépagina: donderdag gesloten; eigen over-ons-pagina: donderdag 17–22. Daarom donderdag onbekend. Vrijdag/zaterdag 17–01, zondag 17–22, ma–wo dicht. Eigen site zegt na 21:00 barfunctie; laatste toegang onbekend. Hercontrole 01-11-2026: https://deheerenvanheeres.nl/ rechtstreeks gelezen: ma–do expliciet gesloten, vr/za 17–01 en zo 17–22. Daarom donderdag ? → — in opening en sluiting; overige eerder bevestigde waarden behouden. Geen laatste toegang gepubliceerd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://deheerenvanheeres.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/stavoren",
         "https://deheerenvanheeres.nl/cafe/",
-        "https://deheerenvanheeres.nl/over-ons/"
+        "https://deheerenvanheeres.nl/over-ons/",
+        "https://deheerenvanheeres.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -15175,18 +15176,19 @@
       },
       "website_checked_on": "2026-10-30",
       "website_provenance": "Exploitantpagina's en cafépagina via zoekindex gecontroleerd 2026-10-30.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening": {
         "ma": "—",
         "di": "—",
         "wo": "—",
-        "do": "?",
+        "do": "—",
         "vr": "17:00",
         "za": "17:00",
         "zo": "17:00"
       },
       "opening_source": "https://deheerenvanheeres.nl/",
-      "opening_checked_on": "2026-10-30"
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "cafe-spoarsicht-workum-cbd3e82",
@@ -33528,6 +33530,55 @@
       ],
       "original_status": "01-11-2026: exploitantwebsite bevestigt huidige publieke borrelfunctie en openingsstart; cafésluituren en laatste toegang onbekend.",
       "features": "Sneek centrum; zelfstandige borrel naast diner; geen automatische marker vóór exacte BAG-match"
+    },
+    {
+      "id": "cafe-restaurant-beaufort-makkum-20261101",
+      "name": "Café Restaurant Beaufort",
+      "type": "Café-restaurant / bruincafé (actuele exploitatie te bevestigen)",
+      "address": "De Holle Poarte 2",
+      "city": "Makkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Chaletbemiddeling op hetzelfde recreatiepark noemt het een publiek bruin café met bar, pooltafel en live muziek. Geen eigen actuele novemberopening of vrije deurtoegang rechtstreeks bevestigd.",
+      "alcohol": "Bier/bar onderbouwd door chaletbeheerder, regionale gids en Mackum Bier-samenwerkingsvermelding; actueel bedrijfseigen drankenmenu niet gelezen.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen primair bevestigd weekrooster; verschillende gidsen geven onderling strijdige dagen en uren.",
+      "closing_quality": "Geen primair bevestigd cafésluituur; keukentijden/gidsuren niet overgenomen.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "01-11-2026: https://chaletsmakkum.nl/cafe-restaurant-beaufort/ beschrijft publiek bruin café met bar en 0515-232383. https://www.compadex.com/nl/businesses/nl/cafe-restaurant-beaufort-01128572-56688709 noemt op 02-09-2026 bijgewerkte actieve KvK-vestiging (SBI 5630) op De Holle Poarte 2F; https://www.tripadvisor.nl/Restaurant_Review-g1022345-d10155987-Reviews-Bar_cafe_restaurant_Beaufort-Makkum_Friesland_Province.html bevat een bezoekverslag van juni 2026. https://restaurantguru.com/Beaufort-Makkum en https://www.indeomgeving.nl/friesland/cafe-restaurant-beaufort-makkum/ hebben onderling afwijkende weekroosters. Eigen beaufort-makkum.nl niet inhoudelijk bereikbaar; huidige novemberuren, laatste toegang en exacte ingang onbevestigd. Daarom verborgen.",
+      "website": "",
+      "checked_on": "2026-11-01",
+      "other_sources": [
+        "https://chaletsmakkum.nl/cafe-restaurant-beaufort/",
+        "https://www.compadex.com/nl/businesses/nl/cafe-restaurant-beaufort-01128572-56688709",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1022345-d10155987-Reviews-Bar_cafe_restaurant_Beaufort-Makkum_Friesland_Province.html",
+        "https://restaurantguru.com/Beaufort-Makkum",
+        "https://www.indeomgeving.nl/friesland/cafe-restaurant-beaufort-makkum/",
+        "https://www.nederlandsebiercultuur.nl/databank/brouwerij/4705"
+      ],
+      "original_status": "2026 zomerexploitatie en actuele KvK-registratie onderbouwd, maar 01-11-2026 geen directe bevestiging van actuele opening/uren; verborgen kandidaat.",
+      "geocode_blocked": true,
+      "geocode_notes": "Bezoekers-/parkbronnen noemen De Holle Poarte 2; actuele KvK-afgeleide registratie noemt 2F, oudere menugids ook 2-B2. Fysieke café-ingang en exacte BAG-unit eerst primair verifiëren; geen automatische of handmatige marker.",
+      "features": "Makkum De Holle Poarte; bar/pool en mogelijk seizoensgebonden; geen huidige openingsgarantie"
     }
   ],
   "admission_policies": [
