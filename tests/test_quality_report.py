@@ -42,7 +42,10 @@ class QualityReportTests(unittest.TestCase):
             {"id": "old", "region": "friesland", "city": "Hoorn", "address": "Badweg 1",
              "selection": "Voorlopig",
              "date_closures": [{"start": "2026-11-01", "end": "2026-11-01",
-                                "source": "https://example.org", "checked_on": "2026-11-01"}]},
+                                "source": "https://example.org", "checked_on": "2026-11-01"}],
+             "requires_date_schedule": True,
+             "date_schedules": [{"start": "2026-11-01", "end": "2026-11-30",
+                                 "source": "https://example.org", "checked_on": "2026-11-01"}]},
             {"id": "new", "region": "friesland", "city": "Hoorn (Terschelling)",
              "address": "Badweg 1", "selection": "Nee", "duplicate_of": "old"},
         ]}
@@ -51,9 +54,13 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(report["distinct_recorded_venues"], 1)
         self.assertEqual(report["duplicate_alias_count"], 1)
         self.assertEqual(report["date_closure_venue_count"], 1)
+        self.assertEqual(report["date_schedule_venue_count"], 1)
+        self.assertEqual(report["requires_date_schedule_count"], 1)
         region = report["regions"][0]
         self.assertEqual(region["distinct_recorded_venues"], 1)
         self.assertEqual(region["duplicate_alias_count"], 1)
+        self.assertEqual(region["date_schedule_venue_count"], 1)
+        self.assertEqual(region["requires_date_schedule_count"], 1)
         self.assertEqual(region["duplicate_aliases"], [{"id": "new", "duplicate_of": "old"}])
         self.assertEqual(region["settlement_count"], 1)
         self.assertEqual(region["settlement_coverage"][0]["total"], 1)
