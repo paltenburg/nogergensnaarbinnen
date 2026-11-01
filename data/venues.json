@@ -31061,9 +31061,9 @@
       "city": "Midsland aan Zee",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "access": "Eigen site: het hele jaar door paviljoen waar iedereen welkom is.",
-      "alcohol": "Actuele eigen drankkaart niet tekstueel bevestigd; VVV noemt koffie/lunch/eten, niet expliciet alcohol.",
+      "alcohol": "Door exploitant geclaimd Tripadvisor-profiel vermeldt 'Serveert alcohol' en 'Volledige bar'; onafhankelijke strandtenten-gids noemt tapbier. Actuele eigen drankkaart is alleen als afbeelding gepubliceerd, niet tekstueel geverifieerd.",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -31088,15 +31088,46 @@
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
       "checked_on": "2026-11-01",
-      "opening_quality": "Datumafhankelijk: 26-10 t/m 01-11 10:30–18 dagelijks; vanaf 02-11 ma–wo gesloten, do–zo 10:30–17:30; kerstvakantie uitzonderingen; 04-01 t/m 28-01 wintersluiting. Zonder datumfilter alle generieke tijden onbekend.",
-      "closing_quality": "Exploitant onderscheidt bar-/paviljoensluiting van keuken tot 17:00. Datum-/winteruitzonderingen verhinderen vaste weeksluiting.",
+      "opening_quality": "Eigen actuele winteruren uitsluitend als gedateerd rooster 02-11 t/m 18-12-2026; kerstvakantie en januarisluiting niet als generiek rooster gebruikt.",
+      "closing_quality": "Exploitant vermeldt paviljoensluiting 17:30 en keukenstop 17:00; gedateerd rooster tot 18 december. Alcoholaanbod via bedrijf-geclaimd profiel, niet eigen leesbare drankkaart.",
       "closing_notes": "01-11-2026: https://strandpaviljoendebranding.nl/openingstijden/ geeft 26 okt–1 nov dagelijks 10:30–18; vanaf 2 nov do–zo 10:30–17:30; kerstvakantie anders; 4–28 januari gesloten. https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-de-branding/ geeft generiek dagelijks 11–19:45, niet actueel voor winter. Verborgen tot alcoholaanbod en datumlogica zijn geverifieerd; laatste toegang onbekend.",
       "features": "Terschelling Midsland aan Zee; winterschema; geen vaste weekuren",
       "website": "https://strandpaviljoendebranding.nl/",
       "other_sources": [
-        "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-de-branding/"
+        "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-de-branding/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g227907-d4437244-Reviews-Strandpaviljoen_De_Branding-Terschelling_Friesland_Province.html",
+        "https://www.strandtenten.nl/friesland/midsland/strandpaviljoen-de-branding/"
       ],
-      "original_status": "Exploitantsite actief, maar alcoholaanbod nog niet rechtstreeks geverifieerd."
+      "original_status": "Exploitant bevestigt actuele publieke winteropening; bedrijf-geclaimd Tripadvisor-profiel vermeldt alcohol, eigen drankkaart nog niet tekstueel geverifieerd. Voorlopig alleen gedateerd zichtbaar.",
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "source": "https://strandpaviljoendebranding.nl/openingstijden/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "10:30",
+            "vr": "10:30",
+            "za": "10:30",
+            "zo": "10:30"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "17:30",
+            "vr": "17:30",
+            "za": "17:30",
+            "zo": "17:30"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-01",
+      "date_schedule_notes": "01-11-2026: eigen actuele openingstijdenpagina: vanaf 02-11 ma–wo dicht, do–zo 10:30–17:30, keuken tot 17:00 (geen barsluiting). Alleen t/m 18-12 als conservatief datuminterval: kerstvakantie heeft afzonderlijke uren en 4–28 januari expliciete wintersluiting; overige datums niet zonder afzonderlijke verificatie vrijgegeven. Alcohol: door bedrijf geclaimd Tripadvisor-profiel vermeldt volledige bar/serveert alcohol; eigen menukaart is alleen een afbeelding. Laatste toegang onbekend."
     },
     {
       "id": "zandzeebar-formerum-aan-zee-20261101",
