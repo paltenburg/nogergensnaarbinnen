@@ -35423,7 +35423,16 @@
       "original_status": "Eigen exploitantwebsite en regionale VVV ondersteunen actuele publieke caféfunctie; exact jaarrond rooster ontbreekt door seizoens- en cateringafwijkingen.",
       "features": "D0 Waadhoeke / Marsum; zomerafwijkingen; catering kan caféopening wijzigen",
       "requires_date_schedule": true,
-      "date_schedule_notes": "Juni–september afwijkend rooster, eigen pagina's verschillen over dinsdag; zonder jaarlijks/seizoensrooster geen vaste weekuren invullen. Septemberkermis sluit café, toekomstige exacte data niet aangenomen."
+      "date_schedule_notes": "Juni–september afwijkend rooster, eigen pagina's verschillen over dinsdag; zonder jaarlijks/seizoensrooster geen vaste weekuren invullen. Septemberkermis sluit café, toekomstige exacte data niet aangenomen.",
+      "geo": {
+        "lat": 53.2112088,
+        "lon": 5.7300471,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Bitgumerdyk 2, 9034GJ Marsum"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit GitHub Actions 41363430057 (717-record Pages-artefact; added_in_this_run=2 inclusief eerder nog niet in die build opgenomen Dronryp-adres). Bitgumerdyk 2, 9034GJ Marsum. Geen fysieke café-ingang afzonderlijk geverifieerd."
     }
   ],
   "admission_policies": [
