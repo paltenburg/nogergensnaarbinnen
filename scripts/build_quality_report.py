@@ -41,6 +41,8 @@ def build_report(dataset, snapshot_date):
         aliases = sorted((p for p in venues if p.get("duplicate_of")), key=lambda p: p["id"])
         address_groups = defaultdict(list)
         for p in venues:
+            if p.get("duplicate_of"):
+                continue
             if p.get("city") and p.get("address"):
                 address_groups[(normalized(p["city"]), normalized(p["address"]))].append(p)
         shared = [
@@ -53,6 +55,8 @@ def build_report(dataset, snapshot_date):
         # NOT a completeness assessment: towns with zero recorded venues are absent.
         city_groups = defaultdict(list)
         for place in venues:
+            if place.get("duplicate_of"):
+                continue
             city_groups[normalized(place.get("city")) or "(onbekend)"].append(place)
         city_coverage = []
         for city_key in sorted(city_groups):
@@ -104,7 +108,7 @@ def build_report(dataset, snapshot_date):
     return {
         "snapshot_date": snapshot_date,
         "source": "data/venues.json",
-        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. Settlement coverage includes only places already in the database; it cannot establish municipal or geographic completeness.",
+        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
         "total": len(places),
         "distinct_recorded_venues": sum(not p.get("duplicate_of") for p in places),
         "duplicate_alias_count": sum(bool(p.get("duplicate_of")) for p in places),
