@@ -1,8 +1,8 @@
 {
-  "total": 565,
-  "with_coordinates": 514,
-  "without_coordinates": 51,
-  "added_in_this_run": 114,
+  "total": 676,
+  "with_coordinates": 616,
+  "without_coordinates": 60,
+  "added_in_this_run": 100,
   "unmatched": [
     {
       "name": "Bar Bet",
@@ -21,12 +21,6 @@
       "address": "Neude 35-36",
       "city": "Utrecht",
       "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "Bij Guusjes",
-      "address": "'s Gravesandestraat 27",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Brouwerij Maximus",
@@ -227,12 +221,6 @@
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Paradiso Bar",
-      "address": "Voorstraat 65-A",
-      "city": "Kollum",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
       "name": "Hotel Eetcafé Duhoux",
       "address": "Greate Buorren 4-8",
       "city": "Wirdum",
@@ -281,12 +269,6 @@
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Aan de Hoarne",
-      "address": "Syl 12-A",
-      "city": "Terherne",
-      "reason": "no-number-or-unparseable-address"
-    },
-    {
       "name": "Restaurant De Brekken",
       "address": "Brekkenweg 10",
       "city": "Lemmer",
@@ -309,6 +291,66 @@
       "address": "Voorstreek 116-117",
       "city": "Sloten",
       "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Boppe de Golle",
+      "address": "Munkedyk 2",
+      "city": "Gaastmeer",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Restaurant De Bosberg",
+      "address": "De Bosberg 3",
+      "city": "Appelscha",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Restaurant De Zwarte Haan",
+      "address": "Nieuwebildtdijk 428",
+      "city": "Sint Jacobiparochie",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "De Doelebar",
+      "address": "Oude Doelesteeg 2A",
+      "city": "Leeuwarden",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Lekkernij",
+      "address": "Waagstraat 9/11",
+      "city": "Dokkum",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Enoteca Wine & Bites",
+      "address": "Grote Bredeplaats 5/5A",
+      "city": "Harlingen",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Restaurant Mr Sandman",
+      "address": "Strandweg 42",
+      "city": "Nes",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Gastrobar Onder de Pannen",
+      "address": "Heereweg 22",
+      "city": "Midsland Noord",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Strandpaviljoen De Branding",
+      "address": "Midsland aan Zee 457",
+      "city": "Midsland aan Zee",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "ZandZeeBar",
+      "address": "Badweg Formerum 6",
+      "city": "Formerum aan Zee",
+      "reason": "address-unverified"
     }
   ]
 }
