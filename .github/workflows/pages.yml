@@ -41,6 +41,7 @@ jobs:
         run: |
           node --check scripts/date_closures.js
           node tests/test_date_closures.js
+          node tests/test_date_filter_integration.js
       - name: Adressen op kaart plaatsen (PDOK)
         run: python scripts/geocode.py
       - name: Bronnenregister automatisch bijwerken
