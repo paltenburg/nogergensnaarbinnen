@@ -32,7 +32,10 @@
   }
   function field(place, name, day, date) {
     const schedule = scheduleFor(place, date);
-    return schedule?.[name]?.[day] ?? place?.[name]?.[day] ?? '?';
+    // A date-specific schedule replaces the ordinary week. Missing days/fields
+    // are unknown, never silently inherited from the year-round timetable.
+    if (schedule) return schedule?.[name]?.[day] ?? '?';
+    return place?.[name]?.[day] ?? '?';
   }
   return { parseDate, weekday, isClosed, scheduleFor, field };
 });
