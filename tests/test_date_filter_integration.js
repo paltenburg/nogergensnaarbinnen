@@ -260,4 +260,29 @@ for (const id of [
 }
 state.uncertain = false; state.date = ''; state.day = 'vr';
 
+// De Pôlle has a split winter day on Monday/Friday. The single-window UI
+// conservatively represents only its verified evening session, never the
+// closed 14:00–17:00 interval.
+state.region = 'friesland'; state.uncertain = false; state.category = '';
+state.q = ''; state.after = '';
+state.date = '2026-11-06'; state.day = 'vr';
+assert.equal(eligible(byId('de-polle-de-veenhoop-20261030')), true,
+  'verified winter Friday evening appears');
+state.date = '2026-11-04'; state.day = 'wo';
+assert.equal(eligible(byId('de-polle-de-veenhoop-20261030')), false,
+  'winter Wednesday is closed');
+state.date = '2027-01-08'; state.day = 'vr';
+assert.equal(eligible(byId('de-polle-de-veenhoop-20261030')), false,
+  'unverified 2027 schedule is not extrapolated');
+state.date = '2026-11-06'; state.day = 'vr'; state.after = '16:30';
+assert.equal(timedEligible(byId('de-polle-de-veenhoop-20261030')), false,
+  '16:30 falls in the unpublished afternoon gap');
+state.after = '17:30';
+assert.equal(timedEligible(byId('de-polle-de-veenhoop-20261030')), true,
+  '17:30 is inside the verified evening session');
+state.after = '20:00';
+assert.equal(timedEligible(byId('de-polle-de-veenhoop-20261030')), false,
+  '20:00 is closing, not an arrival time');
+state.after = ''; state.date = ''; state.day = 'vr';
+
 console.log('Frontend dated-closure integration tests passed');
