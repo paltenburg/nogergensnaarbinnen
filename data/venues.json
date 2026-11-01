@@ -12798,15 +12798,16 @@
         "zo": "?"
       },
       "closing_quality": "Eigen site: vr/za 23:00 bevestigd door beide pagina's; wo/do/zo interne tegenspraak.",
-      "closing_source": "https://hetbrouwdok.nl/proeflokaal/",
-      "closing_notes": "30-10-2026: https://hetbrouwdok.nl/proeflokaal/ noemt wo/do 15–22:30, vr 12–23, za/zo 12–23. https://hetbrouwdok.nl/webshop/ noemt wo/do 15–22, vr 15–23, za 12–23, zo 12–22. Conflicterende vrijdagstart en wo/do/zo-eindtijden onbekend gehouden. Ma/di beide gesloten. Brouwerij-werkuren en rondleidingstijden zijn GEEN proeflokaaluren. Laatste toegang onbekend.",
+      "closing_source": "https://hetbrouwdok.nl/proeflokaal/ontdekken/",
+      "closing_notes": "30-10-2026: https://hetbrouwdok.nl/proeflokaal/ noemt wo/do 15–22:30, vr 12–23, za/zo 12–23. https://hetbrouwdok.nl/webshop/ noemt wo/do 15–22, vr 15–23, za 12–23, zo 12–22. Conflicterende vrijdagstart en wo/do/zo-eindtijden onbekend gehouden. Ma/di beide gesloten. Brouwerij-werkuren en rondleidingstijden zijn GEEN proeflokaaluren. Laatste toegang onbekend. 01-11-2026: oude proeflokaal-URL 404, werkende primaire /proeflokaal/ontdekken/ bevestigt ma/di dicht, wo/do 15:00–22:30, vr 12:00–23:00, za/zo 12:00–23:00. Eigen webshopfooter noemt andere wo/do/zo-eindtijden en vr-start; die conflicterende velden blijven ?. Laatste toegang nog onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://hetbrouwdok.nl/proeflokaal/",
+      "website": "https://hetbrouwdok.nl/proeflokaal/ontdekken/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/harlingen",
         "https://hetbrouwdok.nl/proeflokaal/",
         "https://hetbrouwdok.nl/webshop/",
-        "https://hetbrouwdok.nl/brouwerij/ontdekken/contact/"
+        "https://hetbrouwdok.nl/brouwerij/ontdekken/contact/",
+        "https://hetbrouwdok.nl/proeflokaal/ontdekken/"
       ],
       "original_status": "Actueel publiek proeflokaal rechtstreeks bevestigd via eigen site 2026-10-30; niet live ter plaatse geverifieerd.",
       "geo": {
@@ -12815,8 +12816,8 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwe Willemskade 8, 8862RZ Harlingen"
       },
-      "website_checked_on": "2026-10-30",
-      "website_provenance": "Officiële proeflokaalwebsite rechtstreeks gelezen op 2026-10-30.",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "01-11-2026: oude https://hetbrouwdok.nl/proeflokaal/ geeft 404; https://hetbrouwdok.nl/proeflokaal/ontdekken/ daadwerkelijk geopend met publieke bierbar en uren. Eigen webshopfooter geeft afwijkende uren; die conflicten blijven expliciet onbekend.",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -12826,10 +12827,11 @@
         "za": "12:00",
         "zo": "12:00"
       },
-      "opening_source": "https://hetbrouwdok.nl/proeflokaal/",
-      "opening_checked_on": "2026-10-30",
+      "opening_source": "https://hetbrouwdok.nl/proeflokaal/ontdekken/",
+      "opening_checked_on": "2026-11-01",
       "opening_quality": "Eigen proeflokaalpagina, maar conflict met eigen webshopfooter over vrijdagstart.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "grand-cafe-promenade-harlingen-f6e911b",
