@@ -199,4 +199,13 @@ assert.equal(timedEligible(byId('strandpaviljoen-de-branding-midsland-aan-zee-20
   'Berenloop Sunday closes exactly at 18:00');
 state.after = '';
 
+// A business active in October must not be advertised as open in November
+// solely because its own site still shows an October-only timetable.
+state.date = '2026-11-01'; state.day = 'zo'; state.after = '';
+assert.equal(eligible(byId('beachclub-sneek-offingawier-20261101')), false,
+  'Beachclub Sneek has no verified November schedule');
+state.date = ''; state.day = 'vr';
+assert.equal(eligible(byId('beachclub-sneek-offingawier-20261101')), false,
+  'October-only hours must not be treated as year-round hours');
+
 console.log('Frontend dated-closure integration tests passed');
