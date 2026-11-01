@@ -27,6 +27,19 @@ def has_exact_time(place, field):
     return any(TIME.fullmatch(str(values.get(day, ""))) for day in DAYS)
 
 
+def has_dated_exact_time(place, field):
+    """A sourced date range contains an exact time, not necessarily today."""
+    return any(
+        isinstance(schedule, dict) and
+        any(TIME.fullmatch(str((schedule.get(field) or {}).get(day, ""))) for day in DAYS)
+        for schedule in (place.get("date_schedules") or [])
+    )
+
+
+def has_any_exact_time_including_dated(place, field):
+    return has_exact_time(place, field) or has_dated_exact_time(place, field)
+
+
 def build_report(dataset, snapshot_date):
     """Pure report builder: no network, no inference of unverified business status."""
     places = dataset["places"]
@@ -71,6 +84,9 @@ def build_report(dataset, snapshot_date):
                                            isinstance(p["geo"].get("lon"), (int, float))) for p in city_venues),
                 "needs_selection_review": sum(p.get("selection") == "Nog te controleren" for p in city_venues),
                 "without_any_exact_closing": sum(not has_exact_time(p, "closing") for p in city_venues),
+                "with_dated_exact_closing": sum(has_dated_exact_time(p, "closing") for p in city_venues),
+                "without_any_exact_closing_including_dated": sum(
+                    not has_any_exact_time_including_dated(p, "closing") for p in city_venues),
                 "without_explicit_last_entry": sum(not has_exact_time(p, "last_entry") for p in city_venues),
                 "undated_schedule_required_count": sum(bool(p.get("requires_date_schedule")) and not p.get("date_schedules") for p in city_venues),
             })
@@ -104,6 +120,11 @@ def build_report(dataset, snapshot_date):
             "with_any_exact_opening": sum(has_exact_time(p, "opening") for p in venues),
             "with_any_exact_closing": sum(has_exact_time(p, "closing") for p in venues),
             "without_any_exact_closing": sum(not has_exact_time(p, "closing") for p in venues),
+            "with_dated_exact_closing": sum(has_dated_exact_time(p, "closing") for p in venues),
+            "with_any_exact_closing_including_dated": sum(
+                has_any_exact_time_including_dated(p, "closing") for p in venues),
+            "without_any_exact_closing_including_dated": sum(
+                not has_any_exact_time_including_dated(p, "closing") for p in venues),
             "with_any_explicit_last_entry": sum(has_exact_time(p, "last_entry") for p in venues),
             "without_explicit_last_entry": sum(not has_exact_time(p, "last_entry") for p in venues),
             "shared_address_candidates": shared,
@@ -112,7 +133,7 @@ def build_report(dataset, snapshot_date):
     return {
         "snapshot_date": snapshot_date,
         "source": "data/venues.json",
-        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. The undated schedule count identifies venues intentionally hidden until a specific verified date is available. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
+        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. The undated schedule count identifies venues intentionally hidden until a specific verified date is available. Base closing counts exclude dated schedules for backward compatibility; dated and combined counts include sourced schedule intervals but do not prove that a venue is open on the snapshot date. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
         "total": len(places),
         "distinct_recorded_venues": sum(not p.get("duplicate_of") for p in places),
         "duplicate_alias_count": sum(bool(p.get("duplicate_of")) for p in places),
