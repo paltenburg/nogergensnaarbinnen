@@ -31836,7 +31836,7 @@
     },
     {
       "id": "strand-sneek-paviljoen-sneekermeer-offingawier-20261101",
-      "name": "Strand Sneek (Paviljoen Sneekermeer)",
+      "name": "Strand Sneek",
       "type": "Strandpaviljoen / watersportterras",
       "address": "Paviljoenwei 1D",
       "city": "Offingawier",
@@ -31875,7 +31875,7 @@
       "address_notes": "01-11-2026: exploitant strandsneek.nl en 2026 VVV-waterski-evenement bevestigen Strand Sneek op Paviljoenwei 1D, 8626 GD Offingawier; VVV-gids op nummer 4 verwijst naar afzonderlijke jachthaven/Paviljoen Sneekermeer (sneekermeer.nl, tel. 0515-411322), NIET dezelfde Strand Sneek-exploitant (strandsneek.nl, tel. 0515-745033). BAG-coördinaten uitsluitend na exacte 1D-PDOK-match; geen punt handmatig toegevoegd.",
       "website": "https://strandsneek.nl/",
       "website_checked_on": "2026-11-01",
-      "website_provenance": "Exploitantwebsite Strand Sneek met eigen paviljoen-, FAQ- en contactpagina.",
+      "website_provenance": "Eigen exploitant strandsneek.nl met paviljoen/terras op Paviljoenwei 1D. De afzonderlijke jachthaven op nummer 4 heet Paviljoen Sneekermeer; geen gelijkstelling van de bedrijven.",
       "checked_on": "2026-11-01",
       "other_sources": [
         "https://strandsneek.nl/info/",
@@ -31885,7 +31885,8 @@
         "https://www.q-info.com/paviljoen-sneekermeer",
         "https://www.waterlandvanfriesland.nl/uploads/media/66054433566ce/wvf-magazine2024-nl-lowres-spreads.pdf"
       ],
-      "original_status": "Eigen website met publiek terras en alcoholaanbod; actuele novemberexploitatie en exact BAG-adres niet bevestigd; verborgen."
+      "original_status": "Eigen website met publiek terras en alcoholaanbod; actuele novemberexploitatie en exact BAG-adres niet bevestigd; verborgen.",
+      "features": "Waterskibaan/strandterras De Potten; paviljoen aan het water; apart van jachthaven Paviljoen Sneekermeer op nummer 4"
     }
   ],
   "admission_policies": [
