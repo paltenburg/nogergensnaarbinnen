@@ -80,4 +80,48 @@ assert.equal(NGNBDateClosures.field(byId('la-boya-west-terschelling-20261101'),
 assert.equal(NGNBDateClosures.field(byId('beachclub-noderstraun-schiermonnikoog-20261030'),
   'closing', 'vr', '2026-11-06'), '?', 'kitchen closing is not bar closing');
 
+// Exercise the actual timed eligibility branch with helpers extracted from the
+// same inline frontend. This checks nightlife-day rollover at midnight.
+function inlineRange(begin, end) {
+  const from = inline[1].indexOf(begin);
+  const to = inline[1].indexOf(end, from + begin.length);
+  assert.ok(from >= 0 && to > from, begin + ' must exist before ' + end);
+  return inline[1].slice(from, to);
+}
+const timedFunctions = [
+  inlineRange('function timeVal(', 'function category('),
+  inlineRange('function closingWindow(', 'function displayClosing('),
+  inlineRange('function effectiveAdmission(', 'function entryBeforeClosing('),
+  inlineRange('function openAtSelectedTime(', 'function eligible('),
+  source
+].join('\\n');
+const timedEligible = vm.runInNewContext(timedFunctions + '; eligible', {
+  state, NGNBDateClosures, db: master, closing
+});
+state.date = '2026-11-06';
+state.day = 'vr';
+state.sameDayMorning = false;
+state.after = '23:30';
+assert.equal(timedEligible(byId('discotheek-de-lichtboei-nes-20261101')), true,
+  'Friday nightclub must accept 23:30 before 04:00');
+state.after = '01:30';
+assert.equal(timedEligible(byId('discotheek-de-lichtboei-nes-20261101')), true,
+  'Friday nightlife date extends through Saturday 01:30');
+state.after = '04:00';
+assert.equal(timedEligible(byId('discotheek-de-lichtboei-nes-20261101')), false,
+  '04:00 is closing, not an entry time');
+state.after = '21:30';
+assert.equal(timedEligible(byId('discotheek-de-lichtboei-nes-20261101')), false,
+  '21:30 precedes nightclub opening');
+state.after = '20:30';
+assert.equal(timedEligible(byId('brasserie-brandaris-west-terschelling-20261101')), true,
+  '20:30 is before the verified 22:00 closing');
+state.after = '22:00';
+assert.equal(timedEligible(byId('brasserie-brandaris-west-terschelling-20261101')), false,
+  '22:00 is not a valid arrival at a 22:00 closing');
+state.after = '20:30';
+assert.equal(timedEligible(byId('la-boya-west-terschelling-20261101')), false,
+  'unknown bar closing must not be advertised as time-verified');
+state.after = '';
+
 console.log('Frontend dated-closure integration tests passed');
