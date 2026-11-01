@@ -454,6 +454,8 @@
     if(state.date&&NGNBDateClosures.isClosed(p,state.date))return false;
     if(p.requires_date_schedule&&!NGNBDateClosures.scheduleFor(p,state.date))return false;
     if(p.selection==='Nee'||(!state.uncertain&&p.selection==='Nog te controleren'))return false;
+    // Closed weekdays must not appear even when no arrival time is selected.
+    if(NGNBDateClosures.field(p,'opening',state.day,state.date)==='—'||closing(p)==='—')return false;
     if(state.region&&p.region!==state.region)return false;
     if(state.category&&category(p.type)!==state.category)return false;
     if(state.q){
