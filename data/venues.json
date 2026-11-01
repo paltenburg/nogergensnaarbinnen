@@ -21871,13 +21871,13 @@
       },
       "closing_quality": "Eigen actuele openingstijdenpagina: di–zo 10–17, maandag gesloten; VVV toont di gesloten en wo–zo tot 18, maar exploitant heeft voorrang. Berenloop-zondag 1 november 2026 uitzonderlijk gesloten. Menupagina zegt nog diner, maar actuele openingstijdenpagina meldt expliciet geen diner meer.",
       "closing_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
-      "closing_notes": "30-10-2026: https://kaaphoornterschelling.nl/openingstijden-2/ noemt di–zo 10–17, ma dicht en Berenloop-zondag 01-11-2026 gesloten wegens onbereikbaarheid; menupagina https://kaaphoornterschelling.nl/menu/ bevestigt bier/wijn maar bevat verouderde dinerzin. VVV https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ noemt afwijkend di dicht/wo–zo 10–18; niet overgenomen. App ondersteunt geen datumgebonden uitzondering, daarom expliciet in notities; laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: https://kaaphoornterschelling.nl/openingstijden-2/ noemt di–zo 10–17, ma dicht en Berenloop-zondag 01-11-2026 gesloten wegens onbereikbaarheid; menupagina https://kaaphoornterschelling.nl/menu/ bevestigt bier/wijn maar bevat verouderde dinerzin. VVV https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ noemt afwijkend di dicht/wo–zo 10–18; niet overgenomen. App ondersteunt geen datumgebonden uitzondering, daarom expliciet in notities; laatste toegang onbekend. | Hercontrole 01-11-2026 live exploitantpagina: di–zo 10:00–17:00, ma gesloten, Berenloop zondag 01-11-2026 gesloten. Andere eerder geïmporteerde duplicaat gebruikte 18:00 op basis van verouderde zoekcache; niet overgenomen. De app heeft nog geen datumfilter: incidentele sluiting kan in weekdagweergave niet worden toegepast.",
       "features": "D0 Terschelling / Hoorn; strandborrel; 1 november 2026 uitzonderlijk gesloten",
       "website": "https://kaaphoornterschelling.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
       "opening_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-01",
       "other_sources": [
         "https://kaaphoornterschelling.nl/menu/",
         "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/",
@@ -21889,7 +21889,8 @@
         "lon": 5.3431578,
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg Hoorn 16, 8896KC Hoorn"
-      }
+      },
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "de-rustende-jager-formerum-20261030",
@@ -22025,13 +22026,13 @@
       },
       "closing_quality": "Eigen actuele openingstijdenpagina: ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Externe gidsen met dagelijks tot 02 zijn niet gebruikt.",
       "closing_source": "https://degroeneweideterschelling.nl/openingstijden/",
-      "closing_notes": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken.",
+      "closing_notes": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken. | Hercontrole 01-11-2026: exploitantopeningstijden ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Het latere tweede record is verborgen als dubbel; bestaand ID en geocode behouden.",
       "features": "D0 Terschelling / Hoorn; muziekcafé, late vr/za borrel",
       "website": "https://degroeneweideterschelling.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
       "opening_source": "https://degroeneweideterschelling.nl/openingstijden/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-01",
       "other_sources": [
         "https://degroeneweideterschelling.nl/contact/",
         "https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/",
@@ -22043,7 +22044,8 @@
         "lon": 5.3471749,
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 81, 8896JD Hoorn"
-      }
+      },
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "paviljoen-de-walvis-west-terschelling-20261030",
@@ -30435,7 +30437,7 @@
       "country": "Nederland",
       "access": "Eigen 2026-site nodigt publiek uit voor losse borrel aan de bar, live muziek/feestjes; geen maaltijdplicht.",
       "alcohol": "Café/borrelbar volgens eigen site, maar specifieke actuele bier-/wijnmerken nog niet afzonderlijk geverifieerd.",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "opening": {
         "ma": "11:00",
         "di": "11:00",
@@ -30462,14 +30464,17 @@
       "checked_on": "2026-11-01",
       "opening_quality": "Eigen nieuwe site en VVV eens: ma/di/do/zo 11–23, wo dicht, vr/za 11–02. Oudere gids noemt elke dag 10–02, verouderd.",
       "closing_quality": "Eigen pagina vermeldt 23:00 of 02:00; laatste toegang en livemuziek-eindtijden niet bevestigd.",
-      "closing_notes": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend. | DEDUP 01-11-2026: dubbel van de-groene-weide-hoorn-terschelling-20261030; verborgen, gebruik eerdere ID.",
       "features": "Terschelling Hoorn; muziekcafé; borrel; 2025 heropening",
       "website": "https://degroeneweideterschelling.nl/",
       "other_sources": [
         "https://degroeneweideterschelling.nl/contact/",
         "https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/"
       ],
-      "original_status": "Eigen 2026-site en VVV bevestigen publieke heropende café-/muziekfunctie."
+      "original_status": "Eigen 2026-site en VVV bevestigen publieke heropende café-/muziekfunctie.",
+      "duplicate_of": "de-groene-weide-hoorn-terschelling-20261030",
+      "duplicate_checked_on": "2026-11-01",
+      "duplicate_reason": "Dubbel ingevoerd op 01-11-2026: zelfde exploitant, officieel domein en adres als het eerdere record; dit ID blijft bestaan voor backwards-compatibiliteit, maar wordt niet meer als afzonderlijke locatie getoond."
     },
     {
       "id": "restaurant-zonneweelde-hoorn-20261101",
@@ -30610,7 +30615,7 @@
       "country": "Nederland",
       "access": "Eigen website bevestigt losse wijn- of bierborrel zonder maaltijdplicht.",
       "alcohol": "Eigen menukaart bevestigt wijnen en bier.",
-      "selection": "Voorlopig",
+      "selection": "Nee",
       "opening": {
         "ma": "—",
         "di": "?",
@@ -30637,14 +30642,17 @@
       "checked_on": "2026-11-01",
       "opening_quality": "Exploitant ma gesloten, di–zo 10–18; VVV ma/di gesloten, wo–zo 10–18. Dinsdag onbekend gehouden.",
       "closing_quality": "Exploitant en VVV wo–zo 18:00; laatste toegang onbekend.",
-      "closing_notes": "01-11-2026: https://kaaphoornterschelling.nl/menu/ en https://kaaphoornterschelling.nl/wp-content/uploads/2025/06/menukaart-juni-2025-dubbelzijdig-def2.pdf bevestigen borrel en wijn. https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ geeft dinsdag dicht, eigen site dinsdag open; dinsdag onbekend. Geen laatste toegang.",
+      "closing_notes": "01-11-2026: https://kaaphoornterschelling.nl/menu/ en https://kaaphoornterschelling.nl/wp-content/uploads/2025/06/menukaart-juni-2025-dubbelzijdig-def2.pdf bevestigen borrel en wijn. https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ geeft dinsdag dicht, eigen site dinsdag open; dinsdag onbekend. Geen laatste toegang. | DEDUP 01-11-2026: dubbel van strandpaviljoen-kaap-hoorn-hoorn-20261030; verborgen, gebruik eerdere ID.",
       "features": "Terschelling Hoorn; strandpaviljoen; wijn; bier",
       "website": "https://kaaphoornterschelling.nl/",
       "other_sources": [
         "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/",
         "https://kaaphoornterschelling.nl/menu/"
       ],
-      "original_status": "Eigen menu en VVV bevestigen publieke borrel, dinsdagrooster conflicteert."
+      "original_status": "Eigen menu en VVV bevestigen publieke borrel, dinsdagrooster conflicteert.",
+      "duplicate_of": "strandpaviljoen-kaap-hoorn-hoorn-20261030",
+      "duplicate_checked_on": "2026-11-01",
+      "duplicate_reason": "Dubbel ingevoerd op 01-11-2026: zelfde exploitant, officieel domein en adres als het eerdere record; dit ID blijft bestaan voor backwards-compatibiliteit, maar wordt niet meer als afzonderlijke locatie getoond."
     },
     {
       "id": "strandpaviljoen-heartbreak-hotel-oosterend-20261101",
