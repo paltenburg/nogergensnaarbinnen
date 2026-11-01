@@ -34433,6 +34433,56 @@
       ],
       "original_status": "01-11-2026: eigen website bevestigt afzonderlijke borrelmogelijkheid in lounge, maar specifieke laatste toegang en toegangsbeperkingen zijn onbekend.",
       "features": "Heeg; wijnlounge; toegang zonder maaltijd te verifiëren."
+    },
+    {
+      "id": "de-garaazje-sneek-20261101",
+      "name": "De Garaazje",
+      "type": "Pool-/biljartcentrum met bar",
+      "address": "Kruizebroederstraat 27",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen https://www.degaraazje.nl/ presenteert publiek pool-, snooker-, biljart- en dartcentrum in uitgaanscentrum Sneek, waar bezoekers hun avond kunnen beginnen; reserveren van tafels is mogelijk, geen verplichte reservering vermeld. Of alleen-drankbezoek zonder spel wordt toegestaan is niet expliciet bevestigd.",
+      "alcohol": "Onafhankelijke horecagids https://dnob.nl/de-leukste-cafes-en-kroegen-in-sneek/ noemt expliciet een vers biertje en andere dranken van de kaart. KvK-afgeleide bedrijfsinformatie https://openkvk.nl/company/hoofdvestiging-de-garaazje-pool-biljart-snooker-darts-30267022-895377 noemt barfunctie; eigen website publiceert geen actuele drankenkaart.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen https://www.degaraazje.nl/ vermeldt ma/di dicht, wo/do 19–24, vr 19–01, za 15–01, zo 15–24. Afwijkingen bij groepsuitjes mogelijk; 01-11-2026 gecontroleerd.",
+      "closing_quality": "Eigen weekrooster op https://www.degaraazje.nl/; '24:00' genormaliseerd naar 00:00 volgende nacht. Geen afzonderlijke laatste toegang; groepsuitjes kunnen uren wijzigen.",
+      "opening_source": "https://www.degaraazje.nl/",
+      "closing_source": "https://www.degaraazje.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.degaraazje.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website noemt exact naam, adres, activiteit en weekrooster; onafhankelijke lokale gids en KvK-afgeleide 2026-registratie ondersteunen barfunctie.",
+      "closing_notes": "01-11-2026: eigen website met ma/di gesloten, wo/do 19:00–24:00, vr 19:00–01:00, za 15:00–01:00, zo 15:00–24:00. Een andere gids https://firmania.nl/sneek/de-garaazje-448232 noemt afwijkende wo/do/vr-uren; officiële site gevolgd, maar actuele bedrijfsbevestiging van het exacte rooster blijft wenselijk. KvK-afgeleide gegevens bijgewerkt 07-10-2026 ondersteunen actuele registratie, niet afzonderlijk actuele deurstatus. Alcohol en barfunctie uit secundaire bronnen; zelfstandige inloop voor alleen een biertje nog controleren. Laatste toegang onbekend. Geen coördinaten verzonnen.",
+      "other_sources": [
+        "https://www.sneek.nl/zien-doen/de-garaazje",
+        "https://dnob.nl/de-leukste-cafes-en-kroegen-in-sneek/",
+        "https://www.compadex.com/nl/businesses/nl/de-garaazje-pool-biljart-snooker-darts-30267022-00895377",
+        "https://openkvk.nl/company/hoofdvestiging-de-garaazje-pool-biljart-snooker-darts-30267022-895377",
+        "https://firmania.nl/sneek/de-garaazje-448232"
+      ],
+      "original_status": "Eigen website en actuele KvK-afgeleide bedrijfsregistratie bevestigen locatie en barfunctie; zelfstandige borrel-inloop en laatste toegang niet rechtstreeks bevestigd.",
+      "features": "Sneek uitgaanscentrum; pool/snooker/darts; bar; groepsuitjes kunnen uren wijzigen."
     }
   ],
   "admission_policies": [
