@@ -34887,6 +34887,146 @@
       "checked_on": "2026-11-02",
       "original_status": "Dorpssite ondersteunt publieke borrelfunctie en KvK-afgeleide registratie adres; feitelijke openingsuren en recente eigen exploitantbevestiging ontbreken.",
       "features": "Wommels; dorpscafé; Freule-kaatsen; onzekere reguliere uren"
+    },
+    {
+      "id": "restaurant-helder-boornzwaag-20261102",
+      "name": "Restaurant Helder",
+      "type": "Restaurant / havenborrel",
+      "address": "Wielenlaan 19",
+      "city": "Boornzwaag",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen exploitant noemt lunch, diner en losse borrel aan de haven. Reserveren gewenst, niet als verplichte toegang geformuleerd; besloten feesten en feestdagen kunnen afwijken.",
+      "alcohol": "Eigen website publiceert drankenkaart en wijnkaart, en noemt borrelkaart; specifieke drankmerken niet uit afbeeldingen afgeleid.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen exploitant meldt dagelijks vanaf 11:00; 24–27 december vanaf 17:00, 28 december t/m 14 januari gesloten. Keuken sluit 20:30, dit is GEEN cafésluiting.",
+      "closing_quality": "Geen bedrijfseigen reguliere sluitingstijd voor borrel bevestigd; keukensluiting 20:30 niet overgenomen.",
+      "opening_source": "https://helderpuurgenieten.nl/menukaart",
+      "closing_source": "",
+      "opening_checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: https://helderpuurgenieten.nl/menukaart rechtstreeks gecontroleerd: dagelijks vanaf 11:00, borrel/wijnkaart en reserveren gewenst. Keuken sluit 20:30 maar drankservice-eindtijd onbekend. 24–27 december 2026 speciale opening vanaf 17:00 met feestelijk menu, niet automatisch vrije borrel gegarandeerd; 28-12-2026 t/m 14-01-2027 gesloten volgens exploitant. Oudere 2026 besloten-dagen reeds voorbij, niet als actuele uitzondering opgeslagen. Geen exacte geo of laatste toegang verzonnen.",
+      "website": "https://helderpuurgenieten.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen website met actuele borrel-/wijnkaart, adres, weekbeginuren en toekomstige sluiting op 02-11-2026 gelezen.",
+      "other_sources": [
+        "https://helderpuurgenieten.nl/menukaart",
+        "https://helderpuurgenieten.nl/team"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Exploitantwebsite bevestigt reguliere borrelfunctie en alcoholkaart; precieze sluiting en toegangsrestricties niet apart bewezen.",
+      "date_closures": [
+        {
+          "start": "2026-12-28",
+          "end": "2027-01-14",
+          "source": "https://helderpuurgenieten.nl/menukaart",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant vermeldt sluiting 28 december 2026 t/m 14 januari 2027."
+        }
+      ],
+      "date_closures_checked_on": "2026-11-02",
+      "date_schedules": [
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-27",
+          "source": "https://helderpuurgenieten.nl/menukaart",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "17:00",
+            "di": "17:00",
+            "wo": "17:00",
+            "do": "17:00",
+            "vr": "17:00",
+            "za": "17:00",
+            "zo": "17:00"
+          },
+          "closing": {
+            "ma": "?",
+            "di": "?",
+            "wo": "?",
+            "do": "?",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          }
+        }
+      ],
+      "features": "Boornzwaag; haven; terras; feestdagen afwijkend; geen bewezen late drankuren"
+    },
+    {
+      "id": "it-holt-deinum-20261102",
+      "name": "It Holt Eten/Drinken & Uitgaan",
+      "type": "Eetcafé / feest- en uitgaanslocatie",
+      "address": "It Holt 6",
+      "city": "Deinum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site biedt restaurantbezoek wo–zo en afzonderlijke ticketfeesten. Gewone losse borrel zonder diner niet door exploitant bevestigd; ma/di alleen groepen op afspraak, dus geen reguliere publieke opening.",
+      "alcohol": "Derdepartijvermelding noemt 'Drankjes' en een oudere bezoeker beschrijft borrelen; eigen actuele bier-/wijnkaart of vrije alcoholinloop niet geverifieerd. Verborgen tot nadere bevestiging.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen homepage vermeldt wo/do 17:00, vr–zo 16:00, ma/di alleen groepsafspraak. Vrijdag 11:30–13:00 uitsluitend afhaal, niet als publieke caféopening.",
+      "closing_quality": "Geen exploitantbevestigde sluiting of laatste toegang; gidsen 23:00/00:00/00:30 conflicteren. Evenementtijden zijn geen reguliere cafésluiting.",
+      "opening_source": "https://itholt.nl/",
+      "closing_source": "",
+      "opening_checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen https://itholt.nl/ en https://itholt.nl/uitgaan tonen eetcafé, actuele feesten 14/21 november en reguliere restaurantbeginuren; 9–12 november 2026 expliciet 'opening/afhaaltijden gesloten' op homepage, maar groeps-/evenementgebruik kan afwijken. Eigen site vermeldt geen alcoholsoorten of vrije drankinloop, daarom verborgen. Vrijdagse afhaal 11:30–13:00 geen caféopening; mooiweer-afwijkingen en sluituren onbekend. https://www.tripadvisor.nl/Restaurant_Review-g15022947-d14957451-Reviews-It_Holt-Deinum_Friesland_Province.html noemt drankjes, maar niet afzonderlijk actuele bier-/wijnkaart. Geen geo verzonnen.",
+      "website": "https://itholt.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen 2026 homepage, actuele evenementagenda en contactpagina rechtstreeks gelezen 02-11-2026.",
+      "other_sources": [
+        "https://itholt.nl/uitgaan",
+        "https://itholt.nl/contact",
+        "https://itholt.nl/aan-tafel/menukaart",
+        "https://www.tripadvisor.nl/Restaurant_Review-g15022947-d14957451-Reviews-It_Holt-Deinum_Friesland_Province.html"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Actueel exploitantbewijs voor eetcafé en ticketfeesten; geen bewezen reguliere vrije alcoholborrel. Daarom Nog te controleren.",
+      "date_closures": [
+        {
+          "start": "2026-11-09",
+          "end": "2026-11-12",
+          "source": "https://itholt.nl/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant noemt 9 t/m 12 november 'Opening/afhaaltijden gesloten'; geldt voor gewone inloop, besloten feesten niet apart bevestigd."
+        }
+      ],
+      "date_closures_checked_on": "2026-11-02",
+      "features": "Deinum; ticketfeesten; eetcafé; groepsafspraken; alcoholvrije inloop nog niet bewezen"
     }
   ],
   "admission_policies": [
