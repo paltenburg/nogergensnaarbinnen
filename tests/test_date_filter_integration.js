@@ -307,4 +307,20 @@ assert.equal(byId('grandcafe-hotel-van-der-meer-dokkum-20261031').opening.wo, '?
   'contradictory Wednesday opening must remain unknown');
 state.date = ''; state.day = 'vr';
 
+// Newly discovered Friesland venues: a verified public café and a bistro
+// whose wine/beer service does not prove walk-in drinks without a meal.
+state.region = 'friesland'; state.uncertain = false; state.after = '';
+state.date = '2026-11-06'; state.day = 'vr';
+assert.equal(eligible(byId('weids-bolsward-20261101')), true,
+  'Weids public café is available in its published Friday hours');
+assert.equal(eligible(byId('bistro-duinkerken-leeuwarden-20261101')), false,
+  'Duinkerken stays hidden pending confirmation of standalone bar access');
+state.after = '21:30';
+assert.equal(timedEligible(byId('weids-bolsward-20261101')), true,
+  'Weids published 22:00 business closing allows 21:30 arrival');
+state.after = '22:00';
+assert.equal(timedEligible(byId('weids-bolsward-20261101')), false,
+  'Weids published closing is not a valid arrival time');
+state.after = ''; state.date = ''; state.day = 'vr';
+
 console.log('Frontend dated-closure integration tests passed');
