@@ -38,6 +38,7 @@ def build_report(dataset, snapshot_date):
     for region_id in sorted(groups):
         venues = groups[region_id]
         selections = Counter(p.get("selection", "Onbekend") for p in venues)
+        aliases = sorted((p for p in venues if p.get("duplicate_of")), key=lambda p: p["id"])
         address_groups = defaultdict(list)
         for p in venues:
             if p.get("city") and p.get("address"):
@@ -72,6 +73,10 @@ def build_report(dataset, snapshot_date):
             "id": region_id,
             "name": region_names.get(region_id, region_id),
             "total": len(venues),
+            "distinct_recorded_venues": len(venues) - len(aliases),
+            "duplicate_alias_count": len(aliases),
+            "duplicate_aliases": [{"id": p["id"], "duplicate_of": p["duplicate_of"]} for p in aliases],
+            "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in venues),
             "settlement_count": len(city_coverage),
             "settlement_coverage": city_coverage,
             "selection_counts": dict(sorted(selections.items())),
@@ -99,8 +104,11 @@ def build_report(dataset, snapshot_date):
     return {
         "snapshot_date": snapshot_date,
         "source": "data/venues.json",
-        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. A recorded review date does not certify present operation. Settlement coverage includes only places already in the database; it cannot establish municipal or geographic completeness.",
+        "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. Settlement coverage includes only places already in the database; it cannot establish municipal or geographic completeness.",
         "total": len(places),
+        "distinct_recorded_venues": sum(not p.get("duplicate_of") for p in places),
+        "duplicate_alias_count": sum(bool(p.get("duplicate_of")) for p in places),
+        "date_closure_venue_count": sum(bool(p.get("date_closures")) for p in places),
         "regions": regions,
     }
 
