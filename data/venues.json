@@ -34594,6 +34594,55 @@
       ],
       "original_status": "01-11-2026: lokale gids en 2025/26 toeristisch magazine bevestigen café/bier; bandagenda https://justnoknock.nl/inhoud/optredens.htm noemt daadwerkelijke optredens 26-04, 15-05 en 01-08-2026 én aangekondigd concert 20-12-2026 op dit café. Dit ondersteunt exploitatie in 2026, maar niet de exacte novemberweekuren of laatste toegang.",
       "features": "Sneek Scharnestraat; bruin café; biljart en jamsessies; geen betrouwbare sluituren."
+    },
+    {
+      "id": "pannenkoekenboerderij-de-roos-terherne-20261101",
+      "name": "Pannenkoekenboerderij De Roos",
+      "type": "Pannenkoekrestaurant met bar en terras",
+      "address": "Kameleonplein 1",
+      "city": "Terherne",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website nodigt publiek uit voor koffie, gebak en andere versnaperingen, zonder expliciete maaltijdverplichting. Of men uitsluitend voor alcoholische drank terechtkan, is niet rechtstreeks door exploitant bevestigd.",
+      "alcohol": "Tripadvisor vermeldt bier, wijn en alcoholservice; BestRestos vermeldt een bar ter plekke. Eigen website toont geen rechtstreeks leesbare actuele alcoholkaart; aanbod daarom voorlopig.",
+      "opening": {
+        "ma": "12:00",
+        "di": "—",
+        "wo": "—",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://pannenkoekenboerderijderoos.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "opening_quality": "Eigen website: ma/do–zo vanaf 12:00, di/wo gesloten. Geen exploitant-einduur voor café of terras.",
+      "closing_source": "",
+      "closing_quality": "Eigen site vermeldt alleen keuken sluit om 20:00; dat is GEEN sluitingstijd van het restaurant of bar. Gidsen geven tegenstrijdige 20:00, 20:30 en 00:00; geen als feit overgenomen.",
+      "closing_notes": "01-11-2026: eigen homepage/contactpagina bevestigen naam, Kameleonplein 1, actieve restaurantexploitatie, publieke koffie/gebak en beginuren. Tripadvisor en BestRestos bevestigen bier/wijn en bar, maar vrije alcoholinloop niet primair geverifieerd. Laatste toegang en werkelijke sluiting onbekend; keuken 20:00 niet als sluiting. Geen coördinaten gegokt.",
+      "website": "https://pannenkoekenboerderijderoos.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen homepage en contact op 01-11-2026 gecontroleerd: https://pannenkoekenboerderijderoos.nl/ en https://pannenkoekenboerderijderoos.nl/contact/.",
+      "other_sources": [
+        "https://pannenkoekenboerderijderoos.nl/contact/",
+        "https://pannenkoekenboerderijderoos.nl/menu/",
+        "https://www.tripadvisor.fr/Restaurant_Review-g1087498-d32710170-Reviews-Pannenkoekenboerderij_De_Roos-Terherne_Friesland_Province.html",
+        "https://bestrestos.nl/restaurant/pannenkoekenboerderij-de-roos-terherne-2537",
+        "https://paviljoensalt.nl/evenementen/tasting-tour-terherne"
+      ],
+      "checked_on": "2026-11-01",
+      "original_status": "Actieve exploitatie en opening op eigen website; alcoholaanbod via gidsen, vrije borrel zonder maaltijd nog niet bevestigd.",
+      "features": "Terherne, terras, bier/wijn volgens derden, keuken sluit 20:00 maar cafésluiting onbekend; geen exacte geocode"
     }
   ],
   "admission_policies": [
