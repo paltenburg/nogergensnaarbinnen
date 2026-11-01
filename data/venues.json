@@ -17764,20 +17764,21 @@
       },
       "closing_quality": "Eventuren 31-10 20–22:30 zijn geen vaste caféuren",
       "closing_source": "https://brassbandhalleluja.nl/event/themaconcert-2/",
-      "closing_notes": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend.",
+      "closing_notes": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend. 01-11-2026: dorpsagenda kondigt Rocknight 2026 in Kafe Kompenije op zaterdag 07-11 om 19:30 aan. Dit is een aanvang van een evenement, GEEN reguliere caféopening of bewezen einduur; niets als vast rooster overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
-        "https://brassbandhalleluja.nl/event/themaconcert-2/"
+        "https://brassbandhalleluja.nl/event/themaconcert-2/",
+        "https://drachtstercompagnie.frl/"
       ],
-      "original_status": "Actueel evenement bevestigd, reguliere horecatoegang onbekend.",
+      "original_status": "Brassband vermeldde evenement op 31-10-2026; dorpsagenda kondigt Rocknight 07-11-2026 19:30 aan. Evenementlocatie actueel aangekondigd, reguliere vrije inloop en alcoholverstrekking niet afzonderlijk bevestigd.",
       "geo": {
         "lat": 53.1364274,
         "lon": 6.1394711,
         "method": "PDOK BAG-adres",
         "matched_address": "Alde Wei 14, 9222NG Drachtstercompagnie"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening": {
         "ma": "?",
         "di": "?",
