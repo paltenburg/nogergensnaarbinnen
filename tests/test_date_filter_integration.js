@@ -124,4 +124,50 @@ assert.equal(timedEligible(byId('la-boya-west-terschelling-20261101')), false,
   'unknown bar closing must not be advertised as time-verified');
 state.after = '';
 
+// Event-only and winter-closure regression: the real master must not show
+// uncertain weekly events as a guaranteed open venue on arbitrary dates.
+state.after = '';
+state.date = '2026-11-14'; state.day = 'za';
+assert.equal(eligible(byId('paradiso-bar-kollum-20261030')), true,
+  'confirmed ticket event on 14 November is visible');
+state.date = '2026-11-07'; state.day = 'za';
+assert.equal(eligible(byId('paradiso-bar-kollum-20261030')), false,
+  'an advertised event without verified full hours is not a fixed schedule');
+assert.equal(eligible(byId('de-vijfpoort-formerum-fa6312a')), false,
+  'almost every Saturday does not prove a particular Saturday');
+assert.equal(eligible(byId('tdf-berltsum-20261030')), false,
+  'event venue with no current dated event remains hidden');
+state.date = '2026-11-06'; state.day = 'vr';
+assert.equal(eligible(byId('eetcafe-de-winze-wyns-20261030')), true,
+  'verified winter Friday is visible');
+state.date = '2026-11-03'; state.day = 'di';
+assert.equal(eligible(byId('eetcafe-de-winze-wyns-20261030')), false,
+  'winter Tuesday is closed');
+state.date = '2026-12-19'; state.day = 'za';
+assert.equal(eligible(byId('eetcafe-de-winze-wyns-20261030')), false,
+  'Christmas period is not assumed open');
+state.date = ''; state.day = 'vr';
+for (const id of ['paradiso-bar-kollum-20261030',
+  'de-vijfpoort-formerum-fa6312a', 'tdf-berltsum-20261030',
+  'eetcafe-de-winze-wyns-20261030']) {
+  assert.equal(eligible(byId(id)), false, id + ' hidden without exact date');
+}
+state.sameDayMorning = false;
+state.date = '2026-11-14'; state.day = 'za'; state.after = '20:30';
+assert.equal(timedEligible(byId('paradiso-bar-kollum-20261030')), true,
+  'ticket event begins at 20:30');
+state.after = '01:30';
+assert.equal(timedEligible(byId('paradiso-bar-kollum-20261030')), true,
+  'ticket event runs through 01:30 on Sunday morning');
+state.after = '02:00';
+assert.equal(timedEligible(byId('paradiso-bar-kollum-20261030')), false,
+  'ticket event ends at 02:00');
+state.date = '2026-11-06'; state.day = 'vr'; state.after = '22:30';
+assert.equal(timedEligible(byId('eetcafe-de-winze-wyns-20261030')), true,
+  'winter Friday 22:30 is before closing');
+state.after = '23:00';
+assert.equal(timedEligible(byId('eetcafe-de-winze-wyns-20261030')), false,
+  'winter Friday 23:00 is closing, not arrival');
+state.after = '';
+
 console.log('Frontend dated-closure integration tests passed');
