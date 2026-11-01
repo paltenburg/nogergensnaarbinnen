@@ -10263,8 +10263,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek café voor borrel volgens Visit Leeuwarden; toegangstijd niet afzonderlijk bevestigd.",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Visit Leeuwarden beschrijft publieke café- en terrasborrel op Kleine Hoogstraat 2; feitelijke opening op specifieke datum niet gecontroleerd.",
+      "alcohol": "Gemeente Leeuwarden verleende op 30-09-2026 een gewijzigde Alcoholwetvergunning voor Café De Toeter op Kleine Hoogstraat 2; Visit Leeuwarden beschrijft publieke drankinloop. Vergunning is geen bewijs van daadwerkelijk geopende deur.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10277,22 +10277,25 @@
       },
       "closing_quality": "Geen officieel Leeuwarder bedrijfsrooster gevonden; tijden uit bedrijvengids niet als zeker overgenomen.",
       "closing_source": "",
-      "closing_notes": "Visit Leeuwarden bevestigt café op Kleine Hoogstraat 2 en borrelmogelijkheid. Allebiz vermeldt di–zo 16:00–03:00 maar niet bevestigd door eigen site; alle sluitingstijden onbekend gehouden. LET OP: https://www.cafedetoeter.nl/ hoort bij Café De Toeter in GRONINGEN, niet deze Leeuwarder zaak; bewust niet als website toegevoegd. Laatste toegang onbekend.",
+      "closing_notes": "Visit Leeuwarden bevestigt café op Kleine Hoogstraat 2 en borrelmogelijkheid. Allebiz vermeldt di–zo 16:00–03:00 maar niet bevestigd door eigen site; alle sluitingstijden onbekend gehouden. LET OP: https://www.cafedetoeter.nl/ hoort bij Café De Toeter in GRONINGEN, niet deze Leeuwarder zaak; bewust niet als website toegevoegd. Laatste toegang onbekend. 01-11-2026: gemeentelijke gewijzigde alcoholvergunning (bekendgemaakt 30-09-2026) en Compadex/KvK 12-02-2026 bevestigen horecafunctie/adres, niet de feitelijke sluituren. Cylex augustus noemt andere uren dan AlleBiz; einduren onbekend behouden.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.visitleeuwarden.com/locaties/2788429167/cafe-de-toeter",
-        "https://www.allebiz.nl/de-toeter-058-215-7976"
+        "https://www.allebiz.nl/de-toeter-058-215-7976",
+        "https://www.overuwbuurt.nl/kennisgeving/verleende-gewijzigde-alcoholwetvergunning-voor-cafe-de-toeter-aan-de-kleine-hoogstraat-2-8911-he-leeuwarden-hor-2026-038994/8969365",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-toeter-01091272-02794829",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-de-toeter-10855183.html"
       ],
-      "original_status": "Actuele toeristische stadsgids vermeldt De Toeter Leeuwarden, Kleine Hoogstraat 2; eigen website en weekrooster niet vastgesteld 30-10-2026.",
+      "original_status": "Visit Leeuwarden vermeldt publieke caféborrel; gemeentelijke gewijzigde Alcoholwetvergunning bekendgemaakt 30-09-2026 op exact adres. Geen fysieke opening of bedrijfseigen weekrooster bevestigd.",
       "geo": {
         "lat": 53.2027922,
         "lon": 5.796716,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleine Hoogstraat 2, 8911HE Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "club-z-leeuwarden-aecf644",
@@ -17347,44 +17350,52 @@
       "city": "Blauwhuis",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Gidsen en recente recensies bevestigen café op Vitusdyk 15; eigen domein niet bereikbaar.",
+      "access": "Eigen website nodigt publiek uit voor een hapje en drankje in het eetcafé; geen ticketplicht voor gewone cafébezoeken genoemd.",
       "alcohol": "RestaurantGuru noemt bier en reacties van exploitant, eigen actuele menukaart ontbreekt.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "?",
         "do": "?",
         "vr": "?",
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Gidsuren conflicteren, eigen freonskip.nl onbereikbaar",
-      "closing_source": "https://restaurantguru.com/De-Freonskip-Blauwhuis",
-      "closing_notes": "30-10-2026: https://www.allebiz.nl/de-freonskip-0515-579-370 noemt di–za 11:30–23:30, zo 14–23:30, ma dicht. RestaurantGuru noemt di gesloten, wo/do 12–22, vr/za 12–23:30, zo 14–23:30. https://freonskip.nl/ niet bereikbaar. Geen onzekere tijden overgenomen; laatste toegang onbekend.",
+      "closing_quality": "Exploitant noemt uitsluitend keukensluiting 20:30; bar-/café-einduren en laatste toegang onbekend.",
+      "closing_source": "https://www.freonskip.nl/",
+      "closing_notes": "01-11-2026: eigen https://www.freonskip.nl/ en /contact rechtstreeks bereikbaar, zelfde naam/adres. Wo–za vanaf 12, zo vanaf 14, ma/di dicht. 20:30 is keukensluiting, geen barsluiting. Gidsen geven onderling verschillende einduren; niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.freonskip.nl/",
       "other_sources": [
         "https://www.allebiz.nl/de-freonskip-0515-579-370",
-        "https://restaurantguru.com/De-Freonskip-Blauwhuis"
+        "https://restaurantguru.com/De-Freonskip-Blauwhuis",
+        "https://www.freonskip.nl/",
+        "https://www.freonskip.nl/contact"
       ],
-      "original_status": "Gidsen en recente reviews ondersteunen huidige caféfunctie, eigen site onbereikbaar.",
+      "original_status": "Exploitantwebsite op 01-11-2026 rechtstreeks bereikbaar met juiste naam/adres en opening; feitelijke deurtoegang niet fysiek gecontroleerd.",
       "geo": {
         "lat": 53.0233362,
         "lon": 5.5323062,
         "method": "PDOK BAG-adres",
         "matched_address": "Vitusdyk 15, 8615LL Blauwhuis"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
-      }
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "14:00"
+      },
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen site en contactpagina bevestigen Café Restaurant De Freonskip, Vitusdyk 15, Blauwhuis.",
+      "opening_source": "https://www.freonskip.nl/",
+      "opening_checked_on": "2026-11-01",
+      "opening_quality": "Exploitantwebsite 01-11-2026: wo–za vanaf 12:00, zo vanaf 14:00, ma/di dicht; geen expliciet jaartal op webpagina.",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "eetcafe-de-2-gemeenten-jirnsum-6576dc2",
