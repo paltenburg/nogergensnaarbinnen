@@ -43,4 +43,41 @@ state.date = '2027-04-01';
 assert.equal(eligible(berkenplas), false, 'seasonal venue hidden outside verified range');
 assert.ok(html.includes('id="visitDate"'), 'the date selector is exposed');
 assert.ok(html.includes("p.set('datum',state.date)"), 'date deep links are retained');
+// Source-verified winter schedules: exercise the actual master, not just fixtures.
+const master = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'venues.json'), 'utf8'));
+const byId = id => {
+  const place = master.places.find(p => p.id === id);
+  assert.ok(place, 'missing venue: ' + id);
+  return place;
+};
+const datedCases = [
+  ['discotheek-de-lichtboei-nes-20261101', '2026-11-06', 'vr', true],
+  ['discotheek-de-lichtboei-nes-20261101', '2026-11-05', 'do', false],
+  ['discotheek-de-lichtboei-nes-20261101', '2026-12-04', 'vr', false],
+  ['brasserie-brandaris-west-terschelling-20261101', '2026-11-06', 'vr', true],
+  ['brasserie-brandaris-west-terschelling-20261101', '2027-01-10', 'zo', false],
+  ['brasserie-brandaris-west-terschelling-20261101', '2027-02-16', 'di', false],
+  ['la-boya-west-terschelling-20261101', '2026-11-01', 'zo', true],
+  ['la-boya-west-terschelling-20261101', '2026-11-03', 'di', false],
+  ['la-boya-west-terschelling-20261101', '2026-11-13', 'vr', true],
+  ['la-boya-west-terschelling-20261101', '2026-12-04', 'vr', false],
+  ['beachclub-noderstraun-schiermonnikoog-20261030', '2026-11-02', 'ma', true],
+  ['beachclub-noderstraun-schiermonnikoog-20261030', '2026-11-03', 'di', false],
+  ['beachclub-noderstraun-schiermonnikoog-20261030', '2026-12-19', 'za', false]
+];
+for (const [id, date, day, expected] of datedCases) {
+  state.date = date;
+  state.day = day;
+  assert.equal(eligible(byId(id)), expected, id + ' @ ' + date);
+}
+state.date = '';
+state.day = 'vr';
+for (const id of [...new Set(datedCases.map(row => row[0]))]) {
+  assert.equal(eligible(byId(id)), false, id + ' must not claim year-round opening');
+}
+assert.equal(NGNBDateClosures.field(byId('la-boya-west-terschelling-20261101'),
+  'closing', 'vr', '2026-11-13'), '?', 'VVV end time is not an official closing time');
+assert.equal(NGNBDateClosures.field(byId('beachclub-noderstraun-schiermonnikoog-20261030'),
+  'closing', 'vr', '2026-11-06'), '?', 'kitchen closing is not bar closing');
+
 console.log('Frontend dated-closure integration tests passed');
