@@ -23,6 +23,7 @@
     input[type=search],select{appearance:none;outline:0;border:1px solid #32475e;background:#192b3e;color:#eef3f6;border-radius:9px;padding:11px 12px;width:100%;min-width:0;font-size:14px}
     input[type=search]{padding-left:38px}input:focus,select:focus{border-color:#f3b55b;box-shadow:0 0 0 2px #f3b55b33}select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='m1 1 5 5 5-5' fill='none' stroke='%23abb9c9' stroke-width='1.8'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 11px center;padding-right:30px}
     .pair{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    input[type=date]{appearance:none;border:1px solid #32475e;background:#192b3e;color:#eef3f6;border-radius:9px;padding:10px 12px;width:100%;font-size:14px;color-scheme:dark}
     input[type=time]{appearance:none;outline:0;border:1px solid #32475e;background:#192b3e;color:#eef3f6;border-radius:9px;padding:10px 6px;width:100%;min-width:0;font-size:13px;color-scheme:dark}
     input[type=time]:focus{border-color:#f3b55b;box-shadow:0 0 0 2px #f3b55b33}
     .time-wrap{display:flex;gap:5px;min-width:0}
@@ -301,6 +302,7 @@
       <div class="extra-filters" id="extraFilters">
         <button type="button" class="mobile-filters-close" id="mobileFiltersClose">Sluiten ×</button>
         <div class="extra-title">Meer filters</div>
+        <div><label for="visitDate">Datum (voor afwijkende openingstijden)</label><input id="visitDate" type="date"><p class="map-style-note">Zonder datum worden eenmalige sluitingen niet automatisch uitgesloten. Nu gebruikt de Nederlandse datum.</p></div>
         <div class="search-wrap"><label class="visually-hidden" for="search">Zoek naam of adres</label><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off" placeholder="Zoek café, straat, kenmerk…"></div>
       <div><label for="region">Regio</label><select id="region"><option value="utrecht">Utrecht</option></select></div>
       <div><label for="category">Soort locatie</label><select id="category"><option value="">Alle soorten</option><option value="cafe">Café & kroeg</option><option value="bar">Bar & borrel</option><option value="club">Club & dansen</option><option value="music">Muziek & podium</option><option value="restaurant">Restaurant & eten</option><option value="other">Overig</option></select></div>
@@ -334,6 +336,7 @@
   <button type="button" id="mobileFiltersBackdrop" class="mobile-filters-backdrop" aria-label="Sluit filters"></button>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="./scripts/date_closures.js"></script>
 <script>
 (() => {
   'use strict';
@@ -353,7 +356,7 @@
   };
   function savedMapStyle(){try{return localStorage.getItem('ngnb-map-style');}catch(_){return null;}}
   const initialMapStyle=urlp.has('kaart')?urlp.get('kaart'):savedMapStyle();
-  const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1',sameDayMorning:urlp.get('ochtend')==='1',mapStyle:mapStyles[initialMapStyle]?initialMapStyle:'soft'};
+  const state={region:urlp.get('regio')||'utrecht',category:urlp.get('soort')||'',day:urlp.get('dag')||'vr',date:NGNBDateClosures.parseDate(urlp.get('datum'))?urlp.get('datum'):'',after:urlp.get('vanaf')||'',q:urlp.get('zoek')||'',uncertain:urlp.get('onzeker')==='1',sameDayMorning:urlp.get('ochtend')==='1',mapStyle:mapStyles[initialMapStyle]?initialMapStyle:'soft'};
   const esc=value=>String(value ?? '').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
   const cleanLink=value=>/^https?:\/\//i.test(String(value))?String(value):'';
   function timeVal(s){ if(!/^\d\d:\d\d$/.test(String(s)))return null; let [h,m]=s.split(':').map(Number);if(h>23||m>59)return null; return 60*h+m+(h<12?1440:0); }
@@ -448,6 +451,7 @@
     return arrivalAt>=openingAt;
   }
   function eligible(p){
+    if(state.date&&NGNBDateClosures.isClosed(p,state.date))return false;
     if(p.selection==='Nee'||(!state.uncertain&&p.selection==='Nog te controleren'))return false;
     if(state.region&&p.region!==state.region)return false;
     if(state.category&&category(p.type)!==state.category)return false;
@@ -480,7 +484,7 @@
     const va=sortingTime(a),vb=sortingTime(b);
     return (vb-va)||a.name.localeCompare(b.name,'nl');
   }
-  function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');if(state.sameDayMorning)p.set('ochtend','1');p.set('kaart',state.mapStyle);history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
+  function encodeFilters(){const p=new URLSearchParams();if(state.region)p.set('regio',state.region);if(state.category)p.set('soort',state.category);if(state.day!=='vr')p.set('dag',state.day);if(state.date)p.set('datum',state.date);if(state.after)p.set('vanaf',state.after);if(state.q)p.set('zoek',state.q);if(state.uncertain)p.set('onzeker','1');if(state.sameDayMorning)p.set('ochtend','1');p.set('kaart',state.mapStyle);history.replaceState(null,'',location.pathname+'?'+p.toString()+location.hash);}
   function officialWebsite(p){
     const url=cleanLink(p.website);
     return url?{url,label:'Website'}:null;
@@ -734,13 +738,16 @@
   }
   function useCurrentDutchTime(){
     // Between midnight and 06:00, show the previous nightlife evening.
-    const parts=new Intl.DateTimeFormat('nl-NL',{timeZone:'Europe/Amsterdam',weekday:'short',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
+    const parts=new Intl.DateTimeFormat('nl-NL',{timeZone:'Europe/Amsterdam',year:'numeric',month:'2-digit',day:'2-digit',weekday:'short',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
     const part=type=>parts.find(p=>p.type===type)?.value||'';
     const weekday=part('weekday').replace('.','').slice(0,2).toLowerCase();
     const index=days.indexOf(weekday);
     const hour=Number(part('hour'));
     if(index<0||!Number.isInteger(hour))return;
     const previousNight=hour<6;
+    const calendarDate=part('year')+'-'+part('month').padStart(2,'0')+'-'+part('day').padStart(2,'0');
+    const utcDate=NGNBDateClosures.parseDate(calendarDate);
+    if(utcDate){if(previousNight)utcDate.setUTCDate(utcDate.getUTCDate()-1);state.date=utcDate.toISOString().slice(0,10);el('visitDate').value=state.date;}
     state.sameDayMorning=!previousNight&&hour<12;
     el('day').value=days[previousNight?(index+6)%7:index];
     state.day=el('day').value;
@@ -841,10 +848,11 @@
   }
   function initMap(){if(typeof L==='undefined'){el('mapCaption').textContent='Kaartbibliotheek kan niet worden geladen; de lijst en filters blijven beschikbaar.';return;}
     map=L.map('map',{zoomControl:false,scrollWheelZoom:true}).setView([52.0907,5.1214],13);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'}).addTo(map);layer=L.layerGroup().addTo(map);map.on('moveend',syncRegionFromMap);map.on('zoomend',syncRegionFromMap);}
-  async function start(){initMapStyle();initMobileFilters();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';el('day').value=state.day;el('search').value=state.q;el('uncertain').checked=state.uncertain;
+  async function start(){initMapStyle();initMobileFilters();initMap();el('region').value=state.region;el('category').value=state.category;if(!days.includes(state.day))state.day='vr';if(state.date)state.day=NGNBDateClosures.weekday(state.date);el('day').value=state.day;el('visitDate').value=state.date;el('search').value=state.q;el('uncertain').checked=state.uncertain;
     try{const response=await fetch('./data/venues.json',{cache:'no-cache'});if(!response.ok)throw Error(`HTTP ${response.status}`);db=await response.json();if(!Array.isArray(db.places))throw Error('ongeldig formaat');el('region').replaceChildren(...db.regions.map(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.name;return o;}));if(!db.regions.some(r=>r.id===state.region))state.region=db.regions[0]?.id||'';el('region').value=state.region;fillArrivalOptions();el('nowBtn').addEventListener('click',useCurrentDutchTime);
       el('customTime').addEventListener('input',()=>{state.sameDayMorning=false;change();});
-      for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='day'||id==='after')state.sameDayMorning=false;if(id==='after')toggleCustomTime();change();if(id==='day'||id==='region'||id==='uncertain')fillArrivalOptions();});render();
+      el('visitDate').addEventListener('change',()=>{state.date=NGNBDateClosures.parseDate(el('visitDate').value)?el('visitDate').value:'';if(state.date){el('day').value=NGNBDateClosures.weekday(state.date);state.sameDayMorning=false;}change();fillArrivalOptions();});
+      for(const id of ['region','category','day','after','search','uncertain'])el(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='day'||id==='after')state.sameDayMorning=false;if(id==='day'){state.date='';el('visitDate').value='';}if(id==='after')toggleCustomTime();change();if(id==='day'||id==='region'||id==='uncertain')fillArrivalOptions();});render();
       // Wait for the mobile flex layout to settle before calculating initial bounds.
       if(map)requestAnimationFrame(fitVisibleMarkers);
     }catch(err){el('results').innerHTML=`<div class="empty"><strong>Gegevens niet geladen.</strong><br>${esc(err.message)}<br>Open de website via GitHub Pages of een lokale webserver; rechtstreeks openen als file:// ondersteunt het inlezen van JSON niet altijd.</div>`;el('locatedCount').textContent='Niet beschikbaar';}
