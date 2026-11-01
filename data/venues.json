@@ -5854,8 +5854,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen https://www.lejournal.nl/ kondigt openbare café-/borreltoegang vanaf 02-11-2026 aan. Op 01-11 nog geen feitelijke publieke heropening bevestigd; informele preview op 31-10 is geen gewone publieksopening.",
+      "alcohol": "Eigen https://www.lejournal.nl/ noemt expliciet borrel naast ontbijt/lunch/diner; afzonderlijke drankenkaart en actuele baruren na heropening nog niet geverifieerd.",
       "selection": "Nee",
       "closing": {
         "ma": "—",
@@ -5866,10 +5866,10 @@
         "za": "—",
         "zo": "—"
       },
-      "closing_quality": "Officiële website",
-      "closing_source": "https://www.lejournal.nl/verbouwing",
-      "checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: https://www.lejournal.nl/ bevestigt nog steeds heropening gepland op 2 november na renovatie. Op 31 oktober niet als feitelijk heropend behandelen; selectie Nee/alle uren gesloten blijft tot daadwerkelijke opening onafhankelijk of door exploitant bevestigd. Oudere gidsroosters van vóór verbouwing niet overnemen. Hercontrole op/na 02-11 vereist.",
+      "closing_quality": "Nog niet publiek heropend op controledatum; eigen site noemt 02-11 als toekomstige heropeningsdatum, geen actuele bar-sluituren.",
+      "closing_source": "https://www.lejournal.nl/",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: officiële https://www.lejournal.nl/ bevestigt aangekondigde publieke heropening op maandag 02-11. Nieuws030 https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/ (31-10) bevestigt informele opening op zaterdagavond 31-10, maar zegt dat de zaak pas 02-11 voor publiek opent. Daarom op 01-11 nog selection=Nee en weekrooster gesloten; geen oude gidsuren van vóór renovatie overnemen. Op/na 02-11 daadwerkelijke publieke exploitatie en nieuwe uren controleren.",
       "features": "Neude; Neude / terras",
       "website": "https://www.lejournal.nl/",
       "other_sources": [
@@ -5877,9 +5877,10 @@
         "https://www.uitutrecht.com/uitgaan/page/5/",
         "https://www.lejournal.nl/",
         "https://www.lejournal.nl/verbouwing",
-        "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/787/cafe-le-journal"
+        "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/787/cafe-le-journal",
+        "https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/"
       ],
-      "original_status": "Verbouwing binnen; terras wel toegankelijk volgens officiële website",
+      "original_status": "01-11-2026: nog niet voor reguliere publieke toegang heropend; eigen site kondigt heropening 02-11 aan, onafhankelijke bron bevestigt alleen preview 31-10.",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -5889,9 +5890,10 @@
         "za": "—",
         "zo": "—"
       },
-      "opening_source": "https://www.lejournal.nl/verbouwing",
-      "opening_checked_on": "2026-10-26",
-      "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 32-34 (Neude 32, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd."
+      "opening_source": "https://www.lejournal.nl/",
+      "opening_checked_on": "2026-11-01",
+      "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 32-34 (Neude 32, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd.",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "le-en-2cefa7d",
@@ -34394,8 +34396,8 @@
       "city": "Heeg",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
-      "access": "Eigen site beschrijft een diner dat kan uitlopen in een lange borrel in de lounge; **vrije inloop uitsluitend voor drank zonder diner niet afzonderlijk bevestigd**. Daarom nog te controleren/standaard verborgen.",
+      "selection": "Voorlopig",
+      "access": "Eigen homepage https://www.belleetnonna.nl/ biedt expliciet als alternatief voor lunch of diner 'een gezellige borrel in onze lounge' aan, met wijnen en borrelhapjes. Dit ondersteunt een zelfstandige publieke borrel; geen afzonderlijk deurbeleid of laatste toegang gepubliceerd.",
       "alcohol": "Eigen website noemt goede wijn en een concrete Chardonnay-bezoekersreactie, loungeborrel na diner.",
       "opening": {
         "ma": "16:30",
@@ -34425,11 +34427,11 @@
       "website": "https://www.belleetnonna.nl/",
       "website_checked_on": "2026-11-01",
       "website_provenance": "Eigen site bevestigt naam, Harinxmastrjitte 57, wijnlounge, algemene uren en contact.",
-      "closing_notes": "01-11-2026: officiële site spreekt van diner dat kan uitlopen in borrel in de lounge; losse publieke drankinloop nog niet bevestigd. Ondanks gepubliceerde restauranturen standaard verborgen ('Nog te controleren'); geen laatste toegang bekend.",
+      "closing_notes": "01-11-2026: eigen homepage beschrijft naast lunch/diner ook afzonderlijk een borrel in de lounge; daarom 'Voorlopig' in plaats van 'Nog te controleren'. Gepubliceerde tijden gelden voor het restaurant/loungemogelijkheid, niet aantoonbaar voor elke late drankinloop. Geen laatste toegang bevestigd.",
       "other_sources": [
         "https://www.belleetnonna.nl/"
       ],
-      "original_status": "Eigen site actief, wijnlounge bevestigd, maar zelfstandige openbare alcoholborrel zonder diner niet bewezen; niet standaard tonen.",
+      "original_status": "01-11-2026: eigen website bevestigt afzonderlijke borrelmogelijkheid in lounge, maar specifieke laatste toegang en toegangsbeperkingen zijn onbekend.",
       "features": "Heeg; wijnlounge; toegang zonder maaltijd te verifiëren."
     }
   ],
