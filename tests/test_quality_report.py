@@ -55,6 +55,9 @@ class QualityReportTests(unittest.TestCase):
         self.assertEqual(region["distinct_recorded_venues"], 1)
         self.assertEqual(region["duplicate_alias_count"], 1)
         self.assertEqual(region["duplicate_aliases"], [{"id": "new", "duplicate_of": "old"}])
+        self.assertEqual(region["settlement_count"], 1)
+        self.assertEqual(region["settlement_coverage"][0]["total"], 1)
+        self.assertEqual(region["shared_address_group_count"], 0)
 
     def test_gap_metrics_do_not_treat_unverified_data_as_complete(self):
         dataset = {"regions": [], "places": [
