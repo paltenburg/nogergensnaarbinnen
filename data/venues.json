@@ -17814,7 +17814,7 @@
       "city": "Drachtstercompagnie",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Lokale concertagenda bevestigt publiek evenement 31 oktober 2026 op adres; reguliere café-inloop niet bevestigd.",
+      "access": "Dorpsblad-interview met uitbater Pieter Bron (Piebro) beschrijft publiek dorpscafé sinds 2023. Lokale concertagenda bevestigt evenement 31-10-2026 en dorpsagenda 07-11-2026; actuele reguliere vrije inloop en openingstijden niet afzonderlijk bevestigd.",
       "alcohol": "Alcoholaanbod op regulier caférooster niet direct bevestigd.",
       "selection": "Nog te controleren",
       "closing": {
@@ -17828,21 +17828,22 @@
       },
       "closing_quality": "Eventuren 31-10 20–22:30 zijn geen vaste caféuren",
       "closing_source": "https://brassbandhalleluja.nl/event/themaconcert-2/",
-      "closing_notes": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend. 01-11-2026: dorpsagenda kondigt Rocknight 2026 in Kafe Kompenije op zaterdag 07-11 om 19:30 aan. Dit is een aanvang van een evenement, GEEN reguliere caféopening of bewezen einduur; niets als vast rooster overgenomen.",
+      "closing_notes": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend. 01-11-2026: dorpsagenda kondigt Rocknight 2026 in Kafe Kompenije op zaterdag 07-11 om 19:30 aan. Dit is een aanvang van een evenement, GEEN reguliere caféopening of bewezen einduur; niets als vast rooster overgenomen. | Controle 02-11-2026: dorpsblad De Barte nr. 178 (https://drachtstercompagnie.frl/wp-content/uploads/2025/01/Barte-178.pdf) bevat interview met uitbater Pieter Bron over behoud en exploitatie van het dorpscafé, snacks en publiek bezoek. Een 2026-evenement bevestigt gebruik als locatie, niet het reguliere weekrooster. Externe gidsen geven onderling afwijkende tijden; niets overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://brassbandhalleluja.nl/event/themaconcert-2/",
-        "https://drachtstercompagnie.frl/"
+        "https://drachtstercompagnie.frl/",
+        "https://drachtstercompagnie.frl/wp-content/uploads/2025/01/Barte-178.pdf"
       ],
-      "original_status": "Brassband vermeldde evenement op 31-10-2026; dorpsagenda kondigt Rocknight 07-11-2026 19:30 aan. Evenementlocatie actueel aangekondigd, reguliere vrije inloop en alcoholverstrekking niet afzonderlijk bevestigd.",
+      "original_status": "Dorpscafé-exploitatie ondersteund door dorpsbladinterview en 2026 evenementagenda; reguliere toegang/uren in november 2026 nog onbevestigd.",
       "geo": {
         "lat": 53.1364274,
         "lon": 6.1394711,
         "method": "PDOK BAG-adres",
         "matched_address": "Alde Wei 14, 9222NG Drachtstercompagnie"
       },
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -18289,7 +18290,7 @@
       "city": "Peazens",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Lokale erfgoedroute en OSM vermelden café/snackbar op De Buorren 32; huidige vrije inloop niet door exploitant bevestigd.",
+      "access": "Dorpssite: sinds 2023 gesloten, in februari 2025 verkocht en op 7 februari 2025 eenmalig voor bezoekers geopend. Renovatie aangekondigd; reguliere vrije inloop in 2026 niet bevestigd.",
       "alcohol": "Historische caféfunctie, actuele drankenkaart onbekend.",
       "selection": "Nog te controleren",
       "closing": {
@@ -18301,23 +18302,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Alleen externe gidsuren, geen eigen rooster",
+      "closing_quality": "Geen geverifieerd bedrijfseigen weekrooster. De eenmalige opening van 7 februari 2025 is geen reguliere openingstijd.",
       "closing_source": "https://waddentour.nl/poi/paesens-de-buorren-32/",
-      "closing_notes": "Waddentour noemt café/snackbar 'De Zwarte Arend' op Buorren 32, RestaurantGuru toont weekuren maar geen officiële bron. OSM-kaart en historische informatie bewijzen geen actuele horecatoegang. Geen uren/laatste toegang overgenomen, voor hercontrole.",
+      "closing_notes": "Waddentour noemt café/snackbar 'De Zwarte Arend' op Buorren 32, RestaurantGuru toont weekuren maar geen officiële bron. OSM-kaart en historische informatie bewijzen geen actuele horecatoegang. Geen uren/laatste toegang overgenomen, voor hercontrole. | Controle 02-11-2026: dorpssite https://www.paesens-moddergat.nl/laatste-nieuws/algemeen/zwarte-arend-verkocht-werkgroep-opgeheven/ en RTV NOF https://www.rtvnof.nl/video-nieuwe-plannen-voor-cafe-zwarte-arend-in-peazens-moddergat/691298/ melden verkoop aan Johan en Minne Dijkstra, éénmalige publieke opening 07-02-2025 en voorgenomen verbouwing. Geen onafhankelijk bewijs van heropening met reguliere vrije inloop in 2026 gevonden; historische gids 'Nu: café' niet als actueel bewijs behandelen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://waddentour.nl/poi/paesens-de-buorren-32/",
-        "https://nl.restaurantguru.com/amp/Cafe-De-Zwarte-Arend-Paesens"
+        "https://nl.restaurantguru.com/amp/Cafe-De-Zwarte-Arend-Paesens",
+        "https://www.paesens-moddergat.nl/laatste-nieuws/algemeen/zwarte-arend-verkocht-werkgroep-opgeheven/",
+        "https://www.rtvnof.nl/video-nieuwe-plannen-voor-cafe-zwarte-arend-in-peazens-moddergat/691298/"
       ],
-      "original_status": "Historische erfgoed-/gidsvermelding; exploitatie oktober 2026 niet direct bewezen.",
+      "original_status": "2023 gesloten, 07-02-2025 eenmalig geopend na verkoop; heropening met reguliere toegang in 2026 onbevestigd.",
       "geo": {
         "lat": 53.4021948,
         "lon": 6.0831191,
         "method": "PDOK BAG-adres",
         "matched_address": "De Buorren 32, 9136PV Peazens"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
