@@ -31350,6 +31350,107 @@
         "https://www.vvvschiermonnikoog.nl/overnachten/hotels/hotel-duinzicht"
       ],
       "original_status": "Actueel hotel/restaurant en alcohol + publieke terrasdrank bevestigd; losse baruren en binneninloop onbekend."
+    },
+    {
+      "id": "de-halte-schiermonnikoog-20261101",
+      "name": "De Halte",
+      "type": "Cafetaria / bier en snacks",
+      "address": "Reeweg 4",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke cafetaria met binnenloop voor snacks; exploitant noemt ook bierassortiment, zonder reserverings- of maaltijdplicht.",
+      "alcohol": "Eigen homepage adverteert een ruim bierassortiment bij De Halte.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://www.schiermonnikoog-horeca.nl/openingstijden-de-halte/",
+      "closing_source": "https://www.schiermonnikoog-horeca.nl/openingstijden-de-halte/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "closing_quality": "Exploitantpagina vermeldt ma dicht, di–do 14–20, vr–zo 12–20. Laatste toegang niet gepubliceerd.",
+      "closing_notes": "01-11-2026: https://www.schiermonnikoog-horeca.nl/ noemt expliciet ruim bierassortiment bij De Halte; https://www.schiermonnikoog-horeca.nl/halte-contact/ bevestigt Reeweg 4 en exact rooster; https://www.schiermonnikoog-horeca.nl/de-halte/ bevestigt actuele exploitatie. Geen latere toegangstijd aangenomen.",
+      "features": "Schiermonnikoog; bier; snacks; vroege sluiting",
+      "website": "https://www.schiermonnikoog-horeca.nl/de-halte/",
+      "other_sources": [
+        "https://www.schiermonnikoog-horeca.nl/",
+        "https://www.schiermonnikoog-horeca.nl/halte-contact/"
+      ],
+      "original_status": "Eigen actuele site, adres, publieke snackbar en bier plus weekrooster bevestigd."
+    },
+    {
+      "id": "drink-eethuis-de-berkenplas-schiermonnikoog-20261101",
+      "name": "Drink- & Eethuis De Berkenplas",
+      "type": "Restaurant / terras / borrel",
+      "address": "Prins Bernhardweg 1",
+      "city": "Schiermonnikoog",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt wandelaars en andere bezoekers uit voor een los drankje op het terras; VVV bevestigt publieke terrasconsumptie.",
+      "alcohol": "Eigen 2025-menukaart vermeldt bier, wijn en cocktails; huidige 2026-drankenkaart niet afzonderlijk geverifieerd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen officiële contactpagina heeft expliciet verschillende zomer- en winterroosters; zonder datumgebonden roosterfilter bewust geen generieke weekuren en niet zichtbaar.",
+      "closing_notes": "01-11-2026: https://www.schiermonnikoog-horeca.nl/berkenplas-contact/ vermeldt apr–okt ma/di dicht, wo–zo 10:30–18:00; nov–mrt ma–do dicht, vr–zo 10:30–17:30. Feestdagen/vakanties kunnen afwijken. https://www.schiermonnikoog-horeca.nl/de-berkenplas/ bevestigt losse terrasdrank. Eigen menukaart 2025 bevat bier/wijn, maar actuele 2026-alcoholkaart en laatste toegang nog controleren. Geen vaste seizoensuren in generieke weekvelden geplaatst.",
+      "seasonal_hours_evidence": [
+        {
+          "season": "2026-11-01 t/m 2027-03-31",
+          "source": "https://www.schiermonnikoog-horeca.nl/berkenplas-contact/",
+          "days": "ma–do gesloten; vr–zo 10:30–17:30",
+          "checked_on": "2026-11-01"
+        },
+        {
+          "season": "april–oktober (jaarlijks volgens exploitant)",
+          "source": "https://www.schiermonnikoog-horeca.nl/berkenplas-contact/",
+          "days": "ma/di gesloten; wo–zo 10:30–18:00",
+          "checked_on": "2026-11-01"
+        }
+      ],
+      "features": "Schiermonnikoog; terras aan recreatieplas; seizoensrooster",
+      "website": "https://www.schiermonnikoog-horeca.nl/de-berkenplas/",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "other_sources": [
+        "https://www.schiermonnikoog-horeca.nl/berkenplas-contact/",
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants/restaurant-de-berkenplas",
+        "https://schiermonnikoog-horeca.nl/wp-content/uploads/2025/04/menukaart-seizoen-2025_20250416_092302_0000.pdf"
+      ],
+      "original_status": "Eigen exploitant en VVV bevestigen openbare terrasexploitatie en seizoenuren; actuele drankkaart en datumfilter nog open."
     }
   ],
   "admission_policies": [
