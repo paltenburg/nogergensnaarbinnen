@@ -17668,8 +17668,8 @@
       "alcohol": "Borrelfunctie bevestigd; specifiek alcoholmenu niet afzonderlijk gevonden.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "00:00",
         "do": "00:00",
         "vr": "00:00",
@@ -17677,14 +17677,15 @@
         "zo": "00:00"
       },
       "closing_quality": "Eigen site, wo–zo; ma/di niet vermeld.",
-      "closing_source": "https://eetcafedegondel.nl/",
-      "closing_notes": "Eigen site: wo/do 16–24 en vr–zo 11–24. Maandag en dinsdag niet vermeld: onbekend, niet als gesloten aangenomen. Geen laatste toegang. Eigen site schrijft Doelhòf 3, BAG-geocode Doelhôf 3; adresvariant bewaard.",
+      "closing_source": "https://www.eetcafedegondel.nl/openingstijden",
+      "closing_notes": "Eigen site: wo/do 16–24 en vr–zo 11–24. Maandag en dinsdag niet vermeld: onbekend, niet als gesloten aangenomen. Geen laatste toegang. Eigen site schrijft Doelhòf 3, BAG-geocode Doelhôf 3; adresvariant bewaard. Aanvullende officiële openingstijdenpagina https://www.eetcafedegondel.nl/openingstijden op 01-11-2026 rechtstreeks gecontroleerd: ma/di expliciet gesloten, eerder onbekende waarden gecorrigeerd naar '—'. Wo/do 16:00–00:00 en vr–zo 11:00–00:00 bevestigd; feestdagen kunnen afwijken. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://eetcafedegondel.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou",
         "https://eetcafedegondel.nl/contact",
-        "https://eetcafedegondel.nl/buffetten"
+        "https://eetcafedegondel.nl/buffetten",
+        "https://www.eetcafedegondel.nl/openingstijden"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -17693,20 +17694,21 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Doelhôf 3, 8495KD Aldeboarn"
       },
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-01",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "website_provenance": "Exploitantwebsite en contactpagina gecontroleerd 2026-10-30.",
       "opening": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "16:00",
         "do": "16:00",
         "vr": "11:00",
         "za": "11:00",
         "zo": "11:00"
       },
-      "opening_source": "https://eetcafedegondel.nl/"
+      "opening_source": "https://www.eetcafedegondel.nl/openingstijden",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "cafe-bar-de-welp-reduzum-a4ad6f4",
@@ -34740,6 +34742,53 @@
       "checked_on": "2026-11-01",
       "original_status": "Actuele KvK-registratie en VVV/dorpssite ondersteunen bestaande publieke caféfunctie; primaire weekuren en actuele exploitantwebsite ontbreken.",
       "features": "Terherne; bruin café, biljart, terras; geen sluituur of geocode gegokt"
+    },
+    {
+      "id": "cafe-moeke-de-bruin-aldeboarn-20261101",
+      "name": "Café Moeke de Bruin",
+      "type": "Bruin dorpscafé",
+      "address": "Waechstege 4",
+      "city": "Aldeboarn",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Lokale dorpssite Aldeboarn.frl nodigt bezoekers expliciet uit om binnen te lopen voor een biertje of glas wijn. Gemeentelijke incidentele festiviteitsmelding 2026 bevestigt horeca op hetzelfde adres; geen huidige deurrestricties gevonden.",
+      "alcohol": "Bier en wijn expliciet genoemd op lokale dorpssite; geen eigen drankenkaart rechtstreeks geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen door exploitant bevestigd actueel weekrooster; AlleBiz en Het-Menu noemen onderling verschillende dagen/beginuren.",
+      "closing_quality": "Gidsen geven wisselende 00:00/02:00-eindtijden; gemeentelijke melding noemt alleen uiterste einde van muziek op één feestavond en is GEEN gewone cafésluiting.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "01-11-2026: Aldeboarn.frl bevestigt publiek bruin café met bier/wijn op Waechstege 4. Gemeenteblad 12-08-2026 bevestigt melding incidentele festiviteit 21-08-2026 op hetzelfde caféadres; APV-/muziekeindtijd 02:00 NIET als regulier sluituur. AlleBiz versus Het-Menu spreken elkaar tegen over dinsdag, zaterdag, zondag en beginuren. Geen primaire actuele weeksluiting/laatste toegang, geen coördinaten gegokt.",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Geen eigen officiële bedrijfswebsite vastgesteld; lokale dorpswebsite is geen exploitantwebsite. Facebookprofiel via gids vermeld maar niet rechtstreeks geverifieerd.",
+      "other_sources": [
+        "https://aldeboarn.frl/horeca-en-winkels/horeca/cafe-moeke-de-bruin/",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-383585.html",
+        "https://www.allebiz.nl/caf%C3%A9-moeke-de-bruin-0566-631-772",
+        "https://www.het-menu.nl/aldeboarn/restaurant/cafe_moeke_de_bruin"
+      ],
+      "checked_on": "2026-11-01",
+      "original_status": "Lokale dorpssite en gemeentelijke melding uit 2026 ondersteunen publieke kroeg; reguliere weekuren en exploitantwebsite ontbreken.",
+      "features": "Aldeboarn; bruin café; bier/wijn, terras en muziek; laatste toegang onbekend"
     }
   ],
   "admission_policies": [
