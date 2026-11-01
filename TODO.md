@@ -1,5 +1,10 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Aanvullende broncorrectie 01-11-2026 — Stadscafé Het Veerhuys Bolsward (673 records)
+
+**1 bestaand record inhoudelijk verbeterd, 0 toegevoegd/verwijderd.** Eigen https://veerhuys-bolsward.nl/borrel/ op **01-11-2026** gecontroleerd: publieke losse borrel met **wijnen en bieren op wisseltap** expliciet bevestigd; `alcohol` in `stadscafe-het-veerhuys-bolsward-20261030` aangescherpt. Dezelfde bron zegt **borrel-tapas bestellen tot 23:30**: dit is **geen** bewezen cafésluiting of uiterste toegang. Alle onbekende opening-/sluituren bewust `?` gelaten. Eigen https://veerhuys-bolsward.nl/menu/ bevestigt afzonderlijke tapas-/keukenuren; niet naar baruren vertaald. Mastercommit [52d2f8d](https://github.com/paltenburg/nogergensnaarbinnen/commit/52d2f8d75b98334e67ffa9e8e2013242858e2632). Vóór write actuele 673-recordmaster en SHA gelezen; geen andere records gewijzigd. **Volgende:** nieuwste Actions/Pages na deze commit controleren, echte mobiele test en D0-bronverificatie vervolgen. Geen nieuwe regio en geen W45-audit vóór maandag 02-11 10:00 CET.
+
+
 ### Aanvullend checkpoint 01-11-2026 — Bolsward/Leeuwarden ontdekking: Weids en Duinkerken (master 673)
 
 **Werkelijk uitgevoerd op 01-11-2026:** Friese nieuwe-horecazoekronde langs recente lokale berichtgeving, officiële exploitantwebsites, VVV en KvK-afgeleide registraties. **2 nieuwe unieke records naar `data/venues.json` geschreven, 0 bestaande IDs veranderd, 0 coördinaten verzonnen, 1 publieke caféselectie en 1 bewust verborgen kandidaat.** Vóór write volledige master geparsed en exact adres/plaats gecontroleerd tegen bestaande records: **geen bestaande Weids op Snekerstraat 2 Bolsward en geen Duinkerken op Groot Schavernek 13A Leeuwarden**. Master na write: **673 records** (449 Friesland, 224 Utrecht); teruglezen nieuwe blob en CI nog verifiëren. Datacommit [ab97ef0](https://github.com/paltenburg/nogergensnaarbinnen/commit/ab97ef0ddab6342b1fbfa4a552e29902351e93c9); echte-master Node-regressie [67c7f1a](https://github.com/paltenburg/nogergensnaarbinnen/commit/67c7f1ae03289e35575357347108dcc5977eb01a).
