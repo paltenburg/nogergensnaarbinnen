@@ -33282,7 +33282,7 @@
       "id": "cafe-tarantella-koudum-20261101",
       "name": "Café Tarantella",
       "type": "Dorpscafé / cafetariabar",
-      "address": "Hoofdstraat 27",
+      "address": "Hoofdstraat 25",
       "city": "Koudum",
       "region": "friesland",
       "country": "Nederland",
@@ -33317,15 +33317,18 @@
       "website": "",
       "website_checked_on": "2026-11-01",
       "website_provenance": "Geen actuele, rechtstreeks geverifieerde exploitantwebsite. Lokale Koudum.nl berichten van 16-10 en 29-10-2026 als actuele onafhankelijke bron.",
-      "closing_notes": "01-11-2026: [Koudum.nl 16-10](https://koudum.nl/tarantella-in-nieuwe-handen/) meldt officiële heropening op 16 oktober onder nieuwe eigenaren Michel en Femke na overdracht door Dirk Osinga in september. [Koudum.nl 29-10](https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/) noemt openbaar evenement 12 december: inloop 15:30, wedstrijd 16:00, prijsuitreiking 19:00, aansluitend livemuziek en drankjes; **dit is geen regulier weekrooster**. Lokale evenementlocatie geeft Hoofdstraat 27; HFS en OSM noemen Hoofdstraat 25. Exacte café-ingang/huisnummer niet vastgesteld, daarom geen geo. Geen APV-/gidsuren als feit overgenomen. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: [Koudum.nl 16-10](https://koudum.nl/tarantella-in-nieuwe-handen/) meldt officiële heropening op 16 oktober onder nieuwe eigenaren Michel en Femke na overdracht door Dirk Osinga in september. [Koudum.nl 29-10](https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/) noemt openbaar evenement 12 december: inloop 15:30, wedstrijd 16:00, prijsuitreiking 19:00, aansluitend livemuziek en drankjes; **dit is geen regulier weekrooster**. Lokale evenementlocatie geeft Hoofdstraat 27; HFS en OSM noemen Hoofdstraat 25. Exacte café-ingang/huisnummer niet vastgesteld, daarom geen geo. Geen APV-/gidsuren als feit overgenomen. Laatste toegang onbekend. Aanvullend 01-11-2026: [Ondernemersvereniging Koudum](https://ovkoudum.nl/bedrijven-en-ondernemers/) en [lokale Koudum.nl bedrijvengids](https://koudum.nl/bedrijven/) noemen beide Hoofdstraat 25, 8723 BE; OSM en HFS bevestigen 25. Lokale evenementpagina noemt afwijkend 27. Daarom 25 als best onderbouwd bezoekadres vastgelegd, maar BAG-nummer en huidige entree nog niet rechtstreeks gecontroleerd. [Michel Tjeerdema LinkedIn](https://nl.linkedin.com/posts/michel-tjeerdema-26a439b9_nieuwe-uitdaging-vanaf-vandaag-1-10-2026-activity-7511375841617035265-nXmp) beschrijft eigenaarswissel en renovatie; zijn tekst over verwelkomen in nieuw jaar is geen sluitingsverklaring voor huidige interim-heropening.",
       "other_sources": [
         "https://koudum.nl/tarantella-in-nieuwe-handen/",
         "https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/",
         "https://koudum.nl/mc-locations/cafe-tarantella/",
-        "https://www.hfsfreelancers.nl/locaties/koudum/bars/tarantella-4741900778"
+        "https://www.hfsfreelancers.nl/locaties/koudum/bars/tarantella-4741900778",
+        "https://ovkoudum.nl/bedrijven-en-ondernemers/",
+        "https://koudum.nl/bedrijven/",
+        "https://nl.linkedin.com/posts/michel-tjeerdema-26a439b9_nieuwe-uitdaging-vanaf-vandaag-1-10-2026-activity-7511375841617035265-nXmp"
       ],
       "original_status": "01-11-2026: lokale krant bevestigt heropening 16-10-2026 en een nieuwe publieke bijeenkomst in december; exacte normale openingstijden en ingang niet vastgesteld.",
-      "features": "Koudum; 16-10-2026 heropend, nieuwe eigenaren; adresconflict Hoofdstraat 25/27; geen geocode"
+      "features": "Koudum; heropend 16-10-2026, nieuwe eigenaren; adres 25 vs eventvermelding 27, BAG/ingang nog controleren; geen geocode"
     }
   ],
   "admission_policies": [
