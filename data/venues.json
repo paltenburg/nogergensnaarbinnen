@@ -30645,6 +30645,53 @@
         "https://kaaphoornterschelling.nl/menu/"
       ],
       "original_status": "Eigen menu en VVV bevestigen publieke borrel, dinsdagrooster conflicteert."
+    },
+    {
+      "id": "strandpaviljoen-heartbreak-hotel-oosterend-20261101",
+      "name": "Strandpaviljoen Heartbreak Hotel",
+      "type": "Strandpaviljoen / bar / borrel",
+      "address": "Badweg Oosterend 71",
+      "city": "Oosterend",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt spontane publieke inloop zonder reservering.",
+      "alcohol": "Eigen site noemt tapbier in bezoekerservaring; lokale dorpsgids bevestigt eilander bier met borrelhap.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://heartbreak-hotel.nl/",
+      "closing_source": "https://heartbreak-hotel.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen site dagelijks 10–18; VVV 11–20 is conflicterende gidswaarde, niet overgenomen.",
+      "closing_quality": "Eigen site 18:00; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://heartbreak-hotel.nl/ en https://heartbreak-hotel.nl/over-heartbreak/ bevestigen publieke zaak en dagelijks 10–18. https://www.terschellingoosterend.nl/14-eten-en-drinken/70-heartbreak-hotel bevestigt adres en jaarrond exploitatie. Specifieke onderhoudssluiting 26-10-2026 was eenmalig en niet als weekrooster overgenomen. Laatste toegang onbekend.",
+      "features": "Terschelling Oosterend; strandpaviljoen; Elvis-muziek; bier",
+      "website": "https://heartbreak-hotel.nl/",
+      "other_sources": [
+        "https://heartbreak-hotel.nl/over-heartbreak/",
+        "https://www.terschellingoosterend.nl/14-eten-en-drinken/70-heartbreak-hotel",
+        "https://www.vvvterschelling.de/firmen/strandpaviljoen-heartbreak-hotel/"
+      ],
+      "original_status": "Eigen site bevestigt publieke jaarrond strandbar; VVV-uren conflicteren."
     }
   ],
   "admission_policies": [
