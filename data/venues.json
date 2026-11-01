@@ -16615,7 +16615,7 @@
       },
       "closing_quality": "Eigen contactpagina geeft normaal weekrooster; tijdelijk volledig gesloten november 2026",
       "closing_source": "https://grandcafekade.nl/contact",
-      "closing_notes": "Officiële homepage geraadpleegd 30-10-2026: HELE november 2026 gesloten wegens vakantie, vanaf december weer open volgens aankondiging (heropening nog niet bevestigd). Normaal weekrooster op contactpagina ma/di gesloten, wo–zo 12:00–21:00. Normaal rooster NIET geldig in november. Tijdelijk uit actieve selectie; hercontrole vanaf december noodzakelijk. Laatste toegang onbekend.",
+      "closing_notes": "Officiële homepage geraadpleegd 30-10-2026: HELE november 2026 gesloten wegens vakantie, vanaf december weer open volgens aankondiging (heropening nog niet bevestigd). Normaal weekrooster op contactpagina ma/di gesloten, wo–zo 12:00–21:00. Normaal rooster NIET geldig in november. Tijdelijk uit actieve selectie; hercontrole vanaf december noodzakelijk. Laatste toegang onbekend. Controle 01-11-2026: Exploitant meldt expliciet: hele maand november 2026 gesloten wegens vakantie; heropening vanaf december aangekondigd, nog niet bevestigd. Machineleesbare datumsluiting 2026-11-01 t/m 2026-11-30 toegevoegd; normaal weekrooster geldt binnen dit interval niet.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://grandcafekade.nl/",
       "other_sources": [
@@ -16631,7 +16631,7 @@
         "matched_address": "Stationsweg 1, 8715ES Stavoren"
       },
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -16640,7 +16640,17 @@
         "vr": "12:00",
         "za": "12:00",
         "zo": "12:00"
-      }
+      },
+      "date_closures": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-30",
+          "source": "https://grandcafekade.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Exploitant meldt expliciet: hele maand november 2026 gesloten wegens vakantie; heropening vanaf december aangekondigd, nog niet bevestigd."
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "eetcafe-spoorzicht-koudum-aa73210",
@@ -27323,12 +27333,12 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_quality": "Eigen homepage: vakantieverlof t/m 05-11-2026, geplande heropening 06-11 voor diner vanaf 17:00 vr–zo. Geen regulier weekrooster.",
+      "opening_quality": "Eigen homepage: vakantieverlof t/m 05-11-2026, geplande heropening 06-11 voor diner vanaf 17:00 vr–zo. Geen regulier weekrooster. Eigen site 01-11-2026 kondigt na vakantie vr vanaf 17:00 en za/zo vanaf 12:00 aan; niet als bewezen actuele normale inloopuren opgeslagen.",
       "opening_source": "https://www.brasseriedebrink.nl/",
       "opening_checked_on": "2026-10-31",
       "closing_quality": "Geen exploitantbevestigde reguliere sluituren; gidsen conflicteren.",
       "closing_source": "https://www.brasseriedebrink.nl/",
-      "closing_notes": "31-10-2026: exploitant meldt tijdelijke sluiting t/m 5 november 2026, geplande heropening vrijdag 6 november vanaf 17:00 voor diner. Een aankondiging bewijst niet dat de heropening al plaatsvond. Verborgen tot heropening én vrije drankinloop bevestigd. Cylex noemt di–zo 12–21, lacarte andere uren; niet overgenomen.",
+      "closing_notes": "31-10-2026: exploitant meldt tijdelijke sluiting t/m 5 november 2026, geplande heropening vrijdag 6 november vanaf 17:00 voor diner. Een aankondiging bewijst niet dat de heropening al plaatsvond. Verborgen tot heropening én vrije drankinloop bevestigd. Cylex noemt di–zo 12–21, lacarte andere uren; niet overgenomen. Controle 01-11-2026: Exploitant meldt vakantieverlof t/m 5 november 2026; heropening op 6 november aangekondigd, niet als feitelijk geopend beschouwd. Machineleesbare datumsluiting 2026-11-01 t/m 2026-11-05 toegevoegd; normaal weekrooster geldt binnen dit interval niet.",
       "website": "https://www.brasseriedebrink.nl/",
       "website_checked_on": "2026-10-31",
       "other_sources": [
@@ -27336,14 +27346,24 @@
         "https://www.friesland.nl/nl/locaties/4111695519/restaurant-brasserie-de-brink",
         "https://www.tripadvisor.nl/Restaurant_Review-g652202-d744515-Reviews-Brasserie_de_Brink-Oudemirdum_Friesland_Province.html"
       ],
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-01",
       "features": "Tijdelijk gesloten t/m 05-11-2026; heropening nog controleren",
       "geo": {
         "lat": 52.848989,
         "lon": 5.5332417,
         "method": "PDOK BAG-adres",
         "matched_address": "De Brink 8, 8567JD Oudemirdum"
-      }
+      },
+      "date_closures": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-05",
+          "source": "https://www.brasseriedebrink.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Exploitant meldt vakantieverlof t/m 5 november 2026; heropening op 6 november aangekondigd, niet als feitelijk geopend beschouwd."
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "brasserie-rijsterbosch-rijs-20261031",
