@@ -29752,6 +29752,224 @@
         "https://www.bravoameland.nl/eten-drinken/dranken"
       ],
       "original_status": "Actuele exploitantwebsite, borrel en alcohol bewezen; actuele novemberopening niet bewezen."
+    },
+    {
+      "id": "van-heeckeren-grandcafe-nes-20261101",
+      "name": "Van Heeckeren Grandcafé",
+      "type": "Grand café / bar / cocktails",
+      "address": "Kerkplein 6",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site bevestigt openbaar jaarrond terras en losse borrel/cocktail, zonder verplichte maaltijd.",
+      "alcohol": "Eigen site bevestigt wijnwand, cocktails en Amelands bier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "?",
+        "za": "11:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "?",
+        "za": "01:00",
+        "zo": "?"
+      },
+      "opening_source": "https://van-heeckeren.nl/contact/",
+      "closing_source": "https://van-heeckeren.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen contactpagina heeft overlap: 'zondag t/m donderdag 11–23' én 'zaterdag en zondag 11–01'; zondag tegenstrijdig en vrijdag ontbreekt. Alleen ondubbelzinnige ma–do en zaterdag ingevuld.",
+      "closing_quality": "Eigen contactpagina: ma–do 23:00 en za 01:00; vrijdag onbekend, zondag intern tegenstrijdig. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://van-heeckeren.nl/ bevestigt openbare borrel/cocktails en events, https://van-heeckeren.nl/contact/ adres en gedeeltelijk weekrooster. Zo komt in beide tijdblokken voor, vrijdag niet; die dagen onbekend gehouden. Laatste toegang niet vermeld.",
+      "features": "Nes Ameland; grand café; terras; cocktails; vinyl vrijdag",
+      "website": "https://van-heeckeren.nl/",
+      "other_sources": [
+        "https://van-heeckeren.nl/contact/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-nes/grandcafe-van-heeckeren"
+      ],
+      "original_status": "Eigen site bevestigt huidige publieke borrel; gedeeltelijk tegenstrijdige weekuren."
+    },
+    {
+      "id": "eet-drinkcafe-de-herberg-nes-20261101",
+      "name": "Eet- & Drinkcafé De Herberg",
+      "type": "Eetcafé / borrel / bar",
+      "address": "Reeweg 28",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website noemt publiek eetcafé en expliciet 'Kom lekker borrelen'; VVV bevestigt spontane borrel.",
+      "alcohol": "Eetcafé adverteert borrel; afzonderlijke actuele bier-/wijnmerken niet gespecificeerd, alcoholaanbod aannemelijk maar nog niet per menukaart geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://deherbergameland.nl/",
+      "opening_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen website: dagelijks vanaf 12:00; geen bedrijfseigen sluituren gevonden.",
+      "closing_quality": "Sluituren uit externe gidsen (03:00) niet bevestigd door exploitant; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://deherbergameland.nl/ bevestigt adres, openbare borrel en dagelijks vanaf 12:00. https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg bevestigt drankfunctie. Externe gids noemt 03:00 maar is niet als sluiting overgenomen. Specifieke alcoholkaart nog zoeken.",
+      "features": "Nes Ameland; eetcafé; borrel; sluituur onbekend",
+      "website": "https://deherbergameland.nl/",
+      "other_sources": [
+        "https://www.vvvameland.nl/eten-drinken-ameland/restaurants/restaurants-in-nes/eet-and-drinkcafe-de-herberg"
+      ],
+      "original_status": "Exploitant en VVV bevestigen huidige eetcafé/borrel; drankkaart en einduren nog nazoeken."
+    },
+    {
+      "id": "cafe-nobel-ballum-20261101",
+      "name": "Café Nobel",
+      "type": "Café / hotelbar / terras",
+      "address": "Gerrit Kosterweg 16",
+      "city": "Ballum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "VVV noemt publiek café, dagelijks vanaf 10:00, met Nobeltje aan de bar; hotelaccommodatie is aparte functie.",
+      "alcohol": "VVV en hotel bevestigen Nobeltje (alcoholische likeur) aan de bar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-ballum/cafe-nobel",
+      "opening_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "VVV: café dagelijks vanaf 10:00; hotel noemt hele bedrijf 09:30–23:30, dat is niet aantoonbaar het afzonderlijke caférooster.",
+      "closing_quality": "Geen officiële specifieke café-sluiting of laatste toegang gevonden; hotelbedrijfstijd 23:30 niet als cafésluiting gebruikt.",
+      "closing_notes": "01-11-2026: https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-ballum/cafe-nobel bevestigt publiek café en Nobeltje; https://www.hotelnobel.nl/contact/ bevestigt adres en bedrijfstijd 09:30–23:30, niet afzonderlijke caféuren. Café start 10:00 volgens VVV; einduren onbekend.",
+      "features": "Ballum Ameland; café; Nobeltje; hotelbar",
+      "website": "https://www.hotelnobel.nl/",
+      "other_sources": [
+        "https://www.hotelnobel.nl/contact/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-ballum/cafe-nobel"
+      ],
+      "original_status": "VVV bevestigt publieke caféfunctie; hotelbedrijfstijd is niet cafésluiting."
+    },
+    {
+      "id": "proeflokaal-rixt-nes-20261101",
+      "name": "Proeflokaal Rixt",
+      "type": "Proeflokaal / wijnbar / restaurant",
+      "address": "Rixt van Doniastraat 6",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "VVV beschrijft expliciet dat lokale bezoekers een borrel aan de bar drinken zonder maaltijd; eigen site presenteert vooral diner.",
+      "alcohol": "Eigen website noemt topwijnen; VVV bevestigt borrel en rosé aan de bar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://rixt.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen contactpagina zegt zo–do vanaf 18:00, vr/za vanaf 17:00; homepage zegt dagelijks 17–21. Alleen vr/za-start 17:00 overeenkomend, overige dagen onzeker.",
+      "closing_quality": "Homepage 21:00 kan diner-/keukentijd zijn; geen aantoonbaar café-sluituur of laatste toegang.",
+      "closing_notes": "01-11-2026: https://rixt.nl/ en https://rixt.nl/contact/ bevestigen exploitatie en adres maar spreken elkaar tegen over zo–do start. https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/dinercafe-rixt noemt borrel aan de bar. Sluitingen en laatste toegang onbekend.",
+      "features": "Nes Ameland; proeflokaal; wijn; losse borrel aan de bar",
+      "website": "https://rixt.nl/",
+      "other_sources": [
+        "https://rixt.nl/contact/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/dinercafe-rixt"
+      ],
+      "original_status": "Exploitant en VVV bevestigen wijn en publieke borrel; weekrooster heeft interne tegenstrijdigheden."
+    },
+    {
+      "id": "beachclub-the-sunset-hollum-20261101",
+      "name": "Beachclub The Sunset",
+      "type": "Beachclub / strandpaviljoen / borrel",
+      "address": "Oranjeweg 61",
+      "city": "Hollum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site adverteert publiek strandterras, losse borrel en cocktails; VVV noemt winterbezoek.",
+      "alcohol": "Eigen website noemt cocktails, Amelands blond bier en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Externe gidsen geven 11:00 tot zonsondergang of 11–22, maar geen actueel ondubbelzinnig officieel novemberrooster bevestigd; alle weekuren onbekend.",
+      "closing_quality": "Zonsondergang is geen exacte sluitingstijd en wisselt per dag; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://thesunset.nl/ beschrijft publieke strandborrel, cocktails en Amelands bier; https://www.vvvameland.com/companies/eat-and-drink-ameland/bars-and-cafes-ameland/bars-and-cafeterias-hollum/the-sunset bevestigt adres Oranjeweg 61 en winterbezoek. Officiële site tijdens een latere open-poging timeout; geen officiële novemberuren overgenomen.",
+      "features": "Hollum Ameland; strand; borrel; cocktails; winterrooster onbekend",
+      "website": "https://thesunset.nl/",
+      "other_sources": [
+        "https://www.vvvameland.com/companies/eat-and-drink-ameland/bars-and-cafes-ameland/bars-and-cafeterias-hollum/the-sunset"
+      ],
+      "original_status": "Eigen site en VVV bevestigen openbare beachclub; novemberuren niet bevestigd."
     }
   ],
   "admission_policies": [
