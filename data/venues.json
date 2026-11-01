@@ -21890,7 +21890,17 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg Hoorn 16, 8896KC Hoorn"
       },
-      "closing_checked_on": "2026-11-01"
+      "closing_checked_on": "2026-11-01",
+      "date_closures": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-01",
+          "source": "https://kaaphoornterschelling.nl/openingstijden-2/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant meldt tijdelijke sluiting"
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "de-rustende-jager-formerum-20261030",
@@ -29427,7 +29437,17 @@
         "https://www.harlingenwelkomaanzee.nl/nl/locaties/92215371/brasserie-booming",
         "https://www.visitwadden.nl/de/veranstaltungen/2917536039/ziegenwanderung"
       ],
-      "original_status": "Actuele eigen website bevestigt exploitatie, borrel en wijn. Tijdelijke volledige sluiting 16–24 november 2026 expliciet; verborgen tot app datumuitzonderingen kan toepassen."
+      "original_status": "Actuele eigen website bevestigt exploitatie, borrel en wijn. Tijdelijke volledige sluiting 16–24 november 2026 expliciet; verborgen tot app datumuitzonderingen kan toepassen.",
+      "date_closures": [
+        {
+          "start": "2026-11-16",
+          "end": "2026-11-24",
+          "source": "https://www.brasseriebooming.nl/contact-en-info",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant meldt tijdelijke sluiting"
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "grandcafe-de-zaak-harlingen-20261101",
@@ -30745,7 +30765,24 @@
         "https://www.vvvterschelling.nl/bedrijven/restaurant-heeren-van-der-schelling/",
         "https://www.terschellingoosterend.nl/bedrijven/eten-en-drinken/14-eten-en-drinken/64-de-heeren-van-der-schelling"
       ],
-      "original_status": "Eigen website bevestigt exploitatie en publieke wijnborrel; datumspecifieke winterkalender verhindert generiek rooster."
+      "original_status": "Eigen website bevestigt exploitatie en publieke wijnborrel; datumspecifieke winterkalender verhindert generiek rooster.",
+      "date_closures": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-12-10",
+          "source": "https://deheerenvanderschelling.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant meldt tijdelijke sluiting"
+        },
+        {
+          "start": "2027-01-03",
+          "end": "2027-02-28",
+          "source": "https://deheerenvanderschelling.nl/",
+          "checked_on": "2026-11-01",
+          "certainty": "Eigen exploitant meldt tijdelijke sluiting"
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "restaurant-flaman-west-terschelling-20261101",
@@ -31112,7 +31149,17 @@
         "https://www.vvvterschelling.nl/uit-eten-in-de-winter/",
         "https://www.vvvterschelling.nl/firmen/restaurant-la-boya/"
       ],
-      "original_status": "Eigen site actief en VVV wintergids bevat sluitingsuitzondering."
+      "original_status": "Eigen site actief en VVV wintergids bevat sluitingsuitzondering.",
+      "date_closures": [
+        {
+          "start": "2026-11-02",
+          "end": "2026-11-12",
+          "source": "https://www.vvvterschelling.nl/uit-eten-in-de-winter/",
+          "checked_on": "2026-11-01",
+          "certainty": "VVV meldt tijdelijke sluiting; exploitant nog herbevestigen"
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     },
     {
       "id": "restaurant-op-west-west-terschelling-20261101",
@@ -31249,7 +31296,17 @@
         "https://www.vvvterschelling.nl/bedrijven/brasserie-brandaris/",
         "https://www.vvvterschelling.nl/uit-eten-in-de-winter/"
       ],
-      "original_status": "Eigen actuele site met KvK-gegevens bevestigt exploitatie; wintersluiting vraagt datumfilter."
+      "original_status": "Eigen actuele site met KvK-gegevens bevestigt exploitatie; wintersluiting vraagt datumfilter.",
+      "date_closures": [
+        {
+          "start": "2027-01-10",
+          "end": "2027-02-15",
+          "source": "https://www.vvvterschelling.nl/uit-eten-in-de-winter/",
+          "checked_on": "2026-11-01",
+          "certainty": "VVV meldt tijdelijke sluiting; exploitant nog herbevestigen"
+        }
+      ],
+      "date_closures_checked_on": "2026-11-01"
     }
   ],
   "admission_policies": [
