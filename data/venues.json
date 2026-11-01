@@ -29402,7 +29402,7 @@
       "country": "Nederland",
       "access": "Exploitant adverteert spontane lunch en borrel binnen en buiten, zonder maaltijd- of reserveringsplicht voor borrel.",
       "alcohol": "Eigen aanbod High Wine met verschillende wijnen; eigen site adverteert borrel. Alcoholaanbod primair bevestigd op https://www.brasseriebooming.nl/mogelijkheden.",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -29447,7 +29447,36 @@
           "certainty": "Eigen exploitant meldt tijdelijke sluiting"
         }
       ],
-      "date_closures_checked_on": "2026-11-01"
+      "date_closures_checked_on": "2026-11-01",
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-30",
+          "source": "https://www.brasseriebooming.nl/contact-en-info",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "11:00",
+            "do": "11:00",
+            "vr": "11:00",
+            "za": "11:00",
+            "zo": "11:00"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "18:00",
+            "do": "18:00",
+            "vr": "18:00",
+            "za": "18:00",
+            "zo": "18:00"
+          }
+        }
+      ],
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: alleen zichtbaar wanneer de gekozen exacte datum binnen een primair bevestigd seizoen-/winterrooster valt; gedocumenteerde datumsluitingen hebben voorrang. Zonder datum en buiten dit interval verborgen. Feestdagen en incidentele afwijkingen blijven mogelijk; laatste toegang onbekend.",
+      "date_schedules_checked_on": "2026-11-01"
     },
     {
       "id": "grandcafe-de-zaak-harlingen-20261101",
@@ -30731,7 +30760,7 @@
       "country": "Nederland",
       "access": "Eigen website biedt losse wijn op zonnig terras; VVV zegt overdag zonder reservering welkom, geen maaltijdplicht.",
       "alcohol": "Eigen site heeft wijnarrangement en noemt wijn per glas.",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -30782,7 +30811,36 @@
           "certainty": "Eigen exploitant meldt tijdelijke sluiting"
         }
       ],
-      "date_closures_checked_on": "2026-11-01"
+      "date_closures_checked_on": "2026-11-01",
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-22",
+          "source": "https://deheerenvanderschelling.nl/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "11:00",
+            "vr": "11:00",
+            "za": "11:00",
+            "zo": "11:00"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "23:00",
+            "vr": "23:00",
+            "za": "23:00",
+            "zo": "23:00"
+          }
+        }
+      ],
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: alleen zichtbaar wanneer de gekozen exacte datum binnen een primair bevestigd seizoen-/winterrooster valt; gedocumenteerde datumsluitingen hebben voorrang. Zonder datum en buiten dit interval verborgen. Feestdagen en incidentele afwijkingen blijven mogelijk; laatste toegang onbekend.",
+      "date_schedules_checked_on": "2026-11-01"
     },
     {
       "id": "restaurant-flaman-west-terschelling-20261101",
@@ -31406,7 +31464,7 @@
       "country": "Nederland",
       "access": "Eigen website nodigt wandelaars en andere bezoekers uit voor een los drankje op het terras; VVV bevestigt publieke terrasconsumptie.",
       "alcohol": "Eigen 2025-menukaart vermeldt bier, wijn en cocktails; huidige 2026-drankenkaart niet afzonderlijk geverifieerd.",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -31450,7 +31508,36 @@
         "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants/restaurant-de-berkenplas",
         "https://schiermonnikoog-horeca.nl/wp-content/uploads/2025/04/menukaart-seizoen-2025_20250416_092302_0000.pdf"
       ],
-      "original_status": "Eigen exploitant en VVV bevestigen openbare terrasexploitatie en seizoenuren; actuele drankkaart en datumfilter nog open."
+      "original_status": "Eigen exploitant en VVV bevestigen openbare terrasexploitatie en seizoenuren; actuele drankkaart en datumfilter nog open.",
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2027-03-31",
+          "source": "https://www.schiermonnikoog-horeca.nl/berkenplas-contact/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "10:30",
+            "za": "10:30",
+            "zo": "10:30"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "17:30",
+            "za": "17:30",
+            "zo": "17:30"
+          }
+        }
+      ],
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: alleen zichtbaar wanneer de gekozen exacte datum binnen een primair bevestigd seizoen-/winterrooster valt; gedocumenteerde datumsluitingen hebben voorrang. Zonder datum en buiten dit interval verborgen. Feestdagen en incidentele afwijkingen blijven mogelijk; laatste toegang onbekend.",
+      "date_schedules_checked_on": "2026-11-01"
     }
   ],
   "admission_policies": [
