@@ -21,21 +21,29 @@
       range.start <= range.end && range.start <= date && date <= range.end
     );
   }
-  function scheduleFor(place, date) {
-    if (!parseDate(date) || !Array.isArray(place?.date_schedules)) return null;
-    const matching = place.date_schedules.filter(range =>
+  function matchingSchedules(place, date) {
+    if (!parseDate(date) || !Array.isArray(place?.date_schedules)) return [];
+    return place.date_schedules.filter(range =>
       parseDate(range?.start) && parseDate(range?.end) &&
       range.start <= range.end && range.start <= date && date <= range.end
     );
+  }
+  function scheduleFor(place, date) {
+    const matching = matchingSchedules(place, date);
     // Overlapping schedules are ambiguous: never choose an arbitrary winner.
     return matching.length === 1 ? matching[0] : null;
   }
+  function hasScheduleConflict(place, date) {
+    return matchingSchedules(place, date).length > 1;
+  }
   function field(place, name, day, date) {
+    // Never fall back to the ordinary week when two special schedules disagree.
+    if (hasScheduleConflict(place, date)) return '?';
     const schedule = scheduleFor(place, date);
     // A date-specific schedule replaces the ordinary week. Missing days/fields
     // are unknown, never silently inherited from the year-round timetable.
     if (schedule) return schedule?.[name]?.[day] ?? '?';
     return place?.[name]?.[day] ?? '?';
   }
-  return { parseDate, weekday, isClosed, scheduleFor, field };
+  return { parseDate, weekday, isClosed, scheduleFor, hasScheduleConflict, field };
 });
