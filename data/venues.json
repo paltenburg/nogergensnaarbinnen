@@ -34187,6 +34187,103 @@
       ],
       "original_status": "Café in exploitatie en publiek evenement in 2026 bevestigd; actuele novemberopening en exploitantweekrooster nog niet rechtstreeks bevestigd. Voorlopig, niet als gegarandeerd open.",
       "features": "De Fryske Marren / Langweer; lopende geluidskwestie; novemberuren onbekend."
+    },
+    {
+      "id": "noflik-by-zwigt-bosma-langweer-20261101",
+      "name": "Noflik by Zwigt & Bosma",
+      "type": "Restaurant met bar / borrel",
+      "address": "Buorren 31",
+      "city": "Langweer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "VVV Friesland vermeldt een vernieuwde bar met bier, wijn en cocktails; onafhankelijke gasten beschrijven losse drankjes op het terras. Niet uitsluitend besloten feesten.",
+      "alcohol": "VVV-tekst noemt tapbier, wijn en cocktails uit eigen bar; 2026 bezoekersreactie bevestigt wijn op terras.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële website nofliklangwar.com toont geen leesbaar rooster; externe roosters lopen uiteen. Alle reguliere daguren onbekend.",
+      "closing_quality": "Tripadvisor en aggregatoren noemen wisselende sluituren; niet als bedrijfseigen barsluituren bewezen. Laatste toegang onbekend.",
+      "opening_source": "https://www.waterlandvanfriesland.nl/nl/locaties/2762459624/noflik-by-zwigt-bosma",
+      "closing_source": "https://www.tripadvisor.nl/Restaurant_Review-g4971655-d24109077-Reviews-Noflik_by_Zwigt_Bosma-Langweer_Friesland_Province.html",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "VVV en ondernemersvereniging linken nofliklangwar.com als eigen site; pagina gaf bij controle geen leesbare inhoud. URL niet als rechtstreeks geverifieerde website opgenomen.",
+      "closing_notes": "2026-10-08 evenement bij Noflik gemeld door regioagenda, geen bewijs van gewoon dagrooster. Ondernemersvereniging noemt Buorren 29-31; VVV en overige bronnen 31. Geen exact huisnummer voor BAG-marker gegokt. Geen laatste toegang.",
+      "other_sources": [
+        "https://www.waterlandvanfriesland.nl/nl/locaties/2762459624/noflik-by-zwigt-bosma",
+        "https://www.ovs-skarsterlan.nl/onze-leden/noflik-by-zwigt-bosma",
+        "https://nuactueel.nl/langweer/2026-10-08/proef-ontmoet-editie-met-bakkerij-langweer",
+        "https://dinestar.nl/nl/restaurants/6175-noflik-by-zwigt-bosma-langweer"
+      ],
+      "original_status": "2026 actieve exploitatie ondersteund door eigen VVV-bedrijfsbeschrijving, gastenreacties en recente agenda; geen eigen actuele weekuren verifieerbaar.",
+      "features": "Langweer; wijn, tapbier, cocktails; 31 versus 29-31 adresnotatie."
+    },
+    {
+      "id": "brasserie-anders-langweer-20261101",
+      "name": "Brasserie AnderS",
+      "type": "Brasserie / borrel",
+      "address": "Buorren 20",
+      "city": "Langweer",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Onafhankelijke gids noemt expliciet openbare vrijdagmiddagborrel naast diner en lunch; actuele eigen site niet bereikbaar.",
+      "alcohol": "Eigen bedrijfsbeschrijving via gids vermeldt wijn en vrijdagmiddagborrel; Tripadvisor vermeldt alcoholservice.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële brasserieanders.nl niet rechtstreeks bereikbaar; externe gidsen verschillen fundamenteel (wo–zo, di–zo of alle dagen). Geen exact weekrooster overgenomen.",
+      "closing_quality": "Externe bronnen noemen 22:00 als algemeen restaurantuur, niet bevestigd als actuele afzonderlijke barsluiting. Alle sluituren en laatste toegang onbekend.",
+      "opening_source": "https://highteawereld.nl/nl/Locaties/2412/Brasserie_Anders",
+      "closing_source": "https://www.allebiz.nl/brasserie-anders_10-0513-852-950",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "www.brasserieanders.nl door meerdere gidsen genoemd maar niet rechtstreeks bereikbaar op 01-11; niet als geverifieerde website opgenomen.",
+      "closing_notes": "Tegenstrijdige openingstijden: AlleBiz wo–zo 12–22, highteawereld di–zo vanaf 12, Tripadvisor alle dagen 10–22; geen bedrijfseigen bevestiging. De 22:00 niet als bar-einduur aangenomen.",
+      "other_sources": [
+        "https://highteawereld.nl/nl/Locaties/2412/Brasserie_Anders",
+        "https://www.allebiz.nl/brasserie-anders_10-0513-852-950",
+        "https://www.tripadvisor.nl/Restaurant_Review-g4971655-d4932571-Reviews-Brasserie_AnderS-Langweer_Friesland_Province.html"
+      ],
+      "original_status": "Naam/adres/borrelfunctie bevestigd door meerdere gidsen, actuele exploitatie indirect ondersteund; eigen live rooster en site nog verifiëren.",
+      "features": "Langweer; vrijdagmiddagborrel; sluituur en laatste toegang onbekend."
     }
   ],
   "admission_policies": [
