@@ -364,4 +364,22 @@ optionState.date='2026-11-06';optionState.uncertain=true;
 assert.equal(JSON.stringify(optionValues()),JSON.stringify([1200,1320,960]),
   'uncertain venues are considered only when the user enables them');
 
+// A separately verified speakeasy shares Spinoza's address, but its own
+// operator-published closing times control admission to the cocktailbar.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-04';state.day='wo';
+state.after='20:30';
+assert.equal(timedEligible(byId('cocktailbar-dr-watson-leeuwarden-20261101')),true,
+  'Dr Watson Wednesday 20:30 precedes its own 01:00 closing');
+state.after='01:00';
+assert.equal(timedEligible(byId('cocktailbar-dr-watson-leeuwarden-20261101')),false,
+  'Dr Watson Wednesday 01:00 is closing, not arrival');
+state.date='2026-11-06';state.day='vr';state.after='01:30';
+assert.equal(timedEligible(byId('cocktailbar-dr-watson-leeuwarden-20261101')),true,
+  'Dr Watson Friday 01:30 is within the published 02:00 closing');
+state.after='02:00';
+assert.equal(timedEligible(byId('cocktailbar-dr-watson-leeuwarden-20261101')),false,
+  'Dr Watson Friday 02:00 is not a valid arrival');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
