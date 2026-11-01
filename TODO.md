@@ -1,5 +1,18 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Aanvullend checkpoint 01-11-2026 circa 21:02 — Heeg +2, 704 masterrecords
+
+**D0 Heeg-bronronde:** naast bestaande De Boeier/Tante Sjuul/it Beaken zijn op **01-11-2026** twee **afzonderlijke** adressen geverifieerd en toegevoegd; eerdere Heeg-records op adres/naam vergeleken, **geen duplicaten**. Data-commit [5b930fd](https://github.com/paltenburg/nogergensnaarbinnen/commit/5b930fdec7926e982fd50dc4ef2c4455a3cc127c), master **704 unieke IDs verwacht** (480 Friesland, 224 Utrecht); teruglezen en CI voor laatste commit nog controleren.
+
+- **Grand Café De Watersport**, De Skatting 44, Heeg, `grand-cafe-de-watersport-heeg-20261101`: actuele eigen https://dewatersportheeg.nl/ en https://dewatersportheeg.nl/lekker-eten/ bevestigen **losse publieke middagborrel**, adres, hotel/restaurant/Grand Café en ma/di gesloten, wo–za **09:00–23:00**, zo **09:00–21:30**. Deze zijn **algemene horecatijden**, niet ontbijt (07:30) of lunch-/keukentijden (12–15:30 en 17–20:30). Andere oudere eigen subpagina's tonen ma/di afwijkend; homepage + actuele restaurantpagina gevolgd, conflict in `closing_notes`. **Voorlopig**, eigen website en broncontroles 01-11; laatste toegang onbekend.
+- **Belle et Nonna**, Harinxmastrjitte 57, Heeg, `belle-et-nonna-heeg-20261101`: eigen https://www.belleetnonna.nl/ bevestigt naam/adres, wijn en loungeborrel na diner, algemene restauranturen ma **16:30–21:00**, di–zo **11:00–00:00**. **Niet bewezen** dat men zonder diner vrij naar binnen kan om alleen alcohol te drinken: daarom expliciet `selection="Nog te controleren"`, standaard **verborgen** ondanks bedrijfstijden; `access` en `closing_notes` vermelden deze grens. Laatste toegang onbekend. Eerst rechtstreeks vrije borrel-inloop controleren vóór publicatie.
+- Bestaand **De Boeier** Heeg https://www.deboeierheeg.nl/ al gecontroleerd op 30-10 met eigen weekrooster; **geen herhaalmutatie**. Heeg-ontdekking nog niet als volledig markeren. `Marco's Eetcafé` Joure en oude `Het Tolhuis` al eerder zonder nieuwe mutatie onderzocht.
+
+**CI:** [workflow 41343602086](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343602086) voor **702 records completed/success** inclusief datumregressie en Pages. [workflow 41343660188](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343660188) voor Noflik BAG-blokkade was in_progress; [workflow 41343751791](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343751791) voor 704 records **pending**. Geen geslaagde nieuwste 704-live-publicatie of echte mobiele touchtest geclaimd.
+
+**Hervatten:** 704-commit teruglezen, test-/Pages-run controleren; Heeg Belle et Nonna losse publieke drankinloop en Watersport conflicterende oude maandag/dinsdag-informatie zo nodig navragen, nieuwe BAG-adressen verifiëren; dan andere Friese D0-gaten en W45-audit vanaf maandag 02-11 10:00, alle actuele regio's. Geen landelijke D1/D2 zolang Friesland D0 open.
+
+
 ### Aanvullend checkpoint 01-11-2026 circa 20:54 — Noflik BAG-pin geblokkeerd, CI-regressie geslaagd
 
 **Extra datacorrectie:** `noflik-by-zwigt-bosma-langweer-20261101` heeft nu `geocode_blocked=true` met `geocode_notes`: VVV noemt **Buorren 31**, ondernemersvereniging **Buorren 29–31**. De exacte publieke ingang/BAG-verblijfsobject is niet vastgesteld; automatische marker op 31 mag niet als bewezen worden gepubliceerd. Geen verzonnen coördinaten. Commit [25bc28c](https://github.com/paltenburg/nogergensnaarbinnen/commit/25bc28c468eb67c20198764963d8fd7a2761edff), laatste dataset-SHA `a0ac7580f1e4555e9a42c94a57267d22db2df82c`. Datasetomvang **702**, geen extra locatie.
