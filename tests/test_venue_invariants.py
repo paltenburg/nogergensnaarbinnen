@@ -56,6 +56,23 @@ class VenueInvariantsTests(unittest.TestCase):
                 self.assertNotIn(key, active_keys, f"Also listed as {active_keys.get(key)}")
             active_keys[key] = place["id"]
 
+    def test_date_closures_are_sourced_and_valid(self):
+        """Date exceptions exclude only explicitly documented inclusive ranges."""
+        from datetime import date
+
+        for place in self.places:
+            ranges = place.get("date_closures", [])
+            if not ranges:
+                continue
+            self.assertIsInstance(ranges, list)
+            for item in ranges:
+                with self.subTest(venue=place["id"], interval=item):
+                    start = date.fromisoformat(item["start"])
+                    end = date.fromisoformat(item["end"])
+                    self.assertLessEqual(start, end)
+                    self.assertTrue(item.get("source", "").startswith("https://"))
+                    date.fromisoformat(item["checked_on"])
+
     def test_weekly_fields_are_complete_and_well_formed(self):
         for place in self.places:
             for field in ("opening", "closing", "last_entry"):
