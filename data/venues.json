@@ -30155,6 +30155,49 @@
         "https://strandpaviljoenballum.53development.nl/"
       ],
       "original_status": "Eigen 2026-site toont hernieuwde exploitatie/naam, maar alcoholaanbod en actuele seizoenstatus nog afzonderlijk te bevestigen."
+    },
+    {
+      "id": "restaurant-binnen-nes-20261101",
+      "name": "Restaurant Binnen",
+      "type": "Restaurant / muziekbar / borrel",
+      "address": "Marten Janszenstraat 2",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "VVV Ameland beschrijft dat de zaak na het diner verandert in een publieke ontmoetingsplek met dj's of livemuziek; restaurant is publiek toegankelijk.",
+      "alcohol": "De door de exploitant geclaimde Tripadvisor-vermelding bevestigt alcoholservice; eigen site heeft geen afzonderlijk leesbare actuele drankenkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen https://binnenopameland.nl/contact/ geeft adres/reserveringen maar geen eenduidig weekrooster. Externe gidsen noemen 22, 23 of 01 als sluiting; geen van deze tijden als feit opgenomen.",
+      "closing_quality": "Na diner muziek volgens VVV, maar niet elke avond; laatste toegang en sluiting onbekend.",
+      "closing_notes": "01-11-2026: https://binnenopameland.nl/contact/ bevestigt actuele contactgegevens en Marten Janszenstraat 2. https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-nes/binnen beschrijft publieke avondmuziek en borrelfunctie; geclaimde https://www.tripadvisor.co.uk/Restaurant_Review-g652194-d10347898-Reviews-Restaurant_Binnen-Nes_Ameland_Friesland_Province.html bevestigt alcohol. Gidsen geven onderling strijdige uren en een postcodevariant 9163 JA vs VVV/eigen 9163 HW; adres huisnummer is consistent, postcode via BAG nog checken. Geen datum van dj-optreden verondersteld.",
+      "features": "Nes Ameland; bar na diner; dj of livemuziek afhankelijk van avond",
+      "website": "https://binnenopameland.nl/",
+      "other_sources": [
+        "https://binnenopameland.nl/contact/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-nes/binnen",
+        "https://www.tripadvisor.co.uk/Restaurant_Review-g652194-d10347898-Reviews-Restaurant_Binnen-Nes_Ameland_Friesland_Province.html"
+      ],
+      "original_status": "Eigen website en VVV bevestigen exploitatie en ontmoetingsfunctie; weekuren en optredendagen niet bevestigd."
     }
   ],
   "admission_policies": [
