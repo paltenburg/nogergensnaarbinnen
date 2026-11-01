@@ -71,6 +71,8 @@ def request(query):
 
 
 def geo(place):
+    if place.get("duplicate_of"):
+        return None, "duplicate-alias"
     # A valid BAG address is not proof that the venue uses that entrance.
     # Never geocode a record whose actual street number is disputed.
     if place.get("geocode_blocked"):
@@ -130,6 +132,11 @@ def main():
     updated = 0
     failures = []
     for index, place in enumerate(dataset["places"], 1):
+        if place.get("duplicate_of"):
+            # Retain stable alias IDs but never spend PDOK calls on a duplicate
+            # or leave stale coordinates that might later become visible.
+            place.pop("geo", None)
+            continue
         if place.get("geocode_blocked"):
             # Also discard stale coordinates from older generated datasets.
             place.pop("geo", None)
