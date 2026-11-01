@@ -1,6 +1,35 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
 
+### Checkpoint 02-11-2026 ca. 00:32 CET — 35 exact geverifieerde BAG-geocodes naar master (+35)
+
+**Echt uitgevoerd en op GitHub opgeslagen:**
+- **[b5e4cc2](https://github.com/paltenburg/nogergensnaarbinnen/commit/b5e4cc25bc5303abd987760641411c9610e58f46)** — 35 exacte **PDOK Locatieserver/BAG-adresmatches** overgenomen uit de **geslaagde** 715-record [GitHub Actions-run 41362175174](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362175174) (geocode-report.json `added_in_this_run:35`, `with_coordinates:651`, `without_coordinates:64`). De workflow had de bron-URL https://api.pdok.nl/bzk/locatieserver/search/v3_1/free gebruikt. Alle 35 kwamen uit **eerder lege mastergeo's** en zijn met exacte adres-/huisnummer-/woonplaatscheck en stabiele ID vergeleken. Geen bestaande coördinaten overschreven, geen adres met `geocode_blocked`, `address_unverified` of alias gemuteerd.
+- **[7dd1552](https://github.com/paltenburg/nogergensnaarbinnen/commit/7dd15527bc002720154165051fb55836082c7f10)** — bij alle 35 `geocode_source` (PDOK API) en **werkelijke controle-/importdatum `geocode_checked_on:2026-11-02`** opgeslagen. `geo.method=PDOK BAG-adres` en exacte `geo.matched_address` per zaak behouden. Geheel teruggelezen: **715/715 unieke IDs; 651 mastercoördinaten, 64 zonder** (waarvan **2 expliciete duplicaat-aliassen** en 62 overige nog zonder exact adresmatch). De PDOK-report telt onder 62 niet-gematchte: 35 `no-exact-PDOK-match`, 14 onparseerbare/adresreeksen, 13 `address-unverified`; geen geforceerde kaartmarkers.
+
+**Alle 35 daadwerkelijk gegeocodeerde locaties (PDOK-run 02-11-2026):**
+- **Leeuwarden (8):** Bar Bubbels; Café Blauwhuis; Cocktailbar Dr. Watson; Scamele - Muziek & Sportcafé; The Drunken Dragon; Fellini City Lounge; Mango Lounge; STEK Leeuwarden.
+- **Grou (1):** Café De Bierhalle.
+- **Koudum (1):** Café Tarantella.
+- **Sneek (5):** Birdy's Bar (Hotel Sneek); Brasserie De Koperen Kees; De Garaazje; Café de Pub; Café De Bakkersdochter.
+- **Franeker (1):** Bistro Sinnyn.
+- **Drachten (2):** James’ Bistro & Bar; Sondrio.
+- **Harlingen (3):** Basta Harlingen; Grandcafé De Reus; Brasserie Braam (Art Hotel).
+- **Langweer (3):** Wapen van Langweer; Eetcafé De Drie Zwaantjes; Brasserie AnderS.
+- **Goingarijp (1):** Restaurant De Klokkenstoel.
+- **Heeg (2):** Grand Café De Watersport; Belle et Nonna.
+- **Terherne (3):** Pannenkoekenboerderij De Roos; Eetcafé 't Far; Café Zevenwouden.
+- **Aldeboarn (1):** Café Moeke de Bruin.
+- **Heerenveen (1):** Sportstad Café.
+- **Wommels (1):** Bruin Café Jimbar.
+- **Boornzwaag (1):** Restaurant Helder.
+- **Deinum (1):** It Holt Eten/Drinken & Uitgaan (blijft verborgen, geen bevestigde vrije alcoholinloop).
+
+**Tests/publicatie:** 715-record CI [41362175174](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362175174) en Duhoux-correctie CI [41362317102](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362317102) **completed/success**. Geocode-commit CI [41362578184](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362578184) was bij laatste controle **in_progress**; bron-/datumcommit CI [41362614179](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362614179) **pending**. Geen claim dat deze twee laatste publicaties of mobiele pan-/zoomtest geslaagd zijn. Het 715-Pages-artefact is daadwerkelijk gedownload en de `data/geocode-report.json` en afgeleide `data/venues.json` zijn uit het ZIP/TAR gelezen en tegen de master gecontroleerd. Afgeleide DB is **niet** als tweede master gebruikt.
+
+**Hervatpunt:** (1) laatste twee CI-runs en live bronregister controleren, geen data aannemen vóór tests; (2) de **62 niet-aliassen zonder exacte geo** stuk voor stuk op echt BAG-adres/adreswijziging/zaaklocatie onderzoeken (13 `address-unverified`, 14 huisnummerreeksen/onparseerbaar, 35 geen exacte match), niet via nabije centroid forceren; (3) voortzetten D0 Friesland, echte mobiele kaarttests en na maandag **02-11 10:00 CET** W45-rotatie voor **beide actuele regio's Utrecht en Friesland**. **W45 nog niet afgevinkt**.
+
+
 ### Aanvullend checkpoint 02-11-2026 ca. 00:29 CET — bestaande Duhoux-record gecorrigeerd (master blijft 715)
 
 **[2efa8d4](https://github.com/paltenburg/nogergensnaarbinnen/commit/2efa8d4f2304c87c53337f8f441160615cfbb26d)** — **Hotel Eetcafé Duhoux, Wirdum**, bestaand stabiel ID `hotel-eetcafe-duhoux-wirdum-20261030`, **niet dubbel toegevoegd**. Bij nieuwe primaire controle 02-11-2026 blijkt de huidige officiële https://hotel-duhoux.nl/contact/ **zondag 16:00–22:00** te publiceren, terwijl master van 30-10 zondag expliciet gesloten aangaf. **Zondag opening én sluiting gecorrigeerd**; ma–do 16–22 en vr/za 10–23 behouden. Eigen https://hotel-duhoux.nl/eetcafe/ bevestigt vrije inloop voor een drankje; officiële https://hotel-duhoux.nl/wp-content/uploads/2025/07/Dranken-JUN25-Front-small.pdf noemt bier, wijn en cocktails. Alcoholveld, bronverwijzingen, controledata en onzekerheid over **Greate Buorren 4–8/BAG-ingang** bijgewerkt. Oude regionale gids https://www.visitnoardwestfryslan.nl/nl/locaties/2159964091/hotel-restaurant-duhoux geeft tegenstrijdige uren; niet overgenomen. Laatste toegang onbekend, geen geo gefingeerd. **Master teruggelezen 715/715 IDs**. [715-data-Pages/CI 41362175174](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362175174) **completed/success**; [Duhoux-correctie-run 41362317102](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362317102) bij controle nog **in_progress**. Live mobiele interactie niet getest.
