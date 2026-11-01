@@ -32154,7 +32154,15 @@
         "https://untappd.com/v/weids/13872292"
       ],
       "original_status": "Exploitantwebsite op 01-11-2026 actueel en eigen rooster; publieke caféfunctie bevestigd, bier alleen via bezoekerscheck-ins, live opening niet ter plaatse geverifieerd.",
-      "features": "Bolsward; opvolger van De Groene Weide; publiek café en borrel; 2026 eigen weekrooster"
+      "features": "Bolsward; opvolger van De Groene Weide; publiek café en borrel; 2026 eigen weekrooster",
+      "geo": {
+        "lat": 53.0618648,
+        "lon": 5.5274821,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Snekerstraat 2, 8701XD Bolsward"
+      },
+      "geo_checked_on": "2026-11-01",
+      "geocode_notes": "01-11-2026: exact adres- en huisnummertoevoegingsmatch uit geslaagde GitHub Pages-build 41288020243 (PDOK BAG); match in gebouwd data/venues.json gecontroleerd. Fysieke café-ingang niet afzonderlijk op locatie geverifieerd."
     },
     {
       "id": "bistro-duinkerken-leeuwarden-20261101",
@@ -32201,7 +32209,15 @@
         "https://www.compadex.com/nl/businesses/nl/bistro-duinkerken-97935735-63127938"
       ],
       "original_status": "Actuele bistro met wijn/bier en bedrijfsrooster bevestigd; publieke losse borrel zonder maaltijd niet bewezen, daarom verborgen.",
-      "features": "Leeuwarden; Groot Schavernek; bistro; weekend alleen besloten"
+      "features": "Leeuwarden; Groot Schavernek; bistro; weekend alleen besloten",
+      "geo": {
+        "lat": 53.2009293,
+        "lon": 5.7895933,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Groot Schavernek 13a, 8911BW Leeuwarden"
+      },
+      "geo_checked_on": "2026-11-01",
+      "geocode_notes": "01-11-2026: exact adres- en huisnummertoevoegingsmatch uit geslaagde GitHub Pages-build 41288020243 (PDOK BAG); match in gebouwd data/venues.json gecontroleerd. Fysieke café-ingang niet afzonderlijk op locatie geverifieerd."
     }
   ],
   "admission_policies": [
