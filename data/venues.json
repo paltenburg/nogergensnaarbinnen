@@ -34643,6 +34643,54 @@
       "checked_on": "2026-11-01",
       "original_status": "Actieve exploitatie en opening op eigen website; alcoholaanbod via gidsen, vrije borrel zonder maaltijd nog niet bevestigd.",
       "features": "Terherne, terras, bier/wijn volgens derden, keuken sluit 20:00 maar cafésluiting onbekend; geen exacte geocode"
+    },
+    {
+      "id": "eetcafe-t-far-terherne-20261101",
+      "name": "Eetcafé 't Far",
+      "type": "Eetcafé / bar",
+      "address": "Buorren 59",
+      "city": "Terherne",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "2026-review en lokale horecaagenda ondersteunen recente horecafunctie, maar reguliere publieke vrije inloop na eigenaars-/exploitantwissel niet rechtstreeks bevestigd. Evenement 01-11-2026 is ticketgebonden; geen bewijs voor normale inloop.",
+      "alcohol": "Tripadvisor door bedrijf geclaimde pagina noemt volledige bar, wijn, bier en alcohol; recent bedrijfsrooster en directe drankenkaart niet onafhankelijk bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Gidsen spreken elkaar tegen over weekdagen en beginuren; huidige exploitant 't Far Exploitatie B.V. publiceert geen verifieerbaar eigen rooster.",
+      "closing_quality": "Gidsen vermelden 20:00, 22:00 of 23:00; geen actuele bedrijfseigen sluiting of laatste toegang bewezen.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "01-11-2026: oude E59 B.V. h.o.d.n. Eetcafé 't Far failliet sinds 28-01-2025 (KvK 92801277); niet verwarren met huidige 't Far Exploitatie B.V. op Buorren 59, KvK 96205539, bron KvK 29-09-2026. Tripadvisor heeft 2026-bezoekersrecensies en bedrijfsgeclaimde barvermelding. Paviljoen Salt noemt 't Far als deelnemer Tasting Tour 01-11-2026, maar dit is een aankondiging en bewijst geen reguliere inloop. Domein eetcafehetfar.nl gaf redirectloop; daarom geen werkende officiële website aangenomen. Status, gewone weekuren, laatste toegang en daadwerkelijke novemberse exploitatie nog direct bevestigen; geen geocode gegokt.",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "eetcafehetfar.nl opgezocht op 01-11-2026 maar directe opening faalt door redirectloop; domein niet als actuele officiële site bevestigd.",
+      "other_sources": [
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/t-far-exploitatie-b-v-terherne-96205539-000061547565",
+        "https://www.faillissementsdossier.nl/faillissement/1852557/e59-b-v",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1087498-d3332730-Reviews-Eetcafe_t_Far-Terherne_Friesland_Province.html",
+        "https://paviljoensalt.nl/evenementen/tasting-tour-terherne",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-petit-restaurant-%27t-far-11876883.html"
+      ],
+      "checked_on": "2026-11-01",
+      "original_status": "Nieuwe exploitatieregistratie in 2026 en recensies na oude faillissement, maar huidige publieke novemberopening nog onbevestigd; verborgen kandidaat.",
+      "features": "Terherne, oude E59 failliet 2025, nieuwe exploitant KvK 2026; status en openingstijden eerst bevestigen"
     }
   ],
   "admission_policies": [
