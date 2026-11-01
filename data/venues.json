@@ -19195,7 +19195,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website nodigt uit voor spontane borrel; reserveren alleen aanbevolen voor zekerheid.",
-      "alcohol": "Eigen website bevestigt bieren op wisseltap.",
+      "alcohol": "Eigen https://veerhuys-bolsward.nl/borrel/ bevestigt expliciet wijnen en bieren op wisseltap voor losse borrel.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "?",
@@ -19216,20 +19216,21 @@
         "zo": "?"
       },
       "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
-      "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
+      "closing_quality": "Eigen borrelpagina noemt alleen borrelhapjes tot 23:30; geen actuele officiële café-/bar-sluiting of laatste toegang.",
       "closing_source": "https://veerhuys-bolsward.nl/",
-      "closing_notes": "Eigen site bevestigt tapas en openbare borrel; externe AlleBiz-rooster niet als bevestigd aangenomen. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen.",
+      "closing_notes": "Eigen site bevestigt tapas en openbare borrel; externe AlleBiz-rooster niet als bevestigd aangenomen. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen. 01-11-2026: eigen https://veerhuys-bolsward.nl/borrel/ bevestigt wijn en bier. 'Borrel tapas tot 23:30' betreft uitsluitend hapjesbestelling, GEEN cafésluiting of uiterste toegang; alle dag-einduren blijven onbekend.",
       "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
       "website": "https://veerhuys-bolsward.nl/",
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
       "website_provenance": "Exploitantwebsite rechtstreeks gelezen op 30-10-2026; adres gecontroleerd via lokale gids.",
       "other_sources": [
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
         "https://www.allebiz.nl/het-veerhuys-bolsward-0515-859-511",
-        "https://veerhuys-bolsward.nl/borrel/"
+        "https://veerhuys-bolsward.nl/borrel/",
+        "https://veerhuys-bolsward.nl/menu/"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "geo": {
         "lat": 53.0619807,
         "lon": 5.5203461,
