@@ -20288,18 +20288,19 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Officiële seizoensroosters met gesplitste diensten, niet representabel met één jaarrond weekrooster.",
+      "closing_quality": "Eigen exploitant vermeldt winterse sluiting 20:00; ma/vr twee dagdelen, alleen 17:00–20:00 als veilig aaneengesloten interval opgenomen. Afwijkingen door weer/feestdagen mogelijk.",
       "closing_source": "https://depolle-etenendrinken.nl/",
-      "closing_notes": "30-10-2026: eigen site noemt april–september dagelijks 09–14 en 17–20; oktober–maart ma/vr 09–14 en 17–20, di–do gesloten, za/zo 09–20. Dit zijn seizoens- en dagdeeluren; huidige datamodel kent geen seizoen en gesplitste diensten. Alle gestructureerde uren daarom '?'; laatste toegang onbekend. Gids https://fietsroutenetwerk.nl/etenendrinken/restaurant-de-plle zegt bovendien laagseizoen weerafhankelijk; geen harde actuele eindtijd claimen.",
+      "closing_notes": "30-10-2026: eigen site noemt april–september dagelijks 09–14 en 17–20; oktober–maart ma/vr 09–14 en 17–20, di–do gesloten, za/zo 09–20. Dit zijn seizoens- en dagdeeluren; huidige datamodel kent geen seizoen en gesplitste diensten. Alle gestructureerde uren daarom '?'; laatste toegang onbekend. Gids https://fietsroutenetwerk.nl/etenendrinken/restaurant-de-plle zegt bovendien laagseizoen weerafhankelijk; geen harde actuele eindtijd claimen. 01-11-2026: gedateerd conservatief winteravondrooster toegevoegd, ma/vr 09–14 bewust niet geadverteerd omdat app geen gesplitste diensten ondersteunt; za/zo 09–20. Uren kunnen door weer wijzigen; laatste toegang onbekend.",
       "features": "D0 geografische ontdekking Smallingerland; De Veenhoop; seizoensrooster",
       "website": "https://depolle-etenendrinken.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
       "other_sources": [
         "https://de-veenhoop.nl/contact/",
         "https://www.friesland.nl/nl/locaties/3908876937/de-polle-eten-en-drinken",
         "https://www.spontaan.nl/nl-be/restaurants/de-veenhoop-watersport-en-recreatie-de-polle/geniet-van-een-gezellige-high-wine-bij-de-veenhoop-watersport-en-recreatie-de-polle-inclusief-een-luxe-borrelplank-en-per-persoon-3-glazen-wijn-naar-keuze--apr-2026-friesland/",
-        "https://depolle-etenendrinken.nl/wp-content/uploads/2026/05/MENUKAART-DE-POLLE-ETEN-EN-DRINKEN-ZOMER-2026-6.pdf"
+        "https://depolle-etenendrinken.nl/wp-content/uploads/2026/05/MENUKAART-DE-POLLE-ETEN-EN-DRINKEN-ZOMER-2026-6.pdf",
+        "https://www.zuidoostfriesland.nl/alle-locaties/3908876937/de-polle-eten-en-drinken"
       ],
       "original_status": "Exploitantwebsite 30-10-2026 bevestigt publieke borrel en adres; alcoholaanbod via externe wijnactie, nog geen directe actuele drankenkaart.",
       "geo": {
@@ -20307,7 +20308,37 @@
         "lon": 5.9461037,
         "method": "PDOK BAG-adres",
         "matched_address": "Slûswei 17, 9215VX De Veenhoop"
-      }
+      },
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-12-31",
+          "source": "https://depolle-etenendrinken.nl/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "17:00",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "17:00",
+            "za": "09:00",
+            "zo": "09:00"
+          },
+          "closing": {
+            "ma": "20:00",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "20:00",
+            "za": "20:00",
+            "zo": "20:00"
+          }
+        }
+      ],
+      "date_schedule_notes": "01-11-2026: eigen website geeft winterrooster oktober–maart: ma/vr 09:00–14:00 EN 17:00–20:00, di–do gesloten, za/zo 09:00–20:00. Het huidige datamodel kan geen gesplitste diensten weergeven; voor ma/vr is uitsluitend de veilige aaneengesloten avondperiode 17:00–20:00 opgeslagen (ochtendopening bewust niet in tijdfilter). Interval beperkt tot eind 2026; voor 2027 en feestdagen opnieuw controleren. Externe lokale gids waarschuwt voor weersafhankelijke laagseizoenuren; geen gegarandeerde laatste toegang.",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01"
     },
     {
       "id": "gewoon-de-brink-bakkeveen-20261030",
