@@ -31013,6 +31013,98 @@
         "https://www.vvvterschelling.nl/bedrijven/het-amsterdamsche-koffijhuis/"
       ],
       "original_status": "Exploitantwebsite actueel, VVV bevestigt publieke borrel."
+    },
+    {
+      "id": "pura-vida-foodbar-midsland-20261101",
+      "name": "Pura Vida Foodbar Midsland",
+      "type": "Foodbar / cocktails / borrel",
+      "address": "Oosterburen 36",
+      "city": "Midsland",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site: zonder maaltijd borrelen met vrienden, ook late cocktails.",
+      "alcohol": "Eigen site bevestigt pils, cocktails en biologische wijn.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.puravidafoodbar.nl/foodbar-midsland",
+      "closing_source": "https://www.puravidafoodbar.nl/foodbar-midsland",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen vestigingspagina ma/di gesloten, wo/do/zo 10–23, vr/za 10–00.",
+      "closing_quality": "Eigen vestigingspagina met expliciete einduren; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://www.puravidafoodbar.nl/foodbar-midsland bevestigt Oosterburen 36, ma/di dicht, wo/do/zo 10–23 en vr/za 10–00; https://www.puravidafoodbar.nl/ bevestigt bier, wijn, cocktails en losse borrel. https://www.vvvterschelling.nl/bedrijven/pura-vida-midsland/ noemt iets andere start/einduren; eigen site aangehouden. Niet verwarren met Pura Vida Daily WEST Boomstraat 17: die eigen vestigingspagina https://www.puravidafoodbar.nl/foodbar-west beschrijft alleen ontbijt/lunch/koffie tot 15:00 en bevestigt geen alcoholborrel. Laatste toegang onbekend.",
+      "features": "Terschelling Midsland; cocktailbar; borrel",
+      "website": "https://www.puravidafoodbar.nl/foodbar-midsland",
+      "other_sources": [
+        "https://www.puravidafoodbar.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/pura-vida-midsland/"
+      ],
+      "original_status": "Eigen 2026-site bevestigt actuele exploitatie en aparte Midsland-vestiging."
+    },
+    {
+      "id": "la-boya-west-terschelling-20261101",
+      "name": "La Boya",
+      "type": "Mediterraan restaurant / wijnborrel",
+      "address": "Willem Barentszkade 39",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site: naar hartenlust borrelen op terras of bij haard, dinerreservering apart.",
+      "alcohol": "Eigen site bevestigt wijnkaart en wijn per glas.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.la-boya.nl/",
+      "closing_source": "https://www.la-boya.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen site do–ma vanaf 12:00, di/wo dicht; VVV wintergids meldt concrete 02–12 nov 2026 sluiting. Generiek rooster veilig onbekend tot datumfilter.",
+      "closing_quality": "VVV noemt 22:30, exploitant alleen begintijd. Geen exacte sluiting en laatste toegang bewezen; 02–12 november gesloten volgens VVV.",
+      "closing_notes": "01-11-2026: https://www.la-boya.nl/ bevestigt Willem Barentszkade 39, losse wijnborrel en do–ma vanaf 12. https://www.vvvterschelling.nl/uit-eten-in-de-winter/ meldt uitzonderingssluiting 02–12 november 2026. Daarom verborgen totdat datumafhankelijke opening/gesloten-status correct kan worden weergegeven. https://www.vvvterschelling.nl/firmen/restaurant-la-boya/ geeft 22:30 maar niet door exploitant bevestigd. Geen geocode of laatste toegang gegokt.",
+      "features": "Terschelling West; haven; novembervakantie",
+      "website": "https://www.la-boya.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/uit-eten-in-de-winter/",
+        "https://www.vvvterschelling.nl/firmen/restaurant-la-boya/"
+      ],
+      "original_status": "Eigen site actief en VVV wintergids bevat sluitingsuitzondering."
     }
   ],
   "admission_policies": [
