@@ -23,6 +23,16 @@ class ExactBagAddressTests(unittest.TestCase):
         with patch.object(geocode, "request", return_value=candidates):
             return geocode.geo({"address": address, "city": "Sneek"})
 
+    def test_duplicate_alias_never_queries_pdok(self):
+        with patch.object(geocode, "request") as req:
+            location, reason = geocode.geo({
+                "id": "alias", "duplicate_of": "canonical",
+                "address": "Dorpsstraat 81", "city": "Hoorn",
+            })
+        self.assertIsNone(location)
+        self.assertEqual(reason, "duplicate-alias")
+        req.assert_not_called()
+
     def test_unverified_venue_address_never_queries_pdok(self):
         with patch.object(geocode, "request") as req:
             location, reason = geocode.geo({
