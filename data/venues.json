@@ -30198,6 +30198,52 @@
         "https://www.tripadvisor.co.uk/Restaurant_Review-g652194-d10347898-Reviews-Restaurant_Binnen-Nes_Ameland_Friesland_Province.html"
       ],
       "original_status": "Eigen website en VVV bevestigen exploitatie en ontmoetingsfunctie; weekuren en optredendagen niet bevestigd."
+    },
+    {
+      "id": "mr-sandman-nes-20261101",
+      "name": "Restaurant Mr Sandman",
+      "type": "Hotelrestaurant / bar / borrel",
+      "address": "Strandweg 42",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Huidige exploitant Fletcher Hotels bevestigt publiek restaurant met gezellige bar voor losse borrel; niet uitsluitend hotelgasten.",
+      "alcohol": "Huidige Fletcher-pagina noemt borrel en bar, maar geen afzonderlijk geverifieerde actuele bier-/wijnkaart; oudere reisverslagen noemen wijn. Actueel alcoholassortiment nog bevestigen.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "07:00",
+        "di": "07:00",
+        "wo": "07:00",
+        "do": "07:00",
+        "vr": "07:00",
+        "za": "07:00",
+        "zo": "07:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.fletcher.nl/nl/restaurant/arrangementen/wk-combideal/overzicht",
+      "closing_source": "https://www.fletcher.nl/nl/restaurant/arrangementen/wk-combideal/overzicht",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Actuele Fletcher-restaurantoverzicht: 07:00–23:00. Het betreft restaurantopening, niet gegarandeerd bar-/alcoholuren.",
+      "closing_quality": "Fletcher vermeldt 23:00 als restaurantbedrijfstijd; afzonderlijke barsluiting en laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://www.fletcher.nl/nl/restaurant/arrangementen/wk-combideal/overzicht en https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/mr-sandman bevestigen huidige bar/borrel Strandweg 42. https://westcordhotels.nl/westcord-hotels-verkoopt-hotel-noordsee-op-ameland-aan-dunavast/ bevestigt verkoop 27-03-2024; oudere WestCord-vermeldingen zijn verouderd, Fletcher is huidige exploitant. 07–23 op Fletcher-site kan hotelrestaurantrooster zijn; geen apart alcoholrooster. Tot actuele alcoholkaart en vrije niet-hotelgasttoegang expliciet bevestigd zijn verborgen.",
+      "features": "Nes Ameland; Fletcher Hotel-Restaurant Noordsee; borrel; alcoholkaart nog te verifiëren",
+      "website": "https://www.fletcher.nl/nl/restaurant/arrangementen/wk-combideal/overzicht",
+      "other_sources": [
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/mr-sandman",
+        "https://westcordhotels.nl/westcord-hotels-verkoopt-hotel-noordsee-op-ameland-aan-dunavast/"
+      ],
+      "original_status": "Huidige Fletcher-exploitatie en borrelbar bevestigd; oude WestCord-bronnen niet meer als actueel gebruikt."
     }
   ],
   "admission_policies": [
