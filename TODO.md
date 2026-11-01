@@ -1,5 +1,16 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Vervolgcheckpoint 01-11-2026 03:xx Europe/Amsterdam — twee extra West-Terschellinger borrellocaties, master 661
+
+**2 nieuwe records** opgeslagen in [data-commit 93913da](https://github.com/paltenburg/nogergensnaarbinnen/commit/93913dabcffb08b0f11db0783f56f6b28915be71), bovenop de vier van checkpoint 659. **Totaal deze uitvoering: 6 nieuw, 0 bestaande gewijzigd, 2 datacommits + 1 eerdere TODO-commit.** Master na write 661 (437 Friesland, 224 Utrecht), nieuwste blob `61122df17729f1f4d8e1157b3b40afea001838c0`; 661-run en live Pages nog niet bevestigd. Geen coördinaten of laatste toegang verzonnen.
+
+- **The Drunken Sailor**, West-Terschelling, Boomstraat 37, `the-drunken-sailor-west-terschelling-20261101`, **Voorlopig**. https://www.the-drunken-sailor.nl/ bevestigt publiek bier-/borrelcafé met spellen; eigen https://www.the-drunken-sailor.nl/Openingstijden/ bevestigt **dagelijks 16:00–01:00, vrijdag/zaterdag tot 02:00**. VVV https://www.vvvterschelling.nl/bedrijven/the-drunken-sailor/ bevestigt adres en tijden. Laatste toegang onbekend.
+- **Het Amsterdamsche Koffijhuis**, West-Terschelling, Willem Barentszstraat 17, `het-amsterdamsche-koffijhuis-west-terschelling-20261101`, **Voorlopig**. https://www.hetamsterdamschekoffijhuis.nl/ bevestigt ma/di dicht, wo–zo **vanaf 15:00** en 'tot 22:00, maar soms langer zolang gezellig'; sluiting daarom **`Varieert`**, niet vast 22:00. https://www.vvvterschelling.nl/bedrijven/het-amsterdamsche-koffijhuis/ bevestigt publieke borrel; eigen actuele alcoholkaart ontbreekt, laatste toegang onbekend.
+- **Niet toegevoegd:** Restaurant Nap (hotel/restaurant bevestigd via https://www.hotelnap.nl/ en VVV https://www.vvvterschelling.nl/bedrijven/restaurant-nap/, maar vrije alcoholborrel voor niet-hotelgasten niet rechtstreeks bewezen); **OKA 18** stond al in master. VVV wintergids https://www.vvvterschelling.nl/uit-eten-in-de-winter/ aangetroffen als volgende gebiedsbron, geen actuele winteruren zonder exploitantcontrole overgenomen.
+
+**Exact vervolg:** 661 Pages/CI + afgeleide bron-/geo-/kwaliteitsbestanden controleren, daarna wintergids West/Midsland/Lies/Formerum doorlopen en ontbrekende officiële websites/sluituren; datum-/seizoenslogica en echte mobiele touchtest blijven open. W45 pas 02-11-2026 10:00.
+
+
 ### Checkpoint 01-11-2026 03:xx Europe/Amsterdam — Terschelling West/Midsland/Formerum, master 659
 
 **Werkelijk uitgevoerd op 01-11-2026:** de actuele TODO (inclusief uitvoeringsstrategie), master-blob `b6998fddabad6536b5a030f399b8ffdacf321c86`, `index.html` en de laatste GitHub Actions-status gelezen. **4 nieuwe Friese records** toegevoegd in data-commit [9c35dea](https://github.com/paltenburg/nogergensnaarbinnen/commit/9c35deac5e682f24227de94a820db6a89f5649f7), geen bestaande IDs gewijzigd of verwijderd. Na commit master via actuele blob `b2d74de9e557a3a93698ae49ee3d078d106856e4` teruggelezen: **659/659 unieke IDs, 435 Friesland, 224 Utrecht**, nieuwe records volledig met ma–zo-velden, 0 coördinaten verzonnen. Dit is **structurele lokale validatie**, geen complete CI- of mobiele test. De vorige **655-run [41259871827](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41259871827) is inmiddels success** (build-and-deploy). De **659-run/live publicatie nog niet bevestigd**.
