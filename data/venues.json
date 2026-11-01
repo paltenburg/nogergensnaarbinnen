@@ -33130,7 +33130,9 @@
         "lon": 5.7972129,
         "method": "PDOK BAG-adres",
         "matched_address": "Klokstraat 19, 8911HC Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-blauwhuis-leeuwarden-20261101",
@@ -33186,7 +33188,9 @@
         "lon": 5.8006115,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoekstersingel 1, 8922AM Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cocktailbar-dr-watson-leeuwarden-20261101",
@@ -33245,7 +33249,9 @@
         "lon": 5.7970733,
         "method": "PDOK BAG-adres",
         "matched_address": "Eewal 50, 8911GT Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "scamele-muziek-sportcafe-leeuwarden-20261101",
@@ -33300,7 +33306,9 @@
         "lon": 5.7920074,
         "method": "PDOK BAG-adres",
         "matched_address": "Ruiterskwartier 103, 8911BR Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "de-bierhalle-grou-20261101",
@@ -33360,7 +33368,9 @@
         "lon": 5.8393128,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdstraat 7, 9001AM Grou"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "the-drunken-dragon-leeuwarden-20261101",
@@ -33418,7 +33428,9 @@
         "lon": 5.7949296,
         "method": "PDOK BAG-adres",
         "matched_address": "Weerd 13, 8911HL Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-tarantella-koudum-20261101",
@@ -33476,7 +33488,9 @@
         "lon": 5.449411,
         "method": "PDOK BAG-adres",
         "matched_address": "Hoofdstraat 25, 8723BE Koudum"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "fellini-city-lounge-leeuwarden-20261101",
@@ -33530,7 +33544,9 @@
         "lon": 5.7930746,
         "method": "PDOK BAG-adres",
         "matched_address": "Wilhelminaplein 20, 8911BS Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "mango-lounge-leeuwarden-20261101",
@@ -33585,7 +33601,9 @@
         "lon": 5.7922509,
         "method": "PDOK BAG-adres",
         "matched_address": "Ruiterskwartier 107, 8911BR Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "birdys-bar-hotel-sneek-20261101",
@@ -33640,7 +33658,9 @@
         "lon": 5.6817741,
         "method": "PDOK BAG-adres",
         "matched_address": "Burgemeester Rasterhofflaan 1, 8606KZ Sneek"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "brasserie-de-koperen-kees-sneek-20261101",
@@ -33695,7 +33715,9 @@
         "lon": 5.656754,
         "method": "PDOK BAG-adres",
         "matched_address": "Parkstraat 1, 8601GS Sneek"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-restaurant-beaufort-makkum-20261101",
@@ -33799,7 +33821,9 @@
         "lon": 5.7882076,
         "method": "PDOK BAG-adres",
         "matched_address": "Harlingersingel 2, 8913CJ Leeuwarden"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "de-tuinkamer-rinsma-gorredijk-20261101",
@@ -33949,7 +33973,9 @@
         "lon": 5.5469915,
         "method": "PDOK BAG-adres",
         "matched_address": "Dijkstraat 44, 8801LW Franeker"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "james-bistro-bar-drachten-20261101",
@@ -34002,7 +34028,9 @@
         "lon": 6.1041281,
         "method": "PDOK BAG-adres",
         "matched_address": "Zuidkade 45, 9203CN Drachten"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "sondrio-drachten-20261101",
@@ -34064,7 +34092,9 @@
         "lon": 6.1039513,
         "method": "PDOK BAG-adres",
         "matched_address": "Zuidkade 41a, 9203CN Drachten"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "basta-harlingen-20261101",
@@ -34117,7 +34147,9 @@
         "lon": 5.4196309,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 67, 8861BG Harlingen"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "grandcafe-de-reus-harlingen-20261101",
@@ -34170,7 +34202,9 @@
         "lon": 5.4167227,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 12, 8861BK Harlingen"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "brasserie-braam-harlingen-20261101",
@@ -34223,7 +34257,9 @@
         "lon": 5.4170735,
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 18, 8861BK Harlingen"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "wapen-van-langweer-langweer-20261101",
@@ -34277,7 +34313,9 @@
         "lon": 5.7243611,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 36, 8525ED Langweer"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "eetcafe-de-drie-zwaantjes-langweer-20261101",
@@ -34333,7 +34371,9 @@
         "lon": 5.7234505,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 22, 8525EC Langweer"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "noflik-by-zwigt-bosma-langweer-20261101",
@@ -34438,7 +34478,9 @@
         "lon": 5.7232862,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 20, 8525EC Langweer"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "restaurant-de-klokkenstoel-goingarijp-20261101",
@@ -34494,7 +34536,9 @@
         "lon": 5.7700168,
         "method": "PDOK BAG-adres",
         "matched_address": "It Hôf 3, 8511AE Goingarijp"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "grand-cafe-de-watersport-heeg-20261101",
@@ -34549,7 +34593,9 @@
         "lon": 5.6061336,
         "method": "PDOK BAG-adres",
         "matched_address": "De Skatting 44, 8621BW Heeg"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "belle-et-nonna-heeg-20261101",
@@ -34601,7 +34647,9 @@
         "lon": 5.605354,
         "method": "PDOK BAG-adres",
         "matched_address": "Harinxmastrjitte 57, 8621BK Heeg"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "de-garaazje-sneek-20261101",
@@ -34657,7 +34705,9 @@
         "lon": 5.6588547,
         "method": "PDOK BAG-adres",
         "matched_address": "Kruizebroederstraat 27, 8601CK Sneek"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-de-pub-sneek-20261101",
@@ -34708,7 +34758,9 @@
         "lon": 5.6601722,
         "method": "PDOK BAG-adres",
         "matched_address": "Marktstraat 29A, 8601CS Sneek"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-de-bakkersdochter-sneek-20261101",
@@ -34760,7 +34812,9 @@
         "lon": 5.6599284,
         "method": "PDOK BAG-adres",
         "matched_address": "Scharnestraat 17, 8601BB Sneek"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "pannenkoekenboerderij-de-roos-terherne-20261101",
@@ -34815,7 +34869,9 @@
         "lon": 5.7805083,
         "method": "PDOK BAG-adres",
         "matched_address": "Kameleonplein 1, 8493MC Terherne"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "eetcafe-t-far-terherne-20261101",
@@ -34869,7 +34925,9 @@
         "lon": 5.7803651,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 59, 8493LD Terherne"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-zevenwouden-terherne-20261101",
@@ -34924,7 +34982,9 @@
         "lon": 5.7836827,
         "method": "PDOK BAG-adres",
         "matched_address": "Buorren 24, 8493LE Terherne"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-moeke-de-bruin-aldeboarn-20261101",
@@ -34977,7 +35037,9 @@
         "lon": 5.8930442,
         "method": "PDOK BAG-adres",
         "matched_address": "Waechstege 4, 8495JD Aldeboarn"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "sportstad-cafe-heerenveen-20261101",
@@ -35032,7 +35094,9 @@
         "lon": 5.9366972,
         "method": "PDOK BAG-adres",
         "matched_address": "Abe Lenstra boulevard 25, 8448JA Heerenveen"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "bruin-cafe-jimbar-wommels-20261102",
@@ -35087,7 +35151,9 @@
         "lon": 5.58793,
         "method": "PDOK BAG-adres",
         "matched_address": "Terp 4, 8731AZ Wommels"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "restaurant-helder-boornzwaag-20261102",
@@ -35175,7 +35241,9 @@
         "lon": 5.7442854,
         "method": "PDOK BAG-adres",
         "matched_address": "Wielenlaan 19, 8526GE Boornzwaag"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "it-holt-deinum-20261102",
@@ -35239,7 +35307,9 @@
         "lon": 5.7352833,
         "method": "PDOK BAG-adres",
         "matched_address": "It Holt 6, 9033WH Deinum"
-      }
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
