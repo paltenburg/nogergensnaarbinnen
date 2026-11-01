@@ -19,7 +19,7 @@ JSON_PATH = DATA / "source-register.json"
 MD_PATH = DATA / "source-register.md"
 ROLE_FIELDS = [
     ("website", "website", "website_checked_on"),
-    ("closing_source", "sluitingstijden", "checked_on"),
+    ("closing_source", "sluitingstijden", "closing_checked_on"),
     ("opening_source", "openingstijden", "opening_checked_on"),
     ("last_entry_source", "laatste_toegang", "last_entry_checked_on"),
     ("other_sources", "achtergrond", None),
@@ -74,6 +74,21 @@ def extract_urls(value):
     return result
 
 
+
+def dated_sources(venue):
+    """Return only explicit source/check-date pairs from dated master fields."""
+    for field, role in (
+        ("date_closures", "datumsluiting"),
+        ("date_schedules", "seizoensrooster"),
+        ("seasonal_hours_evidence", "seizoensbron"),
+    ):
+        for item in venue.get(field) or []:
+            if not isinstance(item, dict):
+                continue
+            for url in extract_urls(item.get("source")):
+                yield url, role, item.get("checked_on")
+
+
 def host_name(url):
     return urlsplit(url).hostname.lower().removeprefix("www.")
 
@@ -120,6 +135,8 @@ def main():
         for field, role, date_field in ROLE_FIELDS:
             for url in extract_urls(venue.get(field)):
                 register(url, role, venue, venue.get(date_field) if date_field else None)
+        for url, role, check_date in dated_sources(venue):
+            register(url, role, venue, check_date)
 
     # Municipal rules are separate provenance, not inferred per venue.
     # Only sites explicitly assigned admission_policy_id receive these limits.
