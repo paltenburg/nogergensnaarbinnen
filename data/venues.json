@@ -33277,6 +33277,55 @@
       ],
       "original_status": "01-11-2026: juni 2026 opening aangekondigd en oktober 2026 daadwerkelijk gehouden pubquiz plus novemberafspraken bevestigd via onafhankelijke organisator. Reguliere weekuren niet primair vastgesteld.",
       "features": "Leeuwarden; fantasy-/D&D-thema, cocktails, opvolger van YAI; eventuren niet als reguliere sluituren"
+    },
+    {
+      "id": "cafe-tarantella-koudum-20261101",
+      "name": "Café Tarantella",
+      "type": "Dorpscafé / cafetariabar",
+      "address": "Hoofdstraat 27",
+      "city": "Koudum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Lokale berichtgeving 16-10-2026 bevestigt heropening van café onder Michel en Femke. Koudum.nl kondigt 12-12-2026 publiek toegankelijk sjoeltoernooi met toeschouwers, livemuziek en borrel aan. Reguliere vrije inloop buiten evenementen niet afzonderlijk bij uitbater bevestigd.",
+      "alcohol": "Koudum.nl 29-10-2026 noemt borrel en drankjes bij decembertoernooi; cafetariabar volgens gidsen. Actueel bedrijfseigen alcoholassortiment nog niet geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actuele door nieuwe uitbaters gepubliceerd weekrooster gevonden. Evenement 12-12-2026 vanaf 15:30 is geen algemeen cafébegin.",
+      "closing_quality": "Geen actuele bedrijfseigen weeksluituren of laatste toegang; tijden van decembertoernooi zijn geen vaste sluiting.",
+      "opening_source": "https://koudum.nl/tarantella-in-nieuwe-handen/",
+      "closing_source": "https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Geen actuele, rechtstreeks geverifieerde exploitantwebsite. Lokale Koudum.nl berichten van 16-10 en 29-10-2026 als actuele onafhankelijke bron.",
+      "closing_notes": "01-11-2026: [Koudum.nl 16-10](https://koudum.nl/tarantella-in-nieuwe-handen/) meldt officiële heropening op 16 oktober onder nieuwe eigenaren Michel en Femke na overdracht door Dirk Osinga in september. [Koudum.nl 29-10](https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/) noemt openbaar evenement 12 december: inloop 15:30, wedstrijd 16:00, prijsuitreiking 19:00, aansluitend livemuziek en drankjes; **dit is geen regulier weekrooster**. Lokale evenementlocatie geeft Hoofdstraat 27; HFS en OSM noemen Hoofdstraat 25. Exacte café-ingang/huisnummer niet vastgesteld, daarom geen geo. Geen APV-/gidsuren als feit overgenomen. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://koudum.nl/tarantella-in-nieuwe-handen/",
+        "https://koudum.nl/mc-events/dirk-osinga-sjoeltoernooi-bij-tarantella/",
+        "https://koudum.nl/mc-locations/cafe-tarantella/",
+        "https://www.hfsfreelancers.nl/locaties/koudum/bars/tarantella-4741900778"
+      ],
+      "original_status": "01-11-2026: lokale krant bevestigt heropening 16-10-2026 en een nieuwe publieke bijeenkomst in december; exacte normale openingstijden en ingang niet vastgesteld.",
+      "features": "Koudum; 16-10-2026 heropend, nieuwe eigenaren; adresconflict Hoofdstraat 25/27; geen geocode"
     }
   ],
   "admission_policies": [
