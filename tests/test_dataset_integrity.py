@@ -1,5 +1,6 @@
 """Regression checks for the sole master database (no network requests)."""
 import json
+from datetime import date
 import re
 import unittest
 from pathlib import Path
@@ -65,6 +66,26 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
             with self.subTest(venue=p["id"]):
                 self.assertIsNotNone(actual, "PDOK address contains unverified addition/range")
                 self.assertEqual(expected[1:], actual[1:], "PDOK house number/suffix differs")
+
+    def test_dated_closures_have_valid_sourced_nonoverlapping_ranges(self):
+        for p in self.places:
+            closures = p.get("date_closures", [])
+            with self.subTest(venue=p["id"]):
+                self.assertIsInstance(closures, list)
+                parsed = []
+                for item in closures:
+                    start = date.fromisoformat(item["start"])
+                    end = date.fromisoformat(item["end"])
+                    self.assertLessEqual(start, end, "Closure range reversed")
+                    self.assertTrue(item.get("source", "").startswith(("https://", "http://")),
+                                    "Date closure requires an actual source URL")
+                    self.assertTrue(item.get("checked_on"), "Missing real check date")
+                    date.fromisoformat(item["checked_on"])
+                    parsed.append((start, end))
+                parsed.sort()
+                for previous, current in zip(parsed, parsed[1:]):
+                    self.assertLess(previous[1], current[0],
+                                    "Overlapping dated closures must be reconciled")
 
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
