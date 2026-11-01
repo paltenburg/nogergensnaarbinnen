@@ -33910,6 +33910,100 @@
       ],
       "original_status": "Exploitant bevestigt actieve horeca, alcohol, aperitivo en seizoenssluiting; aparte baropenstelling en vrije inloop nog niet afzonderlijk bewezen.",
       "features": "Drachten; hidden bar boven, Italiaanse aperitivo; kerstsluiting 2026–2027"
+    },
+    {
+      "id": "basta-harlingen-20261101",
+      "name": "Basta Harlingen",
+      "type": "Lunchcafé / borrelcafé",
+      "address": "Voorstraat 67",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website verwelkomt ook bezoekers voor uitsluitend een borrel met vrienden; geen maaltijdplicht genoemd.",
+      "alcohol": "Eigen website biedt High Wine, High Beer en High Cocktail en noemt borrelen aan de bar.",
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "08:30",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen website, contactblok 01-11-2026; zondag niet genoemd, daarom onbekend.",
+      "closing_quality": "Eigen website vermeldt sluiting ma–do 18:00, vr/za 20:00; zondag niet genoemd.",
+      "opening_source": "https://bastaharlingen.nl/",
+      "closing_source": "https://bastaharlingen.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://bastaharlingen.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website met namen exploitanten, adres en openingstijden rechtstreeks gecontroleerd.",
+      "closing_notes": "Eigen homepage vermeldt Voorstraat 67, bevestigd door actuele VVV. Oudere eigen menukaart-PDF (2025) noemt Voorstraat 69; dit is een adresconflict, 67 gekozen op basis van actuele eigen contactpagina en VVV. Zondag en laatste toegang onbekend; arrangementtijden niet als vrije toegangstijden aangenomen.",
+      "other_sources": [
+        "https://www.harlingenwelkomaanzee.nl/nl/uitgelicht/zomer",
+        "https://bastaharlingen.nl/wp-content/uploads/2025/11/basta.pdf.pdf"
+      ],
+      "original_status": "Eigen website bevestigt actuele publieke borrelfunctie en actuele openingstijden; adres 67 actueel op eigen site en VVV.",
+      "features": "Harlingen; borrel, wijn, bier en cocktails; oudere menukaart bevat afwijkend adres"
+    },
+    {
+      "id": "grandcafe-de-reus-harlingen-20261101",
+      "name": "Grandcafé De Reus",
+      "type": "Grand café / borrel",
+      "address": "Voorstraat 12",
+      "city": "Harlingen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website nodigt expliciet uit om zonder maaltijd gewoon te borrelen, ook in de binnentuin.",
+      "alcohol": "Eigen website noemt speciaalbier, wijn en cocktails en linkt afzonderlijke borrel-, wijn- en cocktailkaarten.",
+      "opening": {
+        "ma": "10:30",
+        "di": "10:30",
+        "wo": "10:30",
+        "do": "10:30",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Officiële website geeft volledig weekrooster 01-11-2026.",
+      "closing_quality": "Officiële website geeft volledig weekrooster 01-11-2026.",
+      "opening_source": "https://dereusharlingen.nl/",
+      "closing_source": "https://dereusharlingen.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://dereusharlingen.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website bevestigt naam, adres, publieke borrelfunctie en openingstijden.",
+      "closing_notes": "Eigen homepage ma–do/zo 10:30–22:00, vr/za 10:30–00:00; sluiting is geen laatste toegang. Secundaire gidsen geven tegenstrijdige daguren; eigen website aangehouden. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/381872219/grandcafe-de-reus",
+        "https://www.tripadvisor.nl/Restaurant_Review-g612459-d23987437-Reviews-Grandcafe_De_Reus-Harlingen_Friesland_Province.html"
+      ],
+      "original_status": "Actieve exploitant en vrije borrel op eigen site; adres Voorstraat 12.",
+      "features": "Harlingen; wijn-, cocktail- en borrelkaart"
     }
   ],
   "admission_policies": [
