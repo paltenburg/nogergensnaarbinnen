@@ -34284,6 +34284,56 @@
       ],
       "original_status": "Naam/adres/borrelfunctie bevestigd door meerdere gidsen, actuele exploitatie indirect ondersteund; eigen live rooster en site nog verifiëren.",
       "features": "Langweer; vrijdagmiddagborrel; sluituur en laatste toegang onbekend."
+    },
+    {
+      "id": "restaurant-de-klokkenstoel-goingarijp-20261101",
+      "name": "Restaurant De Klokkenstoel",
+      "type": "Seizoensrestaurant / borrel aan het water",
+      "address": "It Hôf 3",
+      "city": "Goingarijp",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site nodigt publiek uit voor lunch, borrel of diner aan het water; zakelijke/besloten feesten apart.",
+      "alcohol": "Eigen site toont rosé in gastreactie en borrelkaart/borrelhapjes; geen volledige actuele drankenkaart gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "requires_date_schedule": true,
+      "date_schedules": [],
+      "opening_quality": "Eigen site zegt 'weer open voor het nieuwe seizoen', wo–zo 11:00–22:00, maar noemt geen begin-/einddatum van het seizoen. In november 2026 is de publieke openstelling niet aangetoond; zonder geverifieerde datum bewust niet in resultaten tonen.",
+      "closing_quality": "22:00 is een exploitantvermeld seizoens-einduur, maar niet bewezen geldig voor november/winter. Geen jaarrond sluiting ingevuld.",
+      "opening_source": "https://restaurantdeklokkenstoel.nl/",
+      "closing_source": "https://restaurantdeklokkenstoel.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://restaurantdeklokkenstoel.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website direct gecontroleerd: naam, adres It Hôf 3, publieke borrel, seizoensrooster.",
+      "closing_notes": "01-11-2026: eigen site noemt wo–zo 11–22 'nieuw seizoen' zonder kalendergrenzen. Daarom requires_date_schedule=true en geen date_schedules; geen gewone weekuren als actueel voor november aangenomen. Laatste toegang onbekend. Oude gidsen noemen ma–zo 10–22 en wo–zo 10–23; niet gebruikt.",
+      "other_sources": [
+        "https://restaurantdeklokkenstoel.nl/",
+        "https://www.allebiz.nl/de-klokkenstoel-0566-689-301",
+        "https://www.restaurants.nl/goingarijp/de-klokkenstoel"
+      ],
+      "original_status": "Actieve seizoensexploitatie op eigen site, exacte winteropenstelling onbekend; veilig verborgen totdat geldige datums bevestigd zijn.",
+      "features": "Goingarijp; seizoensgebonden; borrel aan het water; datumcontrole vereist."
     }
   ],
   "admission_policies": [
