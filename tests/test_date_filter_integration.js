@@ -137,6 +137,12 @@ assert.equal(eligible(byId('de-vijfpoort-formerum-fa6312a')), false,
   'almost every Saturday does not prove a particular Saturday');
 assert.equal(eligible(byId('tdf-berltsum-20261030')), false,
   'event venue with no current dated event remains hidden');
+assert.equal(eligible(byId('club-24-lemmer-20261031')), false,
+  'Club 24 must not be presented as regularly open without a sourced future party');
+state.uncertain = true;
+assert.equal(eligible(byId('club-24-lemmer-20261031')), false,
+  'uncertain toggle must not bypass Club 24 date verification');
+state.uncertain = false;
 state.date = '2026-11-06'; state.day = 'vr';
 assert.equal(eligible(byId('eetcafe-de-winze-wyns-20261030')), true,
   'verified winter Friday is visible');
@@ -149,7 +155,7 @@ assert.equal(eligible(byId('eetcafe-de-winze-wyns-20261030')), false,
 state.date = ''; state.day = 'vr';
 for (const id of ['paradiso-bar-kollum-20261030',
   'de-vijfpoort-formerum-fa6312a', 'tdf-berltsum-20261030',
-  'eetcafe-de-winze-wyns-20261030']) {
+  'club-24-lemmer-20261031', 'eetcafe-de-winze-wyns-20261030']) {
   assert.equal(eligible(byId(id)), false, id + ' hidden without exact date');
 }
 state.sameDayMorning = false;
