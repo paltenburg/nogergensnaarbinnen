@@ -35317,6 +35317,53 @@
       },
       "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
       "geocode_checked_on": "2026-11-02"
+    },
+    {
+      "id": "bar-yn-e-stal-dronryp-20261102",
+      "name": "Bar Yn 'e Stâl",
+      "type": "Dorpscafé / cafetaria / zaal",
+      "address": "It Heech 1",
+      "city": "Dronryp",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Regionale VVV noemt café als plek om iets te drinken. KvK-afgeleide bedrijvengids vermeldt drinkgelegenheid op dit adres; actuele vrije alcoholinloop in november 2026 niet door exploitant bevestigd. Daarom verborgen.",
+      "alcohol": "Café-/barfunctie via regionale VVV en bedrijfscategorie; actuele eigen bier-/wijnkaart niet gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen betrouwbaar actueel bedrijfseigen weekrooster. Gidsen verschillen sterk (o.a. vr 11–19:30 versus 17–01); niet overgenomen.",
+      "closing_quality": "Geen verifieerbaar bedrijfseigen sluituur of laatste toegang; externe gidsen spreken elkaar tegen.",
+      "opening_source": "",
+      "closing_source": "",
+      "closing_notes": "02-11-2026: https://www.visitnoardwestfryslan.nl/nl/streken-steden/dorpen/dronrijp noemt Bar Yn 'e Stâl naast De Posthoorn. KvK-afgeleide https://franeker.nl/bedrijven/305b3411ba2ac591c87a788faccf82b8/bar-yn-e-stal vermeldt exploitatie van drinkgelegenheden op It Heech 1, gestart 2015; registratie alleen is geen bewijs van actuele opening. https://www.allebiz.nl/caf%C3%A9-cafetaria-zaal-yn-e-st%C3%A2l-0517-231-377 en https://restaurantguru.com/Yne-Stal-Dronrijp geven conflicterende roosters; geen uren gekopieerd. Historisch eigen domein ynestal.nl leidt naar domeinverkoop, dus geen officiële site als actief opgeslagen. Geen exacte BAG-marker verzonnen.",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.visitnoardwestfryslan.nl/nl/streken-steden/dorpen/dronrijp",
+        "https://franeker.nl/bedrijven/305b3411ba2ac591c87a788faccf82b8/bar-yn-e-stal",
+        "https://www.allebiz.nl/caf%C3%A9-cafetaria-zaal-yn-e-st%C3%A2l-0517-231-377",
+        "https://restaurantguru.com/Yne-Stal-Dronrijp",
+        "https://www.openingstijden.nl/Caf-Cafetaria-Zaal-Yn-E-Stl/Dronryp/It-Heech-1/"
+      ],
+      "original_status": "Identiteit, adres en cafébedrijfscategorie ondersteund; actuele vrije alcoholinloop, website en weekrooster nog niet door exploitant bevestigd.",
+      "features": "D0 Waadhoeke / Dronryp; onzekere publieke toegang; niet tonen tot verificatie"
     }
   ],
   "admission_policies": [
