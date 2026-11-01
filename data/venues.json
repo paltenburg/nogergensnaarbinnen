@@ -33124,7 +33124,13 @@
         "https://www.cylex.nl/bedrijf/gay-bar-bubbels---leeuwarden-13055132.html"
       ],
       "original_status": "01-11-2026: geregistreerde horecazaak en recente bezoekersreacties; actuele bedrijfseigen openingsbevestiging ontbreekt. Bewust verborgen.",
-      "features": "Leeuwarden; LHBTQ+-bar; recente exploitatieaanwijzingen, tijdconflict"
+      "features": "Leeuwarden; LHBTQ+-bar; recente exploitatieaanwijzingen, tijdconflict",
+      "geo": {
+        "lat": 53.2018144,
+        "lon": 5.7972129,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Klokstraat 19, 8911HC Leeuwarden"
+      }
     },
     {
       "id": "cafe-blauwhuis-leeuwarden-20261101",
@@ -33174,7 +33180,13 @@
         "https://leeuwarden-nieuws.nl/adressen/cafe-blauwhuis-hoekstersingel/"
       ],
       "original_status": "01-11-2026: actuele KvK-registratie, maar geen bedrijfseigen bewijs van open deur of uren; kandidaat bewust verborgen.",
-      "features": "Leeuwarden; oude stadscafé; 1/1A-adresprecisie controleren"
+      "features": "Leeuwarden; oude stadscafé; 1/1A-adresprecisie controleren",
+      "geo": {
+        "lat": 53.2065063,
+        "lon": 5.8006115,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Hoekstersingel 1, 8922AM Leeuwarden"
+      }
     },
     {
       "id": "cocktailbar-dr-watson-leeuwarden-20261101",
@@ -33227,7 +33239,13 @@
       ],
       "original_status": "01-11-2026: actuele exploitantwebsite en toeristische gids bevestigen publieke afzonderlijke cocktailbar; weekuren wo–za primair gecontroleerd, entree-/laatste-toegangstijd niet bekend.",
       "features": "Leeuwarden; kelder-speakeasy bij Spinoza; gedeeld adres bewust, aparte bar",
-      "geocode_notes": "Visit Leeuwarden vermeldt Eewal 50, 8911 GT; eigen site alleen Eewal. Dr. Watson is afzonderlijke kelderbar in het Spinoza-complex Eewal 50-52; geen BAG-coördinaat zonder exacte match."
+      "geocode_notes": "Visit Leeuwarden vermeldt Eewal 50, 8911 GT; eigen site alleen Eewal. Dr. Watson is afzonderlijke kelderbar in het Spinoza-complex Eewal 50-52; geen BAG-coördinaat zonder exacte match.",
+      "geo": {
+        "lat": 53.2026362,
+        "lon": 5.7970733,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Eewal 50, 8911GT Leeuwarden"
+      }
     },
     {
       "id": "scamele-muziek-sportcafe-leeuwarden-20261101",
@@ -33276,7 +33294,13 @@
         "https://www.cylex.nl/bedrijf/de-scamele-ruter-10664088.html"
       ],
       "original_status": "01-11-2026: eigen bedrijfswebsite bevestigt actuele publieke kroegfunctie, adres en weekrooster; fysieke deurtoegang niet gecontroleerd.",
-      "features": "Leeuwarden; bruin muziek- en sportcafé; bovenzaal voor groepen"
+      "features": "Leeuwarden; bruin muziek- en sportcafé; bovenzaal voor groepen",
+      "geo": {
+        "lat": 53.2001682,
+        "lon": 5.7920074,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ruiterskwartier 103, 8911BR Leeuwarden"
+      }
     },
     {
       "id": "de-bierhalle-grou-20261101",
@@ -33330,7 +33354,13 @@
         "https://www.boote-magazin.de/reise-und-charter/reviere/niederlande-das-muessen-skipper-2026-wissen-1-3-der-norden/"
       ],
       "original_status": "01-11-2026: officiële exploitantwebsite rechtstreeks bereikbaar en onafhankelijke mei-2026 publicatie bevestigt voortzetting onder nieuwe pachter. Reguliere weekuren/laatste toegang nog onbekend; geen fysieke novembercontrole.",
-      "features": "Grou; biljartcafé; bronconflict; 2025 terrasvergunning"
+      "features": "Grou; biljartcafé; bronconflict; 2025 terrasvergunning",
+      "geo": {
+        "lat": 53.0959616,
+        "lon": 5.8393128,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Hoofdstraat 7, 9001AM Grou"
+      }
     },
     {
       "id": "the-drunken-dragon-leeuwarden-20261101",
@@ -33382,7 +33412,13 @@
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/the-drunken-dragon-leeuwarden-99835290-000064880362"
       ],
       "original_status": "01-11-2026: juni 2026 opening aangekondigd en oktober 2026 daadwerkelijk gehouden pubquiz plus novemberafspraken bevestigd via onafhankelijke organisator. Reguliere weekuren niet primair vastgesteld.",
-      "features": "Leeuwarden; fantasy-/D&D-thema, cocktails, opvolger van YAI; eventuren niet als reguliere sluituren"
+      "features": "Leeuwarden; fantasy-/D&D-thema, cocktails, opvolger van YAI; eventuren niet als reguliere sluituren",
+      "geo": {
+        "lat": 53.201576,
+        "lon": 5.7949296,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Weerd 13, 8911HL Leeuwarden"
+      }
     },
     {
       "id": "cafe-tarantella-koudum-20261101",
@@ -33434,7 +33470,13 @@
         "https://nl.linkedin.com/posts/michel-tjeerdema-26a439b9_nieuwe-uitdaging-vanaf-vandaag-1-10-2026-activity-7511375841617035265-nXmp"
       ],
       "original_status": "01-11-2026: lokale krant bevestigt heropening 16-10-2026 en een nieuwe publieke bijeenkomst in december; exacte normale openingstijden en ingang niet vastgesteld.",
-      "features": "Koudum; heropend 16-10-2026, nieuwe eigenaren; adres 25 vs eventvermelding 27, BAG/ingang nog controleren; geen geocode"
+      "features": "Koudum; heropend 16-10-2026, nieuwe eigenaren; adres 25 vs eventvermelding 27, BAG/ingang nog controleren; geen geocode",
+      "geo": {
+        "lat": 52.9144408,
+        "lon": 5.449411,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Hoofdstraat 25, 8723BE Koudum"
+      }
     },
     {
       "id": "fellini-city-lounge-leeuwarden-20261101",
@@ -33482,7 +33524,13 @@
         "https://www.visitleeuwarden.com/locaties/2440721053/fellini-city-lounge"
       ],
       "original_status": "01-11-2026: eigen actuele website bevestigt exploitatie, borrel en volledig regulier weekrooster; geen fysieke live check.",
-      "features": "Leeuwarden; City Lounge aan Wilhelminaplein, terras en binnenborrel"
+      "features": "Leeuwarden; City Lounge aan Wilhelminaplein, terras en binnenborrel",
+      "geo": {
+        "lat": 53.1998592,
+        "lon": 5.7930746,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wilhelminaplein 20, 8911BS Leeuwarden"
+      }
     },
     {
       "id": "mango-lounge-leeuwarden-20261101",
@@ -33531,7 +33579,13 @@
         "https://firmania.nl/leeuwarden/mango-lounge-511773"
       ],
       "original_status": "01-11-2026: eigen website meldt tijdelijke sluiting; geen datum van heropening, bewust verborgen.",
-      "features": "Leeuwarden; cocktailbar/shisha-lounge, tijdelijk gesloten"
+      "features": "Leeuwarden; cocktailbar/shisha-lounge, tijdelijk gesloten",
+      "geo": {
+        "lat": 53.2003857,
+        "lon": 5.7922509,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ruiterskwartier 107, 8911BR Leeuwarden"
+      }
     },
     {
       "id": "birdys-bar-hotel-sneek-20261101",
@@ -33580,7 +33634,13 @@
         "https://www.hotelsneek.nl/"
       ],
       "original_status": "01-11-2026: actuele officiële hotelbarpagina bevestigt borrel en alcohol, starttijden; barsluitingen onbekend.",
-      "features": "Sneek; afzonderlijke Birdy's hotelbar met terras, geen hotelovernachting vereist volgens site"
+      "features": "Sneek; afzonderlijke Birdy's hotelbar met terras, geen hotelovernachting vereist volgens site",
+      "geo": {
+        "lat": 53.0164105,
+        "lon": 5.6817741,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Burgemeester Rasterhofflaan 1, 8606KZ Sneek"
+      }
     },
     {
       "id": "brasserie-de-koperen-kees-sneek-20261101",
@@ -33629,7 +33689,13 @@
         "https://www.friesland.nl/nl/locaties/1504515669/brasserie-de-koperen-kees"
       ],
       "original_status": "01-11-2026: exploitantwebsite bevestigt huidige publieke borrelfunctie en openingsstart; cafésluituren en laatste toegang onbekend.",
-      "features": "Sneek centrum; zelfstandige borrel naast diner; geen automatische marker vóór exacte BAG-match"
+      "features": "Sneek centrum; zelfstandige borrel naast diner; geen automatische marker vóór exacte BAG-match",
+      "geo": {
+        "lat": 53.0340558,
+        "lon": 5.656754,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Parkstraat 1, 8601GS Sneek"
+      }
     },
     {
       "id": "cafe-restaurant-beaufort-makkum-20261101",
@@ -33727,7 +33793,13 @@
         "https://stekleeuwarden.foodticket.nl/foodticket/cgi/bestel.cgi"
       ],
       "original_status": "01-11-2026 officiële website actief en reguliere publieke borrel met alcohol en tijden onderbouwd; geen live deur- of laatste-toegangstest.",
-      "features": "Brugwachtershuisje; borrel overdag; geen reservering; kaartmarker pas na exacte BAG-match"
+      "features": "Brugwachtershuisje; borrel overdag; geen reservering; kaartmarker pas na exacte BAG-match",
+      "geo": {
+        "lat": 53.2028421,
+        "lon": 5.7882076,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Harlingersingel 2, 8913CJ Leeuwarden"
+      }
     },
     {
       "id": "de-tuinkamer-rinsma-gorredijk-20261101",
@@ -33871,7 +33943,13 @@
         "https://www.sinnyn.nl/reserveren/openingstijden"
       ],
       "original_status": "Eigen exploitantwebsite op 01-11-2026 bevestigt lopende bistro met losse bier-/wijnborrel en rooster; feitelijke open deur niet live getest.",
-      "features": "Franeker; VrijMiBo; bistro met speciaalbier en wijn; vroeg sluitend"
+      "features": "Franeker; VrijMiBo; bistro met speciaalbier en wijn; vroeg sluitend",
+      "geo": {
+        "lat": 53.1852237,
+        "lon": 5.5469915,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Dijkstraat 44, 8801LW Franeker"
+      }
     },
     {
       "id": "james-bistro-bar-drachten-20261101",
@@ -33918,7 +33996,13 @@
         "https://jamesdrachten.nl/contact/"
       ],
       "original_status": "Eigen website bevestigt publieke bar en drankaanbod. Weekdagen en barsluituren hebben brononderscheid; geen fysieke controle.",
-      "features": "Drachten; aparte bar naast bistro; cocktails, bier, wijn; vrijdagmiddagborrel"
+      "features": "Drachten; aparte bar naast bistro; cocktails, bier, wijn; vrijdagmiddagborrel",
+      "geo": {
+        "lat": 53.1067024,
+        "lon": 6.1041281,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Zuidkade 45, 9203CN Drachten"
+      }
     },
     {
       "id": "sondrio-drachten-20261101",
@@ -33974,7 +34058,13 @@
         "https://sondriodrachten.nl/menu/"
       ],
       "original_status": "Exploitant bevestigt actieve horeca, alcohol, aperitivo en seizoenssluiting; aparte baropenstelling en vrije inloop nog niet afzonderlijk bewezen.",
-      "features": "Drachten; hidden bar boven, Italiaanse aperitivo; kerstsluiting 2026–2027"
+      "features": "Drachten; hidden bar boven, Italiaanse aperitivo; kerstsluiting 2026–2027",
+      "geo": {
+        "lat": 53.1067213,
+        "lon": 6.1039513,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Zuidkade 41a, 9203CN Drachten"
+      }
     },
     {
       "id": "basta-harlingen-20261101",
@@ -34021,7 +34111,13 @@
         "https://bastaharlingen.nl/wp-content/uploads/2025/11/basta.pdf.pdf"
       ],
       "original_status": "Eigen website bevestigt actuele publieke borrelfunctie en actuele openingstijden; adres 67 actueel op eigen site en VVV.",
-      "features": "Harlingen; borrel, wijn, bier en cocktails; oudere menukaart bevat afwijkend adres"
+      "features": "Harlingen; borrel, wijn, bier en cocktails; oudere menukaart bevat afwijkend adres",
+      "geo": {
+        "lat": 53.1747781,
+        "lon": 5.4196309,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 67, 8861BG Harlingen"
+      }
     },
     {
       "id": "grandcafe-de-reus-harlingen-20261101",
@@ -34068,7 +34164,13 @@
         "https://www.tripadvisor.nl/Restaurant_Review-g612459-d23987437-Reviews-Grandcafe_De_Reus-Harlingen_Friesland_Province.html"
       ],
       "original_status": "Actieve exploitant en vrije borrel op eigen site; adres Voorstraat 12.",
-      "features": "Harlingen; wijn-, cocktail- en borrelkaart"
+      "features": "Harlingen; wijn-, cocktail- en borrelkaart",
+      "geo": {
+        "lat": 53.1748022,
+        "lon": 5.4167227,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 12, 8861BK Harlingen"
+      }
     },
     {
       "id": "brasserie-braam-harlingen-20261101",
@@ -34115,7 +34217,13 @@
         "https://www.tripadvisor.nl/Restaurant_Review-g612459-d33054430-Reviews-Brasserie_Braam-Harlingen_Friesland_Province.html"
       ],
       "original_status": "Eigen exploitant bevestigt actieve brasserie met bar en publiek borrelen; alleen do–ma reguliere publieke dagen.",
-      "features": "Hotelbrasserie; bar en binnentuin; di/wo alleen hotelgasten"
+      "features": "Hotelbrasserie; bar en binnentuin; di/wo alleen hotelgasten",
+      "geo": {
+        "lat": 53.1748147,
+        "lon": 5.4170735,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 18, 8861BK Harlingen"
+      }
     },
     {
       "id": "wapen-van-langweer-langweer-20261101",
@@ -34163,7 +34271,13 @@
         "https://www.socialdeal.de/deals/friesland/wapen-van-langweer/heerlijk-2--of-3-gangendiner-a-la-carte-bij-wapen-van-langweer-geniet-bijvoorbeeld-van-mosselen-malse-biefstuk-en-verrukkelijke-cheesecake-sep-2026-friesland/"
       ],
       "original_status": "Actueel eigen café en bar met vrije borrel bevestigd 01-11-2026; exacte sluiting en laatste toegang niet gevonden.",
-      "features": "De Fryske Marren / Langweer; vijf dagen vanaf 16:00; geen vaste barsluituren bewezen."
+      "features": "De Fryske Marren / Langweer; vijf dagen vanaf 16:00; geen vaste barsluituren bewezen.",
+      "geo": {
+        "lat": 52.9591554,
+        "lon": 5.7243611,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Buorren 36, 8525ED Langweer"
+      }
     },
     {
       "id": "eetcafe-de-drie-zwaantjes-langweer-20261101",
@@ -34213,7 +34327,13 @@
         "https://visitlangweer.wordpress.com/cafes/"
       ],
       "original_status": "Café in exploitatie en publiek evenement in 2026 bevestigd; actuele novemberopening en exploitantweekrooster nog niet rechtstreeks bevestigd. Voorlopig, niet als gegarandeerd open.",
-      "features": "De Fryske Marren / Langweer; lopende geluidskwestie; novemberuren onbekend."
+      "features": "De Fryske Marren / Langweer; lopende geluidskwestie; novemberuren onbekend.",
+      "geo": {
+        "lat": 52.9587896,
+        "lon": 5.7234505,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Buorren 22, 8525EC Langweer"
+      }
     },
     {
       "id": "noflik-by-zwigt-bosma-langweer-20261101",
@@ -34312,7 +34432,13 @@
         "https://www.tripadvisor.nl/Restaurant_Review-g4971655-d4932571-Reviews-Brasserie_AnderS-Langweer_Friesland_Province.html"
       ],
       "original_status": "Naam/adres/borrelfunctie bevestigd door meerdere gidsen, actuele exploitatie indirect ondersteund; eigen live rooster en site nog verifiëren.",
-      "features": "Langweer; vrijdagmiddagborrel; sluituur en laatste toegang onbekend."
+      "features": "Langweer; vrijdagmiddagborrel; sluituur en laatste toegang onbekend.",
+      "geo": {
+        "lat": 52.9587181,
+        "lon": 5.7232862,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Buorren 20, 8525EC Langweer"
+      }
     },
     {
       "id": "restaurant-de-klokkenstoel-goingarijp-20261101",
@@ -34362,7 +34488,13 @@
         "https://www.restaurants.nl/goingarijp/de-klokkenstoel"
       ],
       "original_status": "Actieve seizoensexploitatie op eigen site, exacte winteropenstelling onbekend; veilig verborgen totdat geldige datums bevestigd zijn.",
-      "features": "Goingarijp; seizoensgebonden; borrel aan het water; datumcontrole vereist."
+      "features": "Goingarijp; seizoensgebonden; borrel aan het water; datumcontrole vereist.",
+      "geo": {
+        "lat": 53.0098443,
+        "lon": 5.7700168,
+        "method": "PDOK BAG-adres",
+        "matched_address": "It Hôf 3, 8511AE Goingarijp"
+      }
     },
     {
       "id": "grand-cafe-de-watersport-heeg-20261101",
@@ -34411,7 +34543,13 @@
         "https://dewatersportheeg.nl/arrangementen/"
       ],
       "original_status": "Eigen 2026-website bevestigt publieke borrel en algemeen weekrooster; laatste toegang en uitzonderingen onbekend.",
-      "features": "Heeg / De Skatting; Grand Café met vrije borrel; hotel apart."
+      "features": "Heeg / De Skatting; Grand Café met vrije borrel; hotel apart.",
+      "geo": {
+        "lat": 52.9689749,
+        "lon": 5.6061336,
+        "method": "PDOK BAG-adres",
+        "matched_address": "De Skatting 44, 8621BW Heeg"
+      }
     },
     {
       "id": "belle-et-nonna-heeg-20261101",
@@ -34457,7 +34595,13 @@
         "https://www.belleetnonna.nl/"
       ],
       "original_status": "01-11-2026: eigen website bevestigt afzonderlijke borrelmogelijkheid in lounge, maar specifieke laatste toegang en toegangsbeperkingen zijn onbekend.",
-      "features": "Heeg; wijnlounge; toegang zonder maaltijd te verifiëren."
+      "features": "Heeg; wijnlounge; toegang zonder maaltijd te verifiëren.",
+      "geo": {
+        "lat": 52.9681308,
+        "lon": 5.605354,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Harinxmastrjitte 57, 8621BK Heeg"
+      }
     },
     {
       "id": "de-garaazje-sneek-20261101",
@@ -34507,7 +34651,13 @@
         "https://firmania.nl/sneek/de-garaazje-448232"
       ],
       "original_status": "Eigen website en actuele KvK-afgeleide bedrijfsregistratie bevestigen locatie en barfunctie; zelfstandige borrel-inloop en laatste toegang niet rechtstreeks bevestigd.",
-      "features": "Sneek uitgaanscentrum; pool/snooker/darts; bar; groepsuitjes kunnen uren wijzigen."
+      "features": "Sneek uitgaanscentrum; pool/snooker/darts; bar; groepsuitjes kunnen uren wijzigen.",
+      "geo": {
+        "lat": 53.0334226,
+        "lon": 5.6588547,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kruizebroederstraat 27, 8601CK Sneek"
+      }
     },
     {
       "id": "cafe-de-pub-sneek-20261101",
@@ -34552,7 +34702,13 @@
         "https://storage.pubble.nl/d0059c11/pdf/sneekismeermagazine20250612lr_19e686cb.pdf"
       ],
       "original_status": "01-11-2026: lokale gids en 2026-KvK-afgeleide registratie ondersteunen publieke café-exploitatie; eigen site, actuele uren en laatste toegang onbekend.",
-      "features": "Sneek Marktstraat 29a; apart van Rock Café Marktstraat 29; bier en terras."
+      "features": "Sneek Marktstraat 29a; apart van Rock Café Marktstraat 29; bier en terras.",
+      "geo": {
+        "lat": 53.0325493,
+        "lon": 5.6601722,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Marktstraat 29A, 8601CS Sneek"
+      }
     },
     {
       "id": "cafe-de-bakkersdochter-sneek-20261101",
@@ -34598,7 +34754,13 @@
         "https://justnoknock.nl/inhoud/optredens.htm"
       ],
       "original_status": "01-11-2026: lokale gids en 2025/26 toeristisch magazine bevestigen café/bier; bandagenda https://justnoknock.nl/inhoud/optredens.htm noemt daadwerkelijke optredens 26-04, 15-05 en 01-08-2026 én aangekondigd concert 20-12-2026 op dit café. Dit ondersteunt exploitatie in 2026, maar niet de exacte novemberweekuren of laatste toegang.",
-      "features": "Sneek Scharnestraat; bruin café; biljart en jamsessies; geen betrouwbare sluituren."
+      "features": "Sneek Scharnestraat; bruin café; biljart en jamsessies; geen betrouwbare sluituren.",
+      "geo": {
+        "lat": 53.0311108,
+        "lon": 5.6599284,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Scharnestraat 17, 8601BB Sneek"
+      }
     },
     {
       "id": "pannenkoekenboerderij-de-roos-terherne-20261101",
@@ -34647,7 +34809,13 @@
       ],
       "checked_on": "2026-11-01",
       "original_status": "Actieve exploitatie en opening op eigen website; alcoholaanbod via gidsen, vrije borrel zonder maaltijd nog niet bevestigd.",
-      "features": "Terherne, terras, bier/wijn volgens derden, keuken sluit 20:00 maar cafésluiting onbekend; geen exacte geocode"
+      "features": "Terherne, terras, bier/wijn volgens derden, keuken sluit 20:00 maar cafésluiting onbekend; geen exacte geocode",
+      "geo": {
+        "lat": 53.040392,
+        "lon": 5.7805083,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kameleonplein 1, 8493MC Terherne"
+      }
     },
     {
       "id": "eetcafe-t-far-terherne-20261101",
@@ -34695,7 +34863,13 @@
       ],
       "checked_on": "2026-11-01",
       "original_status": "Nieuwe exploitatieregistratie in 2026 en recensies na oude faillissement, maar huidige publieke novemberopening nog onbevestigd; verborgen kandidaat.",
-      "features": "Terherne, oude E59 failliet 2025, nieuwe exploitant KvK 2026; status en openingstijden eerst bevestigen"
+      "features": "Terherne, oude E59 failliet 2025, nieuwe exploitant KvK 2026; status en openingstijden eerst bevestigen",
+      "geo": {
+        "lat": 53.0410686,
+        "lon": 5.7803651,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Buorren 59, 8493LD Terherne"
+      }
     },
     {
       "id": "cafe-zevenwouden-terherne-20261101",
@@ -34744,7 +34918,13 @@
       ],
       "checked_on": "2026-11-01",
       "original_status": "Actuele KvK-registratie en VVV/dorpssite ondersteunen bestaande publieke caféfunctie; primaire weekuren en actuele exploitantwebsite ontbreken.",
-      "features": "Terherne; bruin café, biljart, terras; geen sluituur of geocode gegokt"
+      "features": "Terherne; bruin café, biljart, terras; geen sluituur of geocode gegokt",
+      "geo": {
+        "lat": 53.0396518,
+        "lon": 5.7836827,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Buorren 24, 8493LE Terherne"
+      }
     },
     {
       "id": "cafe-moeke-de-bruin-aldeboarn-20261101",
@@ -34791,7 +34971,13 @@
       ],
       "checked_on": "2026-11-01",
       "original_status": "Lokale dorpssite en gemeentelijke melding uit 2026 ondersteunen publieke kroeg; reguliere weekuren en exploitantwebsite ontbreken.",
-      "features": "Aldeboarn; bruin café; bier/wijn, terras en muziek; laatste toegang onbekend"
+      "features": "Aldeboarn; bruin café; bier/wijn, terras en muziek; laatste toegang onbekend",
+      "geo": {
+        "lat": 53.0476555,
+        "lon": 5.8930442,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Waechstege 4, 8495JD Aldeboarn"
+      }
     },
     {
       "id": "sportstad-cafe-heerenveen-20261101",
@@ -34840,7 +35026,13 @@
       ],
       "checked_on": "2026-11-01",
       "original_status": "Actueel exploitantbewijs en expliciete vrije drankinloop; wedstrijdzondagen en laatste toegang variabel/onbekend.",
-      "features": "Heerenveen; sportcafé met vrije borrel; SC Heerenveen wedstrijdzondagen afwijkend; exacte geocode ontbreekt"
+      "features": "Heerenveen; sportcafé met vrije borrel; SC Heerenveen wedstrijdzondagen afwijkend; exacte geocode ontbreekt",
+      "geo": {
+        "lat": 52.957518,
+        "lon": 5.9366972,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Abe Lenstra boulevard 25, 8448JA Heerenveen"
+      }
     },
     {
       "id": "bruin-cafe-jimbar-wommels-20261102",
@@ -34889,7 +35081,13 @@
       ],
       "checked_on": "2026-11-02",
       "original_status": "Dorpssite ondersteunt publieke borrelfunctie en KvK-afgeleide registratie adres; feitelijke openingsuren en recente eigen exploitantbevestiging ontbreken.",
-      "features": "Wommels; dorpscafé; Freule-kaatsen; onzekere reguliere uren"
+      "features": "Wommels; dorpscafé; Freule-kaatsen; onzekere reguliere uren",
+      "geo": {
+        "lat": 53.1092442,
+        "lon": 5.58793,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Terp 4, 8731AZ Wommels"
+      }
     },
     {
       "id": "restaurant-helder-boornzwaag-20261102",
@@ -34971,7 +35169,13 @@
           }
         }
       ],
-      "features": "Boornzwaag; haven; terras; feestdagen afwijkend; geen bewezen late drankuren"
+      "features": "Boornzwaag; haven; terras; feestdagen afwijkend; geen bewezen late drankuren",
+      "geo": {
+        "lat": 52.9607241,
+        "lon": 5.7442854,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wielenlaan 19, 8526GE Boornzwaag"
+      }
     },
     {
       "id": "it-holt-deinum-20261102",
@@ -35029,7 +35233,13 @@
         }
       ],
       "date_closures_checked_on": "2026-11-02",
-      "features": "Deinum; ticketfeesten; eetcafé; groepsafspraken; alcoholvrije inloop nog niet bewezen"
+      "features": "Deinum; ticketfeesten; eetcafé; groepsafspraken; alcoholvrije inloop nog niet bewezen",
+      "geo": {
+        "lat": 53.1899085,
+        "lon": 5.7352833,
+        "method": "PDOK BAG-adres",
+        "matched_address": "It Holt 6, 9033WH Deinum"
+      }
     }
   ],
   "admission_policies": [
