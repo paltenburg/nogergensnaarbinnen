@@ -30599,6 +30599,52 @@
         "https://restaurantkoffiepot.nl/"
       ],
       "original_status": "Eigen site bevestigt huidige openbare lounge-/borrelfunctie; tijden onbekend."
+    },
+    {
+      "id": "strandpaviljoen-kaap-hoorn-20261101",
+      "name": "Strandpaviljoen Kaap Hoorn",
+      "type": "Strandpaviljoen / wijn / borrel",
+      "address": "Badweg Hoorn 16",
+      "city": "Hoorn",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt losse wijn- of bierborrel zonder maaltijdplicht.",
+      "alcohol": "Eigen menukaart bevestigt wijnen en bier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
+      "closing_source": "https://kaaphoornterschelling.nl/openingstijden-2/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Exploitant ma gesloten, di–zo 10–18; VVV ma/di gesloten, wo–zo 10–18. Dinsdag onbekend gehouden.",
+      "closing_quality": "Exploitant en VVV wo–zo 18:00; laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://kaaphoornterschelling.nl/menu/ en https://kaaphoornterschelling.nl/wp-content/uploads/2025/06/menukaart-juni-2025-dubbelzijdig-def2.pdf bevestigen borrel en wijn. https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/ geeft dinsdag dicht, eigen site dinsdag open; dinsdag onbekend. Geen laatste toegang.",
+      "features": "Terschelling Hoorn; strandpaviljoen; wijn; bier",
+      "website": "https://kaaphoornterschelling.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/strandpaviljoen-kaap-hoorn/",
+        "https://kaaphoornterschelling.nl/menu/"
+      ],
+      "original_status": "Eigen menu en VVV bevestigen publieke borrel, dinsdagrooster conflicteert."
     }
   ],
   "admission_policies": [
