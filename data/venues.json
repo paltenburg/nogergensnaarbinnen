@@ -14146,7 +14146,7 @@
       "country": "Nederland",
       "access": "Eigen website beschrijft publiek eetcafé/chauffeurscafé, lounge en restaurant; vrije borrelinloop niet afzonderlijk bevestigd.",
       "alcohol": "Alcoholaanbod op eigen pagina niet rechtstreeks vastgesteld; horeca-categorie is onvoldoende als bewijs.",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -14158,7 +14158,7 @@
       },
       "closing_quality": "Onbekend: eigen website geeft uitsluitend keukenuren",
       "closing_source": "https://www.eetcafe55.nl/",
-      "closing_notes": "Keuken ma–wo 17:00–21:00, do 11:30–13:30 en 17:00–21:00, vr 11:30–13:30, za/zo keuken gesloten. Deze KEUKENuren zijn niet als opening/sluiting van café ingevoerd. Eigen site biedt zaak ter overname aan; huidige bedrijfsstatus niet onafhankelijk bevestigd. Laatste toegang onbekend.",
+      "closing_notes": "Keuken ma–wo 17:00–21:00, do 11:30–13:30 en 17:00–21:00, vr 11:30–13:30, za/zo keuken gesloten. Deze KEUKENuren zijn niet als opening/sluiting van café ingevoerd. Eigen site biedt zaak ter overname aan; huidige bedrijfsstatus niet onafhankelijk bevestigd. Laatste toegang onbekend. | 01-11-2026: https://www.eetcafe55.nl/ opnieuw gecontroleerd. De enige expliciete tijden zijn KEUKENuren (ma–wo 17–21, do 11:30–13:30 en 17–21, vr 11:30–13:30; weekend keuken dicht), niet café-/baruren. Site toont een overnameaanbieding voor het restaurant, zonder sluitingsdatum of overdrachtsbevestiging. Vrije borrelinloop, alcohol en huidige operationele status blijven onbevestigd. Daarom selectie van Voorlopig naar Nog te controleren: standaard verborgen; geen tijden overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.eetcafe55.nl/",
       "other_sources": [
@@ -14166,16 +14166,16 @@
         "https://www.eetcafe55.nl/",
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/"
       ],
-      "original_status": "Eigen site bereikbaar op 30-10-2026, noemt overnamemogelijkheid maar geen bevestigde sluiting of overdracht.",
+      "original_status": "01-11-2026: eigen website bereikbaar en toont restaurant/keukenuren plus overnameadvertentie. Geen sluiting bewezen, maar actuele vrije alcoholborrel en afzonderlijke baruren niet geverifieerd; standaard verborgen tot primaire bevestiging.",
       "geo": {
         "lat": 53.0681775,
         "lon": 5.5068896,
         "method": "PDOK BAG-adres",
         "matched_address": "De Marne 55, 8701PV Bolsward"
       },
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
       "website_provenance": "Eigen website rechtstreeks gecontroleerd 30-10-2026; bevestigt naam en De Marne/Bolsward. Vermelde tijden zijn uitsluitend KEUKENuren, niet café-sluiting.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "cafe-t-syl-joure-a95c827",
@@ -19305,8 +19305,8 @@
       "city": "Bolsward",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Exploitant bevestigt spontaan aanschuiven voor een borrel; ook ontbijt/lunch en diner.",
-      "alcohol": "Eigen site biedt High Wine, High Cocktail en borrelarrangementen.",
+      "access": "Eigen homepage 01-11-2026 bevestigt spontaan aanschuiven voor een borrel, zonder verplichte maaltijd of reservering; tevens ontbijt en lunch.",
+      "alcohol": "Eigen homepage 01-11-2026 biedt High Wine en High Cocktail; in de eigen weergegeven 2025-bezoekersrecensie worden Friese speciaalbieren genoemd. Geen volledige actuele drankkaart gecontroleerd.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "?",
@@ -19329,18 +19329,19 @@
       "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
       "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
       "closing_source": "https://blendbolsward.nl/",
-      "closing_notes": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen.",
+      "closing_notes": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen. | 01-11-2026: eigen homepage opnieuw geopend en actuele borrelfunctie bevestigd. https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/ geeft ma/di 10–17, wo gesloten, do–za 10–22, zo 10–21; https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html (bijgewerkt 26-08-2026) noemt juist wo open, vr 23 en za 18. Zonder bedrijfseigen rooster blijven alle begin-/einduren en laatste toegang onbekend.",
       "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
       "website": "https://blendbolsward.nl/",
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-01",
       "website_provenance": "Exploitantwebsite rechtstreeks gelezen op 30-10-2026; adres gecontroleerd via lokale gids.",
       "other_sources": [
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
         "https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/",
-        "https://blendbolsward.nl/"
+        "https://blendbolsward.nl/",
+        "https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "geo": {
         "lat": 53.0619765,
         "lon": 5.5232425,
