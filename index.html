@@ -452,6 +452,8 @@
   }
   function eligible(p){
     if(state.date&&NGNBDateClosures.isClosed(p,state.date))return false;
+    // Conflicting special timetables cannot prove public opening on this date.
+    if(state.date&&NGNBDateClosures.hasScheduleConflict(p,state.date))return false;
     if(p.requires_date_schedule&&!NGNBDateClosures.scheduleFor(p,state.date))return false;
     if(p.selection==='Nee'||(!state.uncertain&&p.selection==='Nog te controleren'))return false;
     // Closed weekdays must not appear even when no arrival time is selected.
