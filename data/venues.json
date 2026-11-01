@@ -35363,7 +35363,16 @@
         "https://www.openingstijden.nl/Caf-Cafetaria-Zaal-Yn-E-Stl/Dronryp/It-Heech-1/"
       ],
       "original_status": "Identiteit, adres en cafébedrijfscategorie ondersteund; actuele vrije alcoholinloop, website en weekrooster nog niet door exploitant bevestigd.",
-      "features": "D0 Waadhoeke / Dronryp; onzekere publieke toegang; niet tonen tot verificatie"
+      "features": "D0 Waadhoeke / Dronryp; onzekere publieke toegang; niet tonen tot verificatie",
+      "geo": {
+        "lat": 53.1913054,
+        "lon": 5.6423526,
+        "method": "PDOK BAG-adres",
+        "matched_address": "It Heech 1, 9035AD Dronryp"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch uit geslaagde GitHub Actions/Pages-run 41363324874 (716-record artefact, geocode-report added_in_this_run=1) op It Heech 1, 9035AD Dronryp. Geometrie is adres/BAG, niet afzonderlijk fysiek gecontroleerde café-ingang."
     },
     {
       "id": "het-grauwe-paard-marsum-20261102",
