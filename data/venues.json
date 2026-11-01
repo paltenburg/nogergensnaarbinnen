@@ -34789,6 +34789,55 @@
       "checked_on": "2026-11-01",
       "original_status": "Lokale dorpssite en gemeentelijke melding uit 2026 ondersteunen publieke kroeg; reguliere weekuren en exploitantwebsite ontbreken.",
       "features": "Aldeboarn; bruin café; bier/wijn, terras en muziek; laatste toegang onbekend"
+    },
+    {
+      "id": "sportstad-cafe-heerenveen-20261101",
+      "name": "Sportstad Café",
+      "type": "Sportcafé / restaurant",
+      "address": "Abe Lenstra Boulevard 25",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant Beijk Catering meldt expliciet dat men ook zonder reservering of maaltijd gewoon voor een drankje mag binnenlopen. Bij thuiswedstrijden van SC Heerenveen kunnen andere openingstijden gelden.",
+      "alcohol": "Exploitant bevestigt borrel en drankjes; recente 2026-post vermeldt bubbels, derdepartijbronnen bier en cocktails. Geen afzonderlijke eigen alcoholkaart geverifieerd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "—"
+      },
+      "opening_quality": "Exploitant Beijk Catering publiceert ma–za 10:00–00:00; zondag normaal gesloten behalve thuiswedstrijden SC Heerenveen. Geen vaste zondagse wedstrijduren aangenomen.",
+      "closing_quality": "Exploitant Beijk Catering ma–za tot 00:00, zondag normaal gesloten met evenementuitzondering; exacte laatste toegang onbekend. Overige gidsen noemen afwijkende einduren; exploitant gevolgd.",
+      "opening_source": "https://beijkcatering.nl/sportstad-cafe/",
+      "closing_source": "https://beijkcatering.nl/sportstad-cafe/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: exploitant Beijk Catering bevestigt vrij toegankelijke borrel en ma–za 10:00–00:00, zo gesloten behalve SC Heerenveen-thuiswedstrijden. 2026 socialmediaberichten (o.a. 28-09, 09-10) ondersteunen actuele exploitatie. Sportbreak Café op verdieping is andere, vooral sportcentrumgebonden voorziening; niet als tweede vrij café toegevoegd. Bij wedstrijden en besloten activiteiten kunnen tijden wijzigen. Laatste toegang onbekend; geen geocode gegokt.",
+      "website": "https://sportstadcafe.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen caféwebsite https://sportstadcafe.nl/ en contactpagina bevestigd; exploitant Beijk Catering https://beijkcatering.nl/sportstad-cafe/ geeft borreltoegang en actuele weekuren.",
+      "other_sources": [
+        "https://beijkcatering.nl/sportstad-cafe/",
+        "https://sportstadcafe.nl/contact/",
+        "https://www.findglocal.com/NL/Heerenveen/872124989492804/Sportstad-Caf%C3%A9",
+        "https://bestrestos.nl/restaurant/sportstad-cafe-heerenveen-3523"
+      ],
+      "checked_on": "2026-11-01",
+      "original_status": "Actueel exploitantbewijs en expliciete vrije drankinloop; wedstrijdzondagen en laatste toegang variabel/onbekend.",
+      "features": "Heerenveen; sportcafé met vrije borrel; SC Heerenveen wedstrijdzondagen afwijkend; exacte geocode ontbreekt"
     }
   ],
   "admission_policies": [
