@@ -26,6 +26,14 @@ De **masterdatabase** is [`data/venues.json`](data/venues.json). Het project beg
 
 Sluitingstijd onder openingsdag: **vrijdag 02:00 betekent zaterdagochtend 02:00**. Speciale waarden: `?` onbekend, `—` gesloten volgens bron, `Event` eventafhankelijk, `Varieert` geen vaste tijd. Onzekere locaties zijn gemarkeerd. De applicatie sluit expliciet besloten locaties standaard uit.
 
+## Datumgebonden sluitingen en seizoensroosters
+
+De normale dag-/tijdkeuze blijft een **weekdagfilter**. Onder **Meer filters → Datum** kun je optioneel een exacte kalenderdatum kiezen. Een datum synchroniseert de weekdag en wordt in de deeplink bewaard als `datum=JJJJ-MM-DD`. De knop **Nu** gebruikt de Nederlandse lokale datum; tussen 00:00 en 06:00 blijft de vorige uitgaansavond geselecteerd. Handmatig een andere weekdag kiezen wist de exacte datum.
+
+Met een datum kan de site gedocumenteerde `date_closures` (inclusieve tijdelijke sluitingen) uitsluiten en voor `requires_date_schedule`-locaties uitsluitend binnen een bevestigde `date_schedules`-periode het juiste weekrooster gebruiken. Zonder exacte datum worden zulke seizoenslocaties veilig verborgen. Eenmalige sluitingen kunnen **zonder datum niet automatisch worden toegepast**. De applicatie neemt geen niet-geverifieerde feestdaguren, laatste toegang of heropeningen aan; uitzonderingen kunnen na broncontrole veranderen. De beschikbare datumlogica is nog geen volledig evenement-/reserveringsrooster.
+
+De JSON-master behoudt ook aliasrecords met `duplicate_of` om oude IDs bruikbaar te houden. Die aliases staan op `selection: Nee` en verschijnen niet als tweede locatie. Kwaliteitsrapporten onderscheiden daarom masterrecords van fysiek onderscheiden locaties.
+
 ## Uiterste toegang en sluitingstijd
 
 De database onderscheidt nu expliciet **uiterste toegang** (`last_entry`) van **sluiting** (`closing`). Beide zijn weekroosters. De applicatie toont **Binnen tot 22:00 · sluit 00:00** alleen als beide tijden bekend zijn én de uiterste toegang eerder valt. Wanneer een eindtijd of toegangstijd gebruikelijk is in plaats van gegarandeerd, verschijnt **≈**.
