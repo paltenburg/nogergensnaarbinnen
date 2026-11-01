@@ -1,6 +1,13 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
 
+### Publicatie-eindcontrole 02-11-2026 ca. 00:36 CET — 715 master / 651 exacte markers
+
+De eerder nog lopende **[Levels-geocodeblokkade CI/Pages 41362719449](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362719449)** is inmiddels **completed/success**, net als **[PDOK-broncommit 41362614179](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362614179)** en **[35-geocodes-commit 41362578184](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41362578184)**. **Laatste Pages-artefact daadwerkelijk gedownload en ZIP/TAR inhoud gecontroleerd**: afgeleide `data/venues.json` 715 records/651 geo; `data/geocode-report.json` **715 totaal, 651 met coördinaten, 64 zonder, `added_in_this_run=0`** (alle 35 eerder gegenereerde PDOK-matches zijn dus nu in de master opgenomen); `data/source-register.json` **715 venues, 2158 bron-URL-vermeldingen, 796 domeinen, 534 directe websitevelden**. Afgeleid `data/quality-report.json`: Friesland 491 records, 448 met geo, 89 `Nog te controleren`, 288 zonder exact gewoon sluituur; Utrecht 224, 203 met geo, 15 `Nog te controleren`, 80 zonder exact gewoon sluituur. **Geen nieuwe regio's in de actuele master**. Het Pages-artefact en Actions zijn geslaagd, maar **de live HTTP-versie en fysieke mobiele pan/zoom/Nu-bediening zijn niet daadwerkelijk getest**. **W45 niet uitgevoerd/afgevinkt vóór maandag 10:00 CET.**
+
+**Hervatpunt na deze bevestiging:** eerst overige 62 niet-aliassen zonder exacte marker, waaronder Levels 22-versus-24, Bar Sybs/Doelebar 2-versus-2A en Duhoux 4–8, verder D0 Friesland en W45 na 10:00 voor beide regio's. Alleen na D0 de landelijke uitbreiding starten.
+
+
 ### Aanvullend checkpoint 02-11-2026 ca. 00:34–00:35 CET — Levels-adresconflict en echte testuitvoering
 
 **[23c6de3](https://github.com/paltenburg/nogergensnaarbinnen/commit/23c6de331d08d58072d212face78d2e036020374)** — bestaand **Grand Café Levels**, Harlingen (`grand-cafe-levels-harlingen-fe09531`): officiële https://www.levels-harlingen.nl/ en https://www.harlingenwelkomaanzee.nl/nl/locaties/3864248882/grand-cafe-levels melden **Grote Bredeplaats 24**, terwijl KvK-afgeleide https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606 **bezoekadres 22** meldt. PDOK-geocoder gaf **geen exacte match voor 24**. `geocode_blocked:true`, `geocode_notes`, bron-URL's en `geocode_checked_on:2026-11-02` vastgelegd; **geen coördinaten voor 22 gegokt**, geen naam/uren aangepast. Dit is een **open BAG-/publieksingangconflict**, geen opgelost geocodeprobleem.
