@@ -35364,6 +35364,57 @@
       ],
       "original_status": "Identiteit, adres en cafébedrijfscategorie ondersteund; actuele vrije alcoholinloop, website en weekrooster nog niet door exploitant bevestigd.",
       "features": "D0 Waadhoeke / Dronryp; onzekere publieke toegang; niet tonen tot verificatie"
+    },
+    {
+      "id": "het-grauwe-paard-marsum-20261102",
+      "name": "Café Het Grauwe Paard",
+      "type": "Dorpscafé / cafetaria / catering",
+      "address": "Bitgumerdyk 2",
+      "city": "Marsum",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen caféwebsite en regionale VVV bevestigen openbare dorpskroeg met biljart, drankjes en incidentele live muziek; cateringopdrachten kunnen normale caféopenstelling beïnvloeden.",
+      "alcohol": "Eigen site beschrijft historische en huidige bier-/tapfunctie, café en slijterij; geen afzonderlijke actuele drankenkaart of laatste toegang geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://hetgrauwepaard.nl/cafe/",
+      "closing_source": "https://hetgrauwepaard.nl/cafe/",
+      "opening_quality": "Bedrijfseigen pagina's verschillen: cafépagina noemt di 17–24, do 19–23, vr/za 16–23, zo 16–22; homepage noemt di–zo vanaf 17 en zomerafwijkingen. Geen uniform jaarrond weekrooster.",
+      "closing_quality": "Bedrijfseigen cafépagina noemt concrete einduren maar exploitant waarschuwt voor wisselende uren door catering; zomerafwijkingen en interne tegenstrijdige beginuren maken een exact jaarrond rooster onbetrouwbaar.",
+      "closing_notes": "02-11-2026: officiële https://hetgrauwepaard.nl/cafe/ vermeldt café di 17–24, do 19–23, vr/za 16–23, zo 16–22, en afzonderlijke algemene tekst 'di t/m zo vanaf 17'. Officiële https://hetgrauwepaard.nl/ zegt di–zo vanaf 17, maar in juni–september di/wo/do gesloten; de cafépagina zegt in die maanden wo/do gesloten (verschil over dinsdag). Catering is hoofdactiviteit en eigen site waarschuwt dat caféuren vaak wijzigen. Daarom geen schijnzeker jaarrond rooster in opening/closing; alle dagen voorlopig onbekend. Cafetaria-uren op https://hetgrauwepaard.nl/cafetaria/ zijn geen café-uren. Laatste toegang onbekend. Jaarlijkse septemberkermis: café gesloten, precieze datumuitzondering voor 2027 nog niet bevestigd.",
+      "website": "https://hetgrauwepaard.nl/",
+      "website_checked_on": "2026-11-02",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://hetgrauwepaard.nl/",
+        "https://hetgrauwepaard.nl/cafe/",
+        "https://hetgrauwepaard.nl/cafetaria/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2535678832/cafe-het-grauwe-paard",
+        "https://marssum.info/locaties/cafe-het-grauwe-paard/"
+      ],
+      "original_status": "Eigen exploitantwebsite en regionale VVV ondersteunen actuele publieke caféfunctie; exact jaarrond rooster ontbreekt door seizoens- en cateringafwijkingen.",
+      "features": "D0 Waadhoeke / Marsum; zomerafwijkingen; catering kan caféopening wijzigen",
+      "requires_date_schedule": true,
+      "date_schedule_notes": "Juni–september afwijkend rooster, eigen pagina's verschillen over dinsdag; zonder jaarlijks/seizoensrooster geen vaste weekuren invullen. Septemberkermis sluit café, toekomstige exacte data niet aangenomen."
     }
   ],
   "admission_policies": [
