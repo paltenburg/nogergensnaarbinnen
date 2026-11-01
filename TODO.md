@@ -10,6 +10,8 @@
 
 **CI:** [workflow 41343602086](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343602086) voor **702 records completed/success** inclusief datumregressie en Pages. [workflow 41343660188](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343660188) voor Noflik BAG-blokkade was in_progress; [workflow 41343751791](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343751791) voor 704 records **pending**. Geen geslaagde nieuwste 704-live-publicatie of echte mobiele touchtest geclaimd.
 
+**Latere CI-status op 01-11-2026:** [41343660188](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343660188) voor Noflik BAG-blokkade **completed/success**; [41343751791](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343751791) voor 704 masterrecords **in_progress**, geen actuele 704-Pages-deploy bewezen. Alle zeven nieuwe records en vijf datumsluitingen zijn in master gecommit; nieuwe datumregressie is geslaagd in [41343498844](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41343498844).
+
 **Hervatten:** 704-commit teruglezen, test-/Pages-run controleren; Heeg Belle et Nonna losse publieke drankinloop en Watersport conflicterende oude maandag/dinsdag-informatie zo nodig navragen, nieuwe BAG-adressen verifiëren; dan andere Friese D0-gaten en W45-audit vanaf maandag 02-11 10:00, alle actuele regio's. Geen landelijke D1/D2 zolang Friesland D0 open.
 
 
