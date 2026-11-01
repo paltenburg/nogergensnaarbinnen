@@ -19741,7 +19741,7 @@
         "https://www.beachclubnoderstraun.com/cocktails",
         "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/1391310235/restaurant-noderstraun"
       ],
-      "opening_quality": "Eigen rooster per maand: oktober dagelijks vanaf 10:30, november/december vr–ma vanaf 10:30, kerstvakantie alle dagen; geen seizoensfilter in UI, daarom geen vast weekrooster.",
+      "opening_quality": "Exploitant bevestigt nov/dec vr–ma vanaf 10:30, behalve kerstvakantie; uitsluitend gedateerd rooster 01-11 t/m 18-12.",
       "closing_notes": "Eigen contactpagina geeft okt 2026 ma 19, di/wo 17, do 19, vr–zo 20 maar verklaart dat keukensluiting niet betekent dat bezoekers moeten vertrekken; november/december alleen vr–ma vanaf 10:30, kerstvakantie andere dagen. Geen vaste cafésluiting of laatste toegang; seizoensuren niet als jaarrooster opgeslagen.",
       "city": "Schiermonnikoog",
       "region": "friesland",
@@ -19771,15 +19771,44 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_source": "https://www.beachclubnoderstraun.com/",
-      "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "opening_source": "https://www.beachclubnoderstraun.com/contact",
+      "opening_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
       "geo": {
         "lat": 53.4903636,
         "lon": 6.1499061,
         "method": "PDOK BAG-adres",
         "matched_address": "Badweg 32, 9166NK Schiermonnikoog"
-      }
+      },
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-12-18",
+          "source": "https://www.beachclubnoderstraun.com/contact",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "10:30",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "10:30",
+            "za": "10:30",
+            "zo": "10:30"
+          },
+          "closing": {
+            "ma": "?",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-01",
+      "date_schedule_notes": "01-11-2026: exploitant noemt november/december vr t/m ma vanaf 10:30. Keuken tot 19:00 is geen café-sluiting, daarom alle sluituren onbekend. Kerstvakantie vanaf 19 december andere dagen: niet in dit rooster opgenomen. Zonder exact einduur niet in tijdgefilterde resultaten."
     },
     {
       "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
@@ -29676,7 +29705,7 @@
       "country": "Nederland",
       "access": "Eigen website adverteert publieksfeesten met dj's; geen uitsluitend besloten club. Aangrenzend Café De Brouwerij in hetzelfde pand.",
       "alcohol": "Eigen café-/discopagina bevestigt alcoholische drank (bier/Nobeltje) in hetzelfde uitgaanscomplex; afzonderlijke discobarassortiment niet gespecificeerd.",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -29701,8 +29730,8 @@
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
       "checked_on": "2026-11-01",
-      "opening_quality": "Eigen pagina vermeldt winter vr/za 22:00–04:00, maar elders dagelijks open in hoogseizoen en vakanties; datum-/seizoensselectie ontbreekt, daarom weekrooster niet als algemeen geldig ingevoerd.",
-      "closing_quality": "Eigen winterrooster vr/za tot 04:00; overige dagen en seizoensafwijkingen niet uniform. Laatste toegang onbekend.",
+      "opening_quality": "Eigen actuele contactpagina bevestigt winter vr/za 22:00–04:00; uitsluitend via gedateerd novemberrooster, niet als generiek jaarrooster.",
+      "closing_quality": "Eigen contactpagina bevestigt winter vr/za 04:00; laatste toegang onbekend.",
       "closing_notes": "01-11-2026: https://www.delichtboei-ameland.nl/disco bevestigt publieke disco en winter vr/za 22–04, maar tekst noemt dagelijks tijdens hoogseizoen en schoolvakanties; de footer specificeert die afwijkende dagen niet. Veilig verborgen totdat seizoens-/datumfilter en daadwerkelijk geldende avonden verifieerbaar zijn. Bewust zelfde adres als Café De Brouwerij; verschillende functies/roosters, geen nieuwe geocode gegokt.",
       "features": "Nes Ameland; disco; winter vrijdag en zaterdag 22–04; seizoensafhankelijk",
       "website": "https://www.delichtboei-ameland.nl/disco",
@@ -29711,7 +29740,36 @@
         "https://www.delichtboei-ameland.nl/cafe",
         "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/bars-ameland/bars-en-cafes-in-nes/discotheek-de-lichtboei"
       ],
-      "original_status": "Actuele eigen site bevestigt disco, maar seizoens- en vakantie-uitzonderingen verhinderen betrouwbaar generiek weekrooster."
+      "original_status": "Actuele eigen site bevestigt disco, maar seizoens- en vakantie-uitzonderingen verhinderen betrouwbaar generiek weekrooster.",
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-30",
+          "source": "https://www.delichtboei-ameland.nl/contact",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "—"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "04:00",
+            "za": "04:00",
+            "zo": "—"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-01",
+      "date_schedule_notes": "01-11-2026: officiële contact- en discopagina bevestigen in de winter vrijdag/zaterdag 22:00–04:00. Voor november 2026 alleen deze reguliere avonden ingevoerd; speciale evenementen kunnen afwijken, laatste toegang onbekend. Buiten november geen verifieerbaar datumbereik ingevoerd."
     },
     {
       "id": "de-griffel-hollum-20261101",
@@ -31171,7 +31229,7 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "access": "Eigen site: naar hartenlust borrelen op terras of bij haard, dinerreservering apart.",
       "alcohol": "Eigen site bevestigt wijnkaart en wijn per glas.",
       "opening": {
@@ -31198,8 +31256,8 @@
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
       "checked_on": "2026-11-01",
-      "opening_quality": "Eigen site do–ma vanaf 12:00, di/wo dicht; VVV wintergids meldt concrete 02–12 nov 2026 sluiting. Generiek rooster veilig onbekend tot datumfilter.",
-      "closing_quality": "VVV noemt 22:30, exploitant alleen begintijd. Geen exacte sluiting en laatste toegang bewezen; 02–12 november gesloten volgens VVV.",
+      "opening_quality": "Eigen exploitant do–ma vanaf 12:00, uitsluitend als novemberrooster en buiten gedocumenteerde sluiting.",
+      "closing_quality": "Eigen exploitant noemt geen exacte einduren; VVV 22:30 niet overgenomen.",
       "closing_notes": "01-11-2026: https://www.la-boya.nl/ bevestigt Willem Barentszkade 39, losse wijnborrel en do–ma vanaf 12. https://www.vvvterschelling.nl/uit-eten-in-de-winter/ meldt uitzonderingssluiting 02–12 november 2026. Daarom verborgen totdat datumafhankelijke opening/gesloten-status correct kan worden weergegeven. https://www.vvvterschelling.nl/firmen/restaurant-la-boya/ geeft 22:30 maar niet door exploitant bevestigd. Geen geocode of laatste toegang gegokt.",
       "features": "Terschelling West; haven; novembervakantie",
       "website": "https://www.la-boya.nl/",
@@ -31217,7 +31275,36 @@
           "certainty": "VVV meldt tijdelijke sluiting; exploitant nog herbevestigen"
         }
       ],
-      "date_closures_checked_on": "2026-11-01"
+      "date_closures_checked_on": "2026-11-01",
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2026-11-30",
+          "source": "https://www.la-boya.nl/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "12:00",
+            "di": "—",
+            "wo": "—",
+            "do": "12:00",
+            "vr": "12:00",
+            "za": "12:00",
+            "zo": "12:00"
+          },
+          "closing": {
+            "ma": "?",
+            "di": "—",
+            "wo": "—",
+            "do": "?",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-01",
+      "date_schedule_notes": "01-11-2026: exploitant bevestigt do–ma vanaf 12:00 en vrije borrel; sluituren onbekend. VVV meldt gesloten 02–12 november; date_closures sluit die dagen uit. Novemberrooster eindigt 30-11, geen decemberuren of laatste toegang gegokt. Zonder exact einduur niet opnemen in tijdgefilterde resultaten."
     },
     {
       "id": "restaurant-op-west-west-terschelling-20261101",
@@ -31318,7 +31405,7 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "access": "Eigen site nodigt gasten uit voor borrel en hapje op terras, zonder maaltijdplicht.",
       "alcohol": "Eigen site bevestigt bier en wijn.",
       "opening": {
@@ -31345,8 +31432,8 @@
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
       "checked_on": "2026-11-01",
-      "opening_quality": "Eigen contactpagina dagelijks 10:30–22; homepage noemt vanaf 11:00, beginuren intern tegenstrijdig. VVV wintergids meldt sluiting 10 jan–15 feb 2027.",
-      "closing_quality": "Eigen contactpagina dagelijks tot 22:00, maar expliciete wintersluiting 10 jan–15 feb 2027 maakt generiek weekrooster onveilig zonder datumfilter.",
+      "opening_quality": "Exploitant dagelijks open, 10:30 op contact vs 11:00 homepage: uitsluitend gemeenschappelijk gegarandeerde 11:00 als gedateerde start.",
+      "closing_quality": "Eigen contactpagina dagelijks tot 22:00; datumfilter beperkt tot vóór bekende wintersluiting.",
       "closing_notes": "01-11-2026: https://www.brasserie-brandaris.nl/contact/ bevestigt Boomstraat 3, dagelijks 10:30–22; https://www.brasserie-brandaris.nl/ noemt elders vanaf 11, dus beginconflict. https://www.vvvterschelling.nl/uit-eten-in-de-winter/ meldt gesloten 10 januari t/m 15 februari 2027. Verborgen tot datum-/seizoensfilter; generieke uren onbekend, laatste toegang onbekend. Geen coördinaten gegokt.",
       "features": "Terschelling West; januari/februari wintersluiting",
       "website": "https://www.brasserie-brandaris.nl/",
@@ -31364,7 +31451,36 @@
           "certainty": "VVV meldt tijdelijke sluiting; exploitant nog herbevestigen"
         }
       ],
-      "date_closures_checked_on": "2026-11-01"
+      "date_closures_checked_on": "2026-11-01",
+      "requires_date_schedule": true,
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2027-01-09",
+          "source": "https://www.brasserie-brandaris.nl/contact/",
+          "checked_on": "2026-11-01",
+          "opening": {
+            "ma": "11:00",
+            "di": "11:00",
+            "wo": "11:00",
+            "do": "11:00",
+            "vr": "11:00",
+            "za": "11:00",
+            "zo": "11:00"
+          },
+          "closing": {
+            "ma": "22:00",
+            "di": "22:00",
+            "wo": "22:00",
+            "do": "22:00",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "22:00"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-01",
+      "date_schedule_notes": "01-11-2026: exploitant contactpagina dagelijks 10:30–22:00, homepage zegt 11:00–22:00; veilige gemeenschappelijke start 11:00 gebruikt. VVV meldt sluiting 10-01 t/m 15-02-2027. Gedateerd rooster eindigt daarom 09-01; heropening na 15-02 niet bevestigd. Laatste toegang onbekend."
     },
     {
       "id": "hotel-cafe-restaurant-duinzicht-schiermonnikoog-20261101",
