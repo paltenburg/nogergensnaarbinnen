@@ -34336,6 +34336,101 @@
       ],
       "original_status": "Actieve seizoensexploitatie op eigen site, exacte winteropenstelling onbekend; veilig verborgen totdat geldige datums bevestigd zijn.",
       "features": "Goingarijp; seizoensgebonden; borrel aan het water; datumcontrole vereist."
+    },
+    {
+      "id": "grand-cafe-de-watersport-heeg-20261101",
+      "name": "Grand Café De Watersport",
+      "type": "Grand café / hotelrestaurant / borrel",
+      "address": "De Skatting 44",
+      "city": "Heeg",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen homepage nodigt expliciet uit om in de middag zonder maaltijd te borrelen met vrienden/familie in het Grand Café; restaurantreserveringen en hotelkamers zijn afzonderlijke diensten.",
+      "alcohol": "Eigen site noemt Grand Café met borrel, en seizoensmenukaart met wijn; afzonderlijke actuele drankenkaart niet volledig geverifieerd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "21:30"
+      },
+      "opening_quality": "Eigen actuele homepage en /lekker-eten/ vermelden ma/di gesloten, wo–za 09–23 en zo 09–21:30. Oudere subpagina's noemen ma/di soms open, maar hoofdpagina en restaurantpagina gevolgd.",
+      "closing_quality": "Exploitantvermelde algemene openings-/sluituren voor Grand Café/hotelrestaurant, niet keukenuren (lunch 12–15:30, diner 17–20:30). Laatste toegang onbekend.",
+      "opening_source": "https://dewatersportheeg.nl/",
+      "closing_source": "https://dewatersportheeg.nl/lekker-eten/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://dewatersportheeg.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen homepage bevestigt naam, adres De Skatting 44, publieke borrel, Grand Café en weekrooster.",
+      "closing_notes": "01-11-2026: eigen homepage en restaurantpagina tonen ma/di dicht, wo–za 09–23, zo 09–21:30. Sommige oudere hotel-/vacaturepagina's tonen ma/di wel 09–23; daarom hoofdpagina en restaurantpagina leidend. Geen laatste toegang. Hotelgastenontbijt 07:30 en keukenuren zijn geen caféopening.",
+      "other_sources": [
+        "https://dewatersportheeg.nl/",
+        "https://dewatersportheeg.nl/lekker-eten/",
+        "https://dewatersportheeg.nl/contact/",
+        "https://dewatersportheeg.nl/arrangementen/"
+      ],
+      "original_status": "Eigen 2026-website bevestigt publieke borrel en algemeen weekrooster; laatste toegang en uitzonderingen onbekend.",
+      "features": "Heeg / De Skatting; Grand Café met vrije borrel; hotel apart."
+    },
+    {
+      "id": "belle-et-nonna-heeg-20261101",
+      "name": "Belle et Nonna",
+      "type": "Italiaans restaurant / wijnlounge",
+      "address": "Harinxmastrjitte 57",
+      "city": "Heeg",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site beschrijft een diner dat kan uitlopen in een lange borrel in de lounge; **vrije inloop uitsluitend voor drank zonder diner niet afzonderlijk bevestigd**. Daarom nog te controleren/standaard verborgen.",
+      "alcohol": "Eigen website noemt goede wijn en een concrete Chardonnay-bezoekersreactie, loungeborrel na diner.",
+      "opening": {
+        "ma": "16:30",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "21:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen homepage geeft algemene restaurant-/lounge-uren ma 16:30–21:00, di–zo 11:00–00:00; niet specifiek voor uitsluitend drankbezoekers.",
+      "closing_quality": "Eigen algemene sluituren van restaurant/loungemogelijkheid; geen bewijs van afzonderlijke late publieke barinloop of laatste toegang.",
+      "opening_source": "https://www.belleetnonna.nl/",
+      "closing_source": "https://www.belleetnonna.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://www.belleetnonna.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen site bevestigt naam, Harinxmastrjitte 57, wijnlounge, algemene uren en contact.",
+      "closing_notes": "01-11-2026: officiële site spreekt van diner dat kan uitlopen in borrel in de lounge; losse publieke drankinloop nog niet bevestigd. Ondanks gepubliceerde restauranturen standaard verborgen ('Nog te controleren'); geen laatste toegang bekend.",
+      "other_sources": [
+        "https://www.belleetnonna.nl/"
+      ],
+      "original_status": "Eigen site actief, wijnlounge bevestigd, maar zelfstandige openbare alcoholborrel zonder diner niet bewezen; niet standaard tonen.",
+      "features": "Heeg; wijnlounge; toegang zonder maaltijd te verifiëren."
     }
   ],
   "admission_policies": [
