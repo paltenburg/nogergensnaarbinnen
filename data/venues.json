@@ -31105,6 +31105,143 @@
         "https://www.vvvterschelling.nl/firmen/restaurant-la-boya/"
       ],
       "original_status": "Eigen site actief en VVV wintergids bevat sluitingsuitzondering."
+    },
+    {
+      "id": "restaurant-op-west-west-terschelling-20261101",
+      "name": "Restaurant Op West",
+      "type": "Hotelrestaurant / publieke terrasborrel",
+      "address": "Burgemeester van Heusdenweg 37",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant WestCord: ook voor lunch of een drankje op terras of in serre welkom; niet alleen hotelgasten.",
+      "alcohol": "Exploitant noemt wijnkaart en wijn-spijsaanbod; losse drank mogelijk.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://westcordhotels.nl/restaurants/restaurant-op-west/",
+      "closing_source": "https://westcordhotels.nl/restaurants/restaurant-op-west/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Exploitant noemt lunch 12–16 en diner 17:30–23; dit zijn afzonderlijke restaurantservices, geen bewezen aaneengesloten baropening.",
+      "closing_quality": "23:00 is eindtijd dinerrestaurant, niet afzonderlijk bewezen cafésluiting. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: https://westcordhotels.nl/restaurants/restaurant-op-west/ bevestigt publieke borrelmogelijkheid, wijn, adres Burg. v. Heusdenweg 37, lunch 12–16 en diner 17:30–23 (keuken tot 21). Geen expliciete barweekuren of laatste toegang, dus alle dagvelden onbekend. https://www.vvvterschelling.nl/uit-eten-in-de-winter/ noemt dagelijks open, maar geen exacte drankuren. Geen coördinaten gegokt.",
+      "features": "Terschelling West; Hotel Schylge; terras",
+      "website": "https://westcordhotels.nl/restaurants/restaurant-op-west/",
+      "other_sources": [
+        "https://westcordhotels.nl/informatiepagina-hotel-schylge/",
+        "https://www.vvvterschelling.nl/uit-eten-in-de-winter/"
+      ],
+      "original_status": "WestCord eigen 2026-hotel- en restaurantpagina actief."
+    },
+    {
+      "id": "brasserie-boschrijck-west-terschelling-20261101",
+      "name": "Brasserie Boschrijck",
+      "type": "Brasserie / terrasborrel",
+      "address": "Sportlaan 5",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "WestCord biedt expliciet borrel met speciaalbier en wijn, ook buiten diner.",
+      "alcohol": "Exploitant bevestigt speciaalbier en wijn.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://westcordhotels.nl/restaurants/brasserie-boschrijck/",
+      "closing_source": "https://westcordhotels.nl/restaurants/brasserie-boschrijck/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen site zegt buiten seizoen niet dagelijks voor diner open; geen betrouwbaar actueel borrelweekrooster.",
+      "closing_quality": "Geen afzonderlijke sluituren/laatste toegang gepubliceerd; verborgen totdat winteruren bekend.",
+      "closing_notes": "01-11-2026: https://westcordhotels.nl/restaurants/brasserie-boschrijck/ bevestigt Sportlaan 5, losse wijn-/speciaalbierborrel en 26-10 t/m 01-11 spellenweek; exploitant waarschuwt dat diner buiten seizoen niet dagelijks open is. VVV https://www.vvvterschelling.nl/uit-eten-in-de-winter/ noemt dagelijks lunch/diner maar dit botst met exploitant. Geen vaste november-/winteruren, verborgen, geen laatste toegang of geo verzonnen.",
+      "features": "Terschelling West; seizoensafhankelijk",
+      "website": "https://westcordhotels.nl/restaurants/brasserie-boschrijck/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/uit-eten-in-de-winter/"
+      ],
+      "original_status": "Actuele exploitantpagina met 2026-evenement, maar winteruren onbekend."
+    },
+    {
+      "id": "brasserie-brandaris-west-terschelling-20261101",
+      "name": "Brasserie Brandaris",
+      "type": "Brasserie / publieke bier- en wijnborrel",
+      "address": "Boomstraat 3",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site nodigt gasten uit voor borrel en hapje op terras, zonder maaltijdplicht.",
+      "alcohol": "Eigen site bevestigt bier en wijn.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.brasserie-brandaris.nl/contact/",
+      "closing_source": "https://www.brasserie-brandaris.nl/contact/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen contactpagina dagelijks 10:30–22; homepage noemt vanaf 11:00, beginuren intern tegenstrijdig. VVV wintergids meldt sluiting 10 jan–15 feb 2027.",
+      "closing_quality": "Eigen contactpagina dagelijks tot 22:00, maar expliciete wintersluiting 10 jan–15 feb 2027 maakt generiek weekrooster onveilig zonder datumfilter.",
+      "closing_notes": "01-11-2026: https://www.brasserie-brandaris.nl/contact/ bevestigt Boomstraat 3, dagelijks 10:30–22; https://www.brasserie-brandaris.nl/ noemt elders vanaf 11, dus beginconflict. https://www.vvvterschelling.nl/uit-eten-in-de-winter/ meldt gesloten 10 januari t/m 15 februari 2027. Verborgen tot datum-/seizoensfilter; generieke uren onbekend, laatste toegang onbekend. Geen coördinaten gegokt.",
+      "features": "Terschelling West; januari/februari wintersluiting",
+      "website": "https://www.brasserie-brandaris.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/brasserie-brandaris/",
+        "https://www.vvvterschelling.nl/uit-eten-in-de-winter/"
+      ],
+      "original_status": "Eigen actuele site met KvK-gegevens bevestigt exploitatie; wintersluiting vraagt datumfilter."
     }
   ],
   "admission_policies": [
