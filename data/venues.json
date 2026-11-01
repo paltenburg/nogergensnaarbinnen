@@ -30063,6 +30063,98 @@
         "https://www.tripadvisor.nl/Restaurant_Review-g652194-d2296044-Reviews-De_Hekseketel-Nes_Ameland_Friesland_Province.html"
       ],
       "original_status": "Actuele eigen website en VVV bevestigen openbare zaak en alcohol; officiële tijden intern tegenstrijdig."
+    },
+    {
+      "id": "the-harbour-nes-20261101",
+      "name": "The Harbour Ameland",
+      "type": "Havenbar / restaurant / cocktails",
+      "address": "Oude Steiger 5",
+      "city": "Nes",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website adverteert openbare havenbar met terras, losse cocktail of wijn, geen verplichte maaltijd.",
+      "alcohol": "Eigen website bevestigt cocktails, exclusieve wijnen en Corona van de tap.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://harbourameland.nl/contact-en-reserveren/",
+      "closing_source": "https://harbourameland.nl/contact-en-reserveren/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen contactpagina: ma 12–20, di–do dicht, vr/za 10:30–20, zo 10–20. Externe gids noemt strijdig dagelijks 10–22, niet overgenomen.",
+      "closing_quality": "Eigen contactpagina geeft 20:00 op openingsdagen; laatste toegang niet vermeld.",
+      "closing_notes": "01-11-2026: https://harbourameland.nl/ bevestigt bar, losse cocktail/wijn/bier en publieke havenborrel; https://harbourameland.nl/contact-en-reserveren/ bevestigt adres en weekrooster. Afwijkende gidsuren niet overgenomen; laatste toegang onbekend.",
+      "features": "Nes Ameland; haven; cocktails; wijn; Corona van de tap",
+      "website": "https://harbourameland.nl/",
+      "other_sources": [
+        "https://harbourameland.nl/contact-en-reserveren/",
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-nes"
+      ],
+      "original_status": "Actuele eigen website bevestigt openbare havenbar en rooster."
+    },
+    {
+      "id": "sea-you-at-ballum-20261101",
+      "name": "Sea You at Ballum",
+      "type": "Strandrestaurant / borrel",
+      "address": "Strandweg 24",
+      "city": "Ballum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site toont openbaar strandrestaurant, bar en borrelplank; geen maaltijdplicht vermeld.",
+      "alcohol": "Eigen site toont cocktails in sfeerbeelden, maar een leesbare actuele bier-/wijn-/alcoholkaart is nog niet gevonden; alcoholconsumptie afzonderlijk te bevestigen.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://seayou-ballum.nl/",
+      "closing_source": "https://seayou-ballum.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Nieuwe exploitantwebsite 2026: ma–vr 12–20, za/zo 10–20; oude strandpaviljoenballum-site op 53development.nl toont ander rooster en oude merknaam.",
+      "closing_quality": "Nieuwe exploitantwebsite noemt dagelijks 20:00; laatste toegang onbekend. Exploitant en huidige seizoensopening nader controleren.",
+      "closing_notes": "01-11-2026: https://seayou-ballum.nl/ bevestigt huidige naam en Strandweg 24; reviews van september/oktober 2026 op eigen site ondersteunen hernieuwde exploitatie, maar zijn geen onafhankelijk alcoholbewijs. Oud https://strandpaviljoenballum.53development.nl/ is een verouderde ontwikkelwebsite met andere naam en uren; niet als aparte zaak toevoegen. Wegens ontbrekende expliciete actuele alcoholkaart voorlopig verborgen.",
+      "features": "Ballum Ameland; nieuw strandrestaurant; opvolger Strandpaviljoen Ballum; alcoholkaart te verifiëren",
+      "website": "https://seayou-ballum.nl/",
+      "other_sources": [
+        "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-ballum/strandpaviljoen-ballum",
+        "https://strandpaviljoenballum.53development.nl/"
+      ],
+      "original_status": "Eigen 2026-site toont hernieuwde exploitatie/naam, maar alcoholaanbod en actuele seizoenstatus nog afzonderlijk te bevestigen."
     }
   ],
   "admission_policies": [
