@@ -1727,32 +1727,37 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen proeflokaalpagina bevestigt publieke inloop: gezelschappen kleiner dan vier personen kunnen zonder reservering binnenlopen voor bier of eten.",
+      "alcohol": "Eigen actuele bierkaart van het proeflokaal noemt onder meer Pandora Blond 6%, Dakhaas 5,5%, Maximus Pils en Donderstraal Tripel 8%.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
-        "di": "22:30",
-        "wo": "22:30",
+        "di": "?",
+        "wo": "?",
         "do": "23:00",
         "vr": "00:00",
-        "za": "23:00",
-        "zo": "19:00"
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://www.visitutrechtregion.com/nl/locaties/3303121269/brouwerij-maximus",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Van november tot begin april ook dinsdag gesloten.",
+      "closing_quality": "Exacte einduren do 23:00 en vr 00:00 komen overeen in twee externe gidsen, maar zijn niet op een actuele exploitant-roosterpagina bevestigd. Di/wo/za/zo conflicteren met recentere gids- en exploitantpublicaties en zijn bewust onbekend.",
+      "closing_source": "https://www.tastytales.tv/nl/breweries/brouwerij-maximus/",
+      "checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: eerder overgenomen gidsuren di 22:30, wo 22:30, za 23:00, zo 19:00 blijken niet betrouwbaar voor november 2026. Recente onafhankelijke Tasty Tales-vermelding (bijgewerkt 01-09-2026) noemt wo 23:00, za 00:00, zo 20:00 en geen reguliere dinsdag; exploitant https://maximusbrouwerij.nl/zondag-langer-open/ vermeldt zondag tot 22:00 (ouder bericht). Exploitantagenda https://maximusbrouwerij.nl/agenda/ kondigt dinsdag 03-11 en 01-12-2026 quiz 20:00–23:30 aan; dit bewijst geen vaste dinsdagopening of reguliere barsluiting. Di/wo/za/zo daarom '?'; ma gesloten en do/vr gidsuren voorlopig behouden, niet bedrijfseigen bevestigd. Seizoens-/feestdaguitzonderingen en laatste toegang onbekend. Eigen https://maximusbrouwerij.nl/over-maximus/proeflokaal/ bevestigt vrije inloop en https://maximusbrouwerij.nl/over-maximus/onze-kaart/ alcohol. Geen BAG-adres of coördinaat gewijzigd.",
       "features": "Bierproeven; Leidsche Rijn; Brouwerij",
       "website": "https://maximusbrouwerij.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
-        "https://www.uitutrecht.com/uitgaan/page/2/"
+        "https://www.uitutrecht.com/uitgaan/page/2/",
+        "https://maximusbrouwerij.nl/over-maximus/proeflokaal/",
+        "https://maximusbrouwerij.nl/over-maximus/onze-kaart/",
+        "https://maximusbrouwerij.nl/agenda/",
+        "https://maximusbrouwerij.nl/zondag-langer-open/",
+        "https://www.tastytales.tv/nl/breweries/brouwerij-maximus/"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
+      "original_status": "Publiek proeflokaal met eigen 2026-agenda, bierkaart en vrije inloop bevestigd op 01-11-2026; reguliere sluituren slechts gedeeltelijk uit externe bronnen.",
       "geo": null,
-      "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_provenance": "01-11-2026: eigen proeflokaalpagina, bierkaart en agenda gecontroleerd; geen betrouwbaar actueel regulier sluitrooster op de exploitantsite gevonden.",
+      "website_checked_on": "2026-11-01"
     },
     {
       "id": "brouwerij-oudaen-5f28ecd",
