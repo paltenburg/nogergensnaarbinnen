@@ -687,6 +687,23 @@
     }}
   }
   function change(){state.region=el('region').value;state.category=el('category').value;state.day=el('day').value;state.after=el('after').value==='__custom__'?el('customTime').value:el('after').value;state.q=el('search').value.trim();state.uncertain=el('uncertain').checked;encodeFilters();render();fitVisibleMarkers();}
+  function arrivalOptionClosings(){
+    // Use only closures that can apply on this date, not out-of-season venues.
+    // Search/category do not restrict this: the current venue can differ.
+    return db.places.filter(p=>p.selection!=='Nee'
+      &&(state.uncertain||p.selection!=='Nog te controleren')
+      &&(!state.region||p.region===state.region)
+      &&(!state.date||!NGNBDateClosures.isClosed(p,state.date))
+      &&(!p.requires_date_schedule||!!NGNBDateClosures.scheduleFor(p,state.date))
+      &&NGNBDateClosures.field(p,'opening',state.day,state.date)!=='—'
+      &&NGNBDateClosures.field(p,'closing',state.day,state.date)!=='—')
+      .flatMap(p=>{
+        const exact=timeVal(NGNBDateClosures.field(p,'closing',state.day,state.date));
+        // A year-round closing window does not prove seasonal opening.
+        const window=p.requires_date_schedule?null:closingWindow(p);
+        return exact!==null?[exact]:window?[window.earliest,window.latest]:[];
+      });
+  }
   function fillArrivalOptions(){
     const select=el('after');
     const wasCustom=select.value==='__custom__';
@@ -697,13 +714,7 @@
     // Start at the earliest known closure for this day/region, not at 00:00.
     // Category and search filters do not restrict this: the current venue can be
     // a different type from the next venue being sought.
-    const values=db.places.filter(p=>p.selection!=='Nee'
-      &&(state.uncertain||p.selection!=='Nog te controleren')
-      &&(!state.region||p.region===state.region))
-      .flatMap(p=>{
-        const exact=timeVal(NGNBDateClosures.field(p,'closing',state.day,state.date)),window=closingWindow(p);
-        return exact!==null?[exact]:window?[window.earliest,window.latest]:[];
-      });
+    const values=arrivalOptionClosings();
     const earliest=values.length?Math.min(...values):1020; // 17:00 fallback if no data
     const latest=values.length?Math.max(...values):1800;
     const first=Math.ceil(earliest/30)*30;
