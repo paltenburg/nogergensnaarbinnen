@@ -10235,13 +10235,14 @@
       },
       "closing_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026; laatste toegang onbekend",
       "closing_source": "https://www.cafedestrohoed.nl/",
-      "closing_notes": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend.",
+      "closing_notes": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend. Hercontrole 01-11-2026: https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed bevat café-eigen berichten van 09-01-2026 met zo–wo 14–00 en do–za 14–01, en 31-03-2026 tienjarig jubileum. Dit ondersteunt voortgezette exploitatie en bestaande weekuren, maar is een doorgeplaatste sociale pagina, geen deurcontrole. Laatste toegang blijft onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafedestrohoed.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://visitleeuwarden.com/en/locations/1213615776/cafe-de-strohoed",
-        "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320"
+        "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320",
+        "https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -10263,7 +10264,7 @@
       },
       "opening_source": "https://www.cafedestrohoed.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026"
     },
     {
@@ -33478,6 +33479,55 @@
       ],
       "original_status": "01-11-2026: actuele officiële hotelbarpagina bevestigt borrel en alcohol, starttijden; barsluitingen onbekend.",
       "features": "Sneek; afzonderlijke Birdy's hotelbar met terras, geen hotelovernachting vereist volgens site"
+    },
+    {
+      "id": "brasserie-de-koperen-kees-sneek-20261101",
+      "name": "Brasserie De Koperen Kees",
+      "type": "Brasserie / wijn- en borrelbar",
+      "address": "Parkstraat 1",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant schrijft expliciet dat bezoekers naast lunch/diner ook afzonderlijk kunnen borrelen en altijd terechtkunnen voor een drankje of snack; geen verplichte maaltijd genoemd. Geen fysieke deurcontrole.",
+      "alcohol": "Eigen site bevestigt wijnen, speciaalbier, afzonderlijke wijnkaart en aperitievenkaart.",
+      "opening": {
+        "ma": "—",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://dekoperenkees.nl/",
+      "closing_source": "https://dekoperenkees.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen website: maandag gesloten, dinsdag t/m zondag vanaf 11:30. Keukentijd 21:00 is geen caféopening of sluiting.",
+      "closing_quality": "Eigen website geeft geen cafésluituren. Keuken tot 21:00 niet als sluiting gebruikt; externe gidsen conflicteren onderling over dagen en einduren.",
+      "closing_notes": "01-11-2026: eigen https://dekoperenkees.nl/ rechtstreeks geopend; ma gesloten, di–zo vanaf 11:30, keuken tot 21:00. Eigen tekst noemt expliciet losse borrel, wijn, speciaalbier, aperitieven en borrelhapjes. https://www.sneek.nl/zien-doen/de-koperen-kees bevestigt cafébar en Parkstraat 1. Externe https://www.fietsnetwerk.nl/knooppunt/brasserie-de-koperen-kees-sneek/ noemt ma dicht en di–zo einduren 21/22; https://www.friesland.nl/nl/locaties/1504515669/brasserie-de-koperen-kees vermeldt ma open en wo dicht: geen van beide als bevestigd sluituur overgenomen. Laatste toegang en eventuele seizoensafwijkingen onbekend. Geen coördinaat verzonnen.",
+      "website": "https://dekoperenkees.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Exploitantwebsite 01-11-2026 rechtstreeks gelezen; huidige brasserie, contactadres, aparte borrel en beginuren.",
+      "other_sources": [
+        "https://dekoperenkees.nl/",
+        "https://www.sneek.nl/zien-doen/de-koperen-kees",
+        "https://www.fietsnetwerk.nl/knooppunt/brasserie-de-koperen-kees-sneek/",
+        "https://www.friesland.nl/nl/locaties/1504515669/brasserie-de-koperen-kees"
+      ],
+      "original_status": "01-11-2026: exploitantwebsite bevestigt huidige publieke borrelfunctie en openingsstart; cafésluituren en laatste toegang onbekend.",
+      "features": "Sneek centrum; zelfstandige borrel naast diner; geen automatische marker vóór exacte BAG-match"
     }
   ],
   "admission_policies": [
