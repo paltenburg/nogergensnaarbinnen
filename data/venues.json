@@ -33854,6 +33854,62 @@
       ],
       "original_status": "Eigen website bevestigt publieke bar en drankaanbod. Weekdagen en barsluituren hebben brononderscheid; geen fysieke controle.",
       "features": "Drachten; aparte bar naast bistro; cocktails, bier, wijn; vrijdagmiddagborrel"
+    },
+    {
+      "id": "sondrio-drachten-20261101",
+      "name": "Sondrio",
+      "type": "Italiaans restaurant / aperitivobar",
+      "address": "Zuidkade 41a",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant nodigt publiek uit voor aperitivo op het terras of bij de hidden bar op de eerste verdieping. Geen expliciete maaltijdplicht, maar vrije barinloop en aparte baruren niet fysiek bevestigd.",
+      "alcohol": "Eigen website noemt wijnarrangementen, aperitivo, sgroppino en espresso martini; menukaart bevat cocktails.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen website vermeldt restaurant dagelijks wo–zo 17:00–22:00, met aperitivo in verborgen bar. Afzonderlijke baropening is niet gespecificeerd.",
+      "closing_quality": "Eigen site vermeldt algemene sluiting 22:00; dit is geen geverifieerde laatste toegang of afzonderlijke bar-sluiting.",
+      "opening_source": "https://sondriodrachten.nl/",
+      "closing_source": "https://sondriodrachten.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "https://sondriodrachten.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Eigen website en eigen menukaart op 01-11-2026 geopend.",
+      "date_closures": [
+        {
+          "start": "2026-12-25",
+          "end": "2027-01-01",
+          "source": "https://sondriodrachten.nl/",
+          "checked_on": "2026-11-01",
+          "reason": "Exploitant meldt gesloten met Kerst en Oud & Nieuw."
+        }
+      ],
+      "closing_notes": "Eigen homepage zegt woensdag–zondag 17:00–22:00 en van 25-12-2026 t/m 01-01-2027 gesloten. Dezelfde site noemt aperitivo op terras of hidden bar boven; algemene bedrijfsuren zijn geen garantie voor de afzonderlijke bar of vrije plek. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://sondriodrachten.nl/",
+        "https://sondriodrachten.nl/menu/"
+      ],
+      "original_status": "Exploitant bevestigt actieve horeca, alcohol, aperitivo en seizoenssluiting; aparte baropenstelling en vrije inloop nog niet afzonderlijk bewezen.",
+      "features": "Drachten; hidden bar boven, Italiaanse aperitivo; kerstsluiting 2026–2027"
     }
   ],
   "admission_policies": [
