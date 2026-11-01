@@ -32226,6 +32226,103 @@
       },
       "geo_checked_on": "2026-11-01",
       "geocode_notes": "01-11-2026: exact adres- en huisnummertoevoegingsmatch uit geslaagde GitHub Pages-build 41288020243 (PDOK BAG); match in gebouwd data/venues.json gecontroleerd. Fysieke café-ingang niet afzonderlijk op locatie geverifieerd."
+    },
+    {
+      "id": "bruincafe-het-anker-bolsward-20261101",
+      "name": "Bruincafé Het Anker",
+      "type": "Bruincafé / bar",
+      "address": "Bargefenne 12",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Publieke caféfunctie volgens Bolsward.nl en gidsen; spontane actuele inloop niet rechtstreeks bij exploitant gecontroleerd.",
+      "alcohol": "Recente bezoekerrecensie (ca. juli 2026) op Restaurant Guru noemt getapt bier; niet met actuele eigen drankenkaart bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Tegenstrijdige externe gidsuren (o.a. Cylex 08–02, Restaurant Guru 10–04, andere gids 09–21); geen primaire 2026-weekuren.",
+      "closing_quality": "Tegenstrijdige externe gidsuren; geen betrouwbare sluiting of laatste toegang.",
+      "opening_source": "https://www.cylex.nl/bedrijf/bruincaf%C3%A9-het-anker-11800508.html",
+      "closing_source": "https://nl.restaurantguru.com/Bruincafe-t-Anker-Bolsward",
+      "opening_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: Bolsward.nl noemt Het Anker als bruincafé; https://www.compadex.com/nl/businesses/nl/sectors/cafes/friesland/bolsward en https://drimble.nl/bedrijf/bolsward/10587152/bruincafe-het-anker.html tonen KvK-registratie op Bargefenne 12, maar registratie bewijst niet zelfstandig openstelling. https://nl.restaurantguru.com/Bruincafe-t-Anker-Bolsward citeert Google-bezoekersreacties van ca. juli 2026 over getapt bier en bediening; die ondersteunen recente activiteit maar zijn niet bedrijfseigen. Cylex 08–02, Restaurant Guru 10–04 en Corestaurant 09–21 zijn onderling strijdig; alle daguren en laatste toegang onbekend gehouden. Niet publiek tonen totdat exploitant/actuele exploitatie en vrije inloop onafhankelijk bevestigd zijn.",
+      "other_sources": [
+        "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
+        "https://www.compadex.com/nl/businesses/nl/sectors/cafes/friesland/bolsward",
+        "https://drimble.nl/bedrijf/bolsward/10587152/bruincafe-het-anker.html",
+        "https://www.cylex.nl/bedrijf/bruincaf%C3%A9-het-anker-11800508.html",
+        "https://nl.restaurantguru.com/Bruincafe-t-Anker-Bolsward",
+        "https://corestaurant.ch/en/Netherlands/restaurant/bruincafe-het-anker-bolsward-775"
+      ],
+      "original_status": "Kandidaat: KvK-registratie, gids en recente bezoekerrecensie ondersteunen café op Bargefenne 12; actuele exploitantbevestiging, toegangsbeleid en uren ontbreken. Verborgen.",
+      "features": "Bolsward Bargefenne; ontbrekende horecakandidaat; geen primaire openingstijden"
+    },
+    {
+      "id": "sportbar-de-middelzee-bolsward-20261101",
+      "name": "Sportbar de Middelzee",
+      "type": "Sportbar / sporthalhoreca",
+      "address": "De Blink 3",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Lokale reportage bevestigt bar na sporttoernooi op 20 mei 2026; vrije toegang zonder sportactiviteit of clubbinding niet bevestigd.",
+      "alcohol": "Lokale reportage noemt een drankje en bitterballen na sporttoernooi; alcoholische dranksoort niet expliciet bevestigd door exploitant. Externe gidsen categoriseren als bar, maar geen primaire drankkaart.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Externe gids noemt ma–za 18–23:30, zo gesloten, maar niet door exploitant bevestigd en mogelijk afhankelijk van sporthal/activiteiten.",
+      "closing_quality": "Geen onafhankelijk bevestigd barweekrooster of laatste toegang; gidsuren niet als vaste uren overgenomen.",
+      "opening_source": "https://www.allebiz.nl/sportbar-de-middelzee-06-50500668",
+      "closing_source": "https://www.allebiz.nl/sportbar-de-middelzee-06-50500668",
+      "opening_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: https://www.grootbolsward-ijsselmeerkust.nl/nieuws/grootbolsward-ijsselmeerkust/132769/30e-jubilieumeditie-vc-bolsward-bedrijvenvolleybaltoernooi-2026 meldt na afloop van het toernooi op 20 mei 2026 een borrel in Sportbar De Middelzee. https://www.compadex.com/nl/businesses/nl/sportbar-middelzee-78730074-46337113 toont KvK-vestiging De Blink 3 (peildatum februari 2026); https://tvbolsward.nl/bedrijvengids/ bevestigt sportcafé-adres. Geen primaire bron voor actuele vrije inloop, alcoholassortiment of regulier weekrooster; ma–za 18–23:30 uit gids niet overgenomen. Sportbar mogelijk gekoppeld aan sporthal en evenementtoegang; verborgen tot nadere verificatie.",
+      "other_sources": [
+        "https://www.grootbolsward-ijsselmeerkust.nl/nieuws/grootbolsward-ijsselmeerkust/132769/30e-jubilieumeditie-vc-bolsward-bedrijvenvolleybaltoernooi-2026",
+        "https://www.compadex.com/nl/businesses/nl/sportbar-middelzee-78730074-46337113",
+        "https://tvbolsward.nl/bedrijvengids/",
+        "https://www.allebiz.nl/sportbar-de-middelzee-06-50500668",
+        "https://fr.restaurantguru.com/Sportbar-De-Middelzee-Bolsward"
+      ],
+      "original_status": "Kandidaat: sportbar in 2026 reportage aantoonbaar gebruikt bij sporttoernooi; zelfstandige publieke toegang en alcoholaanbod niet bewezen. Verborgen.",
+      "features": "Bolsward; sporthal De Middelzee; evenementgebonden toegang onzeker"
     }
   ],
   "admission_policies": [
