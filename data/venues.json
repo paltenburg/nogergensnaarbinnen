@@ -10712,37 +10712,52 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek muziekcafé; Visit Leeuwarden vermeldt gratis toegang",
+      "access": "Eigen website beschrijft openbaar bruin muziekcafé, pubquiz, karaoke, livemuziek en vrij bezoek; sommige activiteiten kunnen afzonderlijke deelnamekosten hebben.",
       "alcohol": "Café met drankaanbod volgens toeristische gids; eigen menukaart niet gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "00:00"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
-      "closing_source": "",
-      "closing_notes": "Visit Leeuwarden bevestigt livemuziek vr/za, pubquiz wo, karaoke do en afterparty na 01:00. Cafescooters.com genoemd als eigen domein maar niet bereikbaar. Gidsen geven uiteenlopende uren (o.a. dinsdag/woensdag/zondag); geen bedrijfseigen weekrooster of laatste toegang geverifieerd, daarom onbekend.",
+      "closing_quality": "Exploitantwebsite toont sluitingen wo 01, do–za 03, zo 00; laatste toegang onbekend.",
+      "closing_source": "https://www.cafescooters.com/",
+      "closing_notes": "01-11-2026: officiële https://www.cafescooters.com/ direct gelezen: ma/di gesloten, wo 16–01, do/vr/za 16–03, zo 16–00. Eigen site noemt Ruiterskwartier 61 & 63; masteradres 61 met bestaande BAG-match behouden, ingang/extra unit 63 nog controleren. Pubquiz wo 20, karaoke do 19, live muziek vr/za vanaf 21 zijn evenementaanvangstijden, niet de caféopening. Laatste toegang niet vermeld. Eerder ontbreken van officiële site achterhaald.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafescooters.com/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://visitleeuwarden.com/locaties/1489954868/www-cafescooters-com",
         "https://www.allebiz.nl/muziekcaf%C3%A9-scooters-058-216-2666",
-        "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters"
+        "https://www.hfsfreelancers.nl/en/locaties/leeuwarden/bars/scooters",
+        "https://www.cafescooters.com/"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitantwebsite op 01-11-2026 direct geverifieerd met adres, regulier weekrooster en actuele agenda.",
       "geo": {
         "lat": 53.2002313,
         "lon": 5.7912219,
         "method": "PDOK BAG-adres",
         "matched_address": "Ruiterskwartier 61, 8911BR Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.cafescooters.com/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "opening_quality": "Exploitantwebsite toont volledig weekrooster op 01-11-2026; geen evenementstart als café-opening gebruikt."
     },
     {
       "id": "de-dikke-van-dale-leeuwarden-4b70da7",
@@ -18444,7 +18459,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website bevestigt eetcafé op Van Harenstraat 19; TripAdvisor vermeldt drankservice.",
-      "alcohol": "Geclaimde TripAdvisor-vermelding meldt wijn/bier en volledige bar; eigen actuele drankkaart niet bevestigd.",
+      "alcohol": "Eigen menukaart (PDF uit december 2024, opnieuw gecontroleerd 01-11-2026) noemt tapbier, flesbier, wijn, beerenburg, jenever, whisky en wodka; actueel assortiment kan afwijken.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -18457,7 +18472,7 @@
       },
       "closing_quality": "Eigen site heeft historische menukaart 2024 met afwijkende uren; geen actueel weekrooster",
       "closing_source": "https://www.desmallekant.nl/",
-      "closing_notes": "Eigen site 30-10-2026 bevestigt exploitant en adres; menukaart 2024 https://www.desmallekant.nl/wp-content/uploads/2024/12/Menukaart-2024-compleet.pdf noemt ma–do 10:30–20, vr/za 10:30–21, zo 14–20. Gidsen 2026 noemen een uur later. Geen actueel bedrijfseigen rooster, dus uren onbekend; laatste toegang onbekend.",
+      "closing_notes": "Eigen site 30-10-2026 bevestigt exploitant en adres; menukaart 2024 https://www.desmallekant.nl/wp-content/uploads/2024/12/Menukaart-2024-compleet.pdf noemt ma–do 10:30–20, vr/za 10:30–21, zo 14–20. Gidsen 2026 noemen een uur later. Geen actueel bedrijfseigen rooster, dus uren onbekend; laatste toegang onbekend. Hercontrole 01-11-2026: officiële historische menukaart bevat expliciet alcohol (tapbier, flesbier, wijn en gedestilleerd). Dit verifieert aangeboden dranken op die kaart, niet actuele 2026-baruren of afzonderlijke toegang zonder maaltijd; weekrooster en laatste toegang blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.desmallekant.nl/",
       "other_sources": [
@@ -18473,7 +18488,7 @@
         "matched_address": "van Harenstraat 19, 9076BS St.-Annaparochie"
       },
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-01",
       "opening": {
         "ma": "?",
         "di": "?",
