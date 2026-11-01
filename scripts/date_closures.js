@@ -21,5 +21,18 @@
       range.start <= range.end && range.start <= date && date <= range.end
     );
   }
-  return { parseDate, weekday, isClosed };
+  function scheduleFor(place, date) {
+    if (!parseDate(date) || !Array.isArray(place?.date_schedules)) return null;
+    const matching = place.date_schedules.filter(range =>
+      parseDate(range?.start) && parseDate(range?.end) &&
+      range.start <= range.end && range.start <= date && date <= range.end
+    );
+    // Overlapping schedules are ambiguous: never choose an arbitrary winner.
+    return matching.length === 1 ? matching[0] : null;
+  }
+  function field(place, name, day, date) {
+    const schedule = scheduleFor(place, date);
+    return schedule?.[name]?.[day] ?? place?.[name]?.[day] ?? '?';
+  }
+  return { parseDate, weekday, isClosed, scheduleFor, field };
 });
