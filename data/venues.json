@@ -33172,6 +33172,57 @@
       ],
       "original_status": "01-11-2026: eigen bedrijfswebsite bevestigt actuele publieke kroegfunctie, adres en weekrooster; fysieke deurtoegang niet gecontroleerd.",
       "features": "Leeuwarden; bruin muziek- en sportcafé; bovenzaal voor groepen"
+    },
+    {
+      "id": "de-bierhalle-grou-20261101",
+      "name": "Café De Bierhalle",
+      "type": "Bruincafé / biljartcafé",
+      "address": "Hoofdstraat 7",
+      "city": "Grou",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Gidsen beschrijven een publiek biljartcafé; KvK en gemeentelijke terrasvergunning bevestigen horecabestemming, maar actuele vrije inloop november 2026 niet rechtstreeks door exploitant geverifieerd.",
+      "alcohol": "Cafécategorie en gidsen noemen drankjes; geen actuele eigen drankkaart of specifiek alcoholassortiment bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Gidsen vermelden di/wo 17–01 en do–za 16–01, maar andere gids wijkt sterk af. Geen actuele primaire weekuren.",
+      "closing_quality": "Geen geverifieerde exploitant-sluituren of laatste toegang; niet afgeleid uit gids of terrasvergunning.",
+      "opening_source": "https://www.hfsfreelancers.nl/locaties/grou/cafes/bierhalle",
+      "closing_source": "https://www.het-menu.nl/grou/restaurant/de_bierhalle",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Historisch bierhalle.nl uit gidsen niet rechtstreeks als actuele exploitantwebsite geverifieerd; Belgische bierhalle.be is aantoonbaar een andere onderneming.",
+      "closing_notes": "01-11-2026: Compadex meldt De Bierhalle B.V. KvK 96766859 op Hoofdstraat 7, bijgewerkt 12-02-2026; gemeente Leeuwarden verleende terrasvergunning gepubliceerd 16-06-2025. Uitagenda/HFS beschrijven publiek café-biljart; HFS en Het-menu tonen di/wo 17–01, do–za 16–01, ma/zo dicht, maar restaurant-cafe-bar.nl vermeldt vrijwel alleen dinsdag 15–20. Geen rechtstreeks gecontroleerde exploitantbron voor huidige open deur, bierassortiment, sluituren of laatste toegang. Niet verwarren met Belgische bierhalle.be. Verborgen tot primaire verificatie.",
+      "other_sources": [
+        "https://www.compadex.com/nl/businesses/nl/de-bierhalle-b-v-96766859-62068059",
+        "https://zoek.officielebekendmakingen.nl/gmb-2025-260315.html",
+        "https://www.hfsfreelancers.nl/locaties/grou/cafes/bierhalle",
+        "https://www.uitagenda.nl/locaties/cafe-de-bierhalle",
+        "https://www.het-menu.nl/grou/restaurant/de_bierhalle",
+        "https://restaurant-cafe-bar.nl/grou/de-bierhalle/"
+      ],
+      "original_status": "01-11-2026: KvK 2026 en terrasvergunning 2025, maar actuele exploitantopening niet bevestigd; standaard verborgen.",
+      "features": "Grou; biljartcafé; bronconflict; 2025 terrasvergunning"
     }
   ],
   "admission_policies": [
