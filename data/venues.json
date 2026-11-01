@@ -34235,7 +34235,9 @@
         "https://dinestar.nl/nl/restaurants/6175-noflik-by-zwigt-bosma-langweer"
       ],
       "original_status": "2026 actieve exploitatie ondersteund door eigen VVV-bedrijfsbeschrijving, gastenreacties en recente agenda; geen eigen actuele weekuren verifieerbaar.",
-      "features": "Langweer; wijn, tapbier, cocktails; 31 versus 29-31 adresnotatie."
+      "features": "Langweer; wijn, tapbier, cocktails; 31 versus 29-31 adresnotatie.",
+      "geocode_blocked": true,
+      "geocode_notes": "VVV noemt Buorren 31; ondernemersvereniging noemt Buorren 29–31. Exacte ingang/verblijfsobject voor bezoeker nog niet onafhankelijk bevestigd; geen automatische BAG-marker op alleen nummer 31 tot dit is opgelost."
     },
     {
       "id": "brasserie-anders-langweer-20261101",
