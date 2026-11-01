@@ -10618,7 +10618,7 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek café en bar volgens Visit Leeuwarden",
+      "access": "Bedrijfseigen homepage nodigt publiek uit voor een drankje aan de bar, alleen of met vrienden, zonder genoemde reserverings- of maaltijdplicht.",
       "alcohol": "Drankjes aan de bar volgens Visit Leeuwarden; alcoholaanbod niet afzonderlijk in eigen menukaart gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -10632,22 +10632,25 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Visit Leeuwarden bevestigt café op Kleine Kerkstraat 9 en publiek bezoek. Gids Allebiz noemt wo/zo 16–22, do-za 14–22, ma/di gesloten, maar eigen cafebiljartdepastorie.nl niet bereikbaar; daarom weekrooster onbekend. Laatste toegang onbekend.",
+      "closing_notes": "01-11-2026: bedrijfseigen https://www.cafebiljartdepastorie.nl/ opnieuw bereikbaar en gecontroleerd; bevestigt publieke bar maar publiceert geen exacte tijden of laatste toegang. https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207 en https://restaurantguru.com/Pastorie-Leeuwarden noemen ma/di gesloten, wo/zo 16–22 en do–za 14–22, maar zijn geen exploitantrooster: gestructureerde weekuren bewust onbekend gehouden.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://www.cafebiljartdepastorie.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://visitleeuwarden.com/locaties/2614250416/cafe-de-pastorie",
-        "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207"
+        "https://www.allebiz.nl/caf%C3%A9-de-pastorie_1J-058-216-7207",
+        "https://restaurantguru.com/Pastorie-Leeuwarden"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen bedrijfssite op 01-11-2026 bereikbaar en identificeert café in Kleine Kerkstraat; publieke barinloop bevestigd, actuele exploitatie ter plaatse en weekuren niet afzonderlijk vastgesteld.",
       "geo": {
         "lat": 53.2019546,
         "lon": 5.7915053,
         "method": "PDOK BAG-adres",
         "matched_address": "Kleine Kerkstraat 9, 8911DK Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "01-11-2026: bedrijfseigen homepage daadwerkelijk geopend; naam Café Biljart De Pastorie en Kleine Kerkstraat Leeuwarden bevestigd. Eigen website publiceert geen exact weekrooster."
     },
     {
       "id": "bar-sybs-leeuwarden-71570c8",
