@@ -67,4 +67,27 @@ assert.equal(field(partialSeason,'last_entry','vr','2026-11-06'),'?',
 assert.equal(field(partialSeason,'closing','vr','2026-12-04'),'03:00',
   'outside the dated interval the base timetable is unchanged');
 
+// Regression against real master records: announced reopenings are not proof of opening.
+const fs = require('node:fs');
+const path = require('node:path');
+const master = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/venues.json'), 'utf8'));
+const byId = id => {
+  const found = master.places.find(place => place.id === id);
+  assert.ok(found, 'missing master venue ' + id);
+  return found;
+};
+const kade = byId('grand-cafe-kade-stavoren-1996c93');
+for (const date of ['2026-11-01', '2026-11-15', '2026-11-30']) {
+  assert.equal(isClosed(kade, date), true, 'Kade November closure ' + date);
+}
+assert.equal(isClosed(kade, '2026-12-01'), false,
+  'Kade December must not be falsely marked closed (reopening still unverified)');
+const brink = byId('brasserie-de-brink-oudemirdum-20261031');
+assert.equal(isClosed(brink, '2026-11-01'), true);
+assert.equal(isClosed(brink, '2026-11-05'), true);
+assert.equal(isClosed(brink, '2026-11-06'), false,
+  'Brink announced reopening date is not an established open status');
+assert.equal(brink.selection, 'Nog te controleren',
+  'announced reopening cannot make an unverified venue visible');
+
 console.log('Date closure boundary tests passed');
