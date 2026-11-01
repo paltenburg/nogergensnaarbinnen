@@ -2,6 +2,15 @@
 
 
 
+
+### Aanvullend checkpoint 01-11-2026 — Bodega y Tapas Sneek, afzonderlijk concept (691 records)
+
+**Nieuw record, daadwerkelijk gecommit:** [2d680eb](https://github.com/paltenburg/nogergensnaarbinnen/commit/2d680eb8a0bef1cf3bb879c36ce06a1af399a806), ID `bodega-y-tapas-sneek-20261101`, **Bodega y Tapas Sneek**, Wijde Noorderhorne 2. Eigen https://www.bodega-y-tapas.nl/vestigingen/sneek/ op **01-11-2026** geopend: cocktails/sangria en **di–zo vanaf 16:00**, geen einduren. Regionale https://www.sneek.nl/zien-doen/bodega-y-tapas zegt expliciet **'tapas of een drankje'**; dit ondersteunt losse drankinloop, maar eigen site garandeert niet expliciet dat een maaltijd nooit verplicht is. Daarom `Voorlopig` met voorbehoud; **maandag en alle sluit-/laatste-toegangstijden onbekend**. Externe gidsen conflicteren (23:00/00:00), niet overgenomen. https://www.grootsneek.nl/nieuws/in-bedrijf/113705/iris-de-jong-opent-op-woensdag-9-juli-nieuwe-horecazaak-in-sn bevestigt twee aparte concepten in één pand: Bodega links, bestaand **Hanenburg Stadscafé** rechts. **Geen duplicaat van Hanenburg**; aparte ID behouden. `geocode_blocked=true`, want exacte aparte ingang niet gemeten; geen tweede fictieve/overlappende BAG-marker.
+
+**Teruggelezen:** **691 unieke IDs**, 467 Friesland / 224 Utrecht; **75 zonder opgeslagen mastercoördinaten** (1 nieuw bewust zonder geo), **0 geblokkeerde records met coördinaten**. De laatste GitHub combined-statusvraag gaf **0 statusrecords**: dit bevestigt **geen** geslaagde Actions/Pages-deployment. De actuele 691-deployment en echte mobiele kaartinteractie blijven niet geverifieerd. Het vorige checkpoint hierboven betreft de eerdere 690-master en is historisch; deze aanvulling is leidend voor aantallen.
+
+**Volgende actie:** nieuwste CI/Pages controleren; BAG-ingangen Bodega/Hanenburg apart verifiëren en de exploitant vragen of men zonder tapas uitsluitend cocktails kan drinken. Verder de reeds genoemde D0-werkvoorraad en ontbrekende geocodes afwerken. **2026-W45 start pas maandag 02-11-2026 om 10:00 lokale tijd**, dan geografische steekproef in alle actuele actieve regio's. D0 en landelijke uitbreiding nog open.
+
 ### Checkpoint 01-11-2026 — Scooter's, De Smalle Kant en Treemter (690 masterrecords)
 
 **Werkelijk uitgevoerd 01-11-2026:** actuele `TODO.md` inclusief leidende sectie **Uitvoeringsstrategie: opzettelijk grote opdracht, doorwerken tot de grens**, actuele `data/venues.json` via blob-SHA, README en index gelezen. **3 bestaande Friese locaties gecorrigeerd/verrijkt, 0 toegevoegd, 0 verwijderd, 0 IDs gewijzigd, 0 geocodes gegokt.** Datacommits: [89c34ca](https://github.com/paltenburg/nogergensnaarbinnen/commit/89c34ca65de4942722236198e8b26622ebae4aae) en [ee105a3](https://github.com/paltenburg/nogergensnaarbinnen/commit/ee105a37cb280773b0b98f4e51fddcbeccf8d9ed).
