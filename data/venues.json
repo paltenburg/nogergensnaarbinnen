@@ -23877,7 +23877,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen website bevestigt publiek eetcafé met biljart, ook voor niet-hotelgasten; cafébezoek zonder groepsreservering mogelijk.",
-      "alcohol": "Exploitantadvertentie in dorpsblad (2025) noemt assortiment Bulgaarse wijnen en vrijdagmiddagborrel; eigen eetcafépágina toont drankenmenu als afbeelding, exacte actuele kaart niet tekstueel gecontroleerd.",
+      "alcohol": "Eigen drankenkaart noemt Heineken, Affligem Blond, Texels Skuumkoppe, huisbier, wijn en cocktails (o.a. Mojito, Espresso Martini en Aperol Spritz). Drankenkaart-PDF uit 2025; actuele beschikbaarheid niet afzonderlijk bevestigd.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "16:00",
@@ -23886,7 +23886,7 @@
         "do": "16:00",
         "vr": "10:00",
         "za": "10:00",
-        "zo": "—"
+        "zo": "16:00"
       },
       "closing": {
         "ma": "22:00",
@@ -23895,23 +23895,26 @@
         "do": "22:00",
         "vr": "23:00",
         "za": "23:00",
-        "zo": "—"
+        "zo": "22:00"
       },
-      "closing_quality": "Eigen contactpagina: ma–do 16–22, vr/za 10–23, zondag gesloten. Regionale toeristische gids vermeldt een ander rooster; niet overgenomen.",
+      "closing_quality": "Eigen contactpagina opnieuw gecontroleerd 02-11-2026: ma–do én zo 16:00–22:00, vr/za 10:00–23:00. Zondag was in eerdere master onterecht als gesloten gemarkeerd; huidige eigen contactpagina vermeldt zondag open. Laatste toegang onbekend.",
       "closing_source": "https://hotel-duhoux.nl/contact/",
-      "closing_notes": "30-10-2026: eigen https://hotel-duhoux.nl/ en https://hotel-duhoux.nl/eetcafe/ bevestigen actuele publieke eetcafé-exploitatie; eigen https://hotel-duhoux.nl/contact/ geeft ma–do 16–22, vr/za 10–23, zo gesloten. VVV https://www.friesland.nl/nl/locaties/2159964091/hotel-restaurant-duhoux noemt 08–24/01 en zomerse zondag, strijdig met eigen site; niet overgenomen. Eigen adres Greate Buorren 4-8, VVV huisnummer 6; BAG-ingang onzeker en geen coördinaat toegekend. Wijn en vrijdagmiddagborrel expliciet in exploitantadvertentie uit 2025: https://wirdum-swichum.nl/wp-content/uploads/2025/09/Tuorkefretter-2025-06-web.pdf . Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: eigen https://hotel-duhoux.nl/ en https://hotel-duhoux.nl/eetcafe/ bevestigen actuele publieke eetcafé-exploitatie; eigen https://hotel-duhoux.nl/contact/ geeft ma–do 16–22, vr/za 10–23, zo gesloten. VVV https://www.friesland.nl/nl/locaties/2159964091/hotel-restaurant-duhoux noemt 08–24/01 en zomerse zondag, strijdig met eigen site; niet overgenomen. Eigen adres Greate Buorren 4-8, VVV huisnummer 6; BAG-ingang onzeker en geen coördinaat toegekend. Wijn en vrijdagmiddagborrel expliciet in exploitantadvertentie uit 2025: https://wirdum-swichum.nl/wp-content/uploads/2025/09/Tuorkefretter-2025-06-web.pdf . Laatste toegang onbekend. | Hercontrole 02-11-2026: actuele https://hotel-duhoux.nl/contact/ vermeldt **zondag 16:00–22:00**, anders dan bij controle 30-10; zondagopening en sluiting gecorrigeerd. https://hotel-duhoux.nl/wp-content/uploads/2025/07/Dranken-JUN25-Front-small.pdf bevestigt bier, wijn en cocktails op eigen drankenkaart. De PDF is uit 2025, geen garantie van actuele voorraad. Huisnummerreeks 4–8 blijft niet exact gegeocodeerd.",
       "features": "D0 Leeuwarden / Wirdum; huisnummerreeks 4-8, geen exacte ingang",
       "website": "https://hotel-duhoux.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
       "opening_source": "https://hotel-duhoux.nl/contact/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-02",
       "other_sources": [
         "https://hotel-duhoux.nl/eetcafe/",
         "https://www.friesland.nl/nl/locaties/2159964091/hotel-restaurant-duhoux",
-        "https://wirdum-swichum.nl/wp-content/uploads/2025/09/Tuorkefretter-2025-06-web.pdf"
+        "https://wirdum-swichum.nl/wp-content/uploads/2025/09/Tuorkefretter-2025-06-web.pdf",
+        "https://hotel-duhoux.nl/wp-content/uploads/2025/07/Dranken-JUN25-Front-small.pdf",
+        "https://hotel-duhoux.nl/geschiedenis-nieuw/"
       ],
-      "original_status": "Eigen website bevestigt actuele exploitatie en weekrooster; afwijkende gidsuren en exacte BAG-ingang open."
+      "original_status": "Eigen website en 2026 hercontrole bevestigen actuele publieke eetcaféfunctie, zondag 16–22 en bar/drankkaart. Exacte BAG-ingang en laatste toegang blijven onbekend.",
+      "closing_checked_on": "2026-11-02"
     },
     {
       "id": "eetcafe-de-boeier-heeg-20261030",
