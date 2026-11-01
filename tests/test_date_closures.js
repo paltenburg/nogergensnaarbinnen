@@ -1,5 +1,5 @@
 const assert = require('node:assert/strict');
-const { parseDate, weekday, isClosed, scheduleFor, field } = require('../scripts/date_closures.js');
+const { parseDate, weekday, isClosed, scheduleFor, hasScheduleConflict, field } = require('../scripts/date_closures.js');
 
 assert.equal(weekday('2026-11-01'), 'zo');
 assert.equal(weekday('2026-11-02'), 'ma');
@@ -38,6 +38,14 @@ const overlapping = { date_schedules:[
 ] };
 assert.equal(scheduleFor(overlapping, '2026-11-20'), null,
   'ambiguous overlapping seasonal schedules must not be chosen');
+assert.equal(hasScheduleConflict(overlapping, '2026-11-20'), true);
+assert.equal(hasScheduleConflict(overlapping, '2026-11-05'), false);
+assert.equal(hasScheduleConflict(overlapping, '2026-12-16'), false);
+overlapping.closing = { vr: '03:00' };
+assert.equal(field(overlapping, 'closing', 'vr', '2026-11-20'), '?',
+  'conflicting dated schedules must not inherit ordinary closing 03:00');
+assert.equal(field(overlapping, 'closing', 'vr', '2026-12-16'), '03:00',
+  'outside conflicting intervals the base timetable remains available');
 // A verified dated timetable must be authoritative, including absent fields.
 const partialSeason = {
   opening:{vr:'18:00',za:'18:00'},
