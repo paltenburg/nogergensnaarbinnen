@@ -30923,6 +30923,96 @@
       "original_status": "Exploitantwebsite actief, VVV bevestigt seizoenssluiting in winter.",
       "geocode_blocked": true,
       "geocode_notes": "Eigen huidige locatiepagina + VVV zeggen Badweg Formerum 6; eerder eigen reserveren/groepsfeest vermeldde 4. Exacte BAG-unit en adresversie eerst controleren."
+    },
+    {
+      "id": "the-drunken-sailor-west-terschelling-20261101",
+      "name": "The Drunken Sailor",
+      "type": "Eetcafé / borrel / spellenbar",
+      "address": "Boomstraat 37",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website: welkom voor informele avond en borrel, geen verplichte maaltijd.",
+      "alcohol": "Eigen website noemt uitgebreide bierkaart en borrelhapjes.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "opening_source": "https://www.the-drunken-sailor.nl/Openingstijden/",
+      "closing_source": "https://www.the-drunken-sailor.nl/Openingstijden/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen actuele weekpagina bevestigt dagelijks 16:00.",
+      "closing_quality": "Eigen weekpagina ma–do/zo 01:00, vr/za 02:00; laatste toegang niet vermeld.",
+      "closing_notes": "01-11-2026: https://www.the-drunken-sailor.nl/ bevestigt Boomstraat 37, losse bierborrel en spelletjes; https://www.the-drunken-sailor.nl/Openingstijden/ bevestigt weekrooster. VVV https://www.vvvterschelling.nl/bedrijven/the-drunken-sailor/ komt overeen. Geen laatste toegang of kaartcoördinaten gegokt.",
+      "features": "Terschelling West; bier; spellen; late sluiting",
+      "website": "https://www.the-drunken-sailor.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/the-drunken-sailor/"
+      ],
+      "original_status": "Eigen site en VVV bevestigen actuele exploitatie."
+    },
+    {
+      "id": "het-amsterdamsche-koffijhuis-west-terschelling-20261101",
+      "name": "Het Amsterdamsche Koffijhuis",
+      "type": "Eetcafé / losse borrel",
+      "address": "Willem Barentszstraat 17",
+      "city": "West-Terschelling",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "VVV bevestigt vrij binnenlopen voor een borrel met hapjes.",
+      "alcohol": "Eetcafé met borrel volgens VVV; actueel eigen alcoholassortiment niet afzonderlijk gepubliceerd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
+      },
+      "opening_source": "https://www.hetamsterdamschekoffijhuis.nl/",
+      "closing_source": "https://www.hetamsterdamschekoffijhuis.nl/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "website_checked_on": "2026-11-01",
+      "checked_on": "2026-11-01",
+      "opening_quality": "Eigen site ma/di gesloten, wo–zo vanaf 15:00.",
+      "closing_quality": "Eigen site noemt 22:00 als richttijd maar expliciet soms later zolang gezellig; dus Varieert en geen exacte 22:00-grens.",
+      "closing_notes": "01-11-2026: https://www.hetamsterdamschekoffijhuis.nl/ noemt wo–zo 15–22 met expliciete opmerking dat sluiting na 22 uur kan zijn. Daarom sluiting Varieert; laatste toegang onbekend. https://www.vvvterschelling.nl/bedrijven/het-amsterdamsche-koffijhuis/ bevestigt vrije borrel. Eigen actuele drankkaart ontbreekt, assortiment niet gespecificeerd.",
+      "features": "Terschelling West; eetcafé",
+      "website": "https://www.hetamsterdamschekoffijhuis.nl/",
+      "other_sources": [
+        "https://www.vvvterschelling.nl/bedrijven/het-amsterdamsche-koffijhuis/"
+      ],
+      "original_status": "Exploitantwebsite actueel, VVV bevestigt publieke borrel."
     }
   ],
   "admission_policies": [
