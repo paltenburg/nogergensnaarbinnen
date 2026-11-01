@@ -34483,6 +34483,96 @@
       ],
       "original_status": "Eigen website en actuele KvK-afgeleide bedrijfsregistratie bevestigen locatie en barfunctie; zelfstandige borrel-inloop en laatste toegang niet rechtstreeks bevestigd.",
       "features": "Sneek uitgaanscentrum; pool/snooker/darts; bar; groepsuitjes kunnen uren wijzigen."
+    },
+    {
+      "id": "cafe-de-pub-sneek-20261101",
+      "name": "Café de Pub",
+      "type": "Bruin café / kroeg",
+      "address": "Marktstraat 29a",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Actuele lokale gids https://www.sneek.nl/zien-doen/cafe-de-pub beschrijft een publiek toegankelijk huiselijk café met terras en bar voor koffie of bier. De locatie staat afzonderlijk van Rock Café op Marktstraat 29.",
+      "alcohol": "Sneek.nl noemt expliciet een goed glas bier aan de bar; KvK-afgeleide registratie SBI 5630 exploitatie drinkgelegenheid bevestigt caféfunctie.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen betrouwbaar actueel eigen weekrooster. Gidsuren van https://www.allebiz.nl/caf%C3%A9-de-pub_3d-0515-414-180 niet onafhankelijk bevestigd.",
+      "closing_quality": "Geen betrouwbaar actueel eigen sluituur of laatste toegang.",
+      "opening_source": "",
+      "closing_source": "",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "closing_notes": "01-11-2026: https://www.sneek.nl/zien-doen/cafe-de-pub noemt naam, Marktstraat 29a, vrije café-/bierinloop en bar; https://www.compadex.com/nl/businesses/nl/cafe-de-pub-88298779-55553761 bevestigt drinkgelegenheid op dit adres en bijgewerkte registratie 12-02-2026. Oud domein depubsneek.nl is alleen als historische site bekend, niet als geverifieerde actuele officiële website opgenomen. https://www.allebiz.nl/caf%C3%A9-de-pub_3d-0515-414-180 noemt ma–do/zo 14–22, vr/za 13–22; niet als feitelijke huidige sluiting overgenomen. Geen laatste toegang, geen geocode gegokt.",
+      "other_sources": [
+        "https://www.sneek.nl/zien-doen/cafe-de-pub",
+        "https://www.compadex.com/nl/businesses/nl/cafe-de-pub-88298779-55553761",
+        "https://www.allebiz.nl/caf%C3%A9-de-pub_3d-0515-414-180",
+        "https://storage.pubble.nl/d0059c11/pdf/sneekismeermagazine20250612lr_19e686cb.pdf"
+      ],
+      "original_status": "01-11-2026: lokale gids en 2026-KvK-afgeleide registratie ondersteunen publieke café-exploitatie; eigen site, actuele uren en laatste toegang onbekend.",
+      "features": "Sneek Marktstraat 29a; apart van Rock Café Marktstraat 29; bier en terras."
+    },
+    {
+      "id": "cafe-de-bakkersdochter-sneek-20261101",
+      "name": "Café De Bakkersdochter",
+      "type": "Bruin café / livemuziek / biljart",
+      "address": "Scharnestraat 17",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Lokale toeristische gids https://www.sneek.nl/zien-doen/cafe-de-bakkersdochter nodigt publiek uit voor een drankje, biljart, kaarten en maandelijkse jamsessies; geen besloten-ledenstatus genoemd.",
+      "alcohol": "Caféfunctie en drankjes in lokale Sneek-gids; toeristisch magazine 2025/26 noemt expliciet een biertje en livemuziek. Actuele exploitanten-drankenkaart niet beschikbaar.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen eigen actueel weekrooster gevonden; externe gidsen spreken elkaar tegen.",
+      "closing_quality": "https://www.hfsfreelancers.nl/en/locaties/sneek/cafes/de-bakkersdochter en https://restaurant-cafe-bar.nl/en/sneek/cafe-de-bakkersdochter/ tonen sterk afwijkende weekroosters. Geen daarvan is de eigen primaire bron; alle tijden onbekend gehouden.",
+      "opening_source": "",
+      "closing_source": "",
+      "checked_on": "2026-11-01",
+      "website": "",
+      "closing_notes": "01-11-2026: https://www.sneek.nl/zien-doen/cafe-de-bakkersdochter bevestigt café, adres Scharnestraat 17, publieke drankjes en activiteiten. De lokale gids linkt naar een Facebookpagina, geen onafhankelijk geverifieerde eigen website. Toeristisch Sneek-magazine 2025/26 https://storage.pubble.nl/d0059c11/pdf/sneekismeermagazine20250612lr_19e686cb.pdf vermeldt café met bier en muziek. Externe HFS-/restaurantgidsen tonen uiteenlopende opening/sluituren; geen exacte tijden overgenomen. Exploitatie op 01-11 niet ter plekke gecontroleerd; geen laatste toegang of geocode aangenomen.",
+      "other_sources": [
+        "https://www.sneek.nl/zien-doen/cafe-de-bakkersdochter",
+        "https://www.hfsfreelancers.nl/en/locaties/sneek/cafes/de-bakkersdochter",
+        "https://restaurant-cafe-bar.nl/en/sneek/cafe-de-bakkersdochter/",
+        "https://storage.pubble.nl/d0059c11/pdf/sneekismeermagazine20250612lr_19e686cb.pdf"
+      ],
+      "original_status": "Lokale gids en 2025/26 toeristische bron ondersteunen café met bier, maar eigen site en actuele weekuren niet bevestigd.",
+      "features": "Sneek Scharnestraat; bruin café; biljart en jamsessies; geen betrouwbare sluituren."
     }
   ],
   "admission_policies": [
