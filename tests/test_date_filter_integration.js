@@ -227,4 +227,37 @@ for (const venue of master.places.filter(p => p.requires_date_schedule &&
 }
 state.uncertain = false; state.date = '';
 
+// Seasonal venues must not reappear after the published season or when the
+// user opts into uncertain venues. These cases use the actual master records.
+state.region = 'friesland'; state.category = ''; state.q = '';
+state.after = ''; state.uncertain = false;
+state.date = '2026-11-01'; state.day = 'zo';
+assert.equal(eligible(byId('strandpaviljoen-de-potvis-stavoren-20261031')), true,
+  'De Potvis is open on the sourced final-season Sunday');
+state.date = '2026-11-03'; state.day = 'di';
+assert.equal(eligible(byId('strandpaviljoen-de-potvis-stavoren-20261031')), false,
+  'De Potvis summer-only Tuesday does not carry into November');
+state.date = '2026-11-18'; state.day = 'wo';
+assert.equal(eligible(byId('strandpaviljoen-de-potvis-stavoren-20261031')), false,
+  'De Potvis must not appear after November 15');
+state.date = '2027-04-07'; state.day = 'wo';
+assert.equal(eligible(byId('strandpaviljoen-de-potvis-stavoren-20261031')), false,
+  'next season cannot be inferred from a previous-year schedule');
+state.date = ''; state.day = 'zo';
+assert.equal(eligible(byId('strandpaviljoen-de-potvis-stavoren-20261031')), false,
+  'weekday-only filter cannot advertise a seasonal venue year-round');
+state.uncertain = true;
+for (const id of [
+  'paviljoen-paal-3-schiermonnikoog-20261030',
+  'de-hege-gerzen-oudemirdum-20261031',
+  'restaurant-it-posthus-burdaard-20261031'
+]) {
+  for (const date of ['2026-11-01', '2027-05-15', '']) {
+    state.date = date; state.day = 'zo';
+    assert.equal(eligible(byId(id)), false,
+      id + ' has no verified future public-opening interval: ' + date);
+  }
+}
+state.uncertain = false; state.date = ''; state.day = 'vr';
+
 console.log('Frontend dated-closure integration tests passed');
