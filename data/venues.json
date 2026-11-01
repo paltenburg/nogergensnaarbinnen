@@ -31821,6 +31821,57 @@
         "https://eetgerust.nl/restaurant/beachclub-sneek-bv"
       ],
       "original_status": "Eigen website met actuele oktober 2026-activiteiten en alcoholaanbod; novemberopening nog niet bevestigd. Onderscheiden van Strand Sneek/Paviljoen Sneekermeer op ander huisnummer."
+    },
+    {
+      "id": "strand-sneek-paviljoen-sneekermeer-offingawier-20261101",
+      "name": "Strand Sneek (Paviljoen Sneekermeer)",
+      "type": "Strandpaviljoen / watersportterras",
+      "address": "Paviljoenwei 1D",
+      "city": "Offingawier",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant-FAQ bevestigt dat men zonder watersportticket alleen voor eten en drinken op het terras mag komen.",
+      "alcohol": "Exploitant noemt speciaalbier, lokale bieren en cocktails op het publiek toegankelijke terras.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "requires_date_schedule": true,
+      "date_schedule_notes": "01-11-2026: exploitant noemt 'weer open' en elders vanaf 1 april, maar bevestigt geen november-/winteropening. Keuken 13:00–19:00 is geen horeca-/barsluiting. Zonder gedateerd rooster bewust verborgen.",
+      "opening_quality": "Geen actuele novemberweekuren rechtstreeks bevestigd; contact-/telefonische bereikbaarheid is geen openingstijd.",
+      "closing_quality": "Exploitant noemt uitsluitend keuken 13:00–19:00 en telefonische bereikbaarheid, geen sluiting of laatste toegang.",
+      "opening_source": "https://strandsneek.nl/info/",
+      "closing_source": "https://strandsneek.nl/paviljoen-sneekermeer/",
+      "opening_checked_on": "2026-11-01",
+      "closing_checked_on": "2026-11-01",
+      "closing_notes": "01-11-2026: eigen FAQ bevestigt losse borrel, alcohol en publieksinloop; novemberuren en laatste toegang onbekend. Eigen contactadres Paviljoenwei 1D versus VVV Paviljoenwei 4. Niet samenvoegen met Beachclub Sneek op Paviljoenwei 6.",
+      "geocode_blocked": true,
+      "address_notes": "Exploitant https://strandsneek.nl/paviljoen-sneekermeer/ noemt Paviljoenwei 1D, 8626 GD Sneek; VVV https://www.waterlandvanfriesland.nl/nl/locaties/1845110757/paviljoen-strand-sneek noemt Paviljoenwei 4, 8626 GD Offingawier. Identiteit/huisnummer voor BAG-match eerst uitzoeken.",
+      "website": "https://strandsneek.nl/",
+      "website_checked_on": "2026-11-01",
+      "website_provenance": "Exploitantwebsite Strand Sneek met eigen paviljoen-, FAQ- en contactpagina.",
+      "checked_on": "2026-11-01",
+      "other_sources": [
+        "https://strandsneek.nl/info/",
+        "https://strandsneek.nl/paviljoen-sneekermeer/",
+        "https://www.waterlandvanfriesland.nl/nl/locaties/1845110757/paviljoen-strand-sneek"
+      ],
+      "original_status": "Eigen website met publiek terras en alcoholaanbod; actuele novemberexploitatie en exact BAG-adres niet bevestigd; verborgen."
     }
   ],
   "admission_policies": [
