@@ -6,7 +6,7 @@
 
 **Leeuwarden gecontroleerd zonder mutatie**: Café de Pastorie (Kleine Kerkstraat 9), Café-Bar 't Hoekje (Weaze 44), Café De Twin (Nieuwesteeg 2) zijn al in master met onzekere uren en zonder eigen verifieerbare website. 01-11-2026 opnieuw gevonden: https://www.visitleeuwarden.com/en/locations/2614250416/cafe-the-rectory, https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html, https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388. Bij Twin wijkt zondag/opening op gidsen af; bij Hoekje 22 vs 23; Pastorie-exploitant https://www.cafebiljartdepastorie.nl/ was niet bereikbaar. Geen primaire actuele roosters bevestigd, dus bestaande onbekenden behouden. **Volgende actie:** direct exploitant/recente officiële sociale kanalen voor deze drie, niet opnieuw generieke gidsuren overnemen.
 
-**Samenvatting werkelijke mutaties van deze uitvoering:** 11 nieuwe Friese records, 0 bestaande recordwijzigingen, **4 datacommits + 4 TODO-commits inclusief dit checkpoint**; CI/live publicatie van laatste dataset onbekend. W45-audit pas vanaf maandag 02-11-2026 10:00.
+**Samenvatting werkelijke mutaties van deze uitvoering:** 11 nieuwe Friese records, 0 bestaande recordwijzigingen, **4 datacommits + 5 TODO-commits inclusief dit checkpoint**; CI/live publicatie van laatste dataset onbekend. W45-audit pas vanaf maandag 02-11-2026 10:00.
 
 
 ### Vervolgcheckpoint 01-11-2026 03:xx Europe/Amsterdam — WestCord/Brandaris, master 666
