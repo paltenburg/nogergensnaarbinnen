@@ -23218,11 +23218,11 @@
       "opening": {
         "ma": "—",
         "di": "—",
-        "wo": "12:00",
-        "do": "12:00",
-        "vr": "12:00",
-        "za": "12:00",
-        "zo": "12:00"
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
       },
       "closing": {
         "ma": "—",
@@ -23235,13 +23235,13 @@
       },
       "closing_quality": "Eigen homepage 31-10-2026 geeft wo–zo 12:00–22:00; feitelijke heropening na sluitingsperiode 4–29 oktober niet onafhankelijk bevestigd.",
       "closing_source": "https://www.eetcafededames.nl/",
-      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren. | 31-10-2026: de opnieuw opgehaalde eigen homepage https://www.eetcafededames.nl/ geeft nu 12:00–22:00 op wo–zo (eerder op 30-10 rechtstreeks 11:00 gelezen); begintijden bijgewerkt. De zoekindex en homepage komen nu overeen. Er is nog geen onafhankelijk bewijs dat de zaak na de aangekondigde tijdelijke sluiting daadwerkelijk heropend is; selectie blijft Nog te controleren.",
+      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren. | 31-10-2026: de opnieuw opgehaalde eigen homepage https://www.eetcafededames.nl/ geeft nu 12:00–22:00 op wo–zo (eerder op 30-10 rechtstreeks 11:00 gelezen); begintijden bijgewerkt. De zoekindex en homepage komen nu overeen. Er is nog geen onafhankelijk bewijs dat de zaak na de aangekondigde tijdelijke sluiting daadwerkelijk heropend is; selectie blijft Nog te controleren. | 02-11-2026: rechtstreeks geopende actuele homepage toont weer wo–zo 11:00–22:00 (eerdere snapshot 12:00); begintijd aangepast aan eigen site. Banner 4–29 oktober blijft staan, feitelijke heropening niet bevestigd, status verborgen behouden.",
       "features": "D0 De Fryske Marren / Balk; tijdelijke sluiting t/m 29 oktober; heropening verifiëren",
       "website": "https://www.eetcafededames.nl/",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "opening_source": "https://www.eetcafededames.nl/",
-      "opening_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-11-02",
       "other_sources": [
         "https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf",
         "https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/"
@@ -35388,7 +35388,7 @@
       "opening_source": "https://itholt.nl/",
       "closing_source": "",
       "opening_checked_on": "2026-11-02",
-      "closing_notes": "02-11-2026: eigen https://itholt.nl/ en https://itholt.nl/uitgaan tonen eetcafé, actuele feesten 14/21 november en reguliere restaurantbeginuren; 9–12 november 2026 expliciet 'opening/afhaaltijden gesloten' op homepage, maar groeps-/evenementgebruik kan afwijken. Eigen site vermeldt geen alcoholsoorten of vrije drankinloop, daarom verborgen. Vrijdagse afhaal 11:30–13:00 geen caféopening; mooiweer-afwijkingen en sluituren onbekend. https://www.tripadvisor.nl/Restaurant_Review-g15022947-d14957451-Reviews-It_Holt-Deinum_Friesland_Province.html noemt drankjes, maar niet afzonderlijk actuele bier-/wijnkaart. Geen geo verzonnen.",
+      "closing_notes": "02-11-2026: eigen https://itholt.nl/ en https://itholt.nl/uitgaan tonen eetcafé, actuele feesten 14/21 november en reguliere restaurantbeginuren; 9–12 november 2026 expliciet 'opening/afhaaltijden gesloten' op homepage, maar groeps-/evenementgebruik kan afwijken. Eigen site vermeldt geen alcoholsoorten of vrije drankinloop, daarom verborgen. Vrijdagse afhaal 11:30–13:00 geen caféopening; mooiweer-afwijkingen en sluituren onbekend. https://www.tripadvisor.nl/Restaurant_Review-g15022947-d14957451-Reviews-It_Holt-Deinum_Friesland_Province.html noemt drankjes, maar niet afzonderlijk actuele bier-/wijnkaart. Geen geo verzonnen. | 02-11-2026: eigen homepage meldt aanvullend gesloten 25-12-2026 t/m 01-01-2027; als datumsluiting vastgelegd, niet verward met regulier weekrooster.",
       "website": "https://itholt.nl/",
       "website_checked_on": "2026-11-02",
       "website_provenance": "Eigen 2026 homepage, actuele evenementagenda en contactpagina rechtstreeks gelezen 02-11-2026.",
@@ -35407,6 +35407,13 @@
           "source": "https://itholt.nl/",
           "checked_on": "2026-11-02",
           "certainty": "Exploitant noemt 9 t/m 12 november 'Opening/afhaaltijden gesloten'; geldt voor gewone inloop, besloten feesten niet apart bevestigd."
+        },
+        {
+          "start": "2026-12-25",
+          "end": "2027-01-01",
+          "source": "https://itholt.nl/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt sluiting 25 december t/m 1 januari; reguliere vrije inloop gesloten, afzonderlijke besloten boekingen niet geverifieerd."
         }
       ],
       "date_closures_checked_on": "2026-11-02",
