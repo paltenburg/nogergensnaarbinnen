@@ -140,3 +140,12 @@ for (const day of ['wo','do','vr','za']) {
 assert.equal(spiegelaar.last_entry, undefined,
   'No invented last-entry cutoff for Spiegelaar');
 console.log('Spiegelaar conflicting operator timetables safely handled.');
+
+const gouverneur = byId('de-gouverneur-leeuwarden-20261102');
+assert.equal(gouverneur.selection, 'Nog te controleren',
+  'Restaurant dining hours do not prove independent alcohol-only admission');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(gouverneur.opening[day], '?', 'restaurant hours cannot be bar opening '+day);
+  assert.equal(gouverneur.closing[day], '?', 'restaurant hours cannot be bar closing '+day);
+}
+console.log('Restaurant-only hours do not leak into public bar search.');
