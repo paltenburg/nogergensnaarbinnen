@@ -20590,7 +20590,7 @@
       "alcohol": "Eigen website bevestigt speciaalbier en cocktails.",
       "selection": "Voorlopig",
       "opening": {
-        "ma": "?",
+        "ma": "—",
         "di": "19:00",
         "wo": "14:00",
         "do": "14:00",
@@ -20599,7 +20599,7 @@
         "zo": "11:00"
       },
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "23:00",
         "wo": "23:00",
         "do": "23:00",
@@ -20608,16 +20608,19 @@
         "zo": "23:00"
       },
       "closing_quality": "Eigen actuele website 30-10-2026; feestdagen en besloten feesten uitgezonderd.",
-      "closing_source": "https://www.poolcafe-tijdloos.nl/",
-      "closing_notes": "30-10-2026: di 19–23, wo/do 14–23, vr/za 11–00, zo 11–23. Maandag niet expliciet genoemd op eigen site, dus onbekend (gids noemt gesloten). Gids https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416 noemt dinsdag gesloten, in strijd met eigen site. Vrijdag/zaterdag na 19:30 geen activiteitenreservering is NIET laatste cafétoegang. Eigen footer postcode 8401DD bevestigd door regionale VVV https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe; externe bedrijvengids noemt strijdig 8401PM. BAG-marker nog exact controleren.",
+      "closing_source": "https://www.poolcafe-tijdloos.nl/contact",
+      "closing_notes": "30-10-2026: di 19–23, wo/do 14–23, vr/za 11–00, zo 11–23. Maandag niet expliciet genoemd op eigen site, dus onbekend (gids noemt gesloten). Gids https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416 noemt dinsdag gesloten, in strijd met eigen site. Vrijdag/zaterdag na 19:30 geen activiteitenreservering is NIET laatste cafétoegang. Eigen footer postcode 8401DD bevestigd door regionale VVV https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe; externe bedrijvengids noemt strijdig 8401PM. BAG-marker nog exact controleren. | 02-11-2026: officiële contactpagina https://www.poolcafe-tijdloos.nl/contact geeft expliciet maandag gesloten (alleen groepen vanaf 50 personen op afspraak); ma opening/sluiting nu —. Dinsdag 19–23 wordt door dezelfde exploitant bevestigd, ondanks afwijkende gidsen. Officiële contactpagina heeft postcode 8401 PM maar eigen evenementpagina's https://www.poolcafe-tijdloos.nl/event-details/spelletjesavond-bij-tijdloos en BAG Langewâl 4 hebben 8401 DD; bestaande exacte BAG-marker op huisnummer 4 blijft gehandhaafd. Feestdag-/besloten afwijkingen blijven mogelijk.",
       "features": "D0 Opsterland / Gorredijk; eigen agenda met events okt–dec 2026",
       "website": "https://www.poolcafe-tijdloos.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "other_sources": [
         "https://vind-open.nl/gorredijk/tijdloos-poolcaf%C3%A9-1000416",
         "https://www.cylex.nl/bedrijf/tijdloos-poolcaf%C3%A9-13938335.html",
-        "https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe"
+        "https://www.zuidoostfriesland.nl/alle-locaties/4273639531/tijdloos-poolcafe",
+        "https://www.poolcafe-tijdloos.nl/contact",
+        "https://www.poolcafe-tijdloos.nl/event-details/spelletjesavond-bij-tijdloos",
+        "https://www.postcode-adresboek.nl/pand-langewal-4-gorredijk"
       ],
       "original_status": "Officiële website actief 30-10-2026 met Halloween 31 oktober en toekomstige events.",
       "geo": {
@@ -20625,7 +20628,11 @@
         "lon": 6.0646717,
         "method": "PDOK BAG-adres",
         "matched_address": "Langewâl 4, 8401DD Gorredijk"
-      }
+      },
+      "opening_source": "https://www.poolcafe-tijdloos.nl/contact",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "geocode_notes": " | 02-11-2026: officiële contactfooter noemt afwijkend 8401 PM; eigen evenementpagina 10-11-2026 noemt Langewal 4, 8401 DD en BAG-postcodetabellen bevestigen 8401 DD. Marker blijft op BAG huisnummer 4, geen willekeurige wijziging."
     },
     {
       "id": "cafe-restaurant-overwijk-tijnje-20261030",
@@ -36785,6 +36792,57 @@
       "geocode_blocked": true,
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "Eigen site: Tichelwei 32E, 9125 EB Oostrum/Dokkum; officiële regiogidsen: Tichelwei 32P. Geen willekeurige BAG-match of gebouwcentroid."
+    },
+    {
+      "id": "cafe-de-knyp-de-knipe-20261102",
+      "name": "Café de Knyp",
+      "type": "Dorpscafé / biljartcafé / bar",
+      "address": "Meyerweg 117",
+      "city": "De Knipe",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Dorpscafé met publieke inloop: lokaal evenementprogramma 2026 gebruikt café als publieke verzamelplek; lokaal ondernemersinterview en uitgaansgids beschrijven vrije café-inloop, biljart en terras. Ticket-/ledenvoorwaarden van de afzonderlijke feesttent niet aan regulier café toegeschreven.",
+      "alcohol": "Bier aan de tap en seizoensbier door exploitanten genoemd in lokaal interview; menukaart uit 2025 bevat bieren en wijnen. Actuele 2026-drankenkaart niet onafhankelijk van de exploitant gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Geen rechtstreeks actueel exploitantenweekrooster gevonden. Gidsen verschillen voor dinsdag/woensdag en sluituren; alle weektijden onbekend.",
+      "closing_quality": "Geen actueel primair regulier sluituur bevestigd; 2026-festivaltijden zijn geen caféweekrooster.",
+      "closing_notes": "02-11-2026: https://knypstermerke.nl/programma/ bevestigt Café de Knyp als locatie van openbare start Knypster Merke 09-10-2026 en schuttersfeest 12-10-2026; feesttent is afzonderlijk aan Tramweg 15. https://heerenveenlokaal.nl/agenda bevestigt bijeenkomst 31-01-2026 in Café de Knyp. https://www.grootheerenveen.nl/nieuws/cultuur-en-uitgaan/49858/nieuwe-kroegbazen-van-cafe-de-knyp-wij-willen-dat-iedereen-zich-hier-thuis-voelt- bevat historisch ondernemersinterview met publieke caféfunctie en bier, geen bewijs van huidige eigenaren. https://www.het-menu.nl/de-knipe/restaurant/cafe_de_knyp/menukaart heeft bier/wijn in 2025. https://firmania.nl/de-knipe/caf%C3%A9-de-knyp-270248 geeft 2026 di/wo open, https://www.allebiz.nl/caf%C3%A9-de-knyp-0513-688-229 en https://restaurantguru.com/Cafe-de-Knyp-De-Knipe-2 geven afwijkende weekdagen en sluituren; daarom alle vaste tijden en laatste toegang onbekend. Geen eigen officiële website of exact BAG-punt bevestigd.",
+      "features": "D0 gemeente Heerenveen / De Knipe; dorpscafé met biljart, pool en verenigingen; 2026 lokale evenementen",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Geen rechtstreeks controleerbare officiële exploitantenwebsite gevonden; oudere Facebookverwijzingen niet als geverifieerde eigen website overgenomen.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://knypstermerke.nl/programma/",
+        "https://heerenveenlokaal.nl/agenda",
+        "https://www.grootheerenveen.nl/nieuws/cultuur-en-uitgaan/49858/nieuwe-kroegbazen-van-cafe-de-knyp-wij-willen-dat-iedereen-zich-hier-thuis-voelt-",
+        "https://www.het-menu.nl/de-knipe/restaurant/cafe_de_knyp/menukaart",
+        "https://www.uitagenda.nl/locaties/cafe-de-knyp-de-knipe",
+        "https://firmania.nl/de-knipe/caf%C3%A9-de-knyp-270248",
+        "https://www.allebiz.nl/caf%C3%A9-de-knyp-0513-688-229",
+        "https://restaurantguru.com/Cafe-de-Knyp-De-Knipe-2"
+      ],
+      "original_status": "Publieke caféfunctie en exploitatieactiviteiten in 2026 onderbouwd, actuele reguliere openingsuren en rechtstreeks actueel alcoholassortiment niet volledig geverifieerd. Voorlopig; geen live bezoek bevestigd."
     }
   ],
   "admission_policies": [
