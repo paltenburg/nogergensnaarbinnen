@@ -11555,7 +11555,7 @@
       },
       "closing_quality": "Gidsen spreken elkaar tegen: 14:00–22:00 (BestRestos, 27-09-2026) versus 14:00–00:00 (AlleBiz/Cylex; Cylex laatst 2024). Geen eigen bron.",
       "closing_source": "",
-      "closing_notes": "Adres en café-/dartsfunctie door meerdere gidsen genoemd. Verschillende niet-officiële bronnen geven tegenstrijdige sluitingstijden (22:00 of 00:00), daarom geen van beide als vast rooster ingevuld. Dartsgids heeft een toekomstige wedstrijd 19-12-2026 op dit adres, maar dat bevestigt geen dagelijkse opening. Laatste toegang onbekend; actuele exploitatie nog afzonderlijk te bevestigen.",
+      "closing_notes": "Adres en café-/dartsfunctie door meerdere gidsen genoemd. Verschillende niet-officiële bronnen geven tegenstrijdige sluitingstijden (22:00 of 00:00), daarom geen van beide als vast rooster ingevuld. Dartsgids heeft een toekomstige wedstrijd 19-12-2026 op dit adres, maar dat bevestigt geen dagelijkse opening. Laatste toegang onbekend; actuele exploitatie nog afzonderlijk te bevestigen. | 02-11-2026: dartsorganisatie https://dartsgids.nl/nederland/friesland/ kondigt wedstrijden bij Café 't Singeltje op 21-11, 28-11 en 19-12-2026 aan. Dit ondersteunt gepland locatiegebruik maar bevestigt geen openbare vrije inloop, daadwerkelijke toekomstige uitvoering, normale sluitingstijd of laatste toegang. Geen reguliere uren overgenomen.",
       "features": "Café en dartslocatie volgens Friese Darts Bond-/dartsvermeldingen",
       "website": "",
       "other_sources": [
@@ -11563,7 +11563,8 @@
         "https://bestrestos.nl/restaurant/cafe--t-singeltje-sneek-3504",
         "https://www.allebiz.nl/caf%C3%A9-t-singeltje-06-21888522",
         "https://dartsgids.nl/locaties/cafe-t-singeltje/",
-        "https://dartsgids.nl/agenda/slt-sneek-slt-broukster-bouncers/"
+        "https://dartsgids.nl/agenda/slt-sneek-slt-broukster-bouncers/",
+        "https://dartsgids.nl/nederland/friesland/"
       ],
       "original_status": "Gidsen en dartsagenda noemen de zaak aan Singel 67; geen actuele eigen website of onafhankelijk bewijs van vast weekrooster gevonden. Status blijft voorlopig.",
       "geo": {
@@ -11574,7 +11575,7 @@
       },
       "website_checked_on": "2026-10-29",
       "website_provenance": "Geen actuele officiële website gevonden. Oude gidslink singel67.hyves.nl is niet bruikbaar als hedendaagse officiële site.",
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-11-02"
     },
     {
       "id": "eetcafe-de-lachende-koe-sneek-267ea95",
@@ -17469,7 +17470,7 @@
       "city": "Reahûs",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen website: hoofdzakelijk op afspraak; publieke reguliere vrije inloop niet bevestigd.",
+      "access": "Eigen exploitantwebsite zegt hoofdzakelijk op afspraak, maar eigen agenda bevestigt incidenteel publiek 'Open café' op 02-10-2026 20:30. Geen vast wekelijks vrij-inlooprooster aangetoond.",
       "alcohol": "Eigen website noemt eigen Slachtebier en bierproeverijen.",
       "selection": "Nog te controleren",
       "closing": {
@@ -17483,11 +17484,13 @@
       },
       "closing_quality": "Eigen site: op afspraak en agenda; geen vaste publieksuren",
       "closing_source": "https://www.cafederee.nl/",
-      "closing_notes": "Eigen site via zoekindex geraadpleegd 30-10-2026 (direct openen gaf timeout): Café de Ree, Slypsterwei 1, hoofdzakelijk op afspraak geopend. Oude recordnaam 'Café De Finne' op exact hetzelfde adres niet onafhankelijk bevestigd; ID behouden, naam aangepast aan actuele exploitantvermelding. Geen normale vrije inloop, weekrooster of laatste toegang bevestigd. Externe gidsuren niet overgenomen.",
+      "closing_notes": "Eigen site via zoekindex geraadpleegd 30-10-2026 (direct openen gaf timeout): Café de Ree, Slypsterwei 1, hoofdzakelijk op afspraak geopend. Oude recordnaam 'Café De Finne' op exact hetzelfde adres niet onafhankelijk bevestigd; ID behouden, naam aangepast aan actuele exploitantvermelding. Geen normale vrije inloop, weekrooster of laatste toegang bevestigd. Externe gidsuren niet overgenomen. | 02-11-2026: officiële agenda https://www.cafederee.nl/agenda/ noemt 'Open café' vrijdag 02-10-2026 vanaf 20:30, plus andere 2026-dorpsactiviteiten. Onafhankelijke 08-06-2026 reportage https://www.grootsneek.nl/nieuws/algemeen/133882/de-avondvierdaagse-fan-us-doarpen-van-start noemt de locatie als startpunt van openbare wandeling 14-06-2026. Dit bewijst incidenteel gebruik, geen regulier weekrooster, geen november-openstelling of laatste toegang. Eigen homepage blijft 'hoofdzakelijk op afspraak'.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafederee.nl/",
       "other_sources": [
-        "https://www.allebiz.nl/cafe-de-ree-0515-858-813"
+        "https://www.allebiz.nl/cafe-de-ree-0515-858-813",
+        "https://www.cafederee.nl/agenda/",
+        "https://www.grootsneek.nl/nieuws/algemeen/133882/de-avondvierdaagse-fan-us-doarpen-van-start"
       ],
       "original_status": "Op hetzelfde adres is exploitant Café de Ree aantoonbaar; relatie met oude inventarisatienaam De Finne nog nader controleren.",
       "geo": {
@@ -17497,7 +17500,7 @@
         "matched_address": "Slypsterwei 1, 8736JD Reahûs"
       },
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -23623,18 +23626,19 @@
       },
       "closing_quality": "Eigen site geeft alleen vanaf 16:00 wo–zo, ma/di dicht. Externe gidsen geven verschillende sluituren, niet als bevestigd ingevuld.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://hetgraauwepaard.nl/ bevestigt Monnikebildtdijk 1, 9078 VB Oudebildtzijl, wo–zo vanaf 16, ma/di gesloten; https://hetgraauwepaard.nl/menu/ en https://hetgraauwepaard.nl/bierkaart/ tonen eigen bier-/wijnkaart. Visit Wadden https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard bevestigt beginuren, geen sluiting. https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065 noemt wisselende 21/22 uur, niet bevestigd door exploitant. https://hetgraauwepaard.nl/rolling-stones-meet-creedence-clearwater-revival/ toont december-evenement, geen weekrooster. Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: https://hetgraauwepaard.nl/ bevestigt Monnikebildtdijk 1, 9078 VB Oudebildtzijl, wo–zo vanaf 16, ma/di gesloten; https://hetgraauwepaard.nl/menu/ en https://hetgraauwepaard.nl/bierkaart/ tonen eigen bier-/wijnkaart. Visit Wadden https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard bevestigt beginuren, geen sluiting. https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065 noemt wisselende 21/22 uur, niet bevestigd door exploitant. https://hetgraauwepaard.nl/rolling-stones-meet-creedence-clearwater-revival/ toont december-evenement, geen weekrooster. Laatste toegang onbekend. | 02-11-2026: regionale agenda https://www.bildt.nu/agenda kondigt voor woensdag 04-11-2026 19:30 een Fryske-boekewikeoptreden bij Het Grauwe Paard in Oudebildtzijl aan. Dit is toekomstige evenementaanvang, geen afwijking op eigen weekrooster, geen bevestigd einduur/laatste toegang.",
       "features": "D0 Waadhoeke / Oudebildtzijl; eindtijden onbekend",
       "website": "https://hetgraauwepaard.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening_source": "https://hetgraauwepaard.nl/",
       "opening_checked_on": "2026-10-30",
       "other_sources": [
         "https://hetgraauwepaard.nl/menu/",
         "https://hetgraauwepaard.nl/bierkaart/",
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3910421738/eetcafe-het-graauwe-paard",
-        "https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065"
+        "https://www.allebiz.nl/eetcaf-u-e-het-graauwe-paard-06-10014065",
+        "https://www.bildt.nu/agenda"
       ],
       "original_status": "Eigen site en bier-/wijnkaart bevestigd; actuele eindtijden niet bevestigd.",
       "geo": {
