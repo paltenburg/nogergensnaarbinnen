@@ -23125,7 +23125,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen site heet voorbijgangers en inwoners welkom voor een drankje of maaltijd; zaalverhuur en sportactiviteiten zijn afzonderlijk.",
-      "alcohol": "Eigen site noemt borrel, en Friesland.nl bevestigt een borrelkaart; exacte alcoholsoorten niet afzonderlijk van actuele menukaart uitgelezen.",
+      "alcohol": "Eigen site biedt openbare borrel, maar eigen 2026-etenkaart toont geen afzonderlijke alcoholsoorten. Door bedrijf geclaimde Tripadvisor-vermelding (2026) noemt expliciet 'serves alcohol', bier en wijn; Nederlandse Biercultuur vermeldt huisbier 'De Kreet van Utherne', maar actuele tapbeschikbaarheid niet bevestigd. Primair actuele drankkaart blijft te verifiëren.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "11:00",
@@ -23147,7 +23147,7 @@
       },
       "closing_quality": "Eigen site schrijft nadrukkelijk 'in ieder geval open tot' 22:00 (ma–wo/zo) en 00:00 (do–za). Dit zijn gegarandeerde minimumopeningen, GEEN exacte sluitingstijden. Alle closing-velden daarom onbekend.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: https://utherne.nl/ bevestigt vrije café-/borrelinloop, adres en opening ma–vr/zo 10:00, za 08:30; 'in ieder geval open tot' 22:00 ma–wo/zo en 00:00 do–za. Deze ondergrens niet als exact einduur of laatste toegang opgeslagen. https://www.friesland.nl/nl/locaties/430334362/m-f-c-de-utherne noemt borrelkaart. Gids https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne toont dagelijks 10–23, maar is strijdig met exploitant en niet overgenomen. | 02-11-2026 correctie: huidige geopende HTML https://utherne.nl/ toont ma–vr/zo 11:00 (niet 10:00); zaterdag blijft 08:30. De oude 10:00 in zoek-snippet/gids is niet meer leidend. 'In ieder geval open tot' 22:00/00:00 blijft alleen ondergrens, geen exact sluituur. Eigen 2026-etenkaart toont borrelplank maar geen afzonderlijke alcoholsoorten; alcoholkaart nog verifiëren.",
+      "closing_notes": "30-10-2026: https://utherne.nl/ bevestigt vrije café-/borrelinloop, adres en opening ma–vr/zo 10:00, za 08:30; 'in ieder geval open tot' 22:00 ma–wo/zo en 00:00 do–za. Deze ondergrens niet als exact einduur of laatste toegang opgeslagen. https://www.friesland.nl/nl/locaties/430334362/m-f-c-de-utherne noemt borrelkaart. Gids https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne toont dagelijks 10–23, maar is strijdig met exploitant en niet overgenomen. | 02-11-2026 correctie: huidige geopende HTML https://utherne.nl/ toont ma–vr/zo 11:00 (niet 10:00); zaterdag blijft 08:30. De oude 10:00 in zoek-snippet/gids is niet meer leidend. 'In ieder geval open tot' 22:00/00:00 blijft alleen ondergrens, geen exact sluituur. Eigen 2026-etenkaart toont borrelplank maar geen afzonderlijke alcoholsoorten; alcoholkaart nog verifiëren. | 02-11-2026 aanvullend: https://www.tripadvisor.de/Restaurant_Review-g2553776-d33343779-Reviews-De_Utherne-IJlst_Friesland_Province.html is als bedrijf geclaimde vermelding en noemt expliciet bier/wijn/alcohol, maar publiceert verouderd dagelijks 10:00–23:00; dit rooster NIET overgenomen. https://www.nederlandsebiercultuur.nl/databank/bier?item-id=21041 vermeldt voor Utherne gebrouwen 8% huisbier 'De Kreet van Utherne'; huidige verkoop niet bewezen. Eigen huidige 11:00-begintijden en onbekende exacte sluituren blijven leidend.",
       "features": "D0 Súdwest-Fryslân / IJlst; publieke borrel in multifunctioneel centrum",
       "website": "https://utherne.nl/",
       "website_checked_on": "2026-11-02",
@@ -23156,7 +23156,9 @@
       "opening_checked_on": "2026-11-02",
       "other_sources": [
         "https://www.friesland.nl/nl/locaties/430334362/m-f-c-de-utherne",
-        "https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne"
+        "https://www.het-menu.nl/ijlst/restaurant/eetcafe_de_utherne",
+        "https://www.tripadvisor.de/Restaurant_Review-g2553776-d33343779-Reviews-De_Utherne-IJlst_Friesland_Province.html",
+        "https://www.nederlandsebiercultuur.nl/databank/bier?item-id=21041"
       ],
       "original_status": "Eigen site bevestigt publieke caféfunctie en beginuren; echte sluiting en laatste toegang blijven onbekend.",
       "geo": {
