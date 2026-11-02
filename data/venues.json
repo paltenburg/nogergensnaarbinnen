@@ -17515,7 +17515,7 @@
       "city": "Jirnsum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen website adverteert vrije inloop, bier/wijn en terras, maar actualiteit van deze website is onduidelijk.",
+      "access": "Eigen website vermeldt publieke bier-/wijninloop, maar is mogelijk verouderd. Lokale Mauritiuskerk-gids (gepubliceerd circa 2025) beschrijft na verbouwing in 2024 alleen incidentele weekendopening door vrijwilligers; reguliere vrije inloop in november 2026 niet bevestigd.",
       "alcohol": "Eigen site vermeldt expliciet biertje en wijntje.",
       "selection": "Nog te controleren",
       "closing": {
@@ -17527,16 +17527,17 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen site toont ongedateerd rooster, externe bedrijvengids meldt gesloten; huidige exploitatie onzeker",
+      "closing_quality": "Regulier rooster onbevestigd; eigen website mogelijk verouderd en lokale bron beschrijft incidentele openstelling",
       "closing_source": "https://www.cafedefantast.nl/",
-      "closing_notes": "Website rechtstreeks gelezen 30-10-2026: ma dicht, di–vr vanaf 16, za/zo vanaf 14; copyright 2019, agenda zonder jaartallen. https://www.allebiz.nl/de-fantast_3K-0566-601-956 markeert zaak als gesloten, terwijl https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830 nog KvK-activiteit 2026 noemt. Geen actuele publieke exploitatie onafhankelijk bevestigd; daarom geen vast rooster of sluiting. Laatste toegang onbekend.",
+      "closing_notes": "Website rechtstreeks gelezen 30-10-2026: ma dicht, di–vr vanaf 16, za/zo vanaf 14; copyright 2019, agenda zonder jaartallen. https://www.allebiz.nl/de-fantast_3K-0566-601-956 markeert zaak als gesloten, terwijl https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830 nog KvK-activiteit 2026 noemt. Geen actuele publieke exploitatie onafhankelijk bevestigd; daarom geen vast rooster of sluiting. Laatste toegang onbekend. | Hercontrole 02-11-2026: lokale Mauritiuskerk-gids https://mauritiuskerk.nl/en/blog/248625071737/eating-in-jirnsum-where-to-eat (gepubliceerd circa 2025) meldt dat na de verbouwing in 2024 de bar/het terras alleen soms in het weekend dankzij vrijwilligers open zijn. Dit botst met het ongedateerde di–zo-rooster op de eigen website. Niet als vaste openingstijden tonen. Actuele evenementkalender/feitelijke exploitatie 2026 nog rechtstreeks bevestigen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafedefantast.nl/",
       "other_sources": [
         "https://www.allebiz.nl/de-fantast_3K-0566-601-956",
-        "https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830"
+        "https://www.compadex.com/nl/businesses/nl/de-fantast-01020267-03927830",
+        "https://mauritiuskerk.nl/en/blog/248625071737/eating-in-jirnsum-where-to-eat"
       ],
-      "original_status": "Identiteit en adres via eigen site/KvK bevestigd, huidige openstelling betwist; geen sluiting als definitief aangemerkt.",
+      "original_status": "Historisch dorpscafé, na verbouwing tot appartementen volgens lokale bron soms als vrijwilligersevenement open; geen bewijs voor regulier 2026-weekrooster.",
       "geo": {
         "lat": 53.077972,
         "lon": 5.7928087,
@@ -17544,7 +17545,7 @@
         "matched_address": "Rijksweg 132, 9011VH Jirnsum"
       },
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -35433,6 +35434,50 @@
       "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit GitHub Actions 41363430057 (717-record Pages-artefact; added_in_this_run=2 inclusief eerder nog niet in die build opgenomen Dronryp-adres). Bitgumerdyk 2, 9034GJ Marsum. Geen fysieke café-ingang afzonderlijk geverifieerd."
+    },
+    {
+      "id": "de-blauwe-tent-reduzum-20261102",
+      "name": "De Blauwe Tent",
+      "type": "Restaurant/borrelgelegenheid",
+      "address": "Overijselsestraatweg 6",
+      "city": "Reduzum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen actuele website biedt expliciet een gezellige borrel zonder maaltijd aan; actuele vrije toegang als restaurant bevestigd. Laatste toegang niet gepubliceerd.",
+      "alcohol": "Historisch artikel uit 2019 bevestigt invoering van alcoholverkoop; de huidige officiële wintermenukaart 2026 noemt geen alcoholische dranksoorten. Actueel alcoholaanbod nog afzonderlijk verifiëren.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "—"
+      },
+      "closing_quality": "Regionale VVV geeft wo–za 10:00–20:00, maar officiële wintermenukaart zegt uitsluitend dat de keuken om 20:00 sluit; daarom geen horeca-eindtijd overgenomen",
+      "closing_source": "https://www.friesland.nl/nl/locaties/2279274301/de-blauwe-tent",
+      "closing_notes": "Eigen site https://www.blauwetent.nl/ noemt publieke borrel; eigen wintermenukaart (bestand geplaatst oktober 2026) bevestigt opening vanaf 10:00 en keuken tot 20:00, NIET cafésluiting. Regionale Friesland.nl geeft ma/di/zo gesloten en wo–za 10:00–20:00; Restaurantguru toont hetzelfde, maar 20:00 niet als bewezen bar-einduur overgenomen. Bier/wijn in november 2026 niet op huidige kaart vastgesteld; artikel https://bigtruck.nl/nieuws/de-blauwe-tent uit 2019 noemt wel alcohol. Laatste toegang en feitelijke novemberse alcoholverkoop onbekend. Verborgen tot bevestiging.",
+      "features": "Friesland; Reduzum; nieuwe D0-kandidaat",
+      "website": "https://www.blauwetent.nl/",
+      "other_sources": [
+        "https://www.blauwetent.nl/wp-content/uploads/2026/10/Menukaart-winter-26.pdf",
+        "https://www.friesland.nl/nl/locaties/2279274301/de-blauwe-tent",
+        "https://bigtruck.nl/nieuws/de-blauwe-tent",
+        "https://restaurantguru.com/Blauwe-Tent-Reduzum"
+      ],
+      "original_status": "Officiële website en wintermenukaart 2026 wijzen op actuele exploitatie; publieke borrel genoemd. Huidige alcoholsoorten en werkelijke sluituren nog onbevestigd.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
