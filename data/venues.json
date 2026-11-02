@@ -38354,7 +38354,15 @@
         "https://brasseriespiegelaar.nl/onze-eigen-bieren/",
         "https://www.visitleeuwarden.com/locaties/1757133471/brasserie-spiegelaar"
       ],
-      "original_status": "02-11-2026: eigen actuele site bevestigt exploitatie, publieke borrel, alcohol en vijf eenduidige weekdagen. Maandag en zondag conflicteren op eigen pagina's, dus onbekend; live toegang niet afzonderlijk geverifieerd."
+      "original_status": "02-11-2026: eigen actuele site bevestigt exploitatie, publieke borrel, alcohol en vijf eenduidige weekdagen. Maandag en zondag conflicteren op eigen pagina's, dus onbekend; live toegang niet afzonderlijk geverifieerd.",
+      "geo": {
+        "lat": 53.2011234,
+        "lon": 5.7965896,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Nieuwestad 141, 8911CR Leeuwarden"
+      },
+      "geo_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch Nieuwestad 141, 8911CR Leeuwarden uit daadwerkelijk gedownload en uitgepakt GitHub Pages-artifact van succesvolle run 41527896927 (761 masterrecords; geocode-report: 1 nieuw). Huisnummer, postcode, plaats en venue-ID gecontroleerd. BAG-adreslocatie bewijst niet fysieke café-ingang."
     },
     {
       "id": "de-gouverneur-leeuwarden-20261102",
