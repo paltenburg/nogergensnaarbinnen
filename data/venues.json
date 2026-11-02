@@ -37048,6 +37048,53 @@
         "https://www.shootersleeuwarden.nl/"
       ],
       "original_status": "Actuele 2026 bedrijfsregistratie en VVV-publieksvermelding ondersteunen feestbar; actuele primaire weekuren en concrete alcoholkaart onbevestigd. Voorlopig."
+    },
+    {
+      "id": "double-b-bar-kitchen-leeuwarden-20261102",
+      "name": "Double B Bar & Kitchen",
+      "type": "Bar / restaurant / borrel",
+      "address": "Weerd 18",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site nodigt publiek uit voor borrel, drankje en bar naast burgers; geen maaltijdplicht vermeld. Groepsreserveringen mogelijk, gewone borrel zonder reservering niet expliciet uitgesloten.",
+      "alcohol": "Exploitant vermeldt speciaalbier, cocktails en bar, naast gerechten. Actueel alcoholaanbod op eigen homepage bevestigd.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.doublebleeuwarden.nl/contact",
+      "closing_source": "https://www.doublebleeuwarden.nl/contact",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "opening_quality": "Eigen actuele contactpagina en homepage geven hetzelfde volledige weekrooster, zeven dagen vanaf 16:00.",
+      "closing_quality": "Eigen contactpagina geeft ma–wo en zo 23:00, do 00:00, vr/za 02:00. Sluiting na middernacht op openingsdag geïnterpreteerd; geen laatste-toegangstijd gevonden.",
+      "closing_notes": "02-11-2026: https://www.doublebleeuwarden.nl/contact en https://www.doublebleeuwarden.nl/ onafhankelijk als twee bedrijfseigen pagina's bekeken. Zelfde volledige 7-daagse opening/sluiting; bar, bier, cocktails en borrelfunctie bevestigd. Laatste toegang, feestdagen en seizoensafwijkingen niet vermeld; geen aannames. Weerd 18 bevestigd, BAG-geocode nog niet gecontroleerd.",
+      "features": "D0 Leeuwarden Weerd; volledige primaire weekuren en borrelfunctie",
+      "website": "https://www.doublebleeuwarden.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen exploitantwebsite en contactpagina op 02-11-2026 inhoudelijk gecontroleerd.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.doublebleeuwarden.nl/",
+        "https://www.doublebleeuwarden.nl/contact"
+      ],
+      "original_status": "Actuele primaire exploitantwebsite met bier/cocktails, publieke borrel en zeven begin- en einduren. Voorlopig totdat laatste toegang en eventuele uitzonderingen zijn onderzocht."
     }
   ],
   "admission_policies": [
