@@ -10153,17 +10153,19 @@
       },
       "closing_quality": "Tegenstrijdige bronnen; exact publiek weekrooster niet bevestigd, daarom alle sluitingen onbekend.",
       "closing_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
-      "closing_notes": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend.",
+      "closing_notes": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend. | 02-11-2026: eigen https://www.post-plaza.nl/agenda noemt Sounds & Bites op 06-11-2026 (Jord Brinkhuis) en 13-11-2026 (Hester Tadema). https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema noemt muziek 17:00–21:00 op 13 november. Dit is een evenementvenster, GEEN sluitingstijd of laatste toegang. Het 23:00/00:00/01:00 bronconflict blijft onopgelost.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.post-plaza.nl/restaurant",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
         "https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe",
-        "https://www.post-plaza.nl/vergaderzalen/grand-cafe"
+        "https://www.post-plaza.nl/vergaderzalen/grand-cafe",
+        "https://www.post-plaza.nl/agenda",
+        "https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-30",
+      "original_status": "02-11-2026: officiële actuele Post-Plaza-agenda bevestigt aangekondigde live muziek in eigen Grand Café op 6 en 13 november 2026; dit ondersteunt doorlopende publieke horecaprogrammering, geen bewijs van daadwerkelijke uitvoering of vaste sluituren.",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "07:00",
         "di": "07:00",
@@ -10411,7 +10413,7 @@
       },
       "closing_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026; laatste toegang onbekend",
       "closing_source": "https://www.cafedestrohoed.nl/",
-      "closing_notes": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend. Hercontrole 01-11-2026: https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed bevat café-eigen berichten van 09-01-2026 met zo–wo 14–00 en do–za 14–01, en 31-03-2026 tienjarig jubileum. Dit ondersteunt voortgezette exploitatie en bestaande weekuren, maar is een doorgeplaatste sociale pagina, geen deurcontrole. Laatste toegang blijft onbekend.",
+      "closing_notes": "Eigen site vermeldt dagelijks vanaf 14:00, do–za tot 01:00, overige dagen tot 00:00. Andere gidsen vermelden afwijkende tijden; eigen site gevolgd. Op de site staat ook een oude corona-/sluitingspost; rooster niet live bevestigd. Laatste toegang onbekend. Hercontrole 01-11-2026: https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed bevat café-eigen berichten van 09-01-2026 met zo–wo 14–00 en do–za 14–01, en 31-03-2026 tienjarig jubileum. Dit ondersteunt voortgezette exploitatie en bestaande weekuren, maar is een doorgeplaatste sociale pagina, geen deurcontrole. Laatste toegang blijft onbekend. | 02-11-2026: exploitantenpost van 23-12-2025 op https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed kondigt overname door Inge Bouma per 01-01-2026 aan; 31-03-2026 post bevestigt 10-jarig jubileum. Dit betreft doorgeplaatste sociale berichten, geen nieuw regulier rooster; bestaande officiële uren ongewijzigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafedestrohoed.nl/",
       "other_sources": [
@@ -10420,7 +10422,7 @@
         "https://www.allebiz.nl/caf%C3%A9-de-strohoed_19-06-50520320",
         "https://www.findglocal.com/NL/Leeuwarden/415368042006033/Caf%C3%A9-de-Strohoed"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "02-11-2026: eigen doorgeplaatste berichten bevestigen exploitantenoverdracht aan Inge Bouma per 01-01-2026, jubileum op 31-03-2026 en publieke alcoholverkoop; actuele bedrijfswebsite ondersteunt reguliere weekuren. Geen fysieke deurcontrole of laatste toegang.",
       "geo": {
         "lat": 53.2028444,
         "lon": 5.798198,
@@ -10440,7 +10442,7 @@
       },
       "opening_source": "https://www.cafedestrohoed.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "opening_quality": "Officiële bedrijfswebsite, gecontroleerd 30-10-2026"
     },
     {
