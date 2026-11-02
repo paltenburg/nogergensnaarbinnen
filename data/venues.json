@@ -36222,6 +36222,53 @@
       ],
       "checked_on": "2026-11-02",
       "original_status": "Publieke borrel en alcohol op eigen actuele site; exacte weekuren ontbreken, niet ingevuld op basis van oude gidsen."
+    },
+    {
+      "id": "sahara-food-vibes-drachten-20261102",
+      "name": "Sahara Food & Vibes",
+      "type": "Cocktailbar / lounge (exploitatie onzeker)",
+      "address": "Zuidkade 73",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Historische publieke cocktailbar; actuele reguliere vrije inloop in november 2026 niet onafhankelijk bevestigd.",
+      "alcohol": "Overnameadvertentie van de exploitant noemt cocktailbar, natte-horecavergunning en alcohol; recente feitelijke schenking niet rechtstreeks bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "2026-verkoperstekst noemt vier dagen per week open maar geen betrouwbare actuele dagen of beginuren; afgeleide gidsuren niet als exploitantenrooster gebruikt.",
+      "closing_quality": "2026-gids noemt do/zo 00:00 en vr/za 04:30; vergunning 'weekend tot 05:00' is geen feitelijke sluiting. Alle einduren onbekend.",
+      "closing_notes": "02-11-2026: https://app.bedrijfsmarkt.nl/l/67f93ef1-a559-49ba-b5c8-97b7d3179e4d en https://horecavest.nl/aanbod/cocktailbar-ter-overname-in-drachten-120-m-met-terras-en-vergunningen-drachten-friesland bieden de zaak ter overname aan en spreken over vier dagen open; onduidelijk wanneer exploitantgegevens laatst geverifieerd zijn en of de zaak inmiddels verkocht/gesloten is. https://bestrestos.nl/restaurant/sahara-food---vibes-drachten-3279 (24-09-2026 bijgewerkt) noemt do/zo 19–00, vr/za 19–04:30 maar is een aggregaat, geen bewezen opening. Dezelfde KvK 71060596 voert ook de handelsnaam Staalfabriq.nl op ander adres; dit is GEEN officiële horecawesite. Laatste toegang onbekend.",
+      "website": "",
+      "website_provenance": "Geen zelfstandige actuele officiële horecawesite geverifieerd; staalfabriq.nl verkoopt metalen trapleuningen en is geen cafébron.",
+      "other_sources": [
+        "https://app.bedrijfsmarkt.nl/l/67f93ef1-a559-49ba-b5c8-97b7d3179e4d",
+        "https://horecavest.nl/aanbod/cocktailbar-ter-overname-in-drachten-120-m-met-terras-en-vergunningen-drachten-friesland",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/sahara-food-vibes-drachten-71060596-000039060462",
+        "https://bestrestos.nl/restaurant/sahara-food---vibes-drachten-3279",
+        "https://mooidrachten.nl/horeca.html",
+        "https://staalfabriq.nl/pages/contact"
+      ],
+      "geocode_blocked": true,
+      "geocode_notes": "KvK-afgeleide registratie 2026 noemt Zuidkade 73 voor horeca; dezelfde onderneming vermeldt op Staalfabriq.nl Het Gangboord 29 als bedrijfsadres. Geen geocode van mogelijk historische bar zonder bevestigde actuele publieksingang.",
+      "checked_on": "2026-11-02",
+      "original_status": "Actuele KvK-registratie en overnameadvertentie, maar geen onafhankelijke bevestiging van werkelijke novemberexploitatie; verborgen."
     }
   ],
   "admission_policies": [
