@@ -38102,7 +38102,15 @@
         "https://www.usheit.com/nl/proeflokaal/contact_proeflokaal",
         "https://www.usheit.com/"
       ],
-      "original_status": "02-11-2026: officiële brouwerij bevestigt proeflokaal, alcoholaanbod en zaterdaguren; feitelijke deurtoegang zonder reservering niet onafhankelijk gecontroleerd."
+      "original_status": "02-11-2026: officiële brouwerij bevestigt proeflokaal, alcoholaanbod en zaterdaguren; feitelijke deurtoegang zonder reservering niet onafhankelijk gecontroleerd.",
+      "geo": {
+        "lat": 53.0611363,
+        "lon": 5.5338166,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Snekerstraat 43, 8701XC Bolsward"
+      },
+      "geo_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte adres+huisnummer+BAG-postcode match uit geslaagde GitHub Pages-build 41503276369 (geocode-report.json: 2 toegevoegd), gedownloade artifact.tar gecontroleerd. Geen handmatig verzonnen coördinaten; fysieke ingang niet ter plaatse geverifieerd."
     },
     {
       "id": "hotel-restaurant-poort-van-franeker-20261102",
@@ -38149,7 +38157,15 @@
         "https://www.poortvanfraneker.nl/soepdag/",
         "https://www.franeker.frl/bezoeken/117870/hotel-restaurant-poort-van-franeker/"
       ],
-      "original_status": "Officiële site en lokale gids bevestigen actuele exploitatie en publieke inloop; alcoholaanbod en laatste toegang nog onbevestigd."
+      "original_status": "Officiële site en lokale gids bevestigen actuele exploitatie en publieke inloop; alcoholaanbod en laatste toegang nog onbevestigd.",
+      "geo": {
+        "lat": 53.1840635,
+        "lon": 5.5487913,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Stationsweg 1, 8801JL Franeker"
+      },
+      "geo_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte adres+huisnummer+BAG-postcode match uit geslaagde GitHub Pages-build 41503276369 (geocode-report.json: 2 toegevoegd), gedownloade artifact.tar gecontroleerd. Geen handmatig verzonnen coördinaten; fysieke ingang niet ter plaatse geverifieerd."
     },
     {
       "id": "brasserie-de-stadstuin-franeker-20261102",
