@@ -36070,6 +36070,157 @@
       "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit GitHub Actions 41379127423, Pages-artefact 13112615576, data/geocode-report.json added_in_this_run=1. De Streek 79, 8407EJ Terwispel, 53.019134/6.0516166. Publieke café-ingang niet afzonderlijk fysiek geverifieerd."
+    },
+    {
+      "id": "gusto-y-mucho-mas-heerenveen-20261102",
+      "name": "Gusto Y Mucho Mas",
+      "type": "Tapasbar / restaurant",
+      "address": "Vleesmarkt 9",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke tapasbar; losse borrel met tapas wordt beschreven in recente exploitantenberichten. Zonder maaltijd uitsluitend drank bestellen niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen/door bedrijf gepubliceerde oktober-2026 berichten tonen cocktails met sterke drank, wijn en prosecco.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.gustoheerenveen.nl/",
+      "opening_checked_on": "2026-11-02",
+      "opening_quality": "Eigen homepage noemt wo–zo 17:00–22:00; voor ma/di geen reguliere openstelling gepubliceerd. Recent sociaal berichtenarchief ondersteunt exploitatie in oktober 2026.",
+      "closing_source": "https://www.gustoheerenveen.nl/",
+      "closing_checked_on": "2026-11-02",
+      "closing_quality": "Einduur niet als exact vastgelegd: officiële homepage noemt 22:00, actuele sociale-profielspiegel 01:00 op wo–zo. Tegenstrijdig.",
+      "closing_notes": "02-11-2026: officiële site https://www.gustoheerenveen.nl/ noemt wo–zo 17–22, maar spiegel van exploitantenberichten https://www.bars10.com/NL/Heerenveen/402770239787732/Gusto---Y-mucho-mas geeft wo–zo 17–01 en gedateerde cocktails 07, 14, 21 en 28 oktober 2026. Geen 01:00 als gegarandeerde cafésluiting of laatste toegang aangenomen. Verkoopadvertentie 15-10-2026 bewijst geen sluiting of eigendomsoverdracht.",
+      "features": "Spaanse tapasbar, cocktails en borrel; sluituurconflict",
+      "website": "https://www.gustoheerenveen.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen website met adres en KvK, actuele oktober-2026 exploitantenberichten via sociale spiegel.",
+      "other_sources": [
+        "https://www.gustoheerenveen.nl/contact/",
+        "https://www.bars10.com/NL/Heerenveen/402770239787732/Gusto---Y-mucho-mas",
+        "https://www.aw-horecamakelaars.nl/aanbod/succesvol-tapasrestaurant-in-hartje-heerenveen/"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Exploitatie en alcoholcocktails in oktober 2026 aangetoond; exacte sluituren en uitsluitend drankinloop niet onafhankelijk bewezen."
+    },
+    {
+      "id": "het-bourgondische-gevoel-drachten-20261102",
+      "name": "Brasserie Het Bourgondische Gevoel",
+      "type": "Brasserie / borrelcafé",
+      "address": "Zuiderbuurt 37",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site nodigt expliciet uit voor losse borrel, binnen of op terras; geen reserveringseis voor gewone borrel.",
+      "alcohol": "Eigen menukaart noemt mojito, Aperol Spritz, mimosa, wijn en andere alcoholische dranken.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "?"
+      },
+      "opening_source": "https://hetbourgondischegevoel.nl/",
+      "closing_source": "https://hetbourgondischegevoel.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "opening_quality": "Eigen site noemt di–za 09:30–18:00 en koopzondagen 10:00–17:00; zondag niet als wekelijks rooster aangenomen. Maandag niet expliciet beschreven, onbekend.",
+      "closing_quality": "Eigen site noemt di–za exact 18:00; koopzondagen en extra open dagen variabel en niet automatisch als iedere zondag overgenomen.",
+      "closing_notes": "02-11-2026: eigen homepage noemt laatste zondag van de maand als koopzondag en incidentele extra zondagen; geen structurele zondagopening. 25/26 december uitsluitend kerstbrunch op reservering; reguliere borrel op die dagen onbevestigd. 31 december en 1 januari expliciet gesloten.",
+      "date_closures": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-01",
+          "source": "https://hetbourgondischegevoel.nl/",
+          "checked_on": "2026-11-02"
+        }
+      ],
+      "features": "Cocktails, wijn, borrelplanken; daghoreca en incidentele koopzondag",
+      "website": "https://hetbourgondischegevoel.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen site en eigen menupagina; geen gidsuren als primaire sluiting gebruikt.",
+      "other_sources": [
+        "https://hetbourgondischegevoel.nl/menu/"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Actuele eigen website bevestigt publieke borrel, alcohol en di–za-rooster. Zondag/feestdagen niet als vaste opening behandeld."
+    },
+    {
+      "id": "grootcafe-mn-zusje-drachten-20261102",
+      "name": "Grootcafé M'n Zusje",
+      "type": "Grand café / restaurant",
+      "address": "Oosterstraat 20A",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen actuele site: voor lunch, diner of borrel welkom; spontaan langskomen toegestaan. Bovenruimte is afzonderlijk besloten verhuur.",
+      "alcohol": "Eigen menukaart vermeldt onder andere tapbier, speciaalbier en wijnen per glas.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.zusjedrachten.nl/",
+      "opening_checked_on": "2026-11-02",
+      "opening_quality": "Huidige eigen site toont geen volledig weekrooster; oude eigen Wix-site zegt wo–zo 11–01, terwijl 2026-gidsen wo gesloten of beperkt en do–zo 11:30–22 noemen. Daarom alle reguliere uren onbekend.",
+      "closing_source": "https://www.zusjedrachten.nl/",
+      "closing_checked_on": "2026-11-02",
+      "closing_quality": "Geen actuele officiële sluituren; oude eigen Wix-site en gidsen conflicteren. Geen 01:00 of 22:00 als feit overgenomen.",
+      "closing_notes": "02-11-2026: officiële actuele site bevat 2026-menukaart en expliciete vrije borrel. Historische eigen https://grootcafemnzusje.wixsite.com/grootcafemnzusje noemt wo–zo 11–01; https://www.theater.nl/restaurant/grootcafe-mn-zusje en https://uitdrachten.com/uiteten/restaurant/restaurant-grand-cafe-mn-zusje-lunch-diner-lu8lm/ geven afwijkende woensdag-/sluituren. Regulier rooster en laatste toegang niet bevestigd. 'Lokaal 20A' boven is een afzonderlijk besloten gezelschap, geen tweede openbare bar.",
+      "features": "Publieke borrel met bier/wijn; besloten bovenzaal apart",
+      "website": "https://www.zusjedrachten.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen site, oude eigen Wix-contactpagina en Friesland.nl bevestigen café en Oosterstraat 20A.",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/1745538157/grootcafe-m-n-zusje",
+        "https://grootcafemnzusje.wixsite.com/grootcafemnzusje",
+        "https://www.theater.nl/restaurant/grootcafe-mn-zusje",
+        "https://uitdrachten.com/uiteten/restaurant/restaurant-grand-cafe-mn-zusje-lunch-diner-lu8lm/"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Publieke borrel en alcohol op eigen actuele site; exacte weekuren ontbreken, niet ingevuld op basis van oude gidsen."
     }
   ],
   "admission_policies": [
