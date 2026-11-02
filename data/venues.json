@@ -1131,9 +1131,9 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Ticket/evenement of mogelijk besloten",
+      "access": "Royal Bar is volgens Jaarbeurs een te boeken besloten evenementenruimte; vrije publieke drankinloop niet bevestigd.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
-      "selection": "Voorlopig",
+      "selection": "Nog te controleren",
       "closing": {
         "ma": "Event",
         "di": "Event",
@@ -1143,20 +1143,24 @@
         "za": "Event",
         "zo": "Event"
       },
-      "closing_quality": "Officiële website",
-      "closing_source": "https://www.stage-entertainment.nl/veelgestelde-vragen",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Royal Bar voor en na voorstelling, eindtijd niet gepubliceerd.",
+      "closing_quality": "Geen geverifieerde publieke sluitingstijd",
+      "closing_source": "https://www.jaarbeurs.nl/location/congreslocatie/beatrix-theater/royal-bar",
+      "checked_on": "2026-11-02",
+      "closing_notes": "De exploitant biedt Royal Bar als aparte te huren ruimte voor bijeenkomsten aan, niet als vrij toegankelijk café. Eerdere suggestie 'voor/na voorstelling' is niet voldoende bewijs voor openbare toegang. Rooster eventafhankelijk en onbekend.",
       "features": "Voor/na voorstellingen; ticketgebonden",
-      "website": "",
-      "other_sources": [],
+      "website": "https://www.jaarbeurs.nl/location/congreslocatie/beatrix-theater/royal-bar",
+      "other_sources": [
+        "https://www.jaarbeurs.nl/restaurants/queens"
+      ],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
         "lat": 52.0877792,
         "lon": 5.1068375,
         "method": "PDOK BAG-adres",
         "matched_address": "Jaarbeursplein 6A, 3521AL Utrecht"
-      }
+      },
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Officiële verhuurpagina Jaarbeurs"
     },
     {
       "id": "beers-barrels-centrum-4c4daf0",
@@ -5550,7 +5554,7 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
+      "access": "Vrije inloop zonder reservering bevestigd door exploitant.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
@@ -5564,8 +5568,8 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://danel-utrecht.nl/contact/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Officiële site, wijkt af van lokale gids. Zelfde gebouw als TivoliVredenburg, afzonderlijke horecalocatie.",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Regulier weekrooster bevestigd op eigen contactpagina; vrije inloop zonder reservering expliciet bevestigd. Feestdagensluitingen 24/25/26/31 december 2026 en 1 januari 2027 afzonderlijk vastgelegd; andere dagen niet afgeleid.",
       "features": "Bij TivoliVredenburg; vrij toegankelijk",
       "website": "https://danel-utrecht.nl/contact/",
       "other_sources": [],
@@ -5577,7 +5581,44 @@
         "matched_address": "Vredenburgkade 11, 3511WC Utrecht"
       },
       "website_provenance": "official-closing-time-source (may be subpage)",
-      "website_checked_on": "2026-10-25"
+      "website_checked_on": "2026-10-25",
+      "date_closures": [
+        {
+          "start": "2026-12-24",
+          "end": "2026-12-24",
+          "source": "https://danel-utrecht.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt expliciete feestdagensluiting; geen algemene sluiting buiten deze datum."
+        },
+        {
+          "start": "2026-12-25",
+          "end": "2026-12-25",
+          "source": "https://danel-utrecht.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt expliciete feestdagensluiting; geen algemene sluiting buiten deze datum."
+        },
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-26",
+          "source": "https://danel-utrecht.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt expliciete feestdagensluiting; geen algemene sluiting buiten deze datum."
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "source": "https://danel-utrecht.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt expliciete feestdagensluiting; geen algemene sluiting buiten deze datum."
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-01",
+          "source": "https://danel-utrecht.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Exploitant meldt expliciete feestdagensluiting; geen algemene sluiting buiten deze datum."
+        }
+      ]
     },
     {
       "id": "klein-berlijn-3f60cdd",
@@ -6191,26 +6232,27 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Vrije inloop expliciet bevestigd door exploitant; reserveren ook mogelijk.",
+      "alcohol": "Cocktails bevestigd door officiële Manners-pagina.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.papiscomfortkitchen.com/cocktails",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Eigen exploitant: do–za 18:30–01:00, walk-ins welkom. Ma/di/wo/zo geen reguliere opening vermeld; Gault&Millau bevestigt deze dagen gesloten. Laatste toegang onbekend. Aparte cocktailkelder onder Papi's Comfort Kitchen, geen duplicaat.",
       "features": "Speakeasy; onder Papi's",
-      "website": "",
+      "website": "https://www.papiscomfortkitchen.com/cocktails",
       "other_sources": [
-        "https://utrechtcocktailweek.nl/index.php/deelnemers/"
+        "https://utrechtcocktailweek.nl/index.php/deelnemers/",
+        "https://www.gault-millau.nl/nl/cocktailbars/manners-cocktail-lounge-utrecht"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -6218,7 +6260,18 @@
         "lon": 5.1232871,
         "method": "PDOK BAG-adres",
         "matched_address": "Twijnstraat 15, 3511ZG Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "18:30",
+        "vr": "18:30",
+        "za": "18:30",
+        "zo": "—"
+      },
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Officiële exploitantpagina Manners"
     },
     {
       "id": "margie-s-streetkitchen-bar-20261026",
@@ -7017,7 +7070,7 @@
       "region": "utrecht",
       "country": "Nederland",
       "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "alcohol": "Cocktails bevestigd op officiële exploitantwebsite; actuele weekuren niet gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -7030,12 +7083,13 @@
       },
       "closing_quality": "Geen geverifieerde sluitingstijd",
       "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Afzonderlijke eet-/cocktailzaak op straatniveau; Manners is eigen speakeasy in de kelder met afzonderlijke uren. Papi's reguliere sluituren onbekend.",
       "features": "Cocktails / eten",
-      "website": "",
+      "website": "https://www.papiscomfortkitchen.com/",
       "other_sources": [
-        "https://utrechtcocktailweek.nl/index.php/deelnemers/"
+        "https://utrechtcocktailweek.nl/index.php/deelnemers/",
+        "https://www.papiscomfortkitchen.com/cocktails"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -7043,7 +7097,9 @@
         "lon": 5.1232871,
         "method": "PDOK BAG-adres",
         "matched_address": "Twijnstraat 15, 3511ZG Utrecht"
-      }
+      },
+      "website_provenance": "Officiële exploitantwebsite",
+      "website_checked_on": "2026-11-02"
     },
     {
       "id": "pjay-ec4ee67",
@@ -7323,11 +7379,14 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.stage-entertainment.nl/theaters/beatrix-theater-utrecht/restaurant-queens",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Officiële restauranttijden; geen theaterticket nodig. Zelfde gebouw als Beatrix Theater.",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Twee actuele primaire bronnen wijken af: Stage/musicals.nl geeft di/wo 19:30, Jaarbeurs.nl di/wo 20:00; bestaande 19:30 niet stilzwijgend vervangen. Ma alleen bij aanvullende programmering; zelfstandige horecazaak binnen Beatrix Theater, geen duplicaat van Royal Bar. Laatste toegang onbekend.",
       "features": "Ook zonder theaterticket toegankelijk",
       "website": "https://www.stage-entertainment.nl/theaters/beatrix-theater-utrecht/restaurant-queens",
-      "other_sources": [],
+      "other_sources": [
+        "https://www.jaarbeurs.nl/restaurants/queens",
+        "https://www.musicals.nl/theaters/beatrix-theater-utrecht/restaurant-queens"
+      ],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
         "lat": 52.0877792,
@@ -9408,31 +9467,44 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Publieke wijnbar binnen Winkel van Sinkel; ma/di alleen op exclusieve boeking volgens exploitant.",
+      "alcohol": "Meer dan 300 wijnen bevestigd door exploitant.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "01:00",
-        "do": "01:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "01:00"
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Bedrijfsprofiel",
-      "closing_source": "",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Niet aangegeven of maandag/dinsdag gesloten. Onderdeel van Winkel van Sinkel.",
+      "closing_quality": "Officiële website: alleen openingsdagen en begintijd; eindtijd onbekend",
+      "closing_source": "https://dewinkelvansinkel.nl/wijnbar-vino/",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Exploitant: wo–zo vanaf 15:00; ma/di uitsluitend besloten verhuur. Eerdere 01:00-sluitingen kwamen uit niet nader herleidbaar bedrijfsprofiel en zijn niet door exploitant bevestigd; daarom bewust onbekend. Algemene footeruren 10:00/11:00 gelden voor het hele pand, niet voor VINO. Laatste toegang onbekend.",
       "features": "Wijnbar binnen Winkel van Sinkel",
-      "website": "",
-      "other_sources": [],
+      "website": "https://dewinkelvansinkel.nl/wijnbar-vino/",
+      "other_sources": [
+        "https://dewinkelvansinkel.nl/onze-ruimtes/vino/"
+      ],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
       "geo": {
         "lat": 52.0919402,
         "lon": 5.1186329,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 158, 3511AZ Utrecht"
+      },
+      "website_provenance": "Officiële afzonderlijke wijnbarpagina",
+      "website_checked_on": "2026-11-02",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
       }
     },
     {
