@@ -222,3 +222,28 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
   assert.equal(sahara.closing[day], '?', 'Nightlife licence is not a closing hour '+day);
 }
 console.log('Sahara Drachten kept hidden pending actual public-opening verification.');
+
+
+// Sneek discovery: keep restaurant-only and outdated alcohol evidence hidden.
+// October-May season hours cannot be applied to summer Sundays or guessed closing.
+const brulee = db.places.find(p => p.id === 'bistro-brulee-sneek-20261102');
+const provence = db.places.find(p => p.id === 'le-provence-sneek-20261102');
+assert.ok(brulee && provence, 'Two distinct Sneek candidate venues are tracked');
+assert.equal(brulee.selection, 'Nog te controleren', 'No proven standalone wine-bar entry');
+assert.equal(provence.selection, 'Nog te controleren', '2022 alcohol menu does not prove 2026 standalone bar entry');
+assert.equal(brulee.address, 'Muntstraat 2');
+assert.equal(provence.address, 'Schaapmarktplein 1');
+for (const day of ['wo','do','vr','za']) {
+  assert.equal(brulee.opening[day], '17:30', 'Official winter bistro start ' + day);
+}
+for (const day of ['ma','di','zo']) {
+  assert.equal(brulee.opening[day], '?', 'Unlisted winter day is not necessarily permanently closed ' + day);
+}
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(brulee.closing[day], '?', 'Guide closing must not replace unknown operator end ' + day);
+  assert.equal(provence.opening[day], '10:00', 'Operator-published lunchcafe start ' + day);
+  assert.equal(provence.closing[day], '18:00', 'Operator-published lunchcafe end ' + day);
+}
+assert.equal(brulee.website, 'https://bistrobrulee.nl/');
+assert.equal(provence.website, 'https://www.leprovence.nl/');
+console.log('Sneek seasonal bistro and historic alcohol menu uncertainty verified.');
