@@ -10060,13 +10060,15 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden. | 01-11-2026: opnieuw alleen gidsen https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html (11–22) en https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435 (11–23) gevonden; actuele exploitant, alcoholassortiment en vrije inloop niet primair bevestigd. Geen uren overgenomen. Standaard verborgen tot betrouwbare bevestiging.",
+      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden. | 01-11-2026: opnieuw alleen gidsen https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html (11–22) en https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435 (11–23) gevonden; actuele exploitant, alcoholassortiment en vrije inloop niet primair bevestigd. Geen uren overgenomen. Standaard verborgen tot betrouwbare bevestiging. | 02-11-2026 aanvullende negatieve bedrijfscontrole: https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/de-waag/229601/cafe-bar-t-hoekje verklaart oude KvK-inschrijving 01042566 (vestiging 000004598318) expliciet niet langer actief. Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html toont juist dezelfde oude KvK en recent geactualiseerde gidsuren 11–22; dat is geen bewijs dat deze juridische exploitant in 2026 nog bestaat. RestaurantGuru https://restaurantguru.com/Cafe-T-Hoekje-Leeuwarden heeft bezoekersreactie uit 2026 maar geen onafhankelijke actuele exploitantidentiteit. Naam en adres kunnen na rechtsvormwisseling voortbestaan; status blijft onzeker, geen definitieve sluiting claimen, geen gidsuren overnemen, verborgen houden tot eigen actuele bron.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html",
-        "https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435"
+        "https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435",
+        "https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/de-waag/229601/cafe-bar-t-hoekje",
+        "https://restaurantguru.com/Cafe-T-Hoekje-Leeuwarden"
       ],
       "original_status": "01-11-2026: gids-/registervermeldingen, maar actuele exploitatie, vrije alcoholborrel en baruren niet rechtstreeks bevestigd. Standaard verborgen.",
       "geo": {
@@ -10075,7 +10077,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Weaze 44, 8911LM Leeuwarden"
       },
-      "checked_on": "2026-11-01"
+      "checked_on": "2026-11-02"
     },
     {
       "id": "elzibar-leeuwarden-a07b14c",
