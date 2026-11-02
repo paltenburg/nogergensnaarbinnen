@@ -2639,7 +2639,7 @@
       "id": "cafe-heen-en-weer-0a8d54c",
       "name": "Café Heen en Weer",
       "type": "Café",
-      "address": "Donkere Gaard 13",
+      "address": "Donkeregaard 13",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -2662,12 +2662,14 @@
       "features": "Café",
       "website": "https://cafeheenenweer.eatbu.com/?lang=nl",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/page/4/"
+        "https://www.uitutrecht.com/uitgaan/page/4/",
+        "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null,
       "website_checked_on": "2026-10-26",
-      "website_provenance": "venue's own website; name, Utrecht location, and address checked"
+      "website_provenance": "venue's own website; name, Utrecht location, and address checked",
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 13' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 13' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "cafe-kalff-f2eb976",
@@ -4579,7 +4581,7 @@
       "id": "eetcafe-de-vingerhoed-20261026",
       "name": "Eetcafé De Vingerhoed",
       "type": "Bruin eetcafé",
-      "address": "Donkere Gaard 11",
+      "address": "Donkeregaard 11",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -4614,9 +4616,12 @@
       "website": "https://eetcafedevingerhoed.nl/",
       "website_provenance": "Officiële website",
       "website_checked_on": "2026-10-26",
-      "other_sources": [],
+      "other_sources": [
+        "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
+      ],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null
+      "geo": null,
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 11' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 11' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "ekko-5a297a7",
@@ -5718,12 +5723,12 @@
       "id": "kleine-max-8fc53ac",
       "name": "Kleine Max",
       "type": "Kroeg",
-      "address": "J.P. Coenstraat 69",
+      "address": "Jan Pieterszoon Coenstraat 69",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen https://kleinemax.nl/ bevestigt publieke ontmoetingsplek, terras en vrije borrel; geen maaltijdverplichting.",
+      "alcohol": "Eigen https://kleinemax.nl/ vermeldt borrel en eigen drankkaart; afzonderlijke actuele bier-/wijnlijst nog niet inhoudelijk gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "22:00",
@@ -5742,7 +5747,8 @@
       "website": "https://kleinemax.nl/",
       "other_sources": [
         "https://www.uitutrecht.com/uitgaan/page/4/",
-        "https://kleinemax.nl/contact/"
+        "https://kleinemax.nl/contact/",
+        "https://postcodebijadres.nl/3531EP"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
       "geo": null,
@@ -5758,7 +5764,8 @@
         "zo": "10:00"
       },
       "opening_source": "https://kleinemax.nl/contact/",
-      "opening_checked_on": "2026-10-29"
+      "opening_checked_on": "2026-10-29",
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'J.P. Coenstraat 69' genormaliseerd naar officiële BAG-straatnaam 'Jan Pieterszoon Coenstraat 69' volgens https://postcodebijadres.nl/3531EP; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "knock-out-comedy-club-59624b0",
@@ -6958,7 +6965,7 @@
       "id": "orloff-5c10a36",
       "name": "Orloff",
       "type": "Grand café",
-      "address": "Donkere Gaard 8",
+      "address": "Donkeregaard 8",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -6982,10 +6989,12 @@
       "website": "",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
-        "https://www.uitutrecht.com/uitgaan/page/6/"
+        "https://www.uitutrecht.com/uitgaan/page/6/",
+        "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null
+      "geo": null,
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 8' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "orloff-aan-de-kade-a3c16fd",
@@ -8276,12 +8285,12 @@
       "id": "talud9-c1e076b",
       "name": "Talud9",
       "type": "Wijnbar",
-      "address": "Donkere Gaard 9",
+      "address": "Donkeregaard 9",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Exploitant https://www.talud9.nl/contact bevestigt vrije inloop zonder tafelreservering voor wijnbar; high wine wel op reservering.",
+      "alcohol": "Eigen https://www.talud9.nl/ bevestigt ruim 50 wijnen per glas en borrelkaart; reguliere vrije wijnbar-inloop bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -8299,7 +8308,9 @@
       "features": "Wijnbar; adres controleren",
       "website": "https://www.talud9.nl/",
       "other_sources": [
-        "https://www.uitutrecht.com/uitgaan/page/7/"
+        "https://www.uitutrecht.com/uitgaan/page/7/",
+        "https://www.allecijfers.nl/weg/donkeregaard-utrecht/",
+        "https://www.talud9.nl/contact"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": null,
@@ -8315,7 +8326,8 @@
       "opening_source": "https://www.talud9.nl/",
       "opening_checked_on": "2026-10-26",
       "website_checked_on": "2026-10-26",
-      "website_provenance": "Officiële website"
+      "website_provenance": "Officiële website",
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 9' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 9' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "taplokaal-gist-bb8d7ed",
@@ -8372,7 +8384,7 @@
       "id": "teds-oudegracht-20261026",
       "name": "Teds Utrecht Oudegracht",
       "type": "All-day brunchbar",
-      "address": "Lichte Gaard 8",
+      "address": "Lichtegaard 8",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -8395,7 +8407,8 @@
       "features": "Brunch, cocktail en borrel",
       "website": "https://teds-place.mom/locations/utrecht-oudegracht/",
       "other_sources": [
-        "https://centrumutrecht.nl/company/teds-oudegracht/"
+        "https://centrumutrecht.nl/company/teds-oudegracht/",
+        "https://allecijfers.nl/weg/lichtegaard-utrecht/"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
       "geo": null,
@@ -8409,7 +8422,8 @@
         "zo": "09:00"
       },
       "opening_source": "https://teds-place.mom/locations/utrecht-oudegracht/",
-      "opening_checked_on": "2026-10-26"
+      "opening_checked_on": "2026-10-26",
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Lichte Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Lichtegaard 8' volgens https://allecijfers.nl/weg/lichtegaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "teds-stadhuisplein-20261026",
@@ -8729,7 +8743,7 @@
       "id": "tijm-d1d43a8",
       "name": "Tijm",
       "type": "Café/restaurant",
-      "address": "Donkere Gaard 3",
+      "address": "Donkeregaard 3",
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
@@ -8751,9 +8765,12 @@
       "closing_notes": "",
       "features": "Diner en borrel",
       "website": "",
-      "other_sources": [],
+      "other_sources": [
+        "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
+      ],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null
+      "geo": null,
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 3' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 3' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
     },
     {
       "id": "tilt-64c83ae",
