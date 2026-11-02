@@ -124,3 +124,19 @@ assert.equal(poort.selection, 'Nog te controleren',
 assert.equal(poort.opening.ma, '—', 'operator explicitly confirms Monday closure');
 assert.equal(poort.closing.ma, '—');
 console.log('Franeker winter schedule, Bolsward tasting-room hours and alcohol gating verified.');
+
+const spiegelaar = byId('brasserie-spiegelaar-leeuwarden-20261102');
+// Conflicting opening hours on the operator's own pages are NOT verified hours.
+for (const day of ['ma', 'zo']) {
+  assert.equal(spiegelaar.opening[day], '?', 'Spiegelaar conflicting start '+day);
+  assert.equal(spiegelaar.closing[day], '?', 'Spiegelaar conflicting closing '+day);
+}
+assert.equal(spiegelaar.opening.di, '09:00');
+assert.equal(spiegelaar.closing.di, '18:00');
+for (const day of ['wo','do','vr','za']) {
+  assert.equal(spiegelaar.opening[day], '09:00');
+  assert.equal(spiegelaar.closing[day], '22:00');
+}
+assert.equal(spiegelaar.last_entry, undefined,
+  'No invented last-entry cutoff for Spiegelaar');
+console.log('Spiegelaar conflicting operator timetables safely handled.');
