@@ -1,6 +1,18 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
 
+### Aanvullend checkpoint 02-11-2026 circa 03:35 CET — Friesland It Holt kerstsluiting en De Dames startuur
+
+**Na voorgaand Utrecht-checkpoint doorgewerkt:** twee reeds bestaande Friese records opnieuw rechtstreeks aan primaire sites getoetst; 0 locaties toegevoegd, 0 geocodes, **2 records aangepast**. Mastercommit [7c7a518](https://github.com/paltenburg/nogergensnaarbinnen/commit/7c7a5185574d8636a95b06d44a68211bd606fdc8); regressiecommit [0c18448](https://github.com/paltenburg/nogergensnaarbinnen/commit/0c1844889ee940a1c7e57d522f6bb4f4631d5511). Master-JSON geparseerd, 723/723 IDs uniek, bestaande IDs en geo behouden; geen onzekere vrije inloop gepromoveerd.
+
+- **It Holt, Deinum:** primaire https://itholt.nl/ op **02-11-2026** toont expliciet **25 december t/m 1 januari gesloten**, naast reeds bekende 9–12 november. Extra `date_closures` **2026-12-25 t/m 2027-01-01** toegevoegd met eigen bron en datum. Geen sluiting vóór 25-12 of na 01-01 aangenomen, geen reguliere einduren verzonnen. Status blijft `Nog te controleren` wegens onbevestigde losse alcoholinloop.
+- **Eetcafé De Dames, Balk:** primaire https://www.eetcafededames.nl/ rechtstreeks op **02-11-2026** geeft wo–zo **11:00–22:00**; vorige snapshot in master had 12:00 als begintijd. Begintijden weer naar **11:00** gezet met expliciete notitie over tegenstrijdige opeenvolgende snapshots. De banner met 4–29 oktober sluiting staat nog online; feitelijke heropening na die periode **niet onafhankelijk bevestigd**, dus verborgen status behouden.
+- **Aanvullend onderzocht zonder mutatie:** https://www.bravoameland.nl/ toont nog uitsluitend **oktoberrooster**; niet op november toegepast. https://www.bonifatius754.nl/ geeft wo–za 15–18 voor **stadsbrouwerij**, maar bewijst niet dat het proeflokaal dan vrije alcoholinloop heeft; status verborgen. Fenix Sneek en Karaokebar De Nachtegaal: gerichte zoekopdrachten leverden geen nieuwe betrouwbare actuele novemberse openingsbevestiging; beide verborgen behouden.
+
+**Tests:** nieuwe synthetische regressieasserties voor alle acht kerstsluitingsdagen, twee grensdagen, bron/controledatum en De Dames vijf dagstarturen in `tests/test_real_venue_closures.js`. Deze code is naar GitHub geschreven maar **de volledige Node-/Python-suite en CI/Pages van de nieuwste commits zijn nog niet daadwerkelijk als geslaagd gecontroleerd**. Echte mobiele touchtest en onafhankelijke live HTTP ontbreken. **W45 pas verschuldigd 02-11 10:00 CET**; geen audit afgerond. Friesland D0 open, D1/D2 landelijk uitgesteld. **Volgende actie:** CI/tests van 0c18448 en de voorgaande Utrecht-commits controleren en eventuele fouten herstellen; vervolgens Friese 93 verborgen kandidaten, 67 ontbrekende markers en bronconflicten; vanaf 10:00 W45 voor alle actuele regio's (momenteel Utrecht en Friesland) met geografische rotatie. D0-startcriteria opnieuw toetsen voor landelijke uitrol.
+
+
+
 ### Checkpoint 02-11-2026 circa 03:32 CET — zes resterende gedeelde-adresgroepen onderzocht, Utrecht bronreparaties
 
 **Echt uitgevoerd:** actuele TODO en master (723 records, 499 Friesland / 224 Utrecht) gelezen; leidende uitvoeringsstrategie gelezen. Zes nog openstaande gedeelde-adresgroepen uit de bestaande 14 inhoudelijk onderzocht op 02-11-2026. Alle 14 groepen in de **huidige** database zijn nu eenmaal inhoudelijk beoordeeld; dit bewijst niet dat alle dubbele zaken of alle ingangen in Nederland zijn gevonden. Geen IDs samengevoegd en geen BAG-punten gegokt.
