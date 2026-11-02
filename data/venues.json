@@ -37095,6 +37095,53 @@
         "https://www.doublebleeuwarden.nl/contact"
       ],
       "original_status": "Actuele primaire exploitantwebsite met bier/cocktails, publieke borrel en zeven begin- en einduren. Voorlopig totdat laatste toegang en eventuele uitzonderingen zijn onderzocht."
+    },
+    {
+      "id": "bistro-t-ruiterskwartiertje-leeuwarden-20261102",
+      "name": "Bistro 't Ruiterskwartiertje",
+      "type": "Bistro / bar",
+      "address": "Ruiterskwartier 147",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Publieke bistro met eigen uitgebreide drankenkaart. Losse drankinloop zonder maaltijdplicht niet expliciet bevestigd; reserverings- of ticketplicht niet genoemd.",
+      "alcohol": "Eigen actuele gelinkte drankenkaart (PDF uit 09-2025) bevat whisky, jenever, gin, rum, vodka en likeuren. Alcoholaanbod op bedrijfseigen site rechtstreeks geverifieerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "—",
+        "wo": "11:00",
+        "do": "10:30",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "—",
+        "wo": "18:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://bistrohetruiterskwartiertje.nl/",
+      "closing_source": "https://bistrohetruiterskwartiertje.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "opening_quality": "Eigen actuele homepage met volledig weekrooster, dinsdag expliciet gesloten.",
+      "closing_quality": "Eigen homepage ma/wo tot 18:00, do–zo tot 22:00, dinsdag gesloten; laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: https://bistrohetruiterskwartiertje.nl/ noemt adres Ruiterskwartier 147 en weekrooster ma 11–18, di gesloten, wo 11–18, do 10:30–22, vr/za 10–22, zo 12–22. Bedrijfseigen gelinkte https://bistrohetruiterskwartiertje.nl/wp-content/uploads/2025/09/Menukaart.pdf op pagina 1 drankenkaart met whisky, jenever, gin, rum en likeuren; kaartbestand gedateerd 09-2025 maar nog gelinkt op 02-11-2026. Geen sluiting vóór horeca-eindtijd, laatste toegang of losse alcoholinloop expliciet vermeld. Geen marker gegokt.",
+      "features": "D0 Leeuwarden Ruiterskwartier; primair 7-daags rooster en drankkaart",
+      "website": "https://bistrohetruiterskwartiertje.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Actuele exploitantwebsite met contact, KvK en eigen drankenkaart, rechtstreeks gecontroleerd.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://bistrohetruiterskwartiertje.nl/",
+        "https://bistrohetruiterskwartiertje.nl/wp-content/uploads/2025/09/Menukaart.pdf"
+      ],
+      "original_status": "Exploitantwebsite en gelinkte alcoholkaart gecontroleerd. Losse drankinloop/laatste toegang nog niet expliciet bevestigd; voorlopig."
     }
   ],
   "admission_policies": [
