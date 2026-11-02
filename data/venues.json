@@ -16070,7 +16070,8 @@
         "https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/",
         "https://www.vlieland.site/nl/locaties/923477599/zeevaert-bar-rotisserie",
         "https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden",
-        "https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/"
+        "https://www.dewadden.nl/vlieland/eten-drinken-en-winkelen/zeevaert-bar-en-rotisserie/",
+        "https://vlieland.net/nl/bedrijf/bar-rotisserie-de-zeevaert"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -16093,8 +16094,8 @@
       "opening_source": "https://westcordhotels.nl/hotel-de-wadden-algemene-hotelinformatie/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Hotel-FAQ van exploitant: Zeevaert dagelijks 18:00–02:00; eigen specifieke restaurantpagina vermeldt afzonderlijk keukenuren vanaf 10:00. Bar- versus keukenuren onderscheiden.",
-      "checked_on": "2026-10-30",
-      "geocode_notes": "Deelt hoteladres Dorpsstraat 61 met Eetcafé 't Praethuys; WestCord bevestigt drie zelfstandige restaurants binnen Hotel De Wadden, dus afzonderlijke venue-identiteit, geen dubbele invoer."
+      "checked_on": "2026-11-02",
+      "geocode_notes": "Deelt hoteladres Dorpsstraat 61 met Eetcafé 't Praethuys; WestCord bevestigt drie zelfstandige restaurants binnen Hotel De Wadden, dus afzonderlijke venue-identiteit, geen dubbele invoer. | 02-11-2026: regionale VVV https://vlieland.net/nl/bedrijf/bar-rotisserie-de-zeevaert noemt afzonderlijke gevel Dorpsstraat 63, eigen WestCord https://westcordhotels.nl/restaurants/zeevaert-bar-pizza/ noemt hoteladres 61. Bestaande BAG-marker 61 is het complexadres, niet exact bewezen bar-ingang; geen fictieve 63-coördinaten. Dit is geen dubbele venue met Praethuys."
     },
     {
       "id": "island-pub-vlieland-f6793f0",
@@ -19559,7 +19560,7 @@
       "region": "friesland",
       "country": "Nederland",
       "selection": "Voorlopig",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "features": "Vlieland; A7 gecontroleerde aanvulling",
       "id": "eetcafe-t-praethuys-vlieland-20261030",
       "name": "Eetcafé 't Praethuys",
@@ -19589,14 +19590,16 @@
       "opening_quality": "Exploitant: 10:00 alle dagen in beide seizoensroosters",
       "closing_quality": "Seizoensrooster: oktober–april zo–do 21:00, vr/za 22:00; mei–september dagelijks 22:00. Niet als jaarrond eindtijd ingevoerd.",
       "closing_source": "https://westcordhotels.nl/restaurants/praethuys/",
-      "closing_notes": "30-10-2026: eigen WestCord-site noemt laagseizoen oktober–april zo–do 10–21, vr/za 10–22, hoogseizoen mei–september dagelijks 10–22. Wegens ontbreken seizoensfilter zijn eindtijden onbekend gehouden; zie bron voor seizoen. Eigen adres Dorpsstraat 61 (VVV noemt 59). Losse zaak naast ZeeVaert, geen duplicaat. Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: eigen WestCord-site noemt laagseizoen oktober–april zo–do 10–21, vr/za 10–22, hoogseizoen mei–september dagelijks 10–22. Wegens ontbreken seizoensfilter zijn eindtijden onbekend gehouden; zie bron voor seizoen. Eigen adres Dorpsstraat 61 (VVV noemt 59). Losse zaak naast ZeeVaert, geen duplicaat. Laatste toegang onbekend. | 02-11-2026: huidige laagseizoen oktober 2026–april 2027 als date_schedules ingevoerd volgens actuele officiële WestCord-pagina; gewone jaarrond sluituren blijven onbekend. 2027-05 opnieuw controleren; niet automatisch eeuwigdurend herhalen.",
       "website": "https://westcordhotels.nl/restaurants/praethuys/",
       "website_checked_on": "2026-10-30",
       "other_sources": [
         "https://westcordhotels.nl/restaurants/praethuys/menu/",
         "https://www.vlieland.site/nl/locaties/1074534089/eetcafe-t-praethuys",
         "https://vlieland.net/en/bedrijf/westcord-hotel-de-wadden",
-        "https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys"
+        "https://www.honeyguide.nl/nl/locaties-verborgen-parels/1507001037/eetcafe-t-praethuys",
+        "https://vlieland.net/nl/bedrijf/t-praethuys",
+        "https://visitvlieland.nl/eten-drinken/eetcafe-t-praethuys"
       ],
       "original_status": "WestCord exploiteert openbaar eetcafé met bar, seizoensafhankelijke sluiting; geen live deurcheck.",
       "geo": {
@@ -19605,7 +19608,33 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 61, 8899AD Vlieland"
       },
-      "geocode_notes": "Deelt complexadres Dorpsstraat 61 met ZeeVaert Bistrobar en visrestaurant De Wadden; WestCord en VVV bevestigen afzonderlijke restaurants in hetzelfde hotel, dus geen dubbele venue. VVV vermeldt soms Dorpsstraat 59; exploitant gebruikt 61."
+      "geocode_notes": "Deelt complexadres Dorpsstraat 61 met ZeeVaert Bistrobar en visrestaurant De Wadden; WestCord en VVV bevestigen afzonderlijke restaurants in hetzelfde hotel, dus geen dubbele venue. VVV vermeldt soms Dorpsstraat 59; exploitant gebruikt 61. | 02-11-2026: VVV https://vlieland.net/nl/bedrijf/t-praethuys en https://visitvlieland.nl/eten-drinken/eetcafe-t-praethuys noemen Dorpsstraat 59 als afzonderlijke gevel, WestCord https://westcordhotels.nl/restaurants/praethuys/ vermeldt hoteladres 61. De huidige BAG-marker 61 is het complexadres, NIET bewezen exacte café-ingang. Geen willekeurige 59-marker.",
+      "date_schedules": [
+        {
+          "start": "2026-10-01",
+          "end": "2027-04-30",
+          "source": "https://westcordhotels.nl/restaurants/praethuys/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "10:00",
+            "di": "10:00",
+            "wo": "10:00",
+            "do": "10:00",
+            "vr": "10:00",
+            "za": "10:00",
+            "zo": "10:00"
+          },
+          "closing": {
+            "ma": "21:00",
+            "di": "21:00",
+            "wo": "21:00",
+            "do": "21:00",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "21:00"
+          }
+        }
+      ]
     },
     {
       "region": "friesland",
