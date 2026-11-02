@@ -36731,6 +36731,60 @@
         "https://www.proefverlof.frl/blokhuispoort/cafe-de-bak"
       ],
       "original_status": "Huidige bedrijfseigen dagopenstelling en alcoholkaart bevestigd; geen reguliere avondopenstelling of laatste toegang bekend."
+    },
+    {
+      "id": "het-paviljoen-dokkum-oostrum-20261102",
+      "name": "Het Paviljoen Dokkum (Schreiershoek)",
+      "type": "Paviljoen / borrelterras / restaurant",
+      "address": "Tichelwei 32E",
+      "city": "Oostrum (bij Dokkum)",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site biedt borrel, tapas en reguliere openingstijden; VVV Friesland noemt dat iedereen op recreatiepark De Schreiershoek welkom is, dus geen exclusieve park-/overnachtingstoegang. Evenementen en groepen apart op aanvraag.",
+      "alcohol": "Eigen https://www.hetpaviljoendokkum.nl/dit-is-het-paviljoen/ noemt lokale bieren; https://www.hetpaviljoendokkum.nl/high-wine/ biedt wijn- en bierproeverijen. Recensie april 2026 bevestigt wijn/bier.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://www.hetpaviljoendokkum.nl/",
+      "closing_source": "https://www.hetpaviljoendokkum.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Eigen actuele homepage geeft ma/di gesloten, wo/do 11:30–21, vr/za 11:30–23, zo 11:30–22. Exploitatie na 01-04-2026 bevestigd door eigen site en bezoekersrecensie.",
+      "closing_quality": "Exploitant vermeldt sluituur per dag; niet verward met keukenuren. Seizoens-/feestdagafwijkingen en laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: https://www.hetpaviljoendokkum.nl/ direct geraadpleegd; eigen homepage noemt reguliere weekuren. Eigen https://www.hetpaviljoendokkum.nl/dit-is-het-paviljoen/ vermeldt nieuwe tapasformule 2026 en lokaal bier; https://www.hetpaviljoendokkum.nl/high-wine/ bevestigt wijn/bier. https://www.friesland.nl/nl/locaties/3239075218/het-paviljoen noemt vrije toegang tot park en winterbezoek. Eigen contact Tichelwei 32E, VVV https://dokkum.nl/eten-en-drinken/het-paviljoen/ en Friesland.nl noemen 32P: BAG/feitelijke horeca-ingang onopgelost, geocodering blokkeren. RestaurantGuru noemt maandag open maar eigen site gesloten, eigen site aangehouden. Geen laatste-toegangstijd gevonden.",
+      "features": "D0 Noardeast-Fryslân / Oostrum; paviljoen op Schreiershoek; 2026 vernieuwde tapasformule, terrasborrel",
+      "website": "https://www.hetpaviljoendokkum.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen homepage, contact, tapas- en wijn-/bierproeverijpagina 02-11-2026 gecontroleerd.",
+      "other_sources": [
+        "https://www.hetpaviljoendokkum.nl/dit-is-het-paviljoen/",
+        "https://www.hetpaviljoendokkum.nl/high-wine/",
+        "https://www.hetpaviljoendokkum.nl/contact/",
+        "https://www.friesland.nl/nl/locaties/3239075218/het-paviljoen",
+        "https://dokkum.nl/eten-en-drinken/het-paviljoen/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g652196-d26360013-Reviews-Het_Paviljoen-Dokkum_Friesland_Province.html"
+      ],
+      "original_status": "Actueel 2026 horeca- en alcoholaanbod met weekrooster bevestigd; huisnummer 32E/32P nog niet voor BAG geverifieerd.",
+      "geocode_blocked": true,
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "Eigen site: Tichelwei 32E, 9125 EB Oostrum/Dokkum; officiële regiogidsen: Tichelwei 32P. Geen willekeurige BAG-match of gebouwcentroid."
     }
   ],
   "admission_policies": [
