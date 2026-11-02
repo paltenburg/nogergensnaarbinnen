@@ -29373,15 +29373,16 @@
         "zo": "?"
       },
       "closing_quality": "2026-sociale berichten bevestigen afwijkingen; vaste weekuren alleen secundair en onderling conflicterend. Geen exact rooster overgenomen.",
-      "closing_notes": "31-10-2026: https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9 toont exploitantberichten juni/juli 2026 (sluiting vakantie 20 juli–4 aug, heropening dinsdag 4 aug 16:00), maar geen directe oktoberverificatie. https://www.cafebarde.nl/ toont slechts afbeelding, geen actuele uren. Cylex, RestaurantGuru en andere gidsen verschillen op ma/zo; geen sluituren overgenomen. Oude naam Café Baljee op hetzelfde adres mogelijk historisch, niet dubbel aangemaakt. Laatste toegang onbekend. 31-10-2026 veiligheidscontrole: selectie expliciet verborgen totdat een recente primaire bron exploitatie en alcohol bevestigt.",
+      "closing_notes": "31-10-2026: https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9 toont exploitantberichten juni/juli 2026 (sluiting vakantie 20 juli–4 aug, heropening dinsdag 4 aug 16:00), maar geen directe oktoberverificatie. https://www.cafebarde.nl/ toont slechts afbeelding, geen actuele uren. Cylex, RestaurantGuru en andere gidsen verschillen op ma/zo; geen sluituren overgenomen. Oude naam Café Baljee op hetzelfde adres mogelijk historisch, niet dubbel aangemaakt. Laatste toegang onbekend. 31-10-2026 veiligheidscontrole: selectie expliciet verborgen totdat een recente primaire bron exploitatie en alcohol bevestigt. | 02-11-2026 historische adres-/aliascontrole: https://edensmakelaars.nl/aanbod/cafe-sibrandis-te-leeuwarden/ vermeldt Café Sibrandi's op exact Baljéestraat 19 met beschikbaarheidsdatum 25-07-2023; https://leeuwarden-nieuws.nl/adressen/cafe-sibrandis-baljeestraat/ is OSM-afgeleide vermelding met gegevensstand 16-03-2024. Dit bewijst GEEN tweede actuele horecazaak naast Café Bar-Dé op hetzelfde adres, noch een juridisch bewezen opvolging. Geen tweede Sibrandi's-record aanmaken zonder primaire actuele exploitatie- en afzonderlijke adresbevestiging. Bar-Dé zelf blijft verborgen tot eigen actuele inloop/alcohol/rooster bewezen.",
       "website": "https://www.cafebarde.nl/",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "other_sources": [
         "https://www.findglocal.com/NL/Leeuwarden/186461327884119/Caf%C3%A9-Bar-D%C3%A9",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-bar-d%C3%A9-14004712.html",
         "https://nl.restaurantguru.com/Cafe-Bar-De-Leeuwarden",
-        "https://leeuwarden.uitloper.nu/locaties/cafe-baljee"
+        "https://leeuwarden.uitloper.nu/locaties/cafe-baljee",
+        "https://edensmakelaars.nl/aanbod/cafe-sibrandis-te-leeuwarden/"
       ],
       "original_status": "Verborgen kandidaat: sociale exploitantberichten juni/juli 2026 tonen activiteit, maar actuele oktoberopening en drankaanbod niet rechtstreeks bevestigd. Niet standaard tonen.",
       "geo": {
