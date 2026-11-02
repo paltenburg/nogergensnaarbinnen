@@ -37989,6 +37989,53 @@
         "https://bestellen.cheungkwong.nl/"
       ],
       "original_status": "Officiële site toont actuele exploitatie en alcoholverkoop via bestelsysteem; vrije borrel en on-site alcoholaanbod nog niet bewezen."
+    },
+    {
+      "id": "hotel-restaurant-de-stadsherberg-franeker-20261102",
+      "name": "Hotel Restaurant De Stadsherberg",
+      "type": "Hotel-restaurant met publieke borrel",
+      "address": "Oud Kaatsveld 8",
+      "city": "Franeker",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen website nodigt expliciet iedereen uit voor lunch, een losse borrel of diner, dagelijks. Geen maaltijdplicht gepubliceerd.",
+      "alcohol": "Eigen website noemt 'borrel' maar op actuele eigen lunch-/dinerkaarten geen afzonderlijke bier-/wijnverkoop bevestigd; alcoholsoorten en vrije alcoholinloop blijven te verifiëren.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen website bevestigt dagelijks open, maar geen actuele exacte tijden. VVV vermeldt 11:30–22:00; zonder bevestiging door exploitant niet als gegarandeerd weekrooster ingevuld.",
+      "closing_quality": "Geen bedrijfseigen exact sluituur. VVV 22:00 en externe restaurantsites 22:00, maar deze kunnen verouderd zijn.",
+      "opening_source": "https://www.stadsherbergfraneker.nl/",
+      "closing_source": "",
+      "opening_checked_on": "2026-11-02",
+      "website": "https://www.stadsherbergfraneker.nl/",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen https://www.stadsherbergfraneker.nl/ zegt 'Iedere dag geopend voor lunch, een borrel of om heerlijk te dineren'; https://www.stadsherbergfraneker.nl/contact bevestigt Oud Kaatsveld 8, 8801 AB Franeker. Eigen https://www.stadsherbergfraneker.nl/restaurant linkt actuele lunch- en diner-PDF's maar geen losse alcoholkaart. https://www.friesland.nl/nl/locaties/2138766705/de-stadsherberg noemt dagelijks 11:30–22:00, maar exacte einduren niet door exploitant bevestigd. Gids https://www.restaurants.nl/franeker/de-stadsherberg/plattegrond noemt afwijkende 12:00–22:00; geen van beide secundaire roosters als zeker aangenomen. Alcoholaanbod, laatste toegang en november-openingsuren verifiëren; verborgen totdat voldoende bewezen.",
+      "features": "D0 Waadhoeke / Franeker; dagelijkse publieke borrel volgens exploitant, alcoholkaart en exacte uren onbekend",
+      "other_sources": [
+        "https://www.stadsherbergfraneker.nl/contact",
+        "https://www.stadsherbergfraneker.nl/restaurant",
+        "https://www.friesland.nl/nl/locaties/2138766705/de-stadsherberg",
+        "https://www.restaurants.nl/franeker/de-stadsherberg/plattegrond"
+      ],
+      "original_status": "Actuele officiële website bevestigt publieke borrel en adres; expliciet alcoholaanbod en exacte weekuren niet bevestigd."
     }
   ],
   "admission_policies": [
