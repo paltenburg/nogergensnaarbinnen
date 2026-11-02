@@ -121,7 +121,7 @@ assert.ok(itHolt.date_closures.some(x => x.start === '2026-12-25' &&
   x.end === '2027-01-01' && x.source === 'https://itholt.nl/' &&
   x.checked_on === '2026-11-02'));
 for (const day of ['wo','do','vr','za','zo']) {
-  assert.equal(deDames.opening[day], '11:00', 'Operator start hour on 2026-11-02');
+  assert.equal(deDames.opening[day], '12:00', 'Operator website 2026-11-02: 12:00 start, not obsolete 11:00');
 }
 assert.equal(deDames.selection, 'Nog te controleren', 'Do not infer reopening from expired banner');
 console.log('It Holt Christmas closure and De Dames operator start hours verified.');
