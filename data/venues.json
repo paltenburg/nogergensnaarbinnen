@@ -36844,6 +36844,56 @@
         "https://restaurantguru.com/Cafe-de-Knyp-De-Knipe-2"
       ],
       "original_status": "Publieke caféfunctie en exploitatieactiviteiten in 2026 onderbouwd, actuele reguliere openingsuren en rechtstreeks actueel alcoholassortiment niet volledig geverifieerd. Voorlopig; geen live bezoek bevestigd."
+    },
+    {
+      "id": "musykfabryk-heerenveen-20261102",
+      "name": "De Musykfabryk",
+      "type": "Muziekpodium / evenementenbar",
+      "address": "Industrieweg 18A",
+      "city": "Heerenveen",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen site organiseert openbare concerten/evenementen naast besloten zaalverhuur en oefenruimtes. Reguliere vrije café-inloop buiten geprogrammeerde avonden niet bevestigd. Voor een specifieke avond kunnen tickets of andere voorwaarden gelden.",
+      "alcohol": "Eigen evenementenpagina noemt expliciet bier bij openbare 2026-concerten, onder meer 03-10-2026 en 10-01-2026. Geen bewijs dat er dagelijks of zonder evenement alcohol wordt geschonken.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Alleen evenementafhankelijke publieksopening. OSM-afgeleid ma–do 19:30–23:30 en vr 16–01 is niet als regulier bevestigd.",
+      "closing_quality": "Geen vast exploitantenrooster voor reguliere cafétoegang of laatste toegang; alleen losse concertdata.",
+      "closing_notes": "02-11-2026: officiële https://musykfabryk.nl/evenementen/ noemt 2026-concerten op 10 januari, 4 april, 20 juni en 3 oktober en expliciet bier bij de concerten van 3 oktober en 10 januari. Eigen https://musykfabryk.nl/ en https://musykfabryk.nl/contact/ bevestigen oefenruimtes, zaalverhuur en eigen publieke evenementen, maar geen dagelijkse caféopenstelling. Onafhankelijke https://www.podiuminfo.nl/podium/2016/route/Musykfabryk/Heerenveen/ bevestigt Industrieweg 18A. OSM https://www.cartogiraffe.com/nederland/nederland/frysl%C3%A2n/heerenveen/heerenveen/industrieweg/ noemt ma–do/vr tijden, maar niet rechtstreeks van exploitant en niet voor vrij toegankelijk café. Historische KvK-vermelding https://www.oozo.nl/bedrijven/heerenveen/jubbega/oudeschoot/821037/de-musykfabryk is beëindigd, maar eigen 2026-programma bevestigt activiteit; geen huidige rechtsvorm aangenomen. Geen toekomstige concrete publieksavond of laatste toegang geverifieerd; requires_date_schedule blokkeert gewone tijdresultaten.",
+      "features": "D0 Heerenveen; event-/concertbar, géén bewezen regulier dagelijks café; check actuele evenementkalender per datum",
+      "website": "https://musykfabryk.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Officiële exploitantensite, eigen evenementenprogramma en contactinformatie gecontroleerd 02-11-2026.",
+      "other_sources": [
+        "https://musykfabryk.nl/evenementen/",
+        "https://musykfabryk.nl/contact/",
+        "https://www.podiuminfo.nl/podium/2016/route/Musykfabryk/Heerenveen/",
+        "https://www.oozo.nl/bedrijven/heerenveen/jubbega/oudeschoot/821037/de-musykfabryk",
+        "https://www.cartogiraffe.com/nederland/nederland/frysl%C3%A2n/heerenveen/heerenveen/industrieweg/"
+      ],
+      "checked_on": "2026-11-02",
+      "original_status": "Exploitant toont feitelijke evenementen in 2026, geen vaste openbare weekopening of toekomstige concrete datum bevestigd. Alleen evenementafhankelijk, daarom verborgen zonder geverifieerde date_schedules.",
+      "requires_date_schedule": true,
+      "date_schedule_notes": "02-11-2026: historische evenementen zijn geen toekomstige opening; geen geldige toekomstige datum bevestigd. Nieuwe datum pas tonen als eigen actuele agenda concrete publieke avond met tijden/toegang bewijst."
     }
   ],
   "admission_policies": [
