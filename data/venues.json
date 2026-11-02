@@ -35508,7 +35508,15 @@
       ],
       "original_status": "Eigen website en wintermenukaart 2026 bevestigen actieve horecacommunicatie en vrije borrel; uitbater bevestigde bier/wijn in 2025. Feitelijke novemberuren en laatste toegang blijven onzeker.",
       "website_checked_on": "2026-11-02",
-      "checked_on": "2026-11-02"
+      "checked_on": "2026-11-02",
+      "geo": {
+        "lat": 53.1085897,
+        "lon": 5.7835394,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Overijsselsestraatweg 6, 9008TS Reduzum"
+      },
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Overijsselsestraatweg 6, 9008TS Reduzum. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur. Master-bron spelt Overijselsestraatweg; BAG-canonieke spelling Overijsselsestraatweg. Huisnummer 6 en Reduzum komen overeen, geen ongefundeerde coördinaat."
     },
     {
       "id": "bij-fier-sneek-20261102",
@@ -35601,7 +35609,15 @@
       ],
       "original_status": "Eigen horecawebsite en 2026 alcoholcheck-ins ondersteunen exploitatie. Exacte weekuren en laatste toegang onzeker door bronconflicten.",
       "website_checked_on": "2026-11-02",
-      "checked_on": "2026-11-02"
+      "checked_on": "2026-11-02",
+      "geo": {
+        "lat": 53.0901367,
+        "lon": 5.8224162,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Stationsweg 47, 9001ZK Grou"
+      },
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Stationsweg 47, 9001ZK Grou. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur."
     },
     {
       "id": "eetcafe-t-sluske-jirnsum-20261102",
@@ -35745,7 +35761,15 @@
           },
           "notes": "Exploitant kondigt expliciet opening op ma 28 en di 29 december 2026 aan, maar zonder begin-/einduren; date-specific override voorkomt onjuiste gewone ma/di-geslotenweergave."
         }
-      ]
+      ],
+      "geo": {
+        "lat": 53.2026606,
+        "lon": 5.7912433,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oldehoofsterkerkhof 48, 8911DH Leeuwarden"
+      },
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Oldehoofsterkerkhof 48, 8911DH Leeuwarden. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur."
     }
   ],
   "admission_policies": [
