@@ -37775,6 +37775,54 @@
       "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte adresmatch uit daadwerkelijk gedownload en getest GitHub Pages-artefact workflow 41473303133 (geocode-report.json: added_in_this_run=2), adres en stabiele ID letterlijk tegen master vergeleken. BAG-adrespunt, geen fysiek geverifieerde café-ingang."
+    },
+    {
+      "id": "barista-cafe-drachten-20261102",
+      "name": "Barista Cafe Drachten",
+      "type": "Koffie-/lunchcafé met borrel en alcohol",
+      "address": "Museumplein 5",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen vestigingspagina bevestigt openbare café- en terrasfunctie; eigen Drachten-menukaart heeft aparte sectie 'Gezellig borrelen' met bier, wijn en borrelhapjes. Geen verplichte maaltijd of reservering voor losse borrel vermeld.",
+      "alcohol": "De via de officiële Drachten-vestigingspagina gelinkte eigen menukaart bevestigt Heineken 5,0%, Texels Skiller Wit, Skuumkoppe, Affligem, Paulaner, rode/witte/rosé wijn en cava. Mocktails zijn expliciet alcoholvrij en niet als cocktails meegeteld.",
+      "opening": {
+        "ma": "12:00",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://www.baristacafe.nl/vestiging/drachten/",
+      "closing_source": "https://www.baristacafe.nl/vestiging/drachten/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_quality": "Eigen actuele Drachten-vestigingspagina met volledig zevendaags rooster; uitzonderingen, laatste toegang en daadwerkelijke deurstop niet bekend.",
+      "closing_notes": "02-11-2026: bedrijfseigen pagina vermeldt ma 12–18, di–vr 09:30–18, za 09–18, zo 12–17. Eigen vestigingsspecifieke PDF-menukaart vermeldt borrel en alcoholische bieren/wijnen. Ondernemersbericht 22-04-2026 bevestigt feitelijke opening 21-04-2026 in voormalige Doppio Espresso op hetzelfde adres; oude Doppio-gidsuren niet overnemen. Geen geocode verzonnen.",
+      "features": "Dagcafé; bier/wijn/borrel, terras, naast bibliotheek; sluit uiterlijk 18:00 of zondag 17:00",
+      "website": "https://www.baristacafe.nl/vestiging/drachten/",
+      "other_sources": [
+        "https://www.cavesco.nl/docs/baristacafe/menukaart_drachten.pdf",
+        "https://www.outofhome-shops.nl/barista-cafe-geopend-in-drachten",
+        "https://www.missethoreca.nl/415708/barista-cafe-drachten-opent-in-voormalige-doppio-espresso"
+      ],
+      "original_status": "Eigen actuele vestigingspagina noemt vestiging en uren; onafhankelijke horeca-vakpers 22-04-2026 bevestigt opening 21-04-2026. Actuele live toegang op individuele datum niet geverifieerd."
     }
   ],
   "admission_policies": [
