@@ -37696,7 +37696,16 @@
       ],
       "original_status": "Actuele bistrosite en seizoensbegintijden geverifieerd; losse borrelinloop en sluituren onbekend; niet standaard tonen.",
       "checked_on": "2026-11-02",
-      "features": "D0 Sneek; seizoensopening; geen zelfstandig bevestigde barinloop"
+      "features": "D0 Sneek; seizoensopening; geen zelfstandig bevestigde barinloop",
+      "geo": {
+        "lat": 53.0335466,
+        "lon": 5.6596604,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Muntstraat 2, 8601CJ Sneek"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte adresmatch uit daadwerkelijk gedownload en getest GitHub Pages-artefact workflow 41473303133 (geocode-report.json: added_in_this_run=2), adres en stabiele ID letterlijk tegen master vergeleken. BAG-adrespunt, geen fysiek geverifieerde café-ingang."
     },
     {
       "id": "le-provence-sneek-20261102",
@@ -37743,7 +37752,16 @@
       ],
       "original_status": "Publieke lunchcafé-uren en historische alcoholkaart op eigen site, maar actuele losse borrel niet bevestigd; voorlopig verborgen.",
       "checked_on": "2026-11-02",
-      "features": "D0 Sneek; overdag; alcoholkaart gedateerd 2022"
+      "features": "D0 Sneek; overdag; alcoholkaart gedateerd 2022",
+      "geo": {
+        "lat": 53.032277,
+        "lon": 5.6607853,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Schaapmarktplein 1, 8601CE Sneek"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte adresmatch uit daadwerkelijk gedownload en getest GitHub Pages-artefact workflow 41473303133 (geocode-report.json: added_in_this_run=2), adres en stabiele ID letterlijk tegen master vergeleken. BAG-adrespunt, geen fysiek geverifieerde café-ingang."
     }
   ],
   "admission_policies": [
