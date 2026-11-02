@@ -2073,33 +2073,48 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Officiële site en drankenkaart bevestigen openbare café-/barfunctie aan Neude 37-39; geen maaltijdverplichting genoemd.",
+      "alcohol": "Eigen https://www.debeursutrecht.nl/menu/wijnen/witte-wijn/ bevestigt wijn; eigen https://www.debeursutrecht.nl/dansen/thirstday/ bevestigt bier, wijn en cocktails. Alcoholschenken vanaf 12:00 volgens eigen menu.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Geen geverifieerde sluitingstijd",
-      "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "",
+      "closing_quality": "Officiële eigen website; weekrooster voor café/restaurant, geen afzonderlijke laatste-toegangstijd.",
+      "closing_source": "https://www.debeursutrecht.nl/contact/",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen contactpagina noemt ma–do en zo 11:00–01:00, vr/za 11:00–04:00. Oudere gidsen vermelden afwijkende 02:00/05:00, niet overgenomen. Eigen drankkaart vermeldt alcoholverkoop vanaf 12:00; dit is GEEN toegangstijd en geen reden om opening 11:00 te vervangen. Laatste toegang en feestdagenafwijkingen onbekend.",
       "features": "Neude / borrel",
-      "website": "https://cafedebeurs.com/",
+      "website": "https://www.debeursutrecht.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/3/",
-        "https://uitgaanskaart.nl/cafe/utrecht"
+        "https://uitgaanskaart.nl/cafe/utrecht",
+        "https://www.debeursutrecht.nl/contact/",
+        "https://www.debeursutrecht.nl/menu/wijnen/witte-wijn/",
+        "https://www.debeursutrecht.nl/dansen/thirstday/"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "website_checked_on": "2026-10-26",
-      "website_provenance": "venue's own website; name, Utrecht location, and address checked",
-      "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 37-39 (Neude 37, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd."
+      "original_status": "02-11-2026: actuele eigen café-/restaurantwebsite en volledig weekrooster geverifieerd; actuele fysieke opening niet ter plaatse gecontroleerd.",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Officiële De Beurs-site https://www.debeursutrecht.nl/contact/ bevestigt Neude 37-39 Utrecht, bedrijfsnaam en volledig weekrooster; 02-11-2026 gecontroleerd.",
+      "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 37-39 (Neude 37, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.debeursutrecht.nl/contact/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02"
     },
     {
       "id": "cafe-de-binnenstad-f53bd1f",
@@ -5895,22 +5910,22 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Eigen https://www.lejournal.nl/ kondigt openbare café-/borreltoegang vanaf 02-11-2026 aan. Op 01-11 nog geen feitelijke publieke heropening bevestigd; informele preview op 31-10 is geen gewone publieksopening.",
+      "access": "Eigen site https://www.lejournal.nl/ zegt vanaf 02-11-2026 publiek welkom voor borrel; onafhankelijk nieuws van 31-10 bevestigt slechts informele preview en geplande publieke opening. Daadwerkelijke reguliere opening op 02-11 nog niet onafhankelijk bevestigd.",
       "alcohol": "Eigen https://www.lejournal.nl/ noemt expliciet borrel naast ontbijt/lunch/diner; afzonderlijke drankenkaart en actuele baruren na heropening nog niet geverifieerd.",
-      "selection": "Nee",
+      "selection": "Nog te controleren",
       "closing": {
-        "ma": "—",
-        "di": "—",
-        "wo": "—",
-        "do": "—",
-        "vr": "—",
-        "za": "—",
-        "zo": "—"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Nog niet publiek heropend op controledatum; eigen site noemt 02-11 als toekomstige heropeningsdatum, geen actuele bar-sluituren.",
+      "closing_quality": "Eigen website meldt publieke heropening op 02-11-2026, maar geen nieuwe vaste uren. Op controlemoment geen onafhankelijk bewijs van daadwerkelijke publieke bediening op 02-11; verborgen tot bevestiging.",
       "closing_source": "https://www.lejournal.nl/",
-      "checked_on": "2026-11-01",
-      "closing_notes": "01-11-2026: officiële https://www.lejournal.nl/ bevestigt aangekondigde publieke heropening op maandag 02-11. Nieuws030 https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/ (31-10) bevestigt informele opening op zaterdagavond 31-10, maar zegt dat de zaak pas 02-11 voor publiek opent. Daarom op 01-11 nog selection=Nee en weekrooster gesloten; geen oude gidsuren van vóór renovatie overnemen. Op/na 02-11 daadwerkelijke publieke exploitatie en nieuwe uren controleren.",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: https://www.lejournal.nl/ noemt heropening vandaag; https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/ (31-10) meldt informele preview 31-10 en geplande publieksopening 02-11. Geen onafhankelijke feitelijke openstelling vandaag, actuele weekuren, laatste toegang of alcoholkaart. Oude pre-renovatie-gidsuren NIET overnemen; opnieuw controleren na bevestigde publieke dag.",
       "features": "Neude; Neude / terras",
       "website": "https://www.lejournal.nl/",
       "other_sources": [
@@ -5921,20 +5936,20 @@
         "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/787/cafe-le-journal",
         "https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/"
       ],
-      "original_status": "01-11-2026: nog niet voor reguliere publieke toegang heropend; eigen site kondigt heropening 02-11 aan, onafhankelijke bron bevestigt alleen preview 31-10.",
+      "original_status": "02-11-2026: geplande publieke heropeningsdatum bereikt; site spreekt van 'vanaf 2 november', maar geen same-day exploitatiecontrole. Daarom niet als open tonen en ook niet meer zeven dagen als definitief gesloten coderen.",
       "opening": {
-        "ma": "—",
-        "di": "—",
-        "wo": "—",
-        "do": "—",
-        "vr": "—",
-        "za": "—",
-        "zo": "—"
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
       },
       "opening_source": "https://www.lejournal.nl/",
-      "opening_checked_on": "2026-11-01",
+      "opening_checked_on": "2026-11-02",
       "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 32-34 (Neude 32, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd.",
-      "closing_checked_on": "2026-11-01"
+      "closing_checked_on": "2026-11-02"
     },
     {
       "id": "le-en-2cefa7d",
@@ -13490,8 +13505,8 @@
       "city": "Dokkum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek stadscafé met borrel en cocktails volgens eigen website; laatste toegang onbekend",
-      "alcohol": "Cocktails volgens eigen website; overige alcohol niet individueel gecontroleerd",
+      "access": "Eigen site bevestigt publiek stadscafé met borrel en cocktails, Diepswal 1 Dokkum; geen maaltijdverplichting. Laatste toegang onbekend.",
+      "alcohol": "Cocktails volgens eigen https://stadscafe-artisante.nl/; stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt bier en wijn.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -13504,7 +13519,7 @@
       },
       "closing_quality": "Officiële website voor opening; sluiting onbekend wegens bronconflict",
       "closing_source": "",
-      "closing_notes": "Eigen site 30-10-2026: wo–za vanaf 10:00, zo–di vanaf 11:00, zonder sluitingsuren. Lokale stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo tot 22:00, vr/za tot 02:00; Cylex en Fietsnetwerk melden afwijkende 23/23:30/01:00. Alle eindtijden onbekend gezet; niet uit onbetrouwbaar rooster afleiden. Laatste toegang onbekend.",
+      "closing_notes": "02-11-2026 opnieuw gecontroleerd: eigen https://stadscafe-artisante.nl/contact/ bevestigt wo–za vanaf 10:00, zo–di vanaf 11:00, maar geen sluituren. Stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo 22:00, vr/za 02:00 en zwijgt over maandag; Friesland.nl geeft andere begintijden, Cylex noemt afwijkende sluituren. Daarom geen sluiting ingevuld; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://stadscafe-artisante.nl/",
       "other_sources": [
@@ -13514,8 +13529,8 @@
         "https://stadscafe-artisante.nl/contact/",
         "https://www.cylex.nl/bedrijf/stadscaf%C3%A9-artisante-13854608.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-30",
+      "original_status": "02-11-2026: eigen actuele website bevestigt naam, adres, borrelfunctie en beginuren; feitelijke fysieke exploitatie niet ter plaatse getest.",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "11:00",
         "di": "11:00",
@@ -13526,7 +13541,7 @@
         "zo": "11:00"
       },
       "opening_source": "https://stadscafe-artisante.nl/contact/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-02",
       "geo": {
         "lat": 53.3252267,
         "lon": 5.9981387,
@@ -30088,7 +30103,7 @@
       },
       "closing_quality": "Eigen site vermeldt wo–za 15:00–18:00 als openingstijden van de stadsbrouwerij; niet bewezen dat dit de vrije toegangstijden van het proeflokaal zijn. Daarom alle caféuren onbekend.",
       "closing_source": "",
-      "closing_notes": "31-10-2026: eigen site bevestigt proeflokaal met consumptie en een apart te reserveren bierproeverij; vrije inloop en vaste proeflokaaluren nog te verifiëren. Geen laatste toegang bekend. Fietsnetwerk vermeldt afwijkende 09:00–17:00; niet overgenomen.",
+      "closing_notes": "02-11-2026: officiële https://www.bonifatius754.nl/ noemt openingstijden STADSBROUWERIJ wo–za 15:00–18:00 en ma/di/zo gesloten. https://www.bonifatius754.nl/stadbrouwerij/ bevestigt bierconsumptie in proeflokaal; https://www.bonifatius754.nl/bierproeverij/ vereist reservering voor bierproeverij, https://www.bonifatius754.nl/locatiehuren/ noemt besloten verhuur. Er staat niet ondubbelzinnig dat iedere bezoeker zonder afspraak in proeflokaal kan drinken tijdens de brouwerijuren. Daarom selection=Nog te controleren, proeflokaaluren onbekend en niet zichtbaar; eerst vrije inloop bij exploitant verifiëren.",
       "opening_source": "",
       "opening_quality": "Brouwerij-uren niet zonder bewijs als proeflokaaluren overgenomen.",
       "website": "https://www.bonifatius754.nl/",
@@ -30098,9 +30113,11 @@
         "https://www.bonifatius754.nl/stadbrouwerij/",
         "https://www.bonifatius754.nl/bierproeverij/",
         "https://www.bonifatius754.nl/contactformulier/",
-        "https://www.fietsnetwerk.nl/knooppunt/stadsbrouwerij-bonifatius-dokkum/"
+        "https://www.fietsnetwerk.nl/knooppunt/stadsbrouwerij-bonifatius-dokkum/",
+        "https://www.bonifatius754.nl/",
+        "https://www.bonifatius754.nl/locatiehuren/"
       ],
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "features": "Brouwerij, proeflokaal; vrije inloop nog niet bevestigd",
       "original_status": "Actuele eigen site met proeflokaal, maar publieke vrije inloop niet afzonderlijk bewezen; verborgen tot nadere bevestiging.",
       "geo": {
