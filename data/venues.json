@@ -35526,6 +35526,51 @@
       "checked_on": "2026-11-02",
       "geocode_blocked": true,
       "geocode_notes": "Officiële website en VVV noemen 1e Oosterkade 24; historisch Oozo noemt 1e Oosterkade 2. Eerst exacte BAG/ingang verifiëren."
+    },
+    {
+      "id": "route-32-diner-grou-20261102",
+      "name": "Route32 Diner",
+      "type": "Diner/restaurant met bar",
+      "address": "Stationsweg 47",
+      "city": "Grou",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website zegt dat binnenlopen zonder reservering kan. Recente 2026-gastenactiviteit en alcoholmenu via Untappd; actuele reguliere dagopenstelling niet voor alle dagen onafhankelijk bevestigd.",
+      "alcohol": "Untappd-venue toont actueel bier, wijn en sterke drank; drankregistraties 24, 25 en 31 oktober 2026. Tripadvisor noemt bar, bier en wijn. Dit bewijst alcoholaanbod, maar niet individuele laatste toegang.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Tegenstrijdig: eigen website dagelijks 11:00–21:00 maar bevat verouderde september-vakantiemelding; Tripadvisor dinsdag gesloten; eigen menukaart 2025 ook woensdag gesloten",
+      "closing_source": "https://route32diner.nl/",
+      "closing_notes": "02-11-2026: eigen homepage https://route32diner.nl/ vermeldt ma–zo 11–21, maar erboven ongedateerde vakantieboodschap 'maandag 27 september' (geen 2026-datum), dus roosteractualiteit onzeker. Eigen menukaart https://route32diner.nl/wp-content/uploads/2025/02/Menukaart.pdf noemt di/wo gesloten; Tripadvisor toont dinsdag gesloten en woensdag 11–21; fietsnetwerk noemt dinsdag 11–21. Geen enkel vast dagrooster veilig overgenomen. Untappd https://untappd.com/v/route-32-diner/13737319 toont echte biercheck-ins op 24/25/31-10-2026 en actuele wijn-/bierkaart; vrije inloop volgens eigen homepage. Laatste toegang onbekend.",
+      "features": "Friesland; Grou; D0-ontdekking",
+      "website": "https://route32diner.nl/",
+      "other_sources": [
+        "https://untappd.com/v/route-32-diner/13737319",
+        "https://www.tripadvisor.nl/Restaurant_Review-g3646687-d21327920-Reviews-Route_32_Diner-Grou_Friesland_Province.html",
+        "https://route32diner.nl/wp-content/uploads/2025/02/Menukaart.pdf",
+        "https://www.fietsnetwerk.nl/knooppunt/route32-diner-grou/",
+        "https://stagemarkt.nl/leerbedrijven/route-32-diner_fdcf684f-f90e-486e-b0d5-93638ee654ce"
+      ],
+      "original_status": "Eigen horecawebsite en 2026 alcoholcheck-ins ondersteunen exploitatie. Exacte weekuren en laatste toegang onzeker door bronconflicten.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
