@@ -30813,10 +30813,10 @@
       "opening_checked_on": "2026-11-01",
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "opening_quality": "Eigen actuele contactpagina bevestigt winter vr/za 22:00–04:00; uitsluitend via gedateerd novemberrooster, niet als generiek jaarrooster.",
       "closing_quality": "Eigen contactpagina bevestigt winter vr/za 04:00; laatste toegang onbekend.",
-      "closing_notes": "01-11-2026: https://www.delichtboei-ameland.nl/disco bevestigt publieke disco en winter vr/za 22–04, maar tekst noemt dagelijks tijdens hoogseizoen en schoolvakanties; de footer specificeert die afwijkende dagen niet. Veilig verborgen totdat seizoens-/datumfilter en daadwerkelijk geldende avonden verifieerbaar zijn. Bewust zelfde adres als Café De Brouwerij; verschillende functies/roosters, geen nieuwe geocode gegokt.",
+      "closing_notes": "01-11-2026: https://www.delichtboei-ameland.nl/disco bevestigt publieke disco en winter vr/za 22–04, maar tekst noemt dagelijks tijdens hoogseizoen en schoolvakanties; de footer specificeert die afwijkende dagen niet. 02-11-2026 verduidelijking: het inmiddels ingevoerde en synthetisch geteste requires_date_schedule + date_schedules laat uitsluitend geverifieerde november-2026 winteravonden vr/za 22:00–04:00 zien. Buiten november of op niet-gepubliceerde weekdagen verborgen; evenementen en schoolvakanties kunnen afwijken. Dit is géén jaarrond weekrooster. Bewust zelfde adres als Café De Brouwerij; verschillende functies/roosters, geen nieuwe geocode gegokt.",
       "features": "Nes Ameland; disco; winter vrijdag en zaterdag 22–04; seizoensafhankelijk",
       "website": "https://www.delichtboei-ameland.nl/disco",
       "other_sources": [
