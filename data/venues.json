@@ -28865,10 +28865,10 @@
         "zo": "?"
       },
       "opening_source": "https://roastleeuwarden.nl/contact/",
-      "opening_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-11-02",
       "closing_source": "https://roastleeuwarden.nl/contact/",
       "closing_quality": "Eigen Roast-contactpagina geeft cocktailbar do 17–01, vr 17–01, za 16–01; VVV noemt ook wo 17–01 en za 17–01. Woensdag en andere niet door eigen site genoemde dagen blijven onbekend, zaterdag eigen site gevolgd.",
-      "closing_notes": "Laatste toegang onbekend. Eigen kelder65.nl niet rechtstreeks uitleesbaar; websiteveld gebruikt verifieerbare eigenaar Roast. Eigen actuele vacatures noemen Kelder65 expliciet; aparte bar binnen Roast-complex. Onbekende dagen niet als gesloten aangenomen. | 02-11-2026: Roast ging 24-03-2026 failliet maar heropende na doorstart op 10-04-2026 (Leeuwarder Courant 09-04-2026). Eigen https://roastleeuwarden.nl/cocktailbar/ beschrijft Kelder65 als cocktailbar in de kelder. Eerdere contactpagina heeft do/vr 17–01 en za 16–01; toeristische gids noemt afwijkende zaterdag en extra woensdag. Geen nieuwe exactheden aangenomen; huidige baruren na doorstart en laatste toegang blijven te herbevestigen.",
+      "closing_notes": "Laatste toegang onbekend. Eigen kelder65.nl niet rechtstreeks uitleesbaar; websiteveld gebruikt verifieerbare eigenaar Roast. Eigen actuele vacatures noemen Kelder65 expliciet; aparte bar binnen Roast-complex. Onbekende dagen niet als gesloten aangenomen. | 02-11-2026: Roast ging 24-03-2026 failliet maar heropende na doorstart op 10-04-2026 (Leeuwarder Courant 09-04-2026). Eigen https://roastleeuwarden.nl/cocktailbar/ beschrijft Kelder65 als cocktailbar in de kelder. Eerdere contactpagina heeft do/vr 17–01 en za 16–01; toeristische gids noemt afwijkende zaterdag en extra woensdag. Geen nieuwe exactheden aangenomen; huidige baruren na doorstart en laatste toegang blijven te herbevestigen. | 02-11-2026 eigen contactpagina https://roastleeuwarden.nl/contact/ opnieuw gelezen: cocktailbar uitsluitend do/vr 17–01 en za 16–01 expliciet; andere dagen ontbreken. VVV https://www.friesland.nl/nl/locaties/3050877960/kelder-65 noemt wo–za 17–01 (za 17 i.p.v. 16), dus eigen site leidend; doorstart van Roast bevestigt niet onafhankelijk afzonderlijke baruren na april.",
       "website": "https://roastleeuwarden.nl/cocktailbar/",
       "website_checked_on": "2026-11-02",
       "website_provenance": "02-11-2026: eigen https://roastleeuwarden.nl/cocktailbar/ bevestigt Kelder 65 in het Roast-pand, cocktails en publiek barconcept. Leeuwarder Courant 09-04-2026 bevestigt doorstart Roast op 10-04-2026 na faillissement 24-03-2026. Heropening restaurant ≠ onafhankelijk bewijs van exacte Kelder-uren.",
@@ -28886,7 +28886,8 @@
         "lon": 5.7928137,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwestad 65, 8911CK Leeuwarden"
-      }
+      },
+      "closing_checked_on": "2026-11-02"
     },
     {
       "id": "la-fontaine-heerenveen-20261031",
@@ -38070,37 +38071,38 @@
       "access": "Eigen proeflokaalpagina verwelkomt kleine gezelschappen en toont zaterdag 14:30–18:00 als publieke proeflokaaluren. Reserveren wordt aangeraden om teleurstelling te voorkomen; alleen excursies zijn expliciet uitsluitend op afspraak. Vrije inloop zonder reservering is niet afzonderlijk gegarandeerd.",
       "alcohol": "Exploitant bevestigt ter plaatse Us Heit-bier, Frysk Hynder-whisky en Frysk Famke-likeuren in het proeflokaal/terras.",
       "opening": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
         "vr": "?",
         "za": "14:30",
-        "zo": "?"
+        "zo": "—"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
         "vr": "?",
         "za": "18:00",
-        "zo": "?"
+        "zo": "—"
       },
-      "opening_quality": "Bedrijfseigen proeflokaaluren zaterdag 14:30–18:00; overige dagen niet gepubliceerd, dus onbekend. Slijterijuren niet gebruikt.",
-      "closing_quality": "Bedrijfseigen proeflokaal sluit volgens gepubliceerde zaterdaguren 18:00; laatste toegang onbekend.",
-      "opening_source": "https://www.usheit.com/nl/proeflokaal/contact_proeflokaal",
-      "closing_source": "https://www.usheit.com/nl/proeflokaal/contact_proeflokaal",
+      "opening_quality": "Eigen reserveringspagina: ma–do/zo proeflokaal gesloten; zaterdag 14:30–18:00; vrijdag uitsluitend april–augustus 14:30–18:00. Seizoensvensters expliciet gemodelleerd; vrijdag daarbuiten onbekend.",
+      "closing_quality": "Eigen proeflokaalrooster: zaterdag sluit 18:00; vrijdag in april–augustus 18:00. Geen laatste toegang gepubliceerd.",
+      "opening_source": "https://www.usheit.com/nl/proeflokaal/reserveren/",
+      "closing_source": "https://www.usheit.com/nl/proeflokaal/reserveren/",
       "opening_checked_on": "2026-11-02",
       "closing_checked_on": "2026-11-02",
       "website": "https://www.usheit.com/nl/proeflokaal",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02",
-      "closing_notes": "02-11-2026: eigen https://www.usheit.com/nl/proeflokaal/contact_proeflokaal: zaterdag proeflokaal 14:30–18:00, excursies 14:30 uitsluitend op afspraak, reserveren voor proeflokaal geadviseerd maar niet expliciet verplicht. Eigen https://www.usheit.com/nl/proeflokaal noemt bier, whisky en likeuren voor kleine gezelschappen en terras. Slijterij do–za 10–18 is een ANDERE functie en niet als caféuren overgenomen. Ma–vr/zo en laatste toegang onbekend; geen coördinaten zonder exacte BAG-match.",
+      "closing_notes": "02-11-2026: eigen https://www.usheit.com/nl/proeflokaal/contact_proeflokaal: zaterdag proeflokaal 14:30–18:00, excursies 14:30 uitsluitend op afspraak, reserveren voor proeflokaal geadviseerd maar niet expliciet verplicht. Eigen https://www.usheit.com/nl/proeflokaal noemt bier, whisky en likeuren voor kleine gezelschappen en terras. Slijterij do–za 10–18 is een ANDERE functie en niet als caféuren overgenomen. Ma–vr/zo en laatste toegang onbekend; geen coördinaten zonder exacte BAG-match. | 02-11-2026 aanvullende eigen https://www.usheit.com/nl/proeflokaal/reserveren/: alle andere dagen gesloten, vrijdag uitsluitend april–augustus 14:30–18:00. Dated winterschema 2026/27 en zomerschema 2027 opgenomen; reserveringsformulier heeft expliciete optie 'zitplaats zonder excursie', maar geen garantie op spontane inloop.",
       "features": "Bolsward; brouwerijproeflokaal, zaterdagmiddag; excursies op afspraak",
       "other_sources": [
         "https://www.usheit.com/nl/proeflokaal/contact_proeflokaal",
-        "https://www.usheit.com/"
+        "https://www.usheit.com/",
+        "https://www.usheit.com/nl/proeflokaal/reserveren/"
       ],
       "original_status": "02-11-2026: officiële brouwerij bevestigt proeflokaal, alcoholaanbod en zaterdaguren; feitelijke deurtoegang zonder reservering niet onafhankelijk gecontroleerd.",
       "geo": {
@@ -38110,7 +38112,59 @@
         "matched_address": "Snekerstraat 43, 8701XC Bolsward"
       },
       "geo_checked_on": "2026-11-02",
-      "geocode_notes": "02-11-2026: exacte adres+huisnummer+BAG-postcode match uit geslaagde GitHub Pages-build 41503276369 (geocode-report.json: 2 toegevoegd), gedownloade artifact.tar gecontroleerd. Geen handmatig verzonnen coördinaten; fysieke ingang niet ter plaatse geverifieerd."
+      "geocode_notes": "02-11-2026: exacte adres+huisnummer+BAG-postcode match uit geslaagde GitHub Pages-build 41503276369 (geocode-report.json: 2 toegevoegd), gedownloade artifact.tar gecontroleerd. Geen handmatig verzonnen coördinaten; fysieke ingang niet ter plaatse geverifieerd.",
+      "date_schedules": [
+        {
+          "start": "2026-11-02",
+          "end": "2027-03-31",
+          "source": "https://www.usheit.com/nl/proeflokaal/reserveren/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "—",
+            "za": "14:30",
+            "zo": "—"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "—",
+            "za": "18:00",
+            "zo": "—"
+          }
+        },
+        {
+          "start": "2027-04-01",
+          "end": "2027-08-31",
+          "source": "https://www.usheit.com/nl/proeflokaal/reserveren/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "14:30",
+            "za": "14:30",
+            "zo": "—"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "—",
+            "wo": "—",
+            "do": "—",
+            "vr": "18:00",
+            "za": "18:00",
+            "zo": "—"
+          }
+        }
+      ],
+      "date_schedule_notes": "02-11-2026: bedrijfseigen reserveringspagina: proeflokaal za 14:30–18:00 het hele jaar, vr 14:30–18:00 uitsluitend april–augustus; overige dagen gesloten. Dated overrides 2026/2027; vrijdag buiten geverifieerde datumvensters blijft onbekend. Excursies alleen op reservering, losse zitplaats kan worden aangevraagd; spontane inloop niet gegarandeerd. Slijterij do–za 10–18 is geen proeflokaalrooster.",
+      "date_schedules_checked_on": "2026-11-02"
     },
     {
       "id": "hotel-restaurant-poort-van-franeker-20261102",
@@ -38124,7 +38178,7 @@
       "access": "Eigen exploitantwebsite zegt expliciet dat iedereen welkom is, ook alleen voor een drankje zonder maaltijd; voor reguliere koffiestop/lunch geen verplichte reservering genoemd.",
       "alcohol": "Exploitant spreekt van een drankje maar publiceert op de geraadpleegde actuele menukaart geen expliciete bier-, wijn- of cocktailkaart. Alcoholische consumptie en vrije alcoholinloop nog niet afzonderlijk bewezen.",
       "opening": {
-        "ma": "?",
+        "ma": "—",
         "di": "10:00",
         "wo": "10:00",
         "do": "10:00",
@@ -38133,7 +38187,7 @@
         "zo": "12:00"
       },
       "closing": {
-        "ma": "?",
+        "ma": "—",
         "di": "21:00",
         "wo": "21:00",
         "do": "21:00",
@@ -38141,21 +38195,22 @@
         "za": "21:00",
         "zo": "21:00"
       },
-      "opening_quality": "Bedrijfseigen homepage op 02-11-2026: di–za 10:00–21:00, zo 12:00–21:00; maandag niet vermeld (onbekend, niet als gesloten geïnterpreteerd).",
-      "closing_quality": "Bedrijfseigen algemene hotel-restauranturen, niet afzonderlijk geverifieerd voor alcoholische borrel; laatste toegang onbekend.",
-      "opening_source": "https://www.poortvanfraneker.nl/",
-      "closing_source": "https://www.poortvanfraneker.nl/",
+      "opening_quality": "Eigen contact- en openingstijdenpagina 02-11-2026: maandag expliciet gesloten, di–za 10–21, zo 12–21.",
+      "closing_quality": "Eigen contactpagina: maandag gesloten, di–zo algemene restaurant-sluiting 21:00. Alcoholische drankinloop en laatste toegang niet bewezen.",
+      "opening_source": "https://www.poortvanfraneker.nl/contact/",
+      "closing_source": "https://www.poortvanfraneker.nl/contact/",
       "opening_checked_on": "2026-11-02",
       "closing_checked_on": "2026-11-02",
       "website": "https://www.poortvanfraneker.nl/",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02",
-      "closing_notes": "02-11-2026: eigen https://www.poortvanfraneker.nl/ bevestigt Stationsweg 1 8801 JL, publieke inloop voor een drankje, di–za 10–21 en zo 12–21; geen maandagvermelding. Eigen https://www.poortvanfraneker.nl/menukaart/ bevat maaltijden, geen expliciete actuele bier/wijnkaart. Recente eigen nieuwsberichten 20-09-2026 over soepdag en kerst plus reviews juni–oktober 2026 ondersteunen exploitatie, geen bewijs van alcoholassortiment. Blijft verborgen totdat alcoholinloop bewezen is; geen kaartmarker zonder exacte BAG-match.",
+      "closing_notes": "02-11-2026: eigen https://www.poortvanfraneker.nl/ bevestigt Stationsweg 1 8801 JL, publieke inloop voor een drankje, di–za 10–21 en zo 12–21; geen maandagvermelding. Eigen https://www.poortvanfraneker.nl/menukaart/ bevat maaltijden, geen expliciete actuele bier/wijnkaart. Recente eigen nieuwsberichten 20-09-2026 over soepdag en kerst plus reviews juni–oktober 2026 ondersteunen exploitatie, geen bewijs van alcoholassortiment. Blijft verborgen totdat alcoholinloop bewezen is; geen kaartmarker zonder exacte BAG-match. | 02-11-2026 aanvullende eigen https://www.poortvanfraneker.nl/contact/: maandag expliciet GESLOTEN (eerdere homepage liet maandag slechts onvermeld). Eigen menukaart https://www.poortvanfraneker.nl/menukaart/ noemt advocaat/Baileys in desserts, maar bewijst geen losse alcoholverkoop; verborgen status gehandhaafd.",
       "features": "Franeker; hotel-restaurant; publieke drankinloop, alcohol nog onbevestigd",
       "other_sources": [
         "https://www.poortvanfraneker.nl/menukaart/",
         "https://www.poortvanfraneker.nl/soepdag/",
-        "https://www.franeker.frl/bezoeken/117870/hotel-restaurant-poort-van-franeker/"
+        "https://www.franeker.frl/bezoeken/117870/hotel-restaurant-poort-van-franeker/",
+        "https://www.poortvanfraneker.nl/contact/"
       ],
       "original_status": "Officiële site en lokale gids bevestigen actuele exploitatie en publieke inloop; alcoholaanbod en laatste toegang nog onbevestigd.",
       "geo": {
