@@ -36481,6 +36481,56 @@
       "geocode_blocked": true,
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "Eigen Skybar-contact vermeldt Heliconweg 32; eigen Restaurant élevé/WestCord-pagina Heliconweg 52. Beiden verwijzen naar de Skybar op de 11e verdieping. Eerst werkelijke publieke ingang en BAG-adres controleren; niet 32 of 52 automatisch geocoderen."
+    },
+    {
+      "id": "neushoorn-cafe-leeuwarden-20261102",
+      "name": "Neushoorn Café",
+      "type": "Poppodiumcafé / muziekcafé",
+      "address": "Ruiterskwartier 41",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen Neushoorn-cafépagina: reguliere vrije inloop do/vr 17:00–00:00, za 17:00–22:00. Zaterdag na 22:00 verandert het café in een nachtclub; entreeprijs en toegang verschillen per evenement. Overige dagen uitsluitend evenementafhankelijk.",
+      "alcohol": "Eigen Neushoorn-site noemt publieke cafébar en drankjes; Neushoorn organiseert ook bierfestivals. Een eigen actuele reguliere alcoholkaart van het café is niet aangetroffen; daarom nog verborgen als kandidaat.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "22:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.neushoorn.nl/cafe",
+      "closing_source": "https://www.neushoorn.nl/cafe",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Eigen actuele cafépagina geeft do/vr 17:00–00:00 en za 17:00–22:00; eigen contactpagina zegt vanaf 16:00, daarom conservatieve 17:00. Geen reguliere ma/di/wo/zo-opening, wel losse evenementen.",
+      "closing_quality": "Eigen actuele cafépagina geeft gratis toegang tot za 22:00, daarna eventueel betaalde nachtclub; de clubsluiting is niet als gewone gratis cafésluiting gebruikt.",
+      "closing_notes": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend.",
+      "features": "Gratis poppodiumcafé do–za; na za 22:00 evenementafhankelijk/ticket; reguliere alcoholkaart te verifiëren",
+      "website": "https://www.neushoorn.nl/cafe",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen Neushoorn-cafépagina en contactpagina gecontroleerd; officiële 2026-agenda bevestigt actuele exploitatie.",
+      "other_sources": [
+        "https://www.neushoorn.nl/contact",
+        "https://www.neushoorn.nl/nieuws/cafe-gratis-toegankelijk-hal-elke-avond-open",
+        "https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept",
+        "https://www.neushoorn.nl/events/bierfestival-feb"
+      ],
+      "original_status": "Huidige publieke exploitatie, gratis toegangsvensters en weekuren bevestigd; regulier alcoholaanbod onvoldoende rechtstreeks bewezen.",
+      "geo": null
     }
   ],
   "admission_policies": [
