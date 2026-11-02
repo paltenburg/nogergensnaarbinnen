@@ -38306,6 +38306,55 @@
       },
       "geo_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte BAG-huisnummer- en postcode-match uit gedownloade GitHub Pages-build 41503404237, geocode-report.json (3 nieuw, inclusief Us Heit/Poort). Bron: PDOK BAG, geen handmatige interpolatie; fysieke ingang niet ter plaatse geverifieerd."
+    },
+    {
+      "id": "brasserie-spiegelaar-leeuwarden-20261102",
+      "name": "Brasserie Spiegelaar",
+      "type": "Brasserie / borrel / bier",
+      "address": "Nieuwestad 141",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen actuele homepage nodigt publiek uit voor lunch, diner en losse borrel; geen reserverings- of maaltijdplicht voor een gewone borrel vermeld. Niet fysiek gecontroleerd.",
+      "alcohol": "Exploitant biedt eigen bieren Ut Spiegeltje (6,5%) en De Huismus (5,5%) op de wisseltap; bedrijfseigen pagina bevestigt bierconsumptie ter plaatse.",
+      "opening": {
+        "ma": "?",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "18:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "?"
+      },
+      "opening_source": "https://brasseriespiegelaar.nl/contact/",
+      "closing_source": "https://brasseriespiegelaar.nl/contact/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Eigen contact- en menupagina bevestigen di 09–18 en wo–za 09–22. Ma en zo tegenstrijdig op eigen homepage versus subpagina's: bewust onbekend.",
+      "closing_quality": "Eigen contact- en menupagina bevestigen di 18:00 en wo–za 22:00. Eigen homepage noemt ma 09–18 en zo 11–18, subpagina's ma gesloten en zo 12–17: beide dagen onbekend gehouden. Laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: eigen https://brasseriespiegelaar.nl/ toont ma 09–18 en zo 11–18, terwijl eigen https://brasseriespiegelaar.nl/contact/ en https://brasseriespiegelaar.nl/menukaart/ ma gesloten en zo 12–17 vermelden. Di 09–18, wo–za 09–22 zijn gelijk; uitsluitend deze vijf dagroosters opgenomen. Geen onjuiste zekerheid uit interne bronconflicten. Eigen https://brasseriespiegelaar.nl/onze-eigen-bieren/ bevestigt bieren 6,5% en 5,5% en huidige wisseltap. Bedrijfseigen homepage nodigt uit tot borrel. Regiogids bevestigt adres. Geen laatste toegang of fysieke deurcontrole.",
+      "features": "Leeuwarden Nieuwestad; borrel met eigen speciaalbier, dag- en avondbrasserie",
+      "website": "https://brasseriespiegelaar.nl/",
+      "other_sources": [
+        "https://brasseriespiegelaar.nl/menukaart/",
+        "https://brasseriespiegelaar.nl/onze-eigen-bieren/",
+        "https://www.visitleeuwarden.com/locaties/1757133471/brasserie-spiegelaar"
+      ],
+      "original_status": "02-11-2026: eigen actuele site bevestigt exploitatie, publieke borrel, alcohol en vijf eenduidige weekdagen. Maandag en zondag conflicteren op eigen pagina's, dus onbekend; live toegang niet afzonderlijk geverifieerd."
     }
   ],
   "admission_policies": [
