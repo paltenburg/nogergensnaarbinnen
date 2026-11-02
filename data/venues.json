@@ -37822,7 +37822,14 @@
         "https://www.outofhome-shops.nl/barista-cafe-geopend-in-drachten",
         "https://www.missethoreca.nl/415708/barista-cafe-drachten-opent-in-voormalige-doppio-espresso"
       ],
-      "original_status": "Eigen actuele vestigingspagina noemt vestiging en uren; onafhankelijke horeca-vakpers 22-04-2026 bevestigt opening 21-04-2026. Actuele live toegang op individuele datum niet geverifieerd."
+      "original_status": "Eigen actuele vestigingspagina noemt vestiging en uren; onafhankelijke horeca-vakpers 22-04-2026 bevestigt opening 21-04-2026. Actuele live toegang op individuele datum niet geverifieerd.",
+      "geo": {
+        "lat": 53.1045686,
+        "lon": 6.0986401,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Museumplein 5, 9203DD Drachten"
+      },
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch uit daadwerkelijk gedownload en uitgepakt GitHub Pages-artifact van geslaagde Actions-run 41486256168 (754 records, geocode-report 2 nieuwe matches); ID, straat, huisnummer, plaats en ontbrekende eerdere marker gecontroleerd. Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. BAG-adrescoördinaat bewijst niet de fysieke café-ingang of feitelijke exploitatie."
     },
     {
       "id": "cafe-odl-luinjeberd-20261102",
@@ -37870,7 +37877,14 @@
         "https://nl.restaurantguru.com/Cafe-and-cafetaria-ODL-Luinjeberd",
         "https://www.aengwirden.nl/images/aengwirden-actief/2026/AengwirdenActief-feb2026.pdf"
       ],
-      "original_status": "Actuele exploitantenwebsite met adres, openbare caféfunctie, bier en weekstarts; onafhankelijke dorpspublicatie februari 2026 vermeldt O.D.L. op hetzelfde adres. Exacte sluituren onbekend."
+      "original_status": "Actuele exploitantenwebsite met adres, openbare caféfunctie, bier en weekstarts; onafhankelijke dorpspublicatie februari 2026 vermeldt O.D.L. op hetzelfde adres. Exacte sluituren onbekend.",
+      "geo": {
+        "lat": 52.9904932,
+        "lon": 5.9209593,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Aengwirderweg 149, 8459BK Luinjeberd"
+      },
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch uit daadwerkelijk gedownload en uitgepakt GitHub Pages-artifact van geslaagde Actions-run 41486256168 (754 records, geocode-report 2 nieuwe matches); ID, straat, huisnummer, plaats en ontbrekende eerdere marker gecontroleerd. Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. BAG-adrescoördinaat bewijst niet de fysieke café-ingang of feitelijke exploitatie."
     }
   ],
   "admission_policies": [
