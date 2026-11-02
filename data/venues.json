@@ -37885,6 +37885,54 @@
         "matched_address": "Aengwirderweg 149, 8459BK Luinjeberd"
       },
       "geocode_notes": "02-11-2026: exacte BAG-adresmatch uit daadwerkelijk gedownload en uitgepakt GitHub Pages-artifact van geslaagde Actions-run 41486256168 (754 records, geocode-report 2 nieuwe matches); ID, straat, huisnummer, plaats en ontbrekende eerdere marker gecontroleerd. Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. BAG-adrescoördinaat bewijst niet de fysieke café-ingang of feitelijke exploitatie."
+    },
+    {
+      "id": "hotel-restaurant-het-witte-huis-olterterp-20261102",
+      "name": "Hotel Restaurant Het Witte Huis",
+      "type": "Hotel-restaurant met borrel en wijnkaart",
+      "address": "Van Harinxmaweg 20",
+      "city": "Olterterp",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt dagelijks publiek restaurant en terras; advertentie in Koningsdagkrant 2026 noemt expliciet koffie, lunch, borrel en diner. Losse alcoholinloop zonder maaltijd of reservering niet afzonderlijk door exploitant bevestigd.",
+      "alcohol": "Eigen actuele herfst-dinerkaart (gelinkt sinds 16 oktober 2026) vermeldt meerdere witte, rode en roséwijnen en prosecco per glas; alcoholaanbod rechtstreeks geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Officiële website met dagelijks regulier rooster; november-herfstkaart bevestigt actieve seizoensexploitatie.",
+      "closing_quality": "Officiële website noemt 10:00–22:00 dagelijks; keuken-/dineruren zijn afzonderlijk en niet als sluituur gebruikt.",
+      "opening_source": "https://wittehuisolterterp.nl/",
+      "closing_source": "https://wittehuisolterterp.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "website": "https://wittehuisolterterp.nl/",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen https://wittehuisolterterp.nl/ toont dagelijks 10:00–22:00, lunch 11:30–16:00 en diner 17:00–20:30. Eigen herfstkaart https://wittehuisolterterp.nl/nieuwe-zomerkaart-2026/ vanaf 16-10-2026 linkt naar actuele https://wittehuisolterterp.nl/wp-content/uploads/2264488_dinerkaart-NL-v2.pdf met wijn per glas en knabbelplank. Advertentie in Koningsdagkrant april 2026 noemt borrel, maar geen zelfstandige actuele deurstop; laatste toegang onbekend. Oudere fietsgids vermeldt seizoensperiode 1 april–1 november; bedrijfseigen actuele herfst-/kerstprogramma en dagelijkse uren zijn leidend. Geen geocode verzonnen.",
+      "features": "D0 Opsterland / Olterterp; hotel-restaurant met borrelmogelijkheid, wijnkaart",
+      "other_sources": [
+        "https://wittehuisolterterp.nl/nieuwe-zomerkaart-2026/",
+        "https://wittehuisolterterp.nl/wp-content/uploads/2264488_dinerkaart-NL-v2.pdf",
+        "https://koningsdagbeetsterzwaag.nl/wp-content/uploads/2026/03/Koningsdag-krant-2026-klf.pdf",
+        "https://www.nederlandfietsland.nl/locaties/hotel-restaurant-het-witte-huis/"
+      ],
+      "original_status": "Actuele officiële november-website met herfstmenu, alcoholkaart en dagelijks rooster; onafhankelijke fysieke deurcontrole en laatste toegang ontbreken."
     }
   ],
   "admission_policies": [
