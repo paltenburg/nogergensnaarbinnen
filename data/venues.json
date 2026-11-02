@@ -37589,13 +37589,15 @@
         "https://bestrestos.nl/restaurant/eetcafe-baba-bolsward-bolsward-2079",
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
         "https://www.allebiz.nl/eetcaf%C3%A9-baba-bolsward-0515-574-658",
-        "https://allecijfers.nl/postcode/8701KD/"
+        "https://allecijfers.nl/postcode/8701KD/",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/bolsward/bolsward-binnen-de-wallen/554579/eetcafe-baba",
+        "https://www.restaurants.nl/bolsward/baba"
       ],
       "original_status": "Exploitantwebsite met weekuren en adres; alcoholaanbod uit actuele derdebron, geen eigen drankenkaart. Voorlopig; geen laatste toegang.",
       "checked_on": "2026-11-02",
       "features": "D0 Súdwest-Fryslân / Bolsward; café/restaurant; openingstijden eigen site, alcohol nog direct controleren",
       "geocode_blocked": true,
-      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://www.bababolsward.nl/contact noemt Bargefenne 16, maar BAG-afgeleide adressentabel 2026 https://allecijfers.nl/postcode/8701KD/ en https://woningsearch.nl/street/bolsward/bargefenne tonen adressen 1–17 met 15 en 17, niet 16. Historische/alternatieve nummering mogelijk; niet omzetten naar 15/17 of straatcentrum. Eerst exploitant/PDOK-adresrelatie en daadwerkelijke ingang verifiëren."
+      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://www.bababolsward.nl/contact noemt Bargefenne 16, maar BAG-afgeleide adressentabel 2026 https://allecijfers.nl/postcode/8701KD/ en https://woningsearch.nl/street/bolsward/bargefenne tonen adressen 1–17 met 15 en 17, niet 16. Historische/alternatieve nummering mogelijk; niet omzetten naar 15/17 of straatcentrum. Eerst exploitant/PDOK-adresrelatie en daadwerkelijke ingang verifiëren. Aanvullend: KvK-afgeleide https://www.oozo.nl/bedrijven/sudwest-fryslan/bolsward/bolsward-binnen-de-wallen/554579/eetcafe-baba noemt eveneens 16; https://www.restaurants.nl/bolsward/baba noemt 15–16. Bedrijfsadres 16 dus niet stilzwijgend naar BAG 15 omzetten."
     },
     {
       "id": "de-grillerije-franeker-20261102",
@@ -37639,13 +37641,14 @@
         "https://degrillerije.nl/contact/",
         "https://www.franeker.frl/bezoeken/159356/restaurant-de-grillerije/",
         "https://restaurantgids.nl/restaurant/de-grillerije-franeker",
-        "https://allecijfers.nl/weg/groenmarkt-franeker/"
+        "https://allecijfers.nl/weg/groenmarkt-franeker/",
+        "https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091"
       ],
       "original_status": "2026 exploitantenwebsite en alcoholkaart actueel; geen expliciete vrije borrelinloop of betrouwbaar caféweekrooster. Nog te controleren.",
       "checked_on": "2026-11-02",
       "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren",
       "geocode_blocked": true,
-      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen."
+      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen. Aanvullend: KvK-afgeleide bedrijfsregistratie (12-02-2026) https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091 bevestigt Groenmarkt 14 als feitelijk bedrijfsadres; het adres is dus niet op basis van de BAG-tegenspraak als fout aangemerkt. Geocode blijft geblokkeerd tot exacte ingang/BAG-relatie bevestigd."
     }
   ],
   "admission_policies": [
