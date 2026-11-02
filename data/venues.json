@@ -11103,8 +11103,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Danscafé met alcoholische dranken volgens publieke horecabronnen",
+      "access": "Publieke café-inloop onderbouwd door exploitantenposts uit april/mei 2026 (via sociale-postspiegel), met uitnodigingen voor Koningsdag en Bevrijdingsdag; actuele deurrestricties/laatste toegang onbekend.",
+      "alcohol": "Exploitantenposts uit april/mei 2026 noemen expliciet bier, Berenburg en shots; dit onderbouwt alcoholverkoop, niet reguliere sluituren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -11123,9 +11123,10 @@
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep",
-        "https://www.ouwestoep.nl/fotos/"
+        "https://www.ouwestoep.nl/fotos/",
+        "https://www.findglocal.com/NL/Leeuwarden/148408121887140/Caf%C3%A9-de-Ouwe-Stoep"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Publieke alcoholinloop in 2026 onderbouwd met exploitantenposts; regulier sluituur onbekend en eigen domein heeft ongewenste gokcontent op subpagina.",
       "geocode_notes": "30-10-2026: eigen site en Visit Leeuwarden noemen 6; eerdere marker was huisnummer 7. Verwijderd; exact 6 opnieuw geocoderen.",
       "opening": {
         "ma": "19:00",
@@ -11136,7 +11137,7 @@
         "za": "12:00",
         "zo": "19:00"
       },
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "geo": {
         "lat": 53.2004794,
         "lon": 5.7925442,
