@@ -468,4 +468,36 @@ assert.equal(timedEligible(byId('cafe-de-lantaarn-dokkum-20261031')),false,
   'verified Monday closing itself is not a valid arrival');
 state.after='';state.date='';state.day='vr';
 
+// Loetje 2026 holiday hours are explicit date overrides, not generic Friday
+// closing times. WTC Skybar is a separate public bar with midnight closing.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-05';state.day='do';
+state.after='21:00';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),true,
+  'Loetje ordinary Thursday 21:00 precedes 21:30 closing');
+state.after='21:30';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),false,
+  'Loetje ordinary Thursday closes at 21:30');
+state.date='2026-12-25';state.day='vr';state.after='21:30';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),true,
+  'Loetje Christmas 21:30 precedes special 22:00 closing');
+state.after='22:00';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),false,
+  'Loetje Christmas 22:00 is special closing, not admission');
+state.date='2026-12-31';state.day='do';state.after='20:00';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),true,
+  'Loetje New Years Eve 20:00 precedes 20:30 closing');
+state.after='20:30';
+assert.equal(timedEligible(byId('loetje-leeuwarden-20261102')),false,
+  'Loetje New Years Eve 20:30 is special closing');
+state.date='2026-11-06';state.day='vr';state.after='23:30';
+assert.equal(timedEligible(byId('skybar-wtc-leeuwarden-20261102')),true,
+  'WTC Skybar Friday 23:30 precedes its own midnight closing');
+state.after='00:00';
+assert.equal(timedEligible(byId('skybar-wtc-leeuwarden-20261102')),false,
+  'WTC Skybar midnight is closing, not an arrival');
+assert.equal(byId('skybar-wtc-leeuwarden-20261102').geocode_blocked,true,
+  'conflicting 32/52 WTC hotel address must not be auto-geocoded');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
