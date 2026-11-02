@@ -153,3 +153,18 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
 assert.equal(db.places.filter(p => p.city === 'Gorredijk' &&
   /companon|compagnon/i.test(p.name)).length, 0, 'Old De Compagnon is not a second active café');
 console.log('Friesland WAP official week schedule and De Peer predecessor/uncertain hours verified.');
+
+
+// Ticketed 2026 music events at Spaltenbrêge do not establish regular opening hours.
+const spalten = db.places.find(p => p.id === 'cafe-spaltenbrege-terwispel-20261102');
+assert.ok(spalten, 'Spaltenbrêge stable venue ID');
+assert.equal(spalten.address, 'De Streek 79');
+assert.equal(spalten.city, 'Terwispel');
+assert.equal(spalten.selection, 'Voorlopig');
+assert.equal(spalten.website, '', 'No unverified official site assigned');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(spalten.opening[day], '?', 'Event start 15:00 is not weekly opening '+day);
+  assert.equal(spalten.closing[day], '?', 'Event end 21:00 is not weekly closing '+day);
+}
+assert.ok(spalten.other_sources.includes('https://www.oudega-swf.nl/agenda/2026/2/15/goldies-50-cafe-123403'));
+console.log('Spaltenbrêge 2026 event hours are not reused as ordinary café hours.');
