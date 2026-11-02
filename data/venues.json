@@ -11311,8 +11311,8 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Eigen website nodigt bezoekers expliciet uit zonder reservering aan de bar of op het terras plaats te nemen; publieke alcoholinloop rechtstreeks bevestigd op 02-11-2026. Geen live beschikbaarheid of laatste toegang gegarandeerd.",
+      "alcohol": "Eigen actuele drankenkaart noemt bier, whisky en cocktails; de officiële site noemt daarnaast wijn, Weduwe Joustra en bierproeverijen (02-11-2026).",
       "selection": "Voorlopig",
       "closing": {
         "ma": "19:00",
@@ -11325,16 +11325,18 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.irishpubsneek.nl/",
-      "closing_notes": "Maandag sluit de officiële site om 19:00; andere gidsen vermelden afwijkende tijden. Laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: eigen https://www.irishpubsneek.nl/nieuws bevestigt ma 12–19, di 09:30–01, wo/do 12–01, vr 10–01:30, za 11–01:30, zo 12–01; eigen https://www.irishpubsneek.nl/meer-info/drankenkaart bevestigt bier, whisky, cocktails en publieke barinloop. Afwijkende gidsuren niet overgenomen. Laatste toegang onbekend; gepubliceerde uren zijn geen live beschikbaarheidsgarantie.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.irishpubsneek.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/sneek",
-        "https://www.irishpubsneek.nl/"
+        "https://www.irishpubsneek.nl/",
+        "https://www.irishpubsneek.nl/nieuws",
+        "https://www.irishpubsneek.nl/meer-info/drankenkaart"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
-      "website_checked_on": "2026-10-29",
+      "original_status": "02-11-2026: actuele officiële pubwebsite bevestigt openbare inloop, drankassortiment, adres en volledig weekrooster; fysieke openstelling niet ter plekke gecontroleerd.",
+      "checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
       "website_provenance": "Directe site gekoppeld op basis van officiële locatievermelding / adres",
       "opening": {
         "ma": "12:00",
@@ -11346,13 +11348,14 @@
         "zo": "12:00"
       },
       "opening_source": "https://www.irishpubsneek.nl/",
-      "opening_checked_on": "2026-10-29",
+      "opening_checked_on": "2026-11-02",
       "geo": {
         "lat": 53.032522,
         "lon": 5.6597583,
         "method": "PDOK BAG-adres",
         "matched_address": "Marktstraat 25, 8601CS Sneek"
-      }
+      },
+      "closing_checked_on": "2026-11-02"
     },
     {
       "id": "club-1841-sneek-dab7a53",
