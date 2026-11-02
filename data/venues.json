@@ -35649,7 +35649,7 @@
       },
       "closing_quality": "Eigen officiële website; weekrooster en expliciete feestdagensluitingen 02-11-2026 gecontroleerd",
       "closing_source": "https://deskevetoren.nl/contact/",
-      "closing_notes": "Eigen https://deskevetoren.nl/contact/ en https://deskevetoren.nl/ geven ma/di gesloten, wo 11–22, do/vr/za 11–23, zo 11–22. Regiogids Friesland.nl toont ander rooster (di open); officiële exploitant voorrang. Op 28/29 december 2026 kondigt exploitant uitzonderlijke opening aan, maar zonder uren; geen vaste uren voor deze speciale dagen afgeleid. Gesloten op 25/26 december 2026, 31 december 2026 en 1 januari 2027, apart als date_closures opgeslagen. Op feest-/evenementdagen mogelijk afwijkende kaart; laatste toegang onbekend.",
+      "closing_notes": "Eigen https://deskevetoren.nl/contact/ en https://deskevetoren.nl/ geven ma/di gesloten, wo 11–22, do/vr/za 11–23, zo 11–22. Regiogids Friesland.nl toont ander rooster (di open); officiële exploitant voorrang. Op 28/29 december 2026 kondigt exploitant uitzonderlijke opening aan, maar zonder uren; geen vaste uren voor deze speciale dagen afgeleid. Gesloten op 25/26 december 2026, 31 december 2026 en 1 januari 2027, apart als date_closures opgeslagen. Op feest-/evenementdagen mogelijk afwijkende kaart; laatste toegang onbekend. | Datumuitzondering 28–29 december 2026 als date_schedules met onbekende uren gecodeerd: aangekondigd open, geen tijden gegokt.",
       "features": "Friesland; Leeuwarden; cocktails en borrel",
       "website": "https://deskevetoren.nl/",
       "other_sources": [
@@ -35689,7 +35689,34 @@
       ],
       "original_status": "Eigen restaurantwebsite en contactpagina met expliciet weekrooster en feestdagensluitingen; publieke borrel en wijn/cocktails bevestigd.",
       "website_checked_on": "2026-11-02",
-      "checked_on": "2026-11-02"
+      "checked_on": "2026-11-02",
+      "date_schedules": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "source": "https://deskevetoren.nl/contact/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "?",
+            "di": "?",
+            "wo": "?",
+            "do": "?",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          },
+          "closing": {
+            "ma": "?",
+            "di": "?",
+            "wo": "?",
+            "do": "?",
+            "vr": "?",
+            "za": "?",
+            "zo": "?"
+          },
+          "notes": "Exploitant kondigt expliciet opening op ma 28 en di 29 december 2026 aan, maar zonder begin-/einduren; date-specific override voorkomt onjuiste gewone ma/di-geslotenweergave."
+        }
+      ]
     }
   ],
   "admission_policies": [
