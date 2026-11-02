@@ -37472,7 +37472,13 @@
         "https://straten.openalfa.nl/straten/jongemastraat-bolsward-sudwest-fryslan"
       ],
       "original_status": "Bestaande horecanaam/adres en wijn-/borrelfunctie uit eigen LinkedIn-profiel; recente review uit juni 2026 als zwak exploitatie-indicium, geen actuele novemberopening bewezen.",
-      "checked_on": "2026-11-02"
+      "checked_on": "2026-11-02",
+      "geo": {
+        "lat": 53.0618703,
+        "lon": 5.523531,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jongemastraat 19, 8701JA Bolsward"
+      }
     },
     {
       "id": "loodscafe-vlieland-20261102",
@@ -37518,7 +37524,13 @@
         "https://www.loodscafe.nl/"
       ],
       "original_status": "2026-heropening van het hotel bevestigd; Loods Café wordt nog door het hotel genoemd, maar feitelijke publieke barfunctie na overgang niet onafhankelijk geverifieerd.",
-      "features": "Vlieland D0; hotelcafé en mogelijk openbare kroeg; niet verwarren met The Island Pub op Dorpsstraat 12"
+      "features": "Vlieland D0; hotelcafé en mogelijk openbare kroeg; niet verwarren met The Island Pub op Dorpsstraat 12",
+      "geo": {
+        "lat": 53.2962982,
+        "lon": 5.0730722,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Dorpsstraat 3, 8899AA Vlieland"
+      }
     }
   ],
   "admission_policies": [

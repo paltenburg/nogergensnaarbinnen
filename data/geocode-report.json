@@ -1,8 +1,8 @@
 {
-  "total": 676,
-  "with_coordinates": 616,
-  "without_coordinates": 60,
-  "added_in_this_run": 100,
+  "total": 748,
+  "with_coordinates": 686,
+  "without_coordinates": 62,
+  "added_in_this_run": 2,
   "unmatched": [
     {
       "name": "Bar Bet",
@@ -15,6 +15,12 @@
       "address": "Oudegracht 101-103",
       "city": "Utrecht",
       "reason": "no-number-or-unparseable-address"
+    },
+    {
+      "name": "Bar Pleur",
+      "address": "Kanaalweg 30",
+      "city": "Utrecht",
+      "reason": "address-unverified"
     },
     {
       "name": "Bierlokaal de Luifel",
@@ -35,30 +41,6 @@
       "reason": "no-number-or-unparseable-address"
     },
     {
-      "name": "Café Heen en Weer",
-      "address": "Donkere Gaard 13",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Café Stockholm",
-      "address": "Bemuurde Weerd Oostzijde 40",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Eetcafé De Vingerhoed",
-      "address": "Donkere Gaard 11",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "EKKO",
-      "address": "Bemuurde Weerd Westzijde 3",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
       "name": "Het Oude Tolhuys",
       "address": "Weg naar Rhijnauwen 13-15",
       "city": "Utrecht",
@@ -69,12 +51,6 @@
       "address": "Gietijzerstraat 3-5",
       "city": "Utrecht",
       "reason": "no-number-or-unparseable-address"
-    },
-    {
-      "name": "Kleine Max",
-      "address": "J.P. Coenstraat 69",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
     },
     {
       "name": "Le French Café",
@@ -89,44 +65,14 @@
       "reason": "no-number-or-unparseable-address"
     },
     {
-      "name": "Nomono",
-      "address": "Bemuurde Weerd Oostzijde 13",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
       "name": "Olivier",
       "address": "Achter Clarenburg 6a",
       "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Orloff",
-      "address": "Donkere Gaard 8",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
       "name": "Rum Club",
       "address": "Oudegracht aan de Werf 111",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Talud9",
-      "address": "Donkere Gaard 9",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Teds Utrecht Oudegracht",
-      "address": "Lichte Gaard 8",
-      "city": "Utrecht",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Tijm",
-      "address": "Donkere Gaard 3",
       "city": "Utrecht",
       "reason": "no-exact-PDOK-match"
     },
@@ -158,7 +104,7 @@
       "name": "Grand Café Levels",
       "address": "Grote Bredeplaats 24",
       "city": "Harlingen",
-      "reason": "no-exact-PDOK-match"
+      "reason": "address-unverified"
     },
     {
       "name": "Bar Dancing De Ponderosa",
@@ -215,12 +161,6 @@
       "reason": "no-exact-PDOK-match"
     },
     {
-      "name": "Eetcafé Bar Hulst",
-      "address": "Vaart Zuidzijde 9",
-      "city": "Appelscha",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
       "name": "Hotel Eetcafé Duhoux",
       "address": "Greate Buorren 4-8",
       "city": "Wirdum",
@@ -242,12 +182,6 @@
       "name": "Café Cafetaria Us Thús",
       "address": "Van Sytzemaweg 6",
       "city": "Driezum",
-      "reason": "no-exact-PDOK-match"
-    },
-    {
-      "name": "Café Veldzicht",
-      "address": "Roptawei 14",
-      "city": "Metslawier",
       "reason": "no-exact-PDOK-match"
     },
     {
@@ -350,6 +284,84 @@
       "name": "ZandZeeBar",
       "address": "Badweg Formerum 6",
       "city": "Formerum aan Zee",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Café Restaurant Beaufort",
+      "address": "De Holle Poarte 2",
+      "city": "Makkum",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "De Tuinkamer (Rinsma Modeplein)",
+      "address": "Lijnbaan 10",
+      "city": "Gorredijk",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Bodega y Tapas Sneek",
+      "address": "Wijde Noorderhorne 2",
+      "city": "Sneek",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Noflik by Zwigt & Bosma",
+      "address": "Buorren 31",
+      "city": "Langweer",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Bij Fier",
+      "address": "1e Oosterkade 24",
+      "city": "Sneek",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Eetcafé 't Slûske (Jachthaven Sneekerhof)",
+      "address": "Wjiteringswei 23",
+      "city": "Jirnsum",
+      "reason": "no-exact-PDOK-match"
+    },
+    {
+      "name": "Café De Peer",
+      "address": "Hoofdstraat 70",
+      "city": "Gorredijk",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Sahara Food & Vibes",
+      "address": "Zuidkade 73",
+      "city": "Drachten",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Skybar WTC Leeuwarden (élevé)",
+      "address": "Heliconweg 32",
+      "city": "Leeuwarden",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Grand Café Wrâld",
+      "address": "Moleneind Noordzijde 4A",
+      "city": "Drachten",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Het Paviljoen Dokkum (Schreiershoek)",
+      "address": "Tichelwei 32E",
+      "city": "Oostrum (bij Dokkum)",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Bar Bascule",
+      "address": "Ruiterskwartier 93",
+      "city": "Leeuwarden",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Bar/Café Cambuur",
+      "address": "Insulindestraat 44",
+      "city": "Leeuwarden",
       "reason": "address-unverified"
     }
   ]
