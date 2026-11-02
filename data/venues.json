@@ -35949,7 +35949,16 @@
         "https://www.allebiz.nl/caf%C3%A9-t-wap-06-22062552"
       ],
       "original_status": "Primaire caféwebsite publiceert openbare borrel, alcohol en volledige weekuren; exacte BAG-marker en laatste toegang nog niet geverifieerd.",
-      "features": "D0 Leeuwarden / Camminghaburen; buurthoreca; maandag 22:00, overige late avonden tot 01:00"
+      "features": "D0 Leeuwarden / Camminghaburen; buurthoreca; maandag 22:00, overige late avonden tot 01:00",
+      "geo": {
+        "lat": 53.1853764,
+        "lon": 5.7892062,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Willem-Alexanderplein 34, 8931DX Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch uit daadwerkelijk uitgevoerde GitHub Actions 41378838999, Pages-artefact 13112233493, data/geocode-report.json added_in_this_run=1. Willem-Alexanderplein 34, 8931DX Leeuwarden, 53.1853764/5.7892062. Publieke deur niet afzonderlijk fysiek geverifieerd."
     },
     {
       "id": "cafe-de-peer-gorredijk-20261102",
