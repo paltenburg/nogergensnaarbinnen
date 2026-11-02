@@ -43,3 +43,24 @@ for (const [date, day] of [['2026-12-28', 'ma'], ['2026-12-29', 'di']]) {
 assert.equal(field(skeve, 'closing', 'wo', '2026-12-30'), '22:00',
   'Ordinary Wednesday closing remains outside the holiday exception');
 console.log('Four official Skeve Toren holiday closures and two unknown-hour openings verified.');
+
+
+// WestCord hotel has separate public bars sharing a BAG complex address.
+const praethuys = db.places.find(p => p.id === 'eetcafe-t-praethuys-vlieland-20261030');
+const zeevaert = db.places.find(p => p.id === 'zeevaert-bar-rotisserie-vlieland-a8283d7');
+assert.ok(praethuys && zeevaert && praethuys.id !== zeevaert.id);
+assert.equal(praethuys.address, zeevaert.address, 'Two concepts share WestCord hotel address');
+for (const [date, day, expected] of [
+  ['2026-10-01', 'do', '21:00'], ['2026-11-06', 'vr', '22:00'],
+  ['2027-01-03', 'zo', '21:00'], ['2027-04-30', 'vr', '22:00']
+]) {
+  assert.equal(field(praethuys, 'closing', day, date), expected,
+    'Official 2026-27 low-season closing for ' + date);
+  assert.equal(field(praethuys, 'opening', day, date), '10:00');
+}
+assert.equal(field(praethuys, 'closing', 'wo', '2026-09-30'), '?');
+assert.equal(field(praethuys, 'closing', 'za', '2027-05-01'), '?',
+  'Expired winter schedule must not imply summer 2027 closing');
+assert.equal(field(praethuys, 'last_entry', 'vr', '2026-11-06'), '?',
+  'Seasonal bar hours do not prove last entry');
+console.log('WestCord Vlieland distinct venues and winter date boundaries verified.');
