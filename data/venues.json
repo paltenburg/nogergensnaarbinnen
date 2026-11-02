@@ -36745,7 +36745,15 @@
         "https://www.socialdeal.nl/entreprise/friesland/cafe-de-bak/",
         "https://www.proefverlof.frl/blokhuispoort/cafe-de-bak"
       ],
-      "original_status": "Huidige bedrijfseigen dagopenstelling en alcoholkaart bevestigd; geen reguliere avondopenstelling of laatste toegang bekend."
+      "original_status": "Huidige bedrijfseigen dagopenstelling en alcoholkaart bevestigd; geen reguliere avondopenstelling of laatste toegang bekend.",
+      "geo": {
+        "lat": 53.1998293,
+        "lon": 5.8001749,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Blokhuisplein 40, 8911LJ Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "het-paviljoen-dokkum-oostrum-20261102",
@@ -36850,7 +36858,15 @@
         "https://www.allebiz.nl/caf%C3%A9-de-knyp-0513-688-229",
         "https://restaurantguru.com/Cafe-de-Knyp-De-Knipe-2"
       ],
-      "original_status": "Publieke caféfunctie en exploitatieactiviteiten in 2026 onderbouwd, actuele reguliere openingsuren en rechtstreeks actueel alcoholassortiment niet volledig geverifieerd. Voorlopig; geen live bezoek bevestigd."
+      "original_status": "Publieke caféfunctie en exploitatieactiviteiten in 2026 onderbouwd, actuele reguliere openingsuren en rechtstreeks actueel alcoholassortiment niet volledig geverifieerd. Voorlopig; geen live bezoek bevestigd.",
+      "geo": {
+        "lat": 52.9690008,
+        "lon": 5.9684622,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Meyerweg 117, 8456GC De Knipe"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "musykfabryk-heerenveen-20261102",
@@ -36900,7 +36916,15 @@
       "checked_on": "2026-11-02",
       "original_status": "Exploitant toont feitelijke evenementen in 2026, geen vaste openbare weekopening of toekomstige concrete datum bevestigd. Alleen evenementafhankelijk, daarom verborgen zonder geverifieerde date_schedules.",
       "requires_date_schedule": true,
-      "date_schedule_notes": "02-11-2026: historische evenementen zijn geen toekomstige opening; geen geldige toekomstige datum bevestigd. Nieuwe datum pas tonen als eigen actuele agenda concrete publieke avond met tijden/toegang bewijst."
+      "date_schedule_notes": "02-11-2026: historische evenementen zijn geen toekomstige opening; geen geldige toekomstige datum bevestigd. Nieuwe datum pas tonen als eigen actuele agenda concrete publieke avond met tijden/toegang bewijst.",
+      "geo": {
+        "lat": 52.9324877,
+        "lon": 5.9537124,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Industrieweg 18A, 8444AS Heerenveen"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "the-point-buitenpost-20261102",
@@ -36950,7 +36974,15 @@
         "https://www.eencafe.nl/buitenpost/the-point-caf%C3%A9"
       ],
       "original_status": "Publieke evenementen in 2026 bevestigd, maar vrije reguliere caféopening en actuele primaire alcohol-/weekgegevens niet bevestigd. Verborgen kandidaat.",
-      "requires_date_schedule": true
+      "requires_date_schedule": true,
+      "geo": {
+        "lat": 53.2542576,
+        "lon": 6.1462402,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Voorstraat 54, 9285NT Buitenpost"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "bar-bascule-leeuwarden-20261102",
@@ -37047,7 +37079,15 @@
         "https://restaurantguru.com/Feestcafe-Shooters-Leeuwarden",
         "https://www.shootersleeuwarden.nl/"
       ],
-      "original_status": "Actuele 2026 bedrijfsregistratie en VVV-publieksvermelding ondersteunen feestbar; actuele primaire weekuren en concrete alcoholkaart onbevestigd. Voorlopig."
+      "original_status": "Actuele 2026 bedrijfsregistratie en VVV-publieksvermelding ondersteunen feestbar; actuele primaire weekuren en concrete alcoholkaart onbevestigd. Voorlopig.",
+      "geo": {
+        "lat": 53.2001875,
+        "lon": 5.7918555,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ruiterskwartier 95, 8911BR Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "double-b-bar-kitchen-leeuwarden-20261102",
@@ -37094,7 +37134,15 @@
         "https://www.doublebleeuwarden.nl/",
         "https://www.doublebleeuwarden.nl/contact"
       ],
-      "original_status": "Actuele primaire exploitantwebsite met bier/cocktails, publieke borrel en zeven begin- en einduren. Voorlopig totdat laatste toegang en eventuele uitzonderingen zijn onderzocht."
+      "original_status": "Actuele primaire exploitantwebsite met bier/cocktails, publieke borrel en zeven begin- en einduren. Voorlopig totdat laatste toegang en eventuele uitzonderingen zijn onderzocht.",
+      "geo": {
+        "lat": 53.2014581,
+        "lon": 5.7950773,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Weerd 18, 8911HM Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "bistro-t-ruiterskwartiertje-leeuwarden-20261102",
@@ -37141,7 +37189,15 @@
         "https://bistrohetruiterskwartiertje.nl/",
         "https://bistrohetruiterskwartiertje.nl/wp-content/uploads/2025/09/Menukaart.pdf"
       ],
-      "original_status": "Exploitantwebsite en gelinkte alcoholkaart gecontroleerd. Losse drankinloop/laatste toegang nog niet expliciet bevestigd; voorlopig."
+      "original_status": "Exploitantwebsite en gelinkte alcoholkaart gecontroleerd. Losse drankinloop/laatste toegang nog niet expliciet bevestigd; voorlopig.",
+      "geo": {
+        "lat": 53.1999616,
+        "lon": 5.794894,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ruiterskwartier 147, 8911BS Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "bar-cafe-claus-leeuwarden-20261102",
@@ -37185,7 +37241,15 @@
         "https://www.cylex.nl/bedrijf/bar---caf%C3%A9-claus---leeuwarden-10767158.html",
         "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/barcafe-claus"
       ],
-      "original_status": "Recente handelsregistratie en gidsvermeldingen, maar geen primaire exploitatie-/roosterbevestiging. Verborgen kandidaat."
+      "original_status": "Recente handelsregistratie en gidsvermeldingen, maar geen primaire exploitatie-/roosterbevestiging. Verborgen kandidaat.",
+      "geo": {
+        "lat": 53.2036511,
+        "lon": 5.8221329,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Gaspeldoornstraat 1, 8924AS Leeuwarden"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "bar-cafe-cambuur-leeuwarden-20261102",
