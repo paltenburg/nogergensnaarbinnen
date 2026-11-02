@@ -36132,7 +36132,16 @@
         "https://www.aw-horecamakelaars.nl/aanbod/succesvol-tapasrestaurant-in-hartje-heerenveen/"
       ],
       "checked_on": "2026-11-02",
-      "original_status": "Exploitatie en alcoholcocktails in oktober 2026 aangetoond; exacte sluituren en uitsluitend drankinloop niet onafhankelijk bewezen."
+      "original_status": "Exploitatie en alcoholcocktails in oktober 2026 aangetoond; exacte sluituren en uitsluitend drankinloop niet onafhankelijk bewezen.",
+      "geo": {
+        "lat": 52.9604106,
+        "lon": 5.9221086,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vleesmarkt 9, 8441EW Heerenveen"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393745727",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit daadwerkelijk uitgevoerd Pages-artefact (run 41393745727; geocode-report added_in_this_run=4). Huisnummer en suffix handmatig vergeleken met master; geen interpolatie."
     },
     {
       "id": "het-bourgondische-gevoel-drachten-20261102",
@@ -36186,7 +36195,16 @@
         "https://hetbourgondischegevoel.nl/menu/"
       ],
       "checked_on": "2026-11-02",
-      "original_status": "Actuele eigen website bevestigt publieke borrel, alcohol en di–za-rooster. Zondag/feestdagen niet als vaste opening behandeld."
+      "original_status": "Actuele eigen website bevestigt publieke borrel, alcohol en di–za-rooster. Zondag/feestdagen niet als vaste opening behandeld.",
+      "geo": {
+        "lat": 53.1054903,
+        "lon": 6.098478,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Zuiderbuurt 37, 9203CT Drachten"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393745727",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit daadwerkelijk uitgevoerd Pages-artefact (run 41393745727; geocode-report added_in_this_run=4). Huisnummer en suffix handmatig vergeleken met master; geen interpolatie."
     },
     {
       "id": "grootcafe-mn-zusje-drachten-20261102",
@@ -36235,7 +36253,16 @@
         "https://uitdrachten.com/uiteten/restaurant/restaurant-grand-cafe-mn-zusje-lunch-diner-lu8lm/"
       ],
       "checked_on": "2026-11-02",
-      "original_status": "Publieke borrel en alcohol op eigen actuele site; exacte weekuren ontbreken, niet ingevuld op basis van oude gidsen."
+      "original_status": "Publieke borrel en alcohol op eigen actuele site; exacte weekuren ontbreken, niet ingevuld op basis van oude gidsen.",
+      "geo": {
+        "lat": 53.1074076,
+        "lon": 6.099642,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oosterstraat 20a, 9203BB Drachten"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393745727",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit daadwerkelijk uitgevoerd Pages-artefact (run 41393745727; geocode-report added_in_this_run=4). Huisnummer en suffix handmatig vergeleken met master; geen interpolatie."
     },
     {
       "id": "sahara-food-vibes-drachten-20261102",
@@ -36429,7 +36456,15 @@
         "https://www.loetje.nl/loetjes-verhalen/welk-drankje-past-perfect-bij-jouw-favoriete-biefstuk/"
       ],
       "original_status": "Actuele eigen vestigingspagina bevestigt publieke borrel, alcohol, adres en weekrooster; niet fysiek gecontroleerd.",
-      "geo": null
+      "geo": {
+        "lat": 53.1971468,
+        "lon": 5.7932988,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Stationsweg 2, 8911AG Leeuwarden"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393745727",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit daadwerkelijk uitgevoerd Pages-artefact (run 41393745727; geocode-report added_in_this_run=4). Huisnummer en suffix handmatig vergeleken met master; geen interpolatie."
     },
     {
       "id": "skybar-wtc-leeuwarden-20261102",
