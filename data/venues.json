@@ -37652,6 +37652,98 @@
       "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren",
       "geocode_blocked": true,
       "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen. Aanvullend: KvK-afgeleide bedrijfsregistratie (12-02-2026) https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091 bevestigt Groenmarkt 14 als feitelijk bedrijfsadres; het adres is dus niet op basis van de BAG-tegenspraak als fout aangemerkt. Geocode blijft geblokkeerd tot exacte ingang/BAG-relatie bevestigd."
+    },
+    {
+      "id": "bistro-brulee-sneek-20261102",
+      "name": "Bistro BRÛLÉE",
+      "type": "Kleinschalige Franse bistro / wijn bij diner",
+      "address": "Muntstraat 2",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft kleinschalige bistro met tien tafels en dineren; zonder maaltijd uitsluitend een drankje komen drinken niet expliciet bevestigd.",
+      "alcohol": "Eigenaar noemt wijn als onderdeel van bistroconcept in bericht uit zomer 2026; geen afzonderlijke actuele drankkaart of vrije barinloop vastgesteld.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "17:30",
+        "do": "17:30",
+        "vr": "17:30",
+        "za": "17:30",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Officiële seizoenspagina: oktober–mei wo–za vanaf 17:30; ma/di/zo niet vermeld, dus niet als zeker gesloten ingevoerd.",
+      "opening_source": "https://bistrobrulee.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_quality": "Eigen website geeft geen einduren of laatste toegang; gids vermeldt 23:00 maar is niet de primaire bron.",
+      "closing_source": "",
+      "closing_notes": "02-11-2026: https://bistrobrulee.nl/ vermeldt voor oktober–mei wo/ do/ vr/ za vanaf 17:30 en Muntstraat 2; voor juni–september ook zondag, maar seizoensuren niet als jaarrond overgenomen. Eigenaar https://nl.linkedin.com/posts/jeska-van-der-wal-235b37313_tijd-voor-een-nieuw-hoofdstuk-met-trots-activity-7465326714013904897-od9w beschrijft bistro met wijn. Gids https://bestrestos.nl/restaurant/bistro-brulee-sneek-sneek-3504 noemt wo–zo tot 23:00, in conflict met winterpatroon op eigen site. Geen vrije alcoholinloop zonder diner bewezen; verborgen tot bevestiging. Geen marker zonder BAG-match.",
+      "website": "https://bistrobrulee.nl/",
+      "website_checked_on": "2026-11-02",
+      "other_sources": [
+        "https://nl.linkedin.com/posts/jeska-van-der-wal-235b37313_tijd-voor-een-nieuw-hoofdstuk-met-trots-activity-7465326714013904897-od9w",
+        "https://bestrestos.nl/restaurant/bistro-brulee-sneek-sneek-3504"
+      ],
+      "original_status": "Actuele bistrosite en seizoensbegintijden geverifieerd; losse borrelinloop en sluituren onbekend; niet standaard tonen.",
+      "checked_on": "2026-11-02",
+      "features": "D0 Sneek; seizoensopening; geen zelfstandig bevestigde barinloop"
+    },
+    {
+      "id": "le-provence-sneek-20261102",
+      "name": "Le Provence",
+      "type": "Lunchcafé / croissanterie met drankenkaart",
+      "address": "Schaapmarktplein 1",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website toont publieke lunchcaféfunctie en aparte drankenkaart; afzonderlijke alcoholinloop zonder maaltijd niet expliciet bevestigd.",
+      "alcohol": "Eigen gelinkte drankenkaart met bestandsdatum april 2022 noemt bier, wijn, cocktails en gedistilleerd; actuele beschikbaarheid in november 2026 niet afzonderlijk bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_quality": "Eigen actuele homepage vermeldt ma–zo 10:00–18:00; gidsen geven afwijkende begin- en einduren.",
+      "opening_source": "https://www.leprovence.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_quality": "Eigen homepage noemt dagelijks 18:00; dit zijn exploitant-gepubliceerde algemene openingstijden, geen geverifieerde laatste toegang.",
+      "closing_source": "https://www.leprovence.nl/",
+      "closing_checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: officiële https://www.leprovence.nl/ noemt Schaapmarktplein 1 en dagelijks 10–18; via eigen site gelinkte https://static1.squarespace.com/static/5b72b3c12714e53097c6ebc4/t/62a62fb72ca5697f2d55a3d7/1655058360278/Drankenkaart%2BLe%2BProvence%2BApril%2B2022.pdf vermeldt cocktails, wijn en sterke drank maar dateert van 2022. Gids https://bestrestos.nl/restaurant/le-provence-sneek-3504 (update 20-10-2026) noemt andere tijden, daarom exploitantwebsite aangehouden. Actueel alcoholassortiment, vrije borrelinloop en laatste toegang nog niet bevestigd; verborgen. Geen marker verzonnen.",
+      "website": "https://www.leprovence.nl/",
+      "website_checked_on": "2026-11-02",
+      "other_sources": [
+        "https://static1.squarespace.com/static/5b72b3c12714e53097c6ebc4/t/62a62fb72ca5697f2d55a3d7/1655058360278/Drankenkaart%2BLe%2BProvence%2BApril%2B2022.pdf",
+        "https://bestrestos.nl/restaurant/le-provence-sneek-3504",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/sneek-binnen-de-grachten/3960386/le-provence-exploitatie-b-v"
+      ],
+      "original_status": "Publieke lunchcafé-uren en historische alcoholkaart op eigen site, maar actuele losse borrel niet bevestigd; voorlopig verborgen.",
+      "checked_on": "2026-11-02",
+      "features": "D0 Sneek; overdag; alcoholkaart gedateerd 2022"
     }
   ],
   "admission_policies": [
