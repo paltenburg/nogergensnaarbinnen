@@ -205,3 +205,15 @@ assert.equal(db.places.filter(p => p.region === 'friesland' &&
   ['Vleesmarkt 9','Zuiderbuurt 37','Oosterstraat 20A'].includes(p.address)).length, 3,
   'Each address is a separate venue without a duplicate');
 console.log('Gusto, Bourgondische Gevoel and M\'n Zusje: evidence limits and holidays verified.');
+
+const sahara = db.places.find(p => p.id === 'sahara-food-vibes-drachten-20261102');
+assert.ok(sahara, 'Sahara Drachten candidate is tracked');
+assert.equal(sahara.selection, 'Nog te controleren', 'Sale listing does not prove live bar operation');
+assert.equal(sahara.geocode_blocked, true, 'Conflicting business addresses block automatic marker');
+assert.ok(!sahara.geo);
+assert.equal(sahara.website, '', 'Metalworking shop is not the bar website');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(sahara.opening[day], '?', 'Broker listing is not a weekly opening schedule '+day);
+  assert.equal(sahara.closing[day], '?', 'Nightlife licence is not a closing hour '+day);
+}
+console.log('Sahara Drachten kept hidden pending actual public-opening verification.');
