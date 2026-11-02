@@ -29826,15 +29826,16 @@
       "closing_source": "",
       "opening_checked_on": "2026-10-31",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "closing_quality": "Exacte sluituren en laatste toegang niet primair bevestigd; onbekend gehouden.",
-      "closing_notes": "31-10-2026: Officiële contactpagina: dagelijks vanaf 09:00; geen sluituren of laatste toegang. Pubquiz- en feesttijden niet als regulier rooster aangenomen.",
+      "closing_notes": "02-11-2026: VVV Waterland van Friesland kondigt Club Tropicana aan voor vrijdag 06-11-2026, 20:00–01:00, tickets online €5/deur €7,50, minimumleeftijd 21. VVV koppelt evenement aan Grandcafé Markt23, maar noemt Marktstraat 21 als evenementadres versus het officiële vestigingsadres Marktstraat 23: exacte ingang/zaal verifiëren. Deze eenmalige evenementtijd is GEEN reguliere sluiting of gegarandeerde laatste toegang. Reguliere sluituren blijven onbekend.",
       "features": "Grandcafé met borrel, bier, wijn en cocktails; restaurantfunctie.",
       "website": "https://markt23.nl/",
       "other_sources": [
         "https://markt23.nl/menukaart/",
         "https://markt23.nl/restaurant/",
-        "https://markt23.nl/vacatures/open-sollicitatie/"
+        "https://markt23.nl/vacatures/open-sollicitatie/",
+        "https://www.waterlandvanfriesland.nl/nl/uitagenda/2014548614/club-tropicana"
       ],
       "original_status": "31-10-2026: exploitant bevestigt actieve vestiging, adres, bar/borrel, alcoholaanbod en dagelijkse begintijd; geen sluiting/laatste toegang geverifieerd.",
       "geo": {
@@ -29877,15 +29878,17 @@
       "closing_source": "",
       "opening_checked_on": "2026-10-31",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "closing_quality": "Exacte sluituren en laatste toegang niet primair bevestigd; onbekend gehouden.",
-      "closing_notes": "31-10-2026: Officiële contactpagina: dagelijks vanaf 11:30. Secundaire gidsen verschillen sterk in sluituren; niet overgenomen. Pubquiz- en feesttijden niet als regulier rooster aangenomen.",
+      "closing_notes": "02-11-2026: exploitant publiceert afzonderlijke pubquiz op 12-11-2026 en 10-12-2026, inloop vanaf 19:30, start 20:00; muziekbingo 26-11-2026 vanaf 20:00. Dit zijn evenementstarts, geen reguliere caféopening, sluiting of laatste toegang. Eigen contactpagina noemt dagelijks vanaf 11:30, maar geen regulier sluituur.",
       "features": "Grandcafé met borrel, bier, wijn en cocktails; restaurantfunctie.",
       "website": "https://markt23.nl/grandcafe-restaurant-drachten/",
       "other_sources": [
         "https://markt23.nl/menukaart/",
         "https://markt23.nl/restaurant/",
-        "https://markt23.nl/vacatures/open-sollicitatie/"
+        "https://markt23.nl/vacatures/open-sollicitatie/",
+        "https://markt23.nl/pubquiz/",
+        "https://markt23.nl/muziekbingo/"
       ],
       "original_status": "31-10-2026: exploitant bevestigt actieve vestiging, adres, bar/borrel, alcoholaanbod en dagelijkse begintijd; geen sluiting/laatste toegang geverifieerd.",
       "geo": {
@@ -31362,8 +31365,8 @@
       "city": "Ballum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen site toont openbaar strandrestaurant, bar en borrelplank; geen maaltijdplicht vermeld.",
-      "alcohol": "Eigen site toont cocktails in sfeerbeelden, maar een leesbare actuele bier-/wijn-/alcoholkaart is nog niet gevonden; alcoholconsumptie afzonderlijk te bevestigen.",
+      "access": "Eigen site beschrijft publiek strandrestaurant met borrelplank en bar; eigen gastenrecensies uit september 2026 noemen borrelen, maar zelfstandige inloop uitsluitend voor drank en eventuele seizoenssluiting in november zijn niet rechtstreeks bevestigd.",
+      "alcohol": "De exploitant toont cocktails op eigen site/galerij; op de eigen recensiespagina melden gasten in juli 2026 expliciet witte wijn en goede wijnen. Dit is bewijs van wijnconsumptie in 2026, maar geen geverifieerde actuele november-drankkaart of vrije drankinloop zonder maaltijd.",
       "selection": "Nog te controleren",
       "opening": {
         "ma": "12:00",
@@ -31388,7 +31391,7 @@
       "opening_checked_on": "2026-11-01",
       "closing_checked_on": "2026-11-01",
       "website_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "opening_quality": "Nieuwe exploitantwebsite 2026: ma–vr 12–20, za/zo 10–20; oude strandpaviljoenballum-site op 53development.nl toont ander rooster en oude merknaam.",
       "closing_quality": "Nieuwe exploitantwebsite noemt dagelijks 20:00; laatste toegang onbekend. Exploitant en huidige seizoensopening nader controleren.",
       "closing_notes": "01-11-2026: https://seayou-ballum.nl/ bevestigt huidige naam en Strandweg 24; reviews van september/oktober 2026 op eigen site ondersteunen hernieuwde exploitatie, maar zijn geen onafhankelijk alcoholbewijs. Oud https://strandpaviljoenballum.53development.nl/ is een verouderde ontwikkelwebsite met andere naam en uren; niet als aparte zaak toevoegen. Wegens ontbrekende expliciete actuele alcoholkaart voorlopig verborgen.",
@@ -31396,7 +31399,8 @@
       "website": "https://seayou-ballum.nl/",
       "other_sources": [
         "https://www.vvvameland.nl/bedrijven/eten-drinken-ameland/restaurants/restaurants-in-ballum/strandpaviljoen-ballum",
-        "https://strandpaviljoenballum.53development.nl/"
+        "https://strandpaviljoenballum.53development.nl/",
+        "https://www.seayou-ballum.nl/recensies/"
       ],
       "original_status": "Eigen 2026-site toont hernieuwde exploitatie/naam, maar alcoholaanbod en actuele seizoenstatus nog afzonderlijk te bevestigen.",
       "geo": {
@@ -31404,7 +31408,9 @@
         "lon": 5.6860688,
         "method": "PDOK BAG-adres",
         "matched_address": "Strandweg 24, 9162EV Ballum"
-      }
+      },
+      "alcohol_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02"
     },
     {
       "id": "restaurant-binnen-nes-20261101",
