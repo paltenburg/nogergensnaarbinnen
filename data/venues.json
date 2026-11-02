@@ -11788,8 +11788,8 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Officiële site vermeldt borrel en aparte borrelkaart; drankaanbod aanwezig.",
+      "access": "Eigen exploitantwebsite https://www.dekajuit.com/ nodigt expliciet uit voor een losse borrel naast lunch en diner; eigen aparte borrelkaart beschikbaar. Reservering voor gewone borrel niet als verplicht vermeld.",
+      "alcohol": "Actuele eigen https://www.dekajuit.com/menukaart/ noemt huiswijn wit/rood/rosé per glas, Aperol Spritz, Paloma, gin-tonic en cocktails met wodka, limoncello en prosecco.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -11800,9 +11800,9 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Officiële pagina 29-10-2026: ma–wo gesloten, do–zo vanaf 11:00. Geen eindtijd of laatste toegang gepubliceerd; 22:00 uit gidsen niet als bevestigd overgenomen.",
+      "closing_quality": "Eigen homepage noemt ma–wo gesloten en do–zo alleen start 11:00, geen einduur. /openingstijden/-pagina is onderling tegenstrijdig. Geen exacte sluiting of laatste toegang geverifieerd.",
       "closing_source": "https://www.dekajuit.com/openingstijden/",
-      "closing_notes": "Op 29-10-2026 melden de actuele eigen hoofdpagina en /openingstijden/ expliciet maandag t/m woensdag gesloten en donderdag t/m zondag vanaf 11:00. De eerdere weergave 'dagelijks vanaf 11:00' is vervangen; seizoensduur niet opgegeven. Exacte sluiting en laatste toegang onbekend. Gidsen noemen 22:00 maar dit is niet door de zaak bevestigd.",
+      "closing_notes": "Op 29-10-2026 melden de actuele eigen hoofdpagina en /openingstijden/ expliciet maandag t/m woensdag gesloten en donderdag t/m zondag vanaf 11:00. De eerdere weergave 'dagelijks vanaf 11:00' is vervangen; seizoensduur niet opgegeven. Exacte sluiting en laatste toegang onbekend. Gidsen noemen 22:00 maar dit is niet door de zaak bevestigd. | 02-11-2026 hercontrole: https://www.dekajuit.com/ noemt nog ma–wo GESLOTEN en do–zo vanaf 11:00, maar https://www.dekajuit.com/openingstijden/ zegt juist 'Dagelijks geopend vanaf 11:00'. Daarom huidige homepage als leidend specifiek rooster behouden en conflict gedocumenteerd; niet claimen dat beide pagina's hetzelfde zeggen. Eigen https://www.dekajuit.com/menukaart/ bevestigt expliciete wijn per glas en alcoholische cocktails. Exacte einduren en laatste toegang blijven onbekend.",
       "features": "Restaurant/café aan de jachthaven; lunch, borrel, diner, terras; privéfeesten",
       "website": "https://www.dekajuit.com/",
       "other_sources": [
@@ -11810,7 +11810,8 @@
         "https://www.dekajuit.com/",
         "https://www.dekajuit.com/openingstijden/",
         "https://www.friesland.nl/nl/locaties/4197231817/cafe-restaurant-de-kajuit",
-        "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit"
+        "https://fietsroutenetwerk.nl/afstappunten/restaurant-de-kajuit",
+        "https://www.dekajuit.com/menukaart/"
       ],
       "original_status": "Eigen site met 2026-copyright bevestigt actuele vestiging en dagelijks beginuur op 29-10-2026; exacte sluiting niet officieel gevonden.",
       "geo": {
@@ -11820,7 +11821,7 @@
         "matched_address": "Jachthaven de Domp 1, 8605CP Sneek"
       },
       "website_provenance": "Eigen officiële site vermeldt naam Restaurant De Kajuit, Jachthaven De Domp 1, Sneek, telefoon en horecaaanbod.",
-      "website_checked_on": "2026-10-29",
+      "website_checked_on": "2026-11-02",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -11830,10 +11831,10 @@
         "za": "11:00",
         "zo": "11:00"
       },
-      "opening_source": "https://www.dekajuit.com/openingstijden/",
-      "opening_checked_on": "2026-10-29",
-      "checked_on": "2026-10-29",
-      "opening_quality": "Officiële website opnieuw direct gecontroleerd op 29-10-2026: zowel hoofdpagina als /openingstijden/ melden ma–wo GESLOTEN en do–zo geopend vanaf 11:00. Eerdere crawls/derdenbronnen met dagelijks 11:00 zijn achterhaald; exacte ingangsdatum van dit rooster onbekend."
+      "opening_source": "https://www.dekajuit.com/",
+      "opening_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Bedrijfseigen actuele homepage 02-11-2026: ma–wo gesloten, do–zo vanaf 11:00. Losse /openingstijden/-pagina toont afwijkend 'Dagelijks geopend vanaf 11:00'; huidig specifiek homepage-rooster aangehouden, conflict blijft gemarkeerd."
     },
     {
       "id": "grand-cafe-de-walrus-sneek-4998266",
