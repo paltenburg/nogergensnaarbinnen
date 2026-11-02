@@ -168,3 +168,40 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
 }
 assert.ok(spalten.other_sources.includes('https://www.oudega-swf.nl/agenda/2026/2/15/goldies-50-cafe-123403'));
 console.log('Spaltenbrêge 2026 event hours are not reused as ordinary café hours.');
+
+
+// D0 Drachten/Heerenveen: verified public borrel, but no invented closing hours.
+const gusto = db.places.find(p => p.id === 'gusto-y-mucho-mas-heerenveen-20261102');
+const bourg = db.places.find(p => p.id === 'het-bourgondische-gevoel-drachten-20261102');
+const zusje = db.places.find(p => p.id === 'grootcafe-mn-zusje-drachten-20261102');
+assert.ok(gusto && bourg && zusje, 'Three distinct operator-backed new venues');
+for (const p of [gusto, bourg, zusje]) {
+  assert.equal(p.selection, 'Voorlopig');
+  assert.equal(p.checked_on, '2026-11-02');
+  assert.ok(p.website.startsWith('https://'));
+  assert.ok(!p.geo, 'No invented coordinates before PDOK');
+}
+for (const day of ['wo','do','vr','za','zo']) {
+  assert.equal(gusto.opening[day], '17:00');
+  assert.equal(gusto.closing[day], '?', 'Conflicting 22:00/01:00 cannot be an exact close');
+}
+for (const day of ['di','wo','do','vr','za']) {
+  assert.equal(bourg.opening[day], '09:30');
+  assert.equal(bourg.closing[day], '18:00');
+}
+assert.equal(bourg.opening.zo, '?', 'Koopzondag is not every Sunday');
+assert.equal(bourg.closing.zo, '?');
+for (const date of ['2026-12-31','2027-01-01']) {
+  assert.equal(isClosed(bourg, date), true, 'Operator holiday closure '+date);
+}
+for (const date of ['2026-12-30','2027-01-02']) {
+  assert.equal(isClosed(bourg, date), false, 'No extrapolated holiday closure '+date);
+}
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(zusje.opening[day], '?', 'Old Wix and third-party hours conflict '+day);
+  assert.equal(zusje.closing[day], '?', 'No current official end time '+day);
+}
+assert.equal(db.places.filter(p => p.region === 'friesland' &&
+  ['Vleesmarkt 9','Zuiderbuurt 37','Oosterstraat 20A'].includes(p.address)).length, 3,
+  'Each address is a separate venue without a duplicate');
+console.log('Gusto, Bourgondische Gevoel and M\'n Zusje: evidence limits and holidays verified.');
