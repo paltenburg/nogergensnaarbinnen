@@ -318,3 +318,24 @@ for (const day of ['di','wo','do','vr','za','zo']) {
 }
 assert.equal(cheung.opening_source, 'https://cheungkwong.nl/');
 console.log('IJlst corrected starts and minimum hours; Olterterp and Franeker restaurant-versus-takeaway limits verified.');
+
+
+// 02-11-2026: current Neushoorn Café public inloop and 2026 alcohol evidence.
+// An expired partner deal supports beer/wine service in 2026, not a guaranteed current menu.
+const neus = db.places.find(p => p.id === 'neushoorn-cafe-leeuwarden-20261102');
+assert.ok(neus, 'Neushoorn Café retains its stable venue ID');
+assert.equal(neus.selection, 'Voorlopig', '2026 partner beer/wine evidence plus ongoing operator drinks concept supports provisional listing');
+assert.ok(neus.alcohol.includes('13-06-2026'), 'Expired partner offer must be date-qualified');
+assert.ok(neus.alcohol.includes('huidige'), 'Do not imply a live verified drinks menu');
+for (const day of ['do', 'vr']) {
+  assert.equal(neus.opening[day], '17:00');
+  assert.equal(neus.closing[day], '00:00');
+}
+assert.equal(neus.opening.za, '17:00');
+assert.equal(neus.closing.za, '22:00', 'Saturday 22:00 is the public cafe-to-ticketed-club transition, not guaranteed venue closure');
+for (const day of ['ma','di','wo','zo']) {
+  assert.equal(neus.opening[day], '—');
+  assert.equal(neus.closing[day], '—');
+}
+assert.ok(neus.closing_notes.includes('Bunker Bar'), 'Same-address Bunker Bar is not duplicated as Neushoorn Café');
+console.log('Neushoorn Cafe verified public drinking, provisional alcohol evidence and club transition tested.');
