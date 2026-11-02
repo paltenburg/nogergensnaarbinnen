@@ -38150,6 +38150,83 @@
         "https://www.franeker.frl/bezoeken/117870/hotel-restaurant-poort-van-franeker/"
       ],
       "original_status": "Officiële site en lokale gids bevestigen actuele exploitatie en publieke inloop; alcoholaanbod en laatste toegang nog onbevestigd."
+    },
+    {
+      "id": "brasserie-de-stadstuin-franeker-20261102",
+      "name": "Brasserie De Stadstuin",
+      "type": "Brasserie / borrel / lunch",
+      "address": "Eise Eisingastraat 2",
+      "city": "Franeker",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website nodigt uit tot spontane bezoeken voor koffie/lunch en noemt gezellige borrels; eigen menukaart heeft wijn per glas en bier naast borrelplanken. Geen verplichte maaltijd of reservering voor een gewone consumptie vermeld. Feesten en arrangementen afzonderlijk op aanvraag.",
+      "alcohol": "Eigen via menukaart gepubliceerde PDF bevat wijn per glas, Brand van de tap, Planetenpils, Grutte Pier en andere bieren. Actuele verkrijgbaarheid per merk kan wisselen.",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening_quality": "Bedrijfseigen contactinformatie: november–maart maandag gesloten, di–za 10:00–17:00, zondag 11:00–17:00; april–oktober maandag 11:00–17:00. Alleen gedocumenteerde winterperiode datumgebonden getoond.",
+      "closing_quality": "Bedrijfseigen winterrooster tot 17:00; toeristische regiogids toont 18:00 maar is strijdig met de eigen site. Laatste toegang onbekend.",
+      "opening_source": "https://www.brasseriedestadstuin.nl/",
+      "closing_source": "https://www.brasseriedestadstuin.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "website": "https://www.brasseriedestadstuin.nl/",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen https://www.brasseriedestadstuin.nl/ geeft winter ma dicht, di–za 10–17, zo 11–17; apr–okt ma 11–17. Eigen https://www.brasseriedestadstuin.nl/_files/ugd/4a9c26_e1347b3d2c4548bb921f6c086d8aa3b6.pdf bevat wijn per glas, tapbier en borrelplanken. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3338356321/brasserie-de-stadstuin vermeldt 18:00 als sluiting, maar de exploitant noemt 17:00; bedrijfseigen rooster leidend. De menukaart-PDF is niet van november gedateerd, huidige individuele merken niet gegarandeerd. Laatste toegang onbekend; geen BAG-marker verzonnen.",
+      "date_schedules": [
+        {
+          "start": "2026-11-01",
+          "end": "2027-03-31",
+          "source": "https://www.brasseriedestadstuin.nl/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "—",
+            "di": "10:00",
+            "wo": "10:00",
+            "do": "10:00",
+            "vr": "10:00",
+            "za": "10:00",
+            "zo": "11:00"
+          },
+          "closing": {
+            "ma": "—",
+            "di": "17:00",
+            "wo": "17:00",
+            "do": "17:00",
+            "vr": "17:00",
+            "za": "17:00",
+            "zo": "17:00"
+          }
+        }
+      ],
+      "requires_date_schedule": true,
+      "date_schedule_notes": "02-11-2026: alleen winterrooster 01-11-2026 t/m 31-03-2027 opgenomen; buiten dit interval zonder nieuwe datumverificatie verborgen. Bedrijfseigen pagina noemt afwijkende maandaguren april–oktober; feestdagen en incidentele afwijkingen onbekend.",
+      "date_schedules_checked_on": "2026-11-02",
+      "features": "Franeker; brasserie bij Planetarium; winterseizoen, borrel en bier/wijn",
+      "other_sources": [
+        "https://www.brasseriedestadstuin.nl/menukaart",
+        "https://www.brasseriedestadstuin.nl/_files/ugd/4a9c26_e1347b3d2c4548bb921f6c086d8aa3b6.pdf",
+        "https://www.franeker.frl/bezoeken/103461/brasserie-de-stadstuin/",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3338356321/brasserie-de-stadstuin"
+      ],
+      "original_status": "Eigen website en menukaart bevestigen openbare horeca, bier/wijn en winterrooster op 02-11-2026. Geen fysieke deurcheck of exacte laatste toegang."
     }
   ],
   "admission_policies": [
