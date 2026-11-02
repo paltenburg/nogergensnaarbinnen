@@ -17544,7 +17544,7 @@
       },
       "closing_quality": "Eigen site ma/wo/do 21:00; vr/za/zo alleen 'sluit' zonder uur, dus eindtijd onbekend. Dinsdag uitsluitend op afspraak. Geen expliciete laatste toegang.",
       "closing_source": "https://www.itreadehynder.nl/",
-      "closing_notes": "Eigen website op 29-10-2026 rechtstreeks gecontroleerd: ma 16:00–21:00, dinsdag op afspraak, wo 11:00–21:00, do 10:30–21:00, vrijdag en zaterdag vanaf 10:30 tot 'sluit', zondag vanaf 11:00 tot 'sluit'. Voor vr/za/zo geen exact einduur; geen laatste toegang. VVV https://www.friesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder toont strijdig rooster (ma–wo gesloten en do–zo 10:00–00:30). Het bedrijf zelf heeft voorrang. BAG https://allecijfers.nl/postcode/8731BB/ bevestigt 't Noard 6 als bijeenkomstfunctie; exacte PDOK-coördinaat nog niet gevonden.",
+      "closing_notes": "Eigen website op 29-10-2026 rechtstreeks gecontroleerd: ma 16:00–21:00, dinsdag op afspraak, wo 11:00–21:00, do 10:30–21:00, vrijdag en zaterdag vanaf 10:30 tot 'sluit', zondag vanaf 11:00 tot 'sluit'. Voor vr/za/zo geen exact einduur; geen laatste toegang. VVV https://www.friesland.nl/nl/locaties/2944019471/cafe-restaurant-it-reade-hynder toont strijdig rooster (ma–wo gesloten en do–zo 10:00–00:30). Het bedrijf zelf heeft voorrang. BAG https://allecijfers.nl/postcode/8731BB/ bevestigt 't Noard 6 als bijeenkomstfunctie; exacte PDOK-coördinaat nog niet gevonden. | 02-11-2026: eigen https://www.itreadehynder.nl/150jaar/ en regionale https://www.waterlandvanfriesland.nl/nl/uitagenda/1521601714/greidhoeke-winterfair-1 bevestigen Greidhoeke Winterfair 29-11-2026 11:00–16:00 met aansluitend publieke nazit in Grand Café It Reade Hynder. De 11–16 zijn tijden van de markt, NIET het reguliere caférooster of sluituur; aanvang/einde nazit en laatste toegang onbekend. Andere aangekondigde eigen activiteiten 13-11 wijnproeverij en 19-12 pubquiz zijn geen standaard openingstijden.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.itreadehynder.nl/",
       "other_sources": [
@@ -17553,7 +17553,9 @@
         "https://www.itreadehynder.nl/contact/",
         "https://allecijfers.nl/postcode/8731BB/",
         "https://www.grootsneek.nl/nieuws/in-bedrijf/131787/grand-cafe-it-reade-hynder-in-wommels-heropent-de-deuren",
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/711630499/it-reade-hynder-grand-cafe",
+        "https://www.itreadehynder.nl/150jaar/",
+        "https://www.waterlandvanfriesland.nl/nl/uitagenda/1521601714/greidhoeke-winterfair-1"
       ],
       "original_status": "Eigen site met actuele 2026-jubileumagenda, officiële contactgegevens en weekrooster direct gecontroleerd 29-10-2026. Exploitatie aannemelijk actief; geen live beschikbaarheidsgarantie.",
       "checked_on": "2026-11-02",
