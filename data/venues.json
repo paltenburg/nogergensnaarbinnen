@@ -36060,7 +36060,16 @@
         "https://www.oozo.nl/bedrijven/opsterland/terwispel/terwispel/221978/cafe-spaltenbrege"
       ],
       "original_status": "Actuele 2026-café-exploitatie en evenementen bevestigd, maar reguliere vrije inloop en weekuren niet afzonderlijk geverifieerd.",
-      "features": "D0 Opsterland / Terwispel; maandelijkse 50+-livemuziek met kaartje, niet als regulier caférooster"
+      "features": "D0 Opsterland / Terwispel; maandelijkse 50+-livemuziek met kaartje, niet als regulier caférooster",
+      "geo": {
+        "lat": 53.019134,
+        "lon": 6.0516166,
+        "method": "PDOK BAG-adres",
+        "matched_address": "De Streek 79, 8407EJ Terwispel"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch uit GitHub Actions 41379127423, Pages-artefact 13112615576, data/geocode-report.json added_in_this_run=1. De Streek 79, 8407EJ Terwispel, 53.019134/6.0516166. Publieke café-ingang niet afzonderlijk fysiek geverifieerd."
     }
   ],
   "admission_policies": [
