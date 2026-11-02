@@ -105,3 +105,23 @@ for (const day of ['wo','do','vr','za','zo']) {
 assert.equal(royal.selection, 'Nog te controleren', 'Private Royal Bar is not public walk-in');
 assert.notEqual(royal.id, queens.id, 'Royal Bar and Queens remain separate concepts');
 console.log('Utrecht Danel holidays, Manners/VINO hours, Royal Bar access and shared-address IDs verified.');
+
+
+// It Holt announces an eight-day Christmas/New Year shutdown; no adjacent dates inferred.
+const itHolt = db.places.find(p => p.id === 'it-holt-deinum-20261102');
+const deDames = db.places.find(p => p.id === 'eetcafe-de-dames-balk-20261030');
+assert.ok(itHolt && deDames);
+for (const date of ['2026-12-25','2026-12-26','2026-12-27','2026-12-28','2026-12-29','2026-12-30','2026-12-31','2027-01-01']) {
+  assert.equal(isClosed(itHolt, date), true, 'It Holt official Christmas shutdown '+date);
+}
+for (const date of ['2026-12-24','2027-01-02']) {
+  assert.equal(isClosed(itHolt, date), false, 'Do not extend It Holt shutdown '+date);
+}
+assert.ok(itHolt.date_closures.some(x => x.start === '2026-12-25' &&
+  x.end === '2027-01-01' && x.source === 'https://itholt.nl/' &&
+  x.checked_on === '2026-11-02'));
+for (const day of ['wo','do','vr','za','zo']) {
+  assert.equal(deDames.opening[day], '11:00', 'Operator start hour on 2026-11-02');
+}
+assert.equal(deDames.selection, 'Nog te controleren', 'Do not infer reopening from expired banner');
+console.log('It Holt Christmas closure and De Dames operator start hours verified.');
