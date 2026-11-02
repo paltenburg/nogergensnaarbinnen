@@ -1,5 +1,14 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Vervolgcheckpoint 02-11-2026 — twee Friese BAG-naamnormalisaties
+
+Na de geslaagde 675-marker build doorgewerkt aan **twee bestaande Friese records zonder coördinaten**. In [commit d198425](https://github.com/paltenburg/nogergensnaarbinnen/commit/d198425b9844d9789c87fced42abfed29dc798a0) geverifieerde BAG-schrijfwijzen opgeslagen, **0 locaties toegevoegd**, IDs ongewijzigd, nog geen coördinaten aangenomen:
+
+- **Eetcafé Bar Hulst, Appelscha**: eigen https://eetcafebarhulst.nl/ vermeldt **Vaart Zuidzijde 9, 8426 AC**; BAG-afgeleide https://kadastralekaart.com/adres/appelscha-vaart-zz-9/0085200000057310 en https://allecijfers.nl/weg/vaart-zz-appelscha/ bevestigen **Vaart Zz 9** als exacte officiële adresvorm met bijeenkomstfunctie. `address` genormaliseerd naar `Vaart Zz 9`, oude exploitantvorm gedocumenteerd. Geen uren aangepast (keuken/snackbaruren zijn geen bewijs voor andere baruren).
+- **Café Veldzicht, Metslawier/Mitselwier**: eigen https://www.veldzichtmetslawier.nl/lunchroom/ noemt Roptawei 14, 9123 JB, historische naam Metslawier; BAG-afgeleide https://postcode.site/postcode/9123-jb en gemeentelijke actuele woonplaatsenlijst https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl bevestigen officiële woonplaatsnaam **Mitselwier**. `city` genormaliseerd naar Mitselwier voor PDOK, stabiele ID met 'metslawier' behouden; 14A/B/C zijn andere BAG-objecten, niet overnemen. Geen uren/laatste toegang veranderd.
+
+**Volgende:** nieuwste GitHub Actions-geocoderapport werkelijk inspecteren; alleen exacte PDOK-match op Roptawei 14 Mitselwier en Vaart Zz 9 Appelscha importeren, nooit straatcentrum of huisnummer 14A/9A. Indien geen match, expliciet als onopgelost loggen en onafhankelijke D0-werkvoorraad vervolgen. Voor deze commit nog geen definitieve Pages- of mobiele test geclaimd.
+
 ### Publicatie- en testcontrole 02-11-2026 — definitieve 675-marker build geslaagd
 
 De nieuwste [GitHub Actions/Pages-run 41418821495](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41418821495) voor de laatste databasecommit `307c52e78266773055ee4181b76064edfae2e84c` is **completed/success**. Het **werkelijke definitieve Pages-artefact** is gedownload en uitgepakt: `data/venues.json` bevat **746 unieke IDs**, `data/geocode-report.json` meldt **675 exacte BAG-markers / 71 zonder / 0 nieuwe tijdens deze laatste build**, kwaliteitsrapport meldt **Friesland 522 totaal/470 markers/52 zonder** en **Utrecht 224 totaal/205 markers/19 zonder**. De drie nieuwe Utrechtse markers uit de vorige stap staan exact in het definitieve artefact; Stockholm blijft `selection=Nee`. Het bronregister is in het artefact aanwezig en opnieuw gegenereerd. **Ook op dit definitieve artefact** lokaal **38/38 Python-tests** en **alle vijf Node-testbestanden** geslaagd.
