@@ -21927,7 +21927,13 @@
         "https://allecijfers.nl/weg/vaart-zz-appelscha/"
       ],
       "original_status": "Eigen site bevestigt openbare borrel, cocktailkaart, adres en weekrooster; latere afzonderlijke baropening en laatste toegang onbekend.",
-      "geocode_notes": "02-11-2026: eigen https://eetcafebarhulst.nl/ noemt Vaart zuidzijde 9, 8426 AC Appelscha; BAG-afgeleide https://kadastralekaart.com/adres/appelscha-vaart-zz-9/0085200000057310 en https://allecijfers.nl/weg/vaart-zz-appelscha/ bevestigen exacte officiële straatnaam Vaart Zz, nr. 9 (bijeenkomstfunctie). Voor PDOK-normalisatie naar 'Vaart Zz 9'; nog geen coördinaten zonder exacte BAG-match."
+      "geocode_notes": "02-11-2026: eigen https://eetcafebarhulst.nl/ noemt Vaart zuidzijde 9, 8426 AC Appelscha; BAG-afgeleide https://kadastralekaart.com/adres/appelscha-vaart-zz-9/0085200000057310 en https://allecijfers.nl/weg/vaart-zz-appelscha/ bevestigen exacte officiële straatnaam Vaart Zz, nr. 9 (bijeenkomstfunctie). Voor PDOK-normalisatie naar 'Vaart Zz 9'; nog geen coördinaten zonder exacte BAG-match. 02-11-2026: exacte PDOK BAG-adresmatch uit werkelijk uitgepakt Pages-artefact run 41419145866; ID, straat, nummer, postcode, plaats, NL-bereik en geen eerdere marker gecontroleerd. Bron: https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. Marker bewijst uitsluitend BAG-adres, niet feitelijke exploitatie.",
+      "geo": {
+        "lat": 52.959742,
+        "lon": 6.3454949,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Vaart Zz 9, 8426AC Appelscha"
+      }
     },
     {
       "id": "cafe-stynsgea-augustinusga-20261030",
@@ -25218,7 +25224,13 @@
         "https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl"
       ],
       "original_status": "Actueel café bevestigd via exploitant en oktober-2026 evenementagenda; geen BAG-marker of expliciete laatste toegang.",
-      "geocode_notes": "02-11-2026: exploitant https://www.veldzichtmetslawier.nl/lunchroom/ noemt Roptawei 14, 9123 JB 'Metslawier' (historische Nederlandse naam); BAG/2026-woonplaatsnaam is 'Mitselwier' volgens https://postcode.site/postcode/9123-jb en gemeente https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl; exact adres Roptawei 14 met bijeenkomstfunctie, 14A/B/C zijn andere objecten. City genormaliseerd naar Mitselwier voor PDOK, ID met Metslawier blijft stabiel. Nog geen marker zonder exacte match."
+      "geocode_notes": "02-11-2026: exploitant https://www.veldzichtmetslawier.nl/lunchroom/ noemt Roptawei 14, 9123 JB 'Metslawier' (historische Nederlandse naam); BAG/2026-woonplaatsnaam is 'Mitselwier' volgens https://postcode.site/postcode/9123-jb en gemeente https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl; exact adres Roptawei 14 met bijeenkomstfunctie, 14A/B/C zijn andere objecten. City genormaliseerd naar Mitselwier voor PDOK, ID met Metslawier blijft stabiel. Nog geen marker zonder exacte match. 02-11-2026: exacte PDOK BAG-adresmatch uit werkelijk uitgepakt Pages-artefact run 41419145866; ID, straat, nummer, postcode, plaats, NL-bereik en geen eerdere marker gecontroleerd. Bron: https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. Marker bewijst uitsluitend BAG-adres, niet feitelijke exploitatie.",
+      "geo": {
+        "lat": 53.3607354,
+        "lon": 6.0669055,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Roptawei 14, 9123JB Mitselwier"
+      }
     },
     {
       "id": "hcr-t-raedhus-dokkum-20261031",
