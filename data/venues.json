@@ -38410,7 +38410,15 @@
         "https://visitleeuwarden.com/locaties/2868804625/de-gouverneur-leeuwarden",
         "https://www.lc.nl/regio/friesland/leeuwarden/restaurant-de-gouverneur-opent-op-iconische-plek-in-het-centrum-van-leeuwarden-droom-komt-uit/156396143.html"
       ],
-      "original_status": "Eigen actuele restaurantwebsite, horecagids en berichtgeving bevestigen restaurant op Gouverneursplein 36. Borrel zonder maaltijd of groep niet bevestigd; standaard verborgen, geen restauranttijden als caféuren."
+      "original_status": "Eigen actuele restaurantwebsite, horecagids en berichtgeving bevestigen restaurant op Gouverneursplein 36. Borrel zonder maaltijd of groep niet bevestigd; standaard verborgen, geen restauranttijden als caféuren.",
+      "geo": {
+        "lat": 53.2025076,
+        "lon": 5.7967336,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Gouverneursplein 36, 8911HH Leeuwarden"
+      },
+      "geo_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch Gouverneursplein 36, 8911HH Leeuwarden uit daadwerkelijk gedownload en uitgepakt Pages-artifact van geslaagde 762-record GitHub Actions-run 41528141238. Geocoderapport: 762 totaal, 697 markers, 65 zonder, 1 toegevoegd. Huisnummer/postcode/plaats en stabiel venue-ID gecontroleerd. Dit is een BAG-adrescoördinaat, geen bevestiging van de fysieke ingang of losse borrelinloop."
     }
   ],
   "admission_policies": [
