@@ -992,23 +992,23 @@
       },
       "closing_quality": "Geen actuele reguliere opening of sluiting bevestigd; niet als open tonen.",
       "closing_source": "",
-      "checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open (14-09-2026) zet Bar Pleur expliciet onder 'Binnenkort open' op Kanaalweg 30. Geen onafhankelijke actuele openingsbevestiging of eigen site gevonden. Op dit adres is Café Keet in oktober 2026 aantoonbaar actief volgens https://www.cafekeet.nl/ en https://kanaal30.mom/. Andere OSM-afgeleide gids https://nuactueel.nl/utrecht/uit-eten noemt Bar Pleur op Kanaalweg 50: ADRESCONFLICT, niet stilzwijgend overschrijven of als tweede bar op Kanaalweg 30 aannemen. Geen vaste tijden; selectie Nog te controleren.",
+      "checked_on": "2026-11-02",
+      "closing_notes": "31-10-2026: https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open (14-09-2026) zet Bar Pleur expliciet onder 'Binnenkort open' op Kanaalweg 30. Geen onafhankelijke actuele openingsbevestiging of eigen site gevonden. Op dit adres is Café Keet in oktober 2026 aantoonbaar actief volgens https://www.cafekeet.nl/ en https://kanaal30.mom/. Andere OSM-afgeleide gids https://nuactueel.nl/utrecht/uit-eten noemt Bar Pleur op Kanaalweg 50: ADRESCONFLICT, niet stilzwijgend overschrijven of als tweede bar op Kanaalweg 30 aannemen. Geen vaste tijden; selectie Nog te controleren. | 02-11-2026: recenter 07-11-2026-evenement bij https://maats.cc/collections/events/products/maats-x-pas-normal-studios-pas-ttt noemt Kanaalweg 50, net als https://tablova.nl/zaak/utrecht/bar-pleur-n14318483190; De Buik september noemt 30. Café Keet heeft 08-11-2026 activiteit op Kanaalweg 30. Geo 30 verwijderd en automatische geocodering geblokkeerd; adres in master nog historische 30, NIET als vastgesteld bezoekadres gebruiken. Feitelijke openstelling en alcohol onbekend.",
       "features": "Aangekondigd in september; opening niet bevestigd",
       "website": "",
       "other_sources": [
         "https://www.debuik.nl/utrecht/top-10/nieuwe-horeca-in-het-najaar-van-2026-deze-utrechtse-zaken-gaan-of-zijn-net-open",
         "https://www.cafekeet.nl/",
         "https://kanaal30.mom/",
-        "https://nuactueel.nl/utrecht/uit-eten"
+        "https://nuactueel.nl/utrecht/uit-eten",
+        "https://maats.cc/collections/events/products/maats-x-pas-normal-studios-pas-ttt",
+        "https://tablova.nl/zaak/utrecht/bar-pleur-n14318483190",
+        "https://kanaal30.mom/event/sunday-sounds-open-jamsessie-14/"
       ],
       "original_status": "Aangekondigd, maar feitelijke exploitatie en exact adres niet bevestigd op 31-10-2026.",
-      "geo": {
-        "lat": 52.0719708,
-        "lon": 5.1096777,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Kanaalweg 30, 3526KM Utrecht"
-      }
+      "geocode_blocked": true,
+      "geocode_notes": "Adresconflict 02-11-2026: De Buik (14-09-2026) kondigde Kanaalweg 30 aan, maar Maats-evenement voor 07-11-2026 https://maats.cc/collections/events/products/maats-x-pas-normal-studios-pas-ttt noemt expliciet Bar Pleur, Kanaalweg 50; OSM-afgeleide https://tablova.nl/zaak/utrecht/bar-pleur-n14318483190 bevestigt 50. Op 30 is Café Keet aantoonbaar actief met 08-11 evenement https://kanaal30.mom/event/sunday-sounds-open-jamsessie-14/. De oude PDOK BAG-marker 30 identificeert Keet/gebouw en mag niet als exacte Bar Pleur-marker worden getoond. Eerst exploitant/feitelijke ingang verifiëren, daarna pas adres/geo wijzigen.",
+      "geocode_checked_on": "2026-11-02"
     },
     {
       "id": "basis-709b7a8",
