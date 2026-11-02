@@ -35444,8 +35444,8 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Eigen actuele website biedt expliciet een gezellige borrel zonder maaltijd aan; actuele vrije toegang als restaurant bevestigd. Laatste toegang niet gepubliceerd.",
-      "alcohol": "Historisch artikel uit 2019 bevestigt invoering van alcoholverkoop; de huidige officiële wintermenukaart 2026 noemt geen alcoholische dranksoorten. Actueel alcoholaanbod nog afzonderlijk verifiëren.",
-      "selection": "Nog te controleren",
+      "alcohol": "Uitbater Tjitske de Jong bevestigde in interview 28-07-2025 verkoop van bier en wijn sinds 2022; Tripadvisor vermeldt wijn/bier. Huidige wintermenukaart 2026 noemt alleen gerechten, geen actuele drankprijzen.",
+      "selection": "Voorlopig",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -35466,16 +35466,18 @@
       },
       "closing_quality": "Regionale VVV geeft wo–za 10:00–20:00, maar officiële wintermenukaart zegt uitsluitend dat de keuken om 20:00 sluit; daarom geen horeca-eindtijd overgenomen",
       "closing_source": "https://www.friesland.nl/nl/locaties/2279274301/de-blauwe-tent",
-      "closing_notes": "Eigen site https://www.blauwetent.nl/ noemt publieke borrel; eigen wintermenukaart (bestand geplaatst oktober 2026) bevestigt opening vanaf 10:00 en keuken tot 20:00, NIET cafésluiting. Regionale Friesland.nl geeft ma/di/zo gesloten en wo–za 10:00–20:00; Restaurantguru toont hetzelfde, maar 20:00 niet als bewezen bar-einduur overgenomen. Bier/wijn in november 2026 niet op huidige kaart vastgesteld; artikel https://bigtruck.nl/nieuws/de-blauwe-tent uit 2019 noemt wel alcohol. Laatste toegang en feitelijke novemberse alcoholverkoop onbekend. Verborgen tot bevestiging.",
+      "closing_notes": "Eigen site https://www.blauwetent.nl/ noemt publieke borrel; eigen wintermenukaart (bestand geplaatst oktober 2026) bevestigt opening vanaf 10:00 en keuken tot 20:00, NIET cafésluiting. Regionale Friesland.nl geeft ma/di/zo gesloten en wo–za 10:00–20:00; Restaurantguru toont hetzelfde, maar 20:00 niet als bewezen bar-einduur overgenomen. Bier/wijn in november 2026 niet op huidige kaart vastgesteld; artikel https://bigtruck.nl/nieuws/de-blauwe-tent uit 2019 noemt wel alcohol. Laatste toegang en feitelijke novemberse alcoholverkoop onbekend. Verborgen tot bevestiging. | Extra broncontrole 02-11-2026: interview met uitbater Tjitske de Jong in https://www.grootsneek.nl/nieuws/in-bedrijf/115773/restaurant-de-blauwe-tent-uit-reduzum-van-geheelonthoudersuit (28-07-2025) bevestigt zwak-alcoholische dranken sinds 2022 en expliciet bier/wijn. Daarom Voorlopig in plaats van verborgen; geen 20:00 als bar-sluiting aangenomen.",
       "features": "Friesland; Reduzum; nieuwe D0-kandidaat",
       "website": "https://www.blauwetent.nl/",
       "other_sources": [
         "https://www.blauwetent.nl/wp-content/uploads/2026/10/Menukaart-winter-26.pdf",
         "https://www.friesland.nl/nl/locaties/2279274301/de-blauwe-tent",
         "https://bigtruck.nl/nieuws/de-blauwe-tent",
-        "https://restaurantguru.com/Blauwe-Tent-Reduzum"
+        "https://restaurantguru.com/Blauwe-Tent-Reduzum",
+        "https://www.grootsneek.nl/nieuws/in-bedrijf/115773/restaurant-de-blauwe-tent-uit-reduzum-van-geheelonthoudersuit",
+        "https://www.tripadvisor.nl/Restaurant_Review-g7606211-d7395342-Reviews-Blauwe_Tent-Reduzum_Friesland_Province.html"
       ],
-      "original_status": "Officiële website en wintermenukaart 2026 wijzen op actuele exploitatie; publieke borrel genoemd. Huidige alcoholsoorten en werkelijke sluituren nog onbevestigd.",
+      "original_status": "Eigen website en wintermenukaart 2026 bevestigen actieve horecacommunicatie en vrije borrel; uitbater bevestigde bier/wijn in 2025. Feitelijke novemberuren en laatste toegang blijven onzeker.",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02"
     },
