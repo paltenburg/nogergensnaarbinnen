@@ -476,9 +476,10 @@
       // window must still be respected, even when a last-entry limit is known.
       if(closes!==null&&arrivalAt>=closes)return false;
       if(window&&arrivalAt>=window.earliest)return false;
-      // Without a known closing time, only a documented last-entry deadline
-      // provides enough information to include a venue in timed results.
-      if(closes===null&&!window&&lastAdmission===null)return false;
+      // Last entry is only an upper bound, not evidence that the café
+      // actually remains open until that time. Require a verified closing
+      // or closing window before advertising a timed arrival.
+      if(closes===null&&!window)return false;
       if(lastAdmission!==null&&arrivalAt>=lastAdmission)return false;
       if(!openAtSelectedTime(p,arrivalAt))return false;
     }
@@ -794,8 +795,11 @@
     const nearest=new Map();
     for(const place of db.places){
       if(!available.has(place.region))continue;
-      const lat=Number(place.geo?.lat),lon=Number(place.geo?.lon);
-      if(!Number.isFinite(lat)||!Number.isFinite(lon))continue;
+      // A missing coordinate is not zero: Number(null) would otherwise
+      // create a false venue near the equator. Aliases are not separate sites.
+      if(place.duplicate_of||!place.geo||
+         !Number.isFinite(place.geo.lat)||!Number.isFinite(place.geo.lon))continue;
+      const {lat}=place.geo,lon=place.geo.lon;
       const distance=map.distance(center,L.latLng(lat,lon));
       const current=nearest.get(place.region);
       if(current===undefined||distance<current)nearest.set(place.region,distance);
