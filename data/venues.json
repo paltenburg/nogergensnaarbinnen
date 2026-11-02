@@ -38483,6 +38483,55 @@
         "https://nl.linkedin.com/in/richard-van-daele-0789131ab"
       ],
       "original_status": "Nieuwe locatie met officiële verhuisaankondiging, recente leveranciersmelding en bezoekercheck-ins; daadwerkelijke reguliere vrije borrel, openingsdagen en sluituren nog onvoldoende primair bevestigd."
+    },
+    {
+      "id": "toon-luisterbar-leeuwarden-20261102",
+      "name": "TOON Luisterbar",
+      "type": "Luisterbar / koffie- en vinylzaak (alcohol bij evenementen)",
+      "address": "Kleine Kerkstraat 11",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Publieke koffie-/vinylzaak volgens initiatiefnemer Deepgrooves; openbare evenementen met drank (17-07-2026 VrijMiBo) bevestigd. Reguliere vrije alcoholinloop buiten evenementen niet bevestigd.",
+      "alcohol": "Visit Leeuwarden kondigde voor VrijMiBo 17-07-2026 Gin & Tonic en andere dorstlessers/bier aan; gemeente verleende incidentele artikel 35-ontheffingen voor 14-02 en 27-04-2026. Dit bewijst evenement-alcoholaanbod, NIET reguliere alcoholverstrekking elke koffiedag.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen initiatiefnemer geeft koffie-/vinylopening di–vr 09–17, za 10–18, ma/zo dicht. Niet als reguliere alcohol-/baruren overgenomen; eventtijden apart.",
+      "closing_quality": "Geen reguliere drank-/bar-sluituren of laatste toegang bevestigd. Event 17-07 16–22 is geen vast vrijdagrooster.",
+      "opening_source": "https://deepgrooves.eu/toon-luisterbar-leeuwarden/",
+      "closing_source": "",
+      "website": "https://deepgrooves.eu/toon-luisterbar-leeuwarden/",
+      "website_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: https://deepgrooves.eu/toon-luisterbar-leeuwarden/ is bericht van initiatiefnemer over opening 14-02-2026 (in tekst staat abusievelijk 'vrijdag' bij 14 februari, kalenderdatum 14-02-2026 is zaterdag), locatie Kleine Kerkstraat 11 en normale koffie-/vinyluren di–vr 09–17 en za 10–18. https://www.visitleeuwarden.com/agenda/3920914922/random-vinyl-sessie-bij-toon-luisterbar kondigt openbare VrijMiBo 17-07-2026 16–22 met Gin & Tonic (€5) en bier aan; geen garantie voor iedere vrijdag. Officiële https://zoek.officielebekendmakingen.nl/gmb-2026-43779.html (opening 14-02) en https://zoek.officielebekendmakingen.nl/gmb-2026-140356.html (Koningsdag 27-04) betreffen artikel 35 ONTHEFFINGEN voor incidentele zwakalcoholische drank, geen reguliere Alcoholwetvergunning of structurele baropening. Daarom verborgen en 7 basisdagen onbekend, geen afgeleide alcoholuren. Exacte BAG-geocode nog te controleren.",
+      "features": "D0 Leeuwarden; evenementen-alcohol bevestigd, dagelijkse alcoholfunctie niet; naast maar NIET hetzelfde adres als Café De Pastorie (Kleine Kerkstraat 9)",
+      "other_sources": [
+        "https://www.visitleeuwarden.com/locaties/3541994683/toon-luisterbar",
+        "https://www.visitleeuwarden.com/agenda/3920914922/random-vinyl-sessie-bij-toon-luisterbar",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-43779.html",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-140356.html",
+        "https://www.friesland.nl/nl/locaties/2994061346/toon-luisterbar"
+      ],
+      "original_status": "Actieve publieke koffie-/vinylzaak; incidentele alcoholverstrekking tijdens 2026-evenementen bevestigd, reguliere vrije borrel/uren onbekend."
     }
   ],
   "admission_policies": [
