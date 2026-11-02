@@ -23373,11 +23373,11 @@
       "opening": {
         "ma": "—",
         "di": "—",
-        "wo": "11:00",
-        "do": "11:00",
-        "vr": "11:00",
-        "za": "11:00",
-        "zo": "11:00"
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       },
       "closing": {
         "ma": "—",
@@ -23390,7 +23390,7 @@
       },
       "closing_quality": "Eigen homepage 31-10-2026 geeft wo–zo 12:00–22:00; feitelijke heropening na sluitingsperiode 4–29 oktober niet onafhankelijk bevestigd.",
       "closing_source": "https://www.eetcafededames.nl/",
-      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren. | 31-10-2026: de opnieuw opgehaalde eigen homepage https://www.eetcafededames.nl/ geeft nu 12:00–22:00 op wo–zo (eerder op 30-10 rechtstreeks 11:00 gelezen); begintijden bijgewerkt. De zoekindex en homepage komen nu overeen. Er is nog geen onafhankelijk bewijs dat de zaak na de aangekondigde tijdelijke sluiting daadwerkelijk heropend is; selectie blijft Nog te controleren. | 02-11-2026: rechtstreeks geopende actuele homepage toont weer wo–zo 11:00–22:00 (eerdere snapshot 12:00); begintijd aangepast aan eigen site. Banner 4–29 oktober blijft staan, feitelijke heropening niet bevestigd, status verborgen behouden.",
+      "closing_notes": "30-10-2026: https://www.eetcafededames.nl/ toont adres Meerweg 3, gewone opening wo–zo 11:00–22:00, ma/di gesloten en banner 'gesloten van 4 tot en met 29 oktober'. Search snippet van dezelfde site noemt 12:00 als beginuur; rechtstreeks geopende homepage 11:00 aangehouden, verschil genoteerd. Dit zijn geadverteerde normale uren, niet bewijs dat de zaak op 30 oktober alweer daadwerkelijk open is. Laatste toegang onbekend. Officiële drankenkaart: https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf. Gids https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/ noemt postcode 8561 AT, eigen site 8561 AN: BAG-postcode nog verifiëren. | 31-10-2026: de opnieuw opgehaalde eigen homepage https://www.eetcafededames.nl/ geeft nu 12:00–22:00 op wo–zo (eerder op 30-10 rechtstreeks 11:00 gelezen); begintijden bijgewerkt. De zoekindex en homepage komen nu overeen. Er is nog geen onafhankelijk bewijs dat de zaak na de aangekondigde tijdelijke sluiting daadwerkelijk heropend is; selectie blijft Nog te controleren. | 02-11-2026: rechtstreeks geopende actuele homepage toont weer wo–zo 11:00–22:00 (eerdere snapshot 12:00); begintijd aangepast aan eigen site. Banner 4–29 oktober blijft staan, feitelijke heropening niet bevestigd, status verborgen behouden. | 02-11-2026 hercontrole: rechtstreeks geopende exploitantenhomepage https://www.eetcafededames.nl/ toont wo–zo 12:00–22:00, ma/di gesloten, geen oktober-sluitingsbanner meer in uitgelezen tekst. Dit is een website-indicatie, geen onafhankelijke bevestiging van feitelijke heropening. Dezelfde site gaf bij eerdere controles 11:00 en 12:00; actuele beginuren 12:00 overgenomen. BAG 2026 https://allecijfers.nl/weg/meerweg-balk/ bevestigt Meerweg 3 als 8561 AT, terwijl exploitant 8561 AN vermeldt; geo van exacte BAG-huisnummermatch niet gewijzigd.",
       "features": "D0 De Fryske Marren / Balk; tijdelijke sluiting t/m 29 oktober; heropening verifiëren",
       "website": "https://www.eetcafededames.nl/",
       "website_checked_on": "2026-10-31",
@@ -23399,7 +23399,8 @@
       "opening_checked_on": "2026-11-02",
       "other_sources": [
         "https://www.eetcafededames.nl/Website-De-Dames_5_images/Drankenkaart.pdf",
-        "https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/"
+        "https://uitbalk.com/uiteten/restaurant/eetcafe-de-dames-lmqb6i/",
+        "https://allecijfers.nl/weg/meerweg-balk/"
       ],
       "original_status": "Eigen site en drankkaart bevestigd; heropening na tijdelijke sluiting en postcode nog niet onafhankelijk bevestigd; niet als zeker toegankelijk geselecteerd.",
       "geo": {
@@ -23407,7 +23408,9 @@
         "lon": 5.5827768,
         "method": "PDOK BAG-adres",
         "matched_address": "Meerweg 3, 8561AT Balk"
-      }
+      },
+      "opening_quality": "Eigen homepage op 02-11-2026 opnieuw direct gelezen: wo–zo 12:00–22:00. Eerdere momentopnames van dezelfde pagina noemden ook 11:00; actuele gepubliceerde begintijd is 12:00, zonder garantie van feitelijke heropening.",
+      "geo_notes": "BAG-adres Meerweg 3, 8561 AT Balk, bijeenkomstfunctie, bevestigd via https://allecijfers.nl/weg/meerweg-balk/ (BAG 2026). Exploitantwebsite https://www.eetcafededames.nl/ vermeldt afwijkend 8561 AN. Bestaande exacte BAG-marker voor huisnummer 3 behouden; postcodeconflict nog bij exploitant te controleren."
     },
     {
       "id": "restaurant-de-kruisweg-damwald-20261030",
