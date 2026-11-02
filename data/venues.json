@@ -37932,7 +37932,16 @@
         "https://koningsdagbeetsterzwaag.nl/wp-content/uploads/2026/03/Koningsdag-krant-2026-klf.pdf",
         "https://www.nederlandfietsland.nl/locaties/hotel-restaurant-het-witte-huis/"
       ],
-      "original_status": "Actuele officiële november-website met herfstmenu, alcoholkaart en dagelijks rooster; onafhankelijke fysieke deurcontrole en laatste toegang ontbreken."
+      "original_status": "Actuele officiële november-website met herfstmenu, alcoholkaart en dagelijks rooster; onafhankelijke fysieke deurcontrole en laatste toegang ontbreken.",
+      "geo": {
+        "lat": 53.0664808,
+        "lon": 6.1042918,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Van Harinxmaweg 20, 9246TL Olterterp"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch Van Harinxmaweg 20 9246TL Olterterp uit daadwerkelijk gedownload GitHub Pages-artefact van geslaagde 756-record run 41501156416; match op ID, straat, huisnummer, postcode en plaats gecontroleerd. BAG-adres is geen bewijs van de fysieke entree of huidige exploitatie."
     },
     {
       "id": "cheung-kwong-franeker-20261102",
