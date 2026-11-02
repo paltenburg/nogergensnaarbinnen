@@ -36622,7 +36622,15 @@
         "https://menukaart.menu/restaurants/leeuwarden-1/cafe-mukkes"
       ],
       "original_status": "Exploitant heropening 04-04-2026 en concerten in oktober 2026 onderbouwen huidige barfunctie; exacte gewone weekuren ontbreken. Geen fysieke novembercontrole.",
-      "geo": null
+      "geo": {
+        "lat": 53.202087,
+        "lon": 5.7974111,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Grote Hoogstraat 26, 8911HB Leeuwarden"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41394218812",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-match uit daadwerkelijk uitgepakt Pages-artefact 13118870921, GitHub Actions 41394218812. Huisnummer 26 en woonplaats gecontroleerd, geen interpolatie."
     }
   ],
   "admission_policies": [
