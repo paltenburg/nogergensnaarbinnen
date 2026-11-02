@@ -339,3 +339,30 @@ for (const day of ['ma','di','wo','zo']) {
 }
 assert.ok(neus.closing_notes.includes('Bunker Bar'), 'Same-address Bunker Bar is not duplicated as Neushoorn Café');
 console.log('Neushoorn Cafe verified public drinking, provisional alcohol evidence and club transition tested.');
+
+
+// Newly discovered Grand Café Kreas is not yet a verified walk-in bar:
+// supplier opening announcement and guest beer check-ins do not prove weekly
+// public admission, closing times or last entry.
+const kreas = db.places.find(p => p.id === 'grand-cafe-kreas-drachten-20261102');
+const pietje = db.places.find(p => p.id === 'cafe-pietje-bel-drachten-5eb1428');
+assert.ok(kreas && pietje, 'Both Drachten venue IDs remain stable');
+assert.equal(kreas.address, 'Noordkade 3');
+assert.equal(kreas.website, 'https://grandcafekreas.nl/');
+assert.equal(kreas.selection, 'Nog te controleren');
+assert.equal(kreas.checked_on, '2026-11-02');
+assert.ok(kreas.other_sources.includes('https://www.thusdrachten.nl/grand-cafe-kreas/'));
+assert.equal(db.places.filter(p => p.city === 'Drachten' && p.address === 'Noordkade 3').length, 1,
+  'Kreas / Thús successor is one venue, not duplicate concepts');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(kreas.opening[day], '?', 'No third-party planned hours accepted for Kreas '+day);
+  assert.equal(kreas.closing[day], '?', 'No third-party planned closing accepted for Kreas '+day);
+  assert.equal(pietje.closing[day], '?', 'Inactive historic registration is not a verified timetable '+day);
+}
+assert.equal(pietje.selection, 'Nog te controleren',
+  'Inactive KvK records do not prove a closure or current reopening');
+assert.ok(pietje.other_sources.some(u => u.includes('/cafe-pietje-bel')),
+  'Inactive registration is sourced');
+assert.equal(db.places.filter(p => p.city === 'Drachten' && p.address === 'Zuidkade 18').length, 1,
+  'Historic Koperen Bel name must not create a second active venue');
+console.log('Kreas new opening and Pietje Bel inactive registration safely unverified.');
