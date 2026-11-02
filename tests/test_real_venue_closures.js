@@ -247,3 +247,47 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
 assert.equal(brulee.website, 'https://bistrobrulee.nl/');
 assert.equal(provence.website, 'https://www.leprovence.nl/');
 console.log('Sneek seasonal bistro and historic alcohol menu uncertainty verified.');
+
+
+// Friesland D0 02-11-2026: operator-confirmed drinks and hours, without
+// converting unrelated one-off events or takeaway times into weekly closures.
+const barista = db.places.find(p => p.id === 'barista-cafe-drachten-20261102');
+const odl = db.places.find(p => p.id === 'cafe-odl-luinjeberd-20261102');
+const marktSneek = db.places.find(p => p.id === 'markt23-sneek-20261031');
+const marktDrachten = db.places.find(p => p.id === 'markt23-drachten-20261031');
+assert.ok([barista, odl, marktSneek, marktDrachten].every(Boolean));
+assert.notEqual(barista.id, odl.id);
+assert.equal(barista.website, 'https://www.baristacafe.nl/vestiging/drachten/');
+assert.ok(barista.other_sources.includes('https://www.cavesco.nl/docs/baristacafe/menukaart_drachten.pdf'));
+for (const [day, open, close] of [
+  ['ma','12:00','18:00'], ['di','09:30','18:00'], ['wo','09:30','18:00'],
+  ['do','09:30','18:00'], ['vr','09:30','18:00'], ['za','09:00','18:00'],
+  ['zo','12:00','17:00']
+]) {
+  assert.equal(barista.opening[day], open, 'Barista operator opening '+day);
+  assert.equal(barista.closing[day], close, 'Barista operator closing '+day);
+}
+assert.equal(odl.website, 'https://cafeodl.nl/');
+assert.equal(odl.address, 'Aengwirderweg 149');
+for (const day of ['wo','do','vr','za','zo']) {
+  assert.equal(odl.opening[day], '16:00', 'ODL pub starts at 16:00 '+day);
+}
+for (const day of ['ma','di']) {
+  assert.equal(odl.opening[day], '?', 'ODL unlisted weekday is not confirmed closed '+day);
+}
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(odl.closing[day], '?', 'Takeaway 20:00 is not a pub closing '+day);
+  assert.equal(marktSneek.closing[day], '?', 'Club Tropicana end 01:00 is not weekly closing '+day);
+  assert.equal(marktDrachten.closing[day], '?', 'Pubquiz start 20:00 is not weekly closing '+day);
+}
+assert.equal(db.places.filter(p => p.region === 'friesland' &&
+  p.city === 'Luinjeberd' && p.address === 'Aengwirderweg 149').length, 1,
+  'Historic Onder de Linden and current ODL must not be duplicated');
+for (const p of [barista, odl]) {
+  assert.equal(p.checked_on, '2026-11-02');
+  if (p.geo) {
+    assert.equal(p.geo.method, 'PDOK BAG-adres');
+    assert.ok(Number.isFinite(p.geo.lat) && Number.isFinite(p.geo.lon));
+  }
+}
+console.log('Barista Drachten and ODL Luinjeberd official hours, aliases and event limits verified.');
