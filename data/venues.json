@@ -21885,7 +21885,7 @@
       "id": "eetcafe-bar-hulst-appelscha-20261030",
       "name": "Eetcafé Bar Hulst",
       "type": "Eetcafé / bar / terras",
-      "address": "Vaart Zuidzijde 9",
+      "address": "Vaart Zz 9",
       "city": "Appelscha",
       "region": "friesland",
       "country": "Nederland",
@@ -21922,9 +21922,12 @@
       "other_sources": [
         "https://eetcafebarhulst.nl/",
         "https://eetcafebarhulst.nl/Smooties-en-Cocktails",
-        "https://www.fietsnetwerk.nl/knooppunt/eetcafe-bar-hulst-appelscha/"
+        "https://www.fietsnetwerk.nl/knooppunt/eetcafe-bar-hulst-appelscha/",
+        "https://kadastralekaart.com/adres/appelscha-vaart-zz-9/0085200000057310",
+        "https://allecijfers.nl/weg/vaart-zz-appelscha/"
       ],
-      "original_status": "Eigen site bevestigt openbare borrel, cocktailkaart, adres en weekrooster; latere afzonderlijke baropening en laatste toegang onbekend."
+      "original_status": "Eigen site bevestigt openbare borrel, cocktailkaart, adres en weekrooster; latere afzonderlijke baropening en laatste toegang onbekend.",
+      "geocode_notes": "02-11-2026: eigen https://eetcafebarhulst.nl/ noemt Vaart zuidzijde 9, 8426 AC Appelscha; BAG-afgeleide https://kadastralekaart.com/adres/appelscha-vaart-zz-9/0085200000057310 en https://allecijfers.nl/weg/vaart-zz-appelscha/ bevestigen exacte officiële straatnaam Vaart Zz, nr. 9 (bijeenkomstfunctie). Voor PDOK-normalisatie naar 'Vaart Zz 9'; nog geen coördinaten zonder exacte BAG-match."
     },
     {
       "id": "cafe-stynsgea-augustinusga-20261030",
@@ -25170,7 +25173,7 @@
       "name": "Café Veldzicht",
       "type": "Dorpscafé / bar / lunchroom",
       "address": "Roptawei 14",
-      "city": "Metslawier",
+      "city": "Mitselwier",
       "region": "friesland",
       "country": "Nederland",
       "access": "Exploitant bevestigt publiek dorpscafé voor bewoners/toeristen, met eigen drankaanbod en eten desgewenst uit de aparte lunchroom. Bij evenementen kunnen toegang en openingstijden afwijken.",
@@ -25204,15 +25207,18 @@
       "opening_source": "https://www.veldzichtmetslawier.nl/contact/",
       "opening_checked_on": "2026-10-31",
       "opening_quality": "Eigen website: donderdagstart 19:00 of 19:30 afhankelijk van pagina; conservatief 19:30 gebruikt, exacte tijd onzeker. Vrijdag alleen avondblok opgenomen.",
-      "features": "Noardeast-Fryslân / Metslawier; eigen 2026-agenda, biljart, bingo en café; evenementafwijkingen",
+      "features": "Noardeast-Fryslân / Metslawier; eigen 2026-agenda, biljart, bingo en café; evenementafwijkingen; plaatsnaam BAG Mitselwier (ook Metslawier)",
       "other_sources": [
         "https://www.veldzichtmetslawier.nl/bar-cafe/",
         "https://www.veldzichtmetslawier.nl/contact/",
         "https://www.veldzichtmetslawier.nl/aankomend-weekend-4-t-m-7-juni-2026-is-het-dorpsfeest-in-mitselwierdaarom-passen-we-bij-veldzich/",
         "https://www.veldzichtmetslawier.nl/op-zaterdag-14-november-2026-organiseren-we-een-voute-party-in-cafe-veldzicht-zie-de-afbeelding-v/",
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/4027903447/cafe-veldzicht"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/4027903447/cafe-veldzicht",
+        "https://postcode.site/postcode/9123-jb",
+        "https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl"
       ],
-      "original_status": "Actueel café bevestigd via exploitant en oktober-2026 evenementagenda; geen BAG-marker of expliciete laatste toegang."
+      "original_status": "Actueel café bevestigd via exploitant en oktober-2026 evenementagenda; geen BAG-marker of expliciete laatste toegang.",
+      "geocode_notes": "02-11-2026: exploitant https://www.veldzichtmetslawier.nl/lunchroom/ noemt Roptawei 14, 9123 JB 'Metslawier' (historische Nederlandse naam); BAG/2026-woonplaatsnaam is 'Mitselwier' volgens https://postcode.site/postcode/9123-jb en gemeente https://organisaties.overheid.nl/27465436/www.noardeast-fryslan.nl; exact adres Roptawei 14 met bijeenkomstfunctie, 14A/B/C zijn andere objecten. City genormaliseerd naar Mitselwier voor PDOK, ID met Metslawier blijft stabiel. Nog geen marker zonder exacte match."
     },
     {
       "id": "hcr-t-raedhus-dokkum-20261031",
