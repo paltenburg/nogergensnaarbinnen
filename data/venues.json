@@ -11845,7 +11845,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Exploitantenberichten uit september/oktober 2026 noemen expliciet bier, tap, kroegbezoek en een gratis openbare kroegentocht op 13 november. Bron is een spiegel van sociale berichten, geen onafhankelijke live drankkaart.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -11858,13 +11858,14 @@
       },
       "closing_quality": "Onbekend; officiële site geeft alleen begintijden",
       "closing_source": "https://www.deskoffel.nl/Contact",
-      "closing_notes": "Eigen website 30-10-2026 noemt de zaak Café De Skoffel (oude inventarisatienaam 't Skoffeltsje), Nieuwstraat 3, dagelijks geopend: ma-vr vanaf 14:00, za/zo vanaf 12:00. Eindtijden en laatste toegang niet gepubliceerd; weekend- en feestdagopeningen kunnen eerder zijn.",
+      "closing_notes": "Eigen website 30-10-2026 noemt de zaak Café De Skoffel (oude inventarisatienaam 't Skoffeltsje), Nieuwstraat 3, dagelijks geopend: ma-vr vanaf 14:00, za/zo vanaf 12:00. Eindtijden en laatste toegang niet gepubliceerd; weekend- en feestdagopeningen kunnen eerder zijn. 02-11-2026: op de spiegel van exploitantenberichten staan posts van 07-09-2026 (bier en bar), 02/15-10-2026 (darts) en 15-10-2026 (aankondiging gratis live kroegentocht 13-11). Dit ondersteunt exploitatie en publieke alcoholinloop in 2026, maar bevat GEEN regulier sluituur of laatste toegang; die blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.deskoffel.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/heerenveen",
         "https://www.deskoffel.nl/",
-        "https://www.deskoffel.nl/Contact"
+        "https://www.deskoffel.nl/Contact",
+        "https://www.bars10.com/NL/Heerenveen/267825593238731/Cafe-De-Skoffel"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11873,7 +11874,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwstraat 3, 8441GC Heerenveen"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "14:00",
         "di": "14:00",
