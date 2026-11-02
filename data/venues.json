@@ -35950,6 +35950,59 @@
       ],
       "original_status": "Primaire caféwebsite publiceert openbare borrel, alcohol en volledige weekuren; exacte BAG-marker en laatste toegang nog niet geverifieerd.",
       "features": "D0 Leeuwarden / Camminghaburen; buurthoreca; maandag 22:00, overige late avonden tot 01:00"
+    },
+    {
+      "id": "cafe-de-peer-gorredijk-20261102",
+      "name": "Café De Peer",
+      "type": "Dorpscafé / muziekcafé / dartscafé",
+      "address": "Hoofdstraat 70",
+      "city": "Gorredijk",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke kroeg bevestigd door VisitGorredijk en 2026-concertagenda met gratis entree; losse inloop voor drankje aannemelijk, geen maaltijd- of ticketplicht voor reguliere caféfunctie vermeld.",
+      "alcohol": "Café- en drankexploitatie bevestigd via KvK (SBI 56300); lokale roséproeverij en dartslocatie met dranken bevestigen alcoholfunctie. Actuele volledige drankenkaart onbekend.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Geen eigen actueel weekrooster gevonden; oude Compagnon-uren gelden niet voor nieuwe exploitant.",
+      "closing_quality": "Externe bronnen geven uiteenlopende tijden; niet als feit overgenomen. Laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: https://www.grootsa.nl/nieuws/ondernemen/98436/cafe-de-peer-nieuwe-naam-voor-de-compagnon bevestigt naams-/exploitantenwisseling in 2023 van De Compagnon naar De Peer op Hoofdstraat 70; geen tweede café op dit adres. KvK-afgeleide https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-peer-gorredijk-91570247-000057239320 toont bedrijf op 70 actief in 2026. https://www.grootsa.nl/agenda/2026/1/10/northmen-in-cafe-de-peer-122834 bevestigt 10-01-2026 openbare livemuziek, entree gratis; https://rondevangorredijk.nl/sponsors/ bevestigt terras/drank tijdens 07-06-2026 evenement. https://www.visitgorredijk.nl/horeca-in-gorredijk noemt het café als publieke uitgaansplek. RestaurantGuru toont vr 16–02, za 20–03, zo 16–20 maar is niet primair; geen reguliere uren overgenomen. Uitgaanskaart noemt huisnummer 71, terwijl KvK en evenement 70 bevestigen; geocode blokkeren tot adres-/publieksingangcontrole. Laatste toegang onbekend.",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Gericht gezocht op nieuwe naam en oude cafedecompagnon.nl; geen aantoonbare actuele eigen officiële website gevonden.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.visitgorredijk.nl/horeca-in-gorredijk",
+        "https://www.grootsa.nl/nieuws/ondernemen/98436/cafe-de-peer-nieuwe-naam-voor-de-compagnon",
+        "https://www.grootsa.nl/agenda/2026/1/10/northmen-in-cafe-de-peer-122834",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-peer-gorredijk-91570247-000057239320",
+        "https://rondevangorredijk.nl/sponsors/",
+        "https://dartsgids.nl/locaties/cafe-de-peer/",
+        "https://nl.restaurantguru.com/amp/Compagnon-Gorredijk-Gorredijk"
+      ],
+      "original_status": "Actuele exploitatie en publiek cafégebruik in 2026 aangetoond, maar eigen site, weekuren en laatste toegang ontbreken.",
+      "features": "D0 Opsterland / Gorredijk; opvolger van De Compagnon (2023), niet dubbel toevoegen; terras en livemuziek",
+      "geocode_blocked": true,
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "KvK en concertagenda: Hoofdstraat 70; Uitgaanskaart noemt Hoofdstraat 71. Geen exacte BAG-marker aannemen zonder bevestiging van publieksingang."
     }
   ],
   "admission_policies": [
