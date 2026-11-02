@@ -21,6 +21,8 @@ function check(center, selectedRegion) {
       {region:'utrecht', geo:{lat:52.0907, lon:5.1214}},
       {region:'friesland', geo:{lat:53.0337, lon:5.6651}},
       {region:'friesland', geo:null}, // never infer missing coordinates
+      {region:'friesland', geo:{lat:null, lon:5.7}}, // null is not latitude zero
+      {region:'friesland', geo:{lat:0, lon:5.7}, duplicate_of:'old'}, // aliases are not sites
     ],
   };
   const map = {
@@ -40,9 +42,11 @@ assert.equal(check([52.0907,5.1214], 'friesland').region, 'utrecht',
   'panning back must switch to Utrecht');
 assert.equal(check([50.0,4.0], 'utrecht').region, null,
   'unknown distant areas must not be assigned to a region');
+assert.equal(check([0,5.7], 'utrecht').region, null,
+  'missing latitudes and duplicate aliases must not create phantom map regions');
 assert.equal(JSON.stringify(check([53.0337,5.6651], 'utrecht').padding),
   JSON.stringify({left:18,right:18,top:18,bottom:18}),
   'no viewport-relative header or card offsets: map itself is unobstructed');
 assert.ok(helpers.includes('map.getCenter()'), 'use true Leaflet map centre');
 assert.ok(!helpers.includes('containerPointToLatLng('), 'avoid viewport offset drift');
-console.log('Map region regressions: 6 assertions passed (synthetic map, not live mobile UI).');
+console.log('Map region regressions: 7 assertions passed (synthetic map, not live mobile UI).');
