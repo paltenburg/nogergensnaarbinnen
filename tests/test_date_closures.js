@@ -91,3 +91,30 @@ assert.equal(brink.selection, 'Nog te controleren',
   'announced reopening cannot make an unverified venue visible');
 
 console.log('Date closure boundary tests passed');
+
+
+// Friesland D0: a seasonal brasserie must not leak winter hours into summer.
+// A tasting room's shop hours must never be substituted for bar opening.
+const stadstuin = byId('brasserie-de-stadstuin-franeker-20261102');
+const usHeit = byId('proeflokaal-us-heit-bolsward-20261102');
+const poort = byId('hotel-restaurant-poort-van-franeker-20261102');
+assert.equal(stadstuin.requires_date_schedule, true);
+assert.ok(scheduleFor(stadstuin, '2026-11-02'));
+assert.equal(field(stadstuin, 'opening', 'ma', '2026-11-02'), '—');
+assert.equal(field(stadstuin, 'opening', 'di', '2026-11-03'), '10:00');
+assert.equal(field(stadstuin, 'closing', 'zo', '2027-03-28'), '17:00');
+assert.ok(scheduleFor(stadstuin, '2027-03-31'));
+assert.equal(scheduleFor(stadstuin, '2027-04-01'), null,
+  'Stadstuin spring hours are not verified as a dated schedule');
+assert.equal(usHeit.opening.za, '14:30');
+assert.equal(usHeit.closing.za, '18:00');
+for (const day of ['ma','di','wo','do','vr','zo']) {
+  assert.equal(usHeit.opening[day], '?',
+    'Brewery shop hours must not be treated as tasting-room hours');
+  assert.equal(usHeit.closing[day], '?');
+}
+assert.equal(poort.selection, 'Nog te controleren',
+  'Poort Franeker remains hidden without evidence of alcohol service');
+assert.equal(poort.opening.ma, '?',
+  'Missing Monday operator hours do not establish a closure');
+console.log('Franeker winter schedule, Bolsward tasting-room hours and alcohol gating verified.');
