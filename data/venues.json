@@ -38035,7 +38035,16 @@
         "https://www.friesland.nl/nl/locaties/2138766705/de-stadsherberg",
         "https://www.restaurants.nl/franeker/de-stadsherberg/plattegrond"
       ],
-      "original_status": "Actuele officiële website bevestigt publieke borrel en adres; expliciet alcoholaanbod en exacte weekuren niet bevestigd."
+      "original_status": "Actuele officiële website bevestigt publieke borrel en adres; expliciet alcoholaanbod en exacte weekuren niet bevestigd.",
+      "geo": {
+        "lat": 53.1862473,
+        "lon": 5.5485901,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Oud Kaatsveld 8, 8801AB Franeker"
+      },
+      "geocode_source": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-adresmatch Oud Kaatsveld 8, 8801AB Franeker uit gedownload geslaagd GitHub Pages-artefact run 41501834219 (757 records), ID/straat/nummer/postcode/plaats geverifieerd; BAG bewijst geen entree of alcoholinloop."
     }
   ],
   "admission_policies": [
