@@ -1,6 +1,12 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
 
+### Testcheckpoint 02-11-2026 circa 03:36 CET — 46 echte dataset-/datumasserties geslaagd
+
+Na de vorige writes de **actuele** `scripts/date_closures.js` rechtstreeks uit GitHub opgehaald, de module daadwerkelijk in een JavaScript-isolaat uitgevoerd tegen de **actuele 723-record master** (blob `91d932a3fa6bca874e559c8406ccb60e9fd28fcb`). **46/46 asserties geslaagd**: Danel vijf feestdagensluitingen en vier niet-sluitingsgrenzen; It Holt acht gesloten kerstdagen en twee niet-sluitingsgrenzen; Manners zeven dagvelden plus drie begintijden; VINO vijf beginuren en vijf onbekende einduren; De Dames vijf beginuren; Danel gewone wo/za buiten de uitzonderingen. GitHub teruglezing bevestigt 723 unieke IDs, 499 Friesland/224 Utrecht, 656 mastergeo, 67 zonder; beide nieuwe regressies staan in het testbestand, beide checkpoints in TODO. Dit is **wel uitgevoerde gerichte JavaScript-test van de echte module**, maar **niet** de volledige Node/Python-test-suite of de GitHub Actions/Pages-deployment. Commit-statusendpoint gaf geen statuschecks terug; geen CI-succes afleiden. Echte mobiele bediening en live HTTP niet getest. **Volgende run:** CI/Pages verifiëren, vervolgens D0 Friesland en na 10:00 W45 per regio.
+
+
+
 ### Aanvullend checkpoint 02-11-2026 circa 03:35 CET — Friesland It Holt kerstsluiting en De Dames startuur
 
 **Na voorgaand Utrecht-checkpoint doorgewerkt:** twee reeds bestaande Friese records opnieuw rechtstreeks aan primaire sites getoetst; 0 locaties toegevoegd, 0 geocodes, **2 records aangepast**. Mastercommit [7c7a518](https://github.com/paltenburg/nogergensnaarbinnen/commit/7c7a5185574d8636a95b06d44a68211bd606fdc8); regressiecommit [0c18448](https://github.com/paltenburg/nogergensnaarbinnen/commit/0c1844889ee940a1c7e57d522f6bb4f4631d5511). Master-JSON geparseerd, 723/723 IDs uniek, bestaande IDs en geo behouden; geen onzekere vrije inloop gepromoveerd.
