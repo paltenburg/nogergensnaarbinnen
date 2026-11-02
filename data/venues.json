@@ -37986,9 +37986,15 @@
       "features": "D0 Waadhoeke / Franeker; loungeborrel-kandidaat, actuele drankinloop nog te bevestigen",
       "other_sources": [
         "https://www.friesland.nl/nl/locaties/4186854179/cheung-kwong",
-        "https://bestellen.cheungkwong.nl/"
+        "https://bestellen.cheungkwong.nl/",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-restaurants/cheung-kwong-franeker-72836520-000019135327",
+        "https://companyinfo.nl/organisatieprofiel/vermogensbeheer/chinees-indisch-restaurant-cheung-kwong-b-v-franeker-01046724-000040921980",
+        "https://historischcentrumfraneker.nl/panden/a681-zilverstraat-5-2/"
       ],
-      "original_status": "Officiële site toont actuele exploitatie en alcoholverkoop via bestelsysteem; vrije borrel en on-site alcoholaanbod nog niet bewezen."
+      "original_status": "Officiële site toont actuele exploitatie en alcoholverkoop via bestelsysteem; vrije borrel en on-site alcoholaanbod nog niet bewezen.",
+      "geocode_blocked": true,
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exploitant https://bestellen.cheungkwong.nl/contact en VVV https://www.friesland.nl/nl/locaties/4186854179/cheung-kwong geven entree-adresbereik Zilverstraat 3-5. PDOK-geocoderapport 757 records meldt no-number-or-unparseable-address. KvK-afgeleide https://companyinfo.nl/organisatieprofiel/exploitatie-van-restaurants/cheung-kwong-franeker-72836520-000019135327 geeft VOF Cheung Kwong op nr. 3 (actuele horeca), terwijl https://companyinfo.nl/organisatieprofiel/vermogensbeheer/chinees-indisch-restaurant-cheung-kwong-b-v-franeker-01046724-000040921980 de B.V. op nr. 5 als vermogensbeheer toont. Historisch Centrum Franeker https://historischcentrumfraneker.nl/panden/a681-zilverstraat-5-2/ beschrijft restaurant nr. 5 en start op nr. 3. Beide nummers hebben een verband, maar fysieke publieke entree is niet aangetoond; geen van beide als exacte marker gekozen. Verifieer ingang bij exploitant of actuele foto met adres."
     },
     {
       "id": "hotel-restaurant-de-stadsherberg-franeker-20261102",
