@@ -450,4 +450,22 @@ assert.equal(eligible(byId('brasserie-braam-harlingen-20261101')),true,
   'Braam Thursday is publicly accessible from 15:00');
 state.after='';state.date='';state.day='vr';
 
+// A documented door-closing deadline is not proof that the venue is still
+// open at an earlier time when its actual closing hour is unknown.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-06';state.day='vr';
+state.after='23:00';
+assert.equal(timedEligible(byId('cafe-de-lantaarn-dokkum-20261031')),false,
+  'Lantaarn Friday door closes by 02:00 but actual bar closing is unknown');
+state.after='21:00';
+assert.equal(timedEligible(byId('cafe-de-lantaarn-dokkum-20261031')),false,
+  'an upper bound on last entry does not establish 21:00 opening');
+state.date='2026-11-02';state.day='ma';state.after='21:00';
+assert.equal(timedEligible(byId('cafe-de-lantaarn-dokkum-20261031')),true,
+  'verified Monday 22:00 closing still supports arrival at 21:00');
+state.after='22:00';
+assert.equal(timedEligible(byId('cafe-de-lantaarn-dokkum-20261031')),false,
+  'verified Monday closing itself is not a valid arrival');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
