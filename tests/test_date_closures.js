@@ -108,13 +108,19 @@ assert.equal(scheduleFor(stadstuin, '2027-04-01'), null,
   'Stadstuin spring hours are not verified as a dated schedule');
 assert.equal(usHeit.opening.za, '14:30');
 assert.equal(usHeit.closing.za, '18:00');
-for (const day of ['ma','di','wo','do','vr','zo']) {
-  assert.equal(usHeit.opening[day], '?',
-    'Brewery shop hours must not be treated as tasting-room hours');
-  assert.equal(usHeit.closing[day], '?');
+for (const day of ['ma','di','wo','do','zo']) {
+  assert.equal(usHeit.opening[day], '—', 'tasting room explicitly closed '+day);
+  assert.equal(usHeit.closing[day], '—');
 }
+assert.equal(usHeit.opening.vr, '?', 'unverified Friday outside dated seasons');
+assert.equal(field(usHeit, 'opening', 'vr', '2026-11-06'), '—', 'winter Friday closed');
+assert.equal(field(usHeit, 'closing', 'vr', '2027-03-26'), '—', 'winter Friday closed');
+assert.equal(field(usHeit, 'opening', 'vr', '2027-04-02'), '14:30', 'summer Friday tasting room');
+assert.equal(field(usHeit, 'closing', 'vr', '2027-08-27'), '18:00', 'summer Friday closes 18:00');
+assert.equal(field(usHeit, 'opening', 'vr', '2027-09-03'), '?', 'no unsupported next-season assumption');
+assert.equal(field(usHeit, 'opening', 'za', '2027-04-03'), '14:30');
 assert.equal(poort.selection, 'Nog te controleren',
   'Poort Franeker remains hidden without evidence of alcohol service');
-assert.equal(poort.opening.ma, '?',
-  'Missing Monday operator hours do not establish a closure');
+assert.equal(poort.opening.ma, '—', 'operator explicitly confirms Monday closure');
+assert.equal(poort.closing.ma, '—');
 console.log('Franeker winter schedule, Bolsward tasting-room hours and alcohol gating verified.');
