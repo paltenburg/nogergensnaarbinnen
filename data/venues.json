@@ -10487,7 +10487,7 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend. | 01-11-2026: https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 geven dezelfde gidsuren, maar https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ wijkt af (zo gesloten, wo tot 23). Geen eigen bron of recente onafhankelijke exploitatiebevestiging. Niet verwarren met lunchroom De Tweeling, Herenwaltje 20, https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling. Standaard verborgen tot exploitant/alcohol/inloop bevestigd.",
+      "closing_notes": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en AlleBiz https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 noemen ma/di dicht, wo–zo 16:00–00:00. https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ noemt zo gesloten en wo tot 23:00. Geen actuele eigen website of onafhankelijk bewijs van exploitatie in 2026; conflicterende tijden niet overgenomen. Laatste toegang onbekend. | 01-11-2026: https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html en https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388 geven dezelfde gidsuren, maar https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/ wijkt af (zo gesloten, wo tot 23). Geen eigen bron of recente onafhankelijke exploitatiebevestiging. Niet verwarren met lunchroom De Tweeling, Herenwaltje 20, https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling. Standaard verborgen tot exploitant/alcohol/inloop bevestigd. 02-11-2026: https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/nieuwestad/225048/cafe-de-twin meldt historische KvK-inschrijving 01053741 op Nieuwesteeg 2 niet langer actief. https://drimble.nl/bedrijf/leeuwarden/2828863/cafe-de-twin.html vermeldt vestiging 000002828863 opgeheven; dezezelfde vestiging staat nog in ongedateerde https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html met weekuren. Opheffing oude exploitant bewijst geen leeg pand of afwezigheid opvolger; geen actuele heropening bewezen, dus verborgen en gidsuren niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
@@ -10495,16 +10495,18 @@
         "https://www.cylex.nl/bedrijf/caf%C3%A9-de-twin-11786745.html",
         "https://www.allebiz.nl/caf%C3%A9-de-twin-058-213-8388",
         "https://restaurant-cafe-bar.nl/leeuwarden/cafe-de-twin/",
-        "https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling"
+        "https://visitleeuwarden.com/en/locaties/3490766281/de-tweeling",
+        "https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/nieuwestad/225048/cafe-de-twin",
+        "https://drimble.nl/bedrijf/leeuwarden/2828863/cafe-de-twin.html"
       ],
-      "original_status": "01-11-2026: gids-/registervermeldingen, maar actuele exploitatie, vrije alcoholborrel en baruren niet rechtstreeks bevestigd. Standaard verborgen.",
+      "original_status": "Historische inschrijving van de oude Café De Twin is opgeheven volgens KvK-afgeleide bronnen. Actuele exploitant, heropening en publiek weekrooster onbevestigd; niet als open tonen.",
       "geo": {
         "lat": 53.2013339,
         "lon": 5.7932901,
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwesteeg 2, 8911DT Leeuwarden"
       },
-      "checked_on": "2026-11-01"
+      "checked_on": "2026-11-02"
     },
     {
       "id": "grand-cafe-de-brass-leeuwarden-c11a15b",
@@ -10567,8 +10569,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Publiek bruin café volgens bezoekersreacties en recente bedrijfsregistratie; vrije inloop op een specifieke avond en actuele openingstijden niet rechtstreeks bij exploitant geverifieerd.",
+      "alcohol": "Bezoekersrecensies vermelden bier, maar geen actuele exploitanten-drankkaart; reguliere alcoholinloop niet rechtstreeks bevestigd.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -10581,23 +10583,25 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "https://www.allebiz.nl/the-rooster vermeldt Cafe Us Mem Bij de Put 6 als gesloten (historische uren). https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem beschrijft zaak als actief en geeft 16:00–02:00 / weekend 03:00, maar is geen bedrijfseigen bron; https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4 vermeldt afwijkend vr/za 19:00–01:00. Status en tijden tegenstrijdig, geen sluiting of heropening bewezen; uit standaardresultaten tot verificatie.",
+      "closing_notes": "https://www.allebiz.nl/the-rooster vermeldt Cafe Us Mem Bij de Put 6 als gesloten (historische uren). https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem beschrijft zaak als actief en geeft 16:00–02:00 / weekend 03:00, maar is geen bedrijfseigen bron; https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4 vermeldt afwijkend vr/za 19:00–01:00. Status en tijden tegenstrijdig, geen sluiting of heropening bewezen; uit standaardresultaten tot verificatie. 02-11-2026: https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-us-mem-leeuwarden-84508965-000050623931 geeft KvK-bron 24-03-2026 voor handelsnaam Café Us Mem, SBI 56300 op postcode 8911GG; dit ondersteunt recente registratie maar bewijst geen daadwerkelijke dagopening. https://nl.restaurantguru.com/The-Rooster-Leeuwarden toont in 2026 bezoekersreacties en recente exploitantreacties; sterkere aanwijzing voor lopende zaak, maar niet voor een specifiek weekrooster. Historische 'gesloten' https://www.allebiz.nl/the-rooster kan verouderd zijn. Actuele eigen weekuren ontbreken, geen automatische promotie.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.allebiz.nl/the-rooster",
         "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/cafe-us-mem",
-        "https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4"
+        "https://www.waze.com/live-map/directions/nl/fr/leeuwarden/cafe-us-mem%F0%9F%8D%BA?to=place.ChIJ99Cm1sP_yEcRhTkrbBleEw4",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-us-mem-leeuwarden-84508965-000050623931",
+        "https://nl.restaurantguru.com/The-Rooster-Leeuwarden"
       ],
-      "original_status": "Tegenstrijdige gesloten-vermelding en actuele gidsen op 30-10-2026; bedrijfseigen bevestiging ontbreekt.",
+      "original_status": "Recente 2026 KvK-registratie en exploitantreacties bij bezoekersreviews ondersteunen voortgezette exploitatie, maar eigen actuele weekuren en toegang ontbreken; verborgen tot bevestiging.",
       "geo": {
         "lat": 53.2039926,
         "lon": 5.7985409,
         "method": "PDOK BAG-adres",
         "matched_address": "Bij de Put 6, 8911GG Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-02"
     },
     {
       "id": "cafe-de-rus-leeuwarden-9df98c2",
