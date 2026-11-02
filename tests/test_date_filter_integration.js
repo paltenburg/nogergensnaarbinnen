@@ -500,4 +500,15 @@ assert.equal(byId('skybar-wtc-leeuwarden-20261102').geocode_blocked,true,
   'conflicting 32/52 WTC hotel address must not be auto-geocoded');
 state.after='';state.date='';state.day='vr';
 
+// Café De Rus verified opening at 16:00 does not establish a closing time.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-06';state.day='vr';
+state.after='';
+assert.equal(eligible(byId('cafe-de-rus-leeuwarden-9df98c2')),true,
+  'Café De Rus appears in untimed results with its verified daily start');
+state.after='16:30';
+assert.equal(timedEligible(byId('cafe-de-rus-leeuwarden-9df98c2')),false,
+  'Café De Rus unknown closing cannot prove arrival after 16:30');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
