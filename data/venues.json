@@ -13356,8 +13356,8 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Bar vermeld in actuele gidsen op Heiligeweg 26; eigen exploitantwebsite niet gevonden.",
-      "alcohol": "Alcoholaanbod volgens barcategorie; geen eigen actuele drankkaart.",
+      "access": "2026-KvK-bron en gemeentelijke speelautomatenvergunning (03-12-2025) koppelen Café The Pub aan Harlingen/Heiligeweg 26; feitelijke vrije publieke inloop in november 2026 niet afzonderlijk bewezen.",
+      "alcohol": "KvK classificeert exploitatie van drinkgelegenheden; specifieke actuele alcoholkaart en verkoopmomenten niet primair bevestigd.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -13370,12 +13370,14 @@
       },
       "closing_quality": "Gidsen tonen tegenstrijdige uren; geen primair rooster",
       "closing_source": "https://eetgerust.nl/restaurant/cafe-the-pub-public-underground-bar-harlingen",
-      "closing_notes": "Gids https://mymenuweb.com/nl/restaurants/561066/ noemt woensdag 15–03 en donderdag 15–22; https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/ noemt woensdag 15–22 en donderdag 15–03. Geen eigen website of onafhankelijk huidig bedrijfsbewijs gevonden; selectie Nog te controleren, weekuren/laatste toegang onbekend.",
+      "closing_notes": "Gids https://mymenuweb.com/nl/restaurants/561066/ noemt woensdag 15–03 en donderdag 15–22; https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/ noemt woensdag 15–22 en donderdag 15–03. Geen eigen website of onafhankelijk huidig bedrijfsbewijs gevonden; selectie Nog te controleren, weekuren/laatste toegang onbekend. | 02-11-2026: gemeente verleende 03-12-2025 een speelautomatenvergunning voor Café The Pub op Heiligeweg 26; Company.info toont KvK-bron 24-03-2026 (SBI 56300). Dit versterkt de exploitatie-indicatie maar bewijst geen feitelijke opening op een specifieke avond. Gidsen spreken elkaar tegen over woensdag/donderdag (22:00 versus 03:00); weekrooster, laatste toegang en actuele eigen website blijven onbekend. Niet automatisch zichtbaar gemaakt.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://mymenuweb.com/nl/restaurants/561066/",
-        "https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/"
+        "https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/",
+        "https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-49-2025",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-the-pub-harlingen-71124039-000039336158"
       ],
       "original_status": "Gidsvermelding zonder actuele exploitantverificatie.",
       "geo": {
@@ -13384,7 +13386,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Heiligeweg 26, 8861EA Harlingen"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -13498,7 +13500,7 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Regionale VVV beschrijft openbare bar, maar oorspronkelijke KvK-onderneming is niet langer actief; opvolger onduidelijk.",
+      "access": "Regionale VVV beschrijft openbare caféfunctie en alcohol; gemeentelijke speelautomatenvergunning voor 2026 is verleend op Voorstraat 86. Actuele dagelijkse vrije inloop niet rechtstreeks gecontroleerd.",
       "alcohol": "Regionale VVV vermeldt expliciet bier, wijn en gedistilleerd.",
       "selection": "Nog te controleren",
       "closing": {
@@ -13512,12 +13514,14 @@
       },
       "closing_quality": "Geen primair weekrooster; actuele exploitatie niet eenduidig",
       "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal",
-      "closing_notes": "VVV 30-10-2026 toont café en alcohol op Voorstraat 86, maar Oozo https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal vermeldt oude KvK 01113731 niet langer actief. Geen actueel ondernemingsbewijs/uitbater bevestigd. Geen uren of laatste toegang overgenomen; voor hercontrole.",
+      "closing_notes": "VVV 30-10-2026 toont café en alcohol op Voorstraat 86, maar Oozo https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal vermeldt oude KvK 01113731 niet langer actief. Geen actueel ondernemingsbewijs/uitbater bevestigd. Geen uren of laatste toegang overgenomen; voor hercontrole. | 02-11-2026: gemeentelijke bekendmaking 14-11-2025 meldt verleende speelautomatenvergunning voor kalenderjaar 2026 voor Café den Smeerpaal, Voorstraat 86. FDB registreert dezelfde café-locatie, zonder komende activiteiten. Oude opgeheven KvK-inschrijving blijft een conflict; vergunning bewijst niet zelfstandig feitelijke novemberexploitatie of weekuren. Gidsuren 15–22/00 niet overgenomen; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal",
-        "https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal"
+        "https://www.oozo.nl/bedrijven/harlingen/harlingen/binnenstad/225348/cafe-den-smeerpaal",
+        "https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-46-2025",
+        "https://www.fdbdarts.nl/locations/cafe-den-smeerpaal-harlingen/"
       ],
       "original_status": "VVV-locatie en historische niet-actieve KvK botsen; actuele status onbekend.",
       "geo": {
@@ -13526,7 +13530,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Voorstraat 86, 8861BP Harlingen"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
