@@ -36708,9 +36708,9 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "selection": "Nog te controleren",
+      "selection": "Voorlopig",
       "access": "Eigen Neushoorn-cafépagina: reguliere vrije inloop do/vr 17:00–00:00, za 17:00–22:00. Zaterdag na 22:00 verandert het café in een nachtclub; entreeprijs en toegang verschillen per evenement. Overige dagen uitsluitend evenementafhankelijk.",
-      "alcohol": "Exploitant bevestigt op https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept (2026) dat het café uitsluitend drank verkoopt en onder meer lokaal gebrouwen dranken aanbiedt; eigen cafépagina noemt borrelen. Een expliciete actuele reguliere bier-/wijnkaart of concrete alcoholsoort ontbreekt nog; daarom selectie 'Nog te controleren' behouden.",
+      "alcohol": "Partneraanbieding voor Neushoorn Café, geldig tot 13-06-2026, vermeldt expliciet tapbier en huiswijn: https://www.spontanessen.de/sv-se/restaurants/neushoorn-cafe/geniet-van-een-vegetarisch-borrelarrangement-bij-neushoorn-cafe-in-hartje-leeuwarden-met-vegan-bitterballen-rucola-kaaskroketjes-vegan-gyoza-2-glazen-tapbier-huiswijn-of-frisdrank-en-meer-feb-2026-friesland/ . Eigen conceptbericht 01-07-2026 bevestigt voortzetting van drankverkoop na de conceptwijziging, waaronder lokaal gebrouwen dranken: https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept . Dit onderbouwt alcoholverstrekking in 2026, maar de specifieke huidige bier-/wijnkaart en laatste toegang zijn niet geverifieerd; daarom Voorlopig.",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -36736,7 +36736,7 @@
       "checked_on": "2026-11-02",
       "opening_quality": "Eigen actuele cafépagina geeft do/vr 17:00–00:00 en za 17:00–22:00; eigen contactpagina zegt vanaf 16:00, daarom conservatieve 17:00. Geen reguliere ma/di/wo/zo-opening, wel losse evenementen.",
       "closing_quality": "Eigen actuele cafépagina geeft gratis toegang tot za 22:00, daarna eventueel betaalde nachtclub; de clubsluiting is niet als gewone gratis cafésluiting gebruikt.",
-      "closing_notes": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend. | 02-11-2026: eigen 2026-conceptbericht https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept opnieuw gecontroleerd: in het café worden alleen dranken verkocht, waaronder lokaal gebrouwen dranken; externe restaurants verzorgen het eten. Dit versterkt de drankfunctie, maar noemt niet ondubbelzinnig een specifieke alcoholische drank op de gewone cafékaart; kandidaat blijft verborgen tot direct alcoholbewijs.",
+      "closing_notes": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend. | 02-11-2026: eigen 2026-conceptbericht https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept opnieuw gecontroleerd: in het café worden alleen dranken verkocht, waaronder lokaal gebrouwen dranken; externe restaurants verzorgen het eten. Dit versterkt de drankfunctie, maar noemt niet ondubbelzinnig een specifieke alcoholische drank op de gewone cafékaart; kandidaat blijft verborgen tot direct alcoholbewijs. | 02-11-2026 aanvullende controle: partneraanbieding met twee glazen tapbier of huiswijn geldig t/m 13-06-2026; eigen 01-07-2026 conceptbericht bevestigt voortzetting drankverkoop, eigen https://www.neushoorn.nl/cafe bevestigt vrije inloop do/vr 17–00 en za 17–22. Op basis van samenhang bronnen van verborgen naar Voorlopig, niet als 100%-actueel drankassortiment bewezen. Neushoorn Bunker Bar op hetzelfde adres is afzonderlijke binnenbar; geen duplicaat toegevoegd. https://www.neushoorn.nl/bunkerbar vermeldt tegenstrijdig 'vanaf 19:30' versus ma–do 19–00; geen baruren in dit caférecord overgenomen.",
       "features": "Gratis poppodiumcafé do–za; na za 22:00 evenementafhankelijk/ticket; reguliere alcoholkaart te verifiëren",
       "website": "https://www.neushoorn.nl/cafe",
       "website_checked_on": "2026-11-02",
@@ -36745,7 +36745,9 @@
         "https://www.neushoorn.nl/contact",
         "https://www.neushoorn.nl/nieuws/cafe-gratis-toegankelijk-hal-elke-avond-open",
         "https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept",
-        "https://www.neushoorn.nl/events/bierfestival-feb"
+        "https://www.neushoorn.nl/events/bierfestival-feb",
+        "https://www.spontanessen.de/sv-se/restaurants/neushoorn-cafe/geniet-van-een-vegetarisch-borrelarrangement-bij-neushoorn-cafe-in-hartje-leeuwarden-met-vegan-bitterballen-rucola-kaaskroketjes-vegan-gyoza-2-glazen-tapbier-huiswijn-of-frisdrank-en-meer-feb-2026-friesland/",
+        "https://www.neushoorn.nl/bunkerbar"
       ],
       "original_status": "Huidige publieke exploitatie, gratis toegangsvensters en weekuren bevestigd; regulier alcoholaanbod onvoldoende rechtstreeks bewezen.",
       "geo": {
