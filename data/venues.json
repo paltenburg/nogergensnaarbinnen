@@ -29490,17 +29490,18 @@
       },
       "opening_source": "https://www.ducoleeuwarden.nl/nl",
       "closing_source": "https://www.ducoleeuwarden.nl/nl",
-      "opening_checked_on": "2026-10-31",
-      "closing_checked_on": "2026-10-31",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
       "website_checked_on": "2026-10-31",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "closing_quality": "Nederlandstalige exploitant-homepage vermeldt ma–zo 10:00–23:00. Duitstalige versie noemt ma–za; zondag apart bij exploitant verifiëren.",
-      "closing_notes": "31-10-2026: Nederlandse eigen homepage ma–zo 10:00–23:00; aparte restaurantpagina noemt diner 17–22 en vooraf reserveren, niet als baruren of laatste toegang gebruiken. Duitse taalversie laat zondag weg; zondag 10–23 is Nederlands primair, maar expliciet conflicterend taalversieveld. Feestdagen kunnen afwijken; laatste toegang onbekend.",
+      "closing_notes": "31-10-2026: Nederlandse eigen homepage ma–zo 10:00–23:00; aparte restaurantpagina noemt diner 17–22 en vooraf reserveren, niet als baruren of laatste toegang gebruiken. Duitse taalversie laat zondag weg; zondag 10–23 is Nederlands primair, maar expliciet conflicterend taalversieveld. Feestdagen kunnen afwijken; laatste toegang onbekend. | 02-11-2026: hercontrole: eigen individuele https://www.ducoleeuwarden.nl/nl vermeldt ma–zo 10:00–23:00 en keuken 12:00–21:00; Fletcher https://www.fletcher.nl/nl/restaurants/overzicht/ vermeldt 07:00–23:00, mogelijk hotelontbijt. Veilig 10:00 behouden voor publieke borrel, 23:00 ongewijzigd; geen laatste toegang.",
       "features": "Hofplein; vrije borrel, cocktails, wijn en bites; restaurant en hotel",
       "website": "https://www.ducoleeuwarden.nl/nl",
       "other_sources": [
         "https://www.ducoleeuwarden.nl/nl/uit-eten-leeuwarden",
-        "https://www.ducoleeuwarden.nl/de/"
+        "https://www.ducoleeuwarden.nl/de/",
+        "https://www.fletcher.nl/nl/restaurants/overzicht/"
       ],
       "original_status": "Nederlandstalige exploitantwebsite gecontroleerd 31-10-2026; borrel en ma–zo-uren bevestigd, zondagversieconflict gemarkeerd.",
       "geo": {
@@ -36269,6 +36270,204 @@
       "geocode_notes": "KvK-afgeleide registratie 2026 noemt Zuidkade 73 voor horeca; dezelfde onderneming vermeldt op Staalfabriq.nl Het Gangboord 29 als bedrijfsadres. Geen geocode van mogelijk historische bar zonder bevestigde actuele publieksingang.",
       "checked_on": "2026-11-02",
       "original_status": "Actuele KvK-registratie en overnameadvertentie, maar geen onafhankelijke bevestiging van werkelijke novemberexploitatie; verborgen."
+    },
+    {
+      "id": "loetje-leeuwarden-20261102",
+      "name": "Loetje Leeuwarden",
+      "type": "Restaurant / borrel",
+      "address": "Stationsweg 2",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen vestigingspagina nodigt uit voor een afzonderlijke borrel of drankje, naast lunch en diner. Voor grotere groepen wordt reserveren gevraagd; gewone drankinloop niet als uitsluitend maaltijdgebonden beschreven.",
+      "alcohol": "Eigen Loetje-drankenkaart 2026 noemt onder andere wijnen per glas en bieren met alcohol.",
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "closing": {
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "21:30",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "21:00"
+      },
+      "opening_source": "https://www.loetje.nl/locaties/leeuwarden/",
+      "closing_source": "https://www.loetje.nl/locaties/leeuwarden/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Exploitant toont dagelijks 11:30 als opening van de vestiging; geen afzonderlijke barstart geclaimd.",
+      "closing_quality": "Exploitant toont ma–wo/zo 21:00 en do–za 21:30 als vestigingssluiting; laatste toegang niet gepubliceerd.",
+      "closing_notes": "02-11-2026: officiële Loetje Leeuwarden-vestigingspagina gecontroleerd. Borrel/drankje wordt expliciet als zelfstandig bezoek genoemd; 2026-drankenkaart bevestigt alcohol. Feestdaguren 25/26/31 december 2026 en Nieuwjaarsdag 2027 zijn afzonderlijk als gedateerde afwijkingen vastgelegd, niet als jaarrooster. Laatste toegang onbekend; reserveringsbeschikbaarheid geen garantie op vrije plek.",
+      "date_schedules": [
+        {
+          "start": "2026-12-25",
+          "end": "2026-12-25",
+          "source": "https://www.loetje.nl/locaties/leeuwarden/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "12:00",
+            "di": "12:00",
+            "wo": "12:00",
+            "do": "12:00",
+            "vr": "12:00",
+            "za": "12:00",
+            "zo": "12:00"
+          },
+          "closing": {
+            "ma": "22:00",
+            "di": "22:00",
+            "wo": "22:00",
+            "do": "22:00",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "22:00"
+          }
+        },
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-26",
+          "source": "https://www.loetje.nl/locaties/leeuwarden/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "12:00",
+            "di": "12:00",
+            "wo": "12:00",
+            "do": "12:00",
+            "vr": "12:00",
+            "za": "12:00",
+            "zo": "12:00"
+          },
+          "closing": {
+            "ma": "22:00",
+            "di": "22:00",
+            "wo": "22:00",
+            "do": "22:00",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "22:00"
+          }
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "source": "https://www.loetje.nl/locaties/leeuwarden/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "11:30",
+            "di": "11:30",
+            "wo": "11:30",
+            "do": "11:30",
+            "vr": "11:30",
+            "za": "11:30",
+            "zo": "11:30"
+          },
+          "closing": {
+            "ma": "20:30",
+            "di": "20:30",
+            "wo": "20:30",
+            "do": "20:30",
+            "vr": "20:30",
+            "za": "20:30",
+            "zo": "20:30"
+          }
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-01",
+          "source": "https://www.loetje.nl/locaties/leeuwarden/",
+          "checked_on": "2026-11-02",
+          "opening": {
+            "ma": "11:30",
+            "di": "11:30",
+            "wo": "11:30",
+            "do": "11:30",
+            "vr": "11:30",
+            "za": "11:30",
+            "zo": "11:30"
+          },
+          "closing": {
+            "ma": "22:00",
+            "di": "22:00",
+            "wo": "22:00",
+            "do": "22:00",
+            "vr": "22:00",
+            "za": "22:00",
+            "zo": "22:00"
+          }
+        }
+      ],
+      "date_schedules_checked_on": "2026-11-02",
+      "features": "Publieke borrel bij restaurant; stationsgebied; officiële feestdaguren",
+      "website": "https://www.loetje.nl/locaties/leeuwarden/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen Loetje-vestigingspagina bevestigt naam, Stationsweg 2, Leeuwarden en weekrooster.",
+      "other_sources": [
+        "https://www.loetje.nl/wp-content/uploads/2026/05/26089-LOE_Drankenkaart_148x235.pdf",
+        "https://www.loetje.nl/loetjes-verhalen/welk-drankje-past-perfect-bij-jouw-favoriete-biefstuk/"
+      ],
+      "original_status": "Actuele eigen vestigingspagina bevestigt publieke borrel, alcohol, adres en weekrooster; niet fysiek gecontroleerd.",
+      "geo": null
+    },
+    {
+      "id": "skybar-wtc-leeuwarden-20261102",
+      "name": "Skybar WTC Leeuwarden (élevé)",
+      "type": "Skybar / cocktailbar",
+      "address": "Heliconweg 32",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant WestCord beschrijft de Skybar als afzonderlijke bar op de 11e verdieping voor borrelen met vrienden/collega's, zonder verplichte maaltijd of hotelovernachting. Eventuele deur-/dresscode niet fysiek geverifieerd.",
+      "alcohol": "Eigen WestCord Skybar-pagina noemt wijnen, cocktails en gin-tonics; regionale VVV noemt ook bier.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "opening_source": "https://westcordhotels.nl/restaurants/skybar/",
+      "closing_source": "https://westcordhotels.nl/restaurants/skybar/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "opening_quality": "Exploitant vermeldt Skybar dagelijks vanaf 12:00 op afzonderlijke barpagina, niet afgeleid uit keukentijden.",
+      "closing_quality": "Exploitant vermeldt Skybar dagelijks tot 00:00; geen expliciete laatste toegang, evenementen kunnen afwijken.",
+      "closing_notes": "02-11-2026: WestCord eigen Skybar-pagina en restaurant élevé-pagina bevestigen 11e etage, vrije borrel, alcohol en dagelijks 12:00–00:00. Feest-/evenementen kunnen afwijkende toegang geven; Oud-en-Nieuwarrangement 31-12-2026 met hotelovernachting is niet als gewone vrije inloop aangenomen. Adresconflict: Skybar-eigen contact noemt Heliconweg 32, restaurant élevé/WestCord-contact Heliconweg 52. Publieksingang en BAG-adres moeten eerst worden vastgesteld; geen marker gokken.",
+      "features": "Panoramische Skybar op 11e etage WTC Hotel; aparte bar naast restaurant élevé",
+      "website": "https://westcordhotels.nl/restaurants/skybar/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Eigen exploitant WestCord; aparte Skybar-pagina met drankenkaart en rooster.",
+      "other_sources": [
+        "https://westcordhotels.nl/restaurants/restaurant-eleve/",
+        "https://visitleeuwarden.com/locaties/733454420/restaurant-eleve",
+        "https://westcordhotels.nl/arrangement/nye-in-the-sky-in-leeuwarden/"
+      ],
+      "original_status": "Eigen WestCord-site bevestigt huidige Skybar, alcohol en weekrooster; huisnummer 32/52 onopgelost.",
+      "geocode_blocked": true,
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "Eigen Skybar-contact vermeldt Heliconweg 32; eigen Restaurant élevé/WestCord-pagina Heliconweg 52. Beiden verwijzen naar de Skybar op de 11e verdieping. Eerst werkelijke publieke ingang en BAG-adres controleren; niet 32 of 52 automatisch geocoderen."
     }
   ],
   "admission_policies": [
