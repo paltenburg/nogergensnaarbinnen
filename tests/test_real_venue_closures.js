@@ -313,7 +313,8 @@ assert.equal(cheung.selection, 'Nog te controleren', 'Takeaway beer/wine does no
 assert.equal(cheung.opening.ma, '—');
 assert.equal(cheung.closing.ma, '—');
 for (const day of ['di','wo','do','vr','za','zo']) {
-  assert.equal(cheung.opening[day], '16:00', 'Operator ordering hours, not shorter delivery window');
-  assert.equal(cheung.closing[day], '22:00');
+  assert.equal(cheung.opening[day], '16:30', 'Main operator site restaurant start, not 16:00 takeaway hours');
+  assert.equal(cheung.closing[day], '?', 'Kitchen closing 22:00 is not restaurant closing');
 }
-console.log('IJlst corrected starts and minimum hours; Olterterp and Franeker provenance limits verified.');
+assert.equal(cheung.opening_source, 'https://cheungkwong.nl/');
+console.log('IJlst corrected starts and minimum hours; Olterterp and Franeker restaurant-versus-takeaway limits verified.');
