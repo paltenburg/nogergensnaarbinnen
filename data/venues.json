@@ -38355,6 +38355,54 @@
         "https://www.visitleeuwarden.com/locaties/1757133471/brasserie-spiegelaar"
       ],
       "original_status": "02-11-2026: eigen actuele site bevestigt exploitatie, publieke borrel, alcohol en vijf eenduidige weekdagen. Maandag en zondag conflicteren op eigen pagina's, dus onbekend; live toegang niet afzonderlijk geverifieerd."
+    },
+    {
+      "id": "de-gouverneur-leeuwarden-20261102",
+      "name": "De Gouverneur",
+      "type": "Shared-diningrestaurant / borrelkandidaat",
+      "address": "Gouverneursplein 36",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site beschrijft restaurant met shared dining. Eigen groepenpagina biedt een groepsborrel of diner aan; vrije losse drankinloop zonder maaltijd/reservering is niet bevestigd. Daarom verborgen.",
+      "alcohol": "Eigen actuele website en gastenreacties noemen wijn bij shared dining; wijnverkoop bij maaltijd bevestigd. Zelfstandige borrel zonder diner nog niet bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Bedrijfseigen 17:30–23:00 wo/do/zo, 17:30–00:00 vr/za en ma/di gesloten zijn RESTAURANTuren, niet afzonderlijk bewezen borrelinloop; geen barrooster ingevuld.",
+      "closing_quality": "Eigen restaurantrooster is niet automatisch een zelfstandige bar-sluiting. Bar- en laatste-toegangstijden onbekend.",
+      "closing_source": "https://degouverneurleeuwarden.nl/",
+      "opening_source": "https://degouverneurleeuwarden.nl/",
+      "checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: eigen https://degouverneurleeuwarden.nl/ en https://degouverneurleeuwarden.nl/concept/ bevestigen actuele exploitatie en restauranturen (ma/di dicht; wo/do/zo 17:30–23, vr/za 17:30–00). Eigen https://degouverneurleeuwarden.nl/groepen/ biedt groepsborrel of diner, maar geen ondubbelzinnige individuele inloop voor uitsluitend een glas alcohol. Daarom restauranturen niet als reguliere borreluren opgeslagen. Lokale krant 01-08-2025 meldt feitelijke opening augustus 2025 in voormalige De Blauwe Stoep; dat is geen tweede huidige zaak. Geen exacte laatste toegang of coördinaten aangenomen.",
+      "features": "Gouverneursplein; groepsborrel mogelijk, losse drankinloop onbevestigd",
+      "website": "https://degouverneurleeuwarden.nl/",
+      "other_sources": [
+        "https://degouverneurleeuwarden.nl/concept/",
+        "https://degouverneurleeuwarden.nl/groepen/",
+        "https://visitleeuwarden.com/locaties/2868804625/de-gouverneur-leeuwarden",
+        "https://www.lc.nl/regio/friesland/leeuwarden/restaurant-de-gouverneur-opent-op-iconische-plek-in-het-centrum-van-leeuwarden-droom-komt-uit/156396143.html"
+      ],
+      "original_status": "Eigen actuele restaurantwebsite, horecagids en berichtgeving bevestigen restaurant op Gouverneursplein 36. Borrel zonder maaltijd of groep niet bevestigd; standaard verborgen, geen restauranttijden als caféuren."
     }
   ],
   "admission_policies": [
