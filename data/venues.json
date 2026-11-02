@@ -2666,10 +2666,15 @@
         "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0897655,
+        "lon": 5.1210093,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Donkeregaard 13, 3511KV Utrecht"
+      },
       "website_checked_on": "2026-10-26",
       "website_provenance": "venue's own website; name, Utrecht location, and address checked",
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 13' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 13' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 13' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 13' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "cafe-kalff-f2eb976",
@@ -4620,8 +4625,13 @@
         "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "Nieuw toegevoegd bij bronnenonderzoek 26 oktober 2026; opening niet ter plaatse geverifieerd",
-      "geo": null,
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 11' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 11' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geo": {
+        "lat": 52.0898424,
+        "lon": 5.1209437,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Donkeregaard 11, 3511KV Utrecht"
+      },
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 11' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 11' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "ekko-5a297a7",
@@ -5751,7 +5761,12 @@
         "https://postcodebijadres.nl/3531EP"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd; adres niet geverifieerd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0911797,
+        "lon": 5.0975928,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Jan Pieterszoon Coenstraat 69, 3531EP Utrecht"
+      },
       "website_provenance": "official-closing-time-source (may be subpage)",
       "website_checked_on": "2026-10-29",
       "opening": {
@@ -5765,7 +5780,7 @@
       },
       "opening_source": "https://kleinemax.nl/contact/",
       "opening_checked_on": "2026-10-29",
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'J.P. Coenstraat 69' genormaliseerd naar officiële BAG-straatnaam 'Jan Pieterszoon Coenstraat 69' volgens https://postcodebijadres.nl/3531EP; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'J.P. Coenstraat 69' genormaliseerd naar officiële BAG-straatnaam 'Jan Pieterszoon Coenstraat 69' volgens https://postcodebijadres.nl/3531EP; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "knock-out-comedy-club-59624b0",
@@ -6993,8 +7008,13 @@
         "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null,
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 8' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geo": {
+        "lat": 52.0898577,
+        "lon": 5.1211695,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Donkeregaard 8, 3511KW Utrecht"
+      },
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 8' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "orloff-aan-de-kade-a3c16fd",
@@ -8313,7 +8333,12 @@
         "https://www.talud9.nl/contact"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
-      "geo": null,
+      "geo": {
+        "lat": 52.0898761,
+        "lon": 5.1209141,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Donkeregaard 9, 3511KV Utrecht"
+      },
       "opening": {
         "ma": "—",
         "di": "—",
@@ -8327,7 +8352,7 @@
       "opening_checked_on": "2026-10-26",
       "website_checked_on": "2026-10-26",
       "website_provenance": "Officiële website",
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 9' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 9' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 9' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 9' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "taplokaal-gist-bb8d7ed",
@@ -8411,7 +8436,12 @@
         "https://allecijfers.nl/weg/lichtegaard-utrecht/"
       ],
       "original_status": "Toegevoegd na vergelijking BeerGarden24/Tablova en verificatie bij de zaak (26-10-2026)",
-      "geo": null,
+      "geo": {
+        "lat": 52.0901705,
+        "lon": 5.1207546,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Lichtegaard 8, 3511KT Utrecht"
+      },
       "opening": {
         "ma": "09:00",
         "di": "09:00",
@@ -8423,7 +8453,7 @@
       },
       "opening_source": "https://teds-place.mom/locations/utrecht-oudegracht/",
       "opening_checked_on": "2026-10-26",
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Lichte Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Lichtegaard 8' volgens https://allecijfers.nl/weg/lichtegaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Lichte Gaard 8' genormaliseerd naar officiële BAG-straatnaam 'Lichtegaard 8' volgens https://allecijfers.nl/weg/lichtegaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "teds-stadhuisplein-20261026",
@@ -8769,8 +8799,13 @@
         "https://www.allecijfers.nl/weg/donkeregaard-utrecht/"
       ],
       "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
-      "geo": null,
-      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 3' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 3' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen."
+      "geo": {
+        "lat": 52.0899834,
+        "lon": 5.1207915,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Donkeregaard 3, 3511KV Utrecht"
+      },
+      "geocode_notes": " 02-11-2026: oude exploitant-/gidsvorm 'Donkere Gaard 3' genormaliseerd naar officiële BAG-straatnaam 'Donkeregaard 3' volgens https://www.allecijfers.nl/weg/donkeregaard-utrecht/; nog geen coördinaten aangenomen zonder exacte PDOK-straat/huisnummer/plaats-match. Venue-ingang niet apart bewezen. 02-11-2026: exacte BAG-adresmatch via werkelijk gecontroleerd GitHub Pages-artefact run 41419519392 (data/geocode-report.json). Bron https://api.pdok.nl/bzk/locatieserver/search/v3_1/free. ID, straat, huisnummer, postcode, plaats en bereik vergeleken; geen eerdere marker. BAG-adreslocatie is geen bewijs van feitelijke venue-exploitatie."
     },
     {
       "id": "tilt-64c83ae",
