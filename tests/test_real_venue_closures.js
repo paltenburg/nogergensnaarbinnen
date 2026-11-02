@@ -3,7 +3,7 @@
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
-const {isClosed, weekday} = require('../scripts/date_closures.js');
+const {isClosed, weekday, field, scheduleFor} = require('../scripts/date_closures.js');
 const db = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'venues.json'), 'utf8'));
 const venue = db.places.find(p => p.id === 'eetcafe-de-buorren-uitwellingerga-20261030');
 assert.ok(venue, 'Eetcafé de Buorren retains its stable venue ID');
@@ -20,3 +20,26 @@ for (const date of ['2026-10-30', '2026-11-02', '2026-11-07', '2026-11-21', '202
 assert.equal(weekday('2026-11-01'), 'zo');
 assert.equal(venue.closing.zo, '22:00', 'Dated exception must not erase ordinary schedule');
 console.log('Five sourced public-access closures and five non-closure boundaries verified.');
+
+
+// Real 2026 holiday exception: special opening is announced, but its hours are unknown.
+const skeve = db.places.find(p => p.id === 'de-skeve-toren-leeuwarden-20261102');
+assert.ok(skeve, 'Skeve Toren stable venue ID');
+for (const date of ['2026-12-25', '2026-12-26', '2026-12-31', '2027-01-01']) {
+  assert.equal(isClosed(skeve, date), true, 'Official holiday closure ' + date);
+  const item = skeve.date_closures.find(x => x.start === date && x.end === date);
+  assert.equal(item?.source, 'https://deskevetoren.nl/contact/');
+  assert.equal(item?.checked_on, '2026-11-02');
+}
+for (const date of ['2026-12-24', '2026-12-27', '2026-12-28', '2026-12-29', '2026-12-30', '2027-01-02']) {
+  assert.equal(isClosed(skeve, date), false, 'No invented holiday closure ' + date);
+}
+for (const [date, day] of [['2026-12-28', 'ma'], ['2026-12-29', 'di']]) {
+  assert.equal(weekday(date), day);
+  assert.ok(scheduleFor(skeve, date), 'Announced special opening must override closed weekday');
+  assert.equal(field(skeve, 'opening', day, date), '?', 'Do not invent holiday opening time');
+  assert.equal(field(skeve, 'closing', day, date), '?', 'Do not inherit regular closed status');
+}
+assert.equal(field(skeve, 'closing', 'wo', '2026-12-30'), '22:00',
+  'Ordinary Wednesday closing remains outside the holiday exception');
+console.log('Four official Skeve Toren holiday closures and two unknown-hour openings verified.');
