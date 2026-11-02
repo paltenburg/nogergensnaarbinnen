@@ -35571,6 +35571,50 @@
       "original_status": "Eigen horecawebsite en 2026 alcoholcheck-ins ondersteunen exploitatie. Exacte weekuren en laatste toegang onzeker door bronconflicten.",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02"
+    },
+    {
+      "id": "eetcafe-t-sluske-jirnsum-20261102",
+      "name": "Eetcafé 't Slûske (Jachthaven Sneekerhof)",
+      "type": "Seizoenseetcafé met terras",
+      "address": "Wjiteringswei 23",
+      "city": "Jirnsum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen jachthavenwebsite noemt publieke lunch, diner en terras; een lokale toeristische bron beschrijft losse wijn op het terras. In november 2026 is actuele vrije inloop niet bevestigd.",
+      "alcohol": "Lokale Mauritiuskerk-gids uit 2025 noemt wijn op het terras; huidige 2026-drankkaart/actuele alcoholverkoop niet rechtstreeks bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Seizoensuren: eigen exploitant noemt alleen augustus 2026; geen geldig novemberrooster",
+      "closing_source": "https://www.sneekerhof.nl/eetcafe-t-sluske",
+      "closing_notes": "Eigen exploitant op 02-11-2026 gelezen: opening seizoen eerste weekend april 2026; april alleen weekenden tot 17:30; augustus ma/di gesloten, wo/do 11–17:30, vr 11–19, za/zo 11–20:30. Dit zijn AUGUSTUSUREN, niet overnemen als novemberopening. Lokale bron https://mauritiuskerk.nl/en/blog/248625071737/eating-in-jirnsum-where-to-eat noemt wijn op het terras, maar dateert uit 2025. 2026-11 exploitatie, alcohol en laatste toegang onbevestigd; verborgen kandidaat. De 08:00–00:00 uren van Jachthaven Sneekerhof op AlleBiz zijn geen eetcafé-uren.",
+      "features": "Friesland; Sneekermeer; seizoenshoreca",
+      "website": "https://www.sneekerhof.nl/eetcafe-t-sluske",
+      "other_sources": [
+        "https://www.sneekerhof.nl/",
+        "https://www.sneekerhof.nl/over-ons/nieuws",
+        "https://mauritiuskerk.nl/en/blog/248625071737/eating-in-jirnsum-where-to-eat",
+        "https://nl.restaurantguru.com/Eetcafe-t-Sluske-Jirnsum"
+      ],
+      "original_status": "Actieve jachthaven met eigen 2026-seizoenspagina, maar novemberse horecaopenstelling niet bewezen.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
