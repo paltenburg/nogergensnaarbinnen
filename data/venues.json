@@ -16045,7 +16045,7 @@
       "city": "Midsland",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "VVV Terschelling noemt publieke caféfunctie met biljart, darten en sport; organisator plande optredens in september 2026. Feitelijke vrije inloop in november 2026 niet bevestigd.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Nog te controleren",
       "closing": {
@@ -16059,14 +16059,16 @@
       },
       "closing_quality": "Onbekend; tegenstrijdige derdebronnen en geen toegankelijk eigen weekrooster",
       "closing_source": "",
-      "closing_notes": "Eigen domein dedammesaan.nl gaf 403; restaurant-terschelling.nl zegt gesloten maar toont tegelijk dagelijkse oude uren; bestelplatform eetcafededammesaan.ultimatumapp.com noemt Bezorgen Terschelling en Oosterburen 3, geen bewezen actuele café-openstelling. Sluiting en laatste toegang onbekend.",
+      "closing_notes": "Eigen domein dedammesaan.nl gaf 403; restaurant-terschelling.nl zegt gesloten maar toont tegelijk dagelijkse oude uren; bestelplatform eetcafededammesaan.ultimatumapp.com noemt Bezorgen Terschelling en Oosterburen 3, geen bewezen actuele café-openstelling. Sluiting en laatste toegang onbekend. | 02-11-2026 nieuwe broncontrole: VVV Terschelling https://www.vvvterschelling.nl/bedrijven/eetcafe-dammesaan/ noemt een publiek café met biljart/darts/sport en een weekrooster ma–wo dicht, do–za 16:30–02:00, zo 16:00–22:00. Stichting Actief Midsland https://rockandroll-terschelling.nl/programma-lineup/ programmeerde livebands bij Dammesaan op 11 en 12 september 2026 vanaf 22:00. Beide bronnen bewijzen geen feitelijke reguliere opening op 02-11; de ongedateerde VVV-uren conflicteren met https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/ (melding gesloten + afwijkend rooster). Daarom alle normale uren en novembertoegang onbekend en record verborgen. Laatste toegang niet vastgesteld.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/west-terschelling",
         "https://restaurant-terschelling.nl/restaurants/eetcafe-karaokebar-de-dammesaan/",
         "https://eetcafededammesaan.ultimatumapp.com/",
-        "https://www.dedammesaan.nl/"
+        "https://www.dedammesaan.nl/",
+        "https://www.vvvterschelling.nl/bedrijven/eetcafe-dammesaan/",
+        "https://rockandroll-terschelling.nl/programma-lineup/"
       ],
       "original_status": "Gids noemt gesloten zonder duidelijke datum; bestelplatform op Oosterburen 3 is bereikbaar, maar toont alle artikelen als uitverkocht. Publieke actuele exploitatie 30-10-2026 niet bewezen.",
       "geo": {
@@ -16075,7 +16077,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Oosterburen 3, 8891GA Midsland"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-02"
     },
     {
       "id": "schotse-vier-midsland-6021740",
@@ -22181,16 +22183,17 @@
       },
       "closing_quality": "Geen eigen officiële weekroosterpagina gevonden. AlleBiz en het-menu spreken elkaar tegen over meerdere sluitingsdagen en uren. Gemeentelijke evenementtijden zijn geen regulier bedrijfsrooster.",
       "closing_source": "",
-      "closing_notes": "30-10-2026: gemeentelijke evenementmelding https://zoek.officielebekendmakingen.nl/gmb-2026-126235.html bevestigt café op Bouwe Harkemastrjitte 1 en livemuziek op 4 april 2026; juli/augustus meldingen bevestigen verdere exploitatieactiviteit. Gidsen https://www.allebiz.nl/caf%C3%A9-de-klok_2u-0512-365-555 en https://www.het-menu.nl/harkema/restaurant/cafe_de_klok hebben onderling afwijkende weekuren; daarom alles onbekend. Officiële site, directe alcoholkaart, reguliere vrije toegang en laatste toegang nog te verifiëren.",
+      "closing_notes": "30-10-2026: gemeentelijke evenementmelding https://zoek.officielebekendmakingen.nl/gmb-2026-126235.html bevestigt café op Bouwe Harkemastrjitte 1 en livemuziek op 4 april 2026; juli/augustus meldingen bevestigen verdere exploitatieactiviteit. Gidsen https://www.allebiz.nl/caf%C3%A9-de-klok_2u-0512-365-555 en https://www.het-menu.nl/harkema/restaurant/cafe_de_klok hebben onderling afwijkende weekuren; daarom alles onbekend. Officiële site, directe alcoholkaart, reguliere vrije toegang en laatste toegang nog te verifiëren. | 02-11-2026 nieuwe broncontrole: vereniging De Woudzangers https://www.dewoudzangers.nl/agenda/ plant 09–14 november 2026 een vogelshow in zaal De Klok (Bouwe Harkemastrjitte 1), plus een feestavond 21 november vanaf 19:00. Dit bevestigt toekomstig gepland zaalgebruik, niet dat de evenementen zullen plaatsvinden, vrije reguliere café-inloop, drankassortiment of weeksluituren. Geen evenementuren overgenomen.",
       "features": "D0 Achtkarspelen / Harkema; livemuziek, reguliere toegang nog controleren",
       "website": "",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "other_sources": [
         "https://zoek.officielebekendmakingen.nl/gmb-2026-126235.html",
         "https://zoek.officielebekendmakingen.nl/gmb-2026-401609.html",
         "https://www.overuwbuurt.nl/kennisgeving/gemeente-achtkarspelen-verleende-ontheffing-geluidshinder-bouwvak-bbq-cafe-de-klok-harkema-op-18-juli-2026-van-19-00-tot-01-00-uur/8769016",
         "https://www.allebiz.nl/caf%C3%A9-de-klok_2u-0512-365-555",
-        "https://www.het-menu.nl/harkema/restaurant/cafe_de_klok"
+        "https://www.het-menu.nl/harkema/restaurant/cafe_de_klok",
+        "https://www.dewoudzangers.nl/agenda/"
       ],
       "original_status": "Caféactiviteit in gemeentelijke bekendmakingen 2026; actuele algemene opening, alcoholassortiment en toegang nog onbevestigd.",
       "geo": {
