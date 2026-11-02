@@ -36574,6 +36574,55 @@
       "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393894567",
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch Ruiterskwartier 41, 8911BP Leeuwarden uit daadwerkelijk Pages-artefact van succesvolle run 41393894567; exact huisnummer bevestigd, geen interpolatie. Locatie blijft verborgen wegens niet apart bevestigd regulier alcoholassortiment."
+    },
+    {
+      "id": "alternative-rockcafe-mukkes-leeuwarden-20261102",
+      "name": "Alternative Rockcafé Mukkes",
+      "type": "Rockcafé / live muziek",
+      "address": "Grote Hoogstraat 26",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Publiek rockcafé met vrije café-inloop; eigen exploitantbericht kondigt heropening 04-04-2026 voor gasten aan. Afzonderlijke concerten kunnen een ticket of donatie vereisen; dit is geen vaste toegangsvoorwaarde voor het café.",
+      "alcohol": "Lokale uitgaansgids en recente bezoekersbeschrijvingen noemen bier en drankjes aan de bar. Geen actuele bedrijfseigen drankkaart gevonden.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitantbericht 25-03-2026 bevestigt heropening 04-04 en eenmalig 20:00 op 05-04; geen actueel vast weekrooster. Gidsen verschillen (ma/di/zo 20–21 en za 18), dus onbekend.",
+      "closing_quality": "Externe gidsen tonen tot 03:00 (zo soms 02:00), maar geen exploitantbron voor een exact regulier sluituur. Alle einduren onbekend, laatste toegang onbekend.",
+      "opening_source": "",
+      "closing_source": "",
+      "checked_on": "2026-11-02",
+      "closing_notes": "02-11-2026: exploitantbericht 25-03-2026 via https://www.findglocal.com/NL/Leeuwarden/113553925362337/Alternative-Rockcafe-Mukkes bevestigt heropening na rookschade op 04-04-2026 en publieke bar; 2026-optredens op 10-10 en 24-10 en aangekondigd 21-11 bij https://songkick.com/venues/446491-alternative-rockcafe-mukkes ondersteunen voortgezette exploitatie, maar gepland concert alleen is geen openingsgarantie. https://www.uitagenda.nl/locaties/cafe-mukkes bevestigt publiek café met drank, livemuziek en adres. Gidsen https://www.findglocal.com/NL/Leeuwarden/113553925362337/Alternative-Rockcafe-Mukkes en https://menukaart.menu/restaurants/leeuwarden-1/cafe-mukkes geven onderling afwijkende weekbeginuren; sluituren 03:00/02:00 niet primair bevestigd. Ticketed show op 24-10-2026 niet als standaard cafétoegang geïnterpreteerd. Laatste toegang onbekend.",
+      "features": "Alternatief rockcafé; livemuziek en jamsessies; incidentele ticketshows",
+      "website": "https://www.facebook.com/Alternative.Rockcafe.Mukkes/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Exploitant-socialepagina gelinkt door Songkick en lokale concertagenda; directe Facebook-inhoud niet toegankelijk, via 2026-spiegel en evenementagenda vergeleken.",
+      "other_sources": [
+        "https://www.findglocal.com/NL/Leeuwarden/113553925362337/Alternative-Rockcafe-Mukkes",
+        "https://songkick.com/venues/446491-alternative-rockcafe-mukkes",
+        "https://www.uitagenda.nl/locaties/cafe-mukkes",
+        "https://www.songkick.com/de/concerts/43253481-wode-at-alternative-rockcafe-mukkes",
+        "https://menukaart.menu/restaurants/leeuwarden-1/cafe-mukkes"
+      ],
+      "original_status": "Exploitant heropening 04-04-2026 en concerten in oktober 2026 onderbouwen huidige barfunctie; exacte gewone weekuren ontbreken. Geen fysieke novembercontrole.",
+      "geo": null
     }
   ],
   "admission_policies": [
