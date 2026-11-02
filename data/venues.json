@@ -10391,8 +10391,8 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Sociale bedrijfsprofielen noemen borrels, evenementen en binnenlopen; vaste vrije inloop en reguliere openingstijden niet bevestigd.",
-      "alcohol": "Sociale bedrijfsprofielen tonen borrels; regulier publiek drankaanbod niet afzonderlijk bevestigd.",
+      "access": "Volgens de actuele locatiebeheerder verzorgt Grand Café Club Z lunch, borrels en diner voor huurders van de zalen; het café is verder exclusief te huur voor particuliere en zakelijke evenementen. Reguliere vrije inloop zonder zaalhuur is niet aangetoond.",
+      "alcohol": "De locatiebeheerder noemt borrels bij zaalhuur en evenementen, maar bevestigt geen regulier publiek alcoholaanbod of losse drankinloop.",
       "selection": "Nog te controleren",
       "closing": {
         "ma": "?",
@@ -10403,25 +10403,28 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
+      "closing_quality": "Geen regulier openbaar weekrooster: locatiebeheerder beschrijft zaalhuur en catering voor huurders.",
       "closing_source": "",
-      "closing_notes": "Sociale profielen https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden en https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden hebben berichten maart 2026 en adres Zaailand 106; positionering borrel-/evenementencafé. Geclaimde eigen site https://www.clubzleeuwarden.nl/ niet rechtstreeks leesbaar (403) op 30-10-2026; niet als bevestigde eigen website ingevuld. Geen vast weekrooster/laatste toegang vastgesteld.",
+      "closing_notes": "Sociale profielen https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden en https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden hebben berichten maart 2026 en adres Zaailand 106; positionering borrel-/evenementencafé. Geclaimde eigen site https://www.clubzleeuwarden.nl/ niet rechtstreeks leesbaar (403) op 30-10-2026; niet als bevestigde eigen website ingevuld. Geen vast weekrooster/laatste toegang vastgesteld. 02-11-2026: actuele locatiebeheerder https://zleeuwarden.nl/project/club-z/ bevestigt expliciet 'voor de huurders van de zalen' en 'verder ... exclusief te huur'. Dus niet als vrij toegankelijk regulier café tonen; event- of huurtijden niet naar reguliere sluituren kopiëren.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "",
+      "website": "https://zleeuwarden.nl/project/club-z/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
         "https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
-        "https://www.clubzleeuwarden.nl/"
+        "https://www.clubzleeuwarden.nl/",
+        "https://zleeuwarden.nl/project/club-z/"
       ],
-      "original_status": "Bedrijfsposts uit maart 2026 bevestigen evenementen/borrels; vaste publieke inloop in oktober 2026 nog niet bewezen.",
+      "original_status": "Actuele beheerder bevestigt zaalhuur en catering voor zaalhuurders, geen reguliere vrije publieke inloop. Bewust verborgen tot publiek event met datum/toegang/uren of expliciete vrije inloop is bevestigd.",
       "geo": {
         "lat": 53.1991469,
         "lon": 5.7946248,
         "method": "PDOK BAG-adres",
         "matched_address": "Zaailand 106, 8911BN Leeuwarden"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Actuele informatiepagina van Z Leeuwarden / locatiebeheerder; geen bewijs van vrije publieke caféopening."
     },
     {
       "id": "cafe-de-zaak-leeuwarden-cc89001",
@@ -36894,6 +36897,56 @@
       "original_status": "Exploitant toont feitelijke evenementen in 2026, geen vaste openbare weekopening of toekomstige concrete datum bevestigd. Alleen evenementafhankelijk, daarom verborgen zonder geverifieerde date_schedules.",
       "requires_date_schedule": true,
       "date_schedule_notes": "02-11-2026: historische evenementen zijn geen toekomstige opening; geen geldige toekomstige datum bevestigd. Nieuwe datum pas tonen als eigen actuele agenda concrete publieke avond met tijden/toegang bewijst."
+    },
+    {
+      "id": "the-point-buitenpost-20261102",
+      "name": "The Point (Horecacentrum)",
+      "type": "Café-/feestzaal / evenementlocatie (actuele vrije inloop onbevestigd)",
+      "address": "Voorstraat 54",
+      "city": "Buitenpost",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Publieke ticket-evenementen in 2026 (onder andere Oktoberfest 26 september en theater 21/27 maart). Buiten evenementen geen actueel primair bewijs van reguliere vrije café-inloop; ticket-/reserveringsvoorwaarden per evenement.",
+      "alcohol": "Oktoberfest 26-09-2026 noemt biertafels en Flügel in muntenarrangement. Dit bewijst drank bij dat evenement, niet het reguliere alcoholassortiment van een dagelijks geopend café.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Geen actueel exploitantenweekrooster; gidsen met sterk tegenstrijdige uren niet overgenomen.",
+      "closing_quality": "Geen actueel regulier sluituur of laatste toegang bevestigd; eventdeuren 20:00 op 26-09 zijn geen weekuren.",
+      "closing_notes": "02-11-2026: https://www.rtvnof.nl/agenda/oktoberfest-in-the-point-buitenpost/ bevestigt ticketfeest 26-09-2026 20:00 met 18+ en Flügel; https://www.rtvnof.nl/agenda/teater-butenpost-neat-te-ferbergjen-2/ bevestigt theater 21 en 27 maart 2026; https://www.rtvnof.nl/agenda/bohemian-royalty-queen-tribute-band-in-de-point/ bevestigt ticketconcert 11 april 2026. Adres Voorstraat 54 via https://www.cylex.nl/bedrijf/v-o-f--the-point-10685089.html en https://www.allebiz.nl/v-o-f-the-point-0511-541-580; de gidsen geven onverenigbare weekuren (tot 22/24/02), geen primaire actuele horecaopening. Geen toekomstige concrete publieke eventdatum aangetoond, geen geocode gegokt.",
+      "features": "D0 Achtkarspelen / Buitenpost; feestzaal en mogelijk café; reguliere vrije inloop, alcoholkaart en weekuren nader te verifiëren.",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Historische gidsdomeinen point-horeca.nl en anytyme-thepoint.nl niet als actuele officiële exploitantensite geverifieerd.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.rtvnof.nl/agenda/oktoberfest-in-the-point-buitenpost/",
+        "https://www.rtvnof.nl/agenda/teater-butenpost-neat-te-ferbergjen-2/",
+        "https://www.rtvnof.nl/agenda/bohemian-royalty-queen-tribute-band-in-de-point/",
+        "https://www.cylex.nl/bedrijf/v-o-f--the-point-10685089.html",
+        "https://www.allebiz.nl/v-o-f-the-point-0511-541-580",
+        "https://www.eencafe.nl/buitenpost/the-point-caf%C3%A9"
+      ],
+      "original_status": "Publieke evenementen in 2026 bevestigd, maar vrije reguliere caféopening en actuele primaire alcohol-/weekgegevens niet bevestigd. Verborgen kandidaat.",
+      "requires_date_schedule": true
     }
   ],
   "admission_policies": [
