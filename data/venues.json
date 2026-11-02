@@ -36951,6 +36951,103 @@
       ],
       "original_status": "Publieke evenementen in 2026 bevestigd, maar vrije reguliere caféopening en actuele primaire alcohol-/weekgegevens niet bevestigd. Verborgen kandidaat.",
       "requires_date_schedule": true
+    },
+    {
+      "id": "bar-bascule-leeuwarden-20261102",
+      "name": "Bar Bascule",
+      "type": "Nachtbar / danscafé",
+      "address": "Ruiterskwartier 93",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant bevestigt elke avond open en zonder reservering vrije binnenloop ('just walk in'), met DJ's en dansvloer. Eventuele bijzondere toegangsvoorwaarden per avond niet afzonderlijk gecontroleerd.",
+      "alcohol": "Exploitant noemt een bar en 'take a shot' bij vrije uitgaansavond; dit ondersteunt shotjes-/sterkedrankaanbod. Actuele volledige drankenkaart niet gevonden.",
+      "opening": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.barbascule.nl/contact",
+      "closing_source": "",
+      "opening_quality": "Exploitantcontactpagina noemt dagelijks vanaf 23:00, donderdag vanaf 22:00. Afwijkende afkorting in de footer van 'over ons' niet als volledig weekrooster gebruikt.",
+      "closing_quality": "Exploitant noemt geen regulier sluituur; externe gids 05:00 niet als primaire bevestiging overgenomen.",
+      "closing_notes": "02-11-2026: https://www.barbascule.nl/contact bevestigt vrije binnenloop, Ruiterskwartier 93, elke avond 23:00 behalve donderdag 22:00. https://www.barbascule.nl/over-ons bevestigt publieke bar en shots, maar footer toont Ruiterskwartier 95. Gemeentelijke terrasvergunning 2026 https://zoek.officielebekendmakingen.nl/gmb-2026-162661.pdf noemt 93; 95 is tevens adres van aparte Shooters. Wegens intern 93/95-conflict geen BAG-marker totdat exploitant ingangsnummer bevestigt. Gids https://firmania.nl/leeuwarden/bar-bascule-457585 noemt 05:00, maar is geen eigen sluituur. Laatste toegang onbekend.",
+      "features": "D0 Leeuwarden Ruiterskwartier; 2026 gemeentelijke terrasvergunning; ingang 93/95 verifiëren",
+      "website": "https://www.barbascule.nl/contact",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Exploitantwebsite; eigen contactpagina rechtstreeks gecontroleerd, over-ons footer bevat tegenstrijdig huisnummer.",
+      "checked_on": "2026-11-02",
+      "geocode_blocked": true,
+      "other_sources": [
+        "https://www.barbascule.nl/contact",
+        "https://www.barbascule.nl/over-ons",
+        "https://visitleeuwarden.com/locaties/1099702376/bar-bascule",
+        "https://zoek.officielebekendmakingen.nl/gmb-2026-162661.pdf",
+        "https://firmania.nl/leeuwarden/bar-bascule-457585"
+      ],
+      "original_status": "Actuele eigen site bevestigt vrije nachtbar en beginuren, maar geen exacte sluituren of laatste toegang. Huisnummerconflict 93/95 blokkeert automatische marker."
+    },
+    {
+      "id": "feestcafe-shooters-leeuwarden-20261102",
+      "name": "Feestcafé Shooters (Shooters XL)",
+      "type": "Feestcafé / dansbar",
+      "address": "Ruiterskwartier 95",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "VVV Visit Leeuwarden noemt publieke feestbar voor borrel en dansen. Ticket-/minimumleeftijdvoorwaarden voor specifieke avonden niet apart gecontroleerd.",
+      "alcohol": "VVV noemt een borrel, 2026 KvK-afgeleide bevestigt exploitatie van drinkgelegenheden; specifieke actuele bier-/wijn-/shotkaart niet onafhankelijk van exploitant geverifieerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Geen leesbaar actueel bedrijfseigen weekrooster. Gidsen noemen 21:00 of 22:00, zondag open of gesloten; geen vaste begintijd overgenomen.",
+      "closing_quality": "Gidsen noemen 05:00 maar actuele exploitantenbevestiging ontbreekt; geen regulier sluituur of laatste toegang als zeker.",
+      "closing_notes": "02-11-2026: https://visitleeuwarden.com/locaties/944806092/shooters noemt feestbar en adres 95. https://www.compadex.com/nl/businesses/nl/shooters-xl-66191386-05288711 noemt 2026 handelsregistratie Shooters XL op nr. 95, SBI exploitatie drinkgelegenheden; registratie alleen bewijst geen dagelijkse opening. https://www.cylex.nl/bedrijf/shooters-leeuwarden-13067668.html geeft dagelijks 21:00–05:00, maar https://restaurantguru.com/Feestcafe-Shooters-Leeuwarden geeft ma–za 22:00–05:00 en zondag gesloten. Officiële shootersleeuwarden.nl kon niet inhoudelijk worden geopend; geen gidsrooster overgenomen. Apart van Bar Bascule nr. 93.",
+      "features": "D0 Leeuwarden Ruiterskwartier; eigen site/toegang/uren en alcoholkaart rechtstreeks controleren",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Domein shootersleeuwarden.nl via VVV en KvK-afgeleide vermeld, maar eigen inhoud niet bereikbaar in deze controle.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://visitleeuwarden.com/locaties/944806092/shooters",
+        "https://www.compadex.com/nl/businesses/nl/shooters-xl-66191386-05288711",
+        "https://www.cylex.nl/bedrijf/shooters-leeuwarden-13067668.html",
+        "https://restaurantguru.com/Feestcafe-Shooters-Leeuwarden",
+        "https://www.shootersleeuwarden.nl/"
+      ],
+      "original_status": "Actuele 2026 bedrijfsregistratie en VVV-publieksvermelding ondersteunen feestbar; actuele primaire weekuren en concrete alcoholkaart onbevestigd. Voorlopig."
     }
   ],
   "admission_policies": [
