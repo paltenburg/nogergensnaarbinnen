@@ -35814,7 +35814,15 @@
       ],
       "original_status": "2026 exploitatie en bier bewezen; alcohol-only publieke toegang en maandagrooster nog te verifiëren.",
       "website_checked_on": "2026-11-02",
-      "checked_on": "2026-11-02"
+      "checked_on": "2026-11-02",
+      "geo": {
+        "lat": 53.095448,
+        "lon": 5.8396775,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Parkstraat 1, 9001AS Grou"
+      },
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exact BAG-adresmatch uit werkelijk gedraaid PDOK-rapport van GitHub Actions-run 41373564805 (723-record Pages-artefact, 1 nieuwe match): Parkstraat 1, 9001AS Grou. BAG-adrespositie, niet afzonderlijk gecontroleerde cafédeur."
     }
   ],
   "admission_policies": [
