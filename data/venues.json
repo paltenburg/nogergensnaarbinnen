@@ -36565,7 +36565,15 @@
         "https://www.neushoorn.nl/events/bierfestival-feb"
       ],
       "original_status": "Huidige publieke exploitatie, gratis toegangsvensters en weekuren bevestigd; regulier alcoholaanbod onvoldoende rechtstreeks bewezen.",
-      "geo": null
+      "geo": {
+        "lat": 53.2002968,
+        "lon": 5.790245,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Ruiterskwartier 41, 8911BP Leeuwarden"
+      },
+      "geocode_source": "https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41393894567",
+      "geocode_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch Ruiterskwartier 41, 8911BP Leeuwarden uit daadwerkelijk Pages-artefact van succesvolle run 41393894567; exact huisnummer bevestigd, geen interpolatie. Locatie blijft verborgen wegens niet apart bevestigd regulier alcoholassortiment."
     }
   ],
   "admission_policies": [
