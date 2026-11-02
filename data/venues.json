@@ -18884,9 +18884,9 @@
       "city": "Pingjum",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Historisch café/proeflokaal van distilleerderij, maar actuele vrije inloop in 2026 niet bevestigd.",
+      "access": "Historisch café tot afscheid uitbaters in maart 2025. Nieuwe pandeigenaar besprak november 2025 herontwikkeling naar vijf appartementen; actuele publieke café-exploitatie niet bevestigd. Niet als open horeca tonen.",
       "alcohol": "Historisch distilleerderijproeflokaal met alcohol; huidig aanbod onbekend.",
-      "selection": "Nog te controleren",
+      "selection": "Nee",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -18898,22 +18898,23 @@
       },
       "closing_quality": "Geen actuele exploitantwebsite/rooster, mogelijke exploitantwissel 2025",
       "closing_source": "https://www.dorppingjum.nl/wp-content/uploads/2025/05/nieuwsbrief-2.pdf",
-      "closing_notes": "Dorpsnieuwsbrief april 2025 beschrijft afscheid van Judith en Hans op 21 maart en 25-jarig jubileum Café De Hollandse Kus (2000–2025). Betekent niet automatisch dat pand definitief gesloten is; eventuele opvolger onbekend. Historische https://www.kookatelierzuiderzee.nl/pop-up-restaurant-kookatelier-zuiderzee-in-de-hollandse-kus/ betreft 2020 besloten pop-ups, geen actueel weekrooster. Geen huidige inloop/laatste toegang.",
+      "closing_notes": "Dorpsnieuwsbrief april 2025 beschrijft afscheid van Judith en Hans op 21 maart en 25-jarig jubileum Café De Hollandse Kus (2000–2025). Betekent niet automatisch dat pand definitief gesloten is; eventuele opvolger onbekend. Historische https://www.kookatelierzuiderzee.nl/pop-up-restaurant-kookatelier-zuiderzee-in-de-hollandse-kus/ betreft 2020 besloten pop-ups, geen actueel weekrooster. Geen huidige inloop/laatste toegang. | 02-11-2026: lokaal Dorpsbelang Pingjum https://www.dorppingjum.nl/2025/11/07/de-verbouwing-van-de-hollandse-kus/ beschrijft gesprek 03-11-2025 met nieuwe eigenaar Romanesco Vastgoed over ombouw Grote Buren 1 tot vijf koopappartementen. Dit is een VOORNEMEN, geen bewijs dat de verbouwing of vergunning rond is. Gecombineerd met uitbatersafscheid maart 2025 geen actueel publiek café aangetoond; daarom selectie Nee (verborgen), niet stellig 'pand definitief gesloten/gesloopt'.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://www.dorppingjum.nl/wp-content/uploads/2025/05/nieuwsbrief-2.pdf",
         "https://www.kookatelierzuiderzee.nl/pop-up-restaurant-kookatelier-zuiderzee-in-de-hollandse-kus/",
-        "https://www.kooistra-interieurbouw.nl/project/eetcafe-de-hollandse-kus/"
+        "https://www.kooistra-interieurbouw.nl/project/eetcafe-de-hollandse-kus/",
+        "https://www.dorppingjum.nl/2025/11/07/de-verbouwing-van-de-hollandse-kus/"
       ],
-      "original_status": "Historische exploitatie bevestigd; afscheid eigenaren 2025, actuele opvolging niet vastgesteld.",
+      "original_status": "Dorpsnieuwsbrief meldt afscheid exploitanten maart 2025; Dorpsbelang Pingjum rapporteert 07-11-2025 nieuwe vastgoedeigenaar en plan voor vijf appartementen. Bouwvergunning, uitvoering en definitieve herbestemming niet bevestigd. Historische horecagidsen zijn geen bewijs voor exploitatie in 2026.",
       "geo": {
         "lat": 53.1150698,
         "lon": 5.441153,
         "method": "PDOK BAG-adres",
         "matched_address": "Grote Buren 1, 8749GC Pingjum"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
