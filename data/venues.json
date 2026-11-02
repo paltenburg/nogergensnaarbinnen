@@ -35770,6 +35770,51 @@
       },
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Oldehoofsterkerkhof 48, 8911DH Leeuwarden. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur."
+    },
+    {
+      "id": "stube-oostria-grou-20261102",
+      "name": "Stube Oostria",
+      "type": "Oostenrijks restaurant met bieraanbod",
+      "address": "Parkstraat 1",
+      "city": "Grou",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen exploitant presenteert publiek restaurant met reserveringen en bier; vrije alcoholinloop zonder maaltijd niet afzonderlijk bevestigd, daarom verborgen kandidaat.",
+      "alcohol": "Eigen actuele https://oostria.nl/ noemt expliciet Engel bier; actuele drankenkaart en drankinloop zonder maaltijd niet bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://oostria.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_source": "https://oostria.nl/",
+      "closing_quality": "Eigen website geeft ma 16–22 en do–zo 16–22, maar meerdere actuele gidsen noemen maandag gesloten; maandag bewust onbekend. Di/wo niet in eigen rooster en gidsen gesloten. Horeca-eindtijd van restaurant, niet bewezen laatste toegang.",
+      "closing_notes": "02-11-2026: eigen exploitant https://oostria.nl/ noemt Engel bier, restaurant Parkstraat 1 en uren ma/do/vr/za/zo 16–22. Gids https://www.hfsfreelancers.nl/locaties/grou/restaurants/stube-oostria noemt alleen do–zo 16–22; https://www.tripadvisor.nl/Restaurant_Review-g1087507-d27991207-Reviews-Stube_Oostria-Grouw_Friesland_Province.html noemt ma 16–22 maar za/zo 15–22. Daarom ma onbekend, do–zo officiële 16–22, di/wo gesloten. Eigen website vermeldt historische septembervakantie met conflicterende 10 vs 11 september; niet als toekomstige sluiting opgenomen. Eigen 2026-site en reviews juni/augustus 2026 ondersteunen exploitatie, maar geen vrije bierinloop zonder maaltijd aangetoond. Laatste toegang onbekend.",
+      "features": "Friesland; Grou; restaurant/Engel bier; D0-kandidaat",
+      "website": "https://oostria.nl/",
+      "other_sources": [
+        "https://www.hfsfreelancers.nl/locaties/grou/restaurants/stube-oostria",
+        "https://www.tripadvisor.nl/Restaurant_Review-g1087507-d27991207-Reviews-Stube_Oostria-Grouw_Friesland_Province.html",
+        "https://www.outofhome-shops.nl/restaurant-oostria-brengt-authentieke-oostenrijkse-keuken-naar-nederland"
+      ],
+      "original_status": "2026 exploitatie en bier bewezen; alcohol-only publieke toegang en maandagrooster nog te verifiëren.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
