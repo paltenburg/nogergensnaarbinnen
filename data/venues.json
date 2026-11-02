@@ -19435,16 +19435,18 @@
       },
       "closing_quality": "Geen bedrijfseigen vast weekrooster geverifieerd",
       "closing_source": "",
-      "closing_notes": "Lokale toeristische site en berichten van augustus 2026 bevestigen exploitatie/evenementen. Gidsuren zijn onderling tegenstrijdig en niet overgenomen; laatste toegang onbekend.",
+      "closing_notes": "Eigen sociale berichten (gespiegeld op FindGlocal) uit augustus 2026 en Bolsward.nl-evenementenagenda bevestigen geplande DJ-avonden op 7, 14, 21 en 28 november 2026 en muziekbingo op 29 november. Dit is aanvullend bewijs van doorlopende café-activiteiten, NIET van vaste dagelijkse opening, sluiting of laatste toegang. FindGlocal noemt do 18–00, vr 18–04, za 17–04; RestaurantGuru noemt donderdag gesloten en zondag open. Daarom geen conflicterende vaste weekuren ingevoerd. Gecontroleerd 02-11-2026.",
       "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
       "website": "",
       "other_sources": [
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
         "https://www.findglocal.com/NL/Bolsward/340457065826837/Caf%C3%A9-de-Drie-Koningen",
-        "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward"
+        "https://nl.restaurantguru.com/Cafe-de-Koning-Bolsward",
+        "https://www.bolsward.nl/agenda/dj-nextbeat-cafe-de-drie-koningen-2/",
+        "https://www.djfiasco.nl/evenementen"
       ],
-      "original_status": "Bolsward.nl vermeldt Café De Drie Koningen; eigen sociale berichten van augustus 2026 gespiegeld op FindGlocal met evenementen in 2026. Controledatum 30-10-2026; niet live.",
-      "checked_on": "2026-10-30",
+      "original_status": "Lokale 2026 evenementenkalender en exploitantenberichten bevestigen recente caféactiviteiten en aangekondigde novemberavonden; vrije inloop per evenement en reguliere weekuren niet afzonderlijk bewezen.",
+      "checked_on": "2026-11-02",
       "geo": {
         "lat": 53.0621993,
         "lon": 5.5186677,
@@ -37421,6 +37423,49 @@
         "https://eatoutmap.com/en/netherlands/leeuwarden/bar-and-cafe-cambuur"
       ],
       "original_status": "Eigen website zonder gedateerde 2026 exploitatiepost en recente KvK-registratie tonen identiteit/sector, maar feitelijke vrije opening vandaag en actuele weekuren zijn niet bewezen. Verborgen tot primaire actuele exploitatieverificatie."
+    },
+    {
+      "id": "brasserie-ed-bolsward-20261102",
+      "name": "Brasserie E&D",
+      "type": "Brasserie / wijn en borrel",
+      "address": "Jongemastraat 19",
+      "city": "Bolsward",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Bedrijfsprofiel noemt publiek toegankelijke brasserie met borrel, maar actuele vrije inloop op 02-11-2026 niet rechtstreeks bevestigd.",
+      "alcohol": "Eigen LinkedIn-bedrijfsprofiel vermeldt wijn uit winestations en borrel; een oudere branchepagina noemt ook high wine en high beer. Actueel assortiment niet onafhankelijk bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend: aggregatoren tonen di–zo 17–23, geen bereikbaar actueel exploitantrooster.",
+      "closing_source": "",
+      "closing_notes": "Branchegids https://highteawereld.nl/nl/Locaties/3880/Brasserie_EenD en OSM-afgeleide kaarten noemen di–zo 17–23; deze kunnen historisch zijn. www.brasserie-ed.nl en brasserie-ed.nl konden 02-11-2026 niet rechtstreeks worden geopend. Een externe reviewsamenvatting toont een review gedateerd 08-06-2026, maar bewijst geen actuele novemberexploitatie. Daarom alle uren/laatste toegang onbekend en kandidaat verborgen.",
+      "features": "Friesland D0 Bolsward; nog actuele exploitatie verifiëren",
+      "website": "",
+      "other_sources": [
+        "https://nl.linkedin.com/company/brasserie-e%26d",
+        "https://highteawereld.nl/nl/Locaties/3880/Brasserie_EenD",
+        "https://menukaart.menu/restaurants/bolsward-nederland/brasserie-ed/reviews",
+        "https://straten.openalfa.nl/straten/jongemastraat-bolsward-sudwest-fryslan"
+      ],
+      "original_status": "Bestaande horecanaam/adres en wijn-/borrelfunctie uit eigen LinkedIn-profiel; recente review uit juni 2026 als zwak exploitatie-indicium, geen actuele novemberopening bewezen.",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
