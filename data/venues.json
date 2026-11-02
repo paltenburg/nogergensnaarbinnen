@@ -20186,15 +20186,16 @@
       "type": "Restaurant/borrel",
       "address": "Langestreek 46",
       "website": "https://dewarejakob.nl/",
-      "access": "Publiek restaurant; losse borrel zonder maaltijd niet afzonderlijk bevestigd.",
-      "alcohol": "Eigen site noemt huiswijn uit Chili; alcoholaanbod bevestigd.",
+      "access": "Publiek restaurant volgens eigen website; een losse borrel zonder maaltijd is niet expliciet bevestigd. Wijn/bier op de kaart bewijst geen vrije drankinloop.",
+      "alcohol": "Eigen huidige website vermeldt huiswijn uit Chili; via de eigen menukaartpagina gekoppelde PDF (document uit november 2023) noemt tapbier, speciaalbier, wijn en gedistilleerd. Het PDF-document is gedateerd en bewijst niet dat alle genoemde merken in november 2026 beschikbaar zijn.",
       "other_sources": [
         "https://dewarejakob.nl/",
         "https://dewarejakob.nl/homepage/menukaart/",
-        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants"
+        "https://www.vvvschiermonnikoog.nl/eten-en-drinken/restaurants",
+        "https://dewarejakob.nl/wp-content/uploads/2023/11/Pizzas.pdf"
       ],
       "opening_quality": "Eigen website: ma–do vanaf 16:00, vr–zo vanaf 14:00; einduren ontbreken.",
-      "closing_notes": "Eigen site noemt dagelijks open: ma–do vanaf 16:00, vr–zo vanaf 14:00; einduren/laatste toegang niet gepubliceerd. Gidsen (o.a. OSM/AlleBiz) spreken elkaar tegen. Alleen bedrijfseigen begintijden overgenomen.",
+      "closing_notes": "Eigen site noemt dagelijks open: ma–do vanaf 16:00, vr–zo vanaf 14:00; einduren/laatste toegang niet gepubliceerd. Gidsen (o.a. OSM/AlleBiz) spreken elkaar tegen. Alleen bedrijfseigen begintijden overgenomen. | 02-11-2026: eigen https://dewarejakob.nl/homepage/menukaart/ en gelinkte https://dewarejakob.nl/wp-content/uploads/2023/11/Pizzas.pdf opnieuw gecontroleerd; eigen PDF bevat bieren/wijnen/sterke drank, maar dateert uit 2023. Reguliere vrije borrel zonder eten, huidige merken, exacte einduren en laatste toegang blijven onbekend; geen vaste sluiting toegevoegd.",
       "city": "Schiermonnikoog",
       "region": "friesland",
       "country": "Nederland",
@@ -20212,7 +20213,7 @@
       "closing_source": "https://dewarejakob.nl/",
       "features": "Schiermonnikoog; individueel gecontroleerde publieke drinklocatie",
       "original_status": "Exploitant en regionale gids gecontroleerd op 2026-10-30; geen live garantie.",
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-02",
       "website_provenance": "Directe exploitantwebsite gecontroleerd 2026-10-30.",
       "opening": {
         "ma": "16:00",
@@ -20225,7 +20226,7 @@
       },
       "opening_source": "https://dewarejakob.nl/",
       "opening_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "geo": {
         "lat": 53.4800362,
         "lon": 6.163128,
@@ -36534,7 +36535,7 @@
       "country": "Nederland",
       "selection": "Nog te controleren",
       "access": "Eigen Neushoorn-cafépagina: reguliere vrije inloop do/vr 17:00–00:00, za 17:00–22:00. Zaterdag na 22:00 verandert het café in een nachtclub; entreeprijs en toegang verschillen per evenement. Overige dagen uitsluitend evenementafhankelijk.",
-      "alcohol": "Eigen Neushoorn-site noemt publieke cafébar en drankjes; Neushoorn organiseert ook bierfestivals. Een eigen actuele reguliere alcoholkaart van het café is niet aangetroffen; daarom nog verborgen als kandidaat.",
+      "alcohol": "Exploitant bevestigt op https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept (2026) dat het café uitsluitend drank verkoopt en onder meer lokaal gebrouwen dranken aanbiedt; eigen cafépagina noemt borrelen. Een expliciete actuele reguliere bier-/wijnkaart of concrete alcoholsoort ontbreekt nog; daarom selectie 'Nog te controleren' behouden.",
       "opening": {
         "ma": "—",
         "di": "—",
@@ -36560,7 +36561,7 @@
       "checked_on": "2026-11-02",
       "opening_quality": "Eigen actuele cafépagina geeft do/vr 17:00–00:00 en za 17:00–22:00; eigen contactpagina zegt vanaf 16:00, daarom conservatieve 17:00. Geen reguliere ma/di/wo/zo-opening, wel losse evenementen.",
       "closing_quality": "Eigen actuele cafépagina geeft gratis toegang tot za 22:00, daarna eventueel betaalde nachtclub; de clubsluiting is niet als gewone gratis cafésluiting gebruikt.",
-      "closing_notes": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend.",
+      "closing_notes": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend. | 02-11-2026: eigen 2026-conceptbericht https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept opnieuw gecontroleerd: in het café worden alleen dranken verkocht, waaronder lokaal gebrouwen dranken; externe restaurants verzorgen het eten. Dit versterkt de drankfunctie, maar noemt niet ondubbelzinnig een specifieke alcoholische drank op de gewone cafékaart; kandidaat blijft verborgen tot direct alcoholbewijs.",
       "features": "Gratis poppodiumcafé do–za; na za 22:00 evenementafhankelijk/ticket; reguliere alcoholkaart te verifiëren",
       "website": "https://www.neushoorn.nl/cafe",
       "website_checked_on": "2026-11-02",
