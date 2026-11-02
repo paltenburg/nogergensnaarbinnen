@@ -35617,6 +35617,79 @@
       "original_status": "Actieve jachthaven met eigen 2026-seizoenspagina, maar novemberse horecaopenstelling niet bewezen.",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02"
+    },
+    {
+      "id": "de-skeve-toren-leeuwarden-20261102",
+      "name": "Restaurant De Skeve Toren",
+      "type": "Restaurant/borrelcafé",
+      "address": "Oldehoofsterkerkhof 48",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen exploitant nodigt uit voor lunch, diner of cocktails en biedt afzonderlijke borrelarrangementen; openbare restauranttoegang bevestigd. Laatste toegang niet afzonderlijk vermeld.",
+      "alcohol": "Eigen homepage noemt cocktails; eigen menupagina biedt wijnkaart en borrelkaart.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen officiële website; weekrooster en expliciete feestdagensluitingen 02-11-2026 gecontroleerd",
+      "closing_source": "https://deskevetoren.nl/contact/",
+      "closing_notes": "Eigen https://deskevetoren.nl/contact/ en https://deskevetoren.nl/ geven ma/di gesloten, wo 11–22, do/vr/za 11–23, zo 11–22. Regiogids Friesland.nl toont ander rooster (di open); officiële exploitant voorrang. Op 28/29 december 2026 kondigt exploitant uitzonderlijke opening aan, maar zonder uren; geen vaste uren voor deze speciale dagen afgeleid. Gesloten op 25/26 december 2026, 31 december 2026 en 1 januari 2027, apart als date_closures opgeslagen. Op feest-/evenementdagen mogelijk afwijkende kaart; laatste toegang onbekend.",
+      "features": "Friesland; Leeuwarden; cocktails en borrel",
+      "website": "https://deskevetoren.nl/",
+      "other_sources": [
+        "https://deskevetoren.nl/menukaart/",
+        "https://deskevetoren.nl/arrangementen/",
+        "https://www.friesland.nl/en/locations/2136249784/de-skeve-toren"
+      ],
+      "date_closures": [
+        {
+          "start": "2026-12-25",
+          "end": "2026-12-25",
+          "source": "https://deskevetoren.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Eigen exploitant vermeldt deze datum expliciet als gesloten; geen afzonderlijke evenementenuitzondering bevestigd."
+        },
+        {
+          "start": "2026-12-26",
+          "end": "2026-12-26",
+          "source": "https://deskevetoren.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Eigen exploitant vermeldt deze datum expliciet als gesloten; geen afzonderlijke evenementenuitzondering bevestigd."
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "source": "https://deskevetoren.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Eigen exploitant vermeldt deze datum expliciet als gesloten; geen afzonderlijke evenementenuitzondering bevestigd."
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-01",
+          "source": "https://deskevetoren.nl/contact/",
+          "checked_on": "2026-11-02",
+          "certainty": "Eigen exploitant vermeldt deze datum expliciet als gesloten; geen afzonderlijke evenementenuitzondering bevestigd."
+        }
+      ],
+      "original_status": "Eigen restaurantwebsite en contactpagina met expliciet weekrooster en feestdagensluitingen; publieke borrel en wijn/cocktails bevestigd.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02"
     }
   ],
   "admission_policies": [
