@@ -1,5 +1,9 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Definitieve publicatiecontrole 02-11-2026 circa 18:02 CET — 754-record versie geslaagd
+
+**Actions-run [41487053767](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41487053767) op commit [513d838](https://github.com/paltenburg/nogergensnaarbinnen/commit/513d838abddbe2c79c4ee9dfa1156963dd511a08) is nu `completed/success`, inclusief `actions/deploy-pages@v4`.** De definitieve master bevat **754 unieke locaties, 690 ingecheckte BAG/GPS-markers, 64 zonder**. Nieuwe regressietests voor Barista/ODL/Markt23 slagen in CI. Eerdere Pages-HTTP-500 en artifactconflict zijn door een nieuwe inhoudelijke testcommit met **nieuwe workflow-run** omzeild; niet meer als actuele publicatieblokkade tellen. **Live HTTP van de GitHub Pages-URL en echte mobiele Leaflet-bediening zijn nog steeds niet onafhankelijk getest**; een succesvolle Pages-deploy bewijst niet dat alle mobiele interacties goed werken. Vervolg D0, ontbrekende markers en de W46-audit zoals hieronder.
+
 ### Herstel Pages + extra regressietest 02-11-2026 circa 18:01 CET
 
 De tweede poging van [Actions-run 41486527119](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41486527119) is **ook `completed/failure`**, maar met een **andere technische oorzaak**: joblog toont dat `actions/upload-pages-artifact` op dezelfde rerun een tweede artifact met naam `github-pages` creëerde; `actions/deploy-pages@v4` weigerde vervolgens **2 artifacts met dezelfde naam**. Dit is een **rerun-artifactconflict**, niet een falende datasettest. Geen derde rerun van dezelfde run zonder eerst artifacts te verwijderen; start liever een nieuwe workflow-run.
