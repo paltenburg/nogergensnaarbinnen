@@ -125,3 +125,31 @@ for (const day of ['wo','do','vr','za','zo']) {
 }
 assert.equal(deDames.selection, 'Nog te controleren', 'Do not infer reopening from expired banner');
 console.log('It Holt Christmas closure and De Dames operator start hours verified.');
+
+
+// Friesland D0: one confirmed weekly café schedule; an older name is not a second venue.
+const wap = db.places.find(p => p.id === 'cafe-t-wap-leeuwarden-20261102');
+const peer = db.places.find(p => p.id === 'cafe-de-peer-gorredijk-20261102');
+assert.ok(wap && peer, 'New Friesland D0 venues retain their stable IDs');
+assert.equal(wap.website, 'https://www.cafetwap.nl/');
+assert.equal(wap.opening_checked_on, '2026-11-02');
+assert.equal(wap.closing_checked_on, '2026-11-02');
+for (const [day, opening, closing] of [
+  ['ma','14:00','22:00'],['di','13:00','01:00'],['wo','13:00','01:00'],
+  ['do','13:00','01:00'],['vr','13:00','01:00'],['za','11:00','01:00'],
+  ['zo','13:00','23:00']
+]) {
+  assert.equal(wap.opening[day], opening, 'Operator opening on '+day);
+  assert.equal(wap.closing[day], closing, 'Operator closing on '+day);
+}
+assert.equal(peer.address, 'Hoofdstraat 70');
+assert.equal(peer.selection, 'Voorlopig');
+assert.equal(peer.geocode_blocked, true, 'Conflicting 70/71 address cannot be geocoded automatically');
+assert.ok(!peer.geo, 'No invented BAG coordinates for Café De Peer');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(peer.opening[day], '?', 'Do not reuse obsolete Compagnon hours '+day);
+  assert.equal(peer.closing[day], '?', 'Do not reuse obsolete Compagnon closing '+day);
+}
+assert.equal(db.places.filter(p => p.city === 'Gorredijk' &&
+  /companon|compagnon/i.test(p.name)).length, 0, 'Old De Compagnon is not a second active café');
+console.log('Friesland WAP official week schedule and De Peer predecessor/uncertain hours verified.');
