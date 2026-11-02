@@ -37590,6 +37590,53 @@
       "original_status": "Exploitantwebsite met weekuren en adres; alcoholaanbod uit actuele derdebron, geen eigen drankenkaart. Voorlopig; geen laatste toegang.",
       "checked_on": "2026-11-02",
       "features": "D0 Súdwest-Fryslân / Bolsward; café/restaurant; openingstijden eigen site, alcohol nog direct controleren"
+    },
+    {
+      "id": "de-grillerije-franeker-20261102",
+      "name": "De Grillerije",
+      "type": "Restaurant / cocktails en borrelkaart",
+      "address": "Groenmarkt 14",
+      "city": "Franeker",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant bevestigt publiek restaurant en afzonderlijke drankenkaart; of bezoekers uitsluitend voor een drankje zonder maaltijd welkom zijn, niet expliciet bevestigd.",
+      "alcohol": "Exploitant bevestigt bier, huiswijn, cocktails en sterke drank op actuele eigen drankenkaart (15-06-2026).",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen site bevat geen volledig regulier caféweekrooster; externe restaurantgidsen spreken elkaar tegen.",
+      "opening_source": "",
+      "opening_checked_on": "2026-11-02",
+      "closing_quality": "Onbekend; geen bedrijfseigen regulier sluituur of laatste toegang geverifieerd.",
+      "closing_source": "",
+      "closing_notes": "02-11-2026: https://degrillerije.nl/ toont recente menuwijziging per 09-10-2026 en publieke restaurantfunctie; https://degrillerije.nl/drinken-bij-de-grillerije/ bevestigt cocktails, bier, wijn en sterke drank; https://degrillerije.nl/contact/ bevestigt Groenmarkt 14, 8801 KH Franeker. De eigen site noemt geen reguliere dag- of sluituren. Gids https://restaurantgids.nl/restaurant/de-grillerije-franeker gebruikt OSM-rooster (ma open, wo dicht), terwijl https://www.tripadvisor.nl/Restaurant_Review-g227917-d5796563-Reviews-Restaurant_De_Grillerije-Franeker_Friesland_Province.html ma gesloten en wo open noemt. Daarom geen gidsuren overgenomen. Losse barinloop zonder diner en laatste toegang onbekend; voorlopig verborgen.",
+      "website": "https://degrillerije.nl/",
+      "website_checked_on": "2026-11-02",
+      "other_sources": [
+        "https://degrillerije.nl/drinken-bij-de-grillerije/",
+        "https://degrillerije.nl/contact/",
+        "https://www.franeker.frl/bezoeken/159356/restaurant-de-grillerije/",
+        "https://restaurantgids.nl/restaurant/de-grillerije-franeker"
+      ],
+      "original_status": "2026 exploitantenwebsite en alcoholkaart actueel; geen expliciete vrije borrelinloop of betrouwbaar caféweekrooster. Nog te controleren.",
+      "checked_on": "2026-11-02",
+      "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren"
     }
   ],
   "admission_policies": [
