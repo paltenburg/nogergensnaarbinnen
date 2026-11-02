@@ -3072,7 +3072,12 @@
         "https://www.030utrecht.nl/adres/0344200000058144/"
       ],
       "original_status": "02-11-2026: exploitant bevestigd, maar uitsluitend besloten evenementen; selection Nee is uitsluiting wegens ontbrekende publieke toegang, niet wegens bedrijfssluiting.",
-      "geo": null,
+      "geo": {
+        "lat": 52.0984261,
+        "lon": 5.1143625,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Bemuurde Weerd O.Z. 40, 3514AR Utrecht"
+      },
       "website_checked_on": "2026-11-02",
       "website_provenance": "Eigen exploitant https://stockholmcafe.nl/ noemt naam, Bemuurde Weerd O.Z. 40, exclusief besloten borrels/feesten en reservering.",
       "opening": {
@@ -3084,7 +3089,7 @@
         "za": "—",
         "zo": "—"
       },
-      "geocode_notes": "02-11-2026: officiële https://stockholmcafe.nl/ vermeldt Bemuurde Weerd O.Z. 40; BAG-afgeleide https://www.030utrecht.nl/adres/0344200000058144/ bevestigt exact adres 40 (onderscheiden van 40-BS). Coördinaten nog niet geverifieerd; locatie verborgen wegens besloten toegang."
+      "geocode_notes": "02-11-2026: officiële https://stockholmcafe.nl/ vermeldt Bemuurde Weerd O.Z. 40; BAG-afgeleide https://www.030utrecht.nl/adres/0344200000058144/ bevestigt exact adres 40 (onderscheiden van 40-BS). Coördinaten nog niet geverifieerd; locatie verborgen wegens besloten toegang. 02-11-2026: exacte BAG-adresmatch uit werkelijk gecontroleerd GitHub Pages-artefact run 41418571810 (data/geocode-report.json; PDOK Locatieserver https://api.pdok.nl/bzk/locatieserver/search/v3_1/free), gecontroleerd op ID, adres, plaats, postcode, NL-coördinatenbereik en afwezigheid bestaande marker. Alleen adreslocatie, geen bewijs voor feitelijke vrije inloop."
     },
     {
       "id": "cafe-tante-door-21cf4d6",
@@ -4646,8 +4651,13 @@
         "https://www.030utrecht.nl/jaap-van-heusden-3513bh/"
       ],
       "original_status": "Officiële website/agenda actief in oktober 2026",
-      "geo": null,
-      "geocode_notes": "02-11-2026: eigen https://ekko.nl/location/ekko/ bevestigt Bemuurde Weerd Westzijde 3 / WZ 3, 3513BH Utrecht; BAG-afgeleide https://www.030utrecht.nl/jaap-van-heusden-3513bh/ bevestigt schrijfwijze Bemuurde Weerd W.Z. 3. Normalisatie uitsluitend voor exact adres; nog geen marker zonder PDOK-match."
+      "geo": {
+        "lat": 52.0975125,
+        "lon": 5.1144575,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Bemuurde Weerd W.Z. 3, 3513BH Utrecht"
+      },
+      "geocode_notes": "02-11-2026: eigen https://ekko.nl/location/ekko/ bevestigt Bemuurde Weerd Westzijde 3 / WZ 3, 3513BH Utrecht; BAG-afgeleide https://www.030utrecht.nl/jaap-van-heusden-3513bh/ bevestigt schrijfwijze Bemuurde Weerd W.Z. 3. Normalisatie uitsluitend voor exact adres; nog geen marker zonder PDOK-match. 02-11-2026: exacte BAG-adresmatch uit werkelijk gecontroleerd GitHub Pages-artefact run 41418571810 (data/geocode-report.json; PDOK Locatieserver https://api.pdok.nl/bzk/locatieserver/search/v3_1/free), gecontroleerd op ID, adres, plaats, postcode, NL-coördinatenbereik en afwezigheid bestaande marker. Alleen adreslocatie, geen bewijs voor feitelijke vrije inloop."
     },
     {
       "id": "eleven-bar-7223a88",
@@ -6763,7 +6773,12 @@
         "https://www.030utrecht.nl/adres/0344200000124328/"
       ],
       "original_status": "31-10-2026: daadwerkelijke heropening sinds 30 oktober onafhankelijk gemeld door JFK, in overeenstemming met actuele eigen site; sluituren onbekend.",
-      "geo": null,
+      "geo": {
+        "lat": 52.097329,
+        "lon": 5.1154293,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Bemuurde Weerd O.Z. 13, 3514AN Utrecht"
+      },
       "website_checked_on": "2026-10-31",
       "website_provenance": "Verified official venue page",
       "opening": {
@@ -6777,7 +6792,7 @@
       },
       "opening_source": "https://www.nomono-utrecht.nl/",
       "opening_checked_on": "2026-10-31",
-      "geocode_notes": "02-11-2026: exploitant https://www.nomono-utrecht.nl/ vermeldt Bemuurde Weerd oz 13; BAG-adresbron https://www.030utrecht.nl/adres/0344200000124328/ bevestigt exacte schrijfwijze Bemuurde Weerd O.Z. 13, 3514AN Utrecht, bijeenkomstfunctie. Eerder 'Oostzijde 13' normaliseren voor exacte PDOK-match; coördinaten nog NIET bewezen en niet handmatig gezet."
+      "geocode_notes": "02-11-2026: exploitant https://www.nomono-utrecht.nl/ vermeldt Bemuurde Weerd oz 13; BAG-adresbron https://www.030utrecht.nl/adres/0344200000124328/ bevestigt exacte schrijfwijze Bemuurde Weerd O.Z. 13, 3514AN Utrecht, bijeenkomstfunctie. Eerder 'Oostzijde 13' normaliseren voor exacte PDOK-match; coördinaten nog NIET bewezen en niet handmatig gezet. 02-11-2026: exacte BAG-adresmatch uit werkelijk gecontroleerd GitHub Pages-artefact run 41418571810 (data/geocode-report.json; PDOK Locatieserver https://api.pdok.nl/bzk/locatieserver/search/v3_1/free), gecontroleerd op ID, adres, plaats, postcode, NL-coördinatenbereik en afwezigheid bestaande marker. Alleen adreslocatie, geen bewijs voor feitelijke vrije inloop."
     },
     {
       "id": "olearys-e541c8d",
