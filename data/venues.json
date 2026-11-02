@@ -37186,6 +37186,55 @@
         "https://www.hfsfreelancers.nl/locaties/leeuwarden/bars/barcafe-claus"
       ],
       "original_status": "Recente handelsregistratie en gidsvermeldingen, maar geen primaire exploitatie-/roosterbevestiging. Verborgen kandidaat."
+    },
+    {
+      "id": "bar-cafe-cambuur-leeuwarden-20261102",
+      "name": "Bar/Café Cambuur",
+      "type": "Bruin café / eetcafé / dartcafé",
+      "address": "Insulindestraat 44",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website noemt klanten welkom in bruin café/eetcafé, darten, biljart, pool, muziek en zaalhuur. Reguliere vrije inloop aannemelijk uit bedrijfseigen omschrijving, specifieke toegangsvoorwaarden niet bevestigd.",
+      "alcohol": "Eigen bedrijfssite beschrijft bruin café en barfunctie; KvK 2026 SBI 56300 exploitatie drinkgelegenheden. Actuele bedrijfseigen bier-/wijnkaart niet gevonden.",
+      "opening": {
+        "ma": "08:00",
+        "di": "08:00",
+        "wo": "08:00",
+        "do": "08:00",
+        "vr": "08:00",
+        "za": "08:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://cafecambuur.jouwweb.nl/",
+      "closing_source": "",
+      "opening_checked_on": "2026-11-02",
+      "opening_quality": "Eigen website zegt koffie vanaf 08:00, maar specificeert geen dagen; ma–za 08:00 mede ondersteund door externe Cylex, zondag 16:00 in gids niet als primair bevestigd.",
+      "closing_quality": "Eigen site noemt geen reguliere sluituren; externe bronnen noemen 23:00/00:00 maar conflicteren. Alle sluituren onbekend.",
+      "closing_notes": "02-11-2026: https://cafecambuur.jouwweb.nl/ is bedrijfseigen pagina en noemt familiebedrijf sinds 1969, koffie vanaf 08:00, bruin café, darten, biljarten en zaalhuur. https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/bar-cafe-cambuur-leeuwarden-01036955-000001732374 heeft KvK-bron 24-03-2026, Insulindestraat 44, SBI 56300. https://www.cylex.nl/bedrijf/bar---caf%C3%A9-cambuur-10783852.html geeft ma–za 08–24, zo 16–23; https://eatoutmap.com/en/netherlands/leeuwarden/bar-and-cafe-cambuur noemt ma 08–23; geen van deze sluituren overgenomen. Gidsen beschrijven adres 44-48/44-50, KvK nr. 44; ingang en BAG-matching vóór marker controleren. Laatste toegang en specifieke drankkaart onbekend.",
+      "features": "D0 Leeuwarden Indische buurt; bedrijfseigen café en KvK 2026; adresrange en sluituren open",
+      "website": "https://cafecambuur.jouwweb.nl/",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Bedrijfseigen pagina rechtstreeks gecontroleerd, maar geen expliciet dag-voor-dag sluitrooster.",
+      "checked_on": "2026-11-02",
+      "geocode_blocked": true,
+      "other_sources": [
+        "https://cafecambuur.jouwweb.nl/",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/bar-cafe-cambuur-leeuwarden-01036955-000001732374",
+        "https://www.cylex.nl/bedrijf/bar---caf%C3%A9-cambuur-10783852.html",
+        "https://eatoutmap.com/en/netherlands/leeuwarden/bar-and-cafe-cambuur"
+      ],
+      "original_status": "Eigen caféwebsite en KvK 2026 bevestigen identiteit/sector. Exacte sluituren en ingang 44/44-50 niet vastgesteld; marker geblokkeerd, voorlopig."
     }
   ],
   "admission_policies": [
