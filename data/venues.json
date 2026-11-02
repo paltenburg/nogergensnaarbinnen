@@ -37823,6 +37823,54 @@
         "https://www.missethoreca.nl/415708/barista-cafe-drachten-opent-in-voormalige-doppio-espresso"
       ],
       "original_status": "Eigen actuele vestigingspagina noemt vestiging en uren; onafhankelijke horeca-vakpers 22-04-2026 bevestigt opening 21-04-2026. Actuele live toegang op individuele datum niet geverifieerd."
+    },
+    {
+      "id": "cafe-odl-luinjeberd-20261102",
+      "name": "Cafetaria en Eetcafé O.D.L.",
+      "type": "Bruin café / eetcafé / cafetaria",
+      "address": "Aengwirderweg 149",
+      "city": "Luinjeberd",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen actuele website zegt expliciet dat bezoekers welkom zijn in het bruine café, naast de cafetaria en zaalverhuur; losse koffie, koud bier en een maaltijd zijn afzonderlijke mogelijkheden, zonder verplicht diner of zaalhuur.",
+      "alcohol": "Eigen cafépagina vermeldt uitdrukkelijk 'een lekker koud biertje' in het bruine café met biljart; alcoholaanbod primair bevestigd, overige soorten niet afzonderlijk aangetoond.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://cafeodl.nl/",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "website_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_quality": "Eigen site vermeldt café wo–zo vanaf 16:00, zonder sluituur. Ma/di niet expliciet als gesloten voor café gemarkeerd; daarom onbekend. Cafetaria do–zo 16–20 is een andere functie, niet als café-eindtijd gebruikt.",
+      "closing_notes": "02-11-2026: primaire https://cafeodl.nl/ noemt 'Cafetaria en Eetcafé O.D.L' met bruin café en bier; café wo–zo vanaf 16:00. Eigen cafetariauren do–zo 16–20 niet verwarren met café. Externe gidsen geven uiteenlopende café-sluituren (20:00 versus 23:30), dus alle café-einduren en laatste toegang onbekend. Historische gidsnaam Café Onder de Linden en VOF op hetzelfde adres; geen tweede locatie aanmaken. Actuele fysieke opening op een specifieke avond niet onafhankelijk bezocht.",
+      "features": "Bruin café met biljart; bier; café vanaf 16:00 wo–zo; naast cafetaria en zaalverhuur",
+      "website": "https://cafeodl.nl/",
+      "other_sources": [
+        "https://cafeodl.nl/contact/",
+        "https://www.allebiz.nl/caf%C3%A9-onder-de-linden_2Y-06-13736607",
+        "https://nl.restaurantguru.com/Cafe-and-cafetaria-ODL-Luinjeberd",
+        "https://www.aengwirden.nl/images/aengwirden-actief/2026/AengwirdenActief-feb2026.pdf"
+      ],
+      "original_status": "Actuele exploitantenwebsite met adres, openbare caféfunctie, bier en weekstarts; onafhankelijke dorpspublicatie februari 2026 vermeldt O.D.L. op hetzelfde adres. Exacte sluituren onbekend."
     }
   ],
   "admission_policies": [
