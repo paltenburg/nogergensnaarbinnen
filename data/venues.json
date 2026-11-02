@@ -35902,6 +35902,54 @@
       },
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exact BAG-adresmatch uit werkelijk gedraaid PDOK-rapport van GitHub Actions-run 41373564805 (723-record Pages-artefact, 1 nieuwe match): Parkstraat 1, 9001AS Grou. BAG-adrespositie, niet afzonderlijk gecontroleerde cafédeur."
+    },
+    {
+      "id": "cafe-t-wap-leeuwarden-20261102",
+      "name": "Café 't WAP",
+      "type": "Bruin café / buurtcafé",
+      "address": "Willem-Alexanderplein 34",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Exploitant nodigt publiek expliciet uit voor een borrel, biljarten, darten, live muziek en voetbal; geen toegangsticket of maaltijd vereist.",
+      "alcohol": "Bier en borrelfunctie bevestigd op eigen caféwebsite (uitbater beschrijft bier en publieke borrel). Exact assortiment en laatste toegang onbekend.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "13:00",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "11:00",
+        "zo": "13:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.cafetwap.nl/",
+      "closing_source": "https://www.cafetwap.nl/",
+      "opening_quality": "Exploitant publiceert volledig weekrooster; incidentele afwijkingen en laatste toegang niet bevestigd.",
+      "closing_quality": "Exploitant publiceert volledig weekrooster; sluiting na middernacht di–za; geen afzonderlijke laatste toegang.",
+      "closing_notes": "02-11-2026: officiële https://www.cafetwap.nl/ rechtstreeks gelezen: zo 13–23, ma 14–22, di–vr 13–01, za 11–01; adres Willem Alexanderplein 34. Exploitant bevestigt publieke borrel en bier. Tablova https://tablova.nl/zaak/leeuwarden/cafe-t-wap-n4303128806 citeert zelfde site met deze uren (18-10-2026); AlleBiz toont afwijkende uren en is niet overgenomen. Lokale publicatie maart 2026 noemt café als verspreidpunt, en september 2026 recensie ondersteunt recente exploitatie; geen live opening op een specifiek tijdstip gegarandeerd. Laatste toegang onbekend.",
+      "website": "https://www.cafetwap.nl/",
+      "website_checked_on": "2026-11-02",
+      "opening_checked_on": "2026-11-02",
+      "closing_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.cafetwap.nl/",
+        "https://tablova.nl/zaak/leeuwarden/cafe-t-wap-n4303128806",
+        "https://menukaart.menu/restaurants/leeuwarden-1/cafe-t-wap-2",
+        "https://www.allebiz.nl/caf%C3%A9-t-wap-06-22062552"
+      ],
+      "original_status": "Primaire caféwebsite publiceert openbare borrel, alcohol en volledige weekuren; exacte BAG-marker en laatste toegang nog niet geverifieerd.",
+      "features": "D0 Leeuwarden / Camminghaburen; buurthoreca; maandag 22:00, overige late avonden tot 01:00"
     }
   ],
   "admission_policies": [
