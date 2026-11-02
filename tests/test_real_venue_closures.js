@@ -381,3 +381,20 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
   assert.equal(tighBarra.closing[day], '?', 'Conflicting Cylex/Guru closing is not official '+day);
 }
 console.log('Tigh Barra 2026 bar evidence without fabricated weekly hours verified.');
+
+
+// TOON is a daytime coffee/vinyl venue with isolated alcohol events.
+// Article 35 exemptions and a July VrijMiBo do not prove regular bar hours.
+const toon = db.places.find(p => p.id === 'toon-luisterbar-leeuwarden-20261102');
+assert.ok(toon);
+assert.equal(toon.address, 'Kleine Kerkstraat 11');
+assert.equal(toon.selection, 'Nog te controleren');
+assert.equal(toon.website, 'https://deepgrooves.eu/toon-luisterbar-leeuwarden/');
+assert.ok(toon.other_sources.includes('https://zoek.officielebekendmakingen.nl/gmb-2026-140356.html'));
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(toon.opening[day], '?', 'Coffee opening does not prove daily bar admission '+day);
+  assert.equal(toon.closing[day], '?', 'July one-off event does not prove bar closing '+day);
+}
+assert.equal(db.places.filter(p => p.city === 'Leeuwarden' &&
+  p.address === 'Kleine Kerkstraat 11').length, 1);
+console.log('TOON special-event alcohol and ordinary coffee hours kept distinct.');
