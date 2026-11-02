@@ -64,3 +64,44 @@ assert.equal(field(praethuys, 'closing', 'za', '2027-05-01'), '?',
 assert.equal(field(praethuys, 'last_entry', 'vr', '2026-11-06'), '?',
   'Seasonal bar hours do not prove last entry');
 console.log('WestCord Vlieland distinct venues and winter date boundaries verified.');
+
+
+// Utrecht shared-address corrections checked against primary operator websites on 2026-11-02.
+const danel = db.places.find(p => p.id === 'kitchen-bar-danel-4c5a5ea');
+const manners = db.places.find(p => p.id === 'manners-cocktail-lounge-1a48ee6');
+const papi = db.places.find(p => p.id === 'papis-comfort-kitchen-bf4bc0e');
+const vino = db.places.find(p => p.id === 'wijnbar-vino-ae6ef03');
+const winkel = db.places.find(p => p.id === 'winkel-van-sinkel-27c2af5');
+const royal = db.places.find(p => p.id === 'beatrix-theater-royal-bar-6a50c76');
+const queens = db.places.find(p => p.id === 'restaurant-queens-4d55fcd');
+assert.ok([danel, manners, papi, vino, winkel, royal, queens].every(Boolean));
+for (const date of ['2026-12-24','2026-12-25','2026-12-26','2026-12-31','2027-01-01']) {
+  assert.equal(isClosed(danel, date), true, 'Danel official holiday closure ' + date);
+  const closure = danel.date_closures.find(x => x.start === date && x.end === date);
+  assert.equal(closure?.source, 'https://danel-utrecht.nl/contact/');
+  assert.equal(closure?.checked_on, '2026-11-02');
+}
+for (const date of ['2026-12-23','2026-12-27','2026-12-30','2027-01-02']) {
+  assert.equal(isClosed(danel, date), false, 'Do not invent adjacent Danel closure ' + date);
+}
+assert.equal(field(danel, 'closing', 'wo', '2026-12-23'), '22:00');
+assert.equal(field(danel, 'closing', 'za', '2027-01-02'), '00:00');
+assert.equal(manners.address, papi.address, 'Separate speakeasy shares Papi address');
+assert.notEqual(manners.id, papi.id);
+assert.equal(manners.website, 'https://www.papiscomfortkitchen.com/cocktails');
+for (const day of ['ma','di','wo','zo']) {
+  assert.equal(manners.closing[day], '—', 'Manners closed weekday ' + day);
+}
+for (const day of ['do','vr','za']) {
+  assert.equal(manners.opening[day], '18:30');
+  assert.equal(manners.closing[day], '01:00');
+}
+assert.equal(vino.address, winkel.address, 'Separate VINO winebar shares Winkel van Sinkel address');
+for (const day of ['ma','di']) assert.equal(vino.closing[day], '—');
+for (const day of ['wo','do','vr','za','zo']) {
+  assert.equal(vino.opening[day], '15:00');
+  assert.equal(vino.closing[day], '?', 'Do not invent VINO closing hours from general building schedule');
+}
+assert.equal(royal.selection, 'Nog te controleren', 'Private Royal Bar is not public walk-in');
+assert.notEqual(royal.id, queens.id, 'Royal Bar and Queens remain separate concepts');
+console.log('Utrecht Danel holidays, Manners/VINO hours, Royal Bar access and shared-address IDs verified.');
