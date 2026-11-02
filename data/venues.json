@@ -12549,22 +12549,25 @@
       },
       "closing_quality": "Externe gidsen spreken elkaar tegen; geen bedrijfseigen weekrooster gevonden.",
       "closing_source": "https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686",
-      "closing_notes": "AlleBiz noemt wo/do/zo 20–01, vr/za 21–03 en ma/di dicht; Fietsroutenetwerk noemt di–zo andere begintijden en eindtijden (o.a. za 11–01). Geen officiële website aangetroffen; actuele exploitatie en sluiting niet zelfstandig bevestigd. Geen gidsuren overgenomen.",
+      "closing_notes": "AlleBiz noemt wo/do/zo 20–01, vr/za 21–03 en ma/di dicht; Fietsroutenetwerk noemt di–zo andere begintijden en eindtijden (o.a. za 11–01). Geen officiële website aangetroffen; actuele exploitatie en sluiting niet zelfstandig bevestigd. Geen gidsuren overgenomen. | Hercontrole 02-11-2026: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/633531/cafe-pietje-bel vermeldt KvK 01078629 (vestiging 000006405460) als NIET LANGER ACTIEF; ook historische alias De Koperen Bel op hetzelfde adres, KvK 77497848, staat als inactief: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/1948012/de-koperen-bel. Tegelijk noemt Drachtster Boys-sponsoradvertentie 2024/2025 https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf nog Café Pietje Bell, en recente gidsen tonen de naam. Beëindigde registraties bewijzen niet dat er in 2026 geen andere exploitant op hetzelfde adres zit; géén sluitingsdatum afgeleid, verborgen gehouden. De Koperen Bel niet als tweede actueel café toegevoegd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/drachten",
         "https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686",
-        "https://fietsroutenetwerk.nl/afstappunten/cafe-pietje-bell"
+        "https://fietsroutenetwerk.nl/afstappunten/cafe-pietje-bell",
+        "https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/633531/cafe-pietje-bel",
+        "https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/1948012/de-koperen-bel",
+        "https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf"
       ],
-      "original_status": "Externe vermeldingen gecontroleerd 2026-10-30, tegenstrijdige uren en geen primaire bevestiging; hercontrole vereist.",
+      "original_status": "Actuele publieke exploitatie in 2026 onzeker: oude KvK-inschrijvingen Pietje Bel en alias De Koperen Bel inactief, maar historische sponsoradvertentie en actuele gidsen vermelden café. Zonder bedrijfseigen bewijs verborgen.",
       "geo": {
         "lat": 53.1065531,
         "lon": 6.1007212,
         "method": "PDOK BAG-adres",
         "matched_address": "Zuidkade 18, 9203CK Drachten"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-02",
       "opening": {
         "ma": "?",
         "di": "?",
