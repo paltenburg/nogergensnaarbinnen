@@ -35478,6 +35478,54 @@
       "original_status": "Officiële website en wintermenukaart 2026 wijzen op actuele exploitatie; publieke borrel genoemd. Huidige alcoholsoorten en werkelijke sluituren nog onbevestigd.",
       "website_checked_on": "2026-11-02",
       "checked_on": "2026-11-02"
+    },
+    {
+      "id": "bij-fier-sneek-20261102",
+      "name": "Bij Fier",
+      "type": "Restaurant/borrelgelegenheid",
+      "address": "1e Oosterkade 24",
+      "city": "Sneek",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen site noemt openbare borrel zonder maaltijd. Exploitanten kondigden echter laatste opening onder oude leiding op 25 oktober 2026 en overdracht op 1 november aan; feitelijke heropening onder Jill nog niet bevestigd.",
+      "alcohol": "Eigen exploitantenpost uit 2026 noemt bier, Aperol Spritz en wijn; na aangekondigde overname op 1 november nog niet afzonderlijk bevestigd.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen actueel rooster na exploitantenwissel bevestigd; eigen site toont ma–zo gesloten, oude gidsroosters conflicteren",
+      "closing_source": "https://www.vierenbijfier.nl/",
+      "closing_notes": "Eigen https://www.vierenbijfier.nl/gallery op 02-11-2026 gelezen: afscheid van oude exploitanten na zondag 25-10-2026, aangekondigde overdracht aan Jill per 01-11-2026. Homepage https://www.vierenbijfier.nl/ vermeldt nu alle dagen 'Gesloten'. Sneek.nl noemt ma–do 11–21, vr/za 11–22, zo 11–21; Cylex en andere gidsen wijken af. Dit zijn mogelijk verouderde roosters van vorige exploitanten; alle dagen onbekend gehouden en verborgen tot feitelijke nieuwe opening bevestigd. Geen laatste toegang. Officiële adres 1e Oosterkade 24, maar Oozo historische registratie noemt nummer 2; geen coördinaat gegokt.",
+      "features": "Friesland; Sneek; exploitantenwissel 2026; D0-kandidaat",
+      "website": "https://www.vierenbijfier.nl/",
+      "other_sources": [
+        "https://www.vierenbijfier.nl/gallery",
+        "https://www.sneek.nl/en/see-do/nelleke-mulder-imago-groep",
+        "https://www.friesland.nl/nl/locaties/2839824966/bij-fier",
+        "https://www.cylex.nl/bedrijf/bij-fier-13937301.html",
+        "https://www.compadex.com/nl/businesses/nl/vieren-bij-fier-88335089-54207045",
+        "https://www.oozo.nl/bedrijven/sudwest-fryslan/sneek/omgeving-leeuwarderweg-en-bungalowpark/2818785/vieren-bij-fier"
+      ],
+      "original_status": "Horeca en alcoholborrel tot 25-10-2026 bevestigd door eigen posts; overdracht per 01-11 aangekondigd, huidige publieke exploitatie onder nieuwe leiding nog onbevestigd.",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "geocode_blocked": true,
+      "geocode_notes": "Officiële website en VVV noemen 1e Oosterkade 24; historisch Oozo noemt 1e Oosterkade 2. Eerst exacte BAG/ingang verifiëren."
     }
   ],
   "admission_policies": [
