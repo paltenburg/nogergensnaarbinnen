@@ -36012,6 +36012,55 @@
       "geocode_blocked": true,
       "geocode_checked_on": "2026-11-02",
       "geocode_notes": "KvK en concertagenda: Hoofdstraat 70; Uitgaanskaart noemt Hoofdstraat 71. Geen exacte BAG-marker aannemen zonder bevestiging van publieksingang."
+    },
+    {
+      "id": "cafe-spaltenbrege-terwispel-20261102",
+      "name": "Café Spaltenbrêge",
+      "type": "Dorpscafé / muziekcafé",
+      "address": "De Streek 79",
+      "city": "Terwispel",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Lokale uitagenda beschrijft publiek dorpscafé voor borrel en activiteiten. G'Oldies 50+-optredens zijn aparte betaalde evenementen en bewijzen geen vaste reguliere opening.",
+      "alcohol": "Uitagenda vermeldt borrelen in het café; bedrijf geregistreerd als exploitatie van drinkgelegenheden (SBI 56300). Exacte bier-/wijnkaart niet aangetroffen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "opening_quality": "Geen actuele eigen reguliere weekopeningstijden gevonden. Evenementuren zijn geen algemene café-uren.",
+      "closing_quality": "Geen actuele eigen reguliere sluitingstijden of laatste toegang gevonden. 15–21 bij 50+-optredens is uitsluitend evenementtijd.",
+      "closing_notes": "02-11-2026: https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-spaltenbrege-terwispel-82236445-000048483532 bevestigt exploitatiebedrijf (KvK 24-03-2026). https://www.oudega-swf.nl/agenda/2026/2/15/goldies-50-cafe-123403 vermeldt 15-02-2026 live-optreden op De Streek 79, https://www.grootsa.nl/nieuws/cultuur-en-uitgaan/131814/goldies-50-cafe-met-quicksilver-radicals 17-05-2026 evenement, https://voorelkaarplein.nl/evenementen/50-cafe-met-hudr/ 14-06-2026. https://www.uitagenda.nl/locaties/cafe-spaltenbrege beschrijft publiek bruin café met borrel. Oude bedrijfsvorm KvK 01049723 op https://www.oozo.nl/bedrijven/opsterland/terwispel/terwispel/221978/cafe-spaltenbrege is niet meer actief; huidige KvK 82236445 onderscheiden. Alle genoemde 15:00–21:00 zijn uitsluitend 50+-evenementen met toegangsticket, niet als reguliere open/sluit of laatste toegang gebruikt. Eigen website niet gevonden; algemene publieksinloop op andere dagen niet afzonderlijk bevestigd.",
+      "website": "",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "Gerichte zoekronde op officiële caféwebsite en bedrijfsnaam; alleen lokale dorps-/agenda- en registratiesites gevonden.",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-spaltenbrege-terwispel-82236445-000048483532",
+        "https://www.oudega-swf.nl/agenda/2026/2/15/goldies-50-cafe-123403",
+        "https://www.grootsa.nl/nieuws/cultuur-en-uitgaan/131814/goldies-50-cafe-met-quicksilver-radicals",
+        "https://voorelkaarplein.nl/evenementen/50-cafe-met-hudr/",
+        "https://www.uitagenda.nl/locaties/cafe-spaltenbrege",
+        "https://www.oozo.nl/bedrijven/opsterland/terwispel/terwispel/221978/cafe-spaltenbrege"
+      ],
+      "original_status": "Actuele 2026-café-exploitatie en evenementen bevestigd, maar reguliere vrije inloop en weekuren niet afzonderlijk geverifieerd.",
+      "features": "D0 Opsterland / Terwispel; maandelijkse 50+-livemuziek met kaartje, niet als regulier caférooster"
     }
   ],
   "admission_policies": [
