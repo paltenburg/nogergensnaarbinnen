@@ -366,3 +366,18 @@ assert.ok(pietje.other_sources.some(u => u.includes('/cafe-pietje-bel')),
 assert.equal(db.places.filter(p => p.city === 'Drachten' && p.address === 'Zuidkade 18').length, 1,
   'Historic Koperen Bel name must not create a second active venue');
 console.log('Kreas new opening and Pietje Bel inactive registration safely unverified.');
+
+
+// A 2026 public festival bar confirms Tigh Barra's bar function, but
+// conflicting commercial directories do not establish a weekly timetable.
+const tighBarra = db.places.find(p => p.id === 'tigh-barra-joure-20261031');
+assert.ok(tighBarra);
+assert.equal(tighBarra.selection, 'Voorlopig');
+assert.equal(tighBarra.website, '', 'Unreadable/uncorroborated domain is not an official site');
+assert.ok(tighBarra.other_sources.includes(
+  'https://rtvspannenburg.nl/2026/04/27/koningsdag-in-de-fryske-marren-markten-muziek-en-feesten/'));
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(tighBarra.opening[day], '?', 'Conflicting Cylex/Guru opening is not official '+day);
+  assert.equal(tighBarra.closing[day], '?', 'Conflicting Cylex/Guru closing is not official '+day);
+}
+console.log('Tigh Barra 2026 bar evidence without fabricated weekly hours verified.');
