@@ -10618,13 +10618,14 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "01-11-2026: https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ bevestigen open publiek café met speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt Stationsweg 28. Geen bedrijfseigen weekrooster of laatste toegang; evenementtijden niet als standaard caféuren overgenomen.",
+      "closing_notes": "01-11-2026: https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ bevestigen open publiek café met speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt Stationsweg 28. Geen bedrijfseigen weekrooster of laatste toegang; evenementtijden niet als standaard caféuren overgenomen. | 02-11-2026: exploitantbericht 22-09-2026 op https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus noemt speciaalbier en 'elke dag geopend vanaf 16:00'; zeven beginuren vastgelegd. Gids toont 01:00/02:00 sluiting maar dit is niet door exploitant bevestigd, dus einduren blijven '?'.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://cafederus.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://cafederus.nl/contact/",
-        "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus"
+        "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus",
+        "https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus"
       ],
       "original_status": "Exploitantwebsite en recente 2026-recensie op eigen site bevestigen publieke café-exploitatie; reguliere weekuren nog onbekend.",
       "geo": {
@@ -10633,9 +10634,21 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 28, 8911AJ Leeuwarden"
       },
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-02",
       "website_checked_on": "2026-11-01",
-      "website_provenance": "01-11-2026: eigen homepage, over-ons en contact rechtstreeks gecontroleerd voor actuele publieke exploitatie, alcohol en adres; geen weekrooster of laatste toegang gepubliceerd."
+      "website_provenance": "01-11-2026: eigen homepage, over-ons en contact rechtstreeks gecontroleerd voor actuele publieke exploitatie, alcohol en adres; geen weekrooster of laatste toegang gepubliceerd.",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus",
+      "opening_checked_on": "2026-11-02",
+      "opening_quality": "Exploitantbericht van 22-09-2026 (via FindGlocal gespiegeld) zegt expliciet iedere dag vanaf 16:00. Dit bevestigt de aanvang, niet de reguliere sluiting of gegarandeerde opening op feest-/evenementdagen."
     },
     {
       "id": "de-markies-leeuwarden-d3d3930",
