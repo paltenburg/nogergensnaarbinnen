@@ -2,6 +2,8 @@
 
 ### Checkpoint 02-11-2026 — Vlieland Loods Café-kandidaat, Leeuwarden onbetrouwbaar horecadomein
 
+**Nacontrole CI 02-11-2026:** [748-record workflow 41433516109](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41433516109) is inmiddels **completed/success** op datacommit `4340c35`; GitHub-job `build-and-deploy` bevestigt success voor BAG-controle, synthetische mobiele regiowissel, datumsluitingstests, geocode-stap, bronregister, kwaliteitsrapport, Pages-artifact en deploy-pages. Dit is een **geslaagde GitHub Pages-workflow**, geen onafhankelijke live-HTTP- of echte mobiele touchtest. Geen extra datawijzigingen.
+
 **Aanvang:** actuele `TODO.md`, uitvoeringsstrategie, `index.html` en actuele `data/venues.json` (747 records) rechtstreeks uit GitHub gelezen; niet vanaf oude checkpointtellingen gewerkt. **W45-audit** voor de twee actieve regio's Utrecht/Friesland was reeds werkelijk afgerond (Neude 5, Dokkum 5), dus deze run niet opnieuw meegeteld. **W46** pas verschuldigd maandag **09-11-2026 10:00 Europe/Amsterdam**; nieuwe actieve regio's moeten dan automatisch mee. Geen D1-uitbreiding zolang D0 Friesland open is.
 
 **Echt gewijzigd en geschreven (2 datacommits):**
