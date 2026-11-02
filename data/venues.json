@@ -37581,18 +37581,21 @@
       "opening_checked_on": "2026-11-02",
       "closing_quality": "Officiële exploitantwebsite, reguliere openingstijden; niet verwarren met bezorgtijden (vanaf 16:30).",
       "closing_source": "https://www.bababolsward.nl/contact",
-      "closing_notes": "02-11-2026: https://www.bababolsward.nl/contact en https://www.bababolsward.nl/informatie tonen regulier ma/di gesloten, wo–zo 16:00–22:00; bezorging begint 16:30, niet als caféopening overgenomen. https://bestrestos.nl/restaurant/eetcafe-baba-bolsward-bolsward-2079 (bijgewerkt 12-10-2026) meldt bier/wijn/sterke drank en restaurantbezoek, maar dit is een afgeleide Google-/gidsbron en geen eigen drankkaart. Gids https://www.allebiz.nl/eetcaf%C3%A9-baba-bolsward-0515-574-658 noemt nr. 15 en di open; eigen exploitant geeft nr. 16 en di gesloten, dus eigen adres/rooster leidend. Laatste toegang onbekend. Geen coördinaten handmatig toegevoegd.",
+      "closing_notes": "02-11-2026: https://www.bababolsward.nl/contact en https://www.bababolsward.nl/informatie tonen regulier ma/di gesloten, wo–zo 16:00–22:00; bezorging begint 16:30, niet als caféopening overgenomen. https://bestrestos.nl/restaurant/eetcafe-baba-bolsward-bolsward-2079 (bijgewerkt 12-10-2026) meldt bier/wijn/sterke drank en restaurantbezoek, maar dit is een afgeleide Google-/gidsbron en geen eigen drankkaart. Gids https://www.allebiz.nl/eetcaf%C3%A9-baba-bolsward-0515-574-658 noemt nr. 15 en di open; eigen exploitant geeft nr. 16 en di gesloten, dus eigen adres/rooster leidend. Laatste toegang onbekend. Geen coördinaten handmatig toegevoegd. | 02-11-2026 BAG-adrescontrole: exploitant https://www.bababolsward.nl/contact noemt Bargefenne 16, maar BAG-afgeleide adressentabel 2026 https://allecijfers.nl/postcode/8701KD/ en https://woningsearch.nl/street/bolsward/bargefenne tonen adressen 1–17 met 15 en 17, niet 16. Historische/alternatieve nummering mogelijk; niet omzetten naar 15/17 of straatcentrum. Eerst exploitant/PDOK-adresrelatie en daadwerkelijke ingang verifiëren.",
       "website": "https://www.bababolsward.nl/",
       "website_checked_on": "2026-11-02",
       "other_sources": [
         "https://www.bababolsward.nl/informatie",
         "https://bestrestos.nl/restaurant/eetcafe-baba-bolsward-bolsward-2079",
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
-        "https://www.allebiz.nl/eetcaf%C3%A9-baba-bolsward-0515-574-658"
+        "https://www.allebiz.nl/eetcaf%C3%A9-baba-bolsward-0515-574-658",
+        "https://allecijfers.nl/postcode/8701KD/"
       ],
       "original_status": "Exploitantwebsite met weekuren en adres; alcoholaanbod uit actuele derdebron, geen eigen drankenkaart. Voorlopig; geen laatste toegang.",
       "checked_on": "2026-11-02",
-      "features": "D0 Súdwest-Fryslân / Bolsward; café/restaurant; openingstijden eigen site, alcohol nog direct controleren"
+      "features": "D0 Súdwest-Fryslân / Bolsward; café/restaurant; openingstijden eigen site, alcohol nog direct controleren",
+      "geocode_blocked": true,
+      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://www.bababolsward.nl/contact noemt Bargefenne 16, maar BAG-afgeleide adressentabel 2026 https://allecijfers.nl/postcode/8701KD/ en https://woningsearch.nl/street/bolsward/bargefenne tonen adressen 1–17 met 15 en 17, niet 16. Historische/alternatieve nummering mogelijk; niet omzetten naar 15/17 of straatcentrum. Eerst exploitant/PDOK-adresrelatie en daadwerkelijke ingang verifiëren."
     },
     {
       "id": "de-grillerije-franeker-20261102",
@@ -37628,18 +37631,21 @@
       "opening_checked_on": "2026-11-02",
       "closing_quality": "Onbekend; geen bedrijfseigen regulier sluituur of laatste toegang geverifieerd.",
       "closing_source": "",
-      "closing_notes": "02-11-2026: https://degrillerije.nl/ toont recente menuwijziging per 09-10-2026 en publieke restaurantfunctie; https://degrillerije.nl/drinken-bij-de-grillerije/ bevestigt cocktails, bier, wijn en sterke drank; https://degrillerije.nl/contact/ bevestigt Groenmarkt 14, 8801 KH Franeker. De eigen site noemt geen reguliere dag- of sluituren. Gids https://restaurantgids.nl/restaurant/de-grillerije-franeker gebruikt OSM-rooster (ma open, wo dicht), terwijl https://www.tripadvisor.nl/Restaurant_Review-g227917-d5796563-Reviews-Restaurant_De_Grillerije-Franeker_Friesland_Province.html ma gesloten en wo open noemt. Daarom geen gidsuren overgenomen. Losse barinloop zonder diner en laatste toegang onbekend; voorlopig verborgen.",
+      "closing_notes": "02-11-2026: https://degrillerije.nl/ toont recente menuwijziging per 09-10-2026 en publieke restaurantfunctie; https://degrillerije.nl/drinken-bij-de-grillerije/ bevestigt cocktails, bier, wijn en sterke drank; https://degrillerije.nl/contact/ bevestigt Groenmarkt 14, 8801 KH Franeker. De eigen site noemt geen reguliere dag- of sluituren. Gids https://restaurantgids.nl/restaurant/de-grillerije-franeker gebruikt OSM-rooster (ma open, wo dicht), terwijl https://www.tripadvisor.nl/Restaurant_Review-g227917-d5796563-Reviews-Restaurant_De_Grillerije-Franeker_Friesland_Province.html ma gesloten en wo open noemt. Daarom geen gidsuren overgenomen. Losse barinloop zonder diner en laatste toegang onbekend; voorlopig verborgen. | 02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen.",
       "website": "https://degrillerije.nl/",
       "website_checked_on": "2026-11-02",
       "other_sources": [
         "https://degrillerije.nl/drinken-bij-de-grillerije/",
         "https://degrillerije.nl/contact/",
         "https://www.franeker.frl/bezoeken/159356/restaurant-de-grillerije/",
-        "https://restaurantgids.nl/restaurant/de-grillerije-franeker"
+        "https://restaurantgids.nl/restaurant/de-grillerije-franeker",
+        "https://allecijfers.nl/weg/groenmarkt-franeker/"
       ],
       "original_status": "2026 exploitantenwebsite en alcoholkaart actueel; geen expliciete vrije borrelinloop of betrouwbaar caféweekrooster. Nog te controleren.",
       "checked_on": "2026-11-02",
-      "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren"
+      "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren",
+      "geocode_blocked": true,
+      "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen."
     }
   ],
   "admission_policies": [
