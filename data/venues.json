@@ -11117,12 +11117,13 @@
       },
       "closing_quality": "Officiële website geeft alleen openingsuren; eindtijden onbekend",
       "closing_source": "https://www.ouwestoep.nl/",
-      "closing_notes": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist. | 01-11-2026: homepage https://www.ouwestoep.nl/ toont nog de cafégegevens en bestaande weekstarts, maar https://www.ouwestoep.nl/fotos/ toont niet-gerelateerde gok-/SEO-inhoud (mogelijke sitecompromittering). Subpagina niet gebruiken voor horecaverificatie; eigenaar/domeinstatus nader controleren. Sluituren blijven onbekend.",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo vanaf 19, wo–za vanaf 12. Gidsen noemen 05:00 maar niet bevestigd door exploitant; eindtijd en laatste toegang onbekend. Oud huisnummer 7 was onjuist. | 01-11-2026: homepage https://www.ouwestoep.nl/ toont nog de cafégegevens en bestaande weekstarts, maar https://www.ouwestoep.nl/fotos/ toont niet-gerelateerde gok-/SEO-inhoud (mogelijke sitecompromittering). Subpagina niet gebruiken voor horecaverificatie; eigenaar/domeinstatus nader controleren. Sluituren blijven onbekend. | 02-11-2026: /fotos/ toont gok-/SEO-content onder het horecadomein; websiteknop verwijderd wegens mogelijke compromittering. Homepage-begintijden niet nieuw geverifieerd als betrouwbaar; sluituren blijven onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://www.ouwestoep.nl/",
+      "website": "",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
-        "https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep"
+        "https://www.visitleeuwarden.com/locaties/3207543854/cafe-de-ouwe-stoep",
+        "https://www.ouwestoep.nl/fotos/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geocode_notes": "30-10-2026: eigen site en Visit Leeuwarden noemen 6; eerdere marker was huisnummer 7. Verwijderd; exact 6 opnieuw geocoderen.",
@@ -11142,8 +11143,8 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Doelesteeg 6, 8911CA Leeuwarden"
       },
-      "website_checked_on": "2026-11-01",
-      "website_provenance": "01-11-2026: homepage met caféadres en openingsstarts opnieuw gelezen; /fotos/ toont externe gok-/SEO-inhoud en is niet betrouwbaar als horeca- of tijdbron."
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "02-11-2026: bedrijfshomepage toont nog cafétijden, maar https://www.ouwestoep.nl/fotos/ publiceert op dit domein een Indonesische gok-/togelpagina. Domeinintegriteit niet betrouwbaar; rechtstreekse officiële-websiteknop uitgeschakeld. Eigendom, actuele exploitatie en betrouwbaarheid van overige subpagina's nader verifiëren."
     },
     {
       "id": "vrienden-van-leeuwarden-leeuwarden-7c5d2f6",
@@ -37471,6 +37472,52 @@
       ],
       "original_status": "Bestaande horecanaam/adres en wijn-/borrelfunctie uit eigen LinkedIn-profiel; recente review uit juni 2026 als zwak exploitatie-indicium, geen actuele novemberopening bewezen.",
       "checked_on": "2026-11-02"
+    },
+    {
+      "id": "loodscafe-vlieland-20261102",
+      "name": "Loods Café",
+      "type": "Bruin café / hotelcafé (actuele vrije inloop onzeker)",
+      "address": "Dorpsstraat 3",
+      "city": "Vlieland",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Loods Hotel beschrijft Loods Café met eigen bier en cafébezoek; of de bar na de overgang naar Enjoy Hotel op 03-02-2026 ook vrij toegankelijk is voor niet-hotelgasten, is niet bevestigd.",
+      "alcohol": "Exploitant Loods Hotel vermeldt tien tapbieren en eigen Loodsbier; 2026 Enjoy-arrangement noemt pils, wijn en jenever, maar die inbegrepen drankjes bewijzen geen losse openbare verkoop.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "",
+      "closing_source": "",
+      "closing_quality": "Geen actueel afzonderlijk caféweekrooster. Tripadvisor toont 16–00 voor een deel van de week maar is geen primaire 2026-roosterbevestiging.",
+      "closing_notes": "02-11-2026: https://www.loodshotel.nl/loodscafe/ en hotelwebsite beschrijven het Loods Café, Dorpsstraat 3. Hotel is volgens eigen bericht 03-02-2026 heropend als Enjoy Hotel; huidige barstatus, vrije inloop en afzonderlijke uren niet bewezen. Oude café-domein https://www.loodscafe.nl/ noemt nu The Island Pub op Dorpsstraat 12 (andere locatie): NIET als website of rooster van Loods Café gebruiken. Geen coördinaten/laatste toegang aangenomen.",
+      "website": "https://www.loodshotel.nl/loodscafe/",
+      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "other_sources": [
+        "https://www.loodshotel.nl/",
+        "https://www.loodshotel.nl/nieuws/",
+        "https://www.loodshotel.nl/arrangement/enjoy-5-daagse-alles-inclusief-arrangement/",
+        "https://www.vlieland.site/nl/locaties/1197593296/loods-cafe",
+        "https://www.loodscafe.nl/"
+      ],
+      "original_status": "2026-heropening van het hotel bevestigd; Loods Café wordt nog door het hotel genoemd, maar feitelijke publieke barfunctie na overgang niet onafhankelijk geverifieerd.",
+      "features": "Vlieland D0; hotelcafé en mogelijk openbare kroeg; niet verwarren met The Island Pub op Dorpsstraat 12"
     }
   ],
   "admission_policies": [
