@@ -26913,10 +26913,10 @@
       "region": "friesland",
       "country": "Nederland",
       "selection": "Voorlopig",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-02",
       "features": "De Fryske Marren; Joure; darten; livemuziek",
-      "access": "Publieke kroeg: lokale Jouster Merke-horecaagenda vermeldt 23 september 2026 een openbare 90's/00's-avond bij Tigh Barra. Geen vaste toegangsvoorwaarden aangetroffen.",
-      "alcohol": "2026-lokale berichtgeving noemt de kroeg; horecagids en bezoekersbeschrijvingen bevestigen bier. Geen exploitant-drankenkaart geverifieerd.",
+      "access": "Publieke Ierse pub: RTV Spannenburg meldt een buitenbar en DJ bij Tigh Barra tijdens Koningsdag 27-04-2026; JouwJoure bevestigt openbare 90's/00's-avond 23-09-2026. Reguliere toegangsvoorwaarden/laatste toegang niet rechtstreeks bij exploitant bevestigd.",
+      "alcohol": "RTV Spannenburg 27-04-2026 bevestigt een buitenbar bij de Ierse pub; Untappd toont biercheck-ins, maar is niet door exploitant geverifieerd. Actuele eigen drankenkaart ontbreekt.",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -26936,19 +26936,23 @@
         "zo": "?"
       },
       "opening_quality": "Cylex geeft ma dicht, di–do/zo vanaf 15:00, vr/za vanaf 15:00; geen primaire exploitantbron voor regulier rooster gevonden, daarom onbekend.",
-      "closing_quality": "Cylex noemt 00:00/02:00; niet als bewezen actuele sluiting overgenomen. Evenement 23-09-2026 is geen weekrooster.",
+      "closing_quality": "Cylex (update 25-08-2026) ma gesloten, di–do/zo 15–00, vr/za 15–02; RestaurantGuru toont afwijkend ma open, wo gesloten, andere begin/eindtijden. Beide externe bronnen, dus regulier rooster en laatste toegang onbekend.",
       "opening_source": "https://www.cylex.nl/bedrijf/tigh-barra-12059778.html",
       "closing_source": "https://www.cylex.nl/bedrijf/tigh-barra-12059778.html",
       "opening_checked_on": "2026-10-31",
-      "closing_notes": "31-10-2026: JouwJoure lokale horecaagenda 2026 bevestigt Tigh Barra als afzonderlijke uitgaanslocatie. Geen officiële exploitantwebsite gevonden. Reguliere weekuren, laatste toegang en actuele deurvoorwaarden onbekend. Geen kaartcoördinaten gegokt.",
+      "closing_notes": "31-10-2026: JouwJoure lokale horecaagenda 2026 bevestigt Tigh Barra als afzonderlijke uitgaanslocatie. Geen officiële exploitantwebsite gevonden. Reguliere weekuren, laatste toegang en actuele deurvoorwaarden onbekend. Geen kaartcoördinaten gegokt. | Hercontrole 02-11-2026: https://rtvspannenburg.nl/2026/04/27/koningsdag-in-de-fryske-marren-markten-muziek-en-feesten/ beschrijft expliciet buitenbar en DJ bij Ierse Pub Tigh Barra op Koningsdag 27-04-2026 (bewijs openbare alcoholhoreca op die datum, geen weekrooster). https://www.cylex.nl/bedrijf/tigh-barra-12059778.html geeft een op 25-08-2026 geactualiseerd rooster, maar https://restaurantguru.com/Tigh-Barra-Joure toont onderling afwijkende maandag/woensdag en uren. Geen van beide als exploitantrooster aangetoond; zeven dagen ?. https://tighbarra.nl/ direct geopend 02-11, maar gaf geen leesbare exploitantinhoud, dus niet als officiële website opgeslagen. https://www.oozo.nl/bedrijven/de-fryske-marren/joure/joure-blaauwhof/2622671/tigh-barra noemt 2022-registratie, geen sluituur.",
       "website": "",
-      "website_checked_on": "2026-10-31",
-      "website_provenance": "Geen actuele officiële website geverifieerd; social/event-bronnen en Cylex geraadpleegd 31-10-2026.",
+      "website_checked_on": "2026-11-02",
+      "website_provenance": "tighbarra.nl op 02-11-2026 geopend maar zonder leesbare exploitantinhoud; domein niet als officieel bevestigd. Alleen gidsen/2026 lokaal nieuws voor weekrooster beschikbaar.",
       "other_sources": [
         "https://www.jouwjoure.nl/agenda/item/193",
         "https://www.grootdefryskemarren.nl/agenda/2026/8/29/zaterdag-29-augustus-shantyfestival-in-de-jouster-midstraat-141449",
         "https://www.oozo.nl/bedrijven/de-fryske-marren/joure/joure-blaauwhof/2622671/tigh-barra",
-        "https://dartsgids.nl/locaties/tigh-barra/"
+        "https://dartsgids.nl/locaties/tigh-barra/",
+        "https://rtvspannenburg.nl/2026/04/27/koningsdag-in-de-fryske-marren-markten-muziek-en-feesten/",
+        "https://www.cylex.nl/bedrijf/tigh-barra-12059778.html",
+        "https://restaurantguru.com/Tigh-Barra-Joure",
+        "https://untappd.com/v/tigh-barra/1971504"
       ],
       "original_status": "2026 lokale evenementen en café-inschrijving bevestigen actieve horecafunctie; actuele reguliere uren niet door exploitant bevestigd.",
       "geo": {
