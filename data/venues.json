@@ -38242,7 +38242,15 @@
         "https://www.franeker.frl/bezoeken/103461/brasserie-de-stadstuin/",
         "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3338356321/brasserie-de-stadstuin"
       ],
-      "original_status": "Eigen website en menukaart bevestigen openbare horeca, bier/wijn en winterrooster op 02-11-2026. Geen fysieke deurcheck of exacte laatste toegang."
+      "original_status": "Eigen website en menukaart bevestigen openbare horeca, bier/wijn en winterrooster op 02-11-2026. Geen fysieke deurcheck of exacte laatste toegang.",
+      "geo": {
+        "lat": 53.1873782,
+        "lon": 5.5436542,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Eise Eisingastraat 2, 8801KE Franeker"
+      },
+      "geo_checked_on": "2026-11-02",
+      "geocode_notes": "02-11-2026: exacte BAG-huisnummer- en postcode-match uit gedownloade GitHub Pages-build 41503404237, geocode-report.json (3 nieuw, inclusief Us Heit/Poort). Bron: PDOK BAG, geen handmatige interpolatie; fysieke ingang niet ter plaatse geverifieerd."
     }
   ],
   "admission_policies": [
