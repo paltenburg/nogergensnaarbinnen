@@ -38427,6 +38427,55 @@
       },
       "geo_checked_on": "2026-11-02",
       "geocode_notes": "02-11-2026: exacte PDOK BAG-adresmatch Gouverneursplein 36, 8911HH Leeuwarden uit daadwerkelijk gedownload en uitgepakt Pages-artifact van geslaagde 762-record GitHub Actions-run 41528141238. Geocoderapport: 762 totaal, 697 markers, 65 zonder, 1 toegevoegd. Huisnummer/postcode/plaats en stabiel venue-ID gecontroleerd. Dit is een BAG-adrescoördinaat, geen bevestiging van de fysieke ingang of losse borrelinloop."
+    },
+    {
+      "id": "grand-cafe-kreas-drachten-20261102",
+      "name": "Grand Café Kreas",
+      "type": "Grand café / borrelkandidaat",
+      "address": "Noordkade 3",
+      "city": "Drachten",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen site noemt borrelen en vrij welkom als concept; feitelijke vrije alcoholinloop zonder maaltijd/reservering na de gemelde opening nog niet rechtstreeks bij exploitant bevestigd.",
+      "alcohol": "Eigen site noemt borrel zonder specifieke drankenkaart. Untappd registreert Kreas(e) Tripel bij Grand Café Kreas met individuele check-ins op 24, 28 en 31 oktober 2026; geen bedrijfseigen actuele bier-/wijnkaart of voorwaarden bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Geen actueel officieel weekrooster bevestigd. Fietsnetwerk publiceert woensdag–zaterdag 12–00 maar bronstatus onduidelijk; niet overgenomen.",
+      "closing_quality": "Geen actueel officieel regulier sluituur of laatste toegang bewezen; Fietsnetwerk-rooster is niet als exploitantbron geverifieerd.",
+      "opening_source": "",
+      "closing_source": "",
+      "website": "https://grandcafekreas.nl/",
+      "website_checked_on": "2026-11-02",
+      "access_checked_on": "2026-11-02",
+      "alcohol_checked_on": "2026-11-02",
+      "checked_on": "2026-11-02",
+      "closing_notes": "Controle 02-11-2026: eigen https://www.thusdrachten.nl/grand-cafe-kreas/ bevestigt verhuizing van Thús naar Noordkade 3 en verbouwing van de panden 3/3A/3B; https://grandcafekreas.nl/ toont nog een VEROUDE/tegenstrijdige tekst 'in wording' en verbouwing. Keukenleverancier Droogers meldt via openbaar LinkedIn-profiel https://nl.linkedin.com/in/richard-van-daele-0789131ab een recente daadwerkelijke opening ('gisteren opende'), maar relatieve publicatiedatum niet absoluut vastgesteld. Op https://untappd.com/b/koningshert-kreas-e-tripel/7635263 staan Kreas(e) Tripel-check-ins op 24, 28 en 31-10-2026 (bezoekersindicatie, geen officieel menu). https://www.fietsnetwerk.nl/knooppunt/grand-cafe-kreas-drachten/ noemt Noordkade 3 en wo–za 12–00, maar is een externe gids en kan geplande uren bevatten. Daarom voorlopig VERBORGEN; officiële opening/borrel-inloop/actueel rooster en laatste toegang eerst bij exploitant verifiëren. Geen GPS- of BAG-marker overgenomen van fietsgids.",
+      "features": "D0 Smallingerland; recente opening eind oktober 2026 nader te bevestigen; opvolger Thús op ander adres",
+      "other_sources": [
+        "https://www.thusdrachten.nl/grand-cafe-kreas/",
+        "https://www.thusdrachten.nl/",
+        "https://www.fietsnetwerk.nl/knooppunt/grand-cafe-kreas-drachten/",
+        "https://untappd.com/b/koningshert-kreas-e-tripel/7635263",
+        "https://nl.linkedin.com/in/richard-van-daele-0789131ab"
+      ],
+      "original_status": "Nieuwe locatie met officiële verhuisaankondiging, recente leveranciersmelding en bezoekercheck-ins; daadwerkelijke reguliere vrije borrel, openingsdagen en sluituren nog onvoldoende primair bevestigd."
     }
   ],
   "admission_policies": [
