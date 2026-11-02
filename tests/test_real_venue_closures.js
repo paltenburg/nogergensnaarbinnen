@@ -179,7 +179,12 @@ for (const p of [gusto, bourg, zusje]) {
   assert.equal(p.selection, 'Voorlopig');
   assert.equal(p.checked_on, '2026-11-02');
   assert.ok(p.website.startsWith('https://'));
-  assert.ok(!p.geo, 'No invented coordinates before PDOK');
+  // The master may gain an exact PDOK marker in a later maintenance run.
+  // Never require a permanently missing marker or accept a guessed one.
+  if(p.geo) {
+    assert.equal(p.geo.method, 'PDOK BAG-adres');
+    assert.ok(Number.isFinite(p.geo.lat) && Number.isFinite(p.geo.lon));
+  }
 }
 for (const day of ['wo','do','vr','za','zo']) {
   assert.equal(gusto.opening[day], '17:00');
