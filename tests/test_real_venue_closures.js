@@ -291,3 +291,29 @@ for (const p of [barista, odl]) {
   }
 }
 console.log('Barista Drachten and ODL Luinjeberd official hours, aliases and event limits verified.');
+
+
+// 02-11-2026 operator corrections: minimum open-until is not a closing time.
+const utherne = db.places.find(p => p.id === 'eetcafe-de-utherne-ijlst-20261030');
+const witteHuis = db.places.find(p => p.id === 'hotel-restaurant-het-witte-huis-olterterp-20261102');
+const cheung = db.places.find(p => p.id === 'cheung-kwong-franeker-20261102');
+assert.ok(utherne && witteHuis && cheung);
+for (const day of ['ma','di','wo','do','vr','zo']) {
+  assert.equal(utherne.opening[day], '11:00', 'Current operator HTML starts at 11:00, not obsolete 10:00: ' + day);
+}
+assert.equal(utherne.opening.za, '08:30');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(utherne.closing[day], '?', 'At-least-open-until is not an exact closing time: ' + day);
+  assert.equal(witteHuis.opening[day], '10:00');
+  assert.equal(witteHuis.closing[day], '22:00');
+}
+assert.equal(witteHuis.opening_checked_on, '2026-11-02');
+assert.equal(witteHuis.closing_source, 'https://wittehuisolterterp.nl/');
+assert.equal(cheung.selection, 'Nog te controleren', 'Takeaway beer/wine does not prove public lounge alcohol entry');
+assert.equal(cheung.opening.ma, '—');
+assert.equal(cheung.closing.ma, '—');
+for (const day of ['di','wo','do','vr','za','zo']) {
+  assert.equal(cheung.opening[day], '16:00', 'Operator ordering hours, not shorter delivery window');
+  assert.equal(cheung.closing[day], '22:00');
+}
+console.log('IJlst corrected starts and minimum hours; Olterterp and Franeker provenance limits verified.');
