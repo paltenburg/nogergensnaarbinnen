@@ -398,3 +398,34 @@ for (const day of ['ma','di','wo','do','vr','za','zo']) {
 assert.equal(db.places.filter(p => p.city === 'Leeuwarden' &&
   p.address === 'Kleine Kerkstraat 11').length, 1);
 console.log('TOON special-event alcohol and ordinary coffee hours kept distinct.');
+
+
+// 03-11-2026: Westersail's own site confirms a winter shutdown.
+// An April 2027 return announcement is NOT an exact reopening date.
+// Third-party all-week hours must not make it appear open this November.
+const westersail = db.places.find(p => p.id === 'brasserie-westersail-earnewald-20261103');
+assert.ok(westersail, 'Westersail has a stable separate venue record');
+assert.equal(westersail.address, 'Wiidswei 1A');
+assert.equal(westersail.website, 'https://westersail.nl/');
+assert.equal(westersail.selection, 'Nog te controleren');
+assert.equal(westersail.date_closures.length, 1);
+assert.equal(westersail.date_closures[0].start, '2026-09-28');
+assert.equal(westersail.date_closures[0].end, '2027-03-31');
+assert.equal(westersail.date_closures[0].checked_on, '2026-11-03');
+for (const date of ['2026-09-28','2026-11-03','2026-12-25','2027-03-31']) {
+  assert.equal(isClosed(westersail,date),true,'Official winter shutdown covers '+date);
+}
+for (const date of ['2026-09-27','2027-04-01']) {
+  assert.equal(isClosed(westersail,date),false,
+    'Do not infer a closure beyond the explicitly established interval '+date);
+}
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(westersail.opening[day], '?', 'No guessed post-winter opening '+day);
+  assert.equal(westersail.closing[day], '?', 'No copied directory hours '+day);
+}
+assert.equal(db.places.filter(p => p.region === 'friesland' &&
+  p.city === 'Earnewâld' && p.address === 'Wiidswei 1A').length, 1,
+  'Westersail has one record; do not duplicate the terrace and brasserie');
+assert.ok(pietje.other_sources.includes('https://dartsgids.nl/locaties/cafe-pietje-bell/'),
+  '2026 darts-directory record is a source, not opening confirmation');
+console.log('Westersail seasonal closure boundaries and Pietje Bell source uncertainty verified.');
