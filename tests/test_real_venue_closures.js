@@ -441,8 +441,8 @@ assert.equal(ynHaven.address, 'Kruspaed 6', 'Operator address, not older guide K
 assert.equal(ynHaven.closing_source, 'https://ynehaven.nl/reserveren/');
 assert.ok(ynHaven.alcohol.includes('cocktails'));
 for (const day of ['ma','di','wo','do']) {
-  assert.equal(ynHaven.opening[day], '—', 'Operator currently closed '+day);
-  assert.equal(ynHaven.closing[day], '—', 'Operator currently closed '+day);
+  assert.equal(ynHaven.opening[day], '?', 'Conflicting operator pages: unknown '+day);
+  assert.equal(ynHaven.closing[day], '?', 'Do not silently prefer closed over daily lunch claim '+day);
 }
 for (const day of ['vr','za','zo']) {
   assert.equal(ynHaven.opening[day], '12:00', 'Weekend opening '+day);
