@@ -1,3 +1,11 @@
+### Checkpoint 03-11-2026 circa 17:05 CET — regressiebescherming verborgen duplicaten
+
+Actuele TODO, master (768 records) en frontend gelezen via GitHub; voor grote bestanden werkte alleen de blob-API (contents-API gaf lege inhoud). **Twee bestaande duplicate_of-aliasrecords** geïnspecteerd: Strandpaviljoen Kaap Hoorn en De Groene Weide op Terschelling. Beide verwijzen naar een bestaande canonieke ID, staan op selection=Nee, hebben geen eigen geo en vormen geen keten. Geen nieuw brononderzoek of horeca-urencontrole uitgevoerd; **0 masterrecords gewijzigd, 0 toegevoegd**.
+
+Nieuwe permanente regressietest toegevoegd aan `tests/test_dataset_integrity.py` om bij toekomstige import te voorkomen dat een verborgen alias naar een ontbrekende of tweede alias verwijst, een eigen kaartmarker krijgt, zichtbaar wordt of van regio wisselt. Commit [e6d65cb](https://github.com/paltenburg/nogergensnaarbinnen/commit/e6d65cb9320888ef8f693b7f19c062d06a852f92). Testvoorwaarden op de huidige twee aliasrecords programmatisch gecontroleerd: 2/2 voldoen. Python unittest en nieuwe GitHub Actions-run nog niet als geslaagd geverifieerd. Geen live mobiele interactie uitgevoerd.
+
+**Exact hervatten:** CI-resultaat van e6d65cb controleren; daarna Twijnstraat 15 en overige nog niet herbeoordeelde gedeelde adressen met primaire bronnen, Friese ontbrekende geocodes en nog onbevestigde exploitanten. W45 volgens eerdere checkpoints afgerond; W46 vanaf 09-11 10:00 CET. Friesland D0 open.
+
 ### Checkpoint 03-11-2026 circa 16:21 CET — kwaliteitsdekking en adresopvolgers
 
 Actuele TODO, volledige master en adresrapport via GitHub blob-API gelezen (contents-API geeft lege inhoud voor grote bestanden). **768 records** geteld: Utrecht 224 (17 'Nog te controleren', 67 zonder website, 12 zonder geo, 60 met alle sluitdagen onbekend), Friesland 544 (110 'Nog te controleren', 117 zonder website, 54 zonder geo, 271 met alle sluitdagen onbekend). Totaal 127 onbevestigde selecties, 184 zonder website, 66 zonder geo, 331 zonder reguliere sluitdagen. Deze categorieën overlappen. **0 locaties toegevoegd, 0 masterrecords/uren/coördinaten gewijzigd.**
