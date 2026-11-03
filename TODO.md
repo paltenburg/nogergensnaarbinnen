@@ -1,5 +1,10 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Datamodelcontrole 03-11-2026 — dubbele legacy-uurvelden
+
+Commit [`2ef5de8d`](https://github.com/paltenburg/nogergensnaarbinnen/commit/2ef5de8d06682daf648b1d60f04867babc682a6a): alle 768 masterrecords op oude `open`/`close`-arrayvelden gecontroleerd. Alleen BOEL Leeuwarden (`boel-leeuwarden-20261030`) en Café Donkerbroek (`cafe-donkerbroek-20261030`) bevatten die dubbele velden. Alle 14 dagwaarden per zaak kwamen exact overeen met de reeds aanwezige canonieke `opening`/`closing`-objecten; de 4 redundante arrays verwijderd, **geen openingstijd, sluitingstijd, ID, regio of locatie gewijzigd**. JSON-parse en 768-recordtelling vóór commit geslaagd. Volgende: GitHub Actions-publicatie na deze datamodelwijziging controleren, regressies en mobiele kaartbediening nog afzonderlijk uitvoeren. Geen nieuwe externe horecabron geverifieerd; D0 en auditplanning ongewijzigd.
+
+
 ### Aanvullende broncontrole 03-11-2026 — De Meerpaal terreinplattegrond
 
 **Datacommit [`786cad49`](https://github.com/paltenburg/nogergensnaarbinnen/commit/786cad49364b7c3c7bd2158e1de0a5718537bdcf)**: primaire [campingplattegrond](https://www.wiid.nl/wp-content/uploads/2021/02/Camping-It-Wiid-Plattegrond.pdf) daadwerkelijk gevonden en legenda gecontroleerd: afzonderlijk symbool voor 'Eetcafé en snackbar de Meerpaal'. [Camping-FAQ](https://www.wiid.nl/en/information/frequently-asked-questions/) bevestigt dat externe bezoekers welkom zijn op het terrein. Beide bronnen op 03-11-2026 aan bestaande masterrecord `eetcafe-de-meerpaal-earnewald-20261103` toegevoegd; **geen extra locatie, geen marker, geen sluituren**. De plattegrond is schematisch en uit 2021; koppeling aan BAG-unit 10/10-D/10-G blijft onbewezen. `geocode_blocked=true` behouden. **Volgende:** georeferentie van het faciliteitssymbool tegenover BAG-pandgeometrie of rechtstreeks navragen welke unit het eetcafé gebruikt; pas daarna exacte geocode. Overige D0-taken ongewijzigd. GitHub-write bevestigd; nieuwe CI/deployment, live HTTP en mobiele interactie nog niet gecontroleerd.
