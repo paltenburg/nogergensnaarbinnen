@@ -361,6 +361,19 @@
   const cleanLink=value=>/^https?:\/\//i.test(String(value))?String(value):'';
   function timeVal(s){ if(!/^\d\d:\d\d$/.test(String(s)))return null; let [h,m]=s.split(':').map(Number);if(h>23||m>59)return null; return 60*h+m+(h<12?1440:0); }
   function arrivalVal(){const v=timeVal(state.after);return v===null?null:(state.sameDayMorning&&Number(state.after.slice(0,2))<12?v-1440:v);}
+  // With Nu between 06:00 and 11:59, some morning closing/entry cutoffs
+  // refer to today, rather than the next morning of a nightlife day.
+  function venueTimeVal(time,place){
+    const minute=timeVal(time);
+    if(minute===null||!state.sameDayMorning||minute<1440)return minute;
+    const opening=NGNBDateClosures.field(place,'opening',state.day,state.date);
+    const match=/^([0-2][0-9]):([0-5][0-9])$/.exec(String(opening));
+    const openingMinute=match&&Number(match[1])<24
+      ?Number(match[1])*60+Number(match[2]):null;
+    const sameDay=minute-1440;
+    // Unknown opening: don't advertise a venue past a known morning cutoff.
+    return openingMinute===null||sameDay>=openingMinute?sameDay:minute;
+  }
   function category(s){s=s.toLocaleLowerCase('nl');if(/nachtclub|club|dans|discotheek/.test(s))return 'club';if(/muziek|podium|theater|concert|cultureel/.test(s))return 'music';if(/restaurant|eetcaf[eé]|bistro|brasserie|restobar|diner/.test(s))return 'restaurant';if(/pub|kroeg|caf[eé]/.test(s))return 'cafe';if(/bar|cocktail|wijn/.test(s))return 'bar';return 'other';}
   function closing(place){return NGNBDateClosures.field(place,'closing',state.day,state.date);}
   // A continuous time scale: each half-hour (and intermediate quarter-hour)
@@ -423,9 +436,9 @@
     // A venue-specific entry limit can coexist with an explicitly assigned law.
     // If both apply, use the earliest restriction. No policy is inferred from city.
     const actual=NGNBDateClosures.field(p,'last_entry',day,state.date);
-    const actualAt=timeVal(actual);
+    const actualAt=venueTimeVal(actual,p);
     const policy=db.admission_policies?.find(rule=>rule.id===p.admission_policy_id);
-    const legalAt=timeVal(policy?.max_last_entry);
+    const legalAt=venueTimeVal(policy?.max_last_entry,p);
     if(actualAt===null&&legalAt===null)return null;
     if(actualAt!==null&&(legalAt===null||actualAt<=legalAt)){
       return {time:actual,approx:p.last_entry_typical_days?.includes(day)||false,source:p.last_entry_source||'',byPolicy:false};
@@ -435,9 +448,9 @@
   function entryBeforeClosing(p,day=state.day){
     const entry=effectiveAdmission(p,day);
     if(!entry||NGNBDateClosures.field(p,'closing',day,state.date)==='—')return null;
-    const closes=timeVal(NGNBDateClosures.field(p,'closing',day,state.date));
+    const closes=venueTimeVal(NGNBDateClosures.field(p,'closing',day,state.date),p);
     // A known entry cutoff still deserves prominent display if closing is variable.
-    return closes===null||timeVal(entry.time)<closes?entry:null;
+    return closes===null||venueTimeVal(entry.time,p)<closes?entry:null;
   }
   function displayAdmission(entry){return (entry.approx?'≈ ':'')+entry.time;}
   function openAtSelectedTime(p,arrivalAt){
@@ -465,9 +478,9 @@
       if(![p.name,p.type,p.address,p.city,p.features].join(' ').toLocaleLowerCase('nl').includes(q))return false;
     }
     if(state.after){
-      const arrivalAt=arrivalVal(),closes=timeVal(closing(p));
+      const arrivalAt=arrivalVal(),closes=venueTimeVal(closing(p),p);
       const window=closingWindow(p),admission=effectiveAdmission(p,state.day);
-      const lastAdmission=timeVal(admission?.time),latest=timeVal(latestClosing(p));
+      const lastAdmission=venueTimeVal(admission?.time,p),latest=venueTimeVal(latestClosing(p),p);
       if(arrivalAt===null||closing(p)==='—')return false;
       // A latest-possible closing time can rule a venue OUT, but cannot prove
       // that it is still open before that time.
@@ -475,7 +488,7 @@
       // A known exact closing time or the earliest end of a verified closing
       // window must still be respected, even when a last-entry limit is known.
       if(closes!==null&&arrivalAt>=closes)return false;
-      if(window&&arrivalAt>=window.earliest)return false;
+      if(window&&arrivalAt>=venueTimeVal(window.earliestText,p))return false;
       // Last entry is only an upper bound, not evidence that the café
       // actually remains open until that time. Require a verified closing
       // or closing window before advertising a timed arrival.
@@ -486,7 +499,7 @@
     return true;
   }
   function sortPlaces(a,b){
-    const sortingTime=p=>timeVal(closing(p))??closingWindow(p)?.latest??-1;
+    const sortingTime=p=>venueTimeVal(closing(p),p)??(closingWindow(p)?venueTimeVal(closingWindow(p).latestText,p):null)??-1;
     const va=sortingTime(a),vb=sortingTime(b);
     return (vb-va)||a.name.localeCompare(b.name,'nl');
   }
