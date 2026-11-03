@@ -38590,6 +38590,101 @@
         "https://fietsroutenetwerk.nl/etenendrinken/brasserie-westersail"
       ],
       "original_status": "Bestaande seizoensbrasserie met eigen officiële sluitingsbericht. Niet tonen als actuele vrije inloop tijdens winter 2026/2027. Heropening april 2027 eerst opnieuw bevestigen."
+    },
+    {
+      "id": "grand-cafe-yn-e-haven-earnewald-20261103",
+      "name": "Grand Café Yn'e Haven",
+      "type": "Grand café / borrel",
+      "address": "Kruspaed 6",
+      "city": "Earnewâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen homepage nodigt ook zonder maaltijd uit voor wijn op het terras en een borrel; reserveren wordt aangeboden om zeker te zijn van plek, geen reserveringsplicht vermeld.",
+      "alcohol": "Eigen actuele https://ynehaven.nl/ noemt wijn, tap- en speciaalbier (Texels Skuumkoppe, Affligem Blond) en cocktails op de Drinks & Bites-kaart.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "opening_source": "https://ynehaven.nl/reserveren/",
+      "closing_source": "https://ynehaven.nl/reserveren/",
+      "opening_checked_on": "2026-11-03",
+      "website_checked_on": "2026-11-03",
+      "access_checked_on": "2026-11-03",
+      "alcohol_checked_on": "2026-11-03",
+      "checked_on": "2026-11-03",
+      "opening_quality": "Eigen actuele reserverenpagina onder kop Openingstijden: ma–do gesloten, vr–zo 12–21.",
+      "closing_quality": "Eigen actuele reserverenpagina onder kop Openingstijden: vr–zo 21:00, ma–do gesloten. Laatste toegang niet vermeld.",
+      "closing_notes": "03-11-2026: https://ynehaven.nl/reserveren/ rechtstreeks geopend en weekrooster gecontroleerd: ma–do gesloten, vr/za/zo 12:00–21:00. Homepage https://ynehaven.nl/ bevestigt actuele menuwijziging per 15-07-2026, vrije wijn-/bier-/cocktailborrel en adres Kruspaed 6. Oudere toeristische https://earnewald.nl/bedrijven/terras-yn-e-haven/ noemt afwijkend adres Kruspaed 4 en uren uit 2024; niet overgenomen. Een eerdere webzoekcache voor de eigen reserverenpagina vermeldde nog ma/do 16–21, maar directe live-pagina op 03-11 zegt ma–do gesloten; actuele direct geopende bron heeft voorrang. Laatste toegang onbekend.",
+      "website": "https://ynehaven.nl/",
+      "other_sources": [
+        "https://ynehaven.nl/reserveren/",
+        "https://ynehaven.nl/weekend/",
+        "https://earnewald.nl/bedrijven/terras-yn-e-haven/",
+        "https://earnewald.nl/wp-content/uploads/2025/04/Toeristenfolder-Earnewald-2025-WEB.pdf"
+      ],
+      "features": "Publieke borrel aan haven; winter/feestdagen en laatste toegang niet afzonderlijk bevestigd",
+      "original_status": "Exploitantwebsite 03-11-2026 rechtstreeks gecontroleerd, reguliere borrel en weekendrooster; geen exacte BAG-geocode."
+    },
+    {
+      "id": "eetcafe-de-meerpaal-earnewald-20261103",
+      "name": "Eetcafé De Meerpaal",
+      "type": "Camping-eetcafé / borrelkandidaat",
+      "address": "Koaidyk 10",
+      "city": "Earnewâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Eigen campingexploitant Ardoer biedt eetcafé en terras met lunch, borrel en diner; toegang voor bezoekers zonder campingverblijf niet afzonderlijk bevestigd.",
+      "alcohol": "Eigen https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/ vermeldt expliciet speciaalbier van Friese brouwers.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitant verwijst voor actuele tijden naar eigen site; geen bevestigd weekrooster gevonden, seizoensafhankelijkheid nog te controleren.",
+      "closing_quality": "Geen exploitant-sluituur of laatste toegang bevestigd; geen campingreceptie-/snackbaruren overnemen.",
+      "opening_source": "",
+      "closing_source": "",
+      "website": "https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/",
+      "website_checked_on": "2026-11-03",
+      "access_checked_on": "2026-11-03",
+      "alcohol_checked_on": "2026-11-03",
+      "checked_on": "2026-11-03",
+      "closing_notes": "03-11-2026: eigen campingexploitant https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/ bevestigt Eetcafé De Meerpaal, borrel, speciaalbier, terras en locatie op camping It Wiid, Koaidyk 10. https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf beschrijft eetcafé en restaurant maar geen vrije toegang van buitenaf. Eigen demeerpaal.frl was via web niet bereikbaar; geen uren of november-openstelling aannemen. Campinggastenstatus, seizoensrooster en laatste toegang eerst verifiëren; snackbar op hetzelfde terrein is geen apart caférecord.",
+      "other_sources": [
+        "https://www.ardoer.com/nl/wiid/faciliteiten/cafetaria-it-wiid",
+        "https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf"
+      ],
+      "features": "Camping It Wiid; toegang voor niet-gasten en winteropenstelling onbekend",
+      "original_status": "Officiële campingexploitant bevestigt bier en borrel; nog niet bewezen of voor iedereen zonder campingtoegang vrij toegankelijk."
     }
   ],
   "admission_policies": [
