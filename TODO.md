@@ -1,5 +1,14 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Controle 03-11-2026 07:48 CET — masterintegriteit als permanente regressie
+
+**Uitgevoerd:** actuele TODO en volledige master via GitHub blob-SHA gelezen (de contents-API geeft voor deze grote bestanden lege tekst terug; de blob-API levert de volledige inhoud). De actuele master bevat 768 unieke records: Utrecht 224 en Friesland 544. Alle records programmatisch gecontroleerd: 0 dubbele IDs, 0 ongedefinieerde regio's, 0 legacy `open`/`close`-velden en 0 geblokkeerde geocodes met marker. Geen horecabronnen nieuw geverifieerd; geen zaak of openingstijd aangepast.
+
+**Codewijziging:** [commit b54a3f6](https://github.com/paltenburg/nogergensnaarbinnen/commit/b54a3f61347dede456e34b85a0d78b2189895cd7) voegt `tests/test_master_integrity.py` toe aan de bestaande `python -m unittest discover -s tests -v`-stap van Pages Actions. De vier tests beschermen unieke IDs, bestaande regio's, canonieke weekroosters en geblokkeerde BAG-markers. De invarianten zijn op de volledige actuele dataset in JavaScript gecontroleerd; uitvoering van de nieuwe Python-tests en de nieuwe Pages-run moet nog afzonderlijk bevestigd worden. Geen echte mobiele interactietest uitgevoerd.
+
+**Hervatten:** (1) nieuwe GitHub Actions-run en vier Python-regressies controleren; (2) brononderzoek verborgen Friese kandidaten en ontbrekende echte sluituren; (3) Meerpaal BAG-unit verifiëren; (4) mobiele kaartinteractie en onafhankelijke live-HTTP. Friesland D0 blijft open. W46 vanaf maandag 09-11-2026 10:00 CET; bij start alle dan actieve regio's meenemen. Geen landelijke D1/D2-uitrol vóór D0.
+
+
 ### Controle 03-11-2026 05:43 CET — publicatie legacy-veldopschoning en masterintegriteit
 
 **Werkelijk gecontroleerd:** actuele `TODO.md`, `data/venues.json` (768 records) en `index.html` gelezen. De GitHub Actions-run [41578127436](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41578127436), gekoppeld aan datacommit `2ef5de8d` van de vorige uitvoering, is via de actuele GitHub Actions-API bevestigd als **completed/success** (03-11-2026 04:27 UTC). Dit bevestigt de workflowconclusie; een afzonderlijke live-HTTP- of mobiele interactietest is **niet** uitgevoerd.
