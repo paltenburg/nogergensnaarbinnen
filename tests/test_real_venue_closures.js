@@ -476,3 +476,20 @@ for (const date of ['2026-11-02','2027-04-01']) {
 }
 console.log('Meerpaal non-camper admission and winter closure from live owner site verified.');
 
+// 03-11-2026: Princenhof's public hotel bar is not its restaurant's kitchen timetable.
+// The operator's 2026 drinks menu verifies alcohol, but no exact bar closing/entry hours.
+const princenhof = db.places.find(p => p.id === 'hotel-restaurant-princenhof-earnewald-20261103');
+assert.ok(princenhof, 'Princenhof has a unique stable venue ID');
+assert.equal(princenhof.address, 'Piet Miedemaweg 15');
+assert.equal(princenhof.region, 'friesland');
+assert.equal(princenhof.website, 'https://princenhof.nl/');
+assert.equal(princenhof.selection, 'Voorlopig');
+assert.ok(princenhof.alcohol.includes('tapbier'));
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(princenhof.opening[day], '?', 'Restaurant meal periods do not prove bar opening '+day);
+  assert.equal(princenhof.closing[day], '?', 'Dinner service ending at 20:00 is not bar closure '+day);
+}
+assert.equal(db.places.filter(p => p.region === 'friesland' &&
+  p.city === 'Earnewâld' && p.address === 'Piet Miedemaweg 15').length, 1,
+  'One Princenhof location, not separate hotel/terrace/bar duplicates');
+console.log('Princenhof 2026 drinks evidence and unknown bar-hour boundaries verified.');
