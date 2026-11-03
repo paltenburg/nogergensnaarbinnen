@@ -38725,7 +38725,11 @@
         "https://www.ardoer.com/nl/wiid/faciliteiten/cafetaria-it-wiid",
         "https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf",
         "https://www.demeerpaal.frl/eten-drinken/",
-        "https://www.sod-dantumadeel.nl/wp-content/uploads/2025/07/SOD-2025-1.pdf"
+        "https://www.sod-dantumadeel.nl/wp-content/uploads/2025/07/SOD-2025-1.pdf",
+        "https://www.wiid.nl/faciliteiten/horeca/",
+        "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261815",
+        "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261816",
+        "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818"
       ],
       "features": "Camping It Wiid; toegang voor niet-gasten en winteropenstelling onbekend",
       "original_status": "Officiële campingexploitant bevestigt bier en borrel; nog niet bewezen of voor iedereen zonder campingtoegang vrij toegankelijk.",
@@ -38738,7 +38742,9 @@
           "checked_on": "2026-11-03",
           "certainty": "Eigen actuele openingspagina 03-11: 'Helaas, we zijn gesloten. Vanaf april 2027 zijn we weer geopend!' Begin van sluiting vóór 03-11 onbekend, heropeningsdatum binnen april onbekend."
         }
-      ]
+      ],
+      "geocode_blocked": true,
+      "geocode_notes": "03-11-2026: de exploitant https://www.wiid.nl/faciliteiten/horeca/ geeft Koaidyk 10, 9264TP als algemene CAMPINGadres en bevestigt café met bier. BAG-afgeleide https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261815 toont afzonderlijk Koaidyk 10 (woon-/bijeenkomstfunctie), https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261816 toont 10-D (bijeenkomst-/winkelfunctie) en https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818 toont 10-G (bijeenkomstfunctie). Zonder bewijs welke verblijfsobjectunit precies het EETCAFÉ is, geen van deze adressen als exacte marker kiezen; PDOK-run 41555363793 gaf voor kale 10 geen exacte match. Eerst exploitant of gedetailleerde campingplattegrond/ingangsunit verifiëren. Snackbar en supermarkt zijn aparte concepten, geen vervangende marker."
     },
     {
       "id": "hotel-restaurant-princenhof-earnewald-20261103",
