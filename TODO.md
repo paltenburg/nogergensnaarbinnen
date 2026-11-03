@@ -1,5 +1,10 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Aanvullende broncontrole 03-11-2026 — De Meerpaal terreinplattegrond
+
+**Datacommit [`786cad49`](https://github.com/paltenburg/nogergensnaarbinnen/commit/786cad49364b7c3c7bd2158e1de0a5718537bdcf)**: primaire [campingplattegrond](https://www.wiid.nl/wp-content/uploads/2021/02/Camping-It-Wiid-Plattegrond.pdf) daadwerkelijk gevonden en legenda gecontroleerd: afzonderlijk symbool voor 'Eetcafé en snackbar de Meerpaal'. [Camping-FAQ](https://www.wiid.nl/en/information/frequently-asked-questions/) bevestigt dat externe bezoekers welkom zijn op het terrein. Beide bronnen op 03-11-2026 aan bestaande masterrecord `eetcafe-de-meerpaal-earnewald-20261103` toegevoegd; **geen extra locatie, geen marker, geen sluituren**. De plattegrond is schematisch en uit 2021; koppeling aan BAG-unit 10/10-D/10-G blijft onbewezen. `geocode_blocked=true` behouden. **Volgende:** georeferentie van het faciliteitssymbool tegenover BAG-pandgeometrie of rechtstreeks navragen welke unit het eetcafé gebruikt; pas daarna exacte geocode. Overige D0-taken ongewijzigd. GitHub-write bevestigd; nieuwe CI/deployment, live HTTP en mobiele interactie nog niet gecontroleerd.
+
+
 ### Definitieve CI- en geocodeveiligheidscheck 03-11-2026 circa 01:55 CET
 
 **Na vorige checkpoints ook commit [c99f502a](https://github.com/paltenburg/nogergensnaarbinnen/commit/c99f502a1ec2edd01372a1462874a66f6b2f4af8) opgeslagen:** regressie in `tests/test_real_venue_closures.js` dwingt af dat Eetcafé De Meerpaal `geocode_blocked=true` en géén marker heeft zolang BAG-units 10/10-D/10-G niet zijn onderscheiden. Test lokaal op de gekopieerde 768-record dataset uitgevoerd en geslaagd. Alle bron- en BAG-notities zijn in de master `data/venues.json` opgeslagen (datacommit `140a8f2d`). **Geen marker bijverzonnen.**
