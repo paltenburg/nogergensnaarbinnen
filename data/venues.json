@@ -2836,8 +2836,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Publieke café-inloop en borrels volgens eigen website (03-11-2026); laatste toegang onbekend.",
+      "alcohol": "Eigen website bevestigt ruim 70 soorten bier en een wijnkaart (03-11-2026).",
       "selection": "Voorlopig",
       "closing": {
         "ma": "00:00",
@@ -2850,8 +2850,8 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://cafelijn4.nl/",
-      "checked_on": "2026-10-26",
-      "closing_notes": "",
+      "checked_on": "2026-11-03",
+      "closing_notes": "Eigen website op 03-11-2026 opnieuw gecontroleerd: ma-wo en zo tot 00:00, do tot 01:00, vr-za tot 02:00; laatste toegang niet vermeld.",
       "features": "Museumkwartier",
       "website": "https://cafelijn4.nl/",
       "other_sources": [
@@ -2866,7 +2866,7 @@
         "matched_address": "Twijnstraat 3, 3511ZG Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26",
+      "website_checked_on": "2026-11-03",
       "opening": {
         "ma": "16:00",
         "di": "16:00",
@@ -2877,7 +2877,7 @@
         "zo": "14:00"
       },
       "opening_source": "https://cafelijn4.nl/",
-      "opening_checked_on": "2026-10-26"
+      "opening_checked_on": "2026-11-03"
     },
     {
       "id": "cafe-lombok-ed33122",
