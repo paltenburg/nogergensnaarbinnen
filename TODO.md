@@ -1,5 +1,14 @@
 # Doorlopende takenlijst — Nog ergens naar binnen
 
+### Controle 03-11-2026 05:43 CET — publicatie legacy-veldopschoning en masterintegriteit
+
+**Werkelijk gecontroleerd:** actuele `TODO.md`, `data/venues.json` (768 records) en `index.html` gelezen. De GitHub Actions-run [41578127436](https://github.com/paltenburg/nogergensnaarbinnen/actions/runs/41578127436), gekoppeld aan datacommit `2ef5de8d` van de vorige uitvoering, is via de actuele GitHub Actions-API bevestigd als **completed/success** (03-11-2026 04:27 UTC). Dit bevestigt de workflowconclusie; een afzonderlijke live-HTTP- of mobiele interactietest is **niet** uitgevoerd.
+
+**Datasetcontrole op de actuele master:** 768 records (224 Utrecht, 544 Friesland), 768 unieke IDs, nul ontbrekende regio's, nul overgebleven legacy `open`/`close`-arrays, nul records met `geocode_blocked=true` én toch een marker. 110 dagwaarden met niet-kloktijdige labels zoals `Varieert` of `Event` gesignaleerd; **niet** automatisch als defect of als concrete tijden behandeld: dit zijn expliciete onbekende/evenementafhankelijke waarden. Geen horecagegevens gewijzigd, geen externe exploitatiebron geverifieerd en geen nieuwe locatie toegevoegd. De audit W46 is vóór 09-11-2026 10:00 CET nog niet verschuldigd; D0 blijft open.
+
+**Volgende uitvoerbare stappen:** (1) broncontrole voor Friese verborgen kandidaten en ontbrekende echte sluituren; (2) Meerpaal-BAG-unit verifiëren vóór geocoding; (3) frontendfilter expliciet toetsen op alle bestaande niet-kloktijdige labels, zonder onbekenden als open te presenteren; (4) onafhankelijke live-HTTP- en echte mobiele kaarttest. De 110 dagwaarden zijn een **veldwaardentelling**, geen 110 locaties.
+
+
 ### Datamodelcontrole 03-11-2026 — dubbele legacy-uurvelden
 
 Commit [`2ef5de8d`](https://github.com/paltenburg/nogergensnaarbinnen/commit/2ef5de8d06682daf648b1d60f04867babc682a6a): alle 768 masterrecords op oude `open`/`close`-arrayvelden gecontroleerd. Alleen BOEL Leeuwarden (`boel-leeuwarden-20261030`) en Café Donkerbroek (`cafe-donkerbroek-20261030`) bevatten die dubbele velden. Alle 14 dagwaarden per zaak kwamen exact overeen met de reeds aanwezige canonieke `opening`/`closing`-objecten; de 4 redundante arrays verwijderd, **geen openingstijd, sluitingstijd, ID, regio of locatie gewijzigd**. JSON-parse en 768-recordtelling vóór commit geslaagd. Volgende: GitHub Actions-publicatie na deze datamodelwijziging controleren, regressies en mobiele kaartbediening nog afzonderlijk uitvoeren. Geen nieuwe externe horecabron geverifieerd; D0 en auditplanning ongewijzigd.
