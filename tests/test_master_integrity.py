@@ -32,9 +32,14 @@ class MasterIntegrityTests(unittest.TestCase):
             with self.subTest(id=place["id"]):
                 self.assertNotIn("open", place)
                 self.assertNotIn("close", place)
-                self.assertIsInstance(place.get("opening"), dict)
+                # Older Utrecht records have only verified closing hours.
+                # Do not invent opening hours merely to satisfy a schema test.
                 self.assertIsInstance(place.get("closing"), dict)
+                if "opening" in place:
+                    self.assertIsInstance(place["opening"], dict)
                 for key in ("opening", "closing"):
+                    if key not in place:
+                        continue
                     self.assertEqual(
                         set(place[key]), {"ma", "di", "wo", "do", "vr", "za", "zo"}
                     )
