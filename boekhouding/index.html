@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f7fb">
+<title>Boekhouding – Janne &amp; Popke</title>
+<meta name="description" content="Persoonlijke boekhouding voor Janne en Popke, met import uit Google Sheets.">
+<style>
+:root{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172b40;background:#f5f7fb;font-synthesis:none}
+*{box-sizing:border-box}body{margin:0}button,input,select,textarea{font:inherit}button{cursor:pointer}
+a{color:#17607c;text-decoration:underline;text-underline-offset:3px}
+main{max-width:1120px;margin:0 auto;padding:29px 20px 70px}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:18px;margin:0 0 20px}
+.eyebrow{font-size:12px;letter-spacing:1.25px;text-transform:uppercase;font-weight:800;color:#60788d}
+h1{font-size:clamp(29px,4vw,43px);letter-spacing:-1.6px;line-height:1.1;margin:5px 0}
+h2{font-size:18px;letter-spacing:-.4px;margin:0 0 16px}
+p{line-height:1.5;margin:5px 0 10px}
+.muted{color:#60758a;font-size:13px}
+button,.button{border:1px solid #c6d2dd;border-radius:10px;background:#fff;color:#233d50;padding:10px 14px;font-size:13px;font-weight:700;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}
+button:hover,.button:hover{background:#edf3f7}button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #63abc5;outline-offset:1px}
+.primary{background:#216885;border-color:#216885;color:#fff}.primary:hover{background:#14536e}
+.danger{color:#a53b3b;border-color:#e6b9b9}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.panel{background:#fff;border:1px solid #dce4ec;border-radius:16px;padding:20px;box-shadow:0 1px 4px #263e5708}
+.notice{background:#ecf4fa;border:1px solid #d4e5f1;padding:13px 15px;border-radius:11px;color:#36566c;font-size:13px;line-height:1.5;margin-bottom:20px}
+.summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:20px}
+.metric{padding:20px 22px}.metric-label{font-size:13px;font-weight:650;color:#597185}.metric-figure{font-weight:790;font-size:clamp(23px,3vw,34px);letter-spacing:-1px;font-variant-numeric:tabular-nums;margin-top:9px}.metric-note{font-size:12px;color:#658095;margin-top:7px}
+.layout{display:grid;grid-template-columns:350px minmax(0,1fr);gap:17px;align-items:start}
+.field{display:grid;gap:6px;margin-bottom:12px}.field label{font-size:12px;font-weight:700;color:#476073}
+.field input,.field select,.field textarea,#search{min-width:0;width:100%;border:1px solid #bccbd8;background:#fff;border-radius:9px;padding:10px;color:#173248;font-size:14px}
+.field textarea{height:125px;resize:vertical}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.help{color:#698096;font-size:12px;line-height:1.4;margin:4px 0 11px}
+.list-panel{min-width:0}
+.list-head{display:flex;justify-content:space-between;align-items:start;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+.list-head h2{margin-bottom:4px}
+#search{max-width:255px}
+.transactions{display:grid;gap:9px}
+.transaction{border:1px solid #e0e8ed;border-radius:12px;padding:14px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.transaction-top{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.transaction-title{font-weight:740;font-size:14px;line-height:1.3}
+.transaction-meta{font-size:12px;color:#647c90;margin-top:5px;overflow-wrap:anywhere}
+.transaction-money{white-space:nowrap;text-align:right;font-size:16px;font-weight:780;font-variant-numeric:tabular-nums}
+.transaction-actions{display:flex;gap:5px;justify-content:flex-end;margin-top:7px}.transaction-actions button{font-size:12px;padding:5px 9px}
+.tag{font-size:11px;font-weight:760;padding:3px 7px;background:#eef5f8;border-radius:6px;color:#4a7182}
+.tag.warning{background:#fff3df;color:#9d6722}
+.empty{padding:34px 14px;text-align:center;border:1px dashed #cad6df;border-radius:11px;color:#60778a;line-height:1.6;font-size:13px}
+.import-section{margin-top:16px;border-top:1px solid #e4ebf1;padding-top:16px}
+.import-section summary{font-weight:750;font-size:13px;cursor:pointer;color:#31596d}
+.import-section details[open] summary{margin-bottom:12px}
+.status{font-size:12px;line-height:1.45;color:#587386;min-height:18px;margin:8px 0}
+.actions-foot{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.hidden{display:none!important}
+@media(max-width:840px){.layout{grid-template-columns:1fr}.summary{grid-template-columns:repeat(2,minmax(0,1fr))}.metric:last-child{grid-column:1/-1}}
+@media(max-width:530px){main{padding:18px 12px 42px}header{display:block}.toolbar{margin-top:12px}.panel{padding:15px}.summary{grid-template-columns:1fr}.metric:last-child{grid-column:auto}.metric{padding:15px 18px}.transaction{align-items:flex-start}.transaction-money{font-size:14px}.two{gap:8px}.list-head{display:grid}#search{max-width:none}}
+</style>
+</head>
+<body>
+<main>
+<header>
+<div><div class="eyebrow">Janne &amp; Popke</div><h1>Boekhouding</h1><p class="muted">Houd bij wat er van wie naar wie gaat.</p></div>
+<div class="toolbar"><a class="button" href="https://docs.google.com/spreadsheets/d/1Qu8E69DFp4hvvqtMyGFE_djJ5gqYHb0ufMWOgRYIPu4/edit" target="_blank" rel="noopener noreferrer">Open spreadsheet ↗</a><button id="exportBtn" type="button">Exporteer CSV</button></div>
+</header>
+<div class="notice"><strong>Privacy en opslag:</strong> bedragen blijven in deze browser op dit apparaat. Er wordt niets naar GitHub verzonden en er is <strong>nog geen automatische synchronisatie</strong> met Google Sheets. Importeer je bestaande spreadsheet hieronder; exporteer je wijzigingen als CSV om ze te bewaren of in Sheets te verwerken.</div>
+<section class="summary" aria-label="Saldo">
+<div class="panel metric"><div class="metric-label">Te verrekenen saldo</div><div class="metric-figure" id="balance">€ 0,00</div><div class="metric-note" id="balanceNote">Nog geen gekoppelde posten</div></div>
+<div class="panel metric"><div class="metric-label">Totaal alle bedragen</div><div class="metric-figure" id="gross">€ 0,00</div><div class="metric-note">Ook posten zonder Van/Naar</div></div>
+<div class="panel metric"><div class="metric-label">Posten zonder richting</div><div class="metric-figure" id="undirected">0</div><div class="metric-note">Tellen niet mee in het saldo</div></div>
+</section>
+<div class="layout">
+<section class="panel">
+<h2 id="editorTitle">Post toevoegen</h2>
+<form id="entryForm">
+<input type="hidden" id="entryId">
+<div class="field"><label for="entryDate">Datum</label><input id="entryDate" type="text" placeholder="2026-11-03 of 2026-11" autocomplete="off"></div>
+<div class="field"><label for="entryDescription">Omschrijving</label><input id="entryDescription" type="text" required maxlength="240" placeholder="Bijvoorbeeld: Boodschappen"></div>
+<div class="two"><div class="field"><label for="entryFrom">Van</label><select id="entryFrom"><option value="">Nog niet bepaald</option><option>Janne</option><option>Popke</option></select></div><div class="field"><label for="entryTo">Naar</label><select id="entryTo"><option value="">Nog niet bepaald</option><option>Janne</option><option>Popke</option></select></div></div>
+<div class="field"><label for="entryAmount">Bedrag (€)</label><input id="entryAmount" type="text" inputmode="decimal" required placeholder="25,00"></div>
+<div class="toolbar"><button class="primary" type="submit" id="saveBtn">Post opslaan</button><button type="button" id="cancelBtn" class="hidden">Annuleren</button></div>
+<p class="help">‘Van’ en ‘Naar’ volgen de richting uit je huidige spreadsheet. Lege waarden worden niet geraden.</p>
+</form>
+<div class="import-section">
+<details id="importDetails">
+<summary>Bestaand spreadsheet inlezen</summary>
+<p class="help">Kopieer in Google Sheets de kolommen <strong>Datum t/m Bedrag</strong> en plak ze hieronder, inclusief de kopregel. Een CSV-export werkt ook. Import vervangt je huidige lokale lijst, niet je Google Sheet.</p>
+<div class="field"><label for="pasteArea">Gegevens uit Sheets plakken</label><textarea id="pasteArea" placeholder="Datum&#9;Omschrijving&#9;Van&#9;Naar&#9;Bedrag"></textarea></div>
+<div class="toolbar"><button id="pasteBtn" type="button">Geplakte regels inlezen</button><button id="fileBtn" type="button">CSV-bestand kiezen</button><input class="hidden" id="csvFile" type="file" accept=".csv,.tsv,text/csv,text/tab-separated-values"></div>
+<div class="status" id="importStatus" role="status"></div>
+</details>
+</div>
+</section>
+<section class="panel list-panel">
+<div class="list-head"><div><h2>Posten <span id="count" class="muted"></span></h2><div class="muted">Nieuwste bovenaan · bedragen in euro</div></div><input type="search" id="search" placeholder="Zoeken op omschrijving, datum of naam" aria-label="Zoek posten"></div>
+<div id="transactions" class="transactions"></div>
+<div class="actions-foot"><button id="clearBtn" class="danger" type="button">Lokale gegevens wissen</button><span id="storageStatus" class="muted" role="status"></span></div>
+</section>
+</div>
+</main>
+<script>
+(function(){
+"use strict";
+var KEY="boekhouding-v1";
+var items=[];
+var editing=null;
+var euro=new Intl.NumberFormat("nl-NL",{style:"currency",currency:"EUR"});
+function $(id){return document.getElementById(id)}
+function makeId(){return String(Date.now())+"-"+Math.random().toString(36).slice(2)}
+function escapeHtml(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+function parseAmount(value){
+var s=String(value==null?"":value).trim().replace(/[€\s\u00a0]/g,"");
+if(!s)return NaN;
+var comma=s.lastIndexOf(","),dot=s.lastIndexOf(".");
+if(comma>=0&&dot>=0){s=comma>dot?s.replace(/\./g,"").replace(",","."):s.replace(/,/g,"")}
+else if(comma>=0){s=s.replace(",",".")}
+else if(dot>=0&&/^\-?\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,"")}
+if(!/^-?\d+(\.\d+)?$/.test(s))return NaN;
+var n=Number(s);return Number.isFinite(n)?Math.round((n+Number.EPSILON)*100)/100:NaN;
+}
+function formatAmount(n){return euro.format(n)}
+function isKnown(s){return s==="Janne"||s==="Popke"}
+function isDirection(i){return isKnown(i.from)&&isKnown(i.to)&&i.from!==i.to}
+function save(){
+try{localStorage.setItem(KEY,JSON.stringify(items));$("storageStatus").textContent="Op dit apparaat bewaard."}
+catch(e){$("storageStatus").textContent="Opslaan mislukt: mogelijk is browseropslag geblokkeerd. Exporteer een CSV."}
+}
+function render(){
+var directed=0,total=0,missing=0,countDirected=0;
+items.forEach(function(i){total+=i.amount;if(isDirection(i)){directed+=(i.from==="Janne"?1:-1)*i.amount;countDirected++}else{missing++}});
+$("balance").textContent=formatAmount(Math.abs(directed));
+$("balanceNote").textContent=!countDirected?"Nog geen gekoppelde posten":directed>0?"Janne → Popke":directed<0?"Popke → Janne":"Helemaal verrekend";
+$("gross").textContent=formatAmount(total);
+$("undirected").textContent=String(missing);
+$("count").textContent="("+items.length+")";
+var q=$("search").value.toLocaleLowerCase("nl").trim();
+var filtered=items.filter(function(i){return !q||[i.date,i.description,i.from,i.to,String(i.amount)].join(" ").toLocaleLowerCase("nl").includes(q)});
+var node=$("transactions");node.textContent="";
+if(!filtered.length){node.innerHTML='<div class="empty">'+(items.length?"Geen overeenkomende posten.":"Nog geen posten. Begin met importeren uit je bestaande spreadsheet, of voeg een post toe.")+"</div>";return}
+filtered.slice().sort(function(a,b){return b.date.localeCompare(a.date)||b.created-a.created}).forEach(function(i){
+var row=document.createElement("article");row.className="transaction";
+var status=isDirection(i)?escapeHtml(i.from+" → "+i.to):"Richting onbekend";
+row.innerHTML='<div style="min-width:0"><div class="transaction-top"><span class="transaction-title">'+escapeHtml(i.description)+'</span><span class="tag '+(isDirection(i)?"":"warning")+'">'+status+'</span></div><div class="transaction-meta">'+escapeHtml(i.date||"Geen datum")+'</div></div><div><div class="transaction-money">'+escapeHtml(formatAmount(i.amount))+'</div><div class="transaction-actions"><button type="button" data-action="edit" data-id="'+escapeHtml(i.id)+'">Bewerk</button><button type="button" data-action="remove" data-id="'+escapeHtml(i.id)+'" aria-label="Verwijder '+escapeHtml(i.description)+'">×</button></div></div>';
+node.appendChild(row);
+});
+}
+function resetEditor(){
+editing=null;$("entryForm").reset();$("entryId").value="";$("entryDate").value=new Date().toLocaleDateString("sv-SE");
+$("editorTitle").textContent="Post toevoegen";$("saveBtn").textContent="Post opslaan";$("cancelBtn").classList.add("hidden");
+}
+$("entryForm").addEventListener("submit",function(e){
+e.preventDefault();var amount=parseAmount($("entryAmount").value);
+if(!Number.isFinite(amount)){alert("Vul een geldig bedrag in.");return}
+var from=$("entryFrom").value,to=$("entryTo").value;
+if(from&&to&&from===to){alert("Van en Naar mogen niet dezelfde persoon zijn.");return}
+var desc=$("entryDescription").value.trim();if(!desc)return;
+var o={id:editing||makeId(),date:$("entryDate").value.trim(),description:desc,from:from,to:to,amount:amount,created:Date.now()};
+if(editing){var old=items.find(function(x){return x.id===editing});if(old)o.created=old.created;items=items.map(function(x){return x.id===editing?o:x})}
+else items.push(o);
+save();resetEditor();render();
+});
+$("cancelBtn").addEventListener("click",resetEditor);
+$("transactions").addEventListener("click",function(e){
+var btn=e.target.closest("button[data-action]");if(!btn)return;
+var id=btn.getAttribute("data-id"),i=items.find(function(x){return x.id===id});if(!i)return;
+if(btn.dataset.action==="remove"){if(!confirm('Post "'+i.description+'" verwijderen?'))return;items=items.filter(function(x){return x.id!==id});if(editing===id)resetEditor();save();render();return}
+editing=id;$("entryId").value=id;$("entryDate").value=i.date;$("entryDescription").value=i.description;$("entryFrom").value=i.from;$("entryTo").value=i.to;$("entryAmount").value=String(i.amount).replace(".",",");$("editorTitle").textContent="Post bewerken";$("saveBtn").textContent="Wijzigingen opslaan";$("cancelBtn").classList.remove("hidden");$("entryDescription").focus();window.scrollTo({top:0,behavior:"smooth"});
+});
+$("search").addEventListener("input",render);
+function parseDelimited(text){
+var clean=String(text||"").replace(/^\uFEFF/,"");
+var first=clean.split(/\r?\n/).find(function(line){return line.trim()})||"";
+var delimiters=["\t",";",","],scores=delimiters.map(function(delim){var inside=false,n=0;for(var k=0;k<first.length;k++){if(first[k]==='"')inside=!inside;else if(first[k]===delim&&!inside)n++}return n});
+var best=scores.indexOf(Math.max.apply(null,scores)),sep=delimiters[best];
+if(scores[best]===0)throw Error("Geen tabelscheiding gevonden. Kopieer meerdere kolommen.");
+var rows=[],row=[],cell="",quoted=false;
+for(var i=0;i<clean.length;i++){var c=clean[i];if(quoted){if(c==='"'&&clean[i+1]==='"'){cell+='"';i++}else if(c==='"')quoted=false;else cell+=c}
+else if(c==='"')quoted=true;else if(c===sep){row.push(cell);cell=""}
+else if(c==="\n"||c==="\r"){if(c==="\r"&&clean[i+1]==="\n")i++;row.push(cell);if(row.some(function(x){return x.trim()}))rows.push(row);row=[];cell=""}
+else cell+=c}
+if(quoted)throw Error("Onvolledig aanhalingsteken in CSV.");
+row.push(cell);if(row.some(function(x){return x.trim()}))rows.push(row);
+return rows;
+}
+function importText(text){
+var rows=parseDelimited(text);if(!rows.length)throw Error("Geen gegevens gevonden.");
+var headerIndex=-1,indices=null;
+for(var r=0;r<Math.min(8,rows.length);r++){
+var lower=rows[r].map(function(x){return x.trim().toLowerCase()});
+var labels=["datum","omschrijving","van","naar","bedrag"];var found=labels.map(function(x){return lower.indexOf(x)});
+if(found.every(function(x){return x>=0})){headerIndex=r;indices=found;break}
+}
+if(!indices){
+if(rows[0].length>=7)indices=[2,3,4,5,6];
+else if(rows[0].length>=5)indices=[0,1,2,3,4];
+else throw Error("Verwacht minstens 5 kolommen: Datum, Omschrijving, Van, Naar, Bedrag.");
+}
+var output=[],invalid=0;
+rows.slice(headerIndex+1).forEach(function(row){
+var pick=function(k){return String(row[indices[k]]||"").trim()};
+var date=pick(0),description=pick(1),from=pick(2),to=pick(3),raw=pick(4);
+if(!description&&!raw)return;
+var amount=parseAmount(raw);
+if(!Number.isFinite(amount)){invalid++;return}
+output.push({id:makeId(),date:date,description:description||"(geen omschrijving)",from:from,to:to,amount:amount,created:Date.now()+output.length});
+});
+if(!output.length)throw Error("Geen geldige posten gevonden. Controleer de kolommen en bedragen.");
+if(items.length&&!confirm("Vervang "+items.length+" lokale posten door "+output.length+" geïmporteerde posten? Je Google Sheet verandert niet."))return false;
+items=output;save();resetEditor();render();
+$("importStatus").textContent=output.length+" posten ingelezen."+(invalid?" "+invalid+" regels met ongeldig bedrag overgeslagen.":"")+" Alleen lokaal opgeslagen.";
+return true;
+}
+$("pasteBtn").addEventListener("click",function(){try{importText($("pasteArea").value)}catch(e){$("importStatus").textContent=e.message}});
+$("fileBtn").addEventListener("click",function(){$("csvFile").click()});
+$("csvFile").addEventListener("change",async function(){
+var file=this.files&&this.files[0];if(!file)return;
+try{importText(await file.text())}catch(e){$("importStatus").textContent=e.message}
+this.value="";
+});
+function csvValue(value){var s=String(value==null?"":value);return /[;"\r\n]/.test(s)?'"'+s.replace(/"/g,'""')+'"':s}
+$("exportBtn").addEventListener("click",function(){
+var rows=[["Datum","Omschrijving","Van","Naar","Bedrag"]].concat(items.map(function(i){return [i.date,i.description,i.from,i.to,i.amount.toFixed(2).replace(".",",")]}));
+var content="\uFEFF"+rows.map(function(row){return row.map(csvValue).join(";")}).join("\r\n")+"\r\n";
+var url=URL.createObjectURL(new Blob([content],{type:"text/csv;charset=utf-8"}));
+var a=document.createElement("a");a.href=url;a.download="boekhouding-"+new Date().toISOString().slice(0,10)+".csv";document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(url)},1000);
+});
+$("clearBtn").addEventListener("click",function(){if(!items.length)return;if(!confirm("Wis alle "+items.length+" lokale posten? Dit verwijdert niets uit Google Sheets. Exporteer eerst een CSV voor je doorgaat."))return;items=[];save();resetEditor();render()});
+try{
+var stored=JSON.parse(localStorage.getItem(KEY)||"[]");
+if(Array.isArray(stored))items=stored.filter(function(i){return i&&typeof i.description==="string"&&Number.isFinite(i.amount)}).map(function(i){return {id:String(i.id||makeId()),date:String(i.date||""),description:i.description,from:String(i.from||""),to:String(i.to||""),amount:i.amount,created:Number(i.created)||0}});
+}catch(e){$("storageStatus").textContent="Bestaande lokale gegevens konden niet worden gelezen."}
+resetEditor();render();
+})();
+</script>
+</body>
+</html>
