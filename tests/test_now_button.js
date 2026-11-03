@@ -16,7 +16,13 @@ new vm.Script(handler + '; useCurrentDutchTime');
 
 function check(instant, expectedDate, expectedDay, expectedTime, expectedMorning) {
   const state = {date:'', day:'', after:'23:30', sameDayMorning:false};
-  const elements = {visitDate:{value:''},day:{value:''},after:{value:'23:30'}};
+  const classes=new Set();
+  const elements = {
+    visitDate:{value:''},
+    day:{value:''},
+    after:{value:'23:30',classList:{add:value=>classes.add(value),remove:value=>classes.delete(value)}},
+    nowFeedback:{hidden:true,textContent:''}
+  };
   const calls = [];
   const FixedDate = class extends Date {
     constructor(...args) { super(...(args.length ? args : [instant])); }
@@ -48,6 +54,9 @@ function check(instant, expectedDate, expectedDay, expectedTime, expectedMorning
   assert.equal(state.after, expectedTime, instant + ' exact arrival time');
   assert.equal(elements.after.value, expectedTime, instant + ' selected time in control');
   assert.equal(state.sameDayMorning, expectedMorning, instant + ' morning mode');
+  assert.equal(elements.nowFeedback.hidden, false, instant + ' visible confirmation');
+  assert.equal(elements.nowFeedback.textContent, 'Nu ingesteld: '+expectedTime, instant + ' exact confirmation text');
+  assert.ok(classes.has('now-selected'), instant + ' selected time highlighted');
   assert.equal(calls.length, 3, instant + ' refresh callbacks');
 }
 
@@ -67,4 +76,7 @@ assert.equal((html.match(/el\('nowBtn'\)\.addEventListener\('click',useCurrentDu
 assert.ok(html.indexOf("el('nowBtn').addEventListener('click',useCurrentDutchTime);") <
   html.indexOf("try{const response=await fetch("),
   'Nu should work even before database loading has finished');
-console.log('Nu handler: 8 clock instants, DOM selection and early click wiring verified.');
+assert.ok(html.includes('id="nowFeedback"'), 'a persistent visible time confirmation is present');
+assert.ok(html.includes('role="status" aria-live="polite"'), 'time confirmation is accessible');
+assert.ok(html.includes("function clearNowFeedback(){"), 'manual changes clear confirmation');
+console.log('Nu handler: 8 clock instants, visible time confirmation, DOM selection and early click wiring verified.');
