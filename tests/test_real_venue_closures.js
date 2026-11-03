@@ -462,3 +462,17 @@ for (const p of [ynHaven,meerpaal,westersail]) {
     'Distinct Earnewald venues have no duplicate addresses: '+p.id);
 }
 console.log('Earnewald Yn e Haven operator weekend hours and Meerpaal admission uncertainty verified.');
+
+assert.equal(meerpaal.website, 'https://www.demeerpaal.frl/');
+assert.ok(meerpaal.access.includes('niet alleen'), 'Owner interview explicitly welcomes non-campers');
+assert.equal(meerpaal.date_closures.length, 1);
+assert.equal(meerpaal.date_closures[0].source,
+  'https://www.demeerpaal.frl/openingstijden-eetcafe/');
+for (const date of ['2026-11-03','2026-12-31','2027-03-31']) {
+  assert.equal(isClosed(meerpaal,date),true,'Owner confirmed winter closure '+date);
+}
+for (const date of ['2026-11-02','2027-04-01']) {
+  assert.equal(isClosed(meerpaal,date),false,'Do not invent a date beyond evidence '+date);
+}
+console.log('Meerpaal non-camper admission and winter closure from live owner site verified.');
+
