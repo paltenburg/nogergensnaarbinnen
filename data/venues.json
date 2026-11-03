@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_data_review": "2026-11-02",
+  "last_data_review": "2026-11-03",
   "disclaimer": "Sluitingstijden niet live gecontroleerd. ? betekent onbekend, — volgens bron gesloten, Event/Varieert wisselend. Niet voor iedere locatie zijn openingstijden en laatste toegang bekend. Geen garantie dat een zaak nu open is.",
   "regions": [
     {
@@ -12549,7 +12549,7 @@
       },
       "closing_quality": "Externe gidsen spreken elkaar tegen; geen bedrijfseigen weekrooster gevonden.",
       "closing_source": "https://www.allebiz.nl/caf%C3%A9-pietje-bel-0512-524-686",
-      "closing_notes": "AlleBiz noemt wo/do/zo 20–01, vr/za 21–03 en ma/di dicht; Fietsroutenetwerk noemt di–zo andere begintijden en eindtijden (o.a. za 11–01). Geen officiële website aangetroffen; actuele exploitatie en sluiting niet zelfstandig bevestigd. Geen gidsuren overgenomen. | Hercontrole 02-11-2026: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/633531/cafe-pietje-bel vermeldt KvK 01078629 (vestiging 000006405460) als NIET LANGER ACTIEF; ook historische alias De Koperen Bel op hetzelfde adres, KvK 77497848, staat als inactief: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/1948012/de-koperen-bel. Tegelijk noemt Drachtster Boys-sponsoradvertentie 2024/2025 https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf nog Café Pietje Bell, en recente gidsen tonen de naam. Beëindigde registraties bewijzen niet dat er in 2026 geen andere exploitant op hetzelfde adres zit; géén sluitingsdatum afgeleid, verborgen gehouden. De Koperen Bel niet als tweede actueel café toegevoegd.",
+      "closing_notes": "AlleBiz noemt wo/do/zo 20–01, vr/za 21–03 en ma/di dicht; Fietsroutenetwerk noemt di–zo andere begintijden en eindtijden (o.a. za 11–01). Geen officiële website aangetroffen; actuele exploitatie en sluiting niet zelfstandig bevestigd. Geen gidsuren overgenomen. | Hercontrole 02-11-2026: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/633531/cafe-pietje-bel vermeldt KvK 01078629 (vestiging 000006405460) als NIET LANGER ACTIEF; ook historische alias De Koperen Bel op hetzelfde adres, KvK 77497848, staat als inactief: https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/1948012/de-koperen-bel. Tegelijk noemt Drachtster Boys-sponsoradvertentie 2024/2025 https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf nog Café Pietje Bell, en recente gidsen tonen de naam. Beëindigde registraties bewijzen niet dat er in 2026 geen andere exploitant op hetzelfde adres zit; géén sluitingsdatum afgeleid, verborgen gehouden. De Koperen Bel niet als tweede actueel café toegevoegd. | Hercontrole 03-11-2026: https://dartsgids.nl/locaties/cafe-pietje-bell/ heeft update 04-09-2026 met adres Zuidkade 18, maar zegt dat er momenteel niet gedart kan worden (0 wedstrijdbanen). Dit is een recentere onafhankelijke adres-/naamsvermelding, geen bewijs van reguliere openstelling of van sluiting. Externe gidsen tonen onderling verschillende uren, daarom geen weektijden of selectie gewijzigd.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
@@ -12558,7 +12558,8 @@
         "https://fietsroutenetwerk.nl/afstappunten/cafe-pietje-bell",
         "https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/633531/cafe-pietje-bel",
         "https://www.oozo.nl/bedrijven/smallingerland/drachten/centrum/1948012/de-koperen-bel",
-        "https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf"
+        "https://novateur.nl/wp-content/uploads/2025/06/DrachsterBoys_krant-1.pdf",
+        "https://dartsgids.nl/locaties/cafe-pietje-bell/"
       ],
       "original_status": "Actuele publieke exploitatie in 2026 onzeker: oude KvK-inschrijvingen Pietje Bel en alias De Koperen Bel inactief, maar historische sponsoradvertentie en actuele gidsen vermelden café. Zonder bedrijfseigen bewijs verborgen.",
       "geo": {
@@ -12567,7 +12568,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Zuidkade 18, 9203CK Drachten"
       },
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -38532,6 +38533,63 @@
         "https://www.friesland.nl/nl/locaties/2994061346/toon-luisterbar"
       ],
       "original_status": "Actieve publieke koffie-/vinylzaak; incidentele alcoholverstrekking tijdens 2026-evenementen bevestigd, reguliere vrije borrel/uren onbekend."
+    },
+    {
+      "id": "brasserie-westersail-earnewald-20261103",
+      "name": "Brasserie Westersail",
+      "type": "Brasserie / seizoensborrel",
+      "address": "Wiidswei 1A",
+      "city": "Earnewâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Nog te controleren",
+      "access": "Officiële exploitantpagina nodigt uit voor koffie, lunch, diner en cocktails met borrelhapjes; reguliere publieke inloop buiten het seizoen niet mogelijk. Vrije borrelinloop tijdens seizoen volgens site; exacte toegangsvoorwaarden en laatste toegang nog onbekend.",
+      "alcohol": "Eigen https://westersail.nl/ noemt expliciet cocktails met borrelhapjes. Dorpsfolder 2025 https://earnewald.nl/wp-content/uploads/2025/04/Toeristenfolder-Earnewald-2025-WEB.pdf vermeldt Heineken, La Trappe en Liefmans, maar dat is geen actuele 2026/2027 drankkaart.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Exploitant meldt seizoenssluiting na 27 september 2026 en terugkeer vanaf april 2027; geen geverifieerd normaal weekrooster voor volgende seizoen.",
+      "closing_quality": "Officiële seizoenssluiting; onbekend wanneer in april 2027 weer daadwerkelijk publiek geopend. Externe gidsen met dagelijkse uren zijn niet geldig voor november 2026.",
+      "opening_source": "https://westersail.nl/",
+      "closing_source": "https://westersail.nl/",
+      "date_closures": [
+        {
+          "start": "2026-09-28",
+          "end": "2027-03-31",
+          "source": "https://westersail.nl/",
+          "checked_on": "2026-11-03",
+          "certainty": "Eigen homepage: seizoen tot en met 27 september 2026, daarna gesloten en vanaf april 2027 terug. Deze interval sluit alleen september 28 t/m maart 31; geen heropeningsdatum in april aangenomen."
+        }
+      ],
+      "closing_notes": "03-11-2026: eigen homepage https://westersail.nl/ noemt laatste seizoen dag 27-09-2026, 'daarna gaan we er even tussenuit' en terug vanaf april 2027. Niet als november-open weergegeven. Site noemt cocktails/borrelhapjes en Wiidswei 1A, 9264 TL Earnewâld. Regionale https://earnewald.nl/bedrijven/cafe-terras-westersail/ bevestigt publiek terras en borrel. Externe gidsen https://www.allebiz.nl/brasserie-westersail-06-29291968 en https://fietsroutenetwerk.nl/etenendrinken/brasserie-westersail geven tegenstrijdige dagelijkse uren; niet overgenomen. Exacte BAG-geocode en feitelijke heropeningsdatum blijven open.",
+      "website": "https://westersail.nl/",
+      "website_checked_on": "2026-11-03",
+      "access_checked_on": "2026-11-03",
+      "alcohol_checked_on": "2026-11-03",
+      "checked_on": "2026-11-03",
+      "other_sources": [
+        "https://earnewald.nl/bedrijven/cafe-terras-westersail/",
+        "https://earnewald.nl/bedrijven/brasserie-westersail/",
+        "https://earnewald.nl/wp-content/uploads/2025/04/Toeristenfolder-Earnewald-2025-WEB.pdf",
+        "https://www.allebiz.nl/brasserie-westersail-06-29291968",
+        "https://fietsroutenetwerk.nl/etenendrinken/brasserie-westersail"
+      ],
+      "original_status": "Bestaande seizoensbrasserie met eigen officiële sluitingsbericht. Niet tonen als actuele vrije inloop tijdens winter 2026/2027. Heropening april 2027 eerst opnieuw bevestigen."
     }
   ],
   "admission_policies": [
