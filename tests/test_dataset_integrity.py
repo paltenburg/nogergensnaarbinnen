@@ -108,6 +108,25 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
                 self.assertFalse(place.get("geo"), "Alias must not create a second map marker")
                 self.assertTrue(target.get("geo"), "Canonical venue needs a marker")
 
+    def test_last_entry_times_are_sourced_and_complete(self):
+        """Do not turn unsourced door-policy guesses into admission deadlines."""
+        for p in self.places:
+            if "last_entry" not in p:
+                continue
+            with self.subTest(venue=p["id"]):
+                self.assertEqual(set(p["last_entry"]), set(DAYS))
+                for day, value in p["last_entry"].items():
+                    self.assertTrue(
+                        value in SPECIAL or bool(TIME.fullmatch(str(value))),
+                        f"{p['id']}: last_entry.{day} = {value!r}",
+                    )
+                self.assertTrue(
+                    p.get("last_entry_source", "").startswith(("https://", "http://")),
+                    "Last-entry deadline requires a verifiable source URL",
+                )
+                self.assertTrue(p.get("last_entry_checked_on"), "Missing last-entry check date")
+                date.fromisoformat(p["last_entry_checked_on"])
+
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
             geo = p.get("geo")
