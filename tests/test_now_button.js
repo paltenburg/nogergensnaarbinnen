@@ -15,8 +15,8 @@ const handler = inline[1].slice(start, end);
 new vm.Script(handler + '; useCurrentDutchTime');
 
 function check(instant, expectedDate, expectedDay, expectedTime, expectedMorning) {
-  const state = {date:'', day:'', after:'', sameDayMorning:false};
-  const elements = {visitDate:{value:''},day:{value:''}};
+  const state = {date:'', day:'', after:'23:30', sameDayMorning:false};
+  const elements = {visitDate:{value:''},day:{value:''},after:{value:'23:30'}};
   const calls = [];
   const FixedDate = class extends Date {
     constructor(...args) { super(...(args.length ? args : [instant])); }
@@ -25,12 +25,20 @@ function check(instant, expectedDate, expectedDay, expectedTime, expectedMorning
     Date: FixedDate, Intl, NGNBDateClosures, state,
     days:['ma','di','wo','do','vr','za','zo'],
     el: id => elements[id],
-    fillArrivalOptions: () => calls.push('fill'),
+    fillArrivalOptions: () => {
+      assert.equal(state.after, expectedTime, instant + ' time set before options rebuild');
+      elements.after.value = ''; // rebuilding a native select drops its old value
+      calls.push('fill');
+    },
     selectArrival: (time, label) => {
-      state.after = time;
+      elements.after.value = time;
       calls.push('select:' + label);
     },
-    change: () => calls.push('change')
+    change: () => {
+      state.day = elements.day.value;
+      state.after = elements.after.value; // real change() reads the DOM select
+      calls.push('change');
+    }
   };
   vm.runInNewContext(handler + '; useCurrentDutchTime()', context);
   assert.equal(state.date, expectedDate, instant + ' nightlife date');
@@ -38,6 +46,7 @@ function check(instant, expectedDate, expectedDay, expectedTime, expectedMorning
   assert.equal(elements.visitDate.value, expectedDate, instant + ' visible date');
   assert.equal(elements.day.value, expectedDay, instant + ' visible weekday');
   assert.equal(state.after, expectedTime, instant + ' exact arrival time');
+  assert.equal(elements.after.value, expectedTime, instant + ' selected time in control');
   assert.equal(state.sameDayMorning, expectedMorning, instant + ' morning mode');
   assert.equal(calls.length, 3, instant + ' refresh callbacks');
 }
@@ -47,9 +56,15 @@ check('2026-11-01T04:59:00Z', '2026-10-31', 'za', '05:59', false);
 check('2026-11-01T05:00:00Z', '2026-11-01', 'zo', '06:00', true);
 check('2026-11-02T00:30:00Z', '2026-11-01', 'zo', '01:30', false);
 check('2026-11-02T06:00:00Z', '2026-11-02', 'ma', '07:00', true);
+check('2026-11-03T12:22:00Z', '2026-11-03', 'di', '13:22', false);
 // Dutch daylight-saving transition: clocks go back on 25 October 2026.
 check('2026-10-25T00:30:00Z', '2026-10-24', 'za', '02:30', false);
 check('2026-10-25T01:30:00Z', '2026-10-24', 'za', '02:30', false);
 check('2026-10-25T05:00:00Z', '2026-10-25', 'zo', '06:00', true);
 
-console.log('Nu handler: 7 instants, 49 synthetic assertions passed.');
+assert.equal((html.match(/el\('nowBtn'\)\.addEventListener\('click',useCurrentDutchTime\);/g)||[]).length, 1,
+  'Nu click listener should be registered exactly once');
+assert.ok(html.indexOf("el('nowBtn').addEventListener('click',useCurrentDutchTime);") <
+  html.indexOf("try{const response=await fetch("),
+  'Nu should work even before database loading has finished');
+console.log('Nu handler: 8 clock instants, DOM selection and early click wiring verified.');
