@@ -38649,7 +38649,7 @@
       "region": "friesland",
       "country": "Nederland",
       "selection": "Nog te controleren",
-      "access": "Eigen campingexploitant Ardoer biedt eetcafé en terras met lunch, borrel en diner; toegang voor bezoekers zonder campingverblijf niet afzonderlijk bevestigd.",
+      "access": "Eigen eetcaféwebsite nodigt iedereen uit om langs te komen; ondernemersinterview uit maart 2025 vermeldt expliciet dat De Meerpaal niet alleen voor campinggasten van It Wiid is. Tijdens winter 2026/27 gesloten.",
       "alcohol": "Eigen https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/ vermeldt expliciet speciaalbier van Friese brouwers.",
       "opening": {
         "ma": "?",
@@ -38669,22 +38669,34 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_quality": "Exploitant verwijst voor actuele tijden naar eigen site; geen bevestigd weekrooster gevonden, seizoensafhankelijkheid nog te controleren.",
-      "closing_quality": "Geen exploitant-sluituur of laatste toegang bevestigd; geen campingreceptie-/snackbaruren overnemen.",
-      "opening_source": "",
-      "closing_source": "",
-      "website": "https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/",
+      "opening_quality": "Eigen site meldt 03-11-2026 expliciet 'we zijn gesloten, vanaf april 2027 weer geopend'. Reguliere weekuren na heropening onbekend; oude geïndexeerde vr/zo 16:00 en za gesloten niet overgenomen.",
+      "closing_quality": "Exploitant bevestigt winterseizoenssluiting, heropening slechts 'vanaf april 2027'; geen exact dag- of sluituur. Keuken tot 19:30 uit oude zoekcache is geen café-sluiting.",
+      "opening_source": "https://www.demeerpaal.frl/openingstijden-eetcafe/",
+      "closing_source": "https://www.demeerpaal.frl/openingstijden-eetcafe/",
+      "website": "https://www.demeerpaal.frl/",
       "website_checked_on": "2026-11-03",
       "access_checked_on": "2026-11-03",
       "alcohol_checked_on": "2026-11-03",
       "checked_on": "2026-11-03",
-      "closing_notes": "03-11-2026: eigen campingexploitant https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/ bevestigt Eetcafé De Meerpaal, borrel, speciaalbier, terras en locatie op camping It Wiid, Koaidyk 10. https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf beschrijft eetcafé en restaurant maar geen vrije toegang van buitenaf. Eigen demeerpaal.frl was via web niet bereikbaar; geen uren of november-openstelling aannemen. Campinggastenstatus, seizoensrooster en laatste toegang eerst verifiëren; snackbar op hetzelfde terrein is geen apart caférecord.",
+      "closing_notes": "03-11-2026: eigen campingexploitant https://www.ardoer.com/nl/wiid/faciliteiten/eetcafe-de-meerpaal/ bevestigt Eetcafé De Meerpaal, borrel, speciaalbier, terras en locatie op camping It Wiid, Koaidyk 10. https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf beschrijft eetcafé en restaurant maar geen vrije toegang van buitenaf. Eigen demeerpaal.frl was via web niet bereikbaar; geen uren of november-openstelling aannemen. Campinggastenstatus, seizoensrooster en laatste toegang eerst verifiëren; snackbar op hetzelfde terrein is geen apart caférecord. | AANVULLENDE PRIMAIRE LIVE-CONTROLE 03-11-2026: https://www.demeerpaal.frl/openingstijden-eetcafe/ rechtstreeks geopend en meldt uitsluitend 'Helaas, we zijn gesloten. Vanaf april 2027 zijn we weer geopend!'. Eerder zoekresultaat met vr/zo 16:00 en za dicht is verouderd, NIET overnemen. Machineleesbare sluiting 03-11-2026 t/m 31-03-2027, geen opening op 01-04 aangenomen. https://www.demeerpaal.frl/eten-drinken/ bevestigt openbaar welkom, en https://www.sod-dantumadeel.nl/wp-content/uploads/2025/07/SOD-2025-1.pdf citeert exploitant dat eetcafé ook voor niet-campinggasten is. De zaak blijft verborgen zolang wintergesloten; bij heropening kan toegang opnieuw bevestigd worden.",
       "other_sources": [
         "https://www.ardoer.com/nl/wiid/faciliteiten/cafetaria-it-wiid",
-        "https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf"
+        "https://earnewald.nl/wp-content/uploads/2026/04/Toeristenfolder-Earnewald-2026-WEB.pdf",
+        "https://www.demeerpaal.frl/eten-drinken/",
+        "https://www.sod-dantumadeel.nl/wp-content/uploads/2025/07/SOD-2025-1.pdf"
       ],
       "features": "Camping It Wiid; toegang voor niet-gasten en winteropenstelling onbekend",
-      "original_status": "Officiële campingexploitant bevestigt bier en borrel; nog niet bewezen of voor iedereen zonder campingtoegang vrij toegankelijk."
+      "original_status": "Officiële campingexploitant bevestigt bier en borrel; nog niet bewezen of voor iedereen zonder campingtoegang vrij toegankelijk.",
+      "website_provenance": "Eigen exploitantsite rechtstreeks geopend 03-11-2026; eetcafé en openingstijdenpagina, zelfde Koaidyk 10.",
+      "date_closures": [
+        {
+          "start": "2026-11-03",
+          "end": "2027-03-31",
+          "source": "https://www.demeerpaal.frl/openingstijden-eetcafe/",
+          "checked_on": "2026-11-03",
+          "certainty": "Eigen actuele openingspagina 03-11: 'Helaas, we zijn gesloten. Vanaf april 2027 zijn we weer geopend!' Begin van sluiting vóór 03-11 onbekend, heropeningsdatum binnen april onbekend."
+        }
+      ]
     }
   ],
   "admission_policies": [
