@@ -35726,7 +35726,7 @@
       "id": "de-blauwe-tent-reduzum-20261102",
       "name": "De Blauwe Tent",
       "type": "Restaurant/borrelgelegenheid",
-      "address": "Overijselsestraatweg 6",
+      "address": "Overijsselsestraatweg 6",
       "city": "Reduzum",
       "region": "friesland",
       "country": "Nederland",
@@ -35774,7 +35774,10 @@
         "matched_address": "Overijsselsestraatweg 6, 9008TS Reduzum"
       },
       "geocode_checked_on": "2026-11-02",
-      "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Overijsselsestraatweg 6, 9008TS Reduzum. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur. Master-bron spelt Overijselsestraatweg; BAG-canonieke spelling Overijsselsestraatweg. Huisnummer 6 en Reduzum komen overeen, geen ongefundeerde coördinaat."
+      "geocode_notes": "02-11-2026: exact PDOK BAG-adresmatch afkomstig uit daadwerkelijk geslaagde GitHub Actions-run 41373271965 en het gedownloade Pages-artefact (722 records, geocode-report: 3 nieuw). Match: Overijsselsestraatweg 6, 9008TS Reduzum. BAG-adrespositie, niet onafhankelijk gecontroleerde cafédeur. Master-bron spelt Overijselsestraatweg; BAG-canonieke spelling Overijsselsestraatweg. Huisnummer 6 en Reduzum komen overeen, geen ongefundeerde coördinaat.",
+      "address_source": "https://reduzum.com/koffiehuis-de-blauwe-tent/",
+      "address_checked_on": "2026-11-03",
+      "address_notes": "Straatnaam gecorrigeerd naar BAG-spelling Overijsselsestraatweg; dorpssite en eigen advertentie in Linepraat maart 2025 bevestigen adres. Visit Leeuwarden gebruikt afwijkende spelling met één s. Bestaande PDOK-marker en uren ongewijzigd."
     },
     {
       "id": "bij-fier-sneek-20261102",
