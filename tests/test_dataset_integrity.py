@@ -87,6 +87,23 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
                     self.assertLess(previous[1], current[0],
                                     "Overlapping dated closures must be reconciled")
 
+    def test_hidden_duplicate_aliases_have_valid_canonical_targets(self):
+        """Keep old venue links valid without exposing duplicate map markers."""
+        by_id = {p["id"]: p for p in self.places}
+        for place in self.places:
+            target_id = place.get("duplicate_of")
+            if not target_id:
+                continue
+            with self.subTest(venue=place["id"]):
+                self.assertNotEqual(place["id"], target_id)
+                self.assertIn(target_id, by_id, "Alias must resolve to an existing venue")
+                target = by_id[target_id]
+                self.assertFalse(target.get("duplicate_of"), "Duplicate chains are not allowed")
+                self.assertEqual(place["region"], target["region"])
+                self.assertEqual(place.get("selection"), "Nee", "Alias must remain hidden")
+                self.assertFalse(place.get("geo"), "Alias must not create a second map marker")
+                self.assertTrue(target.get("geo"), "Canonical venue needs a marker")
+
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
             geo = p.get("geo")
