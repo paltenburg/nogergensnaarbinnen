@@ -11649,7 +11649,7 @@
       },
       "closing_quality": "Heropeningsplan mei/juni 2026 met nieuwe uitbater, maar openbare exploitatie en actuele weektijden op 29-10-2026 niet bevestigd; oudere gids 'tijdelijk gesloten' kan achterlopen.",
       "closing_source": "https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek",
-      "closing_notes": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen.",
+      "closing_notes": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen. Controle 03-11-2026: Cylex vermeldt dagelijks 10:00–00:00 (pagina bijgewerkt 28-09-2026), maar betreft oude Café 't Skûtsje B.V./KvK 01037269 en bevestigt niet het rooster van nieuwe exploitant Wiebo de Visser. RestaurantGuru vermeldt nog 'temporarily closed' met tegenstrijdige oude tijden. Geen van beide roosters overnemen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
@@ -11658,7 +11658,8 @@
         "https://restaurantguru.com/Cafe-t-Skutsje-Sneek",
         "https://www.ondernemendsneek.nl/leden/overzicht/cafe-bar-t-skutsje",
         "https://www.grootsneek.nl/nieuws/nieuws/132764/wiebo-de-visser-nieuwe-uitbater-cafe-billard-t-skutsje-hoopt-op-opening-tijdens-sneekweek",
-        "https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece"
+        "https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-%27t-sk%C3%BBtsje-b-v--10751924.html"
       ],
       "original_status": "Nieuwe uitbater Wiebo de Visser bevestigd in GrootSneek 25 mei 2026 en LC 8 juni 2026; publieke heropening per 29-10-2026 nog niet onafhankelijk bevestigd. Voorlopig niet standaard tonen, status nog te controleren.",
       "geo": {
@@ -11667,7 +11668,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Oosterdijk 72, 8601BV Sneek"
       },
-      "checked_on": "2026-10-29"
+      "checked_on": "2026-11-03"
     },
     {
       "id": "cafe-de-kroon-sneek-ac3c15b",
