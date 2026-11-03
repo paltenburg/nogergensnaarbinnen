@@ -38697,6 +38697,53 @@
           "certainty": "Eigen actuele openingspagina 03-11: 'Helaas, we zijn gesloten. Vanaf april 2027 zijn we weer geopend!' Begin van sluiting vóór 03-11 onbekend, heropeningsdatum binnen april onbekend."
         }
       ]
+    },
+    {
+      "id": "hotel-restaurant-princenhof-earnewald-20261103",
+      "name": "Hotel-Restaurant Princenhof",
+      "type": "Hotelbrasserie / openbare borrel",
+      "address": "Piet Miedemaweg 15",
+      "city": "Earnewâld",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant nodigt bezoekers expliciet uit voor losse borrel en bites op terras en in brasserie, naast hotel- en restaurantfunctie; geen verplichte hotelovernachting of maaltijd vermeld.",
+      "alcohol": "Eigen borrelkaart uit 2026 noemt tapbier (Brand, Affligem, Texels), flesbier, huiswijnen en cocktails. De actuele winterkaart 2026/27 is niet afzonderlijk bevestigd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen restaurantpagina geeft november–maart lunch 12:00–14:00 en diner 17:00–20:00, maar dit zijn maaltijdserviceblokken en geen bewezen bar-/borrelopeningstijden. Alle 7 bar-daguren daarom onbekend.",
+      "closing_quality": "Restaurant vermeldt winterdiner tot 20:00; dat is geen bewezen fysieke sluiting of laatste toegang voor brasserie/bar. Geen café-sluituren overgenomen.",
+      "opening_source": "https://princenhof.nl/restaurant/",
+      "closing_source": "",
+      "website": "https://princenhof.nl/",
+      "website_checked_on": "2026-11-03",
+      "access_checked_on": "2026-11-03",
+      "alcohol_checked_on": "2026-11-03",
+      "checked_on": "2026-11-03",
+      "closing_notes": "03-11-2026: eigen https://princenhof.nl/restaurant/ rechtstreeks gecontroleerd: publieke brasserie/terrasborrel met drank en bites, hotelbar, wintermaaltijdblokken lunch 12–14 en diner 17–20. Dit zijn geen bevestigde losse baruren of sluituren. Eigen https://princenhof.nl/contact/ bevestigt Piet Miedemaweg 15, 9264 TJ Earnewâld. Eigen 2026-zomerborrelkaart https://princenhof.nl/wp-content/uploads/2026/04/Borrel-en-bakkie-2026-zomer.pdf noemt expliciet alcoholisch tapbier, flesbier, wijn en cocktails; voor winter 2026/27 blijft assortiment/borrelweekrooster apart te controleren. Geen exacte BAG-marker aangenomen. Geen dubbel pandrecord in master bij deze toevoeging.",
+      "other_sources": [
+        "https://princenhof.nl/restaurant/",
+        "https://princenhof.nl/contact/",
+        "https://princenhof.nl/wp-content/uploads/2026/04/Borrel-en-bakkie-2026-zomer.pdf",
+        "https://princenhof.nl/wp-content/uploads/2025/11/Borrel-en-bakkie-2025-26-Winter-WEBVERSIE.pdf"
+      ],
+      "original_status": "Eigen exploitant bevestigt actuele publieke brasserie en hotelbar, alcoholkaart uit 2026; reguliere losse baruren, laatste toegang en BAG-marker nog niet bevestigd."
     }
   ],
   "admission_policies": [
