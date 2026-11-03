@@ -511,4 +511,28 @@ assert.equal(timedEligible(byId('cafe-de-rus-leeuwarden-9df98c2')),false,
   'Café De Rus unknown closing cannot prove arrival after 16:30');
 state.after='';state.date='';state.day='vr';
 
+
+// Bascule real unknown closing: the verified 03:00 door cutoff alone is not
+// proof of admission at 02:59. The hypothetical fixed close below is a TEST
+// FIXTURE ONLY; no 04:00 closing is written to the venue database.
+state.region='friesland';state.category='';state.q='';state.uncertain=false;
+state.sameDayMorning=false;state.date='2026-11-06';state.day='vr';
+const basculeActual = byId('bar-bascule-leeuwarden-20261102');
+assert.equal(basculeActual.closing.vr,'?','Bascule real unknown closing');
+assert.equal(basculeActual.last_entry.vr,'03:00');
+state.after='02:59';
+assert.equal(timedEligible(basculeActual),false,
+  'known 03:00 last entry does not prove still open at 02:59');
+state.after='03:00';
+assert.equal(timedEligible(basculeActual),false,
+  'no arrivals at or after the actual last-entry cutoff');
+const basculeHypothetical = {...basculeActual,closing:{...basculeActual.closing,vr:'04:00'}};
+state.after='02:59';
+assert.equal(timedEligible(basculeHypothetical),true,
+  'synthetic verified 04:00 close plus 03:00 entry permits 02:59');
+state.after='03:00';
+assert.equal(timedEligible(basculeHypothetical),false,
+  'synthetic close at 04:00 cannot override last-entry 03:00');
+state.after='';state.date='';state.day='vr';
+
 console.log('Frontend dated-closure integration tests passed');
