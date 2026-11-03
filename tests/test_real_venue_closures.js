@@ -493,3 +493,16 @@ assert.equal(db.places.filter(p => p.region === 'friesland' &&
   p.city === 'Earnewâld' && p.address === 'Piet Miedemaweg 15').length, 1,
   'One Princenhof location, not separate hotel/terrace/bar duplicates');
 console.log('Princenhof 2026 drinks evidence and unknown bar-hour boundaries verified.');
+
+// 03-11-2026: operator house rules specify last entry, explicitly NOT closure.
+const bascule2026 = db.places.find(p => p.id === 'bar-bascule-leeuwarden-20261102');
+assert.ok(bascule2026, 'Bascule stable venue ID');
+assert.equal(bascule2026.last_entry_source, 'https://www.barbascule.nl/deurbeleid');
+assert.equal(bascule2026.last_entry_checked_on, '2026-11-03');
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(bascule2026.last_entry[day], '03:00', 'Operator 03:00 admission cutoff '+day);
+  assert.equal(bascule2026.closing[day], '?', 'No invented 03:00 or 05:00 closure '+day);
+}
+assert.ok(bascule2026.access.includes('18+'), '18+ door policy must be disclosed');
+assert.equal(field(bascule2026, 'last_entry', 'vr', '2026-11-06'), '03:00');
+console.log('Bascule last-entry cutoff is not a fixed closing time.');
