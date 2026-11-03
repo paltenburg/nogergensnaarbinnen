@@ -10511,7 +10511,7 @@
       },
       "closing_quality": "Geen regulier openbaar weekrooster: locatiebeheerder beschrijft zaalhuur en catering voor huurders.",
       "closing_source": "",
-      "closing_notes": "Sociale profielen https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden en https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden hebben berichten maart 2026 en adres Zaailand 106; positionering borrel-/evenementencafé. Geclaimde eigen site https://www.clubzleeuwarden.nl/ niet rechtstreeks leesbaar (403) op 30-10-2026; niet als bevestigde eigen website ingevuld. Geen vast weekrooster/laatste toegang vastgesteld. 02-11-2026: actuele locatiebeheerder https://zleeuwarden.nl/project/club-z/ bevestigt expliciet 'voor de huurders van de zalen' en 'verder ... exclusief te huur'. Dus niet als vrij toegankelijk regulier café tonen; event- of huurtijden niet naar reguliere sluituren kopiëren.",
+      "closing_notes": "Sociale profielen https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden en https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden hebben berichten maart 2026 en adres Zaailand 106; positionering borrel-/evenementencafé. Geclaimde eigen site https://www.clubzleeuwarden.nl/ niet rechtstreeks leesbaar (403) op 30-10-2026; niet als bevestigde eigen website ingevuld. Geen vast weekrooster/laatste toegang vastgesteld. 02-11-2026: actuele locatiebeheerder https://zleeuwarden.nl/project/club-z/ bevestigt expliciet 'voor de huurders van de zalen' en 'verder ... exclusief te huur'. Dus niet als vrij toegankelijk regulier café tonen; event- of huurtijden niet naar reguliere sluituren kopiëren. | 03-11-2026: aanvullende officiële pagina https://zleeuwarden.nl/particuler/ beschrijft Club Zero expliciet als locatie voor vooraf georganiseerde particuliere feesten, borrels en zaalverhuur; geen regulier openbaar caférooster of vrije inloop aangetoond. Een derdepartijvermelding met gebouwopeningstijden is daarom niet overgenomen.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://zleeuwarden.nl/project/club-z/",
       "other_sources": [
@@ -10519,7 +10519,8 @@
         "https://www.findglocal.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
         "https://www.evepla.com/NL/Leeuwarden/124558170731162/Club-Z-Leeuwarden",
         "https://www.clubzleeuwarden.nl/",
-        "https://zleeuwarden.nl/project/club-z/"
+        "https://zleeuwarden.nl/project/club-z/",
+        "https://zleeuwarden.nl/particuler/"
       ],
       "original_status": "Actuele beheerder bevestigt zaalhuur en catering voor zaalhuurders, geen reguliere vrije publieke inloop. Bewust verborgen tot publiek event met datum/toegang/uren of expliciete vrije inloop is bevestigd.",
       "geo": {
@@ -10528,8 +10529,8 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Zaailand 106, 8911BN Leeuwarden"
       },
-      "checked_on": "2026-11-02",
-      "website_checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
+      "website_checked_on": "2026-11-03",
       "website_provenance": "Actuele informatiepagina van Z Leeuwarden / locatiebeheerder; geen bewijs van vrije publieke caféopening."
     },
     {
