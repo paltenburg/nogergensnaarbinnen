@@ -66,6 +66,10 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
             with self.subTest(venue=p["id"]):
                 self.assertIsNotNone(actual, "PDOK address contains unverified addition/range")
                 self.assertEqual(expected[1:], actual[1:], "PDOK house number/suffix differs")
+                self.assertEqual(
+                    geocode.norm(expected[0]), geocode.norm(actual[0]),
+                    "PDOK street name differs from the venue address",
+                )
 
     def test_dated_closures_have_valid_sourced_nonoverlapping_ranges(self):
         for p in self.places:
