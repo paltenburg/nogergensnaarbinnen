@@ -1,8 +1,8 @@
 {
-  "total": 748,
-  "with_coordinates": 686,
-  "without_coordinates": 62,
-  "added_in_this_run": 2,
+  "total": 768,
+  "with_coordinates": 702,
+  "without_coordinates": 66,
+  "added_in_this_run": 0,
   "unmatched": [
     {
       "name": "Bar Bet",
@@ -138,7 +138,7 @@
     },
     {
       "name": "It Reade Hynder",
-      "address": "'t Noard 6",
+      "address": "’t Noard 6",
       "city": "Wommels",
       "reason": "no-exact-PDOK-match"
     },
@@ -362,6 +362,30 @@
       "name": "Bar/Café Cambuur",
       "address": "Insulindestraat 44",
       "city": "Leeuwarden",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Eetcafé Baba Bolsward",
+      "address": "Bargefenne 16",
+      "city": "Bolsward",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "De Grillerije",
+      "address": "Groenmarkt 14",
+      "city": "Franeker",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Cheung Kwong",
+      "address": "Zilverstraat 3-5",
+      "city": "Franeker",
+      "reason": "address-unverified"
+    },
+    {
+      "name": "Eetcafé De Meerpaal",
+      "address": "Koaidyk 10",
+      "city": "Earnewâld",
       "reason": "address-unverified"
     }
   ]

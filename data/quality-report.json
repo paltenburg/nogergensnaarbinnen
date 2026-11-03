@@ -1,20 +1,20 @@
 {
-  "snapshot_date": "2026-11-02",
+  "snapshot_date": "2026-11-03",
   "source": "data/venues.json",
   "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. The undated schedule count identifies venues intentionally hidden until a specific verified date is available. Base closing counts exclude dated schedules for backward compatibility; dated and combined counts include sourced schedule intervals but do not prove that a venue is open on the snapshot date. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
-  "total": 748,
-  "distinct_recorded_venues": 746,
+  "total": 768,
+  "distinct_recorded_venues": 766,
   "duplicate_alias_count": 2,
-  "date_closure_venue_count": 15,
-  "date_schedule_venue_count": 16,
-  "requires_date_schedule_count": 27,
+  "date_closure_venue_count": 17,
+  "date_schedule_venue_count": 18,
+  "requires_date_schedule_count": 28,
   "undated_schedule_required_count": 15,
   "regions": [
     {
       "id": "friesland",
       "name": "Friesland",
-      "total": 524,
-      "distinct_recorded_venues": 522,
+      "total": 544,
+      "distinct_recorded_venues": 542,
       "duplicate_alias_count": 2,
       "duplicate_aliases": [
         {
@@ -26,11 +26,11 @@
           "duplicate_of": "strandpaviljoen-kaap-hoorn-hoorn-20261030"
         }
       ],
-      "date_closure_venue_count": 14,
-      "date_schedule_venue_count": 16,
-      "requires_date_schedule_count": 27,
+      "date_closure_venue_count": 16,
+      "date_schedule_venue_count": 18,
+      "requires_date_schedule_count": 28,
       "undated_schedule_required_count": 15,
-      "settlement_count": 144,
+      "settlement_count": 147,
       "settlement_coverage": [
         {
           "city": "Akkrum",
@@ -268,15 +268,15 @@
         },
         {
           "city": "Bolsward",
-          "total": 13,
+          "total": 15,
           "without_website_url": 8,
           "without_recorded_website_check_date": 6,
-          "without_coordinates": 0,
+          "without_coordinates": 1,
           "needs_selection_review": 7,
           "without_any_exact_closing": 12,
-          "with_dated_exact_closing": 0,
+          "with_dated_exact_closing": 1,
           "without_any_exact_closing_including_dated": 12,
-          "without_explicit_last_entry": 13,
+          "without_explicit_last_entry": 15,
           "undated_schedule_required_count": 0
         },
         {
@@ -450,15 +450,15 @@
         },
         {
           "city": "Drachten",
-          "total": 19,
+          "total": 21,
           "without_website_url": 2,
           "without_recorded_website_check_date": 2,
           "without_coordinates": 4,
-          "needs_selection_review": 2,
-          "without_any_exact_closing": 10,
+          "needs_selection_review": 3,
+          "without_any_exact_closing": 11,
           "with_dated_exact_closing": 0,
-          "without_any_exact_closing_including_dated": 10,
-          "without_explicit_last_entry": 18,
+          "without_any_exact_closing_including_dated": 11,
+          "without_explicit_last_entry": 20,
           "undated_schedule_required_count": 0
         },
         {
@@ -498,6 +498,19 @@
           "with_dated_exact_closing": 0,
           "without_any_exact_closing_including_dated": 1,
           "without_explicit_last_entry": 2,
+          "undated_schedule_required_count": 0
+        },
+        {
+          "city": "Earnewâld",
+          "total": 4,
+          "without_website_url": 0,
+          "without_recorded_website_check_date": 0,
+          "without_coordinates": 1,
+          "needs_selection_review": 2,
+          "without_any_exact_closing": 3,
+          "with_dated_exact_closing": 0,
+          "without_any_exact_closing_including_dated": 3,
+          "without_explicit_last_entry": 4,
           "undated_schedule_required_count": 0
         },
         {
@@ -632,15 +645,15 @@
         },
         {
           "city": "Franeker",
-          "total": 7,
+          "total": 12,
           "without_website_url": 3,
           "without_recorded_website_check_date": 4,
-          "without_coordinates": 0,
-          "needs_selection_review": 0,
-          "without_any_exact_closing": 4,
-          "with_dated_exact_closing": 0,
-          "without_any_exact_closing_including_dated": 4,
-          "without_explicit_last_entry": 7,
+          "without_coordinates": 2,
+          "needs_selection_review": 4,
+          "without_any_exact_closing": 7,
+          "with_dated_exact_closing": 1,
+          "without_any_exact_closing_including_dated": 7,
+          "without_explicit_last_entry": 12,
           "undated_schedule_required_count": 0
         },
         {
@@ -1013,7 +1026,7 @@
           "without_website_url": 5,
           "without_recorded_website_check_date": 1,
           "without_coordinates": 1,
-          "needs_selection_review": 1,
+          "needs_selection_review": 2,
           "without_any_exact_closing": 5,
           "with_dated_exact_closing": 0,
           "without_any_exact_closing_including_dated": 5,
@@ -1022,15 +1035,15 @@
         },
         {
           "city": "Leeuwarden",
-          "total": 67,
+          "total": 70,
           "without_website_url": 12,
           "without_recorded_website_check_date": 11,
           "without_coordinates": 6,
-          "needs_selection_review": 13,
-          "without_any_exact_closing": 29,
+          "needs_selection_review": 14,
+          "without_any_exact_closing": 31,
           "with_dated_exact_closing": 1,
-          "without_any_exact_closing_including_dated": 29,
-          "without_explicit_last_entry": 67,
+          "without_any_exact_closing_including_dated": 31,
+          "without_explicit_last_entry": 69,
           "undated_schedule_required_count": 2
         },
         {
@@ -1048,6 +1061,19 @@
         },
         {
           "city": "Ljussens",
+          "total": 1,
+          "without_website_url": 0,
+          "without_recorded_website_check_date": 0,
+          "without_coordinates": 0,
+          "needs_selection_review": 0,
+          "without_any_exact_closing": 1,
+          "with_dated_exact_closing": 0,
+          "without_any_exact_closing_including_dated": 1,
+          "without_explicit_last_entry": 1,
+          "undated_schedule_required_count": 0
+        },
+        {
+          "city": "Luinjeberd",
           "total": 1,
           "without_website_url": 0,
           "without_recorded_website_check_date": 0,
@@ -1320,6 +1346,19 @@
           "undated_schedule_required_count": 0
         },
         {
+          "city": "Olterterp",
+          "total": 1,
+          "without_website_url": 0,
+          "without_recorded_website_check_date": 0,
+          "without_coordinates": 0,
+          "needs_selection_review": 0,
+          "without_any_exact_closing": 0,
+          "with_dated_exact_closing": 0,
+          "without_any_exact_closing_including_dated": 0,
+          "without_explicit_last_entry": 1,
+          "undated_schedule_required_count": 0
+        },
+        {
           "city": "Oosterend",
           "total": 2,
           "without_website_url": 0,
@@ -1555,15 +1594,15 @@
         },
         {
           "city": "Sneek",
-          "total": 27,
+          "total": 29,
           "without_website_url": 9,
           "without_recorded_website_check_date": 6,
           "without_coordinates": 3,
-          "needs_selection_review": 5,
-          "without_any_exact_closing": 19,
+          "needs_selection_review": 7,
+          "without_any_exact_closing": 20,
           "with_dated_exact_closing": 0,
-          "without_any_exact_closing_including_dated": 19,
-          "without_explicit_last_entry": 26,
+          "without_any_exact_closing_including_dated": 20,
+          "without_explicit_last_entry": 28,
           "undated_schedule_required_count": 0
         },
         {
@@ -1634,7 +1673,7 @@
         {
           "city": "Suwâld",
           "total": 1,
-          "without_website_url": 1,
+          "without_website_url": 0,
           "without_recorded_website_check_date": 0,
           "without_coordinates": 0,
           "needs_selection_review": 1,
@@ -1907,26 +1946,26 @@
       ],
       "selection_counts": {
         "Nee": 12,
-        "Nog te controleren": 99,
-        "Voorlopig": 413
+        "Nog te controleren": 110,
+        "Voorlopig": 422
       },
-      "with_website_url": 406,
-      "without_website_url": 118,
-      "with_recorded_review_date": 524,
+      "with_website_url": 427,
+      "without_website_url": 117,
+      "with_recorded_review_date": 544,
       "without_recorded_review_date": 0,
-      "with_opening_source_url": 330,
-      "with_closing_source_url": 385,
-      "with_coordinates": 474,
-      "without_coordinates": 50,
-      "with_geocode_blocked": 21,
-      "with_any_exact_opening": 310,
-      "with_any_exact_closing": 215,
-      "without_any_exact_closing": 309,
-      "with_dated_exact_closing": 11,
-      "with_any_exact_closing_including_dated": 224,
-      "without_any_exact_closing_including_dated": 300,
-      "with_any_explicit_last_entry": 3,
-      "without_explicit_last_entry": 521,
+      "with_opening_source_url": 348,
+      "with_closing_source_url": 396,
+      "with_coordinates": 490,
+      "without_coordinates": 54,
+      "with_geocode_blocked": 25,
+      "with_any_exact_opening": 322,
+      "with_any_exact_closing": 224,
+      "without_any_exact_closing": 320,
+      "with_dated_exact_closing": 13,
+      "with_any_exact_closing_including_dated": 233,
+      "without_any_exact_closing_including_dated": 311,
+      "with_any_explicit_last_entry": 4,
+      "without_explicit_last_entry": 540,
       "shared_address_candidates": [
         {
           "city": "Grou",
