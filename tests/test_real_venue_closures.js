@@ -474,6 +474,11 @@ for (const date of ['2026-11-03','2026-12-31','2027-03-31']) {
 for (const date of ['2026-11-02','2027-04-01']) {
   assert.equal(isClosed(meerpaal,date),false,'Do not invent a date beyond evidence '+date);
 }
+assert.equal(meerpaal.geocode_blocked, true,
+  'Meerpaal BAG multi-unit ambiguity: do not guess a camping-unit coordinate');
+assert.ok(!meerpaal.geo, 'No arbitrary 10, 10-D or 10-G marker for Meerpaal');
+assert.ok(meerpaal.geocode_notes.includes('10-D') && meerpaal.geocode_notes.includes('10-G'),
+  'Conflicting BAG units and exact verification task are documented');
 console.log('Meerpaal non-camper admission and winter closure from live owner site verified.');
 
 // 03-11-2026: Princenhof's public hotel bar is not its restaurant's kitchen timetable.
