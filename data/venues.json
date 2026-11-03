@@ -38729,7 +38729,9 @@
         "https://www.wiid.nl/faciliteiten/horeca/",
         "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261815",
         "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261816",
-        "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818"
+        "https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818",
+        "https://www.wiid.nl/wp-content/uploads/2021/02/Camping-It-Wiid-Plattegrond.pdf",
+        "https://www.wiid.nl/en/information/frequently-asked-questions/"
       ],
       "features": "Camping It Wiid; toegang voor niet-gasten en winteropenstelling onbekend",
       "original_status": "Officiële campingexploitant bevestigt bier en borrel; nog niet bewezen of voor iedereen zonder campingtoegang vrij toegankelijk.",
@@ -38744,7 +38746,7 @@
         }
       ],
       "geocode_blocked": true,
-      "geocode_notes": "03-11-2026: de exploitant https://www.wiid.nl/faciliteiten/horeca/ geeft Koaidyk 10, 9264TP als algemene CAMPINGadres en bevestigt café met bier. BAG-afgeleide https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261815 toont afzonderlijk Koaidyk 10 (woon-/bijeenkomstfunctie), https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261816 toont 10-D (bijeenkomst-/winkelfunctie) en https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818 toont 10-G (bijeenkomstfunctie). Zonder bewijs welke verblijfsobjectunit precies het EETCAFÉ is, geen van deze adressen als exacte marker kiezen; PDOK-run 41555363793 gaf voor kale 10 geen exacte match. Eerst exploitant of gedetailleerde campingplattegrond/ingangsunit verifiëren. Snackbar en supermarkt zijn aparte concepten, geen vervangende marker."
+      "geocode_notes": "03-11-2026: de exploitant https://www.wiid.nl/faciliteiten/horeca/ geeft Koaidyk 10, 9264TP als algemene CAMPINGadres en bevestigt café met bier. BAG-afgeleide https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261815 toont afzonderlijk Koaidyk 10 (woon-/bijeenkomstfunctie), https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261816 toont 10-D (bijeenkomst-/winkelfunctie) en https://kadastralekaart.com/adres/earnewald-koaidyk-10/0737200000261818 toont 10-G (bijeenkomstfunctie). Zonder bewijs welke verblijfsobjectunit precies het EETCAFÉ is, geen van deze adressen als exacte marker kiezen; PDOK-run 41555363793 gaf voor kale 10 geen exacte match. Eerst exploitant of gedetailleerde campingplattegrond/ingangsunit verifiëren. Snackbar en supermarkt zijn aparte concepten, geen vervangende marker. 03-11-2026: originele campingplattegrond https://www.wiid.nl/wp-content/uploads/2021/02/Camping-It-Wiid-Plattegrond.pdf (schematisch, 2021) bevat expliciet legenda 'Eetcafé en snackbar de Meerpaal' en een afzonderlijk faciliteitssymbool. Dit bevestigt dat de horecagebouwen op de camping te lokaliseren zijn, maar koppelt dat symbool NIET aan BAG 10/10-D/10-G; geocode_blocked blijft true. Camping-FAQ https://www.wiid.nl/en/information/frequently-asked-questions/ bevestigt bezoekers zijn welkom, maar geeft geen specifiek toegangspad naar het café. Volgende: symbool op plattegrond vergelijken met gegeorefereerde BAG-pandgeometrie en expliciet exploitantbevestiging vragen; zonder match geen marker."
     },
     {
       "id": "hotel-restaurant-princenhof-earnewald-20261103",
