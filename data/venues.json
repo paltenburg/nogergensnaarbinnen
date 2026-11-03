@@ -38483,7 +38483,14 @@
         "https://untappd.com/b/koningshert-kreas-e-tripel/7635263",
         "https://nl.linkedin.com/in/richard-van-daele-0789131ab"
       ],
-      "original_status": "Nieuwe locatie met officiële verhuisaankondiging, recente leveranciersmelding en bezoekercheck-ins; daadwerkelijke reguliere vrije borrel, openingsdagen en sluituren nog onvoldoende primair bevestigd."
+      "original_status": "Nieuwe locatie met officiële verhuisaankondiging, recente leveranciersmelding en bezoekercheck-ins; daadwerkelijke reguliere vrije borrel, openingsdagen en sluituren nog onvoldoende primair bevestigd.",
+      "geo": {
+        "lat": 53.1070724,
+        "lon": 6.0985145,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Noordkade 3, 9203CC Drachten"
+      },
+      "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
     },
     {
       "id": "toon-luisterbar-leeuwarden-20261102",
@@ -38532,7 +38539,14 @@
         "https://zoek.officielebekendmakingen.nl/gmb-2026-140356.html",
         "https://www.friesland.nl/nl/locaties/2994061346/toon-luisterbar"
       ],
-      "original_status": "Actieve publieke koffie-/vinylzaak; incidentele alcoholverstrekking tijdens 2026-evenementen bevestigd, reguliere vrije borrel/uren onbekend."
+      "original_status": "Actieve publieke koffie-/vinylzaak; incidentele alcoholverstrekking tijdens 2026-evenementen bevestigd, reguliere vrije borrel/uren onbekend.",
+      "geo": {
+        "lat": 53.2020163,
+        "lon": 5.7915014,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Kleine Kerkstraat 11, 8911DK Leeuwarden"
+      },
+      "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
     },
     {
       "id": "brasserie-westersail-earnewald-20261103",
@@ -38589,7 +38603,14 @@
         "https://www.allebiz.nl/brasserie-westersail-06-29291968",
         "https://fietsroutenetwerk.nl/etenendrinken/brasserie-westersail"
       ],
-      "original_status": "Bestaande seizoensbrasserie met eigen officiële sluitingsbericht. Niet tonen als actuele vrije inloop tijdens winter 2026/2027. Heropening april 2027 eerst opnieuw bevestigen."
+      "original_status": "Bestaande seizoensbrasserie met eigen officiële sluitingsbericht. Niet tonen als actuele vrije inloop tijdens winter 2026/2027. Heropening april 2027 eerst opnieuw bevestigen.",
+      "geo": {
+        "lat": 53.1295077,
+        "lon": 5.9391346,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Wiidswei 1A, 9264TL Earnewâld"
+      },
+      "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
     },
     {
       "id": "grand-cafe-yn-e-haven-earnewald-20261103",
@@ -38638,7 +38659,14 @@
         "https://earnewald.nl/wp-content/uploads/2025/04/Toeristenfolder-Earnewald-2025-WEB.pdf"
       ],
       "features": "Publieke borrel aan haven; winter/feestdagen en laatste toegang niet afzonderlijk bevestigd",
-      "original_status": "Exploitantwebsite 03-11-2026 rechtstreeks gecontroleerd, reguliere borrel en weekendrooster; geen exacte BAG-geocode."
+      "original_status": "Exploitantwebsite 03-11-2026 rechtstreeks gecontroleerd, reguliere borrel en weekendrooster; geen exacte BAG-geocode.",
+      "geo": {
+        "lat": 53.1312671,
+        "lon": 5.9414878,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Krúspaed 6, 9264TE Earnewâld"
+      },
+      "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
     },
     {
       "id": "eetcafe-de-meerpaal-earnewald-20261103",
@@ -38743,7 +38771,14 @@
         "https://princenhof.nl/wp-content/uploads/2026/04/Borrel-en-bakkie-2026-zomer.pdf",
         "https://princenhof.nl/wp-content/uploads/2025/11/Borrel-en-bakkie-2025-26-Winter-WEBVERSIE.pdf"
       ],
-      "original_status": "Eigen exploitant bevestigt actuele publieke brasserie en hotelbar, alcoholkaart uit 2026; reguliere losse baruren, laatste toegang en BAG-marker nog niet bevestigd."
+      "original_status": "Eigen exploitant bevestigt actuele publieke brasserie en hotelbar, alcoholkaart uit 2026; reguliere losse baruren, laatste toegang en BAG-marker nog niet bevestigd.",
+      "geo": {
+        "lat": 53.1280752,
+        "lon": 5.9340668,
+        "method": "PDOK BAG-adres",
+        "matched_address": "Piet Miedemaweg 15, 9264TJ Earnewâld"
+      },
+      "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
     }
   ],
   "admission_policies": [
