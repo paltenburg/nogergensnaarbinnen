@@ -429,3 +429,36 @@ assert.equal(db.places.filter(p => p.region === 'friesland' &&
 assert.ok(pietje.other_sources.includes('https://dartsgids.nl/locaties/cafe-pietje-bell/'),
   '2026 darts-directory record is a source, not opening confirmation');
 console.log('Westersail seasonal closure boundaries and Pietje Bell source uncertainty verified.');
+
+
+// 03-11-2026: actual operator website, not a stale tourist guide,
+// determines Yn'e Haven's public drinks hours and the current address.
+const ynHaven = db.places.find(p => p.id === 'grand-cafe-yn-e-haven-earnewald-20261103');
+const meerpaal = db.places.find(p => p.id === 'eetcafe-de-meerpaal-earnewald-20261103');
+assert.ok(ynHaven && meerpaal);
+assert.equal(ynHaven.selection, 'Voorlopig');
+assert.equal(ynHaven.address, 'Kruspaed 6', 'Operator address, not older guide Kruspaed 4');
+assert.equal(ynHaven.closing_source, 'https://ynehaven.nl/reserveren/');
+assert.ok(ynHaven.alcohol.includes('cocktails'));
+for (const day of ['ma','di','wo','do']) {
+  assert.equal(ynHaven.opening[day], '—', 'Operator currently closed '+day);
+  assert.equal(ynHaven.closing[day], '—', 'Operator currently closed '+day);
+}
+for (const day of ['vr','za','zo']) {
+  assert.equal(ynHaven.opening[day], '12:00', 'Weekend opening '+day);
+  assert.equal(ynHaven.closing[day], '21:00', 'Weekend closing '+day);
+}
+assert.equal(meerpaal.selection, 'Nog te controleren',
+  'Camping restaurant may not have unrestricted public admission');
+assert.equal(meerpaal.address, 'Koaidyk 10');
+assert.ok(meerpaal.alcohol.includes('speciaalbier'));
+for (const day of ['ma','di','wo','do','vr','za','zo']) {
+  assert.equal(meerpaal.opening[day], '?', 'Camping restaurant hours unknown '+day);
+  assert.equal(meerpaal.closing[day], '?', 'Do not copy campground or snack bar hours '+day);
+}
+for (const p of [ynHaven,meerpaal,westersail]) {
+  assert.equal(db.places.filter(x => x.region === 'friesland' &&
+    x.city === p.city && x.address === p.address).length, 1,
+    'Distinct Earnewald venues have no duplicate addresses: '+p.id);
+}
+console.log('Earnewald Yn e Haven operator weekend hours and Meerpaal admission uncertainty verified.');
