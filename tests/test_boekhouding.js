@@ -7,8 +7,8 @@ for(const [value, expected] of [
 ])assert.equal(parseMoney(value),expected,"Failed amount: "+value);
 assert.ok(Number.isNaN(parseMoney("abc")));
 assert.ok(Number.isNaN(parseMoney("")));
-assert.equal(sheetIdFrom("https://docs.google.com/spreadsheets/d/1Qu8E69DFp4hvvqtMyGFE_djJ5gqYHb0ufMWOgRYIPu4/edit"),"1Qu8E69DFp4hvvqtMyGFE_djJ5gqYHb0ufMWOgRYIPu4");
-assert.equal(sheetIdFrom("https://evil.example/spreadsheets/d/1Qu8E69DFp4hvvqtMyGFE_djJ5gqYHb0ufMWOgRYIPu4/edit"),"");
+assert.equal(sheetIdFrom("https://docs.google.com/spreadsheets/d/EXAMPLE_SPREADSHEET_ID_1234567890/edit"),"EXAMPLE_SPREADSHEET_ID_1234567890");
+assert.equal(sheetIdFrom("https://evil.example/spreadsheets/d/EXAMPLE_SPREADSHEET_ID_1234567890/edit"),"");
 const row=rowFromValues(["2026-05-02","Aldi","Janne","Popke","€51.00"],8);
 assert.equal(row.rowNumber,8);
 assert.equal(row.amount,51);
