@@ -99,6 +99,40 @@ class ExactBagAddressTests(unittest.TestCase):
         self.assertIsNone(location)
         self.assertEqual(reason, "no-exact-PDOK-match")
 
+    def test_near_matching_street_is_rejected(self):
+        location, reason = self.locate("Kleinzand 1", [
+            candidate(1, street="Kleinzandt"),
+        ])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
+    def test_normalized_street_case_and_punctuation_are_accepted(self):
+        location, reason = self.locate("Kleinzand 1", [
+            candidate(1, street="KLEINZAND"),
+        ])
+        self.assertEqual(reason, "ok")
+        self.assertIsNotNone(location)
+
+    def test_wrong_city_is_rejected(self):
+        wrong = dict(candidate(1), woonplaatsnaam="Leeuwarden")
+        location, reason = self.locate("Kleinzand 1", [wrong])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
+    def test_wrong_type_is_rejected(self):
+        location, reason = self.locate("Kleinzand 1", [
+            dict(candidate(1), type="weg"),
+        ])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
+    def test_out_of_bounds_coordinates_are_rejected(self):
+        location, reason = self.locate("Kleinzand 1", [
+            dict(candidate(1), centroide_ll="POINT(10 60)"),
+        ])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "no-exact-PDOK-match")
+
     def test_disambiguated_hoorn_requires_correct_municipality(self):
         # Hoorn in Terschelling and Hoorn in Noord-Holland must never mix.
         address = "Dorpsstraat 81"
