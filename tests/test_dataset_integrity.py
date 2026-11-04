@@ -127,6 +127,18 @@ class MasterDatasetIntegrityTests(unittest.TestCase):
                 self.assertTrue(p.get("last_entry_checked_on"), "Missing last-entry check date")
                 date.fromisoformat(p["last_entry_checked_on"])
 
+    def test_source_check_dates_are_real_and_not_in_the_future(self):
+        """A future or malformed verification date must not look like completed research."""
+        for p in self.places:
+            for field, value in p.items():
+                if not field.endswith("checked_on") or not value:
+                    continue
+                with self.subTest(venue=p["id"], field=field):
+                    self.assertIsInstance(value, str)
+                    self.assertRegex(value, r"^\d{4}-\d{2}-\d{2}$")
+                    checked = date.fromisoformat(value)
+                    self.assertLessEqual(checked, date.today(), "Future source-check date")
+
     def test_geocodes_are_coordinates_not_assumptions_about_ranges(self):
         for p in self.places:
             geo = p.get("geo")
