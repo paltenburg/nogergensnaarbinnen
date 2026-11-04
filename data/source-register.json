@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-03",
+  "generated_on": "2026-11-04",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 768,
-    "source_urls": 2527,
+    "source_urls": 2529,
     "domains": 894,
     "direct_website_fields": 584
   },
@@ -159,14 +159,14 @@
       "linked_venues": 52
     },
     {
-      "domain": "compadex.com",
-      "source_pages": 45,
+      "domain": "cylex.nl",
+      "source_pages": 46,
       "linked_venues": 46
     },
     {
-      "domain": "cylex.nl",
+      "domain": "compadex.com",
       "source_pages": 45,
-      "linked_venues": 45
+      "linked_venues": 46
     },
     {
       "domain": "visitleeuwarden.com",
@@ -1429,6 +1429,11 @@
       "linked_venues": 3
     },
     {
+      "domain": "tulimaps.com",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
       "domain": "veerhuys-bolsward.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -2477,11 +2482,6 @@
       "domain": "tstadhuys.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "tulimaps.com",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "twapenvanterschelling.nl",
@@ -14568,15 +14568,15 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26",
-            "openingstijden": "2026-10-26"
+            "website": "2026-11-03",
+            "openingstijden": "2026-11-03"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-26",
+      "last_data_field_checked_on": "2026-11-03",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://cafelombok.nl/",
@@ -19554,6 +19554,30 @@
         }
       ],
       "last_data_field_checked_on": "2026-11-01",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.cylex.nl/bedrijf/caf%C3%A9-%27t-sk%C3%BBtsje-b-v--10751924.html",
+      "domain": "cylex.nl",
+      "first_registered_on": "2026-11-04",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-t-skutsje-sneek-550e03d",
+          "name": "Café 't Skûtsje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -60398,6 +60422,30 @@
       "needs_review": true
     },
     {
+      "url": "https://tulimaps.com/koffiebar/leeuwarden/cafe-bar-t-hoekje/",
+      "domain": "tulimaps.com",
+      "first_registered_on": "2026-11-04",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
+          "name": "Café-Bar 't Hoekje",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://tulimaps.com/koffiebar/leeuwarden/dorpshuis-eetcafe-baard/",
       "domain": "tulimaps.com",
       "first_registered_on": "2026-10-31",
@@ -60824,7 +60872,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "cafe-marktzicht-b5942d0",
@@ -64051,7 +64099,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "cafe-marktzicht-b5942d0",
@@ -75682,7 +75730,7 @@
       {
         "id": "cafe-t-skutsje-sneek-550e03d",
         "name": "Café 't Skûtsje",
-        "reason": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen."
+        "reason": "15 mei 2026 uitsluitend besloten heropeningsbijeenkomst voor genodigden en oud-stamgasten; Wiebo de Visser kondigde eind mei/juni een beoogde publieke opening rond Sneekweek aan, zonder vastgestelde openingsdatum. Geen bewijs gevonden dat dagelijkse publieke exploitatie in oktober 2026 daadwerkelijk gestart is. Oudere gidsvermelding 'tijdelijk gesloten' evenmin als actueel sluitingsbewijs behandelen. Geen weekrooster aannemen. Controle 03-11-2026: Cylex vermeldt dagelijks 10:00–00:00 (pagina bijgewerkt 28-09-2026), maar betreft oude Café 't Skûtsje B.V./KvK 01037269 en bevestigt niet het rooster van nieuwe exploitant Wiebo de Visser. RestaurantGuru vermeldt nog 'temporarily closed' met tegenstrijdige oude tijden. Geen van beide roosters overnemen."
       },
       {
         "id": "cafe-t-skutsje-harlingen-ea324fd",
@@ -76115,6 +76163,11 @@
         "reason": "30-10-2026: VVV bevestigt café/adres/alcohol en noemt rooster, maar https://www.allebiz.nl/caf%C3%A9-lieman-0562-449-568 geeft andere ma/do en vr–zo tijden. Geen verifieerbare officiële site, geen vaste sluiting of laatste toegang overgenomen."
       },
       {
+        "id": "cafe-lijn-4-2439c07",
+        "name": "Café Lijn 4",
+        "reason": "Eigen website op 03-11-2026 opnieuw gecontroleerd: ma-wo en zo tot 00:00, do tot 01:00, vr-za tot 02:00; laatste toegang niet vermeld."
+      },
+      {
         "id": "cafe-moarkswal-aldtsjerk-20261031",
         "name": "Café Moarkswâl",
         "reason": "31-10-2026: eigen https://www.cafemoarkswal.nl/ verwelkomt publieke cafégasten en noemt op een dynamische dagtekst donderdag 'vanaf 18:00'; dit bewijst niet automatisch een vaste weekregeling. Eigen https://www.cafemoarkswal.nl/contact/ bevestigt Van Sminiaweg 107, 9064 KG Oudkerk/Aldtsjerk. https://www.fietssport.nl/spots/325/cafe-bar-moarkswal (NTFU) noemt bier en publiek café. https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-bar-moarkswal-aldtsjerk-01049513-000010224297 toont KvK/SBI 56300 met bronupdate 24-03-2026. https://www.rtvnof.nl/balken-vol-schaatsverhalen-blijft-traditie-bij-cafe-moarkswal-bestaan/ (05-09-2026) meldt café te koop, toekomst exploitatie onzeker; geen bewijs van sluiting. Externe https://www.allebiz.nl/caf%C3%A9-moarksw%C3%A2l-058-256-3300 geeft di–zo sluiting 03:00, maar niet bedrijfseigen geverifieerd. Alle gestructureerde weekuren en laatste toegang onbekend; geen kaartcoördinaten aangenomen."
@@ -76247,7 +76300,7 @@
       {
         "id": "cafe-bar-t-hoekje-leeuwarden-5e26e34",
         "name": "Café-Bar 't Hoekje",
-        "reason": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden. | 01-11-2026: opnieuw alleen gidsen https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html (11–22) en https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435 (11–23) gevonden; actuele exploitant, alcoholassortiment en vrije inloop niet primair bevestigd. Geen uren overgenomen. Standaard verborgen tot betrouwbare bevestiging. | 02-11-2026 aanvullende negatieve bedrijfscontrole: https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/de-waag/229601/cafe-bar-t-hoekje verklaart oude KvK-inschrijving 01042566 (vestiging 000004598318) expliciet niet langer actief. Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html toont juist dezelfde oude KvK en recent geactualiseerde gidsuren 11–22; dat is geen bewijs dat deze juridische exploitant in 2026 nog bestaat. RestaurantGuru https://restaurantguru.com/Cafe-T-Hoekje-Leeuwarden heeft bezoekersreactie uit 2026 maar geen onafhankelijke actuele exploitantidentiteit. Naam en adres kunnen na rechtsvormwisseling voortbestaan; status blijft onzeker, geen definitieve sluiting claimen, geen gidsuren overnemen, verborgen houden tot eigen actuele bron."
+        "reason": "Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html vermeldt Weaze 44, KvK en dagelijks 11:00–22:00 (geactualiseerd 28-09-2026). Geen verifieerbare eigen site of bedrijfsbron voor tijden en actuele exploitatie gevonden; opening, sluiting en laatste toegang onbekend gehouden. | 01-11-2026: opnieuw alleen gidsen https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html (11–22) en https://www.allebiz.nl/caf%C3%A9-t-hoekje_12l-058-213-3435 (11–23) gevonden; actuele exploitant, alcoholassortiment en vrije inloop niet primair bevestigd. Geen uren overgenomen. Standaard verborgen tot betrouwbare bevestiging. | 02-11-2026 aanvullende negatieve bedrijfscontrole: https://www.oozo.nl/bedrijven/leeuwarden/binnenstad/de-waag/229601/cafe-bar-t-hoekje verklaart oude KvK-inschrijving 01042566 (vestiging 000004598318) expliciet niet langer actief. Cylex https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html toont juist dezelfde oude KvK en recent geactualiseerde gidsuren 11–22; dat is geen bewijs dat deze juridische exploitant in 2026 nog bestaat. RestaurantGuru https://restaurantguru.com/Cafe-T-Hoekje-Leeuwarden heeft bezoekersreactie uit 2026 maar geen onafhankelijke actuele exploitantidentiteit. Naam en adres kunnen na rechtsvormwisseling voortbestaan; status blijft onzeker, geen definitieve sluiting claimen, geen gidsuren overnemen, verborgen houden tot eigen actuele bron. | 03-11-2026: https://restaurantguru.com/Cafe-T-Hoekje-Leeuwarden toont een recensie van circa vier maanden geleden en vermeldt za 11:00–02:00 tegenover Cylex 11:00–22:00 en AlleBiz dagelijks 11:00–23:00. https://tulimaps.com/koffiebar/leeuwarden/cafe-bar-t-hoekje/ herhaalt za tot 02:00, maar is eveneens een aggregator. De oude KvK-entiteit staat volgens Oozo niet meer actief. Dit is een concreet roosterconflict, geen primaire bevestiging van exploitant, alcohol of toegang; tijden blijven onbekend en selectie verborgen."
       },
       {
         "id": "cafe-cafetaria-de-viersprong-kootstertille-20261031",

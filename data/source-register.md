@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-03 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-04 uit de locatiedatabase en onderzoeksverslagen.
 
-**2527 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
+**2529 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -46,8 +46,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | allebiz.nl | 91 | 88 |
 | friesland.nl | 82 | 80 |
 | centrumutrecht.nl | 55 | 52 |
+| cylex.nl | 46 | 46 |
 | compadex.com | 45 | 46 |
-| cylex.nl | 45 | 45 |
 | visitleeuwarden.com | 37 | 33 |
 | tripadvisor.nl | 27 | 27 |
 | vvvterschelling.nl | 27 | 29 |
@@ -300,6 +300,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | trambaan8.com | 3 | 1 |
 | tripadvisor.be | 3 | 3 |
 | tripadvisor.co.uk | 3 | 3 |
+| tulimaps.com | 3 | 3 |
 | veerhuys-bolsward.nl | 3 | 1 |
 | vinoenverder.nl | 3 | 1 |
 | walvisterschelling.nl | 3 | 1 |
@@ -510,7 +511,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | tripadvisor.de | 2 | 2 |
 | tripadvisor.fr | 2 | 2 |
 | tstadhuys.nl | 2 | 1 |
-| tulimaps.com | 2 | 2 |
 | twapenvanterschelling.nl | 2 | 1 |
 | van-heeckeren.nl | 2 | 1 |
 | vierenbijfier.nl | 2 | 1 |
@@ -1776,7 +1776,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cafelijn4.nl
 
-- [https://cafelijn4.nl/](https://cafelijn4.nl/) — openingstijden, sluitingstijden, website; Café Lijn 4; bronveld gecontroleerd: 2026-10-26
+- [https://cafelijn4.nl/](https://cafelijn4.nl/) — openingstijden, sluitingstijden, website; Café Lijn 4; bronveld gecontroleerd: 2026-11-03
 
 ### cafelombok.nl
 
@@ -2088,6 +2088,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.cylex.nl/bedrijf/borrel--en-feestcaf%C3%A9-het-swaentje-13206561.html](https://www.cylex.nl/bedrijf/borrel--en-feestcaf%C3%A9-het-swaentje-13206561.html) — achtergrond; Feestcafé Het Swaentje; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/brasserie-kolkzicht-10700112.html](https://www.cylex.nl/bedrijf/brasserie-kolkzicht-10700112.html) — achtergrond; Brasserie Kolkzicht; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/bruincaf%C3%A9-het-anker-11800508.html](https://www.cylex.nl/bedrijf/bruincaf%C3%A9-het-anker-11800508.html) — achtergrond, openingstijden; Bruincafé Het Anker; bronveld gecontroleerd: 2026-11-01
+- [https://www.cylex.nl/bedrijf/caf%C3%A9-%27t-sk%C3%BBtsje-b-v--10751924.html](https://www.cylex.nl/bedrijf/caf%C3%A9-%27t-sk%C3%BBtsje-b-v--10751924.html) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-bak-12291342.html](https://www.cylex.nl/bedrijf/caf%C3%A9-bak-12291342.html) — achtergrond; Café Bak; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html](https://www.cylex.nl/bedrijf/caf%C3%A9-bar-%27t-hoekje-10912561.html) — achtergrond; Café-Bar 't Hoekje; bronveld gecontroleerd: onbekend
 - [https://www.cylex.nl/bedrijf/caf%C3%A9-bar-d%C3%A9-14004712.html](https://www.cylex.nl/bedrijf/caf%C3%A9-bar-d%C3%A9-14004712.html) — achtergrond; Café Bar-Dé; bronveld gecontroleerd: onbekend
@@ -5509,6 +5510,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### tulimaps.com
 
 - [https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/](https://tulimaps.com/koffiebar/harlingen/cafe-the-pub/) — achtergrond; The Pub - Public Underground Bar; bronveld gecontroleerd: onbekend
+- [https://tulimaps.com/koffiebar/leeuwarden/cafe-bar-t-hoekje/](https://tulimaps.com/koffiebar/leeuwarden/cafe-bar-t-hoekje/) — achtergrond; Café-Bar 't Hoekje; bronveld gecontroleerd: onbekend
 - [https://tulimaps.com/koffiebar/leeuwarden/dorpshuis-eetcafe-baard/](https://tulimaps.com/koffiebar/leeuwarden/dorpshuis-eetcafe-baard/) — achtergrond; Café Restaurant de Kater; bronveld gecontroleerd: onbekend
 
 ### tvbolsward.nl
