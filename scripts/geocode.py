@@ -4,7 +4,6 @@
 Only confirmed BAG street, house-number and city matches are accepted.
 Unmatched records remain without geo; no guessed map positions are created.
 """
-import difflib
 import json
 import re
 import time
@@ -107,8 +106,7 @@ def geo(place):
         if found_number != number:
             continue
         found_street, wanted_street = norm(candidate.get("straatnaam")), norm(street)
-        if (found_street != wanted_street and
-                difflib.SequenceMatcher(None, found_street, wanted_street).ratio() < .93):
+        if found_street != wanted_street:
             continue
         # BAG sub-addresses are distinct verblijfsobjecten. A query for
         # number 1 must NOT silently accept 1A, 1B or 1-001.
