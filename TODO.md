@@ -1,3 +1,9 @@
+### Checkpoint 2026-11-05 00:10 CET — statische BAG-huisnummer- en huislettercontrole
+
+Actuele TODO en master via GitHub blob-API gelezen (768 records). Alle **701** records met `geo.method == "PDOK BAG-adres"` gecontroleerd: genormaliseerde straatnaam, numeriek huisnummer en expliciete huisletter in `address` tegenover opgeslagen `geo.matched_address`. **701 exact overeenkomend, 0 verschillen, 0 onparsebare adressen**. Rapport [reports/bag-house-number-static-crosscheck-2026-11-05.md](reports/bag-house-number-static-crosscheck-2026-11-05.md), commit [87e681b](https://github.com/paltenburg/nogergensnaarbinnen/commit/87e681bba7f6b08f9c60c7ce91f8dbb684ef1527). **Dit is uitsluitend een interne tekstvergelijking**, geen live BAG-/PDOK-controle van toevoeging, feitelijke ingang of exploitatie. 0 locaties extern geverifieerd, 0 masterrecords of geocodes gewijzigd, 0 toegevoegd, 0 weekauditlocaties. W45 volgens bestaande TODO afgerond; W46 pas 09-11-2026 10:00 CET verschuldigd. Friesland D0 open; Pages en mobiele kaart niet getest.
+
+**Exact vervolg:** geocoder unitcases uitvoeren voor huisletter, toevoeging, huisnummerrange en bijna-gelijke straatnamen; vervolgens de 66 ontbrekende geocodes (64 zonder interne adresmatch) via exacte actuele PDOK/BAG-verificatie en exploitantingang nalopen. Daarna Friese D0-onzekerheden, UI-regiotests en volgende audit.
+
 ### Vervolgcheck 2026-11-04 22:53 CET — bestaande BAG-straatnamen
 
 Alle **701** records met `geo.method == "PDOK BAG-adres"` statisch vergeleken: genormaliseerde straatnaam uit `address` tegenover `geo.matched_address` (tot het eerste huisnummer). **0 afwijkingen** aangetroffen. Dit is een tekstuele consistentiecontrole, **geen onafhankelijke BAG- of ingangverificatie**; 0 geocodes gecorrigeerd. Bijzondere huisnummers, gedeelde ingangen en 66 ontbrekende markers blijven open. Volgende: huisnummer/huisletter/toevoeging van deze 701 matches apart vergelijken, en geocoder unitcases uitvoeren.
