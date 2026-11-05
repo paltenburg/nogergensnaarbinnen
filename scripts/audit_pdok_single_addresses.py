@@ -9,10 +9,27 @@ import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
-from geocode import addr_parts, norm, request, extract_point
+from geocode import API, addr_parts, norm, extract_point
+
+
+def fetch_candidates(query):
+    """Return (documents, total hits), raising on failed or invalid responses."""
+    url = API + "?" + urlencode({"q": query, "rows": 100, "fq": "type:adres"})
+    req = Request(url, headers={"Accept": "application/json",
+                                "User-Agent": "nogergensnaarbinnen/0.1 (BAG audit)"})
+    with urlopen(req, timeout=24) as response:
+        payload = json.load(response)
+    result = payload["response"]
+    docs, total = result["docs"], result["numFound"]
+    if not isinstance(docs, list) or not isinstance(total, int) or total < len(docs):
+        raise ValueError("Invalid PDOK response shape")
+    return docs, total
 
 
 def inspect(place):
@@ -25,7 +42,14 @@ def inspect(place):
     town = qualified.group(1).strip() if qualified else city
     municipality = qualified.group(2).strip() if qualified else None
     query = f"{street} {number}{suffix} {town}" + (f" {municipality}" if municipality else "")
-    docs = request(query)
+    try:
+        docs, total = fetch_candidates(query)
+    except (HTTPError, URLError, TimeoutError, ValueError, KeyError, TypeError) as exc:
+        return {"status": "pdok-request-failed", "query": query,
+                "error": str(exc)[:200]}
+    if total > len(docs):
+        return {"status": "pdok-results-truncated", "query": query,
+                "returned_documents": len(docs), "total_documents": total}
     exact = []
     for d in docs:
         if d.get("type") != "adres" or norm(d.get("woonplaatsnaam")) != norm(town):
@@ -54,7 +78,7 @@ def inspect(place):
 def main():
     data = json.loads((ROOT / "data/venues.json").read_text(encoding="utf-8"))
     report = {"checked_at_utc": datetime.now(timezone.utc).isoformat(),
-              "warning": "BAG address is not a verified public venue entrance; empty results can mean network failure.",
+              "warning": "BAG address is not a verified public venue entrance; network failures and truncated results are reported separately.",
               "venues": []}
     for p in data["places"]:
         if p.get("geo") or p.get("geocode_blocked") or p.get("duplicate_of"):
