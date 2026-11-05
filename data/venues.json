@@ -10885,7 +10885,7 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://barsybs.nl/",
-      "closing_notes": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend. Aanvullende controle 31-10-2026: 2026 KvK-aggregator Compadex meldt Sybs op 2A (KvK 97008966, bijgewerkt 29-05-2026), terwijl exploitant Sybs 2 noemt; exploitant Doelebar noemt eveneens 2A. Adresconflict blijft ONOPGELOST; geen geforceerde geocode of samenvoeging.",
+      "closing_notes": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend. Aanvullende controle 31-10-2026: 2026 KvK-aggregator Compadex meldt Sybs op 2A (KvK 97008966, bijgewerkt 29-05-2026), terwijl exploitant Sybs 2 noemt; exploitant Doelebar noemt eveneens 2A. Adresconflict blijft ONOPGELOST; geen geforceerde geocode of samenvoeging. Hercontrole 05-11-2026: https://www.barsybs.nl/ bevestigt nog steeds adres 2 en ma/di/zo 21–05, wo/do/vr 20–05, za 12–05; https://www.visitleeuwarden.com/en/locations/1361140994/bar-sybs vermeldt 2a, terwijl https://doelebar.nl/locatie/ eveneens 2a claimt. BAG-unit en feitelijke ingang blijven onbevestigd; geen marker.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://barsybs.nl/",
       "other_sources": [
@@ -10893,7 +10893,8 @@
         "https://barsybs.nl/",
         "https://www.visitleeuwarden.com/locaties/1361140994/bar-sybs",
         "https://doelebar.nl/locatie/",
-        "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399"
+        "https://www.compadex.com/nl/businesses/nl/bar-sybs-97008966-62281399",
+        "https://www.barsybs.nl/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "opening": {
@@ -10905,7 +10906,7 @@
         "za": "12:00",
         "zo": "21:00"
       },
-      "checked_on": "2026-10-31"
+      "checked_on": "2026-11-05"
     },
     {
       "id": "muziekcafe-scooter-s-leeuwarden-959cd30",
@@ -15317,9 +15318,9 @@
         "https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal"
       ],
       "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
-      "website_checked_on": "2026-10-29",
-      "website_provenance": "Eigen site gecontroleerd 29-10-2026, bevestigt adres, uitbaters en drankaanbod; officiële site bevat intern tegenstrijdige informatie over ma/di.",
-      "checked_on": "2026-10-29",
+      "website_checked_on": "2026-11-05",
+      "website_provenance": "Eigen site gecontroleerd 29-10-2026, bevestigt adres, uitbaters en drankaanbod; officiële site bevat intern tegenstrijdige informatie over ma/di. Hercontrole 05-11-2026: https://amicaalgrou.nl/ bevestigt Halbertsma’s plein 14, publieke bier/wijnborrel en exploitatie; site toont verouderde coronaregels naast huidige weekfooter, dus ma/di en sluituren blijven onzeker. BAG-ingang niet geverifieerd.",
+      "checked_on": "2026-11-05",
       "opening": {
         "ma": "?",
         "di": "?",
