@@ -13485,15 +13485,17 @@
       },
       "closing_quality": "VVV-weekrooster niet bedrijfseigen bevestigd; RestaurantGuru conflicteert, dus uren onbekend",
       "closing_source": "https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven",
-      "closing_notes": "30-10-2026: actuele VVV en KvK bevestigen Voorstraat 64 (NIET Lanen 39). VVV noemt ma–do 12–22, vr/za 12–00, zo 12–20, maar RestaurantGuru noemt afwijkende uren; geen eigen weekrooster, daarom tijden onbekend. Oude Lanen 39-marker verwijderd voor PDOK-match Voorstraat 64. Café Rednick is een onbevestigde historische naam op hetzelfde adres; geen twee gelijktijdige zaken aangenomen. Laatste toegang onbekend.",
+      "closing_notes": "30-10-2026: actuele VVV en KvK bevestigen Voorstraat 64 (NIET Lanen 39). VVV noemt ma–do 12–22, vr/za 12–00, zo 12–20, maar RestaurantGuru noemt afwijkende uren; geen eigen weekrooster, daarom tijden onbekend. Oude Lanen 39-marker verwijderd voor PDOK-match Voorstraat 64. Café Rednick is een onbevestigde historische naam op hetzelfde adres; geen twee gelijktijdige zaken aangenomen. Laatste toegang onbekend. Hercontrole 05-11-2026: ook HarlingenBoeit vermeldt Voorstraat 64; Uitgaanskaart noemt afwijkend Lanen 39. Geen nieuwe bedrijfs-eigen sluituren of fysieke ingangsverificatie.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "",
       "other_sources": [
         "https://www.compadex.com/nl/businesses/nl/cafe-gewoan-sven-57858616-27259390",
-        "https://fr.restaurantguru.com/Cafe-Gewoan-Sven-Harlingen-Friesland"
+        "https://fr.restaurantguru.com/Cafe-Gewoan-Sven-Harlingen-Friesland",
+        "https://harlingenboeit.nl/harlingenbezorgt/horeca",
+        "https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven"
       ],
       "original_status": "Actuele VVV en KvK 2026 bevestigen Café Gewoán Sven op Voorstraat 64.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-05",
       "opening": {
         "ma": "?",
         "di": "?",
