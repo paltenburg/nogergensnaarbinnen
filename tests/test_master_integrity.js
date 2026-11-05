@@ -23,7 +23,7 @@ for (const p of db.places) {
     for (const day of days) {
       const value = p[key][day];
       assert.equal(typeof value, 'string', 'Missing ' + key + '.' + day + ' ' + p.id);
-      if (/^\d{2}:\d{2}$/.test(value)) {
+      assert.ok(/^(?:[01]\\d|2[0-3]):[0-5]\\d$/.test(value) || ['?', '—', 'Event', 'Varieert'].includes(value),\n        'Unrecognized ' + key + ' time/status ' + p.id + ' ' + day + ': ' + value);\n      if (/^\d{2}:\d{2}$/.test(value)) {
         const [h, m] = value.split(':').map(Number);
         assert.ok(h <= 23 && m <= 59, 'Invalid time ' + p.id + ' ' + key + '.' + day);
       }
