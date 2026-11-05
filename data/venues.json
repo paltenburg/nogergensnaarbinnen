@@ -22417,7 +22417,7 @@
       "selection": "Voorlopig",
       "opening": {
         "ma": "11:00",
-        "di": "11:00",
+        "di": "?",
         "wo": "—",
         "do": "11:00",
         "vr": "11:00",
@@ -22426,22 +22426,22 @@
       },
       "closing": {
         "ma": "23:00",
-        "di": "23:00",
+        "di": "?",
         "wo": "—",
         "do": "23:00",
         "vr": "02:00",
         "za": "02:00",
         "zo": "23:00"
       },
-      "closing_quality": "Eigen actuele openingstijdenpagina: ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Externe gidsen met dagelijks tot 02 zijn niet gebruikt.",
+      "closing_quality": "Eigen openingstijdenpagina en contactpagina: dinsdag 11–23; eigen homepage: dinsdag gesloten. Tegenstrijdig, dinsdag onbekend; overige uren volgens eigen openingstijdenpagina.",
       "closing_source": "https://degroeneweideterschelling.nl/openingstijden/",
-      "closing_notes": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken. | Hercontrole 01-11-2026: exploitantopeningstijden ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Het latere tweede record is verborgen als dubbel; bestaand ID en geocode behouden.",
+      "closing_notes": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken. | Hercontrole 01-11-2026: exploitantopeningstijden ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Het latere tweede record is verborgen als dubbel; bestaand ID en geocode behouden. | Hercontrole 05-11-2026: primaire https://degroeneweideterschelling.nl/ noemt dinsdag GESLOTEN, maar primaire https://degroeneweideterschelling.nl/openingstijden/ en https://degroeneweideterschelling.nl/contact/ noemen dinsdag 11:00–23:00. Dinsdag opening/sluiting daarom '?' tot exploitant bevestigt. Overige weekuren onveranderd. Laatste toegang onbekend.",
       "features": "D0 Terschelling / Hoorn; muziekcafé, late vr/za borrel",
       "website": "https://degroeneweideterschelling.nl/",
       "website_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-05",
       "opening_source": "https://degroeneweideterschelling.nl/openingstijden/",
-      "opening_checked_on": "2026-11-01",
+      "opening_checked_on": "2026-11-05",
       "other_sources": [
         "https://degroeneweideterschelling.nl/contact/",
         "https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/",
@@ -22454,7 +22454,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Dorpsstraat 81, 8896JD Hoorn"
       },
-      "closing_checked_on": "2026-11-01"
+      "closing_checked_on": "2026-11-05"
     },
     {
       "id": "paviljoen-de-walvis-west-terschelling-20261030",
@@ -31716,7 +31716,7 @@
       "selection": "Nee",
       "opening": {
         "ma": "11:00",
-        "di": "11:00",
+        "di": "?",
         "wo": "—",
         "do": "11:00",
         "vr": "11:00",
@@ -31725,7 +31725,7 @@
       },
       "closing": {
         "ma": "23:00",
-        "di": "23:00",
+        "di": "?",
         "wo": "—",
         "do": "23:00",
         "vr": "02:00",
@@ -31734,13 +31734,13 @@
       },
       "opening_source": "https://degroeneweideterschelling.nl/openingstijden/",
       "closing_source": "https://degroeneweideterschelling.nl/openingstijden/",
-      "opening_checked_on": "2026-11-01",
-      "closing_checked_on": "2026-11-01",
+      "opening_checked_on": "2026-11-05",
+      "closing_checked_on": "2026-11-05",
       "website_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-05",
       "opening_quality": "Eigen nieuwe site en VVV eens: ma/di/do/zo 11–23, wo dicht, vr/za 11–02. Oudere gids noemt elke dag 10–02, verouderd.",
-      "closing_quality": "Eigen pagina vermeldt 23:00 of 02:00; laatste toegang en livemuziek-eindtijden niet bevestigd.",
-      "closing_notes": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend. | DEDUP 01-11-2026: dubbel van de-groene-weide-hoorn-terschelling-20261030; verborgen, gebruik eerdere ID.",
+      "closing_quality": "Eigen openingstijdenpagina en contactpagina: dinsdag 11–23; eigen homepage: dinsdag gesloten. Tegenstrijdig, dinsdag onbekend; overige uren volgens eigen openingstijdenpagina.",
+      "closing_notes": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend. | DEDUP 01-11-2026: dubbel van de-groene-weide-hoorn-terschelling-20261030; verborgen, gebruik eerdere ID. | Hercontrole 05-11-2026: primaire https://degroeneweideterschelling.nl/ noemt dinsdag GESLOTEN, maar primaire https://degroeneweideterschelling.nl/openingstijden/ en https://degroeneweideterschelling.nl/contact/ noemen dinsdag 11:00–23:00. Dinsdag opening/sluiting daarom '?' tot exploitant bevestigt. Overige weekuren onveranderd. Laatste toegang onbekend.",
       "features": "Terschelling Hoorn; muziekcafé; borrel; 2025 heropening",
       "website": "https://degroeneweideterschelling.nl/",
       "other_sources": [
