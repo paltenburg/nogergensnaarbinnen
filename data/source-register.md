@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-04 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-05 uit de locatiedatabase en onderzoeksverslagen.
 
-**2529 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
+**2530 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -241,6 +241,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | grandcafevlieland.nl | 3 | 1 |
 | grootfryslan.nl | 3 | 3 |
 | gruttepier.nl | 3 | 1 |
+| harlingenboeit.nl | 3 | 3 |
 | hegegerzen.nl | 3 | 1 |
 | helderpuurgenieten.nl | 3 | 1 |
 | herbergfoestrum.nl | 3 | 1 |
@@ -407,7 +408,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | gustoheerenveen.nl | 2 | 1 |
 | halvemaandokkum.nl | 2 | 1 |
 | harbourameland.nl | 2 | 1 |
-| harlingenboeit.nl | 2 | 2 |
 | heartbreak-hotel.nl | 2 | 1 |
 | heerenveen.deswetser.nl | 2 | 1 |
 | hekseketel.nl | 2 | 1 |
@@ -3340,6 +3340,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### harlingenboeit.nl
 
+- [https://harlingenboeit.nl/harlingenbezorgt/horeca](https://harlingenboeit.nl/harlingenbezorgt/horeca) — achtergrond; Café Gewoán Sven; bronveld gecontroleerd: onbekend
 - [https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-46-2025](https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-46-2025) — achtergrond; Café Den Smeerpaal; bronveld gecontroleerd: onbekend
 - [https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-49-2025](https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-49-2025) — achtergrond; The Pub - Public Underground Bar; bronveld gecontroleerd: onbekend
 
@@ -3349,7 +3350,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/1466138238/enoteca-wine-and-bites](https://www.harlingenwelkomaanzee.nl/nl/locaties/1466138238/enoteca-wine-and-bites) — achtergrond; Enoteca Wine & Bites; bronveld gecontroleerd: onbekend
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/1750383463/strandpaviljoen-t-zilt](https://www.harlingenwelkomaanzee.nl/nl/locaties/1750383463/strandpaviljoen-t-zilt) — achtergrond; Strandpaviljoen 't Zilt; bronveld gecontroleerd: onbekend
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal](https://www.harlingenwelkomaanzee.nl/nl/locaties/1771268823/cafe-den-smeerpaal) — achtergrond, sluitingstijden; Café Den Smeerpaal; bronveld gecontroleerd: onbekend
-- [https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven](https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven) — sluitingstijden; Café Gewoán Sven, Café Rednick; bronveld gecontroleerd: onbekend
+- [https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven](https://www.harlingenwelkomaanzee.nl/nl/locaties/2163265506/cafe-gewoan-sven) — achtergrond, sluitingstijden; Café Gewoán Sven, Café Rednick; bronveld gecontroleerd: onbekend
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/3440402257/jonas-harlingen](https://www.harlingenwelkomaanzee.nl/nl/locaties/3440402257/jonas-harlingen) — achtergrond; Jonas Harlingen; bronveld gecontroleerd: onbekend
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/381872219/grandcafe-de-reus](https://www.harlingenwelkomaanzee.nl/nl/locaties/381872219/grandcafe-de-reus) — achtergrond; Grandcafé De Reus; bronveld gecontroleerd: onbekend
 - [https://www.harlingenwelkomaanzee.nl/nl/locaties/3853834926/grandcafe-de-zaak](https://www.harlingenwelkomaanzee.nl/nl/locaties/3853834926/grandcafe-de-zaak) — achtergrond; Grandcafé De Zaak; bronveld gecontroleerd: onbekend
@@ -5615,7 +5616,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### ulubar.nl
 
-- [https://ulubar.nl/](https://ulubar.nl/) — achtergrond, openingstijden, sluitingstijden, website; Bassment, ULU Bar; bronveld gecontroleerd: 2026-10-26
+- [https://ulubar.nl/](https://ulubar.nl/) — achtergrond, openingstijden, sluitingstijden, website; Bassment, ULU Bar; bronveld gecontroleerd: 2026-11-04
 
 ### untappd.com
 

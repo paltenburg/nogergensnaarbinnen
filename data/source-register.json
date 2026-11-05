@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-04",
+  "generated_on": "2026-11-05",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 768,
-    "source_urls": 2529,
+    "source_urls": 2530,
     "domains": 894,
     "direct_website_fields": 584
   },
@@ -1134,6 +1134,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "harlingenboeit.nl",
+      "source_pages": 3,
+      "linked_venues": 3
+    },
+    {
       "domain": "hegegerzen.nl",
       "source_pages": 3,
       "linked_venues": 1
@@ -1962,11 +1967,6 @@
       "domain": "harbourameland.nl",
       "source_pages": 2,
       "linked_venues": 1
-    },
-    {
-      "domain": "harlingenboeit.nl",
-      "source_pages": 2,
-      "linked_venues": 2
     },
     {
       "domain": "heartbreak-hotel.nl",
@@ -35429,6 +35429,30 @@
       "needs_review": true
     },
     {
+      "url": "https://harlingenboeit.nl/harlingenbezorgt/horeca",
+      "domain": "harlingenboeit.nl",
+      "first_registered_on": "2026-11-05",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "cafe-gewoan-sven-harlingen-dccd931",
+          "name": "Café Gewoán Sven",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://harlingenboeit.nl/nieuws/bekendmakingen-van-de-gemeente-harlingen-week-46-2025",
       "domain": "harlingenboeit.nl",
       "first_registered_on": "2026-11-02",
@@ -35581,6 +35605,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "achtergrond",
         "sluitingstijden"
       ],
       "venues": [
@@ -35588,6 +35613,7 @@
           "id": "cafe-gewoan-sven-harlingen-dccd931",
           "name": "Café Gewoán Sven",
           "roles": [
+            "achtergrond",
             "sluitingstijden"
           ],
           "checked_on": {},
@@ -65064,13 +65090,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26",
-            "openingstijden": "2026-10-26"
+            "website": "2026-11-04",
+            "openingstijden": "2026-11-04"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-26",
+      "last_data_field_checked_on": "2026-11-04",
       "linked_venue_count": 2,
       "needs_review": true
     },
@@ -76105,7 +76131,7 @@
       {
         "id": "cafe-gewoan-sven-harlingen-dccd931",
         "name": "Café Gewoán Sven",
-        "reason": "30-10-2026: actuele VVV en KvK bevestigen Voorstraat 64 (NIET Lanen 39). VVV noemt ma–do 12–22, vr/za 12–00, zo 12–20, maar RestaurantGuru noemt afwijkende uren; geen eigen weekrooster, daarom tijden onbekend. Oude Lanen 39-marker verwijderd voor PDOK-match Voorstraat 64. Café Rednick is een onbevestigde historische naam op hetzelfde adres; geen twee gelijktijdige zaken aangenomen. Laatste toegang onbekend."
+        "reason": "30-10-2026: actuele VVV en KvK bevestigen Voorstraat 64 (NIET Lanen 39). VVV noemt ma–do 12–22, vr/za 12–00, zo 12–20, maar RestaurantGuru noemt afwijkende uren; geen eigen weekrooster, daarom tijden onbekend. Oude Lanen 39-marker verwijderd voor PDOK-match Voorstraat 64. Café Rednick is een onbevestigde historische naam op hetzelfde adres; geen twee gelijktijdige zaken aangenomen. Laatste toegang onbekend. Hercontrole 05-11-2026: ook HarlingenBoeit vermeldt Voorstraat 64; Uitgaanskaart noemt afwijkend Lanen 39. Geen nieuwe bedrijfs-eigen sluituren of fysieke ingangsverificatie."
       },
       {
         "id": "het-grauwe-paard-marsum-20261102",
@@ -77956,6 +77982,11 @@
         "id": "trambaan8-oosterwolde-20261030",
         "name": "TRAMBAAN8",
         "reason": "30-10-2026: https://www.trambaan8.com/ bevestigt publiek borrelen en weekrooster. https://www.trambaan8.com/wp-content/uploads/2024/02/Trambaan8-Menukaart.pdf bevestigt wijnarrangement, reservering 24 uur vooraf voor Wine & Tapas, niet voor normale cafébezoeken. Alcoholkaart niet expliciet van 2026; actuele beschikbaarheid van specifieke dranken niet gegarandeerd. Laatste toegang onbekend."
+      },
+      {
+        "id": "ulu-bar-20261026",
+        "name": "ULU Bar",
+        "reason": "04-11-2026: https://ulubar.nl/ opnieuw rechtstreeks gecontroleerd: ma gesloten, di–do 17:00–23:00, vr/za 17:00–00:00, zo 17:00–23:00; actuele cocktails en live muziek bevestigd. OSM-afgeleide https://tablova.nl/zaak/utrecht/ulu-n101440590 noemt 02:00 maar is niet de exploitant; eigen site leidend. Laatste toegang onbekend. Bassment op hetzelfde adres historisch afzonderlijk vermeld; actuele zelfstandige Bassment-exploitatie niet bewezen."
       },
       {
         "id": "van-heeckeren-grandcafe-nes-20261101",

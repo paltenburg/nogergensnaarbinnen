@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-04",
+  "snapshot_date": "2026-11-05",
   "source": "data/venues.json",
   "interpretation": "Recorded data coverage only. Shared addresses are investigation signals, not duplicate venue proof. Duplicate aliases retain their IDs but are excluded from distinct_recorded_venues; the other coverage counts still include master records. A recorded review date does not certify present operation. The undated schedule count identifies venues intentionally hidden until a specific verified date is available. Base closing counts exclude dated schedules for backward compatibility; dated and combined counts include sourced schedule intervals but do not prove that a venue is open on the snapshot date. Settlement coverage excludes duplicate aliases and includes only places already in the database; it cannot establish municipal or geographic completeness.",
   "total": 768,
