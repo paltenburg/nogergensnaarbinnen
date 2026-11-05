@@ -15,6 +15,9 @@ for (const p of db.places) {
   assert.ok(regions.has(p.region), 'Unknown region ' + p.id);
   assert.ok(typeof p.name === 'string' && p.name.trim(), 'Missing name ' + p.id);
   assert.ok(typeof p.address === 'string' && p.address.trim(), 'Missing address ' + p.id);
+  if (p.website) {
+    assert.ok(/^https?:\/\/[^\s/]+\.[^\s/]+/.test(p.website), 'Invalid website URL ' + p.id);
+  }
   for (const key of ['opening', 'closing']) {
     if (p[key] == null) continue;
     for (const day of days) {
@@ -30,6 +33,9 @@ for (const p of db.places) {
     assert.ok(Number.isFinite(p.geo.lat) && Number.isFinite(p.geo.lon), 'Partial coordinates ' + p.id);
     assert.ok(p.geo.lat >= -90 && p.geo.lat <= 90 && p.geo.lon >= -180 && p.geo.lon <= 180,
       'Invalid coordinates ' + p.id);
+    // Broad mainland/island Netherlands sanity bounds, not an address or BAG verification.
+    assert.ok(p.geo.lat >= 50.7 && p.geo.lat <= 53.7 && p.geo.lon >= 3.1 && p.geo.lon <= 7.4,
+      'Coordinates outside Netherlands sanity bounds ' + p.id);
   }
 }
 console.log('Master integrity OK:', ids.size, 'venues,', regions.size, 'regions');
