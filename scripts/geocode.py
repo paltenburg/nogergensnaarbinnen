@@ -104,6 +104,8 @@ def geo(place):
     candidates = request(query)
     exact_matches = []
     for candidate in candidates:
+        if not isinstance(candidate, dict):
+            continue
         if norm(candidate.get("woonplaatsnaam")) != norm(city):
             continue
         if municipality and norm(candidate.get("gemeentenaam")) != norm(municipality):
