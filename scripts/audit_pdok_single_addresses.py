@@ -25,7 +25,11 @@ def fetch_candidates(query):
                                 "User-Agent": "nogergensnaarbinnen/0.1 (BAG audit)"})
     with urlopen(req, timeout=24) as response:
         payload = json.load(response)
+    if not isinstance(payload, dict) or not isinstance(payload.get("response"), dict):
+        raise ValueError("Invalid PDOK response envelope")
     result = payload["response"]
+    if "docs" not in result or "numFound" not in result:
+        raise ValueError("Missing PDOK response fields")
     docs, total = result["docs"], result["numFound"]
     if not isinstance(docs, list) or type(total) is not int or total < 0 or total < len(docs):
         raise ValueError("Invalid PDOK response shape")
