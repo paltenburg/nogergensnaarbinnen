@@ -80,6 +80,15 @@ class PdokAuditTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 audit.fetch_candidates("test")
 
+    def test_malformed_response_envelopes_are_request_failures(self):
+        for payload in (None, [], {}, {"response": None},
+                        {"response": []}, {"response": {}},
+                        {"response": {"docs": []}},
+                        {"response": {"numFound": 0}}):
+            with self.subTest(payload=payload):
+                with patch.object(audit, "urlopen", return_value=FakeResponse(payload)):
+                    self.assertEqual(audit.inspect(PLACE)["status"], "pdok-request-failed")
+
     def test_boolean_total_hits_rejected(self):
         with patch.object(audit, "urlopen", return_value=FakeResponse({
             "response": {"docs": [], "numFound": True}
