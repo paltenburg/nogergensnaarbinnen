@@ -6055,15 +6055,15 @@
         "wo": "01:00",
         "do": "02:00",
         "vr": "03:00",
-        "za": "02:00",
-        "zo": "00:00"
+        "za": "03:00",
+        "zo": "01:00"
       },
-      "closing_quality": "Officiële toeristische regiogids",
-      "closing_source": "https://www.ontdek-utrecht.nl/locatie/lebowski",
-      "checked_on": "2026-10-26",
-      "closing_notes": "",
+      "closing_quality": "Eigen exploitant, weekrooster op contactpagina",
+      "closing_source": "https://le.bow.ski/contact/",
+      "checked_on": "2026-11-06",
+      "closing_notes": "06-11-2026: eigen contactpagina vermeldt ma–wo 12–01, do 12–02, vr/za 12–03 en zo 12–01. Wijkt af van oudere regiogids (za 02, zo 00). Laatste toegang niet vermeld. Speakeasy heeft geen afzonderlijk bevestigd rooster.",
       "features": "Grand café; Borrel",
-      "website": "https://grandcafelebowski.nl/",
+      "website": "https://le.bow.ski/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/5/"
@@ -6076,18 +6076,18 @@
         "matched_address": "Domplein 17, 3512JD Utrecht"
       },
       "website_provenance": "Official business site verified from current 2026 online research",
-      "website_checked_on": "2026-10-26",
+      "website_checked_on": "2026-11-06",
       "opening": {
-        "ma": "11:00",
-        "di": "11:00",
-        "wo": "11:00",
-        "do": "11:00",
-        "vr": "11:00",
-        "za": "11:00",
-        "zo": "11:00"
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
       },
-      "opening_source": "https://www.ontdek-utrecht.nl/locatie/lebowski",
-      "opening_checked_on": "2026-10-26"
+      "opening_source": "https://le.bow.ski/contact/",
+      "opening_checked_on": "2026-11-06"
     },
     {
       "id": "lebowskis-speakeasy-2a1a46d",
