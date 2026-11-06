@@ -119,6 +119,16 @@ class ExactBagAddressTests(unittest.TestCase):
         self.assertIsNone(location)
         self.assertEqual(reason, "no-exact-PDOK-match")
 
+    def test_multiple_exact_addresses_are_ambiguous(self):
+        location, reason = self.locate("Kleinzand 1", [candidate(1), candidate(1)])
+        self.assertIsNone(location)
+        self.assertEqual(reason, "ambiguous-PDOK-match")
+
+    def test_malformed_candidate_is_ignored(self):
+        location, reason = self.locate("Kleinzand 1", [None, "invalid", candidate(1)])
+        self.assertEqual(reason, "ok")
+        self.assertIsNotNone(location)
+
     def test_wrong_type_is_rejected(self):
         location, reason = self.locate("Kleinzand 1", [
             dict(candidate(1), type="weg"),
