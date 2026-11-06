@@ -80,6 +80,13 @@ class PdokAuditTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 audit.fetch_candidates("test")
 
+    def test_boolean_total_hits_rejected(self):
+        with patch.object(audit, "urlopen", return_value=FakeResponse({
+            "response": {"docs": [], "numFound": True}
+        })):
+            with self.assertRaises(ValueError):
+                audit.fetch_candidates("test")
+
     def test_empty_successful_response_is_unresolved(self):
         with patch.object(audit, "fetch_candidates", return_value=([], 0)):
             self.assertEqual(audit.inspect(PLACE)["status"], "unresolved")
