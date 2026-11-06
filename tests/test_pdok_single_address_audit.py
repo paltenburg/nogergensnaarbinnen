@@ -80,6 +80,29 @@ class PdokAuditTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 audit.fetch_candidates("test")
 
+    def test_empty_successful_response_is_unresolved(self):
+        with patch.object(audit, "fetch_candidates", return_value=([], 0)):
+            self.assertEqual(audit.inspect(PLACE)["status"], "unresolved")
+
+    def test_multiple_exact_candidates_not_unique(self):
+        with patch.object(audit, "fetch_candidates", return_value=([document(nummeraanduiding_id="one"), document(nummeraanduiding_id="two")], 2)):
+            result = audit.inspect(PLACE)
+        self.assertEqual(result["status"], "unresolved")
+        self.assertEqual(len(result["exact_candidates"]), 2)
+
+    def test_invalid_documents_type_rejected(self):
+        with patch.object(audit, "urlopen", return_value=FakeResponse({
+            "response": {"docs": {}, "numFound": 0}
+        })):
+            with self.assertRaises(ValueError):
+                audit.fetch_candidates("test")
+
+    def test_report_does_not_claim_entrance_from_bag(self):
+        with patch.object(audit, "fetch_candidates", return_value=([document()], 1)):
+            result = audit.inspect(PLACE)
+        self.assertNotEqual(result["status"], "entrance-verified")
+        self.assertNotIn("geo", result)
+
 
 if __name__ == "__main__":
     unittest.main()
