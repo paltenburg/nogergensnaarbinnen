@@ -27,7 +27,7 @@ def fetch_candidates(query):
         payload = json.load(response)
     result = payload["response"]
     docs, total = result["docs"], result["numFound"]
-    if not isinstance(docs, list) or not isinstance(total, int) or total < len(docs):
+    if not isinstance(docs, list) or type(total) is not int or total < 0 or total < len(docs):
         raise ValueError("Invalid PDOK response shape")
     return docs, total
 
@@ -73,7 +73,6 @@ def inspect(place):
             exact.append({"bag_address": d.get("weergavenaam"),
                           "bag_id": d.get("nummeraanduiding_id"),
                           "lat": point[0], "lon": point[1]})
-    # The shared PDOK client also returns [] on network failure.
     return {"status": "bag-address-candidate-not-entrance-verified" if len(exact) == 1 else "unresolved",
             "query": query, "exact_candidates": exact, "returned_documents": len(docs)}
 
