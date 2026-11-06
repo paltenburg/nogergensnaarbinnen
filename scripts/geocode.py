@@ -62,7 +62,17 @@ def request(query):
                 "Accept": "application/json",
             })
             with urlopen(req, timeout=24) as response:
-                return json.load(response).get("response", {}).get("docs", [])
+                payload = json.load(response)
+                result = payload.get("response") if isinstance(payload, dict) else None
+                if not isinstance(result, dict):
+                    raise ValueError("Invalid PDOK response envelope")
+                docs, total = result.get("docs"), result.get("numFound")
+                if (not isinstance(docs, list) or type(total) is not int
+                        or total < 0 or total < len(docs)):
+                    raise ValueError("Invalid PDOK response shape")
+                if total > len(docs):
+                    raise ValueError("Truncated PDOK result: cannot establish unique address")
+                return docs
         except (HTTPError, URLError, TimeoutError, ValueError) as exc:
             print("PDOK request failed:", str(exc)[:180])
             time.sleep(2 * (attempt + 1))
@@ -92,6 +102,7 @@ def geo(place):
     if municipality:
         query += f' {municipality}'
     candidates = request(query)
+    exact_matches = []
     for candidate in candidates:
         if norm(candidate.get("woonplaatsnaam")) != norm(city):
             continue
@@ -118,10 +129,14 @@ def geo(place):
         point = extract_point(candidate.get("centroide_ll"))
         if point:
             lat, lon = point
-            return {
+            exact_matches.append({
                 "lat": lat, "lon": lon, "method": "PDOK BAG-adres",
                 "matched_address": candidate.get("weergavenaam", ""),
-            }, "ok"
+            })
+    if len(exact_matches) == 1:
+        return exact_matches[0], "ok"
+    if len(exact_matches) > 1:
+        return None, "ambiguous-PDOK-match"
     return None, "no-exact-PDOK-match"
 
 
