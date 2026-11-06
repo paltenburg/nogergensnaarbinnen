@@ -97,6 +97,16 @@ class PdokAuditTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 audit.fetch_candidates("test")
 
+    def test_malformed_document_is_reported_without_crash(self):
+        with patch.object(audit, "fetch_candidates", return_value=([None], 1)):
+            result = audit.inspect(PLACE)
+        self.assertEqual(result["status"], "pdok-invalid-document")
+
+    def test_malformed_document_after_valid_match_is_not_accepted(self):
+        with patch.object(audit, "fetch_candidates", return_value=([document(), "invalid"], 2)):
+            result = audit.inspect(PLACE)
+        self.assertEqual(result["status"], "pdok-invalid-document")
+
     def test_report_does_not_claim_entrance_from_bag(self):
         with patch.object(audit, "fetch_candidates", return_value=([document()], 1)):
             result = audit.inspect(PLACE)
