@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-05",
+  "generated_on": "2026-11-06",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 768,
-    "source_urls": 2530,
+    "source_urls": 2531,
     "domains": 894,
     "direct_website_fields": 584
   },
@@ -1519,6 +1519,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "barsybs.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "barzelle.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -2665,11 +2670,6 @@
     },
     {
       "domain": "barpatine.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "barsybs.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -7857,13 +7857,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-29",
+            "website": "2026-11-05",
             "openingstijden": "2026-10-29"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": "2026-11-05",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -8936,6 +8936,30 @@
             "achtergrond",
             "sluitingstijden",
             "website"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.barsybs.nl/",
+      "domain": "barsybs.nl",
+      "first_registered_on": "2026-11-06",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "bar-sybs-leeuwarden-71570c8",
+          "name": "Bar Sybs",
+          "roles": [
+            "achtergrond"
           ],
           "checked_on": {},
           "needs_review": true
@@ -22962,8 +22986,8 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-11-01",
-            "openingstijden": "2026-11-01"
+            "sluitingstijden": "2026-11-05",
+            "openingstijden": "2026-11-05"
           },
           "needs_review": true
         },
@@ -22975,13 +22999,13 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-11-01",
-            "openingstijden": "2026-11-01"
+            "sluitingstijden": "2026-11-05",
+            "openingstijden": "2026-11-05"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-11-01",
+      "last_data_field_checked_on": "2026-11-05",
       "linked_venue_count": 2,
       "needs_review": true
     },
@@ -75476,7 +75500,7 @@
       {
         "id": "bar-sybs-leeuwarden-71570c8",
         "name": "Bar Sybs",
-        "reason": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend. Aanvullende controle 31-10-2026: 2026 KvK-aggregator Compadex meldt Sybs op 2A (KvK 97008966, bijgewerkt 29-05-2026), terwijl exploitant Sybs 2 noemt; exploitant Doelebar noemt eveneens 2A. Adresconflict blijft ONOPGELOST; geen geforceerde geocode of samenvoeging."
+        "reason": "Eigen site 30-10-2026: ma/di/zo 21–05, wo/do/vr 20–05, za 12–05. Eigen site noemt huisnummer 2, Visit Leeuwarden en KvK-aggregator noemen 2a; Doele Bar heeft zelfstandig eigen site en ook 2a. Marker voor 2a verwijderd, nieuw exact adres 2 moet via PDOK worden vastgesteld. Laatste toegang onbekend. Aanvullende controle 31-10-2026: 2026 KvK-aggregator Compadex meldt Sybs op 2A (KvK 97008966, bijgewerkt 29-05-2026), terwijl exploitant Sybs 2 noemt; exploitant Doelebar noemt eveneens 2A. Adresconflict blijft ONOPGELOST; geen geforceerde geocode of samenvoeging. Hercontrole 05-11-2026: https://www.barsybs.nl/ bevestigt nog steeds adres 2 en ma/di/zo 21–05, wo/do/vr 20–05, za 12–05; https://www.visitleeuwarden.com/en/locations/1361140994/bar-sybs vermeldt 2a, terwijl https://doelebar.nl/locatie/ eveneens 2a claimt. BAG-unit en feitelijke ingang blijven onbevestigd; geen marker."
       },
       {
         "id": "bar-yn-e-stal-dronryp-20261102",
@@ -76481,7 +76505,7 @@
       {
         "id": "de-groene-weide-hoorn-terschelling-20261030",
         "name": "De Groene Weide",
-        "reason": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken. | Hercontrole 01-11-2026: exploitantopeningstijden ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Het latere tweede record is verborgen als dubbel; bestaand ID en geocode behouden."
+        "reason": "30-10-2026: eigen https://degroeneweideterschelling.nl/openingstijden/ bevestigt weekrooster, publiek café en avond aan de bar; https://degroeneweideterschelling.nl/contact/ bevestigt Dorpsstraat 81. VVV https://www.vvvterschelling.com/companies/cafe-restaurant-de-groene-weide/ bevestigt tijden. Laatste toegang onbekend; muziekavonden kunnen afwijken. | Hercontrole 01-11-2026: exploitantopeningstijden ma/di/do/zo 11–23, vr/za 11–02, wo gesloten. Het latere tweede record is verborgen als dubbel; bestaand ID en geocode behouden. | Hercontrole 05-11-2026: primaire https://degroeneweideterschelling.nl/ noemt dinsdag GESLOTEN, maar primaire https://degroeneweideterschelling.nl/openingstijden/ en https://degroeneweideterschelling.nl/contact/ noemen dinsdag 11:00–23:00. Dinsdag opening/sluiting daarom '?' tot exploitant bevestigt. Overige weekuren onveranderd. Laatste toegang onbekend."
       },
       {
         "id": "halve-maan-dokkum-a6661d3",
@@ -77601,7 +77625,7 @@
       {
         "id": "de-groene-weide-hoorn-terschelling-20261101",
         "name": "Restaurant Café De Groene Weide",
-        "reason": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend. | DEDUP 01-11-2026: dubbel van de-groene-weide-hoorn-terschelling-20261030; verborgen, gebruik eerdere ID."
+        "reason": "01-11-2026: https://degroeneweideterschelling.nl/ en https://degroeneweideterschelling.nl/openingstijden/ bevestigen heropende zaak Hoorn en weekrooster. https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3792616925/de-groene-weide heeft oudere Hessel/Tess-omschrijving, exploitantwebsite noemt andere huidige uitbaters. Nieuwe opening in 2025 na eerdere sluiting: https://www.headliner.nl/item/hoe-buurman-eelco-op-terschelling-hessels-groene-weide-weer-tot-leven-brengt-iedereen-werd-verdrietig-van-de-donkere-aanblik-dvhn-28652 . Laatste toegang onbekend. | DEDUP 01-11-2026: dubbel van de-groene-weide-hoorn-terschelling-20261030; verborgen, gebruik eerdere ID. | Hercontrole 05-11-2026: primaire https://degroeneweideterschelling.nl/ noemt dinsdag GESLOTEN, maar primaire https://degroeneweideterschelling.nl/openingstijden/ en https://degroeneweideterschelling.nl/contact/ noemen dinsdag 11:00–23:00. Dinsdag opening/sluiting daarom '?' tot exploitant bevestigt. Overige weekuren onveranderd. Laatste toegang onbekend."
       },
       {
         "id": "restaurant-zonneweelde-hoorn-20261101",

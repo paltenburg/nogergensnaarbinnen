@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-05 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-06 uit de locatiedatabase en onderzoeksverslagen.
 
-**2530 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
+**2531 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -318,6 +318,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | badhotelbruin.nl | 2 | 1 |
 | badhuys.com | 2 | 1 |
 | badmeesterkeimpe.nl | 2 | 1 |
+| barsybs.nl | 2 | 1 |
 | barzelle.nl | 2 | 1 |
 | bastaharlingen.nl | 2 | 1 |
 | basuin.nl | 2 | 1 |
@@ -548,7 +549,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | barjosefien.nl | 1 | 1 |
 | barpakhuis.nl | 1 | 1 |
 | barpatine.nl | 1 | 1 |
-| barsybs.nl | 1 | 1 |
 | barwalden.nl | 1 | 1 |
 | beijkcatering.nl | 1 | 1 |
 | belleetnonna.nl | 1 | 1 |
@@ -1121,7 +1121,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### amicaalgrou.nl
 
-- [https://amicaalgrou.nl/](https://amicaalgrou.nl/) — achtergrond, openingstijden, sluitingstijden, website; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: 2026-10-29
+- [https://amicaalgrou.nl/](https://amicaalgrou.nl/) — achtergrond, openingstijden, sluitingstijden, website; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: 2026-11-05
 - [https://amicaalgrou.nl/contact/](https://amicaalgrou.nl/contact/) — achtergrond; Wijn-, Tap- & Eethuis Amicaal; bronveld gecontroleerd: onbekend
 
 ### app.bedrijfsmarkt.nl
@@ -1235,6 +1235,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### barsybs.nl
 
 - [https://barsybs.nl/](https://barsybs.nl/) — achtergrond, sluitingstijden, website; Bar Sybs; bronveld gecontroleerd: onbekend
+- [https://www.barsybs.nl/](https://www.barsybs.nl/) — achtergrond; Bar Sybs; bronveld gecontroleerd: onbekend
 
 ### barwalden.nl
 
@@ -2332,7 +2333,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://degroeneweideterschelling.nl/](https://degroeneweideterschelling.nl/) — website; De Groene Weide, Restaurant Café De Groene Weide; bronveld gecontroleerd: 2026-11-01
 - [https://degroeneweideterschelling.nl/contact/](https://degroeneweideterschelling.nl/contact/) — achtergrond; De Groene Weide, Restaurant Café De Groene Weide; bronveld gecontroleerd: onbekend
-- [https://degroeneweideterschelling.nl/openingstijden/](https://degroeneweideterschelling.nl/openingstijden/) — openingstijden, sluitingstijden; De Groene Weide, Restaurant Café De Groene Weide; bronveld gecontroleerd: 2026-11-01
+- [https://degroeneweideterschelling.nl/openingstijden/](https://degroeneweideterschelling.nl/openingstijden/) — openingstijden, sluitingstijden; De Groene Weide, Restaurant Café De Groene Weide; bronveld gecontroleerd: 2026-11-05
 
 ### deheerenvanderschelling.nl
 
