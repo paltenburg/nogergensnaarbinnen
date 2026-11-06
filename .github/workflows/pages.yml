@@ -7,6 +7,7 @@ on:
       - 'boekhouding/**'
       - 'data/**'
       - 'scripts/geocode.py'
+      - 'scripts/audit_pdok_single_addresses.py'
       - 'tests/**'
       - 'scripts/build_source_registry.py'
       - 'scripts/build_quality_report.py'
@@ -34,8 +35,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Controleer exacte BAG-adresmatching
-        run: python -m unittest discover -s tests -v
+      - name: Controleer exacte BAG-adresmatching en PDOK-auditscript
+        run: |
+          python -m py_compile scripts/geocode.py scripts/audit_pdok_single_addresses.py
+          python -m unittest discover -s tests -v
       - name: Controleer masterdatabase-invarianten
         run: node tests/test_master_integrity.js
       - name: Controleer mobiele regiowissel (synthetische kaart)
