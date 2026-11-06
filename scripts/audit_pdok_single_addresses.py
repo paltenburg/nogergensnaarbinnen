@@ -52,6 +52,9 @@ def inspect(place):
                 "returned_documents": len(docs), "total_documents": total}
     exact = []
     for d in docs:
+        if not isinstance(d, dict):
+            return {"status": "pdok-invalid-document", "query": query,
+                    "returned_documents": len(docs)}
         if d.get("type") != "adres" or norm(d.get("woonplaatsnaam")) != norm(town):
             continue
         if municipality and norm(d.get("gemeentenaam")) != norm(municipality):
