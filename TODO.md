@@ -1,3 +1,9 @@
+### Checkpoint 2026-11-07 11:33 CET — Friese markerachterstand geografisch geordend
+
+Actuele TODO, leidende uitvoeringsstrategie, index.html en master opnieuw gelezen via actuele GitHub-blob-SHA. Master: 768 locaties, Utrecht 224, Friesland 544. **Alle 54 Friese records zonder geocode statisch geïnspecteerd en per plaats geordend (36 plaatsen)** in [reports/friesland-geocode-per-plaats-2026-11-07.md](reports/friesland-geocode-per-plaats-2026-11-07.md), commit [6ad1b1e](https://github.com/paltenburg/nogergensnaarbinnen/commit/6ad1b1eca283422120554ba8a128a4522db9a1c7). Hoogste aantallen: Leeuwarden 6, Drachten 4, Sneek en Anjum elk 3. Dit is een nieuwe uitvoerbare adreswerkvolgorde, **geen live BAG-verificatie**. Geen nieuwe zaken, geocodes of correcties. Master JSON geparseerd; 768 records, beide regio's. Geen CI-, Pages-, browser- of mobiele test. W46 nog niet verschuldigd vóór 09-11-2026 10:00 CET.
+
+**Volgende concrete actie:** begin met Leeuwarden (Eewal 50–52, Oude Doelesteeg 2 en 2A, overige in rapport), daarna Drachten en Sneek; verifieer iedere huisnummerreeks/huisletter met PDOK BAG en exploitantadres alvorens coördinaten toe te voegen. Ga daarna verder met D0 en mobiele B2/B4-tests. Friesland D0 blijft open; live deployment niet geverifieerd.
+
 ### Checkpoint 2026-11-07 10:10 CET — Harlingen, Blokhuispoort en Ameland: gerichte broncontrole
 
 Actuele TODO, leidende uitvoeringsstrategie, index.html en master via GitHub-SHA/blob gelezen. Master: 768 records, regio's Utrecht (224) en Friesland (544). **Drie Friese adressen gecontroleerd, vier bestaande horecaconcepten in master betrokken; nul nieuwe locaties, nul geverifieerde nieuwe weeksluituren, nul masterwijzigingen.** W46 is nog niet verschuldigd (start maandag 09-11 10:00 CET). Dit is D0-/adresverificatie, geen W46-audit.
