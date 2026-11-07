@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-06",
+  "generated_on": "2026-11-07",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 768,
@@ -209,11 +209,6 @@
       "linked_venues": 22
     },
     {
-      "domain": "ontdek-utrecht.nl",
-      "source_pages": 21,
-      "linked_venues": 38
-    },
-    {
       "domain": "restaurantguru.com",
       "source_pages": 21,
       "linked_venues": 21
@@ -222,6 +217,11 @@
       "domain": "hfsfreelancers.nl",
       "source_pages": 20,
       "linked_venues": 20
+    },
+    {
+      "domain": "ontdek-utrecht.nl",
+      "source_pages": 20,
+      "linked_venues": 37
     },
     {
       "domain": "oozo.nl",
@@ -2099,6 +2099,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "le.bow.ski",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "leeuwarden058.nl",
       "source_pages": 2,
       "linked_venues": 2
@@ -3455,11 +3460,6 @@
     },
     {
       "domain": "grandcafekreas.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "grandcafelebowski.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -34321,32 +34321,6 @@
       "needs_review": true
     },
     {
-      "url": "https://grandcafelebowski.nl/",
-      "domain": "grandcafelebowski.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "website"
-      ],
-      "venues": [
-        {
-          "id": "lebowski-4b66c94",
-          "name": "Lebowski",
-          "roles": [
-            "website"
-          ],
-          "checked_on": {
-            "website": "2026-10-26"
-          },
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": "2026-10-26",
-      "linked_venue_count": 1,
-      "needs_review": false
-    },
-    {
       "url": "https://grandcafeliving.nl/utrecht/",
       "domain": "grandcafeliving.nl",
       "first_registered_on": "2026-10-26",
@@ -42728,6 +42702,60 @@
       "needs_review": true
     },
     {
+      "url": "https://le.bow.ski/",
+      "domain": "le.bow.ski",
+      "first_registered_on": "2026-11-07",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "lebowski-4b66c94",
+          "name": "Lebowski",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-11-06"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-06",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://le.bow.ski/contact/",
+      "domain": "le.bow.ski",
+      "first_registered_on": "2026-11-07",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "lebowski-4b66c94",
+          "name": "Lebowski",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-06"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-06",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://www.leclochard-utrecht.nl/",
       "domain": "leclochard-utrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -47590,34 +47618,6 @@
         {
           "id": "klein-berlijn-3f60cdd",
           "name": "Klein Berlijn",
-          "roles": [
-            "openingstijden",
-            "sluitingstijden"
-          ],
-          "checked_on": {
-            "openingstijden": "2026-10-26"
-          },
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": "2026-10-26",
-      "linked_venue_count": 1,
-      "needs_review": false
-    },
-    {
-      "url": "https://www.ontdek-utrecht.nl/locatie/lebowski",
-      "domain": "ontdek-utrecht.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "openingstijden",
-        "sluitingstijden"
-      ],
-      "venues": [
-        {
-          "id": "lebowski-4b66c94",
-          "name": "Lebowski",
           "roles": [
             "openingstijden",
             "sluitingstijden"
@@ -61156,7 +61156,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "ledig-erf-a4ba764",
@@ -64653,7 +64653,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "ledig-erf-a4ba764",
@@ -71023,12 +71023,12 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-11-01"
+            "website": "2026-11-07"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-11-01",
+      "last_data_field_checked_on": "2026-11-07",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -71051,13 +71051,13 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-11-01",
-            "openingstijden": "2026-11-01"
+            "sluitingstijden": "2026-11-07",
+            "openingstijden": "2026-11-07"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-11-01",
+      "last_data_field_checked_on": "2026-11-07",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -75995,7 +75995,7 @@
       {
         "id": "cafe-de-lits-rottevalle-27df1a4",
         "name": "Café De Lits",
-        "reason": "Uitagenda noemt Café De Lits Brouwersgrêft 2 vooral snackbar; https://snackbarindebuurt.nl/snackbars-in-rottevalle/cafe-de-lits-in-rottevalle/ geeft do–zo 17–19:30, waarschijnlijk afhaaluren. Geen primaire café-/alcoholbron. Niet standaard tonen; opening/laatste toegang onbekend."
+        "reason": "Uitagenda noemt Café De Lits Brouwersgrêft 2 vooral snackbar; https://snackbarindebuurt.nl/snackbars-in-rottevalle/cafe-de-lits-in-rottevalle/ geeft do–zo 17–19:30, waarschijnlijk afhaaluren. Geen primaire café-/alcoholbron. Niet standaard tonen; opening/laatste toegang onbekend. | Controle 06-11-2026: https://restaurantguru.com/Cafe-De-Lits-Rottevalle toont recensies over afhalen/eten en dezelfde do–zo 17:00–19:30 als snackbargids. Ondersteunt cafetariafunctie, NIET publieke alcoholinloop; cafétijden blijven onbekend."
       },
       {
         "id": "cafe-de-nachtwacht-leeuwarden-20261031",
@@ -76005,7 +76005,7 @@
       {
         "id": "cafe-de-otterbar-witmarsum-52640a7",
         "name": "Café De Otterbar",
-        "reason": "OSM-afgeleide kaart noemt Cafe de Otterbar op Pingjumerstraat 21, Uitgaanskaart vermeldt dezelfde naam. Geen actuele officiële website of opening bevestigd 30-10-2026. Uren/laatste toegang onbekend."
+        "reason": "OSM-afgeleide kaart noemt Cafe de Otterbar op Pingjumerstraat 21, Uitgaanskaart vermeldt dezelfde naam. Geen actuele officiële website of opening bevestigd 30-10-2026. Uren/laatste toegang onbekend. | Controle 06-11-2026: https://streets.openalfa.nl/streets/merkelan-witmarsum-sudwest-fryslan noemt dezelfde cafénaam en Pingjumerstraat 21; OSM-afgeleide herhaling, geen onafhankelijk exploitatiebewijs."
       },
       {
         "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
@@ -76200,7 +76200,7 @@
       {
         "id": "cafe-kompenije-drachtstercompagnie-d0e56eb",
         "name": "Café Kompenije",
-        "reason": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend. 01-11-2026: dorpsagenda kondigt Rocknight 2026 in Kafe Kompenije op zaterdag 07-11 om 19:30 aan. Dit is een aanvang van een evenement, GEEN reguliere caféopening of bewezen einduur; niets als vast rooster overgenomen. | Controle 02-11-2026: dorpsblad De Barte nr. 178 (https://drachtstercompagnie.frl/wp-content/uploads/2025/01/Barte-178.pdf) bevat interview met uitbater Pieter Bron over behoud en exploitatie van het dorpscafé, snacks en publiek bezoek. Een 2026-evenement bevestigt gebruik als locatie, niet het reguliere weekrooster. Externe gidsen geven onderling afwijkende tijden; niets overgenomen."
+        "reason": "Concert op 31-10-2026 20:00–22:30 in Café Kompenije, Alde Wei 14, volgens lokale brassband. Bewijst evenementgebruik maar niet standaard publieke inloop of sluiting. Eigen officiële site niet gevonden, tijden/laatste toegang onbekend. 01-11-2026: dorpsagenda kondigt Rocknight 2026 in Kafe Kompenije op zaterdag 07-11 om 19:30 aan. Dit is een aanvang van een evenement, GEEN reguliere caféopening of bewezen einduur; niets als vast rooster overgenomen. | Controle 02-11-2026: dorpsblad De Barte nr. 178 (https://drachtstercompagnie.frl/wp-content/uploads/2025/01/Barte-178.pdf) bevat interview met uitbater Pieter Bron over behoud en exploitatie van het dorpscafé, snacks en publiek bezoek. Een 2026-evenement bevestigt gebruik als locatie, niet het reguliere weekrooster. Externe gidsen geven onderling afwijkende tijden; niets overgenomen. | Controle 06-11-2026: dorpsblad De Barte nr. 185 (https://drachtstercompagnie.frl/wp-content/uploads/2026/04/De-Barte-185-januari-2026_spread.pdf) agendeert IJsclub-ledenvergadering 04-02 en toneel 07-02 in Café Kompenije. Aanvullend bewijs van gebruik als dorpslocatie in 2026, niet van dagelijks caférooster of laatste toegang."
       },
       {
         "id": "cafe-le-duc-lemmer-adc5a8b",
@@ -77408,6 +77408,11 @@
         "reason": "02-11-2026: officiële https://www.leprovence.nl/ noemt Schaapmarktplein 1 en dagelijks 10–18; via eigen site gelinkte https://static1.squarespace.com/static/5b72b3c12714e53097c6ebc4/t/62a62fb72ca5697f2d55a3d7/1655058360278/Drankenkaart%2BLe%2BProvence%2BApril%2B2022.pdf vermeldt cocktails, wijn en sterke drank maar dateert van 2022. Gids https://bestrestos.nl/restaurant/le-provence-sneek-3504 (update 20-10-2026) noemt andere tijden, daarom exploitantwebsite aangehouden. Actueel alcoholassortiment, vrije borrelinloop en laatste toegang nog niet bevestigd; verborgen. Geen marker verzonnen."
       },
       {
+        "id": "lebowski-4b66c94",
+        "name": "Lebowski",
+        "reason": "06-11-2026: eigen contactpagina vermeldt ma–wo 12–01, do 12–02, vr/za 12–03 en zo 12–01. Wijkt af van oudere regiogids (za 02, zo 00). Laatste toegang niet vermeld. Speakeasy heeft geen afzonderlijk bevestigd rooster."
+      },
+      {
         "id": "lebowskis-speakeasy-2a1a46d",
         "name": "Lebowski’s Speakeasy",
         "reason": "Aparte bar in hetzelfde pand als Grand Café Lebowski; geen eigen gecontroleerde sluitingstijden beschikbaar."
@@ -78045,7 +78050,7 @@
       {
         "id": "weids-bolsward-20261101",
         "name": "Weids",
-        "reason": "01-11-2026: eigen homepage/contact bevestigen Snekerstraat 2, dagelijks 10–22, café en publieke inloop. Eigen borrelpagina noemt borrels in het café, maar geen afzonderlijke laatste toegang of concrete dranksoorten. Untappd augustus 2026 biercheck-ins zijn bezoekerbijdragen, geen bedrijfseigen menukaart. Heropening van oude De Groene Weide als Weids op 04-12-2025 door lokale journalistiek bevestigd; geen dubbel historisch record."
+        "reason": "01-11-2026: eigen homepage/contact bevestigen Snekerstraat 2, dagelijks 10–22, café en publieke inloop. Eigen borrelpagina noemt borrels in het café, maar geen afzonderlijke laatste toegang of concrete dranksoorten. Untappd augustus 2026 biercheck-ins zijn bezoekerbijdragen, geen bedrijfseigen menukaart. Heropening van oude De Groene Weide als Weids op 04-12-2025 door lokale journalistiek bevestigd; geen dubbel historisch record. Hercontrole 07-11-2026: https://weidsbolsward.nl/ bevestigt opnieuw adres Snekerstraat 2 en dagelijks 10:00–22:00; afzonderlijke laatste toegang en specifieke cafébar-eindtijd blijven onbekend."
       },
       {
         "id": "wijn-tap-eethuis-amicaal-grou-090fbca",

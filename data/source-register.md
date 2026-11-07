@@ -1,6 +1,6 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-06 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-07 uit de locatiedatabase en onderzoeksverslagen.
 
 **2531 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
 
@@ -56,9 +56,9 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | uitagenda.nl | 23 | 94 |
 | uitgaanskaart.nl | 23 | 165 |
 | visitwadden.nl | 23 | 22 |
-| ontdek-utrecht.nl | 21 | 38 |
 | restaurantguru.com | 21 | 21 |
 | hfsfreelancers.nl | 20 | 20 |
+| ontdek-utrecht.nl | 20 | 37 |
 | oozo.nl | 20 | 17 |
 | allecijfers.nl | 18 | 22 |
 | nl.restaurantguru.com | 17 | 17 |
@@ -434,6 +434,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | kroeg.aldeste.nl | 2 | 1 |
 | krommeknilles.nl | 2 | 1 |
 | landhuisindestad.nl | 2 | 1 |
+| le.bow.ski | 2 | 1 |
 | leeuwarden058.nl | 2 | 2 |
 | lefebvre.nl | 2 | 1 |
 | lejournal.nl | 2 | 1 |
@@ -706,7 +707,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | glartent.com | 1 | 1 |
 | go-kids.nl | 1 | 1 |
 | grandcafekreas.nl | 1 | 1 |
-| grandcafelebowski.nl | 1 | 1 |
 | grandcafeliving.nl | 1 | 1 |
 | grasvandeburen.nl | 1 | 1 |
 | grootcafemnzusje.wixsite.com | 1 | 1 |
@@ -3241,10 +3241,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://grandcafekreas.nl/](https://grandcafekreas.nl/) — website; Grand Café Kreas; bronveld gecontroleerd: 2026-11-02
 
-### grandcafelebowski.nl
-
-- [https://grandcafelebowski.nl/](https://grandcafelebowski.nl/) — website; Lebowski; bronveld gecontroleerd: 2026-10-26
-
 ### grandcafeliving.nl
 
 - [https://grandcafeliving.nl/utrecht/](https://grandcafeliving.nl/utrecht/) — openingstijden, sluitingstijden, website; Grand Café LIVING Utrecht; bronveld gecontroleerd: 2026-10-26
@@ -3946,6 +3942,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.lc.nl/regio/friesland/leeuwarden/restaurant-de-gouverneur-opent-op-iconische-plek-in-het-centrum-van-leeuwarden-droom-komt-uit/156396143.html](https://www.lc.nl/regio/friesland/leeuwarden/restaurant-de-gouverneur-opent-op-iconische-plek-in-het-centrum-van-leeuwarden-droom-komt-uit/156396143.html) — achtergrond; De Gouverneur; bronveld gecontroleerd: onbekend
 - [https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece](https://www.lc.nl/regio/friesland/sudwest-fryslan/article157596450.ece) — achtergrond; Café 't Skûtsje; bronveld gecontroleerd: onbekend
 
+### le.bow.ski
+
+- [https://le.bow.ski/](https://le.bow.ski/) — website; Lebowski; bronveld gecontroleerd: 2026-11-06
+- [https://le.bow.ski/contact/](https://le.bow.ski/contact/) — openingstijden, sluitingstijden; Lebowski; bronveld gecontroleerd: 2026-11-06
+
 ### leclochard-utrecht.nl
 
 - [https://www.leclochard-utrecht.nl/](https://www.leclochard-utrecht.nl/) — website; Bar en Bistro Le Clochard; bronveld gecontroleerd: 2026-10-26
@@ -4367,7 +4368,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.ontdek-utrecht.nl/locatie/de-drie-dorstige-herten/](https://www.ontdek-utrecht.nl/locatie/de-drie-dorstige-herten/) — achtergrond, openingstijden, sluitingstijden; De Drie Dorstige Herten; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/kaasbar-utrecht/](https://www.ontdek-utrecht.nl/locatie/kaasbar-utrecht/) — openingstijden, sluitingstijden; Kaasbar; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/klein-berlijn/](https://www.ontdek-utrecht.nl/locatie/klein-berlijn/) — openingstijden, sluitingstijden; Klein Berlijn; bronveld gecontroleerd: 2026-10-26
-- [https://www.ontdek-utrecht.nl/locatie/lebowski](https://www.ontdek-utrecht.nl/locatie/lebowski) — openingstijden, sluitingstijden; Lebowski; bronveld gecontroleerd: 2026-10-26
 - [https://www.ontdek-utrecht.nl/locatie/restaurant-moos](https://www.ontdek-utrecht.nl/locatie/restaurant-moos) — achtergrond; MOOS Utrecht; bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/locatie/rocking-chair/](https://www.ontdek-utrecht.nl/locatie/rocking-chair/) — achtergrond; Rocking Chair; bronveld gecontroleerd: onbekend
 - [https://www.ontdek-utrecht.nl/locatie/sevilla/](https://www.ontdek-utrecht.nl/locatie/sevilla/) — achtergrond; Sevilla Utrecht; bronveld gecontroleerd: onbekend
@@ -5989,8 +5989,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### weidsbolsward.nl
 
-- [https://weidsbolsward.nl/](https://weidsbolsward.nl/) — website; Weids; bronveld gecontroleerd: 2026-11-01
-- [https://weidsbolsward.nl/contact/](https://weidsbolsward.nl/contact/) — openingstijden, sluitingstijden; Weids; bronveld gecontroleerd: 2026-11-01
+- [https://weidsbolsward.nl/](https://weidsbolsward.nl/) — website; Weids; bronveld gecontroleerd: 2026-11-07
+- [https://weidsbolsward.nl/contact/](https://weidsbolsward.nl/contact/) — openingstijden, sluitingstijden; Weids; bronveld gecontroleerd: 2026-11-07
 - [https://weidsbolsward.nl/feesten/borrel/](https://weidsbolsward.nl/feesten/borrel/) — achtergrond; Weids; bronveld gecontroleerd: onbekend
 
 ### weldadigoord.nl
