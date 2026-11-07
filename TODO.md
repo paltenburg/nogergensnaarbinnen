@@ -1,3 +1,9 @@
+### Checkpoint 2026-11-07 03:41 CET — statisch kwaliteitsrapport en geocode-werkvoorraad
+
+Actuele TODO inclusief leidende uitvoeringsstrategie en master gelezen. **768 records** (Utrecht 224, Friesland 544), unieke IDs; twee actieve regio's. Een nieuw, uitsluitend uit de master afgeleid [kwaliteitsrapport](reports/quality-snapshot-2026-11-07.md) is werkelijk opgeslagen in commit `dee70acb25354e2fe4a8cd41d802cb4a8958b2f2`. Het bevat de aantallen onzekere records, lege websites en ontbrekende coördinaten per regio, plus de **54 exacte Friese venue-IDs zonder coördinaten** als uitvoerbare wachtrij. **0 zaken extern onderzocht, 0 toegevoegd, 0 gecorrigeerd** in deze checkpoint. Geen nieuwe bronnen of verificatiedatums geclaimd; dit is geen W46-audit (vanaf maandag 09-11 10:00 CET). Geen CI-, BAG-, mobiele of Pages-deploymenttest gedaan; live publicatie niet geverifieerd.
+
+**Direct vervolg:** werk de 54 geocodekandidaten uit het rapport af met echte PDOK/BAG-lookup en publieksingangcontrole; pak parallel nieuwe Friese D0-exploitantverificaties (o.a. De Hut van Oom Tom / Het Anker / Sportbar de Middelzee in Bolsward). Houd 25 enkelvoudige BAG-adressen, 14 reeksen en 27 blokkades afzonderlijk bij; B2/B4 echte mobiele tests blijven open. D0 en landelijke uitbreiding niet afgerond.
+
 ### Checkpoint 2026-11-07 02:37 CET — Bolsward brontriage en overlap Bargefenne 11
 
 Actuele TODO en master via GitHub SHA/blob gelezen. Master: **768 records** (Utrecht 224, Friesland 544); structurele dekking nu 110 Friese records met `Nog te controleren`, 117 zonder website, 54 zonder geocode; Utrecht 17/67/12 respectievelijk. Dit is een **statische telling**, geen externe verificatie van alle records. Geen W46-audit: start maandag 09-11 10:00 CET.
