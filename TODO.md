@@ -1,3 +1,14 @@
+### Checkpoint 2026-11-07 02:37 CET — Bolsward brontriage en overlap Bargefenne 11
+
+Actuele TODO en master via GitHub SHA/blob gelezen. Master: **768 records** (Utrecht 224, Friesland 544); structurele dekking nu 110 Friese records met `Nog te controleren`, 117 zonder website, 54 zonder geocode; Utrecht 17/67/12 respectievelijk. Dit is een **statische telling**, geen externe verificatie van alle records. Geen W46-audit: start maandag 09-11 10:00 CET.
+
+**Nieuwe externe brontriage 07-11-2026, Bolsward: 2 bestaande onzekere records plus één naam-/adresconflict. 0 toegevoegd, 0 gecorrigeerd, 0 actuele exploitant-weekroosters bevestigd.**
+- **Café It Kin Net**, Bargefenne 11, ID `cafe-it-kin-net-bolsward-75feb60`: https://uitgaanskaart.nl/cafe/bolsward noemt deze naam/adres maar geeft geen actueel exploitantbewijs. Lokale gids https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/ noemt op dezelfde straat **Café De Tempelier**; bedrijfsprofiel https://www.compadex.com/nl/businesses/nl/de-tempelier-63007002-56025459 noemt **De Tempelier op exact Bargefenne 11**, met KvK-afgeleide gegevens bijgewerkt 12-02-2026. Historische https://www.allebiz.nl/caf%C3%A9-t-caf%C3%A9-0515-569-002 noemt op dat adres ook Café 't Café als gesloten. **Onopgeloste naams-/opvolgingskwestie**, geen tweede record toevoegen of bestaande ID hernoemen zonder exploitantbewijs; tijden onbekend.
+- **Grand Café Bullock**, Gysbert Japicxlaan 9, ID `grand-cafe-bullock-bolsward-e66a509`: alleen de categorie-/adresvermelding https://uitgaanskaart.nl/cafe/bolsward in deze controle gevonden; geen primaire actuele exploitant of weekrooster bevestigd. Onzekerheidsstatus blijft.
+- **Bolsward ontdekkingstriage:** https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/ noemt ook De Drie Koningen, Blend, Veerhuys, Wijnberg en Weids; die zijn **reeds als afzonderlijke records aanwezig**. Geen duplicaten aangemaakt. De Tempelier is geen bewezen nieuwe locatie door Bargefenne 11-overlap.
+
+**Vervolg exact:** primair bewijs (uitbater, gedateerde eigen post of actueel vergunningregister) voor identiteit/exploitatie Bargefenne 11 en Bullock; daarna overige onzekere Bolsward-zaken De Hut van Oom Tom / Het Anker / Sportbar de Middelzee, vervolgens Friese D0 en PDOK/BAG (25 enkelvoudige adressen, 14 reeksen, 27 blokkades), mobiele B2-test. Geen code-, CI-, BAG-, Pages- of echte mobiele test gedaan. Friesland D0 en landelijke uitbreiding blijven open.
+
 ### Checkpoint 2026-11-07 02:07 CET — Harlingen/Heerenveen broncontrole (3 bestaande records)
 
 Actuele TODO en master gelezen (768 records; Utrecht 224, Friesland 544). **Drie bestaande records opnieuw extern onderzocht**, zonder nieuw officieel november-weekrooster of sluitings-/laatste-toegangbewijs. **0 toegevoegd, 0 datacorrecties.** Geen W46-audit: verschuldigd vanaf 09-11 10:00 CET.
