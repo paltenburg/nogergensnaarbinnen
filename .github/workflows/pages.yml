@@ -40,7 +40,9 @@ jobs:
           python -m py_compile scripts/geocode.py scripts/audit_pdok_single_addresses.py
           python -m unittest discover -s tests -v
       - name: Controleer masterdatabase-invarianten
-        run: node tests/test_master_integrity.js
+        run: |
+          node tests/test_master_integrity.js
+          node tests/test_venue_identity_uniqueness.js
       - name: Controleer mobiele regiowissel (synthetische kaart)
         run: node tests/test_map_region_sync.js
       - name: Controleer datumgebonden sluitingen
