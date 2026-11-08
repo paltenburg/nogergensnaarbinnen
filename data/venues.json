@@ -12676,16 +12676,16 @@
         "https://www.compadex.com/nl/businesses/nl/kafee-8-57816018-24652164",
         "https://www.cylex.nl/bedrijf/kafee-8-12715565.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Exploitantwebsite met doorlopende karaoke op donderdag en eigen evenementenagenda met optredens in 2026 gecontroleerd op 2026-11-08; dit ondersteunt actuele publieke exploitatie, maar bevestigt geen live opening op een specifieke avond.",
       "geo": {
         "lat": 53.1071838,
         "lon": 6.1032988,
         "method": "PDOK BAG-adres",
         "matched_address": "Noordkade 47, 9203CE Drachten"
       },
-      "website_checked_on": "2026-10-30",
-      "website_provenance": "Eigen website gecontroleerd op 2026-10-30 voor naam, adres en horeca.",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-08",
+      "website_provenance": "Eigen homepage en agenda 2026-11-08: Noordkade 47, reguliere bar-dancing, donderdagkaraoke en gepubliceerde 2026-DJ-avonden. https://www.kafee8.nl/agenda/; exacte einduren en laatste toegang niet gepubliceerd.",
+      "checked_on": "2026-11-08",
       "opening": {
         "ma": "?",
         "di": "?",
