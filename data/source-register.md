@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-07 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-08 uit de locatiedatabase en onderzoeksverslagen.
 
-**2531 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **768 locaties**.
+**2532 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **769 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -374,6 +374,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | deskoffel.nl | 2 | 1 |
 | destee.nl | 2 | 1 |
 | deturf.nl | 2 | 1 |
+| dewalrus.nl | 2 | 2 |
 | dewatersport.nl | 2 | 1 |
 | dewelvaartameland.nl | 2 | 1 |
 | dewinze.nl | 2 | 1 |
@@ -659,7 +660,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | detapperijlangweer.nl | 1 | 1 |
 | deutrechter.nl | 1 | 1 |
 | dewadden.nl | 1 | 1 |
-| dewalrussneek.nl | 1 | 1 |
 | dewoudzangers.nl | 1 | 1 |
 | dezaak-utrecht.nl | 1 | 1 |
 | dezaak.cafe | 1 | 1 |
@@ -2552,9 +2552,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/](https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/) — achtergrond; Grand Café de Waegh; bronveld gecontroleerd: onbekend
 - [https://www.dewaeghdokkum.nl/over-de-waegh/](https://www.dewaeghdokkum.nl/over-de-waegh/) — achtergrond; Grand Café de Waegh; bronveld gecontroleerd: onbekend
 
-### dewalrussneek.nl
+### dewalrus.nl
 
-- [https://www.dewalrussneek.nl/](https://www.dewalrussneek.nl/) — website; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
+- [https://www.dewalrus.nl/](https://www.dewalrus.nl/) — openingstijden, sluitingstijden, website; Grand Café De Walrus; bronveld gecontroleerd: 2026-11-08
+- [https://www.dewalrus.nl/leeuwarden](https://www.dewalrus.nl/leeuwarden) — openingstijden, sluitingstijden, website; Grand Café De Walrus; bronveld gecontroleerd: 2026-11-08
 
 ### dewarejakob.nl
 
@@ -2638,8 +2639,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### doelebar.nl
 
-- [https://doelebar.nl/](https://doelebar.nl/) — website; De Doelebar; bronveld gecontroleerd: 2026-10-31
-- [https://doelebar.nl/locatie/](https://doelebar.nl/locatie/) — achtergrond, openingstijden, sluitingstijden; Bar Sybs, De Doelebar; bronveld gecontroleerd: 2026-10-31
+- [https://doelebar.nl/](https://doelebar.nl/) — website; De Doelebar; bronveld gecontroleerd: 2026-11-07
+- [https://doelebar.nl/locatie/](https://doelebar.nl/locatie/) — achtergrond, openingstijden, sluitingstijden; Bar Sybs, De Doelebar; bronveld gecontroleerd: 2026-11-07
 
 ### dokkum.nl
 
@@ -3803,7 +3804,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### kafee8.nl
 
-- [https://www.kafee8.nl/](https://www.kafee8.nl/) — openingstijden, sluitingstijden, website; Kafee 8; bronveld gecontroleerd: 2026-10-30
+- [https://www.kafee8.nl/](https://www.kafee8.nl/) — openingstijden, sluitingstijden, website; Kafee 8; bronveld gecontroleerd: 2026-11-08
 
 ### kanaal30.mom
 
@@ -5957,7 +5958,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://www.waterlandvanfriesland.nl/nl/locaties/1845110757/paviljoen-strand-sneek](https://www.waterlandvanfriesland.nl/nl/locaties/1845110757/paviljoen-strand-sneek) — achtergrond; Strand Sneek; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1](https://www.waterlandvanfriesland.nl/nl/locaties/1896387451/eetcafe-de-pleats-1) — achtergrond; Eetcafé De Pleats; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2349967872/grand-cafe-de-alde-stempel](https://www.waterlandvanfriesland.nl/nl/locaties/2349967872/grand-cafe-de-alde-stempel) — achtergrond; Grand café De Alde Stempel; bronveld gecontroleerd: onbekend
-- [https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1](https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1) — achtergrond, openingstijden, sluitingstijden; Grand Café De Walrus; bronveld gecontroleerd: 2026-10-29
+- [https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1](https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1) — achtergrond; Grand Café De Walrus; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat](https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat) — achtergrond; 't Ouwe Vat; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2432735054/bodega-y-tapas](https://www.waterlandvanfriesland.nl/nl/locaties/2432735054/bodega-y-tapas) — achtergrond; Bodega y Tapas Sneek; bronveld gecontroleerd: onbekend
 - [https://www.waterlandvanfriesland.nl/nl/locaties/2611067957/paviljoen-restaurant-badmeester-keimpe](https://www.waterlandvanfriesland.nl/nl/locaties/2611067957/paviljoen-restaurant-badmeester-keimpe) — achtergrond; Paviljoen Restaurant Badmeester Keimpe; bronveld gecontroleerd: onbekend

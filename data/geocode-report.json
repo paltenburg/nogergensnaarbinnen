@@ -1,7 +1,7 @@
 {
-  "total": 768,
+  "total": 769,
   "with_coordinates": 702,
-  "without_coordinates": 66,
+  "without_coordinates": 67,
   "added_in_this_run": 0,
   "unmatched": [
     {
@@ -387,6 +387,12 @@
       "address": "Koaidyk 10",
       "city": "Earnewâld",
       "reason": "address-unverified"
+    },
+    {
+      "name": "Grand Café De Walrus",
+      "address": "Gouverneursplein 37",
+      "city": "Leeuwarden",
+      "reason": "no-exact-PDOK-match"
     }
   ]
 }

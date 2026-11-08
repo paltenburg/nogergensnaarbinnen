@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-07",
+  "generated_on": "2026-11-08",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
-    "venues": 768,
-    "source_urls": 2531,
+    "venues": 769,
+    "source_urls": 2532,
     "domains": 894,
-    "direct_website_fields": 584
+    "direct_website_fields": 585
   },
   "discovery_sites": [
     {
@@ -1799,6 +1799,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "dewalrus.nl",
+      "source_pages": 2,
+      "linked_venues": 2
+    },
+    {
       "domain": "dewatersport.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -3220,11 +3225,6 @@
     },
     {
       "domain": "dewadden.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "dewalrussneek.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -25475,12 +25475,14 @@
       "needs_review": true
     },
     {
-      "url": "https://www.dewalrussneek.nl/",
-      "domain": "dewalrussneek.nl",
-      "first_registered_on": "2026-10-29",
+      "url": "https://www.dewalrus.nl/",
+      "domain": "dewalrus.nl",
+      "first_registered_on": "2026-11-08",
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
+        "sluitingstijden",
         "website"
       ],
       "venues": [
@@ -25488,17 +25490,53 @@
           "id": "grand-cafe-de-walrus-sneek-4998266",
           "name": "Grand Café De Walrus",
           "roles": [
+            "openingstijden",
+            "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-29"
+            "website": "2026-11-08",
+            "sluitingstijden": "2026-11-08",
+            "openingstijden": "2026-11-08"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": "2026-11-08",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
+    },
+    {
+      "url": "https://www.dewalrus.nl/leeuwarden",
+      "domain": "dewalrus.nl",
+      "first_registered_on": "2026-11-08",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "grand-cafe-de-walrus-leeuwarden-20261108",
+          "name": "Grand Café De Walrus",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-11-08",
+            "sluitingstijden": "2026-11-08",
+            "openingstijden": "2026-11-08"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-08",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://dewarejakob.nl/",
@@ -26293,12 +26331,12 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-31"
+            "website": "2026-11-07"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-31",
+      "last_data_field_checked_on": "2026-11-07",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -26331,13 +26369,13 @@
             "sluitingstijden"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-10-31",
-            "openingstijden": "2026-10-31"
+            "sluitingstijden": "2026-11-07",
+            "openingstijden": "2026-11-07"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-31",
+      "last_data_field_checked_on": "2026-11-07",
       "linked_venue_count": 2,
       "needs_review": true
     },
@@ -41284,13 +41322,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-30",
+            "website": "2026-11-08",
             "openingstijden": "2026-10-30"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-30",
+      "last_data_field_checked_on": "2026-11-08",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -63024,7 +63062,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "grand-cafe-het-plein-sneek-b93134f",
@@ -70455,28 +70493,22 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "achtergrond",
-        "openingstijden",
-        "sluitingstijden"
+        "achtergrond"
       ],
       "venues": [
         {
           "id": "grand-cafe-de-walrus-sneek-4998266",
           "name": "Grand Café De Walrus",
           "roles": [
-            "achtergrond",
-            "openingstijden",
-            "sluitingstijden"
+            "achtergrond"
           ],
-          "checked_on": {
-            "openingstijden": "2026-10-29"
-          },
-          "needs_review": false
+          "checked_on": {},
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://www.waterlandvanfriesland.nl/nl/locaties/2402844577/cafe-t-ouwe-vat",
@@ -76475,7 +76507,7 @@
       {
         "id": "de-doelebar-leeuwarden-20261031",
         "name": "De Doelebar",
-        "reason": "31-10-2026: eigen https://doelebar.nl/ en https://doelebar.nl/locatie/ rechtstreeks gecontroleerd. Eigen telefoon 058-2133213 en bierkaart onderscheiden deze onderneming van Bar Sybs. Adres 2A op eigen site, maar Visit Leeuwarden en KvK-aggregator noemen ook Bar Sybs op 2A terwijl Sybs eigen site 2 noemt; fysieke ingangen/unit nog niet onafhankelijk bewezen. Daarom géén marker totdat exacte deur en BAG-unit gecontroleerd zijn."
+        "reason": "07-11-2026: eigen https://doelebar.nl/ en https://doelebar.nl/locatie/ opnieuw rechtstreeks gecontroleerd; rooster ongewijzigd. Eigen telefoon 058-2133213 en bierkaart onderscheiden deze onderneming van Bar Sybs. Adres 2A op eigen site, maar Visit Leeuwarden en KvK-aggregator noemen ook Bar Sybs op 2A terwijl Sybs eigen site 2 noemt; fysieke ingangen/unit nog niet onafhankelijk bewezen. Daarom géén marker totdat exacte deur en BAG-unit gecontroleerd zijn."
       },
       {
         "id": "cafe-de-zomer-west-terschelling-54c8f87",
@@ -77031,6 +77063,16 @@
         "id": "grand-cafe-de-waegh-dokkum-7305178",
         "name": "Grand Café de Waegh",
         "reason": "Officiële homepage 30-10-2026: dagelijks open, di–za vanaf 10:00 en zo/ma vanaf 11:30, zonder sluitingsuren. Een andere eigen URL https://www.dewaeghdokkum.nl/grand-cafe-de-waegh-gesloten/ toont historisch/feestdagenmateriaal en 10–17; externe gidsen melden 00:00. Niet duidelijk wat actueel is, dus geen eindtijd ingevuld. Laatste toegang onbekend. 31-10-2026: eigen bierkaart, wijnkaart en over-ons-pagina geverifieerd; sluituren onveranderd onbekend wegens conflicterende oude pagina."
+      },
+      {
+        "id": "grand-cafe-de-walrus-sneek-4998266",
+        "name": "Grand Café De Walrus",
+        "reason": "Elke dag tot 01:00 volgens Waterland van Friesland, 29 oktober 2026. | 08-11-2026: officiële https://www.dewalrus.nl/ noemt dagelijks 10:00–01:00, ook maandag en zondag (eerder 11:00 in database); geen afzonderlijke laatste toegang vermeld."
+      },
+      {
+        "id": "grand-cafe-de-walrus-leeuwarden-20261108",
+        "name": "Grand Café De Walrus",
+        "reason": "Officiële vestigingsinformatie noemt dagelijks 10:00–01:00. Laatste toegang en incidentele afwijkingen niet bevestigd. Exacte BAG-geocode ontbreekt en is niet gegokt."
       },
       {
         "id": "grand-cafe-de-watersport-heeg-20261101",
