@@ -13199,16 +13199,16 @@
       "selection": "Voorlopig",
       "closing": {
         "ma": "22:00",
-        "di": "?",
+        "di": "—",
         "wo": "22:00",
         "do": "22:00",
         "vr": "00:00",
         "za": "00:00",
         "zo": "22:00"
       },
-      "closing_quality": "Officiële eigen website: ma/wo/do/zo 10–22, vr/za 10–00; dinsdag ontbreekt. Regiogids noemt dinsdag 10–22, niet onafhankelijk bevestigd door zaak.",
+      "closing_quality": "Officiële eigen website: dinsdag gesloten; ma/wo/do/zo 10–22, vr/za 10–00.",
       "closing_source": "https://www.levels-harlingen.nl/",
-      "closing_notes": "Eigen site noemt dinsdag niet; ondanks regiogids di 10–22 is dinsdag onbekend gehouden. Geen laatste toegang vermeld. 29-10-2026. | 02-11-2026 adrescheck: eigen site en VVV nr 24, KvK-afgeleide nr 22, PDOK geen exacte match voor 24. Geo geblokkeerd, naam/rooster niet gewijzigd.",
+      "closing_notes": "Eigen site noemt dinsdag niet; ondanks regiogids di 10–22 is dinsdag onbekend gehouden. Geen laatste toegang vermeld. 29-10-2026. | 02-11-2026 adrescheck: eigen site en VVV nr 24, KvK-afgeleide nr 22, PDOK geen exacte match voor 24. Geo geblokkeerd, naam/rooster niet gewijzigd. | 08-11-2026: officiële homepage vermeldt expliciet 'DINSDAG gesloten', in tegenstelling tot de oudere gidsvermelding. Dinsdag op gesloten gezet. Laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.levels-harlingen.nl/",
       "other_sources": [
@@ -13220,10 +13220,10 @@
         "https://www.harlingenwelkomaanzee.nl/nl/locaties/3864248882/grand-cafe-levels"
       ],
       "original_status": "Officiële bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29; geen live garantie van actuele toegankelijkheid.",
-      "checked_on": "2026-10-29",
+      "checked_on": "2026-11-08",
       "opening": {
         "ma": "10:00",
-        "di": "?",
+        "di": "—",
         "wo": "10:00",
         "do": "10:00",
         "vr": "10:00",
@@ -13231,10 +13231,10 @@
         "zo": "10:00"
       },
       "opening_source": "https://www.levels-harlingen.nl/",
-      "opening_checked_on": "2026-10-29",
-      "website_checked_on": "2026-10-29",
-      "website_provenance": "Eigen bedrijfswebsite rechtstreeks gecontroleerd 2026-10-29: https://www.levels-harlingen.nl/",
-      "opening_quality": "Officiële eigen website: ma/wo/do/zo 10–22, vr/za 10–00; dinsdag ontbreekt. Regiogids noemt dinsdag 10–22, niet onafhankelijk bevestigd door zaak.",
+      "opening_checked_on": "2026-11-08",
+      "website_checked_on": "2026-11-08",
+      "website_provenance": "08-11-2026: https://www.levels-harlingen.nl/ rechtstreeks gecontroleerd voor openingstijden en publiek borrelen.",
+      "opening_quality": "Officiële eigen website: dinsdag gesloten; ma/wo/do/zo 10–22, vr/za 10–00.",
       "geocode_notes": "02-11-2026: PDOK BAG-adrescheck voor het door de exploitant opgegeven Grote Bredeplaats 24, 8861BB Harlingen leverde geen exacte match. Eigen https://www.levels-harlingen.nl/ en VVV https://www.harlingenwelkomaanzee.nl/nl/locaties/3864248882/grand-cafe-levels noemen huisnummer 24; KvK-afgeleide https://www.compadex.com/nl/businesses/nl/grand-cafe-levels-66916399-35502606 noemt bezoekadres huisnummer 22. Geen bewijs welke BAG-unit de publieksingang is. Automatische geocodering geblokkeerd tot exacte verificatie; NIET willekeurig nummer 22 als kaartmarker overnemen.",
       "geocode_blocked": true,
       "geocode_checked_on": "2026-11-02",
