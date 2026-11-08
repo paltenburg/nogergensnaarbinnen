@@ -274,22 +274,22 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Exploitant omschrijft de zaak als ontmoetingsplek voor iedereen, met vrije borrelmogelijkheid; geen reserveringsplicht voor regulier bezoek vermeld.",
+      "alcohol": "Exploitant bevestigt zelftapwanden met bier en wijn.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "01:00",
+        "ma": "?",
         "di": "01:00",
         "wo": "01:00",
         "do": "01:00",
-        "vr": "02:00",
-        "za": "02:00",
-        "zo": "01:00"
+        "vr": "01:00",
+        "za": "?",
+        "zo": "?"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/t-taphuys-utrecht/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Openingstijden alleen uit secundaire gids; direct websiteadres nog onbekend.",
+      "closing_quality": "Exploitantensite: di–vr tot 01:00; za/zo 01:00 of later, dus geen exact sluituur; maandag tegenstrijdig met algemene 7-dagenclaim.",
+      "closing_source": "https://www.taphuys.nl/utrecht/groepen",
+      "checked_on": "2026-11-08",
+      "closing_notes": "Exploitant vermeldt di–vr 15:00–01:00, za/zo 13:00–01:00 (of later). Maandag ontbreekt in het specifieke rooster, hoewel dezelfde site 7 dagen open noemt. Exacte sluiting za/zo en ma onbekend; laatste toegang onbekend. Eerdere gidsuren vr/za 02:00 niet primair bevestigd.",
       "features": "Zelftaps / bier",
       "website": "https://www.taphuys.nl/utrecht/",
       "other_sources": [
@@ -302,19 +302,19 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Mariaplaats 3, 3511LH Utrecht"
       },
-      "website_checked_on": "2026-10-26",
-      "website_provenance": "Verified official venue page",
+      "website_checked_on": "2026-11-08",
+      "website_provenance": "https://www.taphuys.nl/utrecht/ en https://www.taphuys.nl/utrecht/groepen gecontroleerd 2026-11-08.",
       "opening": {
-        "ma": "15:00",
+        "ma": "?",
         "di": "15:00",
         "wo": "15:00",
         "do": "15:00",
         "vr": "15:00",
-        "za": "11:00",
-        "zo": "11:00"
+        "za": "13:00",
+        "zo": "13:00"
       },
-      "opening_source": "https://www.taphuys.nl/utrecht/",
-      "opening_checked_on": "2026-10-26"
+      "opening_source": "https://www.taphuys.nl/utrecht/groepen",
+      "opening_checked_on": "2026-11-08"
     },
     {
       "id": "achter-de-koekoek-3ed99c6",
