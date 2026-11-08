@@ -10144,10 +10144,10 @@
       "country": "Nederland",
       "access": "Officiële FAQ bevestigt expliciet vrije toegang voor niet-hotelgasten, ook voor spontane borrel; laatste toegang onbekend.",
       "alcohol": "Officiële Grand Café-pagina bevestigt wijn, cocktails, bier en borrel.",
-  "access_checked_on": "2026-11-08",
-  "access_source": "https://www.post-plaza.nl/restaurant",
-  "alcohol_checked_on": "2026-11-08",
-  "alcohol_source": "https://www.post-plaza.nl/restaurant",
+      "access_checked_on": "2026-11-08",
+      "access_source": "https://www.post-plaza.nl/restaurant",
+      "alcohol_checked_on": "2026-11-08",
+      "alcohol_source": "https://www.post-plaza.nl/restaurant",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -11462,7 +11462,7 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
+      "access": "Officiële exploitantwebsite vermeldt publiek café, geen entreegeld en toegang tot 02:00; daadwerkelijke toelating blijft afhankelijk van capaciteit en omstandigheden.",
       "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
       "selection": "Voorlopig",
       "closing": {
@@ -11516,7 +11516,7 @@
       "last_entry_source": "https://cafefokks.nl/info/",
       "last_entry_checked_on": "2026-10-29",
       "last_entry_notes": "De website zegt: 'Vanaf 02:00 mag er niemand meer binnengelaten worden.' Geen aanname op basis van gemeentelijke APV.",
-      "checked_on": "2026-10-29",
+      "checked_on": "2026-11-08",
       "closing_range": {
         "ma": {
           "earliest": "02:00",
@@ -11546,7 +11546,9 @@
           "earliest": "02:00",
           "latest": "04:00"
         }
-      }
+      },
+      "access_source": "https://cafefokks.nl/info/",
+      "access_checked_on": "2026-11-08"
     },
     {
       "id": "cafe-t-singeltje-sneek-2a92fa4",
