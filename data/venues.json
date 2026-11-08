@@ -38786,6 +38786,51 @@
         "matched_address": "Piet Miedemaweg 15, 9264TJ Earnewâld"
       },
       "geocode_notes": "03-11-2026: exact BAG-adres uit werkelijk gedownload GitHub Pages-geocoderartefact workflow 41555363793, buildcommit 37bfc49491915272122e1f936effee75e084cf2c. Adres en huisnummer exact gematcht; geen naburig huisnummer gebruikt."
+    },
+    {
+      "id": "grand-cafe-de-walrus-leeuwarden-20261108",
+      "name": "Grand Café De Walrus",
+      "type": "Grand-café / openbare borrel",
+      "address": "Gouverneursplein 37",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen vestigingspagina nodigt publiek uit voor koffie, lunch, diner en losse borrel; reserveren is mogelijk maar niet als algemene toegangseis bevestigd.",
+      "alcohol": "Eigen vestigingspagina biedt expliciet high wine en bierarrangementen; actuele individuele drankenkaart niet afzonderlijk gecontroleerd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "opening_quality": "Eigen vestigingspagina vermeldt dagelijks 10:00–01:00.",
+      "closing_quality": "Eigen vestigingspagina vermeldt dagelijks 10:00–01:00; laatste toegang onbekend.",
+      "opening_source": "https://www.dewalrus.nl/leeuwarden",
+      "closing_source": "https://www.dewalrus.nl/leeuwarden",
+      "access_source": "https://www.dewalrus.nl/leeuwarden",
+      "alcohol_source": "https://www.dewalrus.nl/leeuwarden",
+      "website": "https://www.dewalrus.nl/leeuwarden",
+      "website_checked_on": "2026-11-08",
+      "opening_checked_on": "2026-11-08",
+      "closing_checked_on": "2026-11-08",
+      "access_checked_on": "2026-11-08",
+      "alcohol_checked_on": "2026-11-08",
+      "checked_on": "2026-11-08",
+      "closing_notes": "Officiële vestigingsinformatie noemt dagelijks 10:00–01:00. Laatste toegang en incidentele afwijkingen niet bevestigd. Exacte BAG-geocode ontbreekt en is niet gegokt.",
+      "original_status": "Eigen exploitant bevestigt vestiging, publieke borrel en geadverteerde uren; exacte BAG-marker en laatste toegang nog niet geverifieerd."
     }
   ],
   "admission_policies": [
