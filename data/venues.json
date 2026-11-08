@@ -11857,8 +11857,8 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publieke horeca volgens bron; daadwerkelijke toegang niet afzonderlijk geverifieerd",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "access": "Exploitant nodigt publiek expliciet uit om langs te komen voor koffie, lunch, diner of losse borrel; geen verplichte maaltijd vermeld.",
+      "alcohol": "Exploitant biedt expliciet bier- en wijnarrangementen aan voor Sneek; actuele individuele drankenkaart niet apart gecontroleerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "01:00",
@@ -11869,36 +11869,42 @@
         "za": "01:00",
         "zo": "01:00"
       },
-      "closing_quality": "Officiële regiogids",
-      "closing_source": "https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1",
-      "closing_notes": "Elke dag tot 01:00 volgens Waterland van Friesland, 29 oktober 2026.",
+      "closing_quality": "Eigen actuele homepage vermeldt dagelijks 10:00–01:00 voor vestiging Sneek; laatste toegang onbekend.",
+      "closing_source": "https://www.dewalrus.nl/",
+      "closing_notes": "Elke dag tot 01:00 volgens Waterland van Friesland, 29 oktober 2026. | 08-11-2026: officiële https://www.dewalrus.nl/ noemt dagelijks 10:00–01:00, ook maandag en zondag (eerder 11:00 in database); geen afzonderlijke laatste toegang vermeld.",
       "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://www.dewalrussneek.nl/",
+      "website": "https://www.dewalrus.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/sneek",
         "https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
-      "checked_on": "2026-10-29",
-      "website_checked_on": "2026-10-29",
+      "checked_on": "2026-11-08",
+      "website_checked_on": "2026-11-08",
       "website_provenance": "Directe site gekoppeld op basis van officiële locatievermelding / adres",
       "opening": {
-        "ma": "11:00",
+        "ma": "10:00",
         "di": "10:00",
         "wo": "10:00",
         "do": "10:00",
         "vr": "10:00",
         "za": "10:00",
-        "zo": "11:00"
+        "zo": "10:00"
       },
-      "opening_source": "https://www.waterlandvanfriesland.nl/nl/locaties/2393851953/grand-cafe-de-walrus-1",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://www.dewalrus.nl/",
+      "opening_checked_on": "2026-11-08",
       "geo": {
         "lat": 53.0320071,
         "lon": 5.6599364,
         "method": "PDOK BAG-adres",
         "matched_address": "Leeuwenburg 11, 8601CG Sneek"
-      }
+      },
+      "closing_checked_on": "2026-11-08",
+      "access_source": "https://www.dewalrus.nl/",
+      "access_checked_on": "2026-11-08",
+      "alcohol_source": "https://www.dewalrus.nl/",
+      "alcohol_checked_on": "2026-11-08",
+      "opening_quality": "Eigen actuele homepage vermeldt dagelijks 10:00–01:00 voor vestiging Sneek."
     },
     {
       "id": "mootz-sneek-0f73107",
