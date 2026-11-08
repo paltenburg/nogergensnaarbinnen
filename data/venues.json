@@ -12521,16 +12521,16 @@
         "https://uitgaanskaart.nl/cafe/drachten",
         "https://bestrestos.nl/restaurant/cafe-het-raadhuys---drachten---drachten-3279"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Actuele exploitantwebsite bevestigt bestaand publiek café, adres, alcoholaanbod en dagelijkse opening; reguliere sluiting en laatste toegang niet gepubliceerd.",
       "geo": {
         "lat": 53.1057962,
         "lon": 6.099082,
         "method": "PDOK BAG-adres",
         "matched_address": "Raadhuisplein 89, 9203EA Drachten"
       },
-      "website_checked_on": "2026-10-30",
-      "website_provenance": "Eigen website gecontroleerd op 2026-10-30 voor naam, adres en horeca.",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-08",
+      "website_provenance": "08-11-2026: officiële homepage rechtstreeks gecontroleerd; 364 dagen per jaar open, zo–vr vanaf 14:00, zaterdag vanaf 09:00, publiek welkom, bier en wijn. Geen reguliere eindtijden of laatste toegang.",
+      "checked_on": "2026-11-08",
       "opening": {
         "ma": "14:00",
         "di": "14:00",
