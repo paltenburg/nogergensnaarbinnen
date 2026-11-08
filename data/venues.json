@@ -14850,8 +14850,8 @@
       "city": "Lemmer",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek restaurant/terras, ook voor losse borrel volgens lokale ondernemersgids.",
-      "alcohol": "Borrel volgens Lemmer Leeft; eigen drankenkaart nog na te kijken.",
+      "access": "Eigen website bevestigt vrije inloop voor een losse borrel aan de bar, ook zonder maaltijd; geen reserveringsplicht voor borrel vermeld.",
+      "alcohol": "Eigen dinerkaart vermeldt advocaat; de eigen website bevestigt daarnaast borrel aan de bar. Overige alcoholische dranken niet afzonderlijk geverifieerd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -14894,7 +14894,11 @@
       },
       "opening_source": "https://www.centrumlemmer.nl/bij-de-koffie/",
       "opening_checked_on": "2026-10-30",
-      "opening_quality": "Eigen site noemt dagelijks 11:00; een andere eigen subpagina noemt 10:00, dus bronconflict; lokale ondernemersgids steunt 11:00."
+      "opening_quality": "Eigen site noemt dagelijks 11:00; een andere eigen subpagina noemt 10:00, dus bronconflict; lokale ondernemersgids steunt 11:00.",
+      "access_source": "https://www.centrumlemmer.nl/over-ons/",
+      "access_checked_on": "2026-11-08",
+      "alcohol_source": "https://www.centrumlemmer.nl/diner/",
+      "alcohol_checked_on": "2026-11-08"
     },
     {
       "id": "bar-cafe-populair-lemmer-415cf0f",
