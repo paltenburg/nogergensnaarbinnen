@@ -1776,8 +1776,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Officiële website bevestigt vrij toegankelijk grand café en terras; reserveren niet verplicht",
+      "alcohol": "Eigen gebrouwen bier in publiek grand café en brouwerij bevestigd door officiële website",
       "selection": "Voorlopig",
       "closing": {
         "ma": "01:00",
@@ -1790,12 +1790,14 @@
       },
       "closing_quality": "Lokale gids (niet primair)",
       "closing_source": "https://centrumutrecht.nl/company/stadskasteel-oudaen/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "checked_on": "2026-11-09",
+      "closing_notes": "Exacte reguliere sluituren alleen in lokale gids; niet bevestigd door exploitant. Niet als zekere sluiting of laatste toegang interpreteren.",
       "features": "Historische brouwerij; adres controleren",
       "website": "https://www.oudaen.nl/",
       "other_sources": [
-        "https://www.uitagenda.nl/index.php/utrecht"
+        "https://www.uitagenda.nl/index.php/utrecht",
+        "https://www.oudaen.nl/contact/",
+        "https://www.oudaen.nl/grand-cafe/"
       ],
       "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
       "geo": {
@@ -1803,7 +1805,18 @@
         "lon": 5.1166492,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudegracht 99, 3511AE Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.oudaen.nl/contact/",
+      "opening_checked_on": "2026-11-09"
     },
     {
       "id": "cafe-t-oude-pierement-254647b",
