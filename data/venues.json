@@ -6704,35 +6704,49 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen site nodigt publiek uit voor borrel, diner en dansen; reserveren is niet vereist voor reguliere inloop.",
+      "alcohol": "Eigen site beschrijft borrelen aan de bar en cafédranken.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "—",
-        "di": "04:00",
-        "wo": "04:00",
-        "do": "04:00",
-        "vr": "04:00",
-        "za": "04:00",
-        "zo": "04:00"
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/nieuwe-dikke-dries/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Officiële exploitantwebsite, 09-11-2026",
+      "closing_source": "https://dikkedries.nl/",
+      "checked_on": "2026-11-09",
+      "closing_notes": "Eigen site vermeldt ma–wo 11:00–01:00, do 11:00–02:00, vr–za 11:00–03:00, zo 13:00–22:00. Oude lokale gidsuren tot 04:00 waren niet primair en zijn vervangen. Laatste toegang niet gepubliceerd.",
       "features": "Borrel / centrum; Naamvariant van Nieuwe Dikke Dries",
-      "website": "",
+      "website": "https://dikkedries.nl/",
       "other_sources": [
         "https://www.uitagenda.nl/index.php/utrecht",
         "https://www.uitutrecht.com/uitgaan/page/5/"
       ],
-      "original_status": "Vermeld in geraadpleegde bron; openingsstatus niet apart bevestigd",
+      "original_status": "Actuele exploitatie en openingstijden bevestigd via eigen website op 09-11-2026.",
       "geo": {
         "lat": 52.0919923,
         "lon": 5.1215786,
         "method": "PDOK BAG-adres",
         "matched_address": "Oudkerkhof 36, 3512GL Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://dikkedries.nl/",
+      "website_checked_on": "2026-11-09",
+      "opening_checked_on": "2026-11-09",
+      "closing_checked_on": "2026-11-09",
+      "website_provenance": "https://dikkedries.nl/ gecontroleerd 09-11-2026"
     },
     {
       "id": "nieuwe-dikke-dries-oost-73e397f",
