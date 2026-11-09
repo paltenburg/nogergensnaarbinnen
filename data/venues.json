@@ -3300,7 +3300,7 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
+      "access": "Publiek café volgens eigen website en contactpagina",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
@@ -3314,8 +3314,8 @@
       },
       "closing_quality": "Lokale gids (niet primair)",
       "closing_source": "https://centrumutrecht.nl/company/cafe-weerdzicht/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "checked_on": "2026-11-09",
+      "closing_notes": "Sluituren uitsluitend uit lokale gids; officiële contactpagina bevestigt vanaf 28 september 2026 nieuwe openingstijden, maar geen sluituren. Gidsuren kunnen verouderd zijn.",
       "features": "Oudegracht",
       "website": "https://www.cafe-weerdzicht.nl/",
       "other_sources": [
@@ -3331,7 +3331,18 @@
         "matched_address": "Oudegracht 1, 3511AB Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-10-26",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.cafe-weerdzicht.nl/contact.html",
+      "opening_checked_on": "2026-11-09"
     },
     {
       "id": "cafe-willem-slok-7402de0",
