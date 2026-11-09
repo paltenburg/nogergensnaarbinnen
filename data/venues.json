@@ -5971,9 +5971,9 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Eigen site https://www.lejournal.nl/ zegt vanaf 02-11-2026 publiek welkom voor borrel; onafhankelijk nieuws van 31-10 bevestigt slechts informele preview en geplande publieke opening. Daadwerkelijke reguliere opening op 02-11 nog niet onafhankelijk bevestigd.",
-      "alcohol": "Eigen https://www.lejournal.nl/ noemt expliciet borrel naast ontbijt/lunch/diner; afzonderlijke drankenkaart en actuele baruren na heropening nog niet geverifieerd.",
-      "selection": "Nog te controleren",
+      "access": "Exploitant bevestigt op https://www.lejournal.nl/ expliciet 'Wij zijn open!' na renovatie; publiek welkom voor borrel vanaf 02-11-2026. Geen fysieke locatiecontrole.",
+      "alcohol": "Eigen website https://www.lejournal.nl/ bevestigt publiek borrelaanbod; actuele drankenkaart na heropening nog niet afzonderlijk gecontroleerd.",
+      "selection": "Voorlopig",
       "closing": {
         "ma": "?",
         "di": "?",
@@ -5983,10 +5983,10 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen website meldt publieke heropening op 02-11-2026, maar geen nieuwe vaste uren. Op controlemoment geen onafhankelijk bewijs van daadwerkelijke publieke bediening op 02-11; verborgen tot bevestiging.",
+      "closing_quality": "Exploitant bevestigt daadwerkelijke heropening, maar publiceert geen actuele vaste sluituren. Oude menukaart van vóór renovatie niet als actueel weekrooster gebruiken.",
       "closing_source": "https://www.lejournal.nl/",
-      "checked_on": "2026-11-02",
-      "closing_notes": "02-11-2026: https://www.lejournal.nl/ noemt heropening vandaag; https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/ (31-10) meldt informele preview 31-10 en geplande publieksopening 02-11. Geen onafhankelijke feitelijke openstelling vandaag, actuele weekuren, laatste toegang of alcoholkaart. Oude pre-renovatie-gidsuren NIET overnemen; opnieuw controleren na bevestigde publieke dag.",
+      "checked_on": "2026-11-09",
+      "closing_notes": "09-11-2026: officiële homepage https://www.lejournal.nl/ zegt 'Wij zijn open!' en noemt borrel. Actuele sluituren, laatste toegang en weekopeningstijden niet gevonden; oude uren niet overnemen.",
       "features": "Neude; Neude / terras",
       "website": "https://www.lejournal.nl/",
       "other_sources": [
@@ -5997,7 +5997,7 @@
         "https://verseuitjes.nl/uit-in/utrecht/nieuwe-horeca/787/cafe-le-journal",
         "https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/"
       ],
-      "original_status": "02-11-2026: geplande publieke heropeningsdatum bereikt; site spreekt van 'vanaf 2 november', maar geen same-day exploitatiecontrole. Daarom niet als open tonen en ook niet meer zeven dagen als definitief gesloten coderen.",
+      "original_status": "09-11-2026: exploitant bevestigt publieke heropening; nog geen exact weekrooster of geverifieerde ingang.",
       "opening": {
         "ma": "?",
         "di": "?",
@@ -6008,9 +6008,9 @@
         "zo": "?"
       },
       "opening_source": "https://www.lejournal.nl/",
-      "opening_checked_on": "2026-11-02",
+      "opening_checked_on": "2026-11-09",
       "geocode_notes": "30-10-2026: eerdere geocode matchte uitsluitend het EERSTE nummer van huisnummerreeks Neude 32-34 (Neude 32, 3512AG Utrecht); geen exact bewezen ingang, marker verwijderd totdat BAG-ingang afzonderlijk is geverifieerd.",
-      "closing_checked_on": "2026-11-02"
+      "closing_checked_on": "2026-11-09"
     },
     {
       "id": "le-en-2cefa7d",
