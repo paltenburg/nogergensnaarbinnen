@@ -1,6 +1,6 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-08 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-09 uit de locatiedatabase en onderzoeksverslagen.
 
 **2532 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **769 locaties**.
 
@@ -45,7 +45,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 |---|---:|---:|
 | allebiz.nl | 91 | 88 |
 | friesland.nl | 82 | 80 |
-| centrumutrecht.nl | 55 | 52 |
+| centrumutrecht.nl | 54 | 51 |
 | cylex.nl | 46 | 46 |
 | compadex.com | 45 | 46 |
 | visitleeuwarden.com | 37 | 33 |
@@ -501,6 +501,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | stokerkoffiebar.nl | 2 | 1 |
 | strandpaviljoendebranding.nl | 2 | 1 |
 | talud9.nl | 2 | 1 |
+| taphuys.nl | 2 | 1 |
 | taplokaalgist.nl | 2 | 1 |
 | teds-place.mom | 2 | 2 |
 | terschellingoosterend.nl | 2 | 2 |
@@ -882,7 +883,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | t-hoekje-ferwert.nl | 1 | 1 |
 | taf.frl | 1 | 1 |
 | tantesientje.nl | 1 | 1 |
-| taphuys.nl | 1 | 1 |
 | tapperijtnoord.nl | 1 | 1 |
 | tastytales.tv | 1 | 1 |
 | tastytrails.nl | 1 | 1 |
@@ -1186,7 +1186,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### barbascule.nl
 
-- [https://www.barbascule.nl/contact](https://www.barbascule.nl/contact) — achtergrond, openingstijden, website; Bar Bascule; bronveld gecontroleerd: 2026-11-02
+- [https://www.barbascule.nl/contact](https://www.barbascule.nl/contact) — achtergrond, openingstijden, website; Bar Bascule; bronveld gecontroleerd: 2026-11-09
 - [https://www.barbascule.nl/deurbeleid](https://www.barbascule.nl/deurbeleid) — achtergrond, laatste_toegang; Bar Bascule; bronveld gecontroleerd: 2026-11-03
 - [https://www.barbascule.nl/over-ons](https://www.barbascule.nl/over-ons) — achtergrond; Bar Bascule; bronveld gecontroleerd: onbekend
 
@@ -1745,7 +1745,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cafehetraadhuys.nl
 
-- [https://cafehetraadhuys.nl/](https://cafehetraadhuys.nl/) — openingstijden, sluitingstijden, website; Café Het Raadhuys; bronveld gecontroleerd: 2026-10-30
+- [https://cafehetraadhuys.nl/](https://cafehetraadhuys.nl/) — openingstijden, sluitingstijden, website; Café Het Raadhuys; bronveld gecontroleerd: 2026-11-08
 
 ### cafehetwapenvanfriesland.nl
 
@@ -1933,7 +1933,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://centrumutrecht.nl/company/springhaver/](https://centrumutrecht.nl/company/springhaver/) — sluitingstijden; Springhaver; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/stadskasteel-oudaen/](https://centrumutrecht.nl/company/stadskasteel-oudaen/) — sluitingstijden; Brouwerij Oudaen; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/t-pakhuis/](https://centrumutrecht.nl/company/t-pakhuis/) — achtergrond; Bar Pakhuis; bronveld gecontroleerd: onbekend
-- [https://centrumutrecht.nl/company/t-taphuys-utrecht/](https://centrumutrecht.nl/company/t-taphuys-utrecht/) — sluitingstijden; ’t Taphuys; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/teds-oudegracht/](https://centrumutrecht.nl/company/teds-oudegracht/) — achtergrond; Teds Utrecht Oudegracht; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/teds-stadhuisplein/](https://centrumutrecht.nl/company/teds-stadhuisplein/) — achtergrond; Teds Utrecht Stadhuisplein; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/the-5th-utrecht/](https://centrumutrecht.nl/company/the-5th-utrecht/) — sluitingstijden; The 5th; bronveld gecontroleerd: onbekend
@@ -4034,7 +4033,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### levels-harlingen.nl
 
-- [https://www.levels-harlingen.nl/](https://www.levels-harlingen.nl/) — achtergrond, openingstijden, sluitingstijden, website; Grand Café Levels; bronveld gecontroleerd: 2026-10-29
+- [https://www.levels-harlingen.nl/](https://www.levels-harlingen.nl/) — achtergrond, openingstijden, sluitingstijden, website; Grand Café Levels; bronveld gecontroleerd: 2026-11-08
 
 ### loetje.nl
 
@@ -4259,7 +4258,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### njoypoolcentrum.nl
 
-- [https://www.njoypoolcentrum.nl/](https://www.njoypoolcentrum.nl/) — openingstijden, sluitingstijden, website; Njoy Pool Café & Bar; bronveld gecontroleerd: 2026-10-30
+- [https://www.njoypoolcentrum.nl/](https://www.njoypoolcentrum.nl/) — openingstijden, sluitingstijden, website; Njoy Pool Café & Bar; bronveld gecontroleerd: 2026-11-09
 - [https://www.njoypoolcentrum.nl/contact](https://www.njoypoolcentrum.nl/contact) — achtergrond; Njoy Pool Café & Bar; bronveld gecontroleerd: onbekend
 
 ### nl.linkedin.com
@@ -5312,7 +5311,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### taphuys.nl
 
-- [https://www.taphuys.nl/utrecht/](https://www.taphuys.nl/utrecht/) — openingstijden, website; ’t Taphuys; bronveld gecontroleerd: 2026-10-26
+- [https://www.taphuys.nl/utrecht/](https://www.taphuys.nl/utrecht/) — website; ’t Taphuys; bronveld gecontroleerd: 2026-11-08
+- [https://www.taphuys.nl/utrecht/groepen](https://www.taphuys.nl/utrecht/groepen) — openingstijden, sluitingstijden; ’t Taphuys; bronveld gecontroleerd: 2026-11-08
 
 ### taplokaalgist.nl
 

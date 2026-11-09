@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-08",
+  "generated_on": "2026-11-09",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 769,
@@ -155,8 +155,8 @@
     },
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 55,
-      "linked_venues": 52
+      "source_pages": 54,
+      "linked_venues": 51
     },
     {
       "domain": "cylex.nl",
@@ -2434,6 +2434,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "taphuys.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "taplokaalgist.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -4335,11 +4340,6 @@
     },
     {
       "domain": "tantesientje.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "taphuys.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -8458,12 +8458,12 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-11-02"
+            "website": "2026-11-09"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-11-02",
+      "last_data_field_checked_on": "2026-11-09",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -14275,13 +14275,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-30",
+            "website": "2026-11-08",
             "openingstijden": "2026-10-30"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-30",
+      "last_data_field_checked_on": "2026-11-08",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16790,30 +16790,6 @@
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
       "needs_review": true
-    },
-    {
-      "url": "https://centrumutrecht.nl/company/t-taphuys-utrecht/",
-      "domain": "centrumutrecht.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "sluitingstijden"
-      ],
-      "venues": [
-        {
-          "id": "t-taphuys-508fc53",
-          "name": "’t Taphuys",
-          "roles": [
-            "sluitingstijden"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": null,
-      "linked_venue_count": 1,
-      "needs_review": false
     },
     {
       "url": "https://centrumutrecht.nl/company/teds-oudegracht/",
@@ -43664,13 +43640,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-29",
-            "openingstijden": "2026-10-29"
+            "website": "2026-11-08",
+            "openingstijden": "2026-11-08"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-29",
+      "last_data_field_checked_on": "2026-11-08",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -46005,13 +45981,13 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-30",
-            "openingstijden": "2026-10-30"
+            "website": "2026-11-09",
+            "openingstijden": "2026-11-09"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-30",
+      "last_data_field_checked_on": "2026-11-09",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -58162,7 +58138,6 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
-        "openingstijden",
         "website"
       ],
       "venues": [
@@ -58170,19 +58145,45 @@
           "id": "t-taphuys-508fc53",
           "name": "’t Taphuys",
           "roles": [
-            "openingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26",
-            "openingstijden": "2026-10-26"
+            "website": "2026-11-08"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-26",
+      "last_data_field_checked_on": "2026-11-08",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
+    },
+    {
+      "url": "https://www.taphuys.nl/utrecht/groepen",
+      "domain": "taphuys.nl",
+      "first_registered_on": "2026-11-09",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "t-taphuys-508fc53",
+          "name": "’t Taphuys",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-08"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-08",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.taplokaalgist.nl/",
@@ -64037,7 +64038,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
@@ -77102,7 +77103,7 @@
       {
         "id": "grand-cafe-levels-harlingen-fe09531",
         "name": "Grand Café Levels",
-        "reason": "Eigen site noemt dinsdag niet; ondanks regiogids di 10–22 is dinsdag onbekend gehouden. Geen laatste toegang vermeld. 29-10-2026. | 02-11-2026 adrescheck: eigen site en VVV nr 24, KvK-afgeleide nr 22, PDOK geen exacte match voor 24. Geo geblokkeerd, naam/rooster niet gewijzigd."
+        "reason": "29-10-2026: dinsdag aanvankelijk onbekend wegens ontbrekende expliciete exploitantbevestiging; laatste toegang niet vermeld. | 02-11-2026 adrescheck: eigen site en VVV nr 24, KvK-afgeleide nr 22, PDOK geen exacte match voor 24. Geo geblokkeerd, naam/rooster niet gewijzigd. | 08-11-2026: officiële homepage vermeldt expliciet 'DINSDAG gesloten', in tegenstelling tot de oudere gidsvermelding. Dinsdag op gesloten gezet. Laatste toegang onbekend."
       },
       {
         "id": "grand-cafe-post-plaza-leeuwarden-ac28407",
@@ -78133,6 +78134,11 @@
         "id": "t-oude-pothuys-c89ea4d",
         "name": "’t Oude Pothuys",
         "reason": "Gids noemt 00:00 alle dagen; controleer bij livemuziek. | Voorgaande Centrum Utrecht-gids noemde 00:00 elke dag; officiële regiogids noemt tot 03:00 do-za."
+      },
+      {
+        "id": "t-taphuys-508fc53",
+        "name": "’t Taphuys",
+        "reason": "Exploitant vermeldt di–vr 15:00–01:00, za/zo 13:00–01:00 (of later). Maandag ontbreekt in het specifieke rooster, hoewel dezelfde site 7 dagen open noemt. Exacte sluiting za/zo en ma onbekend; laatste toegang onbekend. Eerdere gidsuren vr/za 02:00 niet primair bevestigd."
       }
     ]
   }
