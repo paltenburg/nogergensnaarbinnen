@@ -37167,7 +37167,7 @@
       "country": "Nederland",
       "selection": "Voorlopig",
       "access": "Exploitant bevestigt elke avond vrije inloop zonder reservering, maar 18+ met ID, kledingvoorschriften en discretionair deurbeleid. Eigen huisregels: nieuwe bezoekers tot 03:00; daadwerkelijke toegang niet gegarandeerd.",
-      "alcohol": "Exploitant noemt een bar en 'take a shot' bij vrije uitgaansavond; dit ondersteunt shotjes-/sterkedrankaanbod. Actuele volledige drankenkaart niet gevonden.",
+      "alcohol": "Eigen actuele site noemt expliciet mixed drinks, shots, bier en wijn.",
       "opening": {
         "ma": "23:00",
         "di": "23:00",
@@ -37193,9 +37193,9 @@
       "closing_notes": "02-11-2026: https://www.barbascule.nl/contact bevestigt vrije binnenloop, Ruiterskwartier 93, elke avond 23:00 behalve donderdag 22:00. https://www.barbascule.nl/over-ons bevestigt publieke bar en shots, maar footer toont Ruiterskwartier 95. Gemeentelijke terrasvergunning 2026 https://zoek.officielebekendmakingen.nl/gmb-2026-162661.pdf noemt 93; 95 is tevens adres van aparte Shooters. Wegens intern 93/95-conflict geen BAG-marker totdat exploitant ingangsnummer bevestigt. Gids https://firmania.nl/leeuwarden/bar-bascule-457585 noemt 05:00, maar is geen eigen sluituur. Laatste toegang onbekend. | 03-11-2026: https://www.barbascule.nl/deurbeleid via eigen contactpagina rechtstreeks geopend. Letterlijke deurregel: nieuwe bezoekers mogen tot 03:00 binnen, maar de zaak sluit dan niet. Laatste toegang alle 7 dagen 03:00, sluituren blijven '?'. Huisregels: 18+, ID, kleding, toegang kan geweigerd worden. Eigen contact https://www.barbascule.nl/contact bevestigt 93; eerder 95-footerconflict nog niet definitief opgelost, marker blijft geblokkeerd.",
       "features": "D0 Leeuwarden Ruiterskwartier; 2026 gemeentelijke terrasvergunning; ingang 93/95 verifiëren",
       "website": "https://www.barbascule.nl/contact",
-      "website_checked_on": "2026-11-02",
-      "website_provenance": "Exploitantwebsite; eigen contactpagina rechtstreeks gecontroleerd, over-ons footer bevat tegenstrijdig huisnummer.",
-      "checked_on": "2026-11-03",
+      "website_checked_on": "2026-11-09",
+      "website_provenance": "09-11-2026: exploitantwebsite https://www.barbascule.nl/ bevestigt mixed drinks, shots, bier en wijn en locatie 93; https://www.barbascule.nl/deurbeleid bevestigt laatste toegang 03:00 (geen sluituur). Exacte BAG-ingang niet bevestigd.",
+      "checked_on": "2026-11-09",
       "geocode_blocked": true,
       "other_sources": [
         "https://www.barbascule.nl/contact",
@@ -37205,7 +37205,7 @@
         "https://firmania.nl/leeuwarden/bar-bascule-457585",
         "https://www.barbascule.nl/deurbeleid"
       ],
-      "original_status": "Actuele eigen site bevestigt vrije nachtbar en beginuren, maar geen exacte sluituren of laatste toegang. Huisnummerconflict 93/95 blokkeert automatische marker.",
+      "original_status": "Actuele eigen site bevestigt vrije nachtbar, alcoholaanbod, beginuren en laatste toegang tot 03:00; sluituren blijven onbekend. BAG-/ingangsnummer nog niet exact vastgesteld.",
       "last_entry": {
         "ma": "03:00",
         "di": "03:00",
@@ -37218,7 +37218,9 @@
       "last_entry_quality": "Exploitant-huisregels: nieuwe bezoekers tot 03:00; feest kan daarna doorgaan. Dit is geen sluitingstijd en geen toegangsrecht (deurbeleid 18+, ID en kledingvoorschriften).",
       "last_entry_source": "https://www.barbascule.nl/deurbeleid",
       "last_entry_checked_on": "2026-11-03",
-      "access_checked_on": "2026-11-03"
+      "access_checked_on": "2026-11-03",
+      "alcohol_checked_on": "2026-11-09",
+      "alcohol_source": "https://www.barbascule.nl/"
     },
     {
       "id": "feestcafe-shooters-leeuwarden-20261102",
