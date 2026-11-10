@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-09 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-10 uit de locatiedatabase en onderzoeksverslagen.
 
-**2532 geregistreerde bron-URL's**, 894 domeinen; gekoppeld aan **769 locaties**.
+**2535 geregistreerde bron-URL's**, 895 domeinen; gekoppeld aan **769 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -45,7 +45,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 |---|---:|---:|
 | allebiz.nl | 91 | 88 |
 | friesland.nl | 82 | 80 |
-| centrumutrecht.nl | 54 | 51 |
+| centrumutrecht.nl | 53 | 50 |
 | cylex.nl | 46 | 46 |
 | compadex.com | 45 | 46 |
 | visitleeuwarden.com | 37 | 33 |
@@ -274,6 +274,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | noah-eetcafe.nl | 3 | 1 |
 | omgevingsalert.nl | 3 | 2 |
 | optoost.nl | 3 | 1 |
+| oudaen.nl | 3 | 1 |
 | paddyoryan.frl | 3 | 1 |
 | pand1880.nl | 3 | 1 |
 | pannenkoekenboerderijderoos.nl | 3 | 1 |
@@ -336,6 +337,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | bolsward.nl | 2 | 8 |
 | brasserie-brandaris.nl | 2 | 1 |
 | brasseriedebrink.nl | 2 | 1 |
+| cafe-weerdzicht.nl | 2 | 1 |
 | cafebardewelp.nl | 2 | 1 |
 | cafecobus.nl | 2 | 1 |
 | cafedeprinsleeuwarden.nl | 2 | 1 |
@@ -580,7 +582,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | brothersinlawtaphouse.nl | 1 | 1 |
 | brouwerij84.nl | 1 | 1 |
 | cafe-olivier.be | 1 | 1 |
-| cafe-weerdzicht.nl | 1 | 1 |
 | cafebak.nl | 1 | 1 |
 | cafebarde.nl | 1 | 1 |
 | cafebardewelp.eatbu.com | 1 | 1 |
@@ -665,6 +666,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | dezaak-utrecht.nl | 1 | 1 |
 | dezaak.cafe | 1 | 1 |
 | dezaakharlingen.nl | 1 | 1 |
+| dikkedries.nl | 1 | 1 |
 | diner-cadeau.nl | 1 | 1 |
 | dinestar.nl | 1 | 1 |
 | discover-utrecht.com | 1 | 1 |
@@ -805,7 +807,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | oranjebierhuis.nl | 1 | 1 |
 | oranjeriejoure.nl | 1 | 1 |
 | organisaties.overheid.nl | 1 | 1 |
-| oudaen.nl | 1 | 1 |
 | oudega-swf.nl | 1 | 1 |
 | oudepierement.nl | 1 | 1 |
 | ouwedikkedries.nl | 1 | 1 |
@@ -1568,6 +1569,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### cafe-weerdzicht.nl
 
 - [https://www.cafe-weerdzicht.nl/](https://www.cafe-weerdzicht.nl/) — website; Café Weerdzicht; bronveld gecontroleerd: 2026-10-26
+- [https://www.cafe-weerdzicht.nl/contact.html](https://www.cafe-weerdzicht.nl/contact.html) — openingstijden; Café Weerdzicht; bronveld gecontroleerd: 2026-11-09
 
 ### cafebak.nl
 
@@ -1924,7 +1926,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://centrumutrecht.nl/company/little-dublin/](https://centrumutrecht.nl/company/little-dublin/) — sluitingstijden; Little Dublin; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/louis-hartlooper-complex/](https://centrumutrecht.nl/company/louis-hartlooper-complex/) — sluitingstijden; Louis Hartlooper Complex; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/mr-finch/](https://centrumutrecht.nl/company/mr-finch/) — sluitingstijden; Mr. Finch; bronveld gecontroleerd: onbekend
-- [https://centrumutrecht.nl/company/nieuwe-dikke-dries/](https://centrumutrecht.nl/company/nieuwe-dikke-dries/) — sluitingstijden; Nieuwe Dikke Dries; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/ouwe-dikke-dries/](https://centrumutrecht.nl/company/ouwe-dikke-dries/) — sluitingstijden; Ouwe Dikke Dries; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/restaurant-de-zakkendrager/](https://centrumutrecht.nl/company/restaurant-de-zakkendrager/) — sluitingstijden; Restaurant De Zakkendrager; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/restaurant-pieros/](https://centrumutrecht.nl/company/restaurant-pieros/) — sluitingstijden; Restaurant Piero’s; bronveld gecontroleerd: onbekend
@@ -2615,6 +2616,10 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 - [https://www.dezwaan-makkum.nl/](https://www.dezwaan-makkum.nl/) — openingstijden, sluitingstijden, website; Café Restaurant De Zwaan; bronveld gecontroleerd: 2026-10-30
 - [https://www.dezwaan-makkum.nl/MENU-KAART/](https://www.dezwaan-makkum.nl/MENU-KAART/) — achtergrond; Café Restaurant De Zwaan; bronveld gecontroleerd: onbekend
+
+### dikkedries.nl
+
+- [https://dikkedries.nl/](https://dikkedries.nl/) — openingstijden, sluitingstijden, website; Nieuwe Dikke Dries; bronveld gecontroleerd: 2026-11-09
 
 ### diner-cadeau.nl
 
@@ -4000,7 +4005,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### lejournal.nl
 
-- [https://www.lejournal.nl/](https://www.lejournal.nl/) — achtergrond, openingstijden, sluitingstijden, website; Le Journal; bronveld gecontroleerd: 2026-11-02
+- [https://www.lejournal.nl/](https://www.lejournal.nl/) — achtergrond, openingstijden, sluitingstijden, website; Le Journal; bronveld gecontroleerd: 2026-11-09
 - [https://www.lejournal.nl/verbouwing](https://www.lejournal.nl/verbouwing) — achtergrond, onderzoeksnotitie; Le Journal; bronveld gecontroleerd: onbekend
 
 ### lekkerindebuurt.nl
@@ -4456,6 +4461,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### oudaen.nl
 
 - [https://www.oudaen.nl/](https://www.oudaen.nl/) — website; Brouwerij Oudaen; bronveld gecontroleerd: onbekend
+- [https://www.oudaen.nl/contact/](https://www.oudaen.nl/contact/) — achtergrond, openingstijden; Brouwerij Oudaen; bronveld gecontroleerd: 2026-11-09
+- [https://www.oudaen.nl/grand-cafe/](https://www.oudaen.nl/grand-cafe/) — achtergrond; Brouwerij Oudaen; bronveld gecontroleerd: onbekend
 
 ### oudega-swf.nl
 

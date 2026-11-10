@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-09",
+  "generated_on": "2026-11-10",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 769,
-    "source_urls": 2532,
-    "domains": 894,
-    "direct_website_fields": 585
+    "source_urls": 2535,
+    "domains": 895,
+    "direct_website_fields": 586
   },
   "discovery_sites": [
     {
@@ -155,8 +155,8 @@
     },
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 54,
-      "linked_venues": 51
+      "source_pages": 53,
+      "linked_venues": 50
     },
     {
       "domain": "cylex.nl",
@@ -1299,6 +1299,11 @@
       "linked_venues": 1
     },
     {
+      "domain": "oudaen.nl",
+      "source_pages": 3,
+      "linked_venues": 1
+    },
+    {
       "domain": "paddyoryan.frl",
       "source_pages": 3,
       "linked_venues": 1
@@ -1605,6 +1610,11 @@
     },
     {
       "domain": "brasseriedebrink.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "cafe-weerdzicht.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -2829,11 +2839,6 @@
       "linked_venues": 1
     },
     {
-      "domain": "cafe-weerdzicht.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
       "domain": "cafebak.nl",
       "source_pages": 1,
       "linked_venues": 1
@@ -3250,6 +3255,11 @@
     },
     {
       "domain": "dezaakharlingen.nl",
+      "source_pages": 1,
+      "linked_venues": 1
+    },
+    {
+      "domain": "dikkedries.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -3950,11 +3960,6 @@
     },
     {
       "domain": "organisaties.overheid.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "oudaen.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -12691,6 +12696,32 @@
       "needs_review": false
     },
     {
+      "url": "https://www.cafe-weerdzicht.nl/contact.html",
+      "domain": "cafe-weerdzicht.nl",
+      "first_registered_on": "2026-11-10",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "cafe-weerdzicht-d278153",
+          "name": "Café Weerdzicht",
+          "roles": [
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-09"
+          },
+          "needs_review": false
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-09",
+      "linked_venue_count": 1,
+      "needs_review": false
+    },
+    {
       "url": "https://www.cafebak.nl/",
       "domain": "cafebak.nl",
       "first_registered_on": "2026-10-30",
@@ -16576,30 +16607,6 @@
       "needs_review": false
     },
     {
-      "url": "https://centrumutrecht.nl/company/nieuwe-dikke-dries/",
-      "domain": "centrumutrecht.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "sluitingstijden"
-      ],
-      "venues": [
-        {
-          "id": "nieuwe-dikke-dries-c9188df",
-          "name": "Nieuwe Dikke Dries",
-          "roles": [
-            "sluitingstijden"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": null,
-      "linked_venue_count": 1,
-      "needs_review": false
-    },
-    {
       "url": "https://centrumutrecht.nl/company/ouwe-dikke-dries/",
       "domain": "centrumutrecht.nl",
       "first_registered_on": "2026-10-26",
@@ -16760,12 +16767,12 @@
             "sluitingstijden"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
     },
     {
       "url": "https://centrumutrecht.nl/company/t-pakhuis/",
@@ -26163,6 +26170,38 @@
         }
       ],
       "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://dikkedries.nl/",
+      "domain": "dikkedries.nl",
+      "first_registered_on": "2026-11-10",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden",
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "nieuwe-dikke-dries-c9188df",
+          "name": "Nieuwe Dikke Dries",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden",
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-11-09",
+            "sluitingstijden": "2026-11-09",
+            "openingstijden": "2026-11-09"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-09",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -43247,13 +43286,13 @@
             "website"
           ],
           "checked_on": {
-            "sluitingstijden": "2026-11-02",
-            "openingstijden": "2026-11-02"
+            "sluitingstijden": "2026-11-09",
+            "openingstijden": "2026-11-09"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-11-02",
+      "last_data_field_checked_on": "2026-11-09",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -48955,12 +48994,64 @@
             "website"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         }
       ],
       "last_data_field_checked_on": null,
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
+    },
+    {
+      "url": "https://www.oudaen.nl/contact/",
+      "domain": "oudaen.nl",
+      "first_registered_on": "2026-11-10",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond",
+        "openingstijden"
+      ],
+      "venues": [
+        {
+          "id": "brouwerij-oudaen-5f28ecd",
+          "name": "Brouwerij Oudaen",
+          "roles": [
+            "achtergrond",
+            "openingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-09"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-09",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.oudaen.nl/grand-cafe/",
+      "domain": "oudaen.nl",
+      "first_registered_on": "2026-11-10",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "brouwerij-oudaen-5f28ecd",
+          "name": "Brouwerij Oudaen",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.oudega-swf.nl/agenda/2026/2/15/goldies-50-cafe-123403",
@@ -60871,7 +60962,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "cafe-de-beurs-d9ec97a",
@@ -61240,7 +61331,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "olivier-ad29c9c",
@@ -64737,7 +64828,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "nieuwe-dikke-dries-oost-73e397f",
@@ -73701,10 +73792,6 @@
         "name": "Mootz"
       },
       {
-        "id": "nieuwe-dikke-dries-c9188df",
-        "name": "Nieuwe Dikke Dries"
-      },
-      {
         "id": "nieuwe-dikke-dries-oost-73e397f",
         "name": "Nieuwe Dikke Dries Oost"
       },
@@ -75766,6 +75853,11 @@
         "reason": "01-11-2026: eerder overgenomen gidsuren di 22:30, wo 22:30, za 23:00, zo 19:00 blijken niet betrouwbaar voor november 2026. Recente onafhankelijke Tasty Tales-vermelding (bijgewerkt 01-09-2026) noemt wo 23:00, za 00:00, zo 20:00 en geen reguliere dinsdag; exploitant https://maximusbrouwerij.nl/zondag-langer-open/ vermeldt zondag tot 22:00 (ouder bericht). Exploitantagenda https://maximusbrouwerij.nl/agenda/ kondigt dinsdag 03-11 en 01-12-2026 quiz 20:00–23:30 aan; dit bewijst geen vaste dinsdagopening of reguliere barsluiting. Di/wo/za/zo daarom '?'; ma gesloten en do/vr gidsuren voorlopig behouden, niet bedrijfseigen bevestigd. Seizoens-/feestdaguitzonderingen en laatste toegang onbekend. Eigen https://maximusbrouwerij.nl/over-maximus/proeflokaal/ bevestigt vrije inloop en https://maximusbrouwerij.nl/over-maximus/onze-kaart/ alcohol. Geen BAG-adres of coördinaat gewijzigd."
       },
       {
+        "id": "brouwerij-oudaen-5f28ecd",
+        "name": "Brouwerij Oudaen",
+        "reason": "Exacte reguliere sluituren alleen in lokale gids; niet bevestigd door exploitant. Niet als zekere sluiting of laatste toegang interpreteren."
+      },
+      {
         "id": "bruin-cafe-jimbar-wommels-20261102",
         "name": "Bruin Café Jimbar",
         "reason": "02-11-2026: dorpswebsite https://wommels.nl/bov/jimbar/ noemt Jimbar het bruine café van Wommels, expliciet open voor spontane borrel. KvK-afgeleide https://www.oozo.nl/bedrijven/littenseradiel/zuid/wommels/3797872/bruin-cafe-jimbar noemt Bruin Café Jimbar op Terp 4 met SBI café; gemeentelijke https://zoek.officielebekendmakingen.nl/gmb-2026-250573.html bevestigt een evenementenvergunning 05-08-2026 op Terp 4, maar geen regulier rooster of bewezen café-exploitatie op 02-11. AlleBiz noemt Jimbar en Bruin Café Brouwer op hetzelfde adres met vergelijkbare roosters; geen tweede zaak aangemaakt, geen gidsuren overgenomen. Actuele eigen website en laatste toegang onbekend; exacte geo niet gegokt."
@@ -77443,7 +77535,7 @@
       {
         "id": "le-journal-1b1cfeb",
         "name": "Le Journal",
-        "reason": "02-11-2026: https://www.lejournal.nl/ noemt heropening vandaag; https://www.nieuws030.nl/nieuws/le-journal-keert-terug-al-le-journal/ (31-10) meldt informele preview 31-10 en geplande publieksopening 02-11. Geen onafhankelijke feitelijke openstelling vandaag, actuele weekuren, laatste toegang of alcoholkaart. Oude pre-renovatie-gidsuren NIET overnemen; opnieuw controleren na bevestigde publieke dag."
+        "reason": "09-11-2026: officiële homepage https://www.lejournal.nl/ zegt 'Wij zijn open!' en noemt borrel. Actuele sluituren, laatste toegang en weekopeningstijden niet gevonden; oude uren niet overnemen."
       },
       {
         "id": "le-provence-sneek-20261102",
@@ -77539,6 +77631,11 @@
         "id": "neushoorn-cafe-leeuwarden-20261102",
         "name": "Neushoorn Café",
         "reason": "02-11-2026: https://www.neushoorn.nl/cafe rechtstreeks gecontroleerd; do/vr 17–00 en za 17–22, gratis inloop. https://www.neushoorn.nl/contact noemt afwijkende aanvang 16:00; 17:00 is conservatief. Speciale 31-10-2026 nacht 21–05 is voorbij en niet als regulier rooster gebruikt. Zondag 01-11-2026 concert was een incidentele gratis middag, geen structurele zondagopening. Exploitant organiseert bierfestival, maar de actuele reguliere café-alcoholkaart is niet rechtstreeks gevonden: verborgen tot alcoholaanbod bevestigd. Laatste toegang onbekend. | 02-11-2026: eigen 2026-conceptbericht https://www.neushoorn.nl/nieuws/nieuw-neushoorn-cafe-concept opnieuw gecontroleerd: in het café worden alleen dranken verkocht, waaronder lokaal gebrouwen dranken; externe restaurants verzorgen het eten. Dit versterkt de drankfunctie, maar noemt niet ondubbelzinnig een specifieke alcoholische drank op de gewone cafékaart; kandidaat blijft verborgen tot direct alcoholbewijs. | 02-11-2026 aanvullende controle: partneraanbieding met twee glazen tapbier of huiswijn geldig t/m 13-06-2026; eigen 01-07-2026 conceptbericht bevestigt voortzetting drankverkoop, eigen https://www.neushoorn.nl/cafe bevestigt vrije inloop do/vr 17–00 en za 17–22. Op basis van samenhang bronnen van verborgen naar Voorlopig, niet als 100%-actueel drankassortiment bewezen. Neushoorn Bunker Bar op hetzelfde adres is afzonderlijke binnenbar; geen duplicaat toegevoegd. https://www.neushoorn.nl/bunkerbar vermeldt tegenstrijdig 'vanaf 19:30' versus ma–do 19–00; geen baruren in dit caférecord overgenomen."
+      },
+      {
+        "id": "nieuwe-dikke-dries-c9188df",
+        "name": "Nieuwe Dikke Dries",
+        "reason": "Eigen site vermeldt ma–wo 11:00–01:00, do 11:00–02:00, vr–za 11:00–03:00, zo 13:00–22:00. Oude lokale gidsuren tot 04:00 waren niet primair en zijn vervangen. Laatste toegang niet gepubliceerd."
       },
       {
         "id": "njoy-poolcentrum-drachten-f14f10e",
