@@ -2367,8 +2367,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen website: openbaar café zonder tafelreserveringen; afzonderlijke proeverijen wel op reservering.",
+      "alcohol": "Eigen website noemt rum, jenever, whisky, bier, cognac en proeverijen.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "00:00",
@@ -2381,8 +2381,8 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.cafederat.nl/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "Officiële tijden gebruikt; lokale gids wijkt af.",
+      "checked_on": "2026-11-11",
+      "closing_notes": "Exploitantwebsite bevestigt dagelijks vanaf 14:00 en sluit ma/zo 00:00, di–do 01:00, vr/za 02:00; laatste toegang onbekend.",
       "features": "Speciaalbier / whisky",
       "website": "https://www.cafederat.nl/",
       "other_sources": [
@@ -2397,7 +2397,19 @@
         "matched_address": "Lange Smeestraat 37, 3511PT Utrecht"
       },
       "website_provenance": "official-closing-time-source (may be subpage)",
-      "website_checked_on": "2026-10-25"
+      "website_checked_on": "2026-11-11",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafederat.nl/",
+      "opening_checked_on": "2026-11-11",
+      "opening_quality": "Exploitantwebsite, weekrooster"
     },
     {
       "id": "cafe-domkop-c1aa362",
@@ -7097,8 +7109,8 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
-      "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
+      "access": "Eigen cafépagina nodigt bezoekers uit om te borrelen met vrienden en familie; publieke caféfunctie bevestigd.",
+      "alcohol": "Eigen cafépagina noemt cocktails en een ruim assortiment speciaalbieren.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "01:00",
@@ -7109,10 +7121,10 @@
         "za": "03:00",
         "zo": "01:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/ouwe-dikke-dries/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Exploitantwebsite, café-uren (geen keukenuren)",
+      "closing_source": "https://ouwedikkedries.nl/cafe/",
+      "checked_on": "2026-11-11",
+      "closing_notes": "Eigen cafépagina bevestigt ma–do/zo 12:00–01:00 en vr/za 12:00–03:00. Laatste toegang onbekend; keukenuren zijn afzonderlijk.",
       "features": "Wijk C",
       "website": "https://ouwedikkedries.nl/",
       "other_sources": [
@@ -7128,7 +7140,19 @@
         "matched_address": "Waterstraat 32, 3511BW Utrecht"
       },
       "website_provenance": "official-site-research",
-      "website_checked_on": "2026-10-26"
+      "website_checked_on": "2026-11-11",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://ouwedikkedries.nl/cafe/",
+      "opening_checked_on": "2026-11-11",
+      "opening_quality": "Exploitantwebsite"
     },
     {
       "id": "paloma-a372d3a",
@@ -7412,7 +7436,7 @@
       "city": "Utrecht",
       "region": "utrecht",
       "country": "Nederland",
-      "access": "Openbaar volgens locatieomschrijving; niet individueel geverifieerd",
+      "access": "Eigen website biedt publiek restaurant en groepslunch; geen uitsluitend besloten locatie.",
       "alcohol": "Bier/wijn/cocktails volgens type of bronnen; niet elk menu afzonderlijk gecheckt",
       "selection": "Voorlopig",
       "closing": {
@@ -7424,20 +7448,34 @@
         "za": "23:00",
         "zo": "23:00"
       },
-      "closing_quality": "Lokale gids (niet primair)",
-      "closing_source": "https://centrumutrecht.nl/company/restaurant-de-zakkendrager/",
-      "checked_on": "2026-10-25",
-      "closing_notes": "",
+      "closing_quality": "Eigen website vermeldt dagelijks 12:00–23:00; geen aparte laatste toegang",
+      "closing_source": "https://www.zakkendrager.nl/groepen-lunch/",
+      "checked_on": "2026-11-11",
+      "closing_notes": "Eigen pagina voor groepslunch noemt restaurant dagelijks geopend 12:00–23:00. Niet bewezen dat gasten tot 23:00 kunnen binnenkomen; laatste toegang onbekend.",
       "features": "Restaurant met caféhistorie",
-      "website": "",
+      "website": "https://www.zakkendrager.nl/",
       "other_sources": [],
-      "original_status": "In bron als locatie aangetroffen; bezoekstatus en drankenaanbod niet altijd apart geverifieerd",
+      "original_status": "Exploitantwebsite bevestigt actieve restaurantfunctie.",
       "geo": {
         "lat": 52.0926076,
         "lon": 5.1156262,
         "method": "PDOK BAG-adres",
         "matched_address": "Zakkendragerssteeg 26, 3511AA Utrecht"
-      }
+      },
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.zakkendrager.nl/groepen-lunch/",
+      "opening_checked_on": "2026-11-11",
+      "opening_quality": "Eigen website, groepslunchpagina; algemene daguren vermeld",
+      "website_checked_on": "2026-11-11",
+      "website_provenance": "Exploitantwebsite rechtstreeks gecontroleerd"
     },
     {
       "id": "restaurant-pieros-62374f3",
