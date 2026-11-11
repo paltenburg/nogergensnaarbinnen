@@ -1,8 +1,8 @@
 # Bronnenregister nogergensnaarbinnen
 
-Gegenereerd op 2026-11-10 uit de locatiedatabase en onderzoeksverslagen.
+Gegenereerd op 2026-11-11 uit de locatiedatabase en onderzoeksverslagen.
 
-**2535 geregistreerde bron-URL's**, 895 domeinen; gekoppeld aan **769 locaties**.
+**2537 geregistreerde bron-URL's**, 896 domeinen; gekoppeld aan **769 locaties**.
 
 Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere controledatum is overgenomen uit de betreffende databasevelden.
 
@@ -45,7 +45,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 |---|---:|---:|
 | allebiz.nl | 91 | 88 |
 | friesland.nl | 82 | 80 |
-| centrumutrecht.nl | 53 | 50 |
+| centrumutrecht.nl | 51 | 48 |
 | cylex.nl | 46 | 46 |
 | compadex.com | 45 | 46 |
 | visitleeuwarden.com | 37 | 33 |
@@ -105,6 +105,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | firmania.nl | 5 | 5 |
 | franeker.frl | 5 | 5 |
 | franeker.nl | 5 | 5 |
+| hetbrouwdok.nl | 5 | 1 |
 | hotel-duhoux.nl | 5 | 1 |
 | itpolderhus.nl | 5 | 1 |
 | itstee.nl | 5 | 1 |
@@ -138,7 +139,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | grootheerenveen.nl | 4 | 4 |
 | herbergdewaard.nl | 4 | 1 |
 | herbergvansmallingerland.nl | 4 | 1 |
-| hetbrouwdok.nl | 4 | 1 |
 | hetpaviljoendokkum.nl | 4 | 1 |
 | hotelsneek.nl | 4 | 1 |
 | hotelvanderwerff.nl | 4 | 1 |
@@ -457,6 +457,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | openingstijden.nl | 2 | 2 |
 | openkvk.nl | 2 | 2 |
 | outofhome-shops.nl | 2 | 2 |
+| ouwedikkedries.nl | 2 | 1 |
 | ouwestoep.nl | 2 | 1 |
 | pakhus9.nl | 2 | 1 |
 | papiscomfortkitchen.com | 2 | 2 |
@@ -527,6 +528,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | watervakantie.nl | 2 | 2 |
 | waze.com | 2 | 2 |
 | wijnbarvinvin.nl | 2 | 1 |
+| zakkendrager.nl | 2 | 1 |
 | zleeuwarden.nl | 2 | 1 |
 | zonneweeldets.nl | 2 | 1 |
 | 1841.nl | 1 | 3 |
@@ -809,7 +811,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 | organisaties.overheid.nl | 1 | 1 |
 | oudega-swf.nl | 1 | 1 |
 | oudepierement.nl | 1 | 1 |
-| ouwedikkedries.nl | 1 | 1 |
 | ovijlst.nl | 1 | 1 |
 | ovkoudum.nl | 1 | 1 |
 | ovs-skarsterlan.nl | 1 | 1 |
@@ -1573,7 +1574,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cafebak.nl
 
-- [https://www.cafebak.nl/](https://www.cafebak.nl/) — achtergrond, sluitingstijden, website; Café Bak; bronveld gecontroleerd: onbekend
+- [https://www.cafebak.nl/](https://www.cafebak.nl/) — achtergrond, sluitingstijden, website; Café Bak; bronveld gecontroleerd: 2026-11-11
 
 ### cafebarde.nl
 
@@ -1684,7 +1685,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### cafederat.nl
 
-- [https://www.cafederat.nl/](https://www.cafederat.nl/) — sluitingstijden, website; Café DeRat; bronveld gecontroleerd: 2026-10-25
+- [https://www.cafederat.nl/](https://www.cafederat.nl/) — openingstijden, sluitingstijden, website; Café DeRat; bronveld gecontroleerd: 2026-11-11
 
 ### cafederee.nl
 
@@ -1926,8 +1927,6 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://centrumutrecht.nl/company/little-dublin/](https://centrumutrecht.nl/company/little-dublin/) — sluitingstijden; Little Dublin; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/louis-hartlooper-complex/](https://centrumutrecht.nl/company/louis-hartlooper-complex/) — sluitingstijden; Louis Hartlooper Complex; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/mr-finch/](https://centrumutrecht.nl/company/mr-finch/) — sluitingstijden; Mr. Finch; bronveld gecontroleerd: onbekend
-- [https://centrumutrecht.nl/company/ouwe-dikke-dries/](https://centrumutrecht.nl/company/ouwe-dikke-dries/) — sluitingstijden; Ouwe Dikke Dries; bronveld gecontroleerd: onbekend
-- [https://centrumutrecht.nl/company/restaurant-de-zakkendrager/](https://centrumutrecht.nl/company/restaurant-de-zakkendrager/) — sluitingstijden; Restaurant De Zakkendrager; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/restaurant-pieros/](https://centrumutrecht.nl/company/restaurant-pieros/) — sluitingstijden; Restaurant Piero’s; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/rum-club/](https://centrumutrecht.nl/company/rum-club/) — sluitingstijden; Rum Club; bronveld gecontroleerd: onbekend
 - [https://centrumutrecht.nl/company/slachtstsraat-filmtheater/](https://centrumutrecht.nl/company/slachtstsraat-filmtheater/) — sluitingstijden; Slachtstraat Filmtheater; bronveld gecontroleerd: onbekend
@@ -2496,7 +2495,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### deskoffel.nl
 
-- [https://www.deskoffel.nl/](https://www.deskoffel.nl/) — achtergrond, website; Café De Skoffel; bronveld gecontroleerd: onbekend
+- [https://www.deskoffel.nl/](https://www.deskoffel.nl/) — achtergrond, website; Café De Skoffel; bronveld gecontroleerd: 2026-11-11
 - [https://www.deskoffel.nl/Contact](https://www.deskoffel.nl/Contact) — achtergrond, sluitingstijden; Café De Skoffel; bronveld gecontroleerd: onbekend
 
 ### desmallebrug.nl
@@ -3471,6 +3470,7 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 - [https://hetbrouwdok.nl/brouwerij/ontdekken/contact/](https://hetbrouwdok.nl/brouwerij/ontdekken/contact/) — achtergrond; Brouwdok Buitendijks (proeflokaal); bronveld gecontroleerd: onbekend
 - [https://hetbrouwdok.nl/proeflokaal/](https://hetbrouwdok.nl/proeflokaal/) — achtergrond; Brouwdok Buitendijks (proeflokaal); bronveld gecontroleerd: onbekend
 - [https://hetbrouwdok.nl/proeflokaal/ontdekken/](https://hetbrouwdok.nl/proeflokaal/ontdekken/) — achtergrond, openingstijden, sluitingstijden, website; Brouwdok Buitendijks (proeflokaal); bronveld gecontroleerd: 2026-11-01
+- [https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/](https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/) — achtergrond; Brouwdok Buitendijks (proeflokaal); bronveld gecontroleerd: onbekend
 - [https://hetbrouwdok.nl/webshop/](https://hetbrouwdok.nl/webshop/) — achtergrond; Brouwdok Buitendijks (proeflokaal); bronveld gecontroleerd: onbekend
 
 ### hetgraauwepaard.nl
@@ -4479,7 +4479,8 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 
 ### ouwedikkedries.nl
 
-- [https://ouwedikkedries.nl/](https://ouwedikkedries.nl/) — website; Ouwe Dikke Dries; bronveld gecontroleerd: 2026-10-26
+- [https://ouwedikkedries.nl/](https://ouwedikkedries.nl/) — website; Ouwe Dikke Dries; bronveld gecontroleerd: 2026-11-11
+- [https://ouwedikkedries.nl/cafe/](https://ouwedikkedries.nl/cafe/) — openingstijden, sluitingstijden; Ouwe Dikke Dries; bronveld gecontroleerd: 2026-11-11
 
 ### ouwestoep.nl
 
@@ -6109,6 +6110,11 @@ Dit is een inventaris, GEEN controle van live websites of tijden. Een eerdere co
 ### zaaltien.nl
 
 - [https://www.zaaltien.nl/contact.html](https://www.zaaltien.nl/contact.html) — achtergrond; Café De Stapper; bronveld gecontroleerd: onbekend
+
+### zakkendrager.nl
+
+- [https://www.zakkendrager.nl/](https://www.zakkendrager.nl/) — website; Restaurant De Zakkendrager; bronveld gecontroleerd: 2026-11-11
+- [https://www.zakkendrager.nl/groepen-lunch/](https://www.zakkendrager.nl/groepen-lunch/) — openingstijden, sluitingstijden; Restaurant De Zakkendrager; bronveld gecontroleerd: 2026-11-11
 
 ### zeezicht-terschelling.nl
 

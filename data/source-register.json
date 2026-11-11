@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-10",
+  "generated_on": "2026-11-11",
   "disclaimer": "Inventory only; this script does not visit websites. A checked-on date comes only from stored field provenance.",
   "counts": {
     "venues": 769,
-    "source_urls": 2535,
-    "domains": 895,
-    "direct_website_fields": 586
+    "source_urls": 2537,
+    "domains": 896,
+    "direct_website_fields": 587
   },
   "discovery_sites": [
     {
@@ -155,8 +155,8 @@
     },
     {
       "domain": "centrumutrecht.nl",
-      "source_pages": 53,
-      "linked_venues": 50
+      "source_pages": 51,
+      "linked_venues": 48
     },
     {
       "domain": "cylex.nl",
@@ -454,6 +454,11 @@
       "linked_venues": 5
     },
     {
+      "domain": "hetbrouwdok.nl",
+      "source_pages": 5,
+      "linked_venues": 1
+    },
+    {
       "domain": "hotel-duhoux.nl",
       "source_pages": 5,
       "linked_venues": 1
@@ -615,11 +620,6 @@
     },
     {
       "domain": "herbergvansmallingerland.nl",
-      "source_pages": 4,
-      "linked_venues": 1
-    },
-    {
-      "domain": "hetbrouwdok.nl",
       "source_pages": 4,
       "linked_venues": 1
     },
@@ -2214,6 +2214,11 @@
       "linked_venues": 2
     },
     {
+      "domain": "ouwedikkedries.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
       "domain": "ouwestoep.nl",
       "source_pages": 2,
       "linked_venues": 1
@@ -2560,6 +2565,11 @@
     },
     {
       "domain": "wijnbarvinvin.nl",
+      "source_pages": 2,
+      "linked_venues": 1
+    },
+    {
+      "domain": "zakkendrager.nl",
       "source_pages": 2,
       "linked_venues": 1
     },
@@ -3970,11 +3980,6 @@
     },
     {
       "domain": "oudepierement.nl",
-      "source_pages": 1,
-      "linked_venues": 1
-    },
-    {
-      "domain": "ouwedikkedries.nl",
       "source_pages": 1,
       "linked_venues": 1
     },
@@ -12741,11 +12746,13 @@
             "sluitingstijden",
             "website"
           ],
-          "checked_on": {},
+          "checked_on": {
+            "website": "2026-11-11"
+          },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": null,
+      "last_data_field_checked_on": "2026-11-11",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -13709,6 +13716,7 @@
       "last_manual_page_check_on": null,
       "manual_review_note": "",
       "roles": [
+        "openingstijden",
         "sluitingstijden",
         "website"
       ],
@@ -13717,16 +13725,18 @@
           "id": "cafe-derat-7d4767c",
           "name": "Café DeRat",
           "roles": [
+            "openingstijden",
             "sluitingstijden",
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-25"
+            "website": "2026-11-11",
+            "openingstijden": "2026-11-11"
           },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-25",
+      "last_data_field_checked_on": "2026-11-11",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -16595,54 +16605,6 @@
         {
           "id": "mr-finch-9c43b18",
           "name": "Mr. Finch",
-          "roles": [
-            "sluitingstijden"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": null,
-      "linked_venue_count": 1,
-      "needs_review": false
-    },
-    {
-      "url": "https://centrumutrecht.nl/company/ouwe-dikke-dries/",
-      "domain": "centrumutrecht.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "sluitingstijden"
-      ],
-      "venues": [
-        {
-          "id": "ouwe-dikke-dries-b26481a",
-          "name": "Ouwe Dikke Dries",
-          "roles": [
-            "sluitingstijden"
-          ],
-          "checked_on": {},
-          "needs_review": false
-        }
-      ],
-      "last_data_field_checked_on": null,
-      "linked_venue_count": 1,
-      "needs_review": false
-    },
-    {
-      "url": "https://centrumutrecht.nl/company/restaurant-de-zakkendrager/",
-      "domain": "centrumutrecht.nl",
-      "first_registered_on": "2026-10-26",
-      "last_manual_page_check_on": null,
-      "manual_review_note": "",
-      "roles": [
-        "sluitingstijden"
-      ],
-      "venues": [
-        {
-          "id": "restaurant-de-zakkendrager-ae31744",
-          "name": "Restaurant De Zakkendrager",
           "roles": [
             "sluitingstijden"
           ],
@@ -24824,11 +24786,13 @@
             "achtergrond",
             "website"
           ],
-          "checked_on": {},
+          "checked_on": {
+            "website": "2026-11-11"
+          },
           "needs_review": true
         }
       ],
-      "last_data_field_checked_on": null,
+      "last_data_field_checked_on": "2026-11-11",
       "linked_venue_count": 1,
       "needs_review": true
     },
@@ -37262,6 +37226,30 @@
       "needs_review": true
     },
     {
+      "url": "https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/",
+      "domain": "hetbrouwdok.nl",
+      "first_registered_on": "2026-11-11",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "achtergrond"
+      ],
+      "venues": [
+        {
+          "id": "havenbrouwerij-het-brouwdok-harlingen-4d6292c",
+          "name": "Brouwdok Buitendijks (proeflokaal)",
+          "roles": [
+            "achtergrond"
+          ],
+          "checked_on": {},
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": null,
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://hetbrouwdok.nl/webshop/",
       "domain": "hetbrouwdok.nl",
       "first_registered_on": "2026-10-30",
@@ -49173,14 +49161,42 @@
             "website"
           ],
           "checked_on": {
-            "website": "2026-10-26"
+            "website": "2026-11-11"
           },
-          "needs_review": false
+          "needs_review": true
         }
       ],
-      "last_data_field_checked_on": "2026-10-26",
+      "last_data_field_checked_on": "2026-11-11",
       "linked_venue_count": 1,
-      "needs_review": false
+      "needs_review": true
+    },
+    {
+      "url": "https://ouwedikkedries.nl/cafe/",
+      "domain": "ouwedikkedries.nl",
+      "first_registered_on": "2026-11-11",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "ouwe-dikke-dries-b26481a",
+          "name": "Ouwe Dikke Dries",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-11"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-11",
+      "linked_venue_count": 1,
+      "needs_review": true
     },
     {
       "url": "https://www.ouwestoep.nl/",
@@ -61367,7 +61383,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "olearys-e541c8d",
@@ -63490,7 +63506,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "s-s-r-n-u-dbc8e93",
@@ -64906,7 +64922,7 @@
             "achtergrond"
           ],
           "checked_on": {},
-          "needs_review": false
+          "needs_review": true
         },
         {
           "id": "pjay-ec4ee67",
@@ -72537,6 +72553,60 @@
       "needs_review": true
     },
     {
+      "url": "https://www.zakkendrager.nl/",
+      "domain": "zakkendrager.nl",
+      "first_registered_on": "2026-11-11",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "website"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-de-zakkendrager-ae31744",
+          "name": "Restaurant De Zakkendrager",
+          "roles": [
+            "website"
+          ],
+          "checked_on": {
+            "website": "2026-11-11"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-11",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
+      "url": "https://www.zakkendrager.nl/groepen-lunch/",
+      "domain": "zakkendrager.nl",
+      "first_registered_on": "2026-11-11",
+      "last_manual_page_check_on": null,
+      "manual_review_note": "",
+      "roles": [
+        "openingstijden",
+        "sluitingstijden"
+      ],
+      "venues": [
+        {
+          "id": "restaurant-de-zakkendrager-ae31744",
+          "name": "Restaurant De Zakkendrager",
+          "roles": [
+            "openingstijden",
+            "sluitingstijden"
+          ],
+          "checked_on": {
+            "openingstijden": "2026-11-11"
+          },
+          "needs_review": true
+        }
+      ],
+      "last_data_field_checked_on": "2026-11-11",
+      "linked_venue_count": 1,
+      "needs_review": true
+    },
+    {
       "url": "https://zeezicht-terschelling.nl/",
       "domain": "zeezicht-terschelling.nl",
       "first_registered_on": "2026-10-30",
@@ -73830,10 +73900,6 @@
       {
         "id": "pub-de-steeg-holwert-910e0a2",
         "name": "Pub De Steeg"
-      },
-      {
-        "id": "restaurant-de-zakkendrager-ae31744",
-        "name": "Restaurant De Zakkendrager"
       },
       {
         "id": "restaurant-pieros-62374f3",
@@ -75950,7 +76016,7 @@
       {
         "id": "cafe-bak-heerenveen-8f34eb5",
         "name": "Café Bak",
-        "reason": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend."
+        "reason": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend. Bron opnieuw gecontroleerd 11-11-2026: nog geen bedrijfseigen sluituren."
       },
       {
         "id": "cafe-bar-t-skutsje-drachten-7164f2f",
@@ -76255,7 +76321,7 @@
       {
         "id": "cafe-derat-7d4767c",
         "name": "Café DeRat",
-        "reason": "Officiële tijden gebruikt; lokale gids wijkt af."
+        "reason": "Exploitantwebsite bevestigt dagelijks vanaf 14:00 en sluit ma/zo 00:00, di–do 01:00, vr/za 02:00; laatste toegang onbekend."
       },
       {
         "id": "cafe-domkop-c1aa362",
@@ -77658,6 +77724,11 @@
         "reason": "Eigen site vermeldt woensdag t/m zondag 16:00–00:00. Ma/di niet genoemd: niet als gesloten aangenomen. Laatste toegang onbekend."
       },
       {
+        "id": "ouwe-dikke-dries-b26481a",
+        "name": "Ouwe Dikke Dries",
+        "reason": "Eigen cafépagina bevestigt ma–do/zo 12:00–01:00 en vr/za 12:00–03:00. Laatste toegang onbekend; keukenuren zijn afzonderlijk."
+      },
+      {
         "id": "paddy-o-ryan-leeuwarden-20f2717",
         "name": "Paddy O'Ryan",
         "reason": "Officiële homepage: ma/di 16–01, wo/do/zo 12–01, vr/za 12–02. Eigen contact-/reserveringspagina vermeldt afwijkend ma/di 12–01; homepage als primaire huidige bron gekozen. Laatste toegang niet vermeld."
@@ -77826,6 +77897,11 @@
         "id": "de-skeve-toren-leeuwarden-20261102",
         "name": "Restaurant De Skeve Toren",
         "reason": "Eigen https://deskevetoren.nl/contact/ en https://deskevetoren.nl/ geven ma/di gesloten, wo 11–22, do/vr/za 11–23, zo 11–22. Regiogids Friesland.nl toont ander rooster (di open); officiële exploitant voorrang. Op 28/29 december 2026 kondigt exploitant uitzonderlijke opening aan, maar zonder uren; geen vaste uren voor deze speciale dagen afgeleid. Gesloten op 25/26 december 2026, 31 december 2026 en 1 januari 2027, apart als date_closures opgeslagen. Op feest-/evenementdagen mogelijk afwijkende kaart; laatste toegang onbekend. | Datumuitzondering 28–29 december 2026 als date_schedules met onbekende uren gecodeerd: aangekondigd open, geen tijden gegokt."
+      },
+      {
+        "id": "restaurant-de-zakkendrager-ae31744",
+        "name": "Restaurant De Zakkendrager",
+        "reason": "Eigen pagina voor groepslunch noemt restaurant dagelijks geopend 12:00–23:00. Niet bewezen dat gasten tot 23:00 kunnen binnenkomen; laatste toegang onbekend."
       },
       {
         "id": "restaurant-de-zeven-wouden-sloten-20261031",
