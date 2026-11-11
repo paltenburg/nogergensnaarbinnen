@@ -13106,8 +13106,8 @@
       "city": "Harlingen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen site bevestigt openbaar proeflokaal, expliciet zonder entree; geen maaltijdverplichting vermeld.",
-      "alcohol": "Eigen gebrouwen speciaalbier van de tap, volgens eigen site.",
+      "access": "Eigen FAQ bevestigt vrije publieke inloop, geen entree of verplichte reservering; benedenruimte toegankelijk voor gasten. https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/ (2026-11-11).",
+      "alcohol": "Eigen FAQ bevestigt tapbier, wijn en sterke drank in het publieke proeflokaal: https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/ (gecontroleerd 2026-11-11).",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -13128,7 +13128,8 @@
         "https://hetbrouwdok.nl/proeflokaal/",
         "https://hetbrouwdok.nl/webshop/",
         "https://hetbrouwdok.nl/brouwerij/ontdekken/contact/",
-        "https://hetbrouwdok.nl/proeflokaal/ontdekken/"
+        "https://hetbrouwdok.nl/proeflokaal/ontdekken/",
+        "https://hetbrouwdok.nl/proeflokaal/ontdekken/faq/"
       ],
       "original_status": "Actueel publiek proeflokaal rechtstreeks bevestigd via eigen site 2026-10-30; niet live ter plaatse geverifieerd.",
       "geo": {
@@ -13151,7 +13152,7 @@
       "opening_source": "https://hetbrouwdok.nl/proeflokaal/ontdekken/",
       "opening_checked_on": "2026-11-01",
       "opening_quality": "Eigen proeflokaalpagina, maar conflict met eigen webshopfooter over vrijdagstart.",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-11",
       "closing_checked_on": "2026-11-01"
     },
     {
