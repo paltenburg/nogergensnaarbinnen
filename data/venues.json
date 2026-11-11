@@ -12158,7 +12158,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publiek café en borrel volgens eigen website; laatste toegang onbekend",
-      "alcohol": "Alcoholaanbod volgens horeca-/cafécategorie; niet per zaak gecontroleerd",
+      "alcohol": "Eigen website noemt een café voor een borrel en een breed aanbod aan dranken, maar specificeert geen alcoholische dranken voor Café Bak afzonderlijk; alcoholaanbod niet expliciet bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -12171,7 +12171,7 @@
       },
       "closing_quality": "Onbekend; geen bedrijfseigen weekrooster bevestigd",
       "closing_source": "https://www.cafebak.nl/",
-      "closing_notes": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend.",
+      "closing_notes": "Eigen website 30-10-2026 bevestigt actief Café Bak in centrum Heerenveen met publieke borrelfunctie; noemt geen controleerbaar weekrooster. Gids https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930 noemt do/vr/za tot 03/05, Cylex afwijkend tot 24:00; eindtijden niet overgenomen. Café Bubbles onder Café Bak is uitsluitend voor besloten feesten en wordt niet als aparte publieke venue toegevoegd. Exacte laatste toegang onbekend. Bron opnieuw gecontroleerd 11-11-2026: nog geen bedrijfseigen sluituren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.cafebak.nl/",
       "other_sources": [
@@ -12180,14 +12180,15 @@
         "https://www.allebiz.nl/caf%C3%A9-bak-0513-623-930",
         "https://www.cylex.nl/bedrijf/caf%C3%A9-bak-12291342.html"
       ],
-      "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
+      "original_status": "Eigen website beschrijft Café Bak als toegankelijk café in Heerenveen; actuele exploitatie op basis van eigen site bevestigd bij broncontrole 11-11-2026, zonder onafhankelijk bewijs van dagelijkse opening.",
       "geo": {
         "lat": 52.960526,
         "lon": 5.9224375,
         "method": "PDOK BAG-adres",
         "matched_address": "Oude Koemarkt 2, 8441EV Heerenveen"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-11",
+      "website_checked_on": "2026-11-11"
     },
     {
       "id": "it-houtsje-heerenveen-d2248cf",
