@@ -12070,8 +12070,8 @@
       "city": "Heerenveen",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Publiek café volgens eigen website; laatste toegang niet afzonderlijk bevestigd",
-      "alcohol": "Exploitantenberichten uit september/oktober 2026 noemen expliciet bier, tap, kroegbezoek en een gratis openbare kroegentocht op 13 november. Bron is een spiegel van sociale berichten, geen onafhankelijke live drankkaart.",
+      "access": "Eigen website verwelkomt stamgasten en voorbijgangers; openbare café-inloop bevestigd, zonder bewijs voor een vaste laatste toegang.",
+      "alcohol": "Eigen website noemt bier bij voetbalbijeenkomsten en het openbare 'bierontbijt'; daarmee is alcoholaanbod via primaire bron bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -12100,7 +12100,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwstraat 3, 8441GC Heerenveen"
       },
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-11",
       "opening": {
         "ma": "14:00",
         "di": "14:00",
@@ -12109,7 +12109,12 @@
         "vr": "14:00",
         "za": "12:00",
         "zo": "12:00"
-      }
+      },
+      "alcohol_source": "https://www.deskoffel.nl/Voetbal_SC_Heerenveen",
+      "alcohol_checked_on": "2026-11-11",
+      "access_source": "https://www.deskoffel.nl/",
+      "access_checked_on": "2026-11-11",
+      "website_checked_on": "2026-11-11"
     },
     {
       "id": "het-stamcafe-heerenveen-b1c29a4",
