@@ -37737,13 +37737,13 @@
       "alcohol": "Exploitant bevestigt bier, huiswijn, cocktails en sterke drank op actuele eigen drankenkaart (15-06-2026).",
       "selection": "Nog te controleren",
       "opening": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "17:15",
+        "wo": "17:15",
+        "do": "17:15",
+        "vr": "17:15",
+        "za": "17:15",
+        "zo": "17:15"
       },
       "closing": {
         "ma": "?",
@@ -37754,12 +37754,12 @@
         "za": "?",
         "zo": "?"
       },
-      "opening_quality": "Eigen site bevat geen volledig regulier caféweekrooster; externe restaurantgidsen spreken elkaar tegen.",
-      "opening_source": "",
-      "opening_checked_on": "2026-11-02",
+      "opening_quality": "Openingstijden restaurant volgens eigen bestelplatform; geen bevestiging van zelfstandige café-inloop. Sluitingstijden van bestelplatform niet als reguliere café-sluiting overgenomen.",
+      "opening_source": "https://degrillerije.sitedish.shop/contact",
+      "opening_checked_on": "2026-11-12",
       "closing_quality": "Onbekend; geen bedrijfseigen regulier sluituur of laatste toegang geverifieerd.",
       "closing_source": "",
-      "closing_notes": "02-11-2026: https://degrillerije.nl/ toont recente menuwijziging per 09-10-2026 en publieke restaurantfunctie; https://degrillerije.nl/drinken-bij-de-grillerije/ bevestigt cocktails, bier, wijn en sterke drank; https://degrillerije.nl/contact/ bevestigt Groenmarkt 14, 8801 KH Franeker. De eigen site noemt geen reguliere dag- of sluituren. Gids https://restaurantgids.nl/restaurant/de-grillerije-franeker gebruikt OSM-rooster (ma open, wo dicht), terwijl https://www.tripadvisor.nl/Restaurant_Review-g227917-d5796563-Reviews-Restaurant_De_Grillerije-Franeker_Friesland_Province.html ma gesloten en wo open noemt. Daarom geen gidsuren overgenomen. Losse barinloop zonder diner en laatste toegang onbekend; voorlopig verborgen. | 02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen.",
+      "closing_notes": "02-11-2026: https://degrillerije.nl/ toont recente menuwijziging per 09-10-2026 en publieke restaurantfunctie; https://degrillerije.nl/drinken-bij-de-grillerije/ bevestigt cocktails, bier, wijn en sterke drank; https://degrillerije.nl/contact/ bevestigt Groenmarkt 14, 8801 KH Franeker. De eigen site noemt geen reguliere dag- of sluituren. Gids https://restaurantgids.nl/restaurant/de-grillerije-franeker gebruikt OSM-rooster (ma open, wo dicht), terwijl https://www.tripadvisor.nl/Restaurant_Review-g227917-d5796563-Reviews-Restaurant_De_Grillerije-Franeker_Friesland_Province.html ma gesloten en wo open noemt. Daarom geen gidsuren overgenomen. Losse barinloop zonder diner en laatste toegang onbekend; voorlopig verborgen. | 02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen. | 12-11-2026: bedrijfseigen bestelplatform https://degrillerije.sitedish.shop/contact geeft restaurantopening ma gesloten, di–za 17:15, zo 17:15; sluit 20:00 (zo 19:30) op bestelplatform, niet bewezen als zelfstandig café-sluituur. Eigen restaurantwebsite bevestigt publieksfunctie en alcoholkaart, maar geen losse borrelinloop.",
       "website": "https://degrillerije.nl/",
       "website_checked_on": "2026-11-02",
       "other_sources": [
@@ -37768,10 +37768,11 @@
         "https://www.franeker.frl/bezoeken/159356/restaurant-de-grillerije/",
         "https://restaurantgids.nl/restaurant/de-grillerije-franeker",
         "https://allecijfers.nl/weg/groenmarkt-franeker/",
-        "https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091"
+        "https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091",
+        "https://degrillerije.sitedish.shop/contact"
       ],
       "original_status": "2026 exploitantenwebsite en alcoholkaart actueel; geen expliciete vrije borrelinloop of betrouwbaar caféweekrooster. Nog te controleren.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-12",
       "features": "D0 Waadhoeke / Franeker; publieke restaurantfunctie en cocktails, zelfstandige borrelinloop nog verifiëren",
       "geocode_blocked": true,
       "geocode_notes": "02-11-2026 BAG-adrescontrole: exploitant https://degrillerije.nl/contact/ noemt Groenmarkt 14, maar BAG-adressentabel peildatum 01-07-2026 https://allecijfers.nl/weg/groenmarkt-franeker/ heeft Groenmarkt 5 t/m 13 (o.a. 12, 13), geen 14; https://postcodebijadres.nl/groenmarkt%2Bfraneker noemt 3–13. Geen benaderde marker of willekeurige buurhuisnummermatch gebruiken. Eerst feitelijk ingang-/adresnummer bij exploitant of PDOK bevestigen. Aanvullend: KvK-afgeleide bedrijfsregistratie (12-02-2026) https://www.compadex.com/nl/businesses/nl/de-grillerije-01016352-10806091 bevestigt Groenmarkt 14 als feitelijk bedrijfsadres; het adres is dus niet op basis van de BAG-tegenspraak als fout aangemerkt. Geocode blijft geblokkeerd tot exacte ingang/BAG-relatie bevestigd."
