@@ -15405,24 +15405,25 @@
         "za": "?",
         "zo": "?"
       },
-      "closing_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld.",
+      "closing_quality": "Geen exacte sluituren of laatste toegang op officiële website; gidsuren niet overgenomen.",
       "closing_source": "https://amicaalgrou.nl/",
-      "closing_notes": "Dezelfde eigen website toont onderling tegenstrijdige ma/di-uren (historische coronaregels versus huidige footer); beide dagen onbekend. Geen sluiting of laatste toegang op site. Externe gidsen noemen uiteenlopende sluitingstijden, niet overgenomen.",
+      "closing_notes": "13-11-2026: officiële homepage en contactpagina geven beide ma/di gesloten en wo–zo openingsuren; oudere coronatekst op homepage is achterhaald. Vacaturepagina meldt zeven openingsdagen in zomervakantie, zonder specifieke uren. Reguliere sluiting en laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://amicaalgrou.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/grou",
         "https://amicaalgrou.nl/",
         "https://amicaalgrou.nl/contact/",
-        "https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal"
+        "https://www.friesland.nl/nl/locaties/959916552/wijn-tap-eethuis-amicaal",
+        "https://amicaalgrou.nl/vacatures/"
       ],
       "original_status": "Eigen website gecontroleerd 29-10-2026; geen live garantie dat zaak op elk moment open is.",
-      "website_checked_on": "2026-11-05",
-      "website_provenance": "Eigen site gecontroleerd 29-10-2026, bevestigt adres, uitbaters en drankaanbod; officiële site bevat intern tegenstrijdige informatie over ma/di. Hercontrole 05-11-2026: https://amicaalgrou.nl/ bevestigt Halbertsma’s plein 14, publieke bier/wijnborrel en exploitatie; site toont verouderde coronaregels naast huidige weekfooter, dus ma/di en sluituren blijven onzeker. BAG-ingang niet geverifieerd.",
-      "checked_on": "2026-11-05",
+      "website_checked_on": "2026-11-13",
+      "website_provenance": "13-11-2026: https://amicaalgrou.nl/ en https://amicaalgrou.nl/contact/ bevestigen ma/di gesloten, wo–zo vanaf genoemde tijden, publieke borrel en drankaanbod; https://amicaalgrou.nl/vacatures/ vermeldt seizoensafwijking (zeven dagen tijdens zomervakantie).",
+      "checked_on": "2026-11-13",
       "opening": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "11:00",
         "do": "11:00",
         "vr": "11:00",
@@ -15430,8 +15431,8 @@
         "zo": "11:00"
       },
       "opening_source": "https://amicaalgrou.nl/",
-      "opening_checked_on": "2026-10-29",
-      "opening_quality": "Eigen site noemt in footer ma/di open vanaf 11:00, maar in oude COVID-tekst ma/di gesloten; ma/di onbekend. Wo–zo openingsuren op beide delen consistent. Sluitingsuren niet vermeld.",
+      "opening_checked_on": "2026-11-13",
+      "opening_quality": "Huidige openingsuren op eigen homepage en contactpagina: maandag en dinsdag gesloten, woensdag t/m vrijdag en zondag vanaf 11:00, zaterdag vanaf 10:00. Dezelfde homepage bevat verouderde coronamaatregelen met andere uren; huidige weekrooster en contactpagina stemmen overeen. Seizoensuitzondering: vacaturepagina noemt september–juni vijf dagen en zomervakantie zeven dagen; zomerdagen niet als vast rooster ingevoerd.",
       "geocode_notes": "Eigen website bevestigt Halbertsmaplein 14. Strikte PDOK BAG-adresmatch voor 14 ontbreekt nog; geen adres van naburige unit overnemen. Onderzoek officiële BAG-spelling, postcode en eventuele huisnummertoevoeging voordat een marker wordt gezet."
     },
     {
