@@ -11243,7 +11243,7 @@
       "city": "Leeuwarden",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen website en Visit Leeuwarden bevestigen publieke dans-/uitgaansgelegenheid; laatste toegang onbekend",
+      "access": "Exploitant bevestigt publieke feestkroeg. Bij besloten feesten kan toegang voor overige bezoekers tijdelijk beperkt zijn: vanaf 30 gasten besloten tot 22:00, bij kleinere gezelschappen tot 21:00; maandag t/m woensdag besloten tot 22:00 volgens de feestpagina. Dit zijn geen reguliere sluituren of gegarandeerde heropeningstijden.",
       "alcohol": "Uitgebreid drankenassortiment volgens Visit Leeuwarden",
       "selection": "Voorlopig",
       "closing": {
@@ -11257,13 +11257,14 @@
       },
       "closing_quality": "Eigen website: aanvang; eindtijden niet vermeld; gidsen tegenstrijdig",
       "closing_source": "https://vriendenvanleeuwarden.nl/",
-      "closing_notes": "Eigen hoofdpagina 30-10-2026: ma/do vanaf 23, vr vanaf 22, za vanaf 21; di/wo/zo niet vermeld, dus onbekend, niet als gesloten verondersteld. Oudere eigen archiefpagina noemt afwijkende aanvangstijden; Friesland.nl noemt afwijkende dagen en 05:00 als sluiting. Eindtijden niet als officieel bevestigd.",
+      "closing_notes": "Eigen hoofdpagina 30-10-2026: ma/do vanaf 23, vr vanaf 22, za vanaf 21; di/wo/zo niet vermeld, dus onbekend, niet als gesloten verondersteld. Oudere eigen archiefpagina noemt afwijkende aanvangstijden; Friesland.nl noemt afwijkende dagen en 05:00 als sluiting. Eindtijden niet als officieel bevestigd. | 13-11-2026: https://vriendenvanleeuwarden.nl/jouw-feest/ vermeldt besloten feestblokken (30+ personen tot 22:00, kleinere gezelschappen tot 21:00; ma–wo tot 22:00). Niet als sluiting of reguliere inlooptijd gebruiken.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://vriendenvanleeuwarden.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://www.friesland.nl/nl/locaties/4177371018/vrienden-van-leeuwarden-1",
-        "https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1"
+        "https://www.visitleeuwarden.com/locaties/2843728193/vrienden-van-leeuwarden-1",
+        "https://vriendenvanleeuwarden.nl/jouw-feest/"
       ],
       "original_status": "Vermeld in geraadpleegde horecagids op 29 oktober 2026; actuele openingsstatus niet onafhankelijk bevestigd.",
       "geo": {
@@ -11281,7 +11282,9 @@
         "za": "21:00",
         "zo": "?"
       },
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-13",
+      "access_checked_on": "2026-11-13",
+      "access_source": "https://vriendenvanleeuwarden.nl/jouw-feest/"
     },
     {
       "id": "noah-eetcafe-sneek-sneek-e3c270c",
