@@ -16822,7 +16822,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publiek toegankelijk eetcafé: VVV Schiermonnikoog bevestigt dat bezoekers zonder maaltijd terechtkunnen voor een borrel; bedrijfssite noemt dagelijks geopend.",
-      "alcohol": "Bier en borrel expliciet bevestigd door VVV Schiermonnikoog.",
+      "alcohol": "Eigen exploitantwebsite bevestigt speciaalbier, gerstewijn, sangria en borrels; publieke caféfunctie zonder maaltijd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -16842,7 +16842,8 @@
         "https://uitgaanskaart.nl/cafe/schiermonnikoog",
         "https://hetoudeboothuis.nl/contact/",
         "https://www.vvvschiermonnikoog.nl/eten-en-drinken/cafe-discotheek/het-oude-boothuis",
-        "https://www.overuwbuurt.nl/kennisgeving/melding-voor-een-incidentele-festiviteit-et-live-muziek-op-26-september-2026-bij-eetcafe-het-oude-boothuis-te-schiermonnikoog/8948268"
+        "https://www.overuwbuurt.nl/kennisgeving/melding-voor-een-incidentele-festiviteit-et-live-muziek-op-26-september-2026-bij-eetcafe-het-oude-boothuis-te-schiermonnikoog/8948268",
+        "https://hetoudeboothuis.nl/over-ons/"
       ],
       "original_status": "Officiële bedrijfsinformatie gecontroleerd 2026-10-30; actuele exploitatie online onderbouwd, geen garantie van live beschikbaarheid.",
       "geo": {
@@ -16851,7 +16852,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Nieuwestreek 6, 9166LX Schiermonnikoog"
       },
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-13",
       "website_provenance": "Officiële bedrijfs-/exploitantwebsite op 2026-10-30 gecontroleerd: https://hetoudeboothuis.nl/contact/",
       "opening": {
         "ma": "?",
@@ -16865,7 +16866,7 @@
       "opening_source": "https://hetoudeboothuis.nl/contact/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Eigen site: 'Elke dag geopend', zonder beginuren.",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-13"
     },
     {
       "id": "tox-bar-schiermonnikoog-09b0f73",
@@ -20083,7 +20084,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Wijnbar toegankelijk zonder hotelovernachting of maaltijd; eigen contactpagina noemt spontaan plaatsnemen aan de bar.",
-      "alcohol": "Uitgebreid wijnassortiment en speciaalbieren op eigen website.",
+      "alcohol": "Eigen wijnbarpagina bevestigt wijnen, speciaalbieren, whisky en rum.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -20101,10 +20102,11 @@
       "website": "https://www.de4dames.nl/",
       "other_sources": [
         "https://www.de4dames.nl/contact/",
-        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2990038149/de-4-dames"
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/2990038149/de-4-dames",
+        "https://www.de4dames.nl/wijnbar-bistro/"
       ],
       "original_status": "Exploitantwebsite en lokale/regiogids op 2026-10-30 gecontroleerd; actuele beschikbaarheid niet live gegarandeerd.",
-      "website_checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-13",
       "website_provenance": "Directe officiële exploitantwebsite; naam/adres en borrelfunctie gecontroleerd op 2026-10-30.",
       "opening": {
         "ma": "10:00",
@@ -20118,7 +20120,7 @@
       "opening_source": "https://www.de4dames.nl/",
       "opening_checked_on": "2026-10-30",
       "opening_quality": "Bedrijfseigen informatie, zie notitie voor seizoens- of bronverschillen.",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-13",
       "geo": {
         "lat": 53.4793854,
         "lon": 6.1595465,
