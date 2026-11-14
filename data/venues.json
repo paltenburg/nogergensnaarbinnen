@@ -10236,7 +10236,7 @@
       },
       "closing_quality": "Tegenstrijdige bronnen; exact publiek weekrooster niet bevestigd, daarom alle sluitingen onbekend.",
       "closing_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
-      "closing_notes": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend. | 02-11-2026: eigen https://www.post-plaza.nl/agenda noemt Sounds & Bites op 06-11-2026 (Jord Brinkhuis) en 13-11-2026 (Hester Tadema). https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema noemt muziek 17:00–21:00 op 13 november. Dit is een evenementvenster, GEEN sluitingstijd of laatste toegang. Het 23:00/00:00/01:00 bronconflict blijft onopgelost.",
+      "closing_notes": "Op 30-10-2026 geverifieerd bronconflict: Visit Leeuwarden https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe noemt zo–do 00:00 en vr/za 01:00; bedrijfseigen https://www.post-plaza.nl/vergaderzalen/grand-cafe noemt 23:00 dagelijks maar staat onder groeps-/zaleninformatie. Algemene https://www.post-plaza.nl/restaurant bevestigt geen eindtijd. Geen van deze eindtijden als gegarandeerd publiek sluitingsuur aangenomen; alle dagen onbekend tot bevestiging. Laatste toegang onbekend. | 02-11-2026: eigen https://www.post-plaza.nl/agenda noemt Sounds & Bites op 06-11-2026 (Jord Brinkhuis) en 13-11-2026 (Hester Tadema). https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema noemt muziek 17:00–21:00 op 13 november. Dit is een evenementvenster, GEEN sluitingstijd of laatste toegang. Het 23:00/00:00/01:00 bronconflict blijft onopgelost. | 14-11-2026: eigen https://www.post-plaza.nl/restaurant/menukaart bevestigt ontbijt voor niet-hotelgasten 07:00–10:00 doordeweeks, 08:00–11:00 in weekend en vakanties. Vrijdag- en zondagstart hiermee aangevuld; dit bevestigt geen sluituren.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.post-plaza.nl/restaurant",
       "other_sources": [
@@ -10245,21 +10245,22 @@
         "https://visitleeuwarden.com/locaties/143017345/post-plaza-grand-cafe",
         "https://www.post-plaza.nl/vergaderzalen/grand-cafe",
         "https://www.post-plaza.nl/agenda",
-        "https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema"
+        "https://www.post-plaza.nl/agenda/sounds-bites-hester-tadema",
+        "https://www.post-plaza.nl/restaurant/menukaart"
       ],
       "original_status": "02-11-2026: officiële actuele Post-Plaza-agenda bevestigt aangekondigde live muziek in eigen Grand Café op 6 en 13 november 2026; dit ondersteunt doorlopende publieke horecaprogrammering, geen bewijs van daadwerkelijke uitvoering of vaste sluituren.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-14",
       "opening": {
         "ma": "07:00",
         "di": "07:00",
         "wo": "07:00",
         "do": "07:00",
-        "vr": "?",
+        "vr": "07:00",
         "za": "08:00",
-        "zo": "?"
+        "zo": "08:00"
       },
-      "opening_source": "https://www.friesland.nl/nl/locaties/143017345/post-plaza-grand-cafe",
-      "opening_checked_on": "2026-10-29",
+      "opening_source": "https://www.post-plaza.nl/restaurant/menukaart",
+      "opening_checked_on": "2026-11-14",
       "geo": {
         "lat": 53.2014,
         "lon": 5.8004999,
@@ -10268,7 +10269,7 @@
       },
       "website_provenance": "Officiële Post-Plaza-site bevestigt publiek Grand Café, wijn, borrel en vrijdagse livemuziek.",
       "website_checked_on": "2026-10-30",
-      "opening_quality": "Gids geeft vr/zo 08:00/07:00; bedrijfseigen groepspagina vr/zo 07:00/08:00. Vr/zo onbekend wegens conflict; andere dagen gidswaarden, niet officieel bevestigd."
+      "opening_quality": "Eigen actuele menukaart vermeldt publiek ontbijt op werkdagen 07:00–10:00 en in weekend/vakanties 08:00–11:00, ook voor niet-hotelgasten. Daarmee vr 07:00 en zo 08:00 als publieke start bevestigd; overige werkdagen 07:00 en zaterdag 08:00 komen overeen. Tijdens vakanties kan de ochtendstart afwijken naar 08:00. Geen bevestigde sluituren of laatste toegang."
     },
     {
       "id": "cafe-de-spoek-leeuwarden-6d9baae",
