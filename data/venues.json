@@ -38927,6 +38927,99 @@
       "checked_on": "2026-11-08",
       "closing_notes": "Officiële vestigingsinformatie noemt dagelijks 10:00–01:00. Laatste toegang en incidentele afwijkingen niet bevestigd. Exacte BAG-geocode ontbreekt en is niet gegokt.",
       "original_status": "Eigen exploitant bevestigt vestiging, publieke borrel en geadverteerde uren; exacte BAG-marker en laatste toegang nog niet geverifieerd."
+    },
+    {
+      "id": "gudzekop-proeflokaal-leeuwarden-20261114",
+      "name": "Gudzekop Proeflokaal Blokhuispoort",
+      "type": "Bierproeflokaal / brouwerij",
+      "address": "Blokhuisplein 40",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant nodigt bezoekers uit zonder boeking binnen te lopen voor bierproeven; proeverijarrangementen kunnen apart gereserveerd worden. November–februari alleen vrijdag en zaterdag regulier open.",
+      "alcohol": "Eigen brouwerijbier wordt in het proeflokaal geproefd; exploitant bevestigt verkoop en proeverijen.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.gudzekop.nl/",
+      "closing_source": "https://www.gudzekop.nl/",
+      "opening_checked_on": "2026-11-14",
+      "closing_checked_on": "2026-11-14",
+      "checked_on": "2026-11-14",
+      "opening_quality": "Eigen homepage: winterrooster november–februari vrijdag en zaterdag 13–18; overige dagen alleen proeverijen op afspraak.",
+      "closing_quality": "18:00 is expliciet einde van reguliere opening in winterrooster, niet laatste toegang.",
+      "closing_notes": "Eigen proeflokaalpagina https://www.gudzekop.nl/proeflokaal/ noemt buiten het winterrooster wo–za 13–18 en zondag op afspraak. Eigen homepage specificeert november–februari uitsluitend vrijdag en zaterdag 13–18. Dit record bevat het actuele winterrooster; na februari opnieuw beoordelen. Geen aparte laatste toegang gepubliceerd. Gedeeld Blokhuispoort-adres: geen BAG-marker zonder exacte publieksingang.",
+      "website": "https://www.gudzekop.nl/proeflokaal/",
+      "website_checked_on": "2026-11-14",
+      "other_sources": [
+        "https://www.gudzekop.nl/",
+        "https://visitleeuwarden.com/locaties/2235720491/brouwerij-gudzekop"
+      ],
+      "original_status": "Exploitant bevestigt actueel proeflokaal, bier en winteropening; gedeeld complexadres, ingang niet geverifieerd.",
+      "geocode_blocked": true,
+      "features": "Seizoensrooster november–februari; Blokhuispoort; bierproeverij"
+    },
+    {
+      "id": "eetcafe-de-visserman-stavoren-20261114",
+      "name": "Eetcafé De Visserman",
+      "type": "Eetcafé / borrelterras",
+      "address": "Noord 14",
+      "city": "Stavoren",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Exploitant nodigt gasten uit om binnen te lopen voor een drankje of op het haventerras te zitten; reservering van specifieke terrastafels niet mogelijk.",
+      "alcohol": "Eigen homepage bevestigt biologische huiswijn en ruime selectie speciaalbier met borrelhap.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "—",
+        "do": "—",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "21:00",
+        "di": "21:00",
+        "wo": "—",
+        "do": "—",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "opening_source": "https://de-visserman.nl/contact-route/",
+      "closing_source": "https://de-visserman.nl/contact-route/",
+      "opening_checked_on": "2026-11-14",
+      "closing_checked_on": "2026-11-14",
+      "checked_on": "2026-11-14",
+      "opening_quality": "Eigen contactpagina publiceert vijf dagen 12:00–21:00, woensdag/donderdag gesloten.",
+      "closing_quality": "Exploitant publiceert reguliere eindtijd 21:00; laatste toegang onbekend.",
+      "closing_notes": "Eigen contactpagina bevat tevens een oude tijdelijke sluitingsmelding 9–17 september zonder jaartal; niet toegepast als actueel novemberrooster. Vacature noemt gemiddelde uren 12–22; specifiek gepubliceerd contactrooster 12–21 leidend. Geen laatste toegang vermeld.",
+      "website": "https://de-visserman.nl/",
+      "website_checked_on": "2026-11-14",
+      "other_sources": [
+        "https://de-visserman.nl/contact-route/",
+        "https://de-visserman.nl/"
+      ],
+      "original_status": "Eigen site bevestigt actuele borrelfunctie, alcohol, adres en vijfdaags rooster.",
+      "features": "Haventerras, speciaalbier, huiswijn; zelfstandige borrel"
     }
   ],
   "admission_policies": [
