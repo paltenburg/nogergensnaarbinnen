@@ -39021,6 +39021,50 @@
       ],
       "original_status": "Eigen site bevestigt actuele borrelfunctie, alcohol, adres en vijfdaags rooster.",
       "features": "Haventerras, speciaalbier, huiswijn; zelfstandige borrel"
+    },
+    {
+      "id": "de-dining-vlieland-20261114",
+      "name": "Havenpaviljoen De Dining",
+      "type": "Havenrestaurant/borrel",
+      "address": "Havenweg 70",
+      "city": "Vlieland",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt openbare lunch, borrel en diner, maar winter 2026/2027 gesloten vanwege werkzaamheden aan de jachthaven.",
+      "alcohol": "Eigen website bevestigt wijn en borrelfunctie.",
+      "selection": "Nog te controleren",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "—",
+        "za": "—",
+        "zo": "—"
+      },
+      "opening_quality": "Exploitant: winter gesloten",
+      "closing_quality": "Exploitant: winter gesloten; geen reguliere jaarrond-sluituren bevestigd",
+      "opening_source": "https://www.dedining.nl/",
+      "closing_source": "https://www.dedining.nl/",
+      "checked_on": "2026-11-14",
+      "website_checked_on": "2026-11-14",
+      "website": "https://www.dedining.nl/",
+      "other_sources": [
+        "https://www.dedining.nl/contact",
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/3266546825/havenpaviljoen-de-dining-vlieland"
+      ],
+      "closing_notes": "14-11-2026: eigen homepage en contactpagina geven zeven dagen gesloten wegens bouwput in jachthaven gedurende winter. Oude /home-pagina bevat afwijkend historisch winterrooster; actuele homepage gevolgd. Heropeningsdatum en reguliere zomeruren onbekend; niet automatisch als permanent gesloten interpreteren. Laatste toegang onbekend. Geen geocode gegokt.",
+      "original_status": "Exploitant bevestigt locatie en tijdelijke wintersluiting; heropening niet bekend.",
+      "features": "Vlieland D0; winterstop; niet als nu open tonen"
     }
   ],
   "admission_policies": [
