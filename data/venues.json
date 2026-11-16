@@ -39065,6 +39065,53 @@
       "closing_notes": "14-11-2026: eigen homepage en contactpagina geven zeven dagen gesloten wegens bouwput in jachthaven gedurende winter. Oude /home-pagina bevat afwijkend historisch winterrooster; actuele homepage gevolgd. Heropeningsdatum en reguliere zomeruren onbekend; niet automatisch als permanent gesloten interpreteren. Laatste toegang onbekend. Geen geocode gegokt.",
       "original_status": "Exploitant bevestigt locatie en tijdelijke wintersluiting; heropening niet bekend.",
       "features": "Vlieland D0; winterstop; niet als nu open tonen"
+    },
+    {
+      "id": "lazy-lemon-leeuwarden-20261116",
+      "name": "Lazy Lemon",
+      "type": "Restaurant / bar / borrel",
+      "address": "Ruiterskwartier 135A",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Eigen website biedt publieke borrel, lunch en diner; individuele toegang niet fysiek gecontroleerd.",
+      "alcohol": "Borrelfunctie bevestigd; specifiek alcoholassortiment nog niet individueel geverifieerd.",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://lazylemon.nl/",
+      "closing_source": "https://lazylemon.nl/",
+      "opening_checked_on": "2026-11-16",
+      "closing_checked_on": "2026-11-16",
+      "website_checked_on": "2026-11-16",
+      "access_checked_on": "2026-11-16",
+      "checked_on": "2026-11-16",
+      "opening_quality": "Eigen website; reguliere openingstijden, afwijkingen op feestdagen en evenementen.",
+      "closing_quality": "Eigen website; reguliere sluitingstijden. Laatste toegang niet vermeld.",
+      "closing_notes": "Eigen website toont ma–wo en zo tot 22:00, do–za tot 23:00. Toeristische gids vermeldt alle dagen tot 22:00; primaire bron gevolgd. Eerste en tweede kerstdag, 31 december en 1 januari gesloten. Eventdagen afwijkende kaart. Laatste toegang onbekend.",
+      "website": "https://lazylemon.nl/",
+      "other_sources": [
+        "https://lazylemon.nl/arrangementen/",
+        "https://www.visitleeuwarden.com/locaties/743521415/lazy-lemon"
+      ],
+      "features": "Publieke borrel, restaurant, terras; feestdagen uitzonderingen",
+      "original_status": "16-11-2026: eigen exploitantwebsite bevestigt adres, publieke borrel en openingstijden. Geen BAG-geocode of fysieke ingang geverifieerd."
     }
   ],
   "admission_policies": [
