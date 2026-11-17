@@ -1,27 +1,21 @@
-# TODO — Nog ergens naar binnen
+# TODO — uurlijkse werkvoorraad | Nog ergens naar binnen
 
-Alleen **open werk**. Verwijder een taak zodra deze echt klaar is. Geen voortgangslog, afgeronde taken of uurlijkse checkpoints: de Git-geschiedenis bewaart de wijzigingen. `data/venues.json` is de enige masterdatabase; bron en controledatum horen bij het betreffende horecarecord.
+Alleen **concreet open onderzoeks- en herstelwerk** voor de uurlijkse uitvoerder. Werk zoveel mogelijk zaken per uitvoering af; niet één café per uur. Haal voltooide taken weg, houd geen voortgangslog bij en voorkom herhaald onderzoek zonder nieuwe bron. `data/venues.json` is de enige masterdatabase; bronnen en werkelijke controledatums horen bij de records. Leg na relevante wijzigingen de commit en publicatiecontrole vast.
 
-## Eerst aanpakken
+**Niet ieder uur opnieuw:** de wekelijkse regioaudit draait al in een **afzonderlijk schedule**. Heropeningsmonitoring, echte browsertests en de volgende projectfase staan in [BACKLOG.md](BACKLOG.md). Voer die niet als standaard uurlijkse controles uit.
 
-- [ ] **Mobiele site echt testen en zo nodig repareren:** kaart pannen/zoomen naar Sneek moet de actieve regio naar Friesland schakelen; controleer zichtbaar regio-label, scrollbare resultatenlijst en de **Nu**-knop (juiste dag/tijd én zichtbare feedback). Automatische tests zijn geen fysieke mobiele browsertest.
-- [ ] **Friesland: 54 ontbrekende kaartcoördinaten** exact tegen BAG/PDOK en de werkelijke publieksingang controleren, niet gokken. Begin Leeuwarden (6), Drachten (4), Sneek (3), Anjum (3); daarna de rest. Werkrij: [54 adressen](reports/friesland-geocode-werkrij-2026-11-07.md). Let op huisnummerreeksen en toevoegingen.
-- [ ] **Friesland: ontbrekende sluitings- en laatste-toegangstijden** met actuele primaire bronnen aanvullen. Prioriteer nachthoreca; 208 Friese locaties hebben wel een website maar nog geen exact regulier sluituur: [werklijst](reports/friesland-onbekende-sluituren-met-website-2026-11-07.md). Laat event-, keuken- en vergunningstijden niet doorgaan voor vaste caféuren. Laatste toegang blijft apart.
-- [ ] **Friesland D0-dekking afronden:** per gemeente, kleine plaats én de vier bewoonde Waddeneilanden gericht ontbrekende openbare alcoholhoreca zoeken, dubbele/historische vermeldingen uitfilteren, officiële sites controleren en onderbouwde gegevens meteen in de master opslaan. Richtpunt: identiteit/adres/actuele exploitatie van circa 80% onafhankelijk bevestigd; overige onzekerheden correct verborgen of gemarkeerd.
+## Direct afwerken — Friesland
 
-## Gerichte open bron- en adresconflicten
+- [ ] **Ontbrekende kaartcoördinaten:** werk de [54 adressen uit de werkrij van 7 november](reports/friesland-geocode-werkrij-2026-11-07.md) systematisch af. Begin Leeuwarden (6), Drachten (4), Sneek (3), Anjum (3), dan de rest. Exacte BAG/PDOK-match én werkelijke publieksingang controleren. Geen aangrenzend huisnummer, andere suffix of verzonnen marker gebruiken. Actualiseer aantallen na afgeronde batches; 54 is een historische werkrijstand.
+- [ ] **Ontbrekende sluitings- en laatste-toegangstijden:** werk de [werklijst van 7 november](reports/friesland-onbekende-sluituren-met-website-2026-11-07.md) af, met prioriteit voor nachthoreca. Destijds hadden 208 Friese locaties wel een website maar geen exact regulier sluituur. Alleen actuele, verifieerbare caféuren opnemen; event-, keuken- en vergunningstijden niet als reguliere sluiting invullen. Laatste toegang afzonderlijk vastleggen.
+- [ ] **Friesland D0-dekking:** per gemeente, kleine plaats en vier bewoonde Waddeneilanden ontbrekende publiek toegankelijke alcoholhoreca zoeken; dubbelingen/historische zaken uitfilteren; officiële sites, identiteit, adres en actuele exploitatie verifiëren. Onderbouwde vondsten direct in de master opslaan. Werk geografisch door waar nog gaten zijn, niet steeds dezelfde plekken. Richtpunt: circa 80% van de records aantoonbaar geverifieerd; onzekerheden correct markeren.
 
-- [ ] **Leeuwarden:** Eewal 50/52 en Oude Doelesteeg 2/2A (Bar Sybs / De Doelebar) op eigen ingang en BAG-unit controleren; voor Café De Rus ontbreekt nog een bedrijfseigen sluituur.
-- [ ] **Drachten:** Café-Bar 't Skûtsje heeft tegenstrijdige dinsdag-/woensdaguren; pas aanpassen bij nieuwe exploitantbevestiging. Controleer overige openstaande adres- en exploitatieconflicten tijdens de D0-ronde.
-- [ ] **Sneek:** daadwerkelijke publieke opening en adressen van Club 1841, Fenix en Karaokebar de Nachtegaal opnieuw controleren zodra er een actuele openingsbron is (medio november aangekondigd, niet bewezen). Controleer ook resterende onzekere cafés zoals 't Singeltje, NOAH en 't Ouwe Vat; oude gidsuren niet overnemen.
-- [ ] **Utrecht:** feitelijke heropeningen (o.a. Le Journal en De Prediker) en onzekere gedeelde horeca-ingangen verifiëren; alleen met bewijs actief tonen.
+## Concrete open bron- en adresproblemen
 
-## Doorlopende controles
+- [ ] **Leeuwarden:** Eewal 50/52 en Oude Doelesteeg 2/2A (Bar Sybs / De Doelebar) op eigen ingang en BAG-unit controleren; voor Café De Rus een bedrijfseigen sluituur zoeken.
+- [ ] **Drachten:** tegenstrijdige dinsdag-/woensdaguren van Café-Bar 't Skûtsje uitzoeken; alleen wijzigen bij nieuwe exploitantbevestiging. Overige adres- en exploitatieconflicten tijdens de D0-dekking oplossen.
+- [ ] **Sneek:** ontbrekende actuele bron-/ureninformatie onderzoeken voor onder meer 't Singeltje, NOAH en 't Ouwe Vat; geen oude gidsuren als bevestiging overnemen. De aangekondigde heropening van Club 1841/Fenix/Nachtegaal valt onder de afzonderlijke periodieke/event-controle in [BACKLOG.md](BACKLOG.md).
 
-- [ ] **Weekaudit W46**: vanaf **maandag 9 november 2026, 10:00 CET** een nieuwe echte bronsteekproef per actuele regio. Volgende deelgebieden: Utrecht **Oudegracht/Zadelstraat**, Friesland **Harlingen/Franeker**. Werk deze regel na afronding direct om naar de eerstvolgende week en de volgende deelgebieden; geen auditlog maken.
-- [ ] **Live publicatie en performance:** na relevante wijzigingen controleren of GitHub Actions/Pages slagen; de kaart en tijdfilters ook echt op mobiel/desktop controleren. Bij groei naar duizenden locaties kaartmarkers/lijstweergave efficiënt maken en automatische regiowissel over aangrenzende regio's stabiel houden.
+## Afrondingsregel
 
-## Daarna: landelijk uitbreiden
-
-- [ ] **D0-besluit Friesland:** start landelijke uitbreiding zodra de dekking voldoende is en geen kritieke kaart-, filter- of datakwaliteitsfouten meer blokkeren; 100% volledige sluituren zijn geen voorwaarde.
-- [ ] **Landelijke regio's en horeca:** eerst provincie-indeling en kaartgrenzen testen, daarna Groningen/Drenthe, Overijssel/Flevoland, Gelderland, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant/Limburg en provincie Utrecht buiten Utrecht-stad. Bestaande `friesland`- en `utrecht`-links en venue-IDs behouden; geen lege regio's publiceren. Per gemeente ook kleine plaatsen controleren; nieuwe actieve regio's automatisch in de weekaudit opnemen.
+Na een samenhangende batch: valideer de gewijzigde records en IDs, commit, controleer de relevante Actions/Pages-publicatie, en pak de volgende open taak op. Een geblokkeerd geval zonder nieuwe bron kort als onzeker markeren en **doorgaan** met ander werk; niet elk volgend uur hetzelfde vruchteloos opnieuw zoeken. Zodra Friesland D0 aantoonbaar is gehaald, wordt de landelijke fase in [BACKLOG.md](BACKLOG.md) actief in plaats van een uurlijkse hercontrole van het startcriterium.
