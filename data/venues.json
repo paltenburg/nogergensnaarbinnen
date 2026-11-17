@@ -34279,7 +34279,7 @@
       "city": "Sneek",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Sneek.nl nodigt uit voor 'tapas of een drankje' bij Bodega y Tapas of het naastgelegen Hanenburg; eigen vestigingssite richt zich vooral op onbeperkt tapas eten. Vrije alcoholinloop zonder maaltijd niet expliciet door exploitant bevestigd.",
+      "access": "Eigen algemene menukaart biedt een afzonderlijke borrelkaart met losse tapas/planken; vestigingspagina bevestigt cocktails en sangria. Een bezoek uitsluitend voor drank zonder maaltijd is niet expliciet gegarandeerd.",
       "alcohol": "Eigen vestigingssite vermeldt cocktails en sangria; Sneek.nl bevestigt drankjes en een uitnodiging voor alleen een drankje.",
       "selection": "Voorlopig",
       "opening": {
@@ -34304,7 +34304,7 @@
       "opening_checked_on": "2026-11-01",
       "closing_source": "",
       "closing_quality": "Eigen vestigingspagina noemt di–zo vanaf 16:00 maar geen bar-/restaurantsluiting. Gidsen verschillen tussen 23:00 en 00:00; geen daarvan als feit overgenomen.",
-      "closing_notes": "01-11-2026: https://www.bodega-y-tapas.nl/vestigingen/sneek/ bevestigt adres en di–zo vanaf 16:00; maandag niet expliciet als gesloten vermeld, dus ?. https://www.sneek.nl/zien-doen/bodega-y-tapas noemt 'tapas of een drankje'. https://www.grootsneek.nl/nieuws/in-bedrijf/113705/iris-de-jong-opent-op-woensdag-9-juli-nieuwe-horecazaak-in-sn beschrijft twee afzonderlijke concepten in één pand, Bodega links en Hanenburg rechts. Geen barsluiting, laatste toegang of maaltijdvrije toegangsgarantie vastgesteld. Niet verwarren met Hanenburg Stadscafé.",
+      "closing_notes": "01-11-2026: https://www.bodega-y-tapas.nl/vestigingen/sneek/ bevestigt adres en di–zo vanaf 16:00; maandag niet expliciet als gesloten vermeld, dus ?. https://www.sneek.nl/zien-doen/bodega-y-tapas noemt 'tapas of een drankje'. https://www.grootsneek.nl/nieuws/in-bedrijf/113705/iris-de-jong-opent-op-woensdag-9-juli-nieuwe-horecazaak-in-sn beschrijft twee afzonderlijke concepten in één pand, Bodega links en Hanenburg rechts. Geen barsluiting, laatste toegang of maaltijdvrije toegangsgarantie vastgesteld. Niet verwarren met Hanenburg Stadscafé. | 17-11-2026: officiële borrelkaart bevestigt los bestelbare tapas/planken, maar geen sluituur of expliciete drank-only inloop.",
       "features": "Spaanse tapas, sangria, cocktails; afzonderlijk concept naast Hanenburg Stadscafé",
       "website": "https://www.bodega-y-tapas.nl/vestigingen/sneek/",
       "website_checked_on": "2026-11-01",
@@ -34312,11 +34312,14 @@
       "other_sources": [
         "https://www.sneek.nl/zien-doen/bodega-y-tapas",
         "https://www.grootsneek.nl/nieuws/in-bedrijf/113705/iris-de-jong-opent-op-woensdag-9-juli-nieuwe-horecazaak-in-sn",
-        "https://www.waterlandvanfriesland.nl/nl/locaties/2432735054/bodega-y-tapas"
+        "https://www.waterlandvanfriesland.nl/nl/locaties/2432735054/bodega-y-tapas",
+        "https://www.bodega-y-tapas.nl/menukaart/"
       ],
       "original_status": "Eigen actuele vestigingspagina en Sneek.nl bevestigen exploitatie, alcohol en bezoek voor drankje; zelfstandige inloop zonder tapas blijft afzonderlijk te verifiëren.",
       "geocode_blocked": true,
-      "geocode_notes": "Zelfde BAG-adres Wijde Noorderhorne 2 als Hanenburg Stadscafé; twee onderscheiden exploitantconcepten in hetzelfde pand, maar fysieke ingangspositie niet afzonderlijk geverifieerd. Geen tweede overlappende marker gegokt."
+      "geocode_notes": "Zelfde BAG-adres Wijde Noorderhorne 2 als Hanenburg Stadscafé; twee onderscheiden exploitantconcepten in hetzelfde pand, maar fysieke ingangspositie niet afzonderlijk geverifieerd. Geen tweede overlappende marker gegokt.",
+      "access_source": "https://www.bodega-y-tapas.nl/menukaart/",
+      "access_checked_on": "2026-11-17"
     },
     {
       "id": "bistro-sinnyn-franeker-20261101",
