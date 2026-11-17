@@ -15961,21 +15961,21 @@
       "city": "West-Terschelling",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Eigen site noemt lunch, diner en losse borrel zonder maaltijdverplichting.",
+      "access": "Officiële reserveringspagina bevestigt dat borrelgasten zonder reservering kunnen binnenlopen.",
       "alcohol": "Eigen site bevestigt eigen Schoemrakker-bieren van de tap.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
       },
-      "closing_quality": "VVV Terschelling noemt 23:00, andere toeristische vermelding noemt 17:00; eigen site geeft geen sluitingsuur. Daarom onbekend.",
-      "closing_source": "https://www.storm-terschelling.nl/",
-      "closing_notes": "Officiële site bevestigt eetcafé en bier van eigen brouwerij, geen exacte openingstijden. VVV https://www.vvvterschelling.nl/bedrijven/eetcafe-storm/ vermeldt 11:30–23:00 alle dagen; https://www.ontdek-terschelling.nl/eten-en-drinken/storm/ geeft afwijkende 11:30–17:00 (overdag) en afhaal/bezorging in avond. Start 11:30 als VVV-vermelding, eindtijd onbekend. Laatste toegang onbekend.",
+      "closing_quality": "Officiële exploitantpagina met expliciet dagelijks rooster 11:30–23:00; incidentele afwijkingen niet uitgesloten.",
+      "closing_source": "https://www.storm-terschelling.nl/openingstijden/",
+      "closing_notes": "17-11-2026: eigen https://www.storm-terschelling.nl/openingstijden/ vermeldt voor ma–zo 11:30–23:00. Eigen https://www.storm-terschelling.nl/reserveren/ bevestigt losse borrelinloop zonder reservering. Laatste toegang niet vermeld; uitzonderingen niet uitgesloten.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://www.storm-terschelling.nl/",
       "other_sources": [
@@ -16002,10 +16002,13 @@
         "za": "11:30",
         "zo": "11:30"
       },
-      "opening_source": "https://www.storm-terschelling.nl/",
-      "opening_checked_on": "2026-10-30",
-      "opening_quality": "VVV Terschelling vermeldt dagelijks vanaf 11:30; eigen site bevestigt zaak en adres maar publiceert geen weekuren.",
-      "checked_on": "2026-10-30"
+      "opening_source": "https://www.storm-terschelling.nl/openingstijden/",
+      "opening_checked_on": "2026-11-17",
+      "opening_quality": "Officiële exploitantpagina: dagelijks 11:30–23:00.",
+      "checked_on": "2026-11-17",
+      "closing_checked_on": "2026-11-17",
+      "access_source": "https://www.storm-terschelling.nl/reserveren/",
+      "access_checked_on": "2026-11-17"
     },
     {
       "id": "cafe-de-zomer-west-terschelling-54c8f87",
