@@ -7,7 +7,7 @@
 - [ ] **Bar Bascule (Leeuwarden):** laatste toegang 03:00 staat al in master. APV Leeuwarden gebied 1 staat open tot 05:00 toe, maar bewijst geen feitelijk sluituur. Eigen site noemt 7 avonden, elders 6; rooster verifiëren (18-11-2026). https://www.barbascule.nl/deurbeleid
 - [ ] **Broncontrole 18-11:** De Stee (Leeuwarden): tijdelijke sluiting staat al in master; heropening blijven controleren. De Skoffel (Heerenveen): beginuren staan al in master; sluituren onbekend, afwijkende oude zaterdagbron verifiëren. https://www.destee.nl/nieuwe-site/ · https://www.deskoffel.nl/
 
-- [ ] **Gedeelde adressen controleren:** 4 Friese adresgroepen met meerdere records (Harlingen Voorstraat 64; Grou Nieuwe Kade 1; Sneek Wijde Noorderhorne 2; Leeuwarden Blokhuisplein 40). Vaststellen of afzonderlijke zaken, opvolgers of dubbelen; niet automatisch samenvoegen.
+- [ ] **Gedeelde adressen:** Harlingen Voorstraat 64 (Rednick historisch; Gewoán Sven actueel — opvolging nog bevestigen); Leeuwarden Blokhuisplein 40 (Proefverlof, Café de Bak en Gudzekop: aparte concepten; exacte publieksingangen controleren). Grou Nieuwe Kade 1 en Sneek Wijde Noorderhorne 2 zijn in master al als verschillende functies/concepten onderbouwd; geen dubbelen.
 
 - [ ] **Friesland D0 afronden:** dekkings- en datakwaliteit controleren en vaststellen wanneer landelijke uitbreiding kan beginnen.
 
@@ -18,3 +18,5 @@
 Controle 18-11: master via blob-SHA volledig gelezen (773 locaties: Friesland 549, Utrecht 224; 59 zonder geo; 6 gedeelde adresgroepen). `fetch_file` blijft leeg voor groot JSON; gebruik `fetch_blob` met SHA `d55ee6ac3da2d4425ed81e691605afe85b135b5f`. Geen brongeverifieerde locatiecorrecties; master ongewijzigd.
 
 Controle 18-11 (vervolg): gedeelde adressen Vlieland Dorpsstraat 61 (ZeeVaert/'t Praethuys: twee aparte WestCord-zaken) en Nes Marten Janszenstraat 3 (De Brouwerij/De Lichtboei: café en discotheek) officieel bevestigd; beide geen dubbelen. Bestaande masterrecords en roosters kloppen met de gecontroleerde bronnen; geen wijziging in `data/venues.json`. Bronnen: https://westcordhotels.nl/hotel/hotel-de-wadden/ · https://www.delichtboei-ameland.nl/contact
+
+Controle 18-11 (adresgroepen): alle 773 masterrecords via blob gelezen. Grou: openbaar Oostergoo versus besloten verhuurcafé d'Oude Oost. Sneek: Hanenburg en Bodega y Tapas afzonderlijke concepten. Blokhuisplein 40: drie verschillende formules, fysieke ingangen nog open. Harlingen: Rednick historisch versus actueel Gewoán Sven; opvolging niet bewezen. Geen masterwijzigingen.
