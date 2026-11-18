@@ -10032,15 +10032,16 @@
       },
       "closing_quality": "Nog niet geopend; geen geverifieerde openingstijden",
       "closing_source": "",
-      "checked_on": "",
-      "closing_notes": "Opening voor half november 2026 aangekondigd maar niet als feitelijk geopend geverifieerd (29 oktober). Adres bevestigd door gemeentelijke aanvraag, geen bewijs dat horecavergunning reeds verleend is. Niet opnemen in publiek zoekresultaat tot heropeningscontrole.",
+      "checked_on": "2026-11-18",
+      "closing_notes": "18-11-2026: Neude Nieuws (13-11) meldt geplande opening donderdag 26 november 2026, woensdag t/m zaterdag vanaf 17:00. Nog geen bevestiging van feitelijke opening of sluituren; tot opening niet als toegankelijk tonen.",
       "features": "Cocktailbar",
       "website": "",
       "other_sources": [
         "https://zoek.officielebekendmakingen.nl/gmb-2026-140677.html",
-        "https://tastytrails.nl/hotspots/bars/utrecht-krijgt-er-met-de-prediker-een-nieuwe-speakeasy-bij/"
+        "https://tastytrails.nl/hotspots/bars/utrecht-krijgt-er-met-de-prediker-een-nieuwe-speakeasy-bij/",
+        "https://neudenieuws.beehiiv.com/p/dit-weekend-fietsen-langs-architectuur-en-naar-een-lunchconcert"
       ],
-      "original_status": "Handmatig toegevoegd na raadpleging primaire of expliciet vermelde bronnen op 29 oktober 2026",
+      "original_status": "Opening op 26 november 2026 aangekondigd door Neude Nieuws (13-11); per 18 november nog niet geopend bevestigd.",
       "geo": {
         "lat": 52.0943588,
         "lon": 5.1187163,
@@ -10058,7 +10059,7 @@
       },
       "opening_source": "",
       "opening_checked_on": "",
-      "planned_opening": "2026-11"
+      "planned_opening": "2026-11-26"
     },
     {
       "id": "paddy-o-ryan-leeuwarden-20f2717",
