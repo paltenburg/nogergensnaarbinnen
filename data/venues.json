@@ -20203,7 +20203,7 @@
         "https://www.visitwadden.nl/nl/bezoeken/eten-drinken/brasseries/1391310235/restaurant-noderstraun"
       ],
       "opening_quality": "Exploitant bevestigt nov/dec vr–ma vanaf 10:30, behalve kerstvakantie; uitsluitend gedateerd rooster 01-11 t/m 18-12.",
-      "closing_notes": "Eigen contactpagina geeft okt 2026 ma 19, di/wo 17, do 19, vr–zo 20 maar verklaart dat keukensluiting niet betekent dat bezoekers moeten vertrekken; november/december alleen vr–ma vanaf 10:30, kerstvakantie andere dagen. Geen vaste cafésluiting of laatste toegang; seizoensuren niet als jaarrooster opgeslagen.",
+      "closing_notes": "Reguliere jaarafsluiting onbekend. Officiële contactpagina bevestigt 01-11 t/m 18-12-2026 vr–ma tot 20:00; keuken tot 19:00. Di–do gesloten behalve groepen/evenementen. Kerstvakantie afwijkend; zie date_schedules. Laatste toegang onbekend.",
       "city": "Schiermonnikoog",
       "region": "friesland",
       "country": "Nederland",
@@ -20234,7 +20234,7 @@
       },
       "opening_source": "https://www.beachclubnoderstraun.com/contact",
       "opening_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-18",
       "geo": {
         "lat": 53.4903636,
         "lon": 6.1499061,
@@ -20247,7 +20247,7 @@
           "start": "2026-11-01",
           "end": "2026-12-18",
           "source": "https://www.beachclubnoderstraun.com/contact",
-          "checked_on": "2026-11-01",
+          "checked_on": "2026-11-18",
           "opening": {
             "ma": "10:30",
             "di": "—",
@@ -20258,18 +20258,18 @@
             "zo": "10:30"
           },
           "closing": {
-            "ma": "?",
+            "ma": "20:00",
             "di": "—",
             "wo": "—",
             "do": "—",
-            "vr": "?",
-            "za": "?",
-            "zo": "?"
+            "vr": "20:00",
+            "za": "20:00",
+            "zo": "20:00"
           }
         }
       ],
-      "date_schedules_checked_on": "2026-11-01",
-      "date_schedule_notes": "01-11-2026: exploitant noemt november/december vr t/m ma vanaf 10:30. Keuken tot 19:00 is geen café-sluiting, daarom alle sluituren onbekend. Kerstvakantie vanaf 19 december andere dagen: niet in dit rooster opgenomen. Zonder exact einduur niet in tijdgefilterde resultaten."
+      "date_schedules_checked_on": "2026-11-18",
+      "date_schedule_notes": "18-11-2026: officiële contactpagina vermeldt november/december vr–ma 10:30–20:00, di–do gesloten (uitgezonderd groepen/evenementen). Keuken tot 19:00 is apart vermeld. Kerstvakantie vanaf 19 december wijkt af; laatste toegang onbekend."
     },
     {
       "id": "hotel-van-der-werff-cafe-schiermonnikoog-20261030",
