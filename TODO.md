@@ -8,6 +8,7 @@
 - [ ] **Broncontrole 18-11:** De Stee (Leeuwarden): tijdelijke sluiting staat al in master; heropening blijven controleren. De Skoffel (Heerenveen): beginuren staan al in master; sluituren onbekend, afwijkende oude zaterdagbron verifiëren. https://www.destee.nl/nieuwe-site/ · https://www.deskoffel.nl/
 
 - [x] **Database-toegang:** volledige `data/venues.json` (773 locaties) gelezen via GitHub blob-SHA; bestaande tijden en status gecontroleerd 18-11-2026. Geen databasewijziging nodig voor deze punten.
+- [ ] **Broncontrole 18-11 (aanvullend):** Café De Kroon (Sneek): eigen site bevestigt wo/do 16:00, vr–zo 14:00, uiterlijk 01:45; staat al correct in master, geen vast sluituur. De Gouverneur (Leeuwarden): restauranturen wo/do/zo 17:30–23:00, vr/za 17:30–00:00, ma/di dicht; losse borrelinloop onbevestigd, terecht verborgen. https://cafedekroonsneek.nl/ · https://degouverneurleeuwarden.nl/contact/
 - [ ] **Friesland D0 afronden:** dekkings- en datakwaliteit controleren en vaststellen wanneer landelijke uitbreiding kan beginnen.
 
 - [ ] **Heropeningen controleren:** Le Journal, De Prediker, Club 1841, Fenix en Karaokebar de Nachtegaal.
