@@ -11,11 +11,11 @@
 
 - [ ] **Gedeelde adressen:** Harlingen: Gewoán Sven huidig Voorstraat 64 (VVV/KvK 2026), Lanen 39 historisch bevestigd door gemeentelijke terrasaanvraag 2017; Rednick op Voorstraat 64 alleen gidsvermelding, actuele zelfstandigheid onduidelijk. Leeuwarden Blokhuisplein 40 (Proefverlof, Café de Bak en Gudzekop: aparte concepten; publieksingangen controleren). Grou en Sneek al als verschillende concepten onderbouwd; geen dubbelen.
 
-- [ ] **Friesland D0 afronden:** dekkings- en datakwaliteit controleren en vaststellen wanneer landelijke uitbreiding kan beginnen.
+- [ ] **Buiten Friesland uitbreiden (nu):** begin met Groningen, Drenthe en Overijssel; werk daarna door naar andere provincies. Zoek en verifieer horeca met alcohol per stad/dorp in batches en voeg toe aan `data/venues.json`. Friesland D0 is géén voorwaarde; wissel uitbreiding buiten Friesland af met Friese verbeteringen. Vermijd dubbelen en verzin geen tijden.
 
 - [ ] **Heropeningen controleren:** Le Journal, De Prediker, Club 1841, Fenix en Karaokebar de Nachtegaal. Club 1841 (Sneek): na brand 2024 kondigden ondernemers op 10-07-2026 samenwerking met Café Fokk’s voor vernieuwd pand aan; eigen site toont nog reguliere openingstijden, maar actuele heropening niet bevestigd. Niet als geopend markeren. https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca · https://www.club1841.nl/homepagina/
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
-- [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
+- [ ] **Landelijke dekking opbouwen:** voeg doorlopend ontbrekende regio's en gemeenten toe, ook wanneer eerdere regio's nog niet compleet zijn. Werk waar nodig regio-indeling en kaartweergave bij.
 
 Controle 19-11: Post-Plaza: eigen zalenpagina noemt dagelijks 23:00, maar dit is geen bevestiging van publiek café-sluituur; conflict met Visit Leeuwarden (00:00/01:00) blijft. Elzibar: eigen rockcafépágina noemt dagelijks open, geen sluituren. Geen masterwijziging. https://www.post-plaza.nl/vergaderzalen/grand-cafe · https://www.rockcafe-leeuwarden.nl/nl/rockcafe
 
