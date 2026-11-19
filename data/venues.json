@@ -39740,6 +39740,354 @@
       "closing_notes": "Wo–zo vanaf 16:30; keuken tot 21:00 maar bar langer open. Sluituur onbekend.",
       "website": "https://www.witterbrug.nl/",
       "other_sources": []
+    },
+    {
+      "id": "cafe-bistro-kult-groningen",
+      "name": "Café bistro Kult",
+      "type": "Café",
+      "address": "Steentilstraat 36",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Cocktails en borrels",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "03:00",
+        "wo": "03:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/450393950/cafe-bistro-kult",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/450393950/cafe-bistro-kult"
+      ]
+    },
+    {
+      "id": "cafe-salud-groningen",
+      "name": "Café Salud",
+      "type": "Café",
+      "address": "Carolieweg 31",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Tap- en flesbier",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "—"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/4182700154/cafe-salud",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/4182700154/cafe-salud"
+      ]
+    },
+    {
+      "id": "cilinder-groningen",
+      "name": "Cilinder",
+      "type": "Café",
+      "address": "Oosterstraat 13A",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Bier, wijn en cocktails",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "—"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2666664928/cilinder",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2666664928/cilinder"
+      ]
+    },
+    {
+      "id": "de-uurwerker-groningen",
+      "name": "De Uurwerker",
+      "type": "Café",
+      "address": "Uurwerkersplein 1",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Borrel",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:30",
+        "za": "00:30",
+        "zo": "22:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker"
+      ]
+    },
+    {
+      "id": "ons-cafe-assen",
+      "name": "Ons Café",
+      "type": "Café",
+      "address": "Kerkstraat 9",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Café; alcoholaanbod niet afzonderlijk geverifieerd",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "03:00",
+        "di": "03:00",
+        "wo": "03:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "—"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.ditisassen.nl/nl/locaties/81855761/ons-cafe",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.ditisassen.nl/nl/locaties/81855761/ons-cafe"
+      ]
+    },
+    {
+      "id": "de-witte-bal-assen",
+      "name": "De Witte Bal",
+      "type": "Café",
+      "address": "Kleine Marktstraat 1",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Café; alcoholaanbod niet afzonderlijk geverifieerd",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.ditisassen.nl/nl/locaties/1356541085/de-witte-bal",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.ditisassen.nl/nl/locaties/1356541085/de-witte-bal"
+      ]
+    },
+    {
+      "id": "rock-cafe-metropolis-assen",
+      "name": "Rock Café Metropolis",
+      "type": "Café",
+      "address": "Rolderstraat 12A",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Rockcafé; alcoholaanbod niet afzonderlijk geverifieerd",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "04:00",
+        "do": "04:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "04:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.ditisassen.nl/nl/locaties/1292844536/rock-cafe-metropolis",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.ditisassen.nl/nl/locaties/1292844536/rock-cafe-metropolis"
+      ]
+    },
+    {
+      "id": "restaurant-grand-cafe-liff-assen",
+      "name": "Restaurant & Grand Café Liff",
+      "type": "Café",
+      "address": "Brink 14",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Cocktails en borrels",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.ditisassen.nl/en/locations/715485188/restaurant-grandcafe-liff",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.ditisassen.nl/en/locations/715485188/restaurant-grandcafe-liff"
+      ]
+    },
+    {
+      "id": "bloopers-zwolle",
+      "name": "Bloopers",
+      "type": "Café",
+      "address": "Voorstraat 7",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Bier en feestcafé",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "—"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitzwolle.com/wat-te-doen/uitgaan/45193-bloopers/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitzwolle.com/wat-te-doen/uitgaan/45193-bloopers/"
+      ]
+    },
+    {
+      "id": "jack-s-music-bar-zwolle",
+      "name": "Jack's Music Bar",
+      "type": "Café",
+      "address": "Sassenstraat 29",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Bier en whisky",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitzwolle.com/nachtleven/locaties/45210-jack-s-music-bar/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitzwolle.com/nachtleven/locaties/45210-jack-s-music-bar/"
+      ]
+    },
+    {
+      "id": "de-stoof-zwolle",
+      "name": "De Stoof",
+      "type": "Café",
+      "address": "Oude Vismarkt 29",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Bier",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitzwolle.com/wat-te-doen/uitgaan/45203-de-stoof/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitzwolle.com/wat-te-doen/uitgaan/45203-de-stoof/"
+      ]
+    },
+    {
+      "id": "sprakel-eten-drinken-enschede",
+      "name": "Sprakel eten & drinken",
+      "type": "Café",
+      "address": "Dorpsstraat 137",
+      "city": "Enschede",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens regionale toeristische bron",
+      "alcohol": "Bier en wijn",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visittwente.nl/wat-te-doen/eten-drinken/lunch/40211-sprakel-eten-drinken/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visittwente.nl/wat-te-doen/eten-drinken/lunch/40211-sprakel-eten-drinken/"
+      ]
     }
   ],
   "admission_policies": [
