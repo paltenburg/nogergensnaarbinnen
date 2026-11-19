@@ -17,3 +17,5 @@
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
 Controle 19-11: Post-Plaza: eigen zalenpagina noemt dagelijks 23:00, maar dit is geen bevestiging van publiek café-sluituur; conflict met Visit Leeuwarden (00:00/01:00) blijft. Elzibar: eigen rockcafépágina noemt dagelijks open, geen sluituren. Geen masterwijziging. https://www.post-plaza.nl/vergaderzalen/grand-cafe · https://www.rockcafe-leeuwarden.nl/nl/rockcafe
+
+Controle 19-11: The Bakery Group (vorige exploitant Nieuwestad 137) failliet; curatorverslag 2026 bevestigt verkoopplan aan nieuwe exploitant per augustus, niet daadwerkelijke alcoholverkoop. Visit Leeuwarden toont huidige lunchroom 09:00–17:00; menukaart 30-10 alleen alcoholvrij. Buiten master tot actuele alcoholverstrekking bevestigd is. https://www.faillissementsverslagen.com/faillissement/verslagen/verslag/18_nne_26_174_F_V_04/pdf · https://www.visitleeuwarden.com/locaties/3464995478/the-bakery-leeuwarden
