@@ -15,4 +15,4 @@
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
-Controle 19-11: Bar Bascule-bronconflict nader vastgesteld; De Stee blijft zonder heropeningsdatum. Masterbestand via blob-SHA gelezen; geen onbevestigde wijzigingen.
+Controle 19-11: 773 masterrecords gevalideerd; 59 Friese `geo`-velden ontbreken, geen dubbele ID's. Exacte adresmatches blijven beperkt tot Bodega y Tapas en Gudzekop; publieksingangen onbevestigd. Bar Bascule: agenda bevestigt ma–za aanvang (do 22:00), zondag en feitelijk sluituur onduidelijk. De Stee: heropeningsdatum ontbreekt. Geen onbevestigde masterwijzigingen.
