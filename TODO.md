@@ -15,4 +15,4 @@
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
-Controle 19-11: Bar Bascule-bronconflict nader vastgesteld; De Stee blijft zonder heropeningsdatum. Masterbestand niet aangepast (connector gaf lege bestandsinhoud).
+Controle 19-11: Bar Bascule-bronconflict nader vastgesteld; De Stee blijft zonder heropeningsdatum. Masterbestand via blob-SHA gelezen; geen onbevestigde wijzigingen.
