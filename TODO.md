@@ -11,8 +11,10 @@
 
 - [ ] **Friesland D0 afronden:** dekkings- en datakwaliteit controleren en vaststellen wanneer landelijke uitbreiding kan beginnen.
 
-- [ ] **Heropeningen controleren:** Le Journal, De Prediker, Club 1841, Fenix en Karaokebar de Nachtegaal.
+- [ ] **Heropeningen controleren:** Le Journal, De Prediker, Club 1841, Fenix en Karaokebar de Nachtegaal. Club 1841 (Sneek): na brand 2024 kondigden ondernemers op 10-07-2026 samenwerking met Café Fokk’s voor vernieuwd pand aan; eigen site toont nog reguliere openingstijden, maar actuele heropening niet bevestigd. Niet als geopend markeren. https://www.grootsneek.nl/nieuws/algemeen/138418/club-1841-en-cafe-fokks-bundelen-krachten-in-sneker-nachthoreca · https://www.club1841.nl/homepagina/
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
 Controle 19-11: alle 773 masterrecords via actuele blob-SHA gecontroleerd (549 Friesland, 224 Utrecht); 59 Friese `geo` ontbreken. Geen dubbele IDs of Friese coördinaten buiten regiogrenzen gevonden. Historische controles ingekort; onopgeloste punten staan hierboven. `data/venues.json` ongewijzigd.
+
+Broncontrole 19-11: Club 1841 heropening niet bewezen; officiële site kan verouderde reguliere uren tonen. Overige heropeningen niet met voldoende actuele bronnen bevestigd.
