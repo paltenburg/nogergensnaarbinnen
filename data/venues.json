@@ -39340,7 +39340,7 @@
       "alcohol": "Eigen website: 20 tapbieren en circa 300 bieren op fles/blik.",
       "selection": "Voorlopig",
       "opening": {
-        "ma": "—",
+        "ma": "?",
         "di": "14:00",
         "wo": "14:00",
         "do": "14:00",
@@ -39352,7 +39352,7 @@
       "opening_checked_on": "2026-11-19",
       "opening_quality": "Officiële website",
       "closing": {
-        "ma": "—",
+        "ma": "?",
         "di": "00:00",
         "wo": "00:00",
         "do": "00:00",
@@ -39362,7 +39362,7 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.cafedekoppelpaarden.nl/",
-      "closing_notes": "Maandag niet in eigen weekrooster; behandeld als gesloten. Officiële tijden di-do 14-00, vr 14-02, za 13-02, zo 14-00. Laatste toegang niet bevestigd.",
+      "closing_notes": "De officiële site noemt uitsluitend dinsdag t/m zondag; maandagstatus niet expliciet bevestigd en daarom onbekend. Overige tijden volgens de exploitant. Laatste toegang niet bevestigd.",
       "website": "https://www.cafedekoppelpaarden.nl/",
       "other_sources": [
         "https://www.cafedekoppelpaarden.nl/"
