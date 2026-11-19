@@ -39316,12 +39316,13 @@
         "zo": "?"
       },
       "closing_quality": "Niet op officiële website vermeld",
-      "closing_notes": "Eigen contactpagina geeft alleen begintijden; sluituren onbekend. Laatste toegang niet bevestigd.",
+      "closing_notes": "Eigen site: zo–wo vanaf 16:00, do–za vanaf 15:00; sluituren niet vermeld. Derden noemen uiteenlopende sluituren; niet overgenomen.",
       "website": "https://cafewolthoorn.nl/",
       "other_sources": [
         "https://cafewolthoorn.nl/",
         "https://cafewolthoorn.nl/contact/",
-        "https://cafewolthoorn.nl/drinkeet/"
+        "https://cafewolthoorn.nl/drinkeet/",
+        "https://cafewolthoorn.nl/contact/"
       ],
       "website_checked_on": "2026-11-19",
       "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
@@ -39657,6 +39658,87 @@
       "checked_on": "2026-11-19",
       "closing_notes": "Openingstijden rechtstreeks van eigen website; geen afgeleide laatste toegang. Feestdagen kunnen afwijken.",
       "website": "https://cafedetagrijn.com/",
+      "other_sources": []
+    },
+    {
+      "id": "cafe-persee-deventer",
+      "name": "Café Persee",
+      "type": "Café",
+      "address": "Brink 32",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "29 tapkranen en bierassortiment volgens eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.persee.nl/contact/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Sluituren eigen contactpagina; laatste toegang onbekend.",
+      "website": "https://www.persee.nl/",
+      "other_sources": []
+    },
+    {
+      "id": "bierencafe-de-heks-deventer",
+      "name": "Bierencafé de Heks",
+      "type": "Café",
+      "address": "Brink 63",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bierencafé volgens eigen website",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.deheks.nl/contact/",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Sluituren eigen contactpagina; laatste toegang onbekend.",
+      "website": "https://www.deheks.nl/",
+      "other_sources": []
+    },
+    {
+      "id": "eetcafe-de-witterbrug-assen",
+      "name": "Eetcafé de Witterbrug",
+      "type": "Café",
+      "address": "Vaart N.Z. 86",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bar voor drankjes na keukensluiting volgens eigen website; alcoholassortiment niet afzonderlijk geverifieerd",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website (openingsdagen), sluituren onbekend",
+      "closing_source": "https://www.witterbrug.nl/contact",
+      "checked_on": "2026-11-19",
+      "closing_notes": "Wo–zo vanaf 16:30; keuken tot 21:00 maar bar langer open. Sluituur onbekend.",
+      "website": "https://www.witterbrug.nl/",
       "other_sources": []
     }
   ],
