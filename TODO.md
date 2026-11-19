@@ -1,7 +1,7 @@
 # TODO — Nog ergens naar binnen
 
 - [ ] **Friesland uitbreiden:** ontbrekende cafés en andere publiek toegankelijke alcoholhoreca per gemeente en dorp vinden en verifiëren, inclusief de Waddeneilanden.
-- [ ] **Coördinaten aanvullen:** 59 Friese records zonder `geo` (19-11; 26 bewust `geocode_blocked`, 33 overige; Leeuwarden 9, Drachten 4, Sneek/Anjum elk 3). [Werkrij van 7-11](reports/friesland-geocode-werkrij-2026-11-07.md) bevat 54; extra: De Walrus, Gudzekop, De Visserman (Stavoren), De Dining (Vlieland), Lazy Lemon. Adressen/publieksingangen verifiëren; niet gokken.
+- [ ] **Coördinaten aanvullen:** 59 Friese records zonder `geo` (19-11; 26 bewust `geocode_blocked`, 33 overige; Leeuwarden 9, Drachten 4, Sneek/Anjum elk 3). [Werkrij van 7-11](reports/friesland-geocode-werkrij-2026-11-07.md) bevat 54; extra: De Walrus, Gudzekop, De Visserman (Stavoren), De Dining (Vlieland), Lazy Lemon. Adressen/publieksingangen verifiëren; niet gokken. **2 BAG-adresmatches gevonden:** Bodega y Tapas ↔ Hanenburg (Wijde Noorderhorne 2, Sneek); Gudzekop ↔ Proefverlof/Café de Bak (Blokhuisplein 40, Leeuwarden). Gedeelde coördinaten pas na controle publieksingang overnemen.
 - [ ] **Sluitings- en laatste-toegangstijden aanvullen:** [Friese werklijst](reports/friesland-onbekende-sluituren-met-website-2026-11-07.md) afwerken, met prioriteit voor nachthoreca. Exacte sluituren bij o.a. Raadhuys, Kafee 8 en Njoy blijven onbekend; beginuren staan al in master.
 - [ ] **Open gegevensconflicten oplossen:** Leeuwarden (Bar Sybs/De Doelebar: beide adres 2A; afzonderlijke publieksingangen nog controleren; Café De Rus: 16:00 bevestigd, sluituren alleen derden), Drachten (Café-Bar 't Skûtsje: eigen sites blijven tegenstrijdig over woensdag — jouwweb wo–zo, intropagina do–zo; sluituur onbekend, geen aanname), Sneek ('t Singeltje, NOAH, 't Ouwe Vat).
 - [ ] **Bar Bascule (Leeuwarden):** laatste toegang 03:00 staat al in master. APV Leeuwarden gebied 1 staat open tot 05:00 toe, maar bewijst geen feitelijk sluituur. Eigen site noemt 7 avonden, elders 6; rooster verifiëren (18-11-2026). https://www.barbascule.nl/deurbeleid
@@ -15,6 +15,4 @@
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
-Controle 19-11: alle 773 masterrecords via actuele blob-SHA gecontroleerd (549 Friesland, 224 Utrecht); 59 Friese `geo` ontbreken. Geen dubbele IDs of Friese coördinaten buiten regiogrenzen gevonden. Historische controles ingekort; onopgeloste punten staan hierboven. `data/venues.json` ongewijzigd.
-
-Broncontrole 19-11: Club 1841 heropening niet bewezen. De Stee nog tijdelijk gesloten volgens eigen site; De Skoffel homepage za/zo 12:00, oude vacature za 14:00; geen sluituren gepubliceerd. Geocode-audit: 59 ontbrekend, waarvan 26 bewust geblokkeerd en 33 overige. Geen ongeverifieerde masterwijzigingen.
+Controle 19-11: 773 masterrecords via blob-SHA gelezen; 59 Friese zonder `geo`. Twee exacte adresmatches met bestaande BAG-geocodes gevonden; nog geen publieksingangen bevestigd. `data/venues.json` ongewijzigd.
