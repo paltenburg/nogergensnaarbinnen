@@ -16,4 +16,4 @@
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
-Controle 19-11: master via blob-SHA volledig gelezen: 773 locaties (549 Friesland), 59 zonder geo (26 geblokkeerd), geen dubbele ID's of ongeldige coördinaten. 359 Friese records met onbekend sluituur; 117 zonder website. Geen masterwijziging.
+Controle 19-11: Post-Plaza: eigen zalenpagina noemt dagelijks 23:00, maar dit is geen bevestiging van publiek café-sluituur; conflict met Visit Leeuwarden (00:00/01:00) blijft. Elzibar: eigen rockcafépágina noemt dagelijks open, geen sluituren. Geen masterwijziging. https://www.post-plaza.nl/vergaderzalen/grand-cafe · https://www.rockcafe-leeuwarden.nl/nl/rockcafe
