@@ -40586,6 +40586,120 @@
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/1135663375/news-cafe"
       ]
+    },
+    {
+      "id": "bier-en-wijnlokaal-t-hookhoes-almelo-20261120",
+      "name": "Bier en Wijnlokaal 't Hookhoes",
+      "type": "Bier- en wijncafé",
+      "address": "Grotestraat 126",
+      "city": "Almelo",
+      "region": "overijssel",
+      "website": "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/6562-bier-en-wijnlokaal-t-hookhoes/",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "alcohol": "Bier en wijn expliciet bevestigd door Almelo Promotie/Visit Twente",
+      "closing_source": "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/6562-bier-en-wijnlokaal-t-hookhoes/",
+      "closing_quality": "Regionale toeristische bron; niet op eigen site gecontroleerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_source": "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/6562-bier-en-wijnlokaal-t-hookhoes/",
+      "other_sources": [
+        "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/6562-bier-en-wijnlokaal-t-hookhoes/"
+      ]
+    },
+    {
+      "id": "struis-groningen-20261120",
+      "name": "Struis",
+      "type": "Café",
+      "address": "Kraneweg 62",
+      "city": "Groningen",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/2819623553/struis",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "08:00",
+        "do": "08:00",
+        "vr": "08:00",
+        "za": "08:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "alcohol": "Wijn expliciet genoemd door Visit Groningen",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2819623553/struis",
+      "closing_quality": "Regionale toeristische bron; niet op eigen site gecontroleerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2819623553/struis",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2819623553/struis"
+      ]
+    },
+    {
+      "id": "bodega-y-tapas-winschoten-winschoten-20261120",
+      "name": "Bodega y Tapas Winschoten",
+      "type": "Tapasrestaurant en cocktailbar",
+      "address": "Bosstraat 6",
+      "city": "Winschoten",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/2456309255/bodega-y-tapas-winschoten",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "alcohol": "Cocktails en sangria expliciet bevestigd door Visit Groningen",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2456309255/bodega-y-tapas-winschoten",
+      "closing_quality": "Regionale toeristische bron; niet op eigen site gecontroleerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2456309255/bodega-y-tapas-winschoten",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2456309255/bodega-y-tapas-winschoten"
+      ]
     }
   ],
   "admission_policies": [
