@@ -40203,6 +40203,386 @@
       "other_sources": [
         "https://www.cafeponton.nl/"
       ]
+    },
+    {
+      "id": "cafe-de-kansel-meppel-20261119",
+      "name": "Café de Kansel",
+      "type": "Bruin café",
+      "address": "Grote Kerkstraat 20",
+      "city": "Meppel",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/2849844298/cafe-de-kansel",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "00:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/2849844298/cafe-de-kansel",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/2849844298/cafe-de-kansel",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/2849844298/cafe-de-kansel"
+      ]
+    },
+    {
+      "id": "cafe-de-casteleyn-meppel-20261119",
+      "name": "Café de Casteleyn",
+      "type": "Uitgaanscafé",
+      "address": "Grote Kerkstraat 17",
+      "city": "Meppel",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/819232240/cafe-de-casteleyn",
+      "opening": {
+        "ma": "09:30",
+        "di": "09:30",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "03:00",
+        "di": "03:00",
+        "wo": "—",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "03:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/819232240/cafe-de-casteleyn",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/819232240/cafe-de-casteleyn",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/819232240/cafe-de-casteleyn"
+      ]
+    },
+    {
+      "id": "grand-cafe-salud-meppel-20261119",
+      "name": "Grand Café Salud",
+      "type": "Grand café",
+      "address": "Kerkplein 20",
+      "city": "Meppel",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/3005654432/grand-cafe-salud",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:30",
+        "wo": "22:30",
+        "do": "22:30",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:30"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/3005654432/grand-cafe-salud",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/3005654432/grand-cafe-salud",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/3005654432/grand-cafe-salud"
+      ]
+    },
+    {
+      "id": "eetcafe-de-kastelein-ruinerwold-20261119",
+      "name": "Eetcafé de Kastelein",
+      "type": "Dorpscafé",
+      "address": "Dijkhuizen 8a",
+      "city": "Ruinerwold",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/4195999789/eetcafe-de-kastelein",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/4195999789/eetcafe-de-kastelein",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/4195999789/eetcafe-de-kastelein",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/4195999789/eetcafe-de-kastelein"
+      ]
+    },
+    {
+      "id": "cafe-brinkzicht-ruinen-20261119",
+      "name": "Café Brinkzicht",
+      "type": "Dorpscafé",
+      "address": "Brink 47",
+      "city": "Ruinen",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/4186538135/cafe-brinkzicht",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/4186538135/cafe-brinkzicht",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/4186538135/cafe-brinkzicht",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/4186538135/cafe-brinkzicht"
+      ]
+    },
+    {
+      "id": "eetcafe-de-beurs-meppel-20261119",
+      "name": "Eetcafé De Beurs",
+      "type": "Eetcafé",
+      "address": "Grote Kerkstraat 3",
+      "city": "Meppel",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/710468030/eetcafe-de-beurs",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "—",
+        "zo": "09:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "—",
+        "zo": "00:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/710468030/eetcafe-de-beurs",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/710468030/eetcafe-de-beurs",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/710468030/eetcafe-de-beurs"
+      ]
+    },
+    {
+      "id": "herberg-t-plein-meppel-20261119",
+      "name": "Herberg ’t Plein",
+      "type": "Bruin eetcafé",
+      "address": "Prinsengracht 1",
+      "city": "Meppel",
+      "region": "drenthe",
+      "website": "https://www.drenthe.nl/locaties/99496033/herberg-t-plein",
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "—",
+        "zo": "09:30"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "02:30",
+        "vr": "02:30",
+        "za": "—",
+        "zo": "22:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.drenthe.nl/locaties/99496033/herberg-t-plein",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.drenthe.nl/locaties/99496033/herberg-t-plein",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/99496033/herberg-t-plein"
+      ]
+    },
+    {
+      "id": "wolvie-s-place-hoogezand-20261119",
+      "name": "Wolvie’s Place",
+      "type": "Cocktailcafé",
+      "address": "Sluiskade 49",
+      "city": "Hoogezand",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/2812239315/wolvie-s-place",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "20:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2812239315/wolvie-s-place",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2812239315/wolvie-s-place",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2812239315/wolvie-s-place"
+      ]
+    },
+    {
+      "id": "stadscafe-pronk-groningen-20261119",
+      "name": "Stadscafé Pronk",
+      "type": "Stadscafé",
+      "address": "Vismarkt 56",
+      "city": "Groningen",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+      "opening": {
+        "ma": "11:00",
+        "di": "10:30",
+        "wo": "10:30",
+        "do": "10:30",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk"
+      ]
+    },
+    {
+      "id": "news-cafe-groningen-20261119",
+      "name": "News Café",
+      "type": "Grand café en club",
+      "address": "Waagplein 5",
+      "city": "Groningen",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/1135663375/news-cafe",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/1135663375/news-cafe",
+      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/1135663375/news-cafe",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/1135663375/news-cafe"
+      ]
     }
   ],
   "admission_policies": [
