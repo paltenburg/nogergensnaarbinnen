@@ -20,6 +20,33 @@
         5.8
       ],
       "zoom": 9
+    },
+    {
+      "id": "groningen",
+      "name": "Groningen",
+      "center": [
+        53.22,
+        6.56
+      ],
+      "zoom": 9
+    },
+    {
+      "id": "drenthe",
+      "name": "Drenthe",
+      "center": [
+        52.91,
+        6.63
+      ],
+      "zoom": 9
+    },
+    {
+      "id": "overijssel",
+      "name": "Overijssel",
+      "center": [
+        52.51,
+        6.17
+      ],
+      "zoom": 9
     }
   ],
   "places": [
@@ -39165,6 +39192,363 @@
       "opening_quality": "Eigen homepage; menukaart vermeldt zondag 10:00 in plaats van 11:00.",
       "website_checked_on": "2026-11-19",
       "website_provenance": "Eigen website gecontroleerd 19-11-2026; publiek aanbod, pilsjes, adres en openingsdagen bevestigd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "cafe-de-koffer-groningen",
+      "name": "Café de Koffer",
+      "type": "Biercafé",
+      "address": "Nieuwe Blekerstraat 1",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen site noemt circa 400 bieren, 13 tapbieren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://dekoffer.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://dekoffer.nl/",
+      "closing_notes": "Dagelijks weekrooster volgens eigen contactpagina. Laatste toegang niet bevestigd.",
+      "website": "https://dekoffer.nl/",
+      "other_sources": [
+        "https://dekoffer.nl/",
+        "https://dekoffer.nl/contact"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "de-drie-gezusters-groningen",
+      "name": "De Drie Gezusters",
+      "type": "Grand café en borrelcafé",
+      "address": "Grote Markt 36-39",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen site biedt borrelkaart en cafédranken.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.dedriegezusters.nl/nl",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.dedriegezusters.nl/nl",
+      "closing_notes": "Weekrooster eigen homepage; groot horecacomplex met meerdere concepten onder dezelfde naam. Laatste toegang niet bevestigd.",
+      "website": "https://www.dedriegezusters.nl/nl",
+      "other_sources": [
+        "https://www.dedriegezusters.nl/nl"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "cafe-wolthoorn-groningen",
+      "name": "Café Wolthoorn & Co",
+      "type": "Bruin café / biljartcafé",
+      "address": "Turftorenstraat 6",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen drankpagina noemt zeven tapbieren en jenever.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://cafewolthoorn.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Niet op officiële website vermeld",
+      "closing_notes": "Eigen contactpagina geeft alleen begintijden; sluituren onbekend. Laatste toegang niet bevestigd.",
+      "website": "https://cafewolthoorn.nl/",
+      "other_sources": [
+        "https://cafewolthoorn.nl/",
+        "https://cafewolthoorn.nl/contact/",
+        "https://cafewolthoorn.nl/drinkeet/"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "de-koppelpaarden-assen",
+      "name": "Café de Koppelpaarden",
+      "type": "Speciaalbiercafé",
+      "address": "Markt 22",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen website: 20 tapbieren en circa 300 bieren op fles/blik.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "13:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafedekoppelpaarden.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafedekoppelpaarden.nl/",
+      "closing_notes": "Maandag niet in eigen weekrooster; behandeld als gesloten. Officiële tijden di-do 14-00, vr 14-02, za 13-02, zo 14-00. Laatste toegang niet bevestigd.",
+      "website": "https://www.cafedekoppelpaarden.nl/",
+      "other_sources": [
+        "https://www.cafedekoppelpaarden.nl/"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "cafe-de-dependance-assen",
+      "name": "Café de Dependance",
+      "type": "Bruin café / muziekcafé",
+      "address": "Rolderstraat 5",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen website noemt bier, borrels en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://cafededependance.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "22:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://cafededependance.nl/",
+      "closing_notes": "Weekrooster onderaan eigen homepage. Adres op eigen contactpagina. Laatste toegang niet bevestigd.",
+      "website": "https://cafededependance.nl/",
+      "other_sources": [
+        "https://cafededependance.nl/",
+        "https://cafededependance.nl/contacteer-ons/"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "het-vliegende-paard-zwolle",
+      "name": "Het Vliegende Paard",
+      "type": "Studentencafé / danscafé",
+      "address": "Voorstraat 17-19",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen site biedt bier, cocktails, eten en borrels.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "17:00"
+      },
+      "opening_source": "https://www.hetvliegendepaard.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "01:00",
+        "di": "03:00",
+        "wo": "02:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.hetvliegendepaard.nl/",
+      "closing_notes": "Eigen homepage noemt dinsdag sluiting 03:00, terwijl Gastvrij Zwolle dinsdag 02:00 vermeldt; eigen site leidend. Laatste toegang niet bevestigd.",
+      "website": "https://www.hetvliegendepaard.nl/",
+      "other_sources": [
+        "https://www.hetvliegendepaard.nl/",
+        "https://straatfestivalzwolle.nl/deelnemers/het-vliegende-paard"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "cafe-de-hete-brij-zwolle",
+      "name": "Café De Hete Brij",
+      "type": "Bruin café / speciaalbiercafé",
+      "address": "Nieuwe Markt 9",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen website noemt Hertog Jan, speciaalbier en huisbier met 5,8% alcohol.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://cafedehetebrij.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "?",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://cafedehetebrij.nl/",
+      "closing_notes": "Maandag niet genoemd in eigen weekrooster; onbekend gelaten. Overige tijden eigen homepage. Laatste toegang niet bevestigd.",
+      "website": "https://cafedehetebrij.nl/",
+      "other_sources": [
+        "https://cafedehetebrij.nl/",
+        "https://cafedehetebrij.nl/contactmetdehetebrij/"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "cafe-de-gezelligheid-zwolle",
+      "name": "Café De Gezelligheid",
+      "type": "Speciaalbiercafé",
+      "address": "Gasthuisplein 11",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens actuele exploitantenwebsite; geen afzonderlijke toegangscontrole uitgevoerd.",
+      "alcohol": "Eigen website noemt 16 tapkranen en circa 120 flesbieren, plus wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafedegezelligheid.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Niet op officiële website vermeld",
+      "closing_notes": "Eigen site vermeldt begintijden maar geen sluituren. Laatste toegang niet bevestigd.",
+      "website": "https://www.cafedegezelligheid.nl/",
+      "other_sources": [
+        "https://www.cafedegezelligheid.nl/",
+        "https://www.cafedegezelligheid.nl/contact"
+      ],
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
+      "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
       "checked_on": "2026-11-19"
     }
   ],
