@@ -39723,8 +39723,8 @@
       "region": "drenthe",
       "country": "Nederland",
       "access": "Publiek toegankelijk volgens eigen website",
-      "alcohol": "Bar voor drankjes na keukensluiting volgens eigen website; alcoholassortiment niet afzonderlijk geverifieerd",
-      "selection": "Voorlopig",
+      "alcohol": "Eigen menukaart bevestigt alcoholhoudende tapbieren (o.a. Texels Skuumkoppe 6%, Lefort Tripel 8,8%).",
+      "selection": "Geverifieerd",
       "closing": {
         "ma": "—",
         "di": "—",
@@ -39736,10 +39736,12 @@
       },
       "closing_quality": "Eigen website (openingsdagen), sluituren onbekend",
       "closing_source": "https://www.witterbrug.nl/contact",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-20",
       "closing_notes": "Wo–zo vanaf 16:30; keuken tot 21:00 maar bar langer open. Sluituur onbekend.",
       "website": "https://www.witterbrug.nl/",
-      "other_sources": []
+      "other_sources": [
+        "https://www.witterbrug.nl/menu"
+      ]
     },
     {
       "id": "cafe-bistro-kult-groningen",
@@ -40191,17 +40193,18 @@
         "za": "?",
         "zo": "?"
       },
-      "alcohol": "Café; alcoholassortiment niet afzonderlijk bevestigd",
+      "alcohol": "Eigen menukaart bevestigt speciaalbier, Guinness en cocktails.",
       "closing_source": "https://www.cafeponton.nl/contact/",
       "closing_quality": "Eigen site bevestigt opening, geen sluituren; ma/di op aanvraag",
       "closing_notes": "Contactpagina vermeldt ook wo–zo vanaf 15:00, footer specificeert za/zo vanaf 12:00; footer aangehouden. Ma/di op aanvraag.",
       "country": "Nederland",
       "access": "Publiek café volgens eigen website",
-      "selection": "Voorlopig",
-      "checked_on": "2026-11-19",
+      "selection": "Geverifieerd",
+      "checked_on": "2026-11-20",
       "opening_source": "https://www.cafeponton.nl/",
       "other_sources": [
-        "https://www.cafeponton.nl/"
+        "https://www.cafeponton.nl/",
+        "https://www.cafeponton.nl/menukaart/"
       ]
     },
     {
