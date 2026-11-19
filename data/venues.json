@@ -40088,6 +40088,121 @@
       "other_sources": [
         "https://www.visittwente.nl/wat-te-doen/eten-drinken/lunch/40211-sprakel-eten-drinken/"
       ]
+    },
+    {
+      "id": "de-drie-uiltjes-groningen-20261119",
+      "name": "De Drie Uiltjes",
+      "type": "Bruin café",
+      "address": "Oude Ebbingestraat 47",
+      "city": "Groningen",
+      "region": "groningen",
+      "website": "https://www.3uiltjes.nl/",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "03:00",
+        "di": "03:00",
+        "wo": "03:00",
+        "do": "03:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "22:00"
+      },
+      "alcohol": "Café met borrelhapjes; drankenaanbod als café bevestigd via externe horecabron",
+      "closing_source": "https://www.3uiltjes.nl/",
+      "closing_quality": "Eigen website; afwijkende externe gids vermeldt langere tijden, eigen site leidend",
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.3uiltjes.nl/",
+      "other_sources": [
+        "https://www.3uiltjes.nl/"
+      ]
+    },
+    {
+      "id": "diner-cafe-plein-emmen-20261119",
+      "name": "Diner-Café Plein",
+      "type": "Diner-café",
+      "address": "Dalipassage 36",
+      "city": "Emmen",
+      "region": "drenthe",
+      "website": "https://www.dinercafeplein.nl/",
+      "opening": {
+        "ma": "12:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "21:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "18:00"
+      },
+      "alcohol": "Eigen website bevestigt speciaalbieren van tap en fles",
+      "closing_source": "https://www.dinercafeplein.nl/",
+      "closing_quality": "Eigen website",
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.dinercafeplein.nl/",
+      "other_sources": [
+        "https://www.dinercafeplein.nl/"
+      ]
+    },
+    {
+      "id": "cafe-t-ponton-kampen-20261119",
+      "name": "Café ’t Ponton",
+      "type": "Café op het water",
+      "address": "Tegenover IJsselkade 51",
+      "city": "Kampen",
+      "region": "overijssel",
+      "website": "https://www.cafeponton.nl/",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "alcohol": "Café; alcoholassortiment niet afzonderlijk bevestigd",
+      "closing_source": "https://www.cafeponton.nl/contact/",
+      "closing_quality": "Eigen site bevestigt opening, geen sluituren; ma/di op aanvraag",
+      "closing_notes": "Contactpagina vermeldt ook wo–zo vanaf 15:00, footer specificeert za/zo vanaf 12:00; footer aangehouden. Ma/di op aanvraag.",
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-19",
+      "opening_source": "https://www.cafeponton.nl/",
+      "other_sources": [
+        "https://www.cafeponton.nl/"
+      ]
     }
   ],
   "admission_policies": [
