@@ -1,5 +1,6 @@
 # TODO — Nog ergens naar binnen
 
+- [ ] **Nieuwe kandidaat Leeuwarden:** The Bakery Café, Nieuwestad 137; exploitatievergunning gepubliceerd 10-09-2026. Controleer of zaak al in master staat, of alcohol wordt geschonken en of publiek terechtkan vóór toevoegen. https://politiek.app/gemeente/leeuwarden/bekendmaking/gmb-2026-424922/verleende-exploitatievergunning-voor-the-bakery-cafe-leeuwarden-aan-nieuwestad-1/
 - [ ] **Friesland uitbreiden:** ontbrekende cafés en andere publiek toegankelijke alcoholhoreca per gemeente en dorp vinden en verifiëren, inclusief de Waddeneilanden.
 - [ ] **Coördinaten aanvullen:** 59 Friese records zonder `geo` (19-11; 26 bewust `geocode_blocked`, 33 overige; Leeuwarden 9, Drachten 4, Sneek/Anjum elk 3). [Werkrij van 7-11](reports/friesland-geocode-werkrij-2026-11-07.md) bevat 54; extra: De Walrus, Gudzekop, De Visserman (Stavoren), De Dining (Vlieland), Lazy Lemon. Adressen/publieksingangen verifiëren; niet gokken. **2 BAG-adresmatches gevonden:** Bodega y Tapas ↔ Hanenburg (Wijde Noorderhorne 2, Sneek); Gudzekop ↔ Proefverlof/Café de Bak (Blokhuisplein 40, Leeuwarden). Gedeelde coördinaten pas na controle publieksingang overnemen.
 - [ ] **Sluitings- en laatste-toegangstijden aanvullen:** [Friese werklijst](reports/friesland-onbekende-sluituren-met-website-2026-11-07.md) afwerken, met prioriteit voor nachthoreca. Exacte sluituren bij o.a. Raadhuys, Kafee 8 en Njoy blijven onbekend; beginuren staan al in master.
@@ -15,4 +16,4 @@
 - [ ] **Kaartprestaties en navigatie testen** bij uitbreiding naar meer regio's en duizenden locaties.
 - [ ] **Landelijke uitbreiding:** regio-indeling uitwerken en horeca per provincie toevoegen zodra Friesland D0 is afgerond.
 
-Controle 19-11: 773 masterrecords gevalideerd; 59 Friese `geo`-velden ontbreken, geen dubbele ID's. Exacte adresmatches blijven beperkt tot Bodega y Tapas en Gudzekop; publieksingangen onbevestigd. Bar Bascule: agenda bevestigt ma–za aanvang (do 22:00), zondag en feitelijk sluituur onduidelijk. De Stee: heropeningsdatum ontbreekt. Geen onbevestigde masterwijzigingen.
+Controle 19-11: masterbestand via GitHub-bestandslezing leeg teruggegeven; geen betrouwbare nieuwe database-audit of wijzigingen mogelijk. Heropeningen Le Journal/De Prediker/Fenix/Nachtegaal: zoekcontrole leverde geen verifieerbare actuele heropening op. Nieuwe vergunde kandidaat The Bakery Café toegevoegd voor verificatie.
