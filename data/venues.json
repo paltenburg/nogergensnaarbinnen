@@ -39119,6 +39119,53 @@
       ],
       "features": "Publieke borrel, restaurant, terras; feestdagen uitzonderingen",
       "original_status": "16-11-2026: eigen exploitantwebsite bevestigt adres, publieke borrel en openingstijden. Geen BAG-geocode of fysieke ingang geverifieerd."
+    },
+    {
+      "id": "lils-huiskamercafe-leeuwarden-2026",
+      "name": "Lils huiskamercafé",
+      "type": "Huiskamercafé / lunch / borrel",
+      "address": "Kleine Kerkstraat 41",
+      "city": "Leeuwarden",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publiek café; eigen website nodigt gasten uit voor koffie, lunch en borrel.",
+      "alcohol": "Eigen website noemt pilsjes; Alcoholwetvergunning bekendgemaakt 12-08-2026.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen sluituren op eigen website; niet afleiden.",
+      "closing_source": "https://www.lils.nl/",
+      "closing_notes": "Zondag beginuur conflicteert: homepage 11:00, menukaart 10:00. Homepage aangehouden; sluituren onbekend.",
+      "features": "Friesland; nieuw sinds september 2026",
+      "website": "https://www.lils.nl/",
+      "other_sources": [
+        "https://www.lils.nl/algemene-voorwaarden",
+        "https://www.overuwbuurt.nl/kennisgeving/verleende-alcoholwetvergunning-voor-lils-huiskamercafe-aan-de-kleine-kerkstraat-41-8911-dl-leeuwarden-hor-2026-036164/8832279",
+        "https://nl.linkedin.com/posts/lilian-zandberg-63472b1b_ondernemend-leeuwarden-kwam-langs-bij-lils-activity-7501535903551782914-_CNi"
+      ],
+      "original_status": "Eigen site toont actieve exploitatie; bericht bevestigt opening 05-09-2026. Gecontroleerd 19-11-2026.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.lils.nl/",
+      "opening_checked_on": "2026-11-19",
+      "opening_quality": "Eigen homepage; menukaart vermeldt zondag 10:00 in plaats van 11:00.",
+      "website_checked_on": "2026-11-19",
+      "website_provenance": "Eigen website gecontroleerd 19-11-2026; publiek aanbod, pilsjes, adres en openingsdagen bevestigd.",
+      "checked_on": "2026-11-19"
     }
   ],
   "admission_policies": [
