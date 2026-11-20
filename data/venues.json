@@ -42041,6 +42041,88 @@
       "opening_source": "https://www.drenthe.nl/locaties/3654530048/koffieplein-zuidlaren",
       "closing_source": "https://www.drenthe.nl/locaties/3654530048/koffieplein-zuidlaren",
       "closing_notes": "Seizoensconflict: tekst zegt herfst/winter alleen do–za; gepubliceerde weektabel zegt ma–za. Geen vaste tijden overgenomen."
+    },
+    {
+      "id": "herberg-van-es-roderesch",
+      "name": "Herberg van Es",
+      "type": "Eetcafé/proeflokaal",
+      "address": "Hoofdweg 1",
+      "city": "Roderesch",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron; niet afzonderlijk ter plaatse gecontroleerd.",
+      "alcohol": "Cocktails en borrel volgens Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/778992058/herberg-van-es",
+      "opening_checked_on": "2026-11-20",
+      "opening_quality": "Regionale toeristische bron",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "21:00",
+        "do": "21:00",
+        "vr": "21:00",
+        "za": "21:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.drenthe.nl/locaties/778992058/herberg-van-es",
+      "closing_notes": "Weekuren uit Drenthe.nl; laatste toegang onbekend.",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/778992058/herberg-van-es"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Regionale toeristische bron geraadpleegd 20-11-2026; niet live gecontroleerd."
+    },
+    {
+      "id": "othmar-proeflokaal-ootmarsum",
+      "name": "Othmar Bier – Proeflokaal",
+      "type": "Eetcafé/proeflokaal",
+      "address": "Commanderieplein 6",
+      "city": "Ootmarsum",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens regionale toeristische bron; niet afzonderlijk ter plaatse gecontroleerd.",
+      "alcohol": "Bierproeflokaal van Othmar; Visit Twente noemt afzonderlijke proeflokaaluren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "?"
+      },
+      "opening_source": "https://www.visittwente.nl/overnachten/in-de-stad/46064-othmar-bier/",
+      "opening_checked_on": "2026-11-20",
+      "opening_quality": "Regionale toeristische bron",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "20:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visittwente.nl/overnachten/in-de-stad/46064-othmar-bier/",
+      "closing_notes": "Uitsluitend expliciete proeflokaaluren do/vr/za overgenomen; overige openingstijden betreffen andere onderdelen van de locatie.",
+      "other_sources": [
+        "https://www.visittwente.nl/overnachten/in-de-stad/46064-othmar-bier/"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Regionale toeristische bron geraadpleegd 20-11-2026; niet live gecontroleerd."
     }
   ],
   "admission_policies": [
