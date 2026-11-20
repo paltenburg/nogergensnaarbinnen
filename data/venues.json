@@ -42212,6 +42212,35 @@
         "https://www.drenthe.nl/locaties/3788675520/amer-cultureel"
       ],
       "original_status": "Publieke horeca en bier/wijn bevestigd; vaste sluituren onbekend."
+    },
+    {
+      "id": "bistrobar-t-leeuwtje-meppel-20261120",
+      "name": "Bistrobar 't Leeuwtje",
+      "type": "Bistrobar / borrel",
+      "address": "Meppel (straatadres nog te verifiëren)",
+      "city": "Meppel",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt dagelijks publiek toegankelijke lunch, borrel en diner.",
+      "alcohol": "Eigen website vermeldt wijn, bieren, cocktails en gin-tonics.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen website: reguliere openingstijden; adres nog niet bevestigd.",
+      "closing_source": "https://leeuwtje-meppel.nl/",
+      "checked_on": "2026-11-20",
+      "website": "https://leeuwtje-meppel.nl/",
+      "other_sources": [
+        "https://leeuwtje-meppel.nl/"
+      ],
+      "original_status": "Alcohol, publieke toegang en weeksluituren bevestigd; straatadres ontbreekt en moet worden nagezocht."
     }
   ],
   "admission_policies": [
