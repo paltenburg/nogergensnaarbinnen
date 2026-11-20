@@ -42241,6 +42241,48 @@
         "https://ontdekmeppel.nl/ontdek-meppel/eten-drinken/cafes/bistrobar-t-leeuwtje/709/"
       ],
       "original_status": "Adres en alcohol en publieke toegang bevestigd op eigen site; vrijdag/zaterdag sluituur 02:00 volgens eigen site."
+    },
+    {
+      "id": "cafe-de-hare-majesteit-hoogeveen-20261120",
+      "name": "Café de Hare Majesteit",
+      "type": "Biercafé",
+      "address": "Grote Kerkstraat 8",
+      "city": "Hoogeveen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website: publiek café voor vrienden, collega's en borrels; reguliere inloop.",
+      "alcohol": "Eigen website: ruim 40 Belgische en Nederlandse speciaalbieren en wijn per glas.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "—"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "14:00",
+        "wo": "?",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "15:00",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen website intern tegenstrijdig; uitsluitend vr/za 02:00 en ma/zo gesloten consistent.",
+      "closing_source": "https://www.cafedeharemajesteit.nl/openingstijden",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Homepage/contact noemen di/wo/do 02:00, afzonderlijke openingstijdenpagina di/do 01:00 en woensdag gesloten. Niet afleiden; ?.",
+      "website": "https://www.cafedeharemajesteit.nl/",
+      "other_sources": [
+        "https://www.cafedeharemajesteit.nl/openingstijden",
+        "https://tipsvoordrenthe.nl/bedrijf/cafe-de-hare-majesteit/"
+      ],
+      "opening_source": "https://www.cafedeharemajesteit.nl/openingstijden",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Eigen website actief, geen individuele fysieke exploitatiecontrole"
     }
   ],
   "admission_policies": [
