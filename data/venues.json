@@ -42696,6 +42696,90 @@
       "opening_source": "https://www.bijhammingh.nl/",
       "opening_checked_on": "2026-11-20",
       "original_status": "Eigen website actueel geraadpleegd; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "brasserie-de-huuskamer-coevorden-20261121",
+      "name": "Brasserie de Huuskamer",
+      "type": "Brasserie/borrel",
+      "address": "Markt 19",
+      "city": "Coevorden",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor lunch, diner en borrel.",
+      "alcohol": "Cocktail van de maand (Split 43) op eigen website bevestigd",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "—",
+        "wo": "—",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "12:00",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing_quality": "Eigen website; sluituren onbekend",
+      "closing_source": "https://brasseriedehuuskamer.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Donderdag vanaf 16:00 (bij mooi weer 15:00); geen sluituren gepubliceerd.",
+      "website": "https://brasseriedehuuskamer.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/blogs/coevorden",
+        "https://www.het-menu.nl/coevorden/restaurant/de_huuskamer/menukaart"
+      ],
+      "opening_source": "https://brasseriedehuuskamer.nl/",
+      "opening_checked_on": "2026-11-21",
+      "original_status": "Eigen website gecontroleerd; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "grand-cafe-vanberesteyn-veendam-20261121",
+      "name": "Grand Café vanBeresteyn",
+      "type": "Theatercafé/borrelcafé",
+      "address": "Museumplein 5-D",
+      "city": "Veendam",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt vrije inloop en borrel voor/na theater.",
+      "alcohol": "Bier vermeld door externe horecagids; eigen website bevestigt borrel maar specificeert alcohol niet",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website: afhankelijk van activiteiten",
+      "closing_source": "https://www.grandcafevanberesteyn.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Openingstijden afhankelijk van theateractiviteiten; keuken dagelijks vanaf 12:30, geen café-openings- of sluituren afleiden.",
+      "website": "https://www.grandcafevanberesteyn.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/3768310890/grand-cafe-vanberesteyn",
+        "https://menukaart.menu/restaurants/veendam-1/grandcafe-van-beresteyn-veendam"
+      ],
+      "opening_source": "https://www.grandcafevanberesteyn.nl/",
+      "opening_checked_on": "2026-11-21",
+      "original_status": "Alcohol slechts extern gespecificeerd; eigen bevestiging nog gewenst"
     }
   ],
   "admission_policies": [
