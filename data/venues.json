@@ -42123,6 +42123,37 @@
       ],
       "checked_on": "2026-11-20",
       "original_status": "Regionale toeristische bron geraadpleegd 20-11-2026; niet live gecontroleerd."
+    },
+    {
+      "id": "graansilo-eten-drinken-groningen-20261120",
+      "name": "Graansilo Eten & Drinken",
+      "type": "Restaurant/borrel",
+      "address": "Griffeweg 4",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt publieke lunch, borrel en diner; bierkluis alleen exclusief te boeken.",
+      "alcohol": "Eigen website bevestigt Graansilo bier en wijn.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend; eigen site vermeldt alleen beginuren, Visit Groningen noemt 00:00 maar andere gids 23:00.",
+      "closing_source": "https://restaurantgraansilo.nl/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Eigen website toont tegenstrijdige beginuren 11:00/11:30; Visit Groningen vermeldt 00:00 maar Horeca Groningen 23:00. Geen sluituren afleiden.",
+      "website": "https://restaurantgraansilo.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/3055301928/graansilo",
+        "https://horecagroningen.nl/gelegenheid/graansilo/"
+      ],
+      "original_status": "Publieke borrel en diner bevestigd; exacte sluituren niet bevestigd."
     }
   ],
   "admission_policies": [
