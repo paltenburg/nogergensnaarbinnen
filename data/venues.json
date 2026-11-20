@@ -40700,6 +40700,120 @@
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/2456309255/bodega-y-tapas-winschoten"
       ]
+    },
+    {
+      "id": "grand-cafe-het-lokaal-delfzijl-20261120",
+      "name": "Grand Café Het Lokaal",
+      "type": "Grand café",
+      "address": "Schoolstraat 27",
+      "city": "Delfzijl",
+      "region": "groningen",
+      "website": "https://www.lokaaldelfzijl.com/",
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "—"
+      },
+      "alcohol": "Speciaalbier en likeur bevestigd door eigen website",
+      "opening_source": "https://www.lokaaldelfzijl.com/",
+      "closing_source": "https://www.lokaaldelfzijl.com/",
+      "closing_quality": "Eigen website; toeristische gids noemt verouderd adres en afwijkende tijden",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/3294237963/restaurant-grand-cafe-het-lokaal"
+      ],
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20"
+    },
+    {
+      "id": "koffiehuys-de-smederij-delfzijl-20261120",
+      "name": "Koffiehuys De Smederij",
+      "type": "Koffiehuis en lunchcafé",
+      "address": "Waterstraat 43",
+      "city": "Delfzijl",
+      "region": "groningen",
+      "website": "https://www.visitgroningen.nl/nl/locaties/3034129829/koffiehuys-de-smederij",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "alcohol": "Cocktails genoemd door Visit Groningen; alcoholhoudend assortiment niet afzonderlijk gespecificeerd",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/3034129829/koffiehuys-de-smederij",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/3034129829/koffiehuys-de-smederij",
+      "closing_quality": "Onbekend",
+      "other_sources": [
+        "https://www.visitwadden.nl/nl/bezoeken/activiteiten-overzicht/614209464/koffiehuys-de-smederij"
+      ],
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20"
+    },
+    {
+      "id": "bar-de-kelder-oldenzaal-20261120",
+      "name": "Bar de Kelder",
+      "type": "Uitgaanscafé",
+      "address": "Steenstraat 10",
+      "city": "Oldenzaal",
+      "region": "overijssel",
+      "website": "https://www.uitinoldenzaal.nl/plan-je-bezoek/eten-drinken/cafes-bars/3453-bar-de-kelder/",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "21:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "20:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "alcohol": "Bar met sterke drank en borrels volgens uitagenda",
+      "opening_source": "https://www.uitinoldenzaal.nl/plan-je-bezoek/eten-drinken/cafes-bars/3453-bar-de-kelder/",
+      "closing_source": "https://www.uitinoldenzaal.nl/plan-je-bezoek/eten-drinken/cafes-bars/3453-bar-de-kelder/",
+      "closing_quality": "Lokale toeristische bron; andere gids vermeldt afwijkende tijden; mogelijk laatste toegang i.p.v. feitelijke sluiting",
+      "other_sources": [
+        "https://www.uitagenda.nl/locaties/bar-de-kelder-oldenzaal"
+      ],
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20"
     }
   ],
   "admission_policies": [
