@@ -19759,7 +19759,7 @@
       "opening_quality": "Geen actuele bedrijfseigen weekbeginuren bevestigd op 30-10-2026",
       "closing_quality": "Geen actuele bedrijfseigen weeksluiting bevestigd op 30-10-2026",
       "closing_source": "https://blendbolsward.nl/",
-      "closing_notes": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen. | 01-11-2026: eigen homepage opnieuw geopend en actuele borrelfunctie bevestigd. https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/ geeft ma/di 10–17, wo gesloten, do–za 10–22, zo 10–21; https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html (bijgewerkt 26-08-2026) noemt juist wo open, vr 23 en za 18. Zonder bedrijfseigen rooster blijven alle begin-/einduren en laatste toegang onbekend.",
+      "closing_notes": "Exploitant bevestigt publieke borrelfunctie in het oude stadhuis. Externe openingstijden verschillen (fietsnetwerk versus AlleBiz), dus alle begin- en einduren onbekend. Geen vaste sluiting of laatste toegang uit externe gidsuren overgenomen. | 01-11-2026: eigen homepage opnieuw geopend en actuele borrelfunctie bevestigd. https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/ geeft ma/di 10–17, wo gesloten, do–za 10–22, zo 10–21; https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html (bijgewerkt 26-08-2026) noemt juist wo open, vr 23 en za 18. Zonder bedrijfseigen rooster blijven alle begin-/einduren en laatste toegang onbekend. 20-11: eigen website bevestigt borrelmenu; geen betrouwbare actuele sluituren gevonden, daarom onbekend.",
       "features": "Friesland; A5 Bolsward gecontroleerde aanvulling",
       "website": "https://blendbolsward.nl/",
       "website_checked_on": "2026-11-01",
@@ -19768,10 +19768,11 @@
         "https://www.bolsward.nl/winkelen-en-horeca/eten-en-drinken/",
         "https://www.fietsnetwerk.nl/en/places/blend-food-drink-bolsward/",
         "https://blendbolsward.nl/",
-        "https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html"
+        "https://www.cylex.nl/bedrijf/blend-bolsward-13773939.html",
+        "https://blendbolsward.nl/menu/"
       ],
       "original_status": "Actuele exploitantwebsite en lokale Bolsward-gids bevestigen publieke horeca op 30-10-2026; geen live deurcheck.",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-20",
       "geo": {
         "lat": 53.0619765,
         "lon": 5.5232425,
@@ -40814,6 +40815,156 @@
       "access": "Publiek toegankelijke horeca",
       "selection": "Voorlopig",
       "checked_on": "2026-11-20"
+    },
+    {
+      "id": "cafe-de-sigaar-groningen",
+      "name": "Café De Sigaar",
+      "type": "Café/eetcafé",
+      "address": "Hoge der A 2",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bier en wijn expliciet op eigen website.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
+      "closing_source": "https://cafedesigaar.nl/contact/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Openingstijden op eigen site gecontroleerd 20-11-2026; geen afzonderlijke laatste-toegangstijd.",
+      "website": "https://cafedesigaar.nl/contact/",
+      "other_sources": [
+        "https://cafedesigaar.nl/over-ons/"
+      ],
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "cafe-de-oude-wacht-groningen",
+      "name": "Café de Oude Wacht",
+      "type": "Café/eetcafé",
+      "address": "Gedempte Zuiderdiep 3-5",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bruin café; alcoholverstrekking volgt uit caféomschrijving, specifieke drankkaart niet gecontroleerd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
+      "closing_source": "https://oudewacht.nl/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Openingstijden op eigen site gecontroleerd 20-11-2026; geen afzonderlijke laatste-toegangstijd.",
+      "website": "https://oudewacht.nl/",
+      "other_sources": [
+        "https://oudewacht.nl/"
+      ],
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "cafe-bar-de-buurman-hardenberg",
+      "name": "Café-Bar De Buurman",
+      "type": "Café/eetcafé",
+      "address": "Voorstraat 30",
+      "city": "Hardenberg",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Café-bar volgens eigen site; afzonderlijke drankkaart niet gecontroleerd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:30",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:30",
+        "zo": "00:30"
+      },
+      "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
+      "closing_source": "https://www.cafebardebuurman.nl/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Openingstijden op eigen site gecontroleerd 20-11-2026; geen afzonderlijke laatste-toegangstijd.",
+      "website": "https://www.cafebardebuurman.nl/",
+      "other_sources": [
+        "https://www.cafebardebuurman.nl/"
+      ],
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "grand-cafe-den-herdenbergher-hardenberg",
+      "name": "Grand Café Den Herdenbergher",
+      "type": "Café/eetcafé",
+      "address": "Oosteinde 32",
+      "city": "Hardenberg",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bier en wijn expliciet bevestigd op eigen website.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "22:00",
+        "wo": "00:30",
+        "do": "00:30",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
+      "closing_source": "https://denherdenbergher.nl/contact/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Eigen site geeft maandag 17:00 of 20:30; onbekend gehouden.",
+      "website": "https://denherdenbergher.nl/contact/",
+      "other_sources": [
+        "https://denherdenbergher.nl/high-arrangementen/"
+      ],
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "eetcafe-j-a-winsum",
+      "name": "Eetcafé J&A",
+      "type": "Café/eetcafé",
+      "address": "Hoofdstraat 2B",
+      "city": "Winsum",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Publiek eetcafé met borrel; exacte alcoholkaart niet afzonderlijk gecontroleerd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
+      "closing_source": "https://www.cafejena.nl/contact/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Openingstijden op eigen site gecontroleerd 20-11-2026; geen afzonderlijke laatste-toegangstijd.",
+      "website": "https://www.cafejena.nl/contact/",
+      "other_sources": [
+        "https://www.cafejena.nl/eetcafe/"
+      ],
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
     }
   ],
   "admission_policies": [
