@@ -13754,11 +13754,11 @@
         "di": "?",
         "wo": "?",
         "do": "?",
-        "vr": "?",
-        "za": "?",
+        "vr": "02:00",
+        "za": "02:00",
         "zo": "?"
       },
-      "closing_quality": "Officiële website voor opening; sluiting onbekend wegens bronconflict",
+      "closing_quality": "Friesland.nl bevestigt vr/za 02:00; overige sluituren niet vermeld.",
       "closing_source": "",
       "closing_notes": "02-11-2026 opnieuw gecontroleerd: eigen https://stadscafe-artisante.nl/contact/ bevestigt wo–za vanaf 10:00, zo–di vanaf 11:00, maar geen sluituren. Stadsgids https://dokkum.nl/eten-en-drinken/stadscafe-artisante/ noemt di–do/zo 22:00, vr/za 02:00 en zwijgt over maandag; Friesland.nl geeft andere begintijden, Cylex noemt afwijkende sluituren. Daarom geen sluiting ingevuld; laatste toegang onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
@@ -13768,18 +13768,19 @@
         "https://dokkum.nl/eten-en-drinken/stadscafe-artisante/",
         "https://stadscafe-artisante.nl/",
         "https://stadscafe-artisante.nl/contact/",
-        "https://www.cylex.nl/bedrijf/stadscaf%C3%A9-artisante-13854608.html"
+        "https://www.cylex.nl/bedrijf/stadscaf%C3%A9-artisante-13854608.html",
+        "https://www.friesland.nl/en/locations/548524461/stadscafe-artisante-city-cafe"
       ],
       "original_status": "02-11-2026: eigen actuele website bevestigt naam, adres, borrelfunctie en beginuren; feitelijke fysieke exploitatie niet ter plaatse getest.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-20",
       "opening": {
-        "ma": "11:00",
-        "di": "11:00",
+        "ma": "12:00",
+        "di": "10:00",
         "wo": "10:00",
         "do": "10:00",
         "vr": "10:00",
         "za": "10:00",
-        "zo": "11:00"
+        "zo": "12:00"
       },
       "opening_source": "https://stadscafe-artisante.nl/contact/",
       "opening_checked_on": "2026-11-02",
@@ -13788,7 +13789,8 @@
         "lon": 5.9981387,
         "method": "PDOK BAG-adres",
         "matched_address": "Diepswal 1, 9101LA Dokkum"
-      }
+      },
+      "opening_quality": "Friesland.nl 20-11-2026; beginuren ma/zo gecorrigeerd."
     },
     {
       "id": "halve-maan-dokkum-a6661d3",
@@ -41382,6 +41384,117 @@
       ],
       "checked_on": "2026-11-20",
       "original_status": "Alcohol en adres geverifieerd; sluituren onbekend."
+    },
+    {
+      "id": "zus-en-zo-steenwijk-20261120",
+      "name": "Zus en Zo",
+      "type": "Brasserie / café",
+      "address": "Markt 20",
+      "city": "Steenwijk",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Eigen borrelpagina bevestigt bier, wijn en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "21:30",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "00:00",
+        "za": "01:00",
+        "zo": "21:30"
+      },
+      "closing_quality": "Exploitant vermeldt openingstijden; tijden kunnen incidenteel afwijken.",
+      "website": "https://brasseriezusenzo.nl/",
+      "other_sources": [
+        "https://brasseriezusenzo.nl/borrel/"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Adres, publieke horeca, alcohol en gepubliceerde uren via eigen site gecontroleerd; geen live-garantie."
+    },
+    {
+      "id": "heeren-van-coevorden-20261120",
+      "name": "Heeren van Coevorden",
+      "type": "Grand café / restaurant",
+      "address": "Kasteel 1A",
+      "city": "Coevorden",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Eigen website vermeldt borrelkaart, wijn en whisky-arrangementen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Exploitant vermeldt openingstijden; tijden kunnen incidenteel afwijken.",
+      "website": "https://www.heerenvancoevorden.nl/",
+      "other_sources": [
+        "https://www.heerenvancoevorden.nl/"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Adres, publieke horeca, alcohol en gepubliceerde uren via eigen site gecontroleerd; geen live-garantie."
+    },
+    {
+      "id": "bistro-de-opschepper-steenwijk-20261120",
+      "name": "Bistro de Opschepper",
+      "type": "Bistro / bar",
+      "address": "Molenstraat 7",
+      "city": "Steenwijk",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Eigen site noemt cocktail van de maand.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Exploitant vermeldt openingstijden; tijden kunnen incidenteel afwijken.",
+      "website": "https://www.bistrodeopschepper.nl/",
+      "other_sources": [
+        "https://www.bistrodeopschepper.nl/contact/"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Adres, publieke horeca, alcohol en gepubliceerde uren via eigen site gecontroleerd; geen live-garantie."
     }
   ],
   "admission_policies": [
