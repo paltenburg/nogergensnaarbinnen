@@ -42612,6 +42612,90 @@
       "opening_source": "https://www.friesland.nl/nl/locaties/4030614729/koffiebar-knus",
       "opening_checked_on": "2026-11-20",
       "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "gastrobar-onder-de-linden-roden-20261120",
+      "name": "Gastrobar Onder de Linden",
+      "type": "Gastrobar",
+      "address": "Brink 27",
+      "city": "Roden",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca bevestigd op eigen website.",
+      "alcohol": "Bier, wijn en cocktails op eigen menukaart",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://hotelonderdelinden.nl/gastrobar-roden/menukaart/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Eigen website vermeldt dagelijks 11:00 tot 'open einde'; geen exact sluituur.",
+      "website": "https://hotelonderdelinden.nl/",
+      "other_sources": [
+        "https://hotelonderdelinden.nl/gastrobar-roden/borrelen/",
+        "https://hotelonderdelinden.nl/"
+      ],
+      "opening_source": "https://hotelonderdelinden.nl/gastrobar-roden/menukaart/",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Eigen website actueel geraadpleegd; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "cafe-bij-hammingh-garnwerd-20261120",
+      "name": "Café Bij Hammingh",
+      "type": "Café/restaurant",
+      "address": "Hunzeweg 32",
+      "city": "Garnwerd",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca bevestigd op eigen website.",
+      "alcohol": "Alcoholische aperitieven en Irish/French coffee op eigen menukaart",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Eigen website: sluituur onbekend",
+      "closing_source": "https://www.bijhammingh.nl/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Eigen homepage (bijgewerkt 4 november) zegt do–zo vanaf 11:00; menupagina zegt wo–zo. Woensdag onbekend, sluituren onbekend; toeristische gids noemt 22:00 maar eigen site niet.",
+      "website": "https://www.bijhammingh.nl/",
+      "other_sources": [
+        "https://www.bijhammingh.nl/menukaart",
+        "https://www.visitgroningen.nl/nl/locaties/1486613990/cafe-bij-hammingh"
+      ],
+      "opening_source": "https://www.bijhammingh.nl/",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Eigen website actueel geraadpleegd; fysieke exploitatie niet individueel gecontroleerd"
     }
   ],
   "admission_policies": [
