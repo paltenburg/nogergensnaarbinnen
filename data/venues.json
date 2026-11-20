@@ -41308,6 +41308,80 @@
       ],
       "checked_on": "2026-11-20",
       "original_status": "Recent publiek bierevenement bevestigd; huidige reguliere openingstijden onbekend."
+    },
+    {
+      "id": "cafe-de-brasserie-emmen-20261120",
+      "name": "Café de Brasserie",
+      "type": "Café / brasserie",
+      "address": "Hoofdstraat 53",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek café en terras volgens Drenthe.nl.",
+      "alcohol": "Speciaalbieren volgens Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen expliciete sluituren in bron.",
+      "website": "",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/2160186484/cafe-de-brasserie"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Alcohol en adres geverifieerd; sluituren onbekend."
+    },
+    {
+      "id": "de-rode-loper-stadskanaal-20261120",
+      "name": "De Rode Loper",
+      "type": "Bowling / horeca met lounge",
+      "address": "Tinnegieter 35 / 35a",
+      "city": "Stadskanaal",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke lounge bij bowling en restaurant; toegang zonder bowling niet afzonderlijk bevestigd.",
+      "alcohol": "Cocktails, wijn en bier volgens Visit Groningen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen expliciete sluituren in bron.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/plekken/westerwolde/groepsuitjes"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Alcohol en adres geverifieerd; sluituren onbekend."
     }
   ],
   "admission_policies": [
