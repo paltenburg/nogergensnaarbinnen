@@ -42334,7 +42334,7 @@
       "region": "drenthe",
       "country": "Nederland",
       "access": "Publieke horeca volgens regionale toeristische organisatie.",
-      "alcohol": "Ierse pub volgens Drenthe.nl; alcoholaanbod aannemelijk uit pubfunctie maar individuele drankkaart nog te verifiëren.",
+      "alcohol": "Eigen website: acht wisselende tapbieren, wijn en Ierse whiskey; publieke borrelfunctie expliciet bevestigd.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "23:00",
@@ -42360,7 +42360,8 @@
       "closing_notes": "Openingstijden Drenthe.nl; sluituur 23:00 voor geopende dagen.",
       "website": "https://www.restaurantdeturfsteker.nl/",
       "other_sources": [
-        "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge"
+        "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge",
+        "https://www.restaurantdeturfsteker.nl/ierse-pub-westerbork"
       ],
       "opening_source": "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge",
       "opening_checked_on": "2026-11-20",
