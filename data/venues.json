@@ -11186,7 +11186,7 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://cafedeprinsleeuwarden.nl/contact/",
-      "closing_notes": "Eigen contactpagina 30-10-2026: ma–wo 11–02, do 11–03, vr/za 11–05, zo 16–02. Laatste toegang onbekend. Oud adres 12–14 vervangen door bedrijfseigen 14; exacte BAG-match nog te controleren.",
+      "closing_notes": "Eigen contactpagina 30-10-2026: ma–wo 11–02, do 11–03, vr/za 11–05, zo 16–02. Laatste toegang onbekend. Oud adres 12–14 vervangen door bedrijfseigen 14; exacte BAG-match nog te controleren. Hercontrole 20-11: eigen contactpagina bevestigt bestaande opening/sluiting; geen wijziging.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://cafedeprinsleeuwarden.nl/",
       "other_sources": [
@@ -11204,13 +11204,14 @@
         "za": "11:00",
         "zo": "16:00"
       },
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-20",
       "geo": {
         "lat": 53.198728,
         "lon": 5.7921203,
         "method": "PDOK BAG-adres",
         "matched_address": "Prins Hendrikstraat 14, 8911BK Leeuwarden"
-      }
+      },
+      "website_checked_on": "2026-11-20"
     },
     {
       "id": "cafe-de-ouwe-stoep-leeuwarden-cbe3658",
@@ -39782,25 +39783,36 @@
       "region": "groningen",
       "country": "Nederland",
       "access": "Publiek toegankelijk volgens regionale toeristische bron",
-      "alcohol": "Tap- en flesbier",
+      "alcohol": "Eigen website bevestigt speciaalbier van tap en fles en wijn.",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "23:00",
+        "ma": "—",
         "di": "23:00",
         "wo": "23:00",
         "do": "23:00",
         "vr": "00:00",
         "za": "00:00",
-        "zo": "—"
+        "zo": "19:00"
       },
-      "closing_quality": "Regionale toeristische bron",
-      "closing_source": "https://www.visitgroningen.nl/nl/locaties/4182700154/cafe-salud",
-      "checked_on": "2026-11-19",
+      "closing_quality": "Eigen caféwebsite; maandag gesloten, zondag tot 19:00; eerdere gidsinformatie voor ma/zo onjuist.",
+      "closing_source": "https://cafesalud.nl/",
+      "checked_on": "2026-11-20",
       "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
-      "website": "",
+      "website": "https://cafesalud.nl/",
       "other_sources": [
-        "https://www.visitgroningen.nl/nl/locaties/4182700154/cafe-salud"
-      ]
+        "https://www.visitgroningen.nl/nl/locaties/4182700154/cafe-salud",
+        "https://cafesalud.nl/"
+      ],
+      "opening": {
+        "ma": "—",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "14:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://cafesalud.nl/"
     },
     {
       "id": "cilinder-groningen",
@@ -41005,6 +41017,123 @@
         "https://discovergroningen.com/locatie/cafe-de-klikspaan/"
       ],
       "original_status": "Eigen website actief, geen live deurcontrole",
+      "checked_on": "2026-11-20"
+    },
+    {
+      "id": "cafe-de-zolder-groningen",
+      "name": "Café de Zolder",
+      "type": "Muziekcafé",
+      "address": "Papengang 3A",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publieke caféfunctie; actuele toegang niet live gecontroleerd.",
+      "alcohol": "Bier en overige cafédranken; eigen site noemt publieke kroeg, livemuziek en pool.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "opening_source": "https://www.cafedezolder.com/contact",
+      "closing_source": "https://www.cafedezolder.com/contact",
+      "closing_quality": "Weekrooster volgens eigen exploitantenwebsite; laatste toegang onbekend.",
+      "closing_notes": "Gecontroleerd 20-11-2026; geen live opening of laatste toegang bevestigd.",
+      "website": "https://www.cafedezolder.com/contact",
+      "other_sources": [
+        "https://www.cafedezolder.com/contact"
+      ],
+      "checked_on": "2026-11-20"
+    },
+    {
+      "id": "cafe-de-heeren-hoogeveen",
+      "name": "Café De Heeren",
+      "type": "Café",
+      "address": "Hoofdstraat 38",
+      "city": "Hoogeveen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publieke caféfunctie; actuele toegang niet live gecontroleerd.",
+      "alcohol": "Publiek café volgens eigen website; alcoholische drankservice als café, assortiment niet afzonderlijk bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "19:00",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "19:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:30",
+        "za": "01:30",
+        "zo": "00:00"
+      },
+      "opening_source": "https://deheerenhoogeveen.nl/contact/",
+      "closing_source": "https://deheerenhoogeveen.nl/contact/",
+      "closing_quality": "Weekrooster volgens eigen exploitantenwebsite; laatste toegang onbekend.",
+      "closing_notes": "Gecontroleerd 20-11-2026; geen live opening of laatste toegang bevestigd.",
+      "website": "https://deheerenhoogeveen.nl/contact/",
+      "other_sources": [
+        "https://deheerenhoogeveen.nl/contact/"
+      ],
+      "checked_on": "2026-11-20"
+    },
+    {
+      "id": "grandcafe-marron-hoogeveen",
+      "name": "Grandcafé Marron",
+      "type": "Grand café",
+      "address": "Hoofdstraat 85",
+      "city": "Hoogeveen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publieke caféfunctie; actuele toegang niet live gecontroleerd.",
+      "alcohol": "Eigen website bevestigt publiek toegankelijke borrel zonder reservering; specifiek alcoholassortiment niet afzonderlijk geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:30",
+        "wo": "22:30",
+        "do": "23:00",
+        "vr": "00:30",
+        "za": "00:30",
+        "zo": "22:00"
+      },
+      "opening_source": "https://grandcafemarron.nl/reserveren/",
+      "closing_source": "https://grandcafemarron.nl/reserveren/",
+      "closing_quality": "Weekrooster volgens eigen exploitantenwebsite; laatste toegang onbekend.",
+      "closing_notes": "Gecontroleerd 20-11-2026; geen live opening of laatste toegang bevestigd.",
+      "website": "https://grandcafemarron.nl/reserveren/",
+      "other_sources": [
+        "https://grandcafemarron.nl/reserveren/"
+      ],
       "checked_on": "2026-11-20"
     }
   ],
