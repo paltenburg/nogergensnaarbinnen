@@ -41495,6 +41495,88 @@
       ],
       "checked_on": "2026-11-20",
       "original_status": "Adres, publieke horeca, alcohol en gepubliceerde uren via eigen site gecontroleerd; geen live-garantie."
+    },
+    {
+      "id": "eetcafe-groothuis-emmen-20261120",
+      "name": "Eetcafé Groothuis",
+      "type": "Eetcafé/borrelcafé",
+      "address": "Stationsstraat 75",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke inloop volgens toeristische locatieomschrijving; geen individuele toegangscontrole.",
+      "alcohol": "Wijn en speciaalbier expliciet genoemd; borrelen zonder maaltijd volgens Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/3571599996/cafe-groothuis",
+      "opening_quality": "Regionale toeristische bron",
+      "opening_checked_on": "2026-11-20",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.drenthe.nl/locaties/3571599996/cafe-groothuis",
+      "closing_notes": "Weekuren volgens Drenthe.nl, 20-11-2026; laatste toegang niet bevestigd.",
+      "checked_on": "2026-11-20",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/3571599996/cafe-groothuis"
+      ],
+      "original_status": "Toeristische bron geraadpleegd; niet live gegarandeerd."
+    },
+    {
+      "id": "melody-barger-oosterveld-20261120",
+      "name": "Melody",
+      "type": "Eetcafé/borrelcafé",
+      "address": "Splitting 45",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke inloop volgens toeristische locatieomschrijving; geen individuele toegangscontrole.",
+      "alcohol": "Café met borrel en publieksinloop volgens Drenthe.nl; specifieke alcoholkaart niet gecontroleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/1303441620/melody",
+      "opening_quality": "Regionale toeristische bron",
+      "opening_checked_on": "2026-11-20",
+      "closing": {
+        "ma": "—",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "00:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.drenthe.nl/locaties/1303441620/melody",
+      "closing_notes": "Weekuren volgens Drenthe.nl, 20-11-2026; laatste toegang niet bevestigd.",
+      "checked_on": "2026-11-20",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/1303441620/melody"
+      ],
+      "original_status": "Toeristische bron geraadpleegd; niet live gegarandeerd."
     }
   ],
   "admission_policies": [
