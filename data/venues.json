@@ -42407,6 +42407,211 @@
       "opening_source": "https://www.drenthe.nl/locaties/370369486/brasserie-diggels",
       "opening_checked_on": "2026-11-20",
       "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "cafe-lily-groningen-20261120",
+      "name": "Café Lily",
+      "type": "Café/restaurant",
+      "address": "Kleine Leliestraat 33",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische bron.",
+      "alcohol": "Wijn",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/316811464/cafe-lily",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/316811464/cafe-lily"
+      ],
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/316811464/cafe-lily",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "eetbar-luke-groningen-20261120",
+      "name": "Eetbar Luke",
+      "type": "Eetbar",
+      "address": "Hoogstraatje 9",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische bron.",
+      "alcohol": "Borrel; specifieke alcoholsoorten nog controleren",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/4226886150/eetbar-luke",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/4226886150/eetbar-luke"
+      ],
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/4226886150/eetbar-luke",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "grand-cafe-mr-bakels-groningen-20261120",
+      "name": "Grand Café Mr. Bakels",
+      "type": "Grand café",
+      "address": "Gedempte Zuiderdiep 56",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische bron.",
+      "alcohol": "Wijn en borrels",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "11:30",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:30",
+        "zo": "11:30"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2349164931/grand-cafe-mr-bakels",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Geen laatste toegang afgeleid.",
+      "website": "",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2349164931/grand-cafe-mr-bakels"
+      ],
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2349164931/grand-cafe-mr-bakels",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "grand-cafe-museum-de-proefkolonie-frederiksoord-20261120",
+      "name": "Grand Café Museum de Proefkolonie",
+      "type": "Museumgrandcafé",
+      "address": "Majoor van Swietenlaan 1a",
+      "city": "Frederiksoord",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische bron.",
+      "alcohol": "Speciaalbier en wijn",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.drenthe.nl/locaties/181327644/grand-cafe-museum-de-proefkolonie",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Schoolvakanties ook maandag open; geen vaste maandaguren overgenomen.",
+      "website": "",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/181327644/grand-cafe-museum-de-proefkolonie"
+      ],
+      "opening_source": "https://www.drenthe.nl/locaties/181327644/grand-cafe-museum-de-proefkolonie",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "koffiebar-knus-dokkum-20261120",
+      "name": "Koffiebar Knus",
+      "type": "Koffiebar/borrel",
+      "address": "Oranjewal 2",
+      "city": "Dokkum",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische bron.",
+      "alcohol": "Flesbier",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.friesland.nl/nl/locaties/4030614729/koffiebar-knus",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Bron noemt wo–zo tot 17:00; beginuren en ma/di niet expliciet bevestigd.",
+      "website": "",
+      "other_sources": [
+        "https://www.friesland.nl/nl/locaties/4030614729/koffiebar-knus"
+      ],
+      "opening_source": "https://www.friesland.nl/nl/locaties/4030614729/koffiebar-knus",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
     }
   ],
   "admission_policies": [
