@@ -42154,6 +42154,64 @@
         "https://horecagroningen.nl/gelegenheid/graansilo/"
       ],
       "original_status": "Publieke borrel en diner bevestigd; exacte sluituren niet bevestigd."
+    },
+    {
+      "id": "herberg-de-gouden-karper-winsum-20261120",
+      "name": "Herberg de Gouden Karper",
+      "type": "Herberg/café",
+      "address": "Hoofdstraat 5W",
+      "city": "Winsum",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt publiek café, terras, lunch en diner.",
+      "alcohol": "Eigen website bevestigt wijn en speciaalbier.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen website 20-11-2026; Visit Groningen noemt zaterdag 23:00, conflict: eigen site leidend.",
+      "closing_source": "https://goudenkarper.nl/",
+      "checked_on": "2026-11-20",
+      "website": "https://goudenkarper.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2982487697/herberg-de-gouden-karper"
+      ],
+      "original_status": "Publiek café en alcohol bevestigd; zaterdag sluituur verschilt tussen bronnen."
+    },
+    {
+      "id": "cafe-de-amer-amen-20261120",
+      "name": "Café De Amer",
+      "type": "Dorpscafé/cultureel podium",
+      "address": "Amen 20",
+      "city": "Amen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Drenthe.nl bevestigt publiek toegankelijk dorpscafé en terras.",
+      "alcohol": "Drenthe.nl bevestigt lokaal bier en wijn.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Geen reguliere weeksluituren bevestigd; concerttijden niet als caféuren overgenomen.",
+      "closing_source": "https://www.drenthe.nl/locaties/3788675520/amer-cultureel",
+      "checked_on": "2026-11-20",
+      "website": "https://www.cafedeamer.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/3788675520/amer-cultureel"
+      ],
+      "original_status": "Publieke horeca en bier/wijn bevestigd; vaste sluituren onbekend."
     }
   ],
   "admission_policies": [
