@@ -42283,6 +42283,129 @@
       "opening_source": "https://www.cafedeharemajesteit.nl/openingstijden",
       "opening_checked_on": "2026-11-20",
       "original_status": "Eigen website actief, geen individuele fysieke exploitatiecontrole"
+    },
+    {
+      "id": "dinercafe-soestdijk-groningen-20261120",
+      "name": "Dinercafé Soestdijk",
+      "type": "Café/restaurant",
+      "address": "Grote Kromme Elleboog 6",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische organisatie.",
+      "alcohol": "Visit Groningen: ruim aanbod tapbier en wijn per glas.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_source": "https://www.visitgroningen.nl/en/locations/16083495/dinercafe-soestdijk",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Alle dagen vanaf 15:00; sluituren niet gepubliceerd.",
+      "website": "https://www.cafesoestdijk.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/en/locations/16083495/dinercafe-soestdijk"
+      ],
+      "opening_source": "https://www.visitgroningen.nl/en/locations/16083495/dinercafe-soestdijk",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "iers-restaurant-pub-de-turfsteker-westerbork-20261120",
+      "name": "Iers Restaurant & Pub De Turfsteker",
+      "type": "Ierse pub/restaurant",
+      "address": "Hoofdstraat 48",
+      "city": "Westerbork",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische organisatie.",
+      "alcohol": "Ierse pub volgens Drenthe.nl; alcoholaanbod aannemelijk uit pubfunctie maar individuele drankkaart nog te verifiëren.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "—",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "12:00"
+      },
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_source": "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Openingstijden Drenthe.nl; sluituur 23:00 voor geopende dagen.",
+      "website": "https://www.restaurantdeturfsteker.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge"
+      ],
+      "opening_source": "https://www.drenthe.nl/locaties/2448203711/restaurant-meursinge",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
+    },
+    {
+      "id": "brasserie-diggels-westerbork-20261120",
+      "name": "Brasserie Diggels",
+      "type": "Brasserie/restaurant",
+      "address": "Hoofdstraat 8",
+      "city": "Westerbork",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens regionale toeristische organisatie.",
+      "alcohol": "Drenthe.nl noemt expliciet wijn bij informeel dineren.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "11:30",
+        "vr": "11:30",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_source": "https://www.drenthe.nl/locaties/370369486/brasserie-diggels",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Seizoensafhankelijke beginuren: na herfstvakantie t/m april ma gesloten; sluituren niet vermeld. Zomeruren apart in bron.",
+      "website": "https://www.diggels.com/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/370369486/brasserie-diggels"
+      ],
+      "opening_source": "https://www.drenthe.nl/locaties/370369486/brasserie-diggels",
+      "opening_checked_on": "2026-11-20",
+      "original_status": "Actuele vermelding op regionale toeristische website; fysieke exploitatie niet individueel gecontroleerd"
     }
   ],
   "admission_policies": [
