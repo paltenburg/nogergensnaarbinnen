@@ -41135,6 +41135,64 @@
         "https://grandcafemarron.nl/reserveren/"
       ],
       "checked_on": "2026-11-20"
+    },
+    {
+      "id": "grand-cafe-de-rechtbank-appingedam",
+      "name": "Grand Café De Rechtbank",
+      "type": "Grand café",
+      "address": "Wijkstraat 38",
+      "city": "Appingedam",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens toeristische bron",
+      "alcohol": "Bier en wijn expliciet vermeld door Visit Groningen.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visitgroningen.nl/en/locations/3613596683/grandcafe-de-rechtbank",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Woensdag t/m zondag open volgens toeristische bron; exacte sluituren niet gepubliceerd.",
+      "other_sources": [
+        "https://www.visitgroningen.nl/en/locations/3613596683/grandcafe-de-rechtbank"
+      ],
+      "original_status": "Vermeld in actuele toeristische gids; dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "twentse-bierbrouwerij-proeflokaal-hengelo",
+      "name": "Twentse Bierbrouwerij & Proeflokaal",
+      "type": "Bierproeflokaal",
+      "address": "Haaksbergerstraat 51",
+      "city": "Hengelo",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens toeristische bron",
+      "alcohol": "Bierproeflokaal van Twentse Bierbrouwerij.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Regionale toeristische bron",
+      "closing_source": "https://www.visittwente.nl/trouwen/8694-twentse-bierbrouwerij-proeflokaal/",
+      "checked_on": "2026-11-20",
+      "closing_notes": "Weekuren volgens Visit Twente; actuele afwijkingen mogelijk.",
+      "other_sources": [
+        "https://www.visittwente.nl/trouwen/8694-twentse-bierbrouwerij-proeflokaal/"
+      ],
+      "original_status": "Vermeld in actuele toeristische gids; dagstatus niet live gecontroleerd"
     }
   ],
   "admission_policies": [
