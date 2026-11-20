@@ -40965,6 +40965,47 @@
         "https://www.cafejena.nl/eetcafe/"
       ],
       "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "cafe-de-klikspaan-groningen",
+      "name": "Café de Klikspaan",
+      "type": "Buurtcafé/speciaalbiercafé",
+      "address": "Rabenhauptstraat 78",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publiek toegankelijk buurtcafé en terras; besloten partijen op andere locatie.",
+      "alcohol": "Eigen website bevestigt Amstel, Brand en zeven wisseltaps met speciaalbier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafedeklikspaan.nl/",
+      "opening_checked_on": "2026-11-20",
+      "opening_quality": "Eigen website",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website vermeldt geen sluituren; gidsen spreken elkaar tegen",
+      "closing_notes": "Eigen site toont ma–wo 16:00, do–zo 14:00. Derden tonen afwijkende sluituren; niet overgenomen. Laatste toegang onbekend.",
+      "website": "https://www.cafedeklikspaan.nl/",
+      "other_sources": [
+        "https://discovergroningen.com/locatie/cafe-de-klikspaan/"
+      ],
+      "original_status": "Eigen website actief, geen live deurcontrole",
+      "checked_on": "2026-11-20"
     }
   ],
   "admission_policies": [
