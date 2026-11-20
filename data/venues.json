@@ -41736,6 +41736,87 @@
       ],
       "checked_on": "2026-11-20",
       "original_status": "Alcohol, adres en gedeeltelijke beginuren geverifieerd; sluituren onbekend."
+    },
+    {
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens vermelde bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_checked_on": "2026-11-20",
+      "closing_quality": "Gepubliceerde weekuren; geen garantie op feitelijke sluiting",
+      "original_status": "Actueel vermeld op geraadpleegde bron",
+      "id": "pelles-bier-eetcafe-deurningen",
+      "name": "Pelle’s Bier- & Eetcafé",
+      "type": "Bier- en eetcafé",
+      "address": "Hoofdstraat 9",
+      "city": "Deurningen",
+      "region": "overijssel",
+      "alcohol": "15 speciaalbieren op tap en ruim 80 op fles/blik volgens eigen site",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:30"
+      },
+      "opening_source": "https://pelles.nl/contact/",
+      "closing_source": "https://pelles.nl/contact/",
+      "website": "https://pelles.nl/",
+      "other_sources": [
+        "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/10497-pelle-s-bier-eetcafe/"
+      ],
+      "closing_notes": "Eigen site dinsdag 23:00, Visit Twente dinsdag 00:00; eigen site leidend."
+    },
+    {
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens vermelde bron",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_checked_on": "2026-11-20",
+      "closing_quality": "Gepubliceerde weekuren; geen garantie op feitelijke sluiting",
+      "original_status": "Actueel vermeld op geraadpleegde bron",
+      "id": "bart-bites-beilen",
+      "name": "Bart & Bites",
+      "type": "Activiteitencentrum met publieke bar en horeca",
+      "address": "Domoweg 1",
+      "city": "Beilen",
+      "region": "drenthe",
+      "alcohol": "Wijn, speciaalbier en cocktails volgens horeca-aanbieding; huidig assortiment nog bevestigen",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/3456255060/bart-and-bites",
+      "closing_source": "https://www.drenthe.nl/locaties/3456255060/bart-and-bites",
+      "website": "https://www.drenthe.nl/locaties/3456255060/bart-and-bites",
+      "other_sources": [
+        "https://deals.indebuurt.nl/restaurants/bart-en-bites/heerlijke-high-wine-beer-of-cocktail-bij-barts-en-bites-geniet-van-twee-glazen-wijn-speciaalbier-of-cocktails-naar-keuze-met-een-goedgevulde-borrelplank-jun-2023-drenthe/"
+      ]
     }
   ],
   "admission_policies": [
