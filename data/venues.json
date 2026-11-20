@@ -41193,6 +41193,121 @@
         "https://www.visittwente.nl/trouwen/8694-twentse-bierbrouwerij-proeflokaal/"
       ],
       "original_status": "Vermeld in actuele toeristische gids; dagstatus niet live gecontroleerd"
+    },
+    {
+      "id": "brouwhotel-parkzicht-veendam-20261120",
+      "name": "Brouwhotel Parkzicht",
+      "type": "Grand café / brouwerij",
+      "address": "Museumplein 3",
+      "city": "Veendam",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Visit Groningen beschrijft een grand café en brouwerij voor bezoekers.",
+      "alcohol": "Eigen brouwerij en Bogdike-bier volgens Visit Groningen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Visit Groningen vermeldt hotelopeningstijden; niet afzonderlijk bevestigd als caféuren.",
+      "closing_notes": "Hoteluren ma–wo/zo tot 23:00 en do–za tot 01:00 niet overgenomen als publiek café-sluituren.",
+      "website": "https://www.parkzicht.com/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/3308380389/brouwhotel-parkzicht"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Grand café en bierbrouwerij bevestigd door regionale toeristische organisatie; exacte publieksuren café niet vastgesteld."
+    },
+    {
+      "id": "cafe-t-keerpunt-spijkerboor-20261120",
+      "name": "Café 't Keerpunt",
+      "type": "Café / eetcafé",
+      "address": "Oostermoer 1",
+      "city": "Spijkerboor",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Drenthe.nl beschrijft publieke cafétoegang en borrel.",
+      "alcohol": "Speciaalbier expliciet genoemd op Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Seizoensafhankelijk: zomer vanaf mei di 15:00, wo–za 12:00, zo 10:00; winter afwijkend. Geen jaarrond rooster.",
+      "closing_quality": "Geen expliciete sluituren in geraadpleegde bron.",
+      "closing_notes": "Zomerrooster niet als jaarrond openingstijden opgeslagen.",
+      "website": "",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/47128155/cafe-t-keerpunt-1"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Toegang en bier bevestigd; seizoensrooster vergt aanvullende verificatie."
+    },
+    {
+      "id": "cafe-njoy-oldenzaal-20261120",
+      "name": "Café NJOY",
+      "type": "Café / biercafé",
+      "address": "Steenstraat 108",
+      "city": "Oldenzaal",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke bierproeverij op 30-10-2026 bij Café NJOY vermeld door Visit Twente.",
+      "alcohol": "Bokbierproeverij met meerdere bieren op 30-10-2026 bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Eenmalige evenementuren zijn geen regulier weekrooster.",
+      "closing_notes": "Event 30-10 inloop 19:00, start 20:00; niet als vaste begin- of sluituren gebruikt.",
+      "website": "",
+      "other_sources": [
+        "https://www.visittwente.nl/agenda-item/181776/bokbier-proeverij-2026-bij-njoy/"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Recent publiek bierevenement bevestigd; huidige reguliere openingstijden onbekend."
     }
   ],
   "admission_policies": [
