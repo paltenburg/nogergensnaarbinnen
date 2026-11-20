@@ -41817,6 +41817,118 @@
       "other_sources": [
         "https://deals.indebuurt.nl/restaurants/bart-en-bites/heerlijke-high-wine-beer-of-cocktail-bij-barts-en-bites-geniet-van-twee-glazen-wijn-speciaalbier-of-cocktails-naar-keuze-met-een-goedgevulde-borrelplank-jun-2023-drenthe/"
       ]
+    },
+    {
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_checked_on": "2026-11-20",
+      "closing_quality": "Eigen website; geen garantie op feitelijke sluiting",
+      "original_status": "Actueel vermeld op eigen website",
+      "id": "cafe-the-crown-groningen",
+      "name": "Café The Crown",
+      "type": "Café",
+      "address": "Gedempte Zuiderdiep 2",
+      "city": "Groningen",
+      "region": "groningen",
+      "alcohol": "Café; alcoholaanbod nog afzonderlijk te bevestigen",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "website": "https://www.cafethecrown.nl/en/contact/",
+      "closing_notes": "Eigen contactpagina noemt dagelijks tot 02:00 maar Engelstalige en Nederlandstalige beginuren verschillen; beginuren uit Engelse sectie.",
+      "opening_source": "https://www.cafethecrown.nl/en/contact/",
+      "closing_source": "https://www.cafethecrown.nl/en/contact/"
+    },
+    {
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_checked_on": "2026-11-20",
+      "closing_quality": "Eigen website; geen garantie op feitelijke sluiting",
+      "original_status": "Actueel vermeld op eigen website",
+      "id": "cafe-ome-jan-zwolle",
+      "name": "Café Ome Jan",
+      "type": "Café",
+      "address": "Hortensiastraat 32",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "alcohol": "Speciaalbier volgens eigen website",
+      "opening": {
+        "ma": "—",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "website": "https://cafe-omejan.nl/",
+      "opening_source": "https://cafe-omejan.nl/",
+      "closing_source": "https://cafe-omejan.nl/"
+    },
+    {
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-20",
+      "opening_checked_on": "2026-11-20",
+      "closing_quality": "Eigen website; geen garantie op feitelijke sluiting",
+      "original_status": "Actueel vermeld op eigen website",
+      "id": "cafe-de-kuiperij-zwolle",
+      "name": "Café de Kuiperij",
+      "type": "Café",
+      "address": "Voorstraat 13",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "alcohol": "Café; specifiek alcoholassortiment nog verifiëren",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "—"
+      },
+      "website": "https://cafedekuiperij.nl/contact/",
+      "opening_source": "https://cafedekuiperij.nl/contact/",
+      "closing_source": "https://cafedekuiperij.nl/contact/"
     }
   ],
   "admission_policies": [
