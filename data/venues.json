@@ -42217,12 +42217,12 @@
       "id": "bistrobar-t-leeuwtje-meppel-20261120",
       "name": "Bistrobar 't Leeuwtje",
       "type": "Bistrobar / borrel",
-      "address": "Meppel (straatadres nog te verifiëren)",
+      "address": "Stationsweg 51",
       "city": "Meppel",
       "region": "drenthe",
       "country": "Nederland",
-      "access": "Eigen website bevestigt dagelijks publiek toegankelijke lunch, borrel en diner.",
-      "alcohol": "Eigen website vermeldt wijn, bieren, cocktails en gin-tonics.",
+      "access": "Eigen website bevestigt publiek toegankelijke lunch, borrel en diner.",
+      "alcohol": "Eigen menukaart bevestigt wijn, bier en cocktails.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "23:00",
@@ -42233,14 +42233,14 @@
         "za": "02:00",
         "zo": "23:00"
       },
-      "closing_quality": "Eigen website: reguliere openingstijden; adres nog niet bevestigd.",
+      "closing_quality": "Eigen website, reguliere weekuren; externe fietsengids wijkt vr/za af (23:30).",
       "closing_source": "https://leeuwtje-meppel.nl/",
       "checked_on": "2026-11-20",
       "website": "https://leeuwtje-meppel.nl/",
       "other_sources": [
-        "https://leeuwtje-meppel.nl/"
+        "https://ontdekmeppel.nl/ontdek-meppel/eten-drinken/cafes/bistrobar-t-leeuwtje/709/"
       ],
-      "original_status": "Alcohol, publieke toegang en weeksluituren bevestigd; straatadres ontbreekt en moet worden nagezocht."
+      "original_status": "Adres en alcohol en publieke toegang bevestigd op eigen site; vrijdag/zaterdag sluituur 02:00 volgens eigen site."
     }
   ],
   "admission_policies": [
