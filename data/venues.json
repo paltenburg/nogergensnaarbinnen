@@ -41697,6 +41697,45 @@
       "website": "https://discovergroningen.com/locatie/cafe-hooghoudt/",
       "other_sources": [],
       "original_status": "Actueel vermeld op geraadpleegde bron"
+    },
+    {
+      "id": "cafe-eureka-groningen-20261120",
+      "name": "Café Eureka",
+      "type": "Bruin café / speciaalbiercafé",
+      "address": "Gedempte Kattendiep 15",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek café met bar en tafels volgens Visit Groningen.",
+      "alcohol": "Meer dan vijf speciaalbieren op tap, vijftien op fles en wijn volgens Visit Groningen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "16:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Sluituren niet gepubliceerd in geraadpleegde bron.",
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2864553146/cafe-eureka",
+      "opening_checked_on": "2026-11-20",
+      "website": "https://cafe-eureka.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2864553146/cafe-eureka"
+      ],
+      "checked_on": "2026-11-20",
+      "original_status": "Alcohol, adres en gedeeltelijke beginuren geverifieerd; sluituren onbekend."
     }
   ],
   "admission_policies": [
