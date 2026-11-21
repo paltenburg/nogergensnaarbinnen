@@ -43410,6 +43410,46 @@
       "website_provenance": "Eigen website gecontroleerd op 2026-11-21.",
       "original_status": "Exploitantenwebsite; niet live gegarandeerd.",
       "checked_on": "2026-11-21"
+    },
+    {
+      "id": "belgisch-cafe-de-pintelier-groningen",
+      "name": "Belgisch Café De Pintelier",
+      "type": "Speciaalbiercafé",
+      "address": "Kleine Kromme Elleboog 9",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café; eigen website noemt vrije café-inloop en reserveringen.",
+      "alcohol": "Eigen bierkaart: 30 bieren op tap en circa 80 vaste flessen/blikken.",
+      "selection": "Geverifieerd",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website": "https://pintelier.nl/",
+      "opening_source": "https://pintelier.nl/",
+      "opening_quality": "Officiële website",
+      "closing_quality": "Onbekend: toeristische gids vermeldt 02:00/03:00, maar eigen website bevestigt alleen beginuren en wijkt daarvan af.",
+      "closing_source": "https://www.visitgroningen.nl/nl/doen/eten-en-drinken/restaurants-en-cafes-in-groningen/175210561/belgisch-cafe-de-pintelier",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/doen/eten-en-drinken/restaurants-en-cafes-in-groningen/175210561/belgisch-cafe-de-pintelier"
+      ],
+      "checked_on": "2026-11-21",
+      "closing_notes": "Toeristische gids noemt ma–wo/zo 02:00, do–za 03:00, maar heeft verouderde beginuren (15:00 dagelijks). Niet als bevestigd sluituur overgenomen."
     }
   ],
   "admission_policies": [
