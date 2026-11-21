@@ -33487,9 +33487,9 @@
       "closing_quality": "Geen huidige baruren. Oude gids- en OSM-roosters dateren van vóór de aangekondigde exploitantenwisseling; niet overgenomen.",
       "opening_source": "https://www.destee.nl/nieuwe-site/",
       "closing_source": "https://www.destee.nl/nieuwe-site/",
-      "opening_checked_on": "2026-11-01",
+      "opening_checked_on": "2026-11-21",
       "closing_checked_on": "2026-11-01",
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-21",
       "website": "https://www.destee.nl/nieuwe-site/",
       "website_checked_on": "2026-11-01",
       "website_provenance": "Exploitantpagina /nieuwe-site/ rechtstreeks gecontroleerd 01-11-2026. Hoofddomein www.destee.nl leidt naar oude Jimdo-cafépagina met een ongedateerd 23-februari-evenement; niet als actuele opening geïnterpreteerd.",
@@ -37324,7 +37324,7 @@
       "website": "https://www.barbascule.nl/contact",
       "website_checked_on": "2026-11-09",
       "website_provenance": "09-11-2026: exploitantwebsite https://www.barbascule.nl/ bevestigt mixed drinks, shots, bier en wijn en locatie 93; https://www.barbascule.nl/deurbeleid bevestigt laatste toegang 03:00 (geen sluituur). Exacte BAG-ingang niet bevestigd.",
-      "checked_on": "2026-11-09",
+      "checked_on": "2026-11-21",
       "geocode_blocked": true,
       "other_sources": [
         "https://www.barbascule.nl/contact",
@@ -37349,7 +37349,8 @@
       "last_entry_checked_on": "2026-11-03",
       "access_checked_on": "2026-11-03",
       "alcohol_checked_on": "2026-11-09",
-      "alcohol_source": "https://www.barbascule.nl/"
+      "alcohol_source": "https://www.barbascule.nl/",
+      "opening_checked_on": "2026-11-21"
     },
     {
       "id": "feestcafe-shooters-leeuwarden-20261102",
@@ -39579,10 +39580,12 @@
       },
       "closing_quality": "Eigen website",
       "closing_source": "https://www.cafedetoeter.nl/contact/",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-21",
       "closing_notes": "Openingstijden rechtstreeks van eigen website; geen afgeleide laatste toegang. Feestdagen kunnen afwijken.",
       "website": "https://www.cafedetoeter.nl/contact/",
-      "other_sources": []
+      "other_sources": [],
+      "closing_checked_on": "2026-11-21",
+      "opening_checked_on": "2026-11-21"
     },
     {
       "id": "eetcafe-zusjes-de-boer-assen",
@@ -39687,10 +39690,12 @@
       },
       "closing_quality": "Eigen website",
       "closing_source": "https://www.persee.nl/contact/",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-21",
       "closing_notes": "Sluituren eigen contactpagina; laatste toegang onbekend.",
       "website": "https://www.persee.nl/",
-      "other_sources": []
+      "other_sources": [],
+      "closing_checked_on": "2026-11-21",
+      "opening_checked_on": "2026-11-21"
     },
     {
       "id": "bierencafe-de-heks-deventer",
