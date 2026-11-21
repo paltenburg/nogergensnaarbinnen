@@ -43831,6 +43831,87 @@
       "opening_source": "https://www.deminnaar.nl/",
       "opening_checked_on": "2026-11-21",
       "website_checked_on": "2026-11-21"
+    },
+    {
+      "id": "grand-cafe-goud-assen-20261121",
+      "name": "Grand Café Goud",
+      "type": "Grand café / lunch / borrel",
+      "address": "Ceresplein 118-120",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website.",
+      "alcohol": "Bier en wijn op eigen drankenkaart en high beer/high wine.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:30",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "Varieert"
+      },
+      "closing": {
+        "ma": "16:30",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "18:00",
+        "za": "17:00",
+        "zo": "Varieert"
+      },
+      "opening_source": "https://grandcafegoud.nl/contact/",
+      "closing_source": "https://grandcafegoud.nl/contact/",
+      "opening_quality": "Eigen website; koopzondag variabel",
+      "closing_quality": "Eigen website; koopzondag variabel",
+      "website": "https://grandcafegoud.nl/",
+      "other_sources": [
+        "https://grandcafegoud.nl/arrangementen/",
+        "https://grandcafegoud.nl/wp-content/uploads/2024/11/Drankenkaart-november-2024.pdf"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Eigen website bevestigt alcohol en openingstijden; koopzondag variabel."
+    },
+    {
+      "id": "plein-10-assen-20261121",
+      "name": "Plein 10",
+      "type": "Lunchcafé / terras / borrel",
+      "address": "'t Forum 10",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek lunchcafé en terras volgens eigen website.",
+      "alcohol": "Wijn en bier volgens eigen drankenkaart (2024).",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "20:00",
+        "za": "17:00",
+        "zo": "—"
+      },
+      "opening_source": "https://plein10.nl/",
+      "closing_source": "https://plein10.nl/",
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "website": "https://plein10.nl/",
+      "other_sources": [
+        "https://plein10.nl/wp-content/uploads/2024/03/menu-drinks-maart-2024.pdf"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Eigen site en drankenkaart; alcoholkaart gedateerd 2024."
     }
   ],
   "admission_policies": [
