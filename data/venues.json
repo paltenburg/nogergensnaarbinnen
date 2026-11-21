@@ -42863,6 +42863,95 @@
       "checked_on": "2026-11-21",
       "opening_checked_on": "2026-11-21",
       "original_status": "Eigen website gecontroleerd; exploitatie niet ter plaatse geverifieerd"
+    },
+    {
+      "id": "stadscafe-roegh-winschoten",
+      "name": "Stadscafé Roegh",
+      "type": "Brasserie / stadscafé",
+      "address": "Venne 74B3",
+      "city": "Winschoten",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt publiek toegankelijk stadscafé voor lunch, borrel en diner.",
+      "alcohol": "Speciaalbier en wijn bevestigd op eigen website en menukaart.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://winschoten.roegh.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Weeksluituren volgens eigen website gecontroleerd 21 november 2026.",
+      "website": "https://winschoten.roegh.nl/",
+      "other_sources": [
+        "https://winschoten.roegh.nl/",
+        "https://winschoten.roegh.nl/menukaart"
+      ]
+    },
+    {
+      "id": "brasserie-pand-147-winschoten",
+      "name": "Brasserie Pand 147",
+      "type": "Brasserie / stadscafé",
+      "address": "Venne 147",
+      "city": "Winschoten",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit om binnen te lopen voor lunch, diner en borrel.",
+      "alcohol": "Bier en wijn expliciet bevestigd op eigen website.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.pand147.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Eigen website vermeldt zondag 11:00–22:00, Visit Groningen zondag gesloten; eigen website aangehouden.",
+      "website": "https://www.pand147.nl/",
+      "other_sources": [
+        "https://www.pand147.nl/"
+      ]
+    },
+    {
+      "id": "brasserie-bij-erve-erve-hulsbeek-oldenzaal",
+      "name": "Brasserie Bij Erve (Erve Hulsbeek)",
+      "type": "Brasserie / stadscafé",
+      "address": "Oude Almeloseweg 13",
+      "city": "Oldenzaal",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Restaurant/brasserie publiek toegankelijk voor borrel, ook zonder hotelovernachting.",
+      "alcohol": "Wijn en prosecco bevestigd op eigen website.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.hulsbeek.nl/restaurant/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Dagelijks vanaf 10:00; toeristische gids noemt seizoensafhankelijke sluituren, eigen website geen exact sluituur; onbekend gehouden.",
+      "website": "https://www.hulsbeek.nl/restaurant/",
+      "other_sources": [
+        "https://www.hulsbeek.nl/restaurant/",
+        "https://www.hulsbeek.nl/arrangementen/halfpensionarrangement/"
+      ]
     }
   ],
   "admission_policies": [
