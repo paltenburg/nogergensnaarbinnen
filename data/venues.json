@@ -43129,6 +43129,111 @@
       "closing_source": "https://www.baxbier.com/pages/contact",
       "checked_on": "2026-11-21",
       "closing_notes": "Weekuren eigen website geraadpleegd 21-11-2026; feestdagen en laatste toegang niet bevestigd."
+    },
+    {
+      "id": "cafe-eigenwijs-kampen",
+      "name": "Café Eigenwijs",
+      "type": "Café / bar",
+      "address": "Plantage 7",
+      "city": "Kampen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek café volgens Visit Kampen.",
+      "alcohol": "Sterke drank en gedistilleerd expliciet vermeld door Visit Kampen.",
+      "selection": "Geverifieerd",
+      "website": "https://visitkampen.nl/locaties/cafe-eigenwijs",
+      "closing_quality": "Onbekend",
+      "closing_source": "https://visitkampen.nl/locaties/cafe-eigenwijs",
+      "closing_notes": "Geen betrouwbare weekuren gevonden; geen tijden afgeleid.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "checked_on": "2026-11-21"
+    },
+    {
+      "id": "cafe-de-moriaan-kampen",
+      "name": "Café De Moriaan",
+      "type": "Café / bar",
+      "address": "Boven Nieuwstraat 113",
+      "city": "Kampen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek café volgens eigen website.",
+      "alcohol": "Café/bar; alcoholassortiment niet afzonderlijk op eigen menukaart bevestigd.",
+      "selection": "Voorlopig",
+      "website": "https://www.moriaankampen.nl/contact/",
+      "opening": {
+        "ma": "—",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "04:00",
+        "zo": "—"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.moriaankampen.nl/contact/",
+      "closing_notes": "Eigen contactpagina 21-11-2026; drankaanbod nader controleren.",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "id": "dapper-foodcafe-kampen",
+      "name": "Dapper Foodcafé",
+      "type": "Foodcafé / borrel",
+      "address": "Plantage 3",
+      "city": "Kampen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek foodcafé volgens eigen website.",
+      "alcohol": "Eigen website bevestigt tapbier, wijn en cocktails.",
+      "selection": "Geverifieerd",
+      "website": "https://dapperfoodcafe.nl/",
+      "opening": {
+        "ma": "09:30",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "09:30"
+      },
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "21:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "17:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://dapperfoodcafe.nl/",
+      "closing_notes": "Eigen website 21-11-2026; feestdagen/laatste toegang onbekend.",
+      "checked_on": "2026-11-21"
     }
   ],
   "admission_policies": [
