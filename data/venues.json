@@ -43787,6 +43787,50 @@
       ],
       "checked_on": "2026-11-21",
       "original_status": "Eigen website gecontroleerd; live-openstatus niet bevestigd."
+    },
+    {
+      "id": "cafe-de-minnaar-groningen-20261121",
+      "name": "Café de Minnaar",
+      "type": "Buurtcafé",
+      "address": "Kleine Rozenstraat 64",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen site beschrijft publiek toegankelijk buurtcafé en gevarieerd publiek.",
+      "alcohol": "Eigen site bevestigt selectie bieren en wijnen.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Eigen website, dagelijks 15:00–01:00; externe toeristische gids geeft afwijkende tijden (16:00–02:00), eigen bron leidend.",
+      "closing_source": "https://www.deminnaar.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Eigen website en contactpagina noemen dagelijks 15:00–01:00; Discover Groningen noemt 16:00–02:00. Geen laatste-toegangstijd bekend.",
+      "features": "Buurtcafé / pubquiz / livemuziek",
+      "website": "https://www.deminnaar.nl/",
+      "other_sources": [
+        "https://www.deminnaar.nl/over-ons/",
+        "https://discovergroningen.com/locatie/cafe-de-minnaar/"
+      ],
+      "original_status": "Actuele eigen website bevestigt café, alcohol en dagelijks rooster.",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.deminnaar.nl/",
+      "opening_checked_on": "2026-11-21",
+      "website_checked_on": "2026-11-21"
     }
   ],
   "admission_policies": [
