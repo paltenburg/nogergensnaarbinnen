@@ -39160,7 +39160,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Publiek café; eigen website nodigt gasten uit voor koffie, lunch en borrel.",
-      "alcohol": "Eigen website noemt pilsjes; Alcoholwetvergunning bekendgemaakt 12-08-2026.",
+      "alcohol": "Eigen website bevestigt pilsjes; algemene voorwaarden bevestigen alcoholverstrekking.",
       "selection": "Voorlopig",
       "closing": {
         "ma": "—",
@@ -39196,7 +39196,7 @@
       "opening_quality": "Eigen homepage; menukaart vermeldt zondag 10:00 in plaats van 11:00.",
       "website_checked_on": "2026-11-19",
       "website_provenance": "Eigen website gecontroleerd 19-11-2026; publiek aanbod, pilsjes, adres en openingsdagen bevestigd.",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-21"
     },
     {
       "id": "cafe-de-koffer-groningen",
@@ -43624,6 +43624,129 @@
       "website_checked_on": "2026-11-21",
       "checked_on": "2026-11-21",
       "original_status": "Webbronnen gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "grand-cafe-neuf-raalte-20261121",
+      "name": "Grand Café Neuf",
+      "type": "Café / borrel",
+      "address": "Grotestraat 2",
+      "city": "Raalte",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Eigen website bevestigt wijn, speciaalbier en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://grandcafeneuf.nl/contact/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "21:00"
+      },
+      "closing_source": "https://grandcafeneuf.nl/contact/",
+      "closing_quality": "Officiële website",
+      "closing_notes": "Weekuren eigen website, uitzonderingen mogelijk.",
+      "website": "https://grandcafeneuf.nl/",
+      "other_sources": [
+        "https://grandcafeneuf.nl/contact/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Webbron gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "bar-robuuzt-raalte-20261121",
+      "name": "Bar Robuuzt",
+      "type": "Café / borrel",
+      "address": "Grote Markt 18",
+      "city": "Raalte",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Eigen website bevestigt speciaalbier en tapbier; weekuren niet gepubliceerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://bar-robuuzt.nl/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_source": "https://bar-robuuzt.nl/",
+      "closing_quality": "Deels onbekend; officiële website",
+      "closing_notes": "Geen vaste weekuren op eigen website gevonden.",
+      "website": "https://bar-robuuzt.nl/",
+      "other_sources": [
+        "https://bar-robuuzt.nl/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Webbron gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "lemonade-raalte-raalte-20261121",
+      "name": "Lemonade Raalte",
+      "type": "Café / borrel",
+      "address": "Stationsstraat 41",
+      "city": "Raalte",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "Publieke borrel bevestigd op eigen website; specifiek alcoholassortiment niet afzonderlijk bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:30",
+        "wo": "10:00",
+        "do": "10:30",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "opening_source": "https://lemonade-raalte.nl/contact/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "?",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "21:00"
+      },
+      "closing_source": "https://lemonade-raalte.nl/contact/",
+      "closing_quality": "Deels onbekend; officiële website",
+      "closing_notes": "Donderdag 'tot gezellig' zonder vaste eindtijd; onbekend gehouden.",
+      "website": "https://lemonade-raalte.nl/",
+      "other_sources": [
+        "https://lemonade-raalte.nl/contact/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Webbron gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
