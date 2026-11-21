@@ -43059,6 +43059,76 @@
         "https://www.uitagenda.nl/locaties/cafe-de-bestemming",
         "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-bestemming-b-v-oldenzaal-42024206-000025790269"
       ]
+    },
+    {
+      "id": "folkingebrew-the-pub-groningen",
+      "name": "Folkingebrew The Pub",
+      "type": "Biercafé / proeflokaal",
+      "address": "Boterdiep 75",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk proeflokaal volgens eigen website.",
+      "alcohol": "16 taps met speciaalbier en flessenbier volgens eigen site.",
+      "selection": "Geverifieerd",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "website": "https://www.folkingebrew.nl/the-pub/",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.folkingebrew.nl/the-pub/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Weekuren eigen website geraadpleegd 21-11-2026; feestdagen en laatste toegang niet bevestigd."
+    },
+    {
+      "id": "baxbier-proeflokaal-groningen",
+      "name": "Baxbier Proeflokaal",
+      "type": "Biercafé / proeflokaal",
+      "address": "Friesestraatweg 201/2a",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk proeflokaal volgens eigen website.",
+      "alcohol": "Baxbier van de tap en proeflokaal volgens brouwerijwebsite.",
+      "selection": "Geverifieerd",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "website": "https://www.baxbier.com/pages/contact",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.baxbier.com/pages/contact",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Weekuren eigen website geraadpleegd 21-11-2026; feestdagen en laatste toegang niet bevestigd."
     }
   ],
   "admission_policies": [
