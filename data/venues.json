@@ -39860,23 +39860,35 @@
       "closing": {
         "ma": "23:00",
         "di": "23:00",
-        "wo": "00:00",
-        "do": "00:00",
-        "vr": "01:00",
-        "za": "01:00",
-        "zo": "21:30"
+        "wo": "23:00",
+        "do": "23:30",
+        "vr": "00:30",
+        "za": "00:30",
+        "zo": "22:00"
       },
-      "closing_quality": "Discover Groningen; overeenkomst met Cylex, afwijking eerdere Visit Groningen",
-      "closing_source": "https://discovergroningen.com/locatie/de-uurwerker/",
+      "closing_quality": "Eigen website, gepubliceerd weekrooster",
+      "closing_source": "https://uurwerker.nl/uurwerker.html",
       "checked_on": "2026-11-21",
-      "closing_notes": "21-11: Discover Groningen publiceert 23/23/00/00/01/01/21:30; oudere Visit Groningen-uren in master weken af. Geen laatste toegang afgeleid.",
+      "closing_notes": "21-11-2026: eigen exploitantwebsite geeft afwijkende tijden t.o.v. Discover Groningen; eigen weekrooster leidend. Geen laatste toegang afgeleid.",
       "website": "https://uurwerker.nl/",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
         "https://discovergroningen.com/locatie/de-uurwerker/",
-        "https://horecagroningen.nl/gelegenheid/cafe-uurwerker/"
+        "https://horecagroningen.nl/gelegenheid/cafe-uurwerker/",
+        "https://uurwerker.nl/uurwerker.html"
       ],
-      "alcohol_source": "https://discovergroningen.com/locatie/de-uurwerker/"
+      "alcohol_source": "https://discovergroningen.com/locatie/de-uurwerker/",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://uurwerker.nl/uurwerker.html",
+      "opening_quality": "Eigen website, gepubliceerd weekrooster"
     },
     {
       "id": "ons-cafe-assen",
