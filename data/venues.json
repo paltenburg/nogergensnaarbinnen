@@ -43536,6 +43536,94 @@
         "https://www.dehip.nl/"
       ],
       "original_status": "Website gecontroleerd 2026-11-21; geen live garantie."
+    },
+    {
+      "id": "brink-assen-bar-restaurant",
+      "name": "BRINK. Assen",
+      "type": "Café-restaurant / borrel",
+      "address": "Brink 15",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publieke horeca bevestigd door eigen website.",
+      "alcohol": "Eigen website bevestigt bier, wijn en cocktails voor publieke borrel.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://brinkassen.nl/",
+      "opening_quality": "Officiële website",
+      "opening_checked_on": "2026-11-21",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "closing_source": "https://www.drenthe.nl/locaties/3095177867/brink-assen-bar-restaurant",
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_notes": "Eigen website bevestigt beginuren en gesloten ma/di; sluituren volgens Drenthe.nl, niet als laatste toegang interpreteren.",
+      "website": "https://brinkassen.nl/",
+      "other_sources": [
+        "https://brinkassen.nl/",
+        "https://www.drenthe.nl/locaties/3095177867/brink-assen-bar-restaurant"
+      ],
+      "website_checked_on": "2026-11-21",
+      "checked_on": "2026-11-21",
+      "original_status": "Webbronnen gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "nielz-cafe-restaurant-almelo",
+      "name": "NielZ Café Restaurant",
+      "type": "Café-restaurant / borrel",
+      "address": "Marktplein 31",
+      "city": "Almelo",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke horeca bevestigd door eigen website.",
+      "alcohol": "Eigen website bevestigt wijn, speciaalbier en cocktails voor publieke horeca.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://nielz.nl/",
+      "opening_quality": "Officiële website",
+      "opening_checked_on": "2026-11-21",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "closing_source": "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/2516-nielz-cafe-restaurant/",
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_notes": "Eigen website bevestigt dagelijkse beginuren; sluiting 00:00 volgens Visit Twente, niet op eigen website bevestigd.",
+      "website": "https://nielz.nl/",
+      "other_sources": [
+        "https://nielz.nl/",
+        "https://www.visittwente.nl/wat-te-doen/eten-drinken/alle-locaties/2516-nielz-cafe-restaurant/"
+      ],
+      "website_checked_on": "2026-11-21",
+      "checked_on": "2026-11-21",
+      "original_status": "Webbronnen gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
