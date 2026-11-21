@@ -43912,6 +43912,129 @@
       ],
       "checked_on": "2026-11-21",
       "original_status": "Eigen site en drankenkaart; alcoholkaart gedateerd 2024."
+    },
+    {
+      "id": "cafe-de-sleutel-groningen-20261121",
+      "name": "Café De Sleutel",
+      "type": "Café / borrel",
+      "address": "Noorderhaven 72",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens vermelde bron.",
+      "alcohol": "Eigen website bevestigt 11 tapbieren en diverse wijnen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.cafedesleutel.nl/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_source": "https://www.cafedesleutel.nl/",
+      "closing_quality": "Onbekend",
+      "closing_notes": "Geen vaste sluituren bevestigd op geraadpleegde eigen homepage.",
+      "website": "https://www.cafedesleutel.nl/",
+      "other_sources": [
+        "https://www.cafedesleutel.nl/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "cafe-brasserie-de-kater-enschede-20261121",
+      "name": "Café Brasserie de Kater",
+      "type": "Café / borrel",
+      "address": "Oude Markt 5",
+      "city": "Enschede",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens vermelde bron.",
+      "alcohol": "Eigen website noemt bier en publiek toegankelijke café-/restaurantfunctie.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.dekater.com/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_source": "https://www.dekater.com/",
+      "closing_quality": "Gepubliceerde weekuren",
+      "closing_notes": "Weekuren op eigen website; geen live-openstatus.",
+      "website": "https://www.dekater.com/",
+      "other_sources": [
+        "https://www.dekater.com/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "de-beiaard-enschede-20261121",
+      "name": "De Beiaard",
+      "type": "Café / borrel",
+      "address": "Oude Markt 24",
+      "city": "Enschede",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens vermelde bron.",
+      "alcohol": "Lokale toeristische organisatie bevestigt biercafé met uitgebreid bier- en whiskyassortiment.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "12:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.uitinenschede.nl/locaties/de-beiaard",
+      "opening_quality": "Lokale toeristische organisatie",
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "closing_source": "https://www.uitinenschede.nl/locaties/de-beiaard",
+      "closing_quality": "Gepubliceerde weekuren",
+      "closing_notes": "Weekuren van Uit in Enschede; eigen weekuren nog afzonderlijk verifiëren.",
+      "website": "",
+      "other_sources": [
+        "https://www.uitinenschede.nl/locaties/de-beiaard"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
