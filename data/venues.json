@@ -43747,6 +43747,46 @@
       ],
       "checked_on": "2026-11-21",
       "original_status": "Webbron gecontroleerd 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "thijs-en-co-emmen-20261121",
+      "name": "Thijs & Co",
+      "type": "Restaurant / cocktailbar",
+      "address": "Dalipassage 8 (Raadhuisplein)",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk; eigen website nodigt uit binnen te lopen.",
+      "alcohol": "Cocktailbar volgens eigen website.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:30",
+        "do": "16:30",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://thijs-co.nl/contact/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "closing_source": "https://thijs-co.nl/contact/",
+      "closing_quality": "Officiële website",
+      "website": "https://thijs-co.nl/",
+      "other_sources": [
+        "https://thijs-co.nl/contact/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Eigen website gecontroleerd; live-openstatus niet bevestigd."
     }
   ],
   "admission_policies": [
