@@ -43234,6 +43234,182 @@
       "closing_source": "https://dapperfoodcafe.nl/",
       "closing_notes": "Eigen website 21-11-2026; feestdagen/laatste toegang onbekend.",
       "checked_on": "2026-11-21"
+    },
+    {
+      "id": "het-wijnhuis-zwolle",
+      "name": "Het Wijnhuis",
+      "type": "Wijnbar / grand café",
+      "address": "Grote Kerkplein 9",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens exploitantenwebsite; geen afzonderlijke toegangscontrole.",
+      "alcohol": "Wijn en zes speciaalbieren van de tap volgens eigen website.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://wijnhuiszwolle.nl/",
+      "opening_checked_on": "2026-11-21",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://wijnhuiszwolle.nl/",
+      "closing_notes": "Gepubliceerde reguliere openingstijden; laatste toegang niet bevestigd.",
+      "website": "https://wijnhuiszwolle.nl/",
+      "other_sources": [
+        "https://wijnhuiszwolle.nl/"
+      ],
+      "website_checked_on": "2026-11-21",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-21.",
+      "original_status": "Exploitantenwebsite; niet live gegarandeerd.",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "id": "woodies-zwolle-zwolle",
+      "name": "Woodies Zwolle",
+      "type": "Grand café / bar",
+      "address": "Melkmarkt 34",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens exploitantenwebsite; geen afzonderlijke toegangscontrole.",
+      "alcohol": "Food, drinks en borrelfunctie op eigen website; specifieke alcoholkaart niet afzonderlijk geverifieerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://woodies-zwolle.nl/contact-us/",
+      "opening_checked_on": "2026-11-21",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://woodies-zwolle.nl/contact-us/",
+      "closing_notes": "Gepubliceerde reguliere openingstijden; laatste toegang niet bevestigd.",
+      "website": "https://woodies-zwolle.nl/contact-us/",
+      "other_sources": [
+        "https://woodies-zwolle.nl/contact-us/"
+      ],
+      "website_checked_on": "2026-11-21",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-21.",
+      "original_status": "Exploitantenwebsite; niet live gegarandeerd.",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "id": "ensemble-gastro-bar-zwolle",
+      "name": "Ensemble Gastro & Bar",
+      "type": "Gastrobar",
+      "address": "Blijmarkt 23",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens exploitantenwebsite; geen afzonderlijke toegangscontrole.",
+      "alcohol": "Gastro & Bar; specifieke alcoholkaart nog afzonderlijk controleren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://ensemblezwolle.nl/contact/",
+      "opening_checked_on": "2026-11-21",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://ensemblezwolle.nl/contact/",
+      "closing_notes": "Gepubliceerde reguliere openingstijden; laatste toegang niet bevestigd.",
+      "website": "https://ensemblezwolle.nl/contact/",
+      "other_sources": [
+        "https://ensemblezwolle.nl/contact/"
+      ],
+      "website_checked_on": "2026-11-21",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-21.",
+      "original_status": "Exploitantenwebsite; niet live gegarandeerd.",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "id": "wijn-boer-zwolle",
+      "name": "Wijn Boer",
+      "type": "Wijnbar",
+      "address": "Samuel Hirschstraat 1",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publieke horeca volgens exploitantenwebsite; geen afzonderlijke toegangscontrole.",
+      "alcohol": "Wijnbar volgens eigen bedrijfsnaam en website.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "—",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://wijnboerzwolle.nl/contact/",
+      "opening_checked_on": "2026-11-21",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "00:00",
+        "di": "—",
+        "wo": "—",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://wijnboerzwolle.nl/contact/",
+      "closing_notes": "Gepubliceerde reguliere openingstijden; laatste toegang niet bevestigd.",
+      "website": "https://wijnboerzwolle.nl/contact/",
+      "other_sources": [
+        "https://wijnboerzwolle.nl/contact/"
+      ],
+      "website_checked_on": "2026-11-21",
+      "website_provenance": "Eigen website gecontroleerd op 2026-11-21.",
+      "original_status": "Exploitantenwebsite; niet live gegarandeerd.",
+      "checked_on": "2026-11-21"
     }
   ],
   "admission_policies": [
