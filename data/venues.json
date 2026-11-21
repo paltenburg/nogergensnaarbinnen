@@ -10830,7 +10830,7 @@
       "region": "friesland",
       "country": "Nederland",
       "access": "Exploitant https://cafederus.nl/over-de-rus/ bevestigt publiek toegankelijk café en spontane borrel zonder maaltijd; iedereen welkom.",
-      "alcohol": "Exploitant https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ noemt speciaalbier, wijn, cocktails en borrelhapjes.",
+      "alcohol": "Speciaalbier en wijn bevestigd op eigen homepage (21-11-2026).",
       "selection": "Voorlopig",
       "closing": {
         "ma": "?",
@@ -10843,14 +10843,15 @@
       },
       "closing_quality": "Onbekend; geen verifieerbaar weekrooster vastgelegd",
       "closing_source": "",
-      "closing_notes": "01-11-2026: https://cafederus.nl/ en https://cafederus.nl/over-de-rus/ bevestigen open publiek café met speciaalbier, wijn en cocktails; https://cafederus.nl/contact/ bevestigt Stationsweg 28. Geen bedrijfseigen weekrooster of laatste toegang; evenementtijden niet als standaard caféuren overgenomen. | 02-11-2026: exploitantbericht 22-09-2026 op https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus noemt speciaalbier en 'elke dag geopend vanaf 16:00'; zeven beginuren vastgelegd. Gids toont 01:00/02:00 sluiting maar dit is niet door exploitant bevestigd, dus einduren blijven '?'.",
+      "closing_notes": "Eigen website bevestigt alcohol en adres, maar geen weeksluituren. Derden vermelden uiteenlopende tijden; daarom onbekend.",
       "features": "Friesland; eerste provinciale inventarisatie",
       "website": "https://cafederus.nl/",
       "other_sources": [
         "https://uitgaanskaart.nl/cafe/leeuwarden",
         "https://cafederus.nl/contact/",
         "https://www.visitleeuwarden.com/locaties/1941586666/cafe-de-rus",
-        "https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus"
+        "https://www.findglocal.com/NL/Leeuwarden/1612902632278988/Caf%C3%A9-de-Rus",
+        "https://cafederus.nl/"
       ],
       "original_status": "Exploitantwebsite en recente 2026-recensie op eigen site bevestigen publieke café-exploitatie; reguliere weekuren nog onbekend.",
       "geo": {
@@ -10859,7 +10860,7 @@
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsweg 28, 8911AJ Leeuwarden"
       },
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-21",
       "website_checked_on": "2026-11-01",
       "website_provenance": "01-11-2026: eigen homepage, over-ons en contact rechtstreeks gecontroleerd voor actuele publieke exploitatie, alcohol en adres; geen weekrooster of laatste toegang gepubliceerd.",
       "opening": {
@@ -44032,6 +44033,88 @@
       "website": "",
       "other_sources": [
         "https://www.uitinenschede.nl/locaties/de-beiaard"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "fredgie-s-craftbeer-plantbased-20261121",
+      "name": "Fredgie’s Craftbeer & Plantbased",
+      "type": "Speciaalbiercafé / proeflokaal",
+      "address": "Dieversluis 2 D",
+      "city": "Dwingeloo",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens Drenthe.nl.",
+      "alcohol": "16 wisseltaps speciaalbier en wijn bevestigd door Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/4075945505/fredgies",
+      "opening_quality": "Provinciale toeristische organisatie",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "20:00"
+      },
+      "closing_source": "https://www.drenthe.nl/locaties/4075945505/fredgies",
+      "closing_quality": "Gepubliceerde weekuren",
+      "closing_notes": "Gepubliceerde weekuren; wijzigingen en feestdagen mogelijk.",
+      "website": "https://fredgies.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/4075945505/fredgies"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "het-wapen-van-schotland-20261121",
+      "name": "Het Wapen van Schotland",
+      "type": "Restaurant / whiskybar",
+      "address": "Hoofdstraat 1",
+      "city": "Hooghalen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens Drenthe.nl.",
+      "alcohol": "Publieke whiskybar met speciaalbier en Schots bier op tap volgens Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/2755092919/het-wapen-van-schotland",
+      "opening_quality": "Provinciale toeristische organisatie",
+      "closing": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "closing_source": "https://www.drenthe.nl/locaties/2755092919/het-wapen-van-schotland",
+      "closing_quality": "Gepubliceerde weekuren",
+      "closing_notes": "Gepubliceerde weekuren; wijzigingen en feestdagen mogelijk.",
+      "website": "https://www.hetwapen.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/2755092919/het-wapen-van-schotland"
       ],
       "checked_on": "2026-11-21",
       "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
