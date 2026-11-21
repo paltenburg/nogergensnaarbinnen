@@ -44133,6 +44133,90 @@
       ],
       "checked_on": "2026-11-21",
       "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "cafe-happinezz-borger-20261121",
+      "name": "Café Happinezz",
+      "type": "Café / borrel",
+      "address": "Kruisstraat 4",
+      "city": "Borger",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website.",
+      "alcohol": "Eigen website bevestigt bier, wijn, sterke drank, sangria en speciaalbier.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.cafehappinezz.nl/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_source": "https://www.cafehappinezz.nl/",
+      "closing_quality": "Officiële website; onbekend waar niet gepubliceerd",
+      "closing_notes": "Eigen site noemt alleen keuken tot 21:00, niet café-sluiting; verouderde gastenboekuren conflicteren. Geen sluituren afgeleid.",
+      "website": "https://www.cafehappinezz.nl/",
+      "other_sources": [
+        "https://www.cafehappinezz.nl/",
+        "https://www.cafehappinezz.nl/nl/uitgaan"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "nikkis-dalfsen-20261121",
+      "name": "Nikki’s Dalfsen",
+      "type": "Café / borrel",
+      "address": "Kerkplein 23",
+      "city": "Dalfsen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website.",
+      "alcohol": "Eigen arrangementenpagina bevestigt pils en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.nikkisdalfsen.nl/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_source": "https://www.nikkisdalfsen.nl/",
+      "closing_quality": "Officiële website; onbekend waar niet gepubliceerd",
+      "closing_notes": "Eigen website noemt aangepaste weekuren; maandag/dinsdag alleen in overleg, dus niet regulier open.",
+      "website": "https://www.nikkisdalfsen.nl/",
+      "other_sources": [
+        "https://www.nikkisdalfsen.nl/",
+        "https://www.nikkisdalfsen.nl/arrangementen/"
+      ],
+      "checked_on": "2026-11-21",
+      "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
