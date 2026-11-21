@@ -42780,6 +42780,89 @@
       "opening_source": "https://www.grandcafevanberesteyn.nl/",
       "opening_checked_on": "2026-11-21",
       "original_status": "Alcohol slechts extern gespecificeerd; eigen bevestiging nog gewenst"
+    },
+    {
+      "id": "grand-cafe-centraal-haaksbergen-20261121",
+      "name": "Grand Café Centraal",
+      "type": "Grand café/borrel",
+      "address": "Markt 21",
+      "city": "Haaksbergen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website: café, terras, reserveren en borrel voor publiek.",
+      "alcohol": "Eigen bierkaart en drankenkaart: pils, speciaalbier, wijn en gedistilleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "—",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "21:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "—",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "21:00"
+      },
+      "closing_quality": "Eigen homepage; oudere externe gidsen wijken af",
+      "closing_source": "https://www.grandcafecentraal.eu/",
+      "opening_source": "https://www.grandcafecentraal.eu/",
+      "website": "https://www.grandcafecentraal.eu/",
+      "other_sources": [
+        "https://www.grandcafecentraal.eu/bierkaart",
+        "https://www.grandcafecentraal.eu/drankenkaart"
+      ],
+      "checked_on": "2026-11-21",
+      "opening_checked_on": "2026-11-21",
+      "closing_notes": "Eigen homepage vermeldt 'uiterlijk' bij sluituren; als gepubliceerde bovengrens opgenomen. Donderdag expliciet gesloten.",
+      "original_status": "Eigen website gecontroleerd; exploitatie niet ter plaatse geverifieerd"
+    },
+    {
+      "id": "de-kornuiten-haaksbergen-20261121",
+      "name": "De Kornuiten",
+      "type": "Eetcafé/borrel",
+      "address": "Markt 2",
+      "city": "Haaksbergen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt uit tot spontane publieke borrel.",
+      "alcohol": "Eigen website: speciaalbieren, wijn en pils; bierkaart en arrangementen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "10:00",
+        "do": "11:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen contactpagina",
+      "closing_source": "https://www.dekornuiten.com/contact/",
+      "opening_source": "https://www.dekornuiten.com/contact/",
+      "website": "https://www.dekornuiten.com/",
+      "other_sources": [
+        "https://www.dekornuiten.com/",
+        "https://www.dekornuiten.com/arrangementen/"
+      ],
+      "checked_on": "2026-11-21",
+      "opening_checked_on": "2026-11-21",
+      "original_status": "Eigen website gecontroleerd; exploitatie niet ter plaatse geverifieerd"
     }
   ],
   "admission_policies": [
