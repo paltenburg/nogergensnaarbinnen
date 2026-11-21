@@ -43450,6 +43450,92 @@
       ],
       "checked_on": "2026-11-21",
       "closing_notes": "Toeristische gids noemt ma–wo/zo 02:00, do–za 03:00, maar heeft verouderde beginuren (15:00 dagelijks). Niet als bevestigd sluituur overgenomen."
+    },
+    {
+      "id": "cafe-de-pimpelaar-enschede-20261121",
+      "name": "Café De Pimpelaar",
+      "type": "Bruin café",
+      "address": "Oude Markt 22",
+      "city": "Enschede",
+      "region": "overijssel",
+      "alcohol": "Eigen website bevestigt speciaalbier en bier aan de bar.",
+      "website": "https://www.cafedepimpelaar.nl/",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafedepimpelaar.nl/",
+      "opening_quality": "Officiële website",
+      "closing_notes": "Eigen website noemt alleen opening vanaf 14:00; sluituren onbekend.",
+      "country": "Nederland",
+      "access": "Publieke cafétoegang volgens eigen website.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.cafedepimpelaar.nl/",
+      "opening_checked_on": "2026-11-21",
+      "website_checked_on": "2026-11-21",
+      "checked_on": "2026-11-21",
+      "other_sources": [
+        "https://www.cafedepimpelaar.nl/"
+      ],
+      "original_status": "Website gecontroleerd 2026-11-21; geen live garantie."
+    },
+    {
+      "id": "de-hip-deventer-20261121",
+      "name": "De Hip",
+      "type": "Cultureel café en podium",
+      "address": "Brink 21",
+      "city": "Deventer",
+      "region": "overijssel",
+      "alcohol": "Eigen website vermeldt café, bar en borrels; alcoholische dranken niet met actuele drankenkaart afzonderlijk bevestigd.",
+      "website": "https://www.dehip.nl/",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.dehip.nl/",
+      "opening_quality": "Onbekend; evenementuren zijn geen vaste café-uren",
+      "closing_notes": "Evenementtijden verschillen; geen vaste publieke café-sluituren afgeleid.",
+      "country": "Nederland",
+      "access": "Publieke cafétoegang volgens eigen website.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.dehip.nl/",
+      "opening_checked_on": "2026-11-21",
+      "website_checked_on": "2026-11-21",
+      "checked_on": "2026-11-21",
+      "other_sources": [
+        "https://www.dehip.nl/"
+      ],
+      "original_status": "Website gecontroleerd 2026-11-21; geen live garantie."
     }
   ],
   "admission_policies": [
