@@ -42952,6 +42952,36 @@
         "https://www.hulsbeek.nl/restaurant/",
         "https://www.hulsbeek.nl/arrangementen/halfpensionarrangement/"
       ]
+    },
+    {
+      "id": "de-belgische-keizer-melkmarkt-58-zwolle",
+      "name": "De Belgische Keizer",
+      "type": "Café-restaurant / speciaalbiercafé",
+      "address": "Melkmarkt 58",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek café en restaurant; speciaalbier ook los in café verkrijgbaar volgens eigen website.",
+      "alcohol": "Belgische speciaalbieren volgens eigen website.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "23:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.belgischekeizer.nl/contact/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Eigen contactpagina: ma 10:00–23:00, di–do 10:00–01:00, vr–za 10:00–02:00, zo 12:00–22:00. Geen aparte laatste toegang vermeld.",
+      "website": "https://www.belgischekeizer.nl/",
+      "other_sources": [
+        "https://www.belgischekeizer.nl/contact/",
+        "https://hesz.nl/deelnemers/de-belgische-keizer"
+      ]
     }
   ],
   "admission_policies": [
