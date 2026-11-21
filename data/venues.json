@@ -42982,6 +42982,83 @@
         "https://www.belgischekeizer.nl/contact/",
         "https://hesz.nl/deelnemers/de-belgische-keizer"
       ]
+    },
+    {
+      "id": "moeke-vaatstra-zuidwolde-groningen",
+      "name": "Eetcafé Moeke Vaatstra",
+      "type": "Eetcafé / bruin café",
+      "address": "Boterdiep Westzijde 45",
+      "city": "Zuidwolde",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek eetcafé voor borrel, lunch en diner volgens eigen website.",
+      "alcohol": "Speciaalbierproeverij op eigen website; bier en wijn ook door horecagids vermeld.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.moekevaatstra.nl/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Eigen website vermeldt wo–vr vanaf 12:00, za–zo vanaf 11:00, ma/di gesloten; geen sluituren. Horeca Groningen noemt 21:00, maar niet overgenomen vanwege ontbrekende bevestiging eigen website.",
+      "website": "https://www.moekevaatstra.nl/",
+      "other_sources": [
+        "https://horecagroningen.nl/gelegenheid/eetcafe-moeke-vaatstra/",
+        "https://www.visitgroningen.nl/en/locations/1434308633/moeke-vaatstra"
+      ]
+    },
+    {
+      "id": "cafe-de-bestemming-oldenzaal",
+      "name": "Café De Bestemming",
+      "type": "Bruin café / nachtcafé",
+      "address": "Marktstraat 5",
+      "city": "Oldenzaal",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk bruin café, avondhoreca volgens Uit in Oldenzaal.",
+      "alcohol": "Bier en alcohol vermeld in horecagids; café als drinkgelegenheid bevestigd door lokale toeristische gids.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "03:00",
+        "do": "03:00",
+        "vr": "06:00",
+        "za": "06:00",
+        "zo": "03:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "19:00"
+      },
+      "closing_quality": "Lokale toeristische gids",
+      "closing_source": "https://www.uitinoldenzaal.nl/plan-je-bezoek/eten-drinken/cafes-bars/7475-cafe-de-bestemming/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "Lokale toeristische gids: ma/di gesloten; wo/do 19–03; vr/za 21:30–06; zo 19–03. Geen aparte laatste toegang bevestigd. KVK vestigingsadres Marktstraat 7 wijkt af van publieksadres 5.",
+      "other_sources": [
+        "https://www.uitagenda.nl/locaties/cafe-de-bestemming",
+        "https://companyinfo.nl/organisatieprofiel/exploitatie-van-drinkgelegenheden/cafe-de-bestemming-b-v-oldenzaal-42024206-000025790269"
+      ]
     }
   ],
   "admission_policies": [
