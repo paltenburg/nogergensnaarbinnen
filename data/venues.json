@@ -39855,25 +39855,28 @@
       "region": "groningen",
       "country": "Nederland",
       "access": "Publiek toegankelijk volgens regionale toeristische bron",
-      "alcohol": "Borrel",
+      "alcohol": "Bier expliciet bevestigd door Discover Groningen en Horeca Groningen",
       "selection": "Voorlopig",
       "closing": {
         "ma": "23:00",
         "di": "23:00",
-        "wo": "23:00",
-        "do": "23:00",
-        "vr": "00:30",
-        "za": "00:30",
-        "zo": "22:00"
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "21:30"
       },
-      "closing_quality": "Regionale toeristische bron",
-      "closing_source": "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
-      "checked_on": "2026-11-19",
-      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
-      "website": "",
+      "closing_quality": "Discover Groningen; overeenkomst met Cylex, afwijking eerdere Visit Groningen",
+      "closing_source": "https://discovergroningen.com/locatie/de-uurwerker/",
+      "checked_on": "2026-11-21",
+      "closing_notes": "21-11: Discover Groningen publiceert 23/23/00/00/01/01/21:30; oudere Visit Groningen-uren in master weken af. Geen laatste toegang afgeleid.",
+      "website": "https://uurwerker.nl/",
       "other_sources": [
-        "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker"
-      ]
+        "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
+        "https://discovergroningen.com/locatie/de-uurwerker/",
+        "https://horecagroningen.nl/gelegenheid/cafe-uurwerker/"
+      ],
+      "alcohol_source": "https://discovergroningen.com/locatie/de-uurwerker/"
     },
     {
       "id": "ons-cafe-assen",
