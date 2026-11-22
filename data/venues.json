@@ -42920,13 +42920,25 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://winschoten.roegh.nl/",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "closing_notes": "Weeksluituren volgens eigen website gecontroleerd 21 november 2026.",
       "website": "https://winschoten.roegh.nl/",
       "other_sources": [
         "https://winschoten.roegh.nl/",
         "https://winschoten.roegh.nl/menukaart"
-      ]
+      ],
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://winschoten.roegh.nl/",
+      "opening_quality": "Officiële website",
+      "opening_checked_on": "2026-11-22"
     },
     {
       "id": "brasserie-pand-147-winschoten",
@@ -42950,12 +42962,24 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.pand147.nl/",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "closing_notes": "Eigen website vermeldt zondag 11:00–22:00, Visit Groningen zondag gesloten; eigen website aangehouden.",
       "website": "https://www.pand147.nl/",
       "other_sources": [
         "https://www.pand147.nl/"
-      ]
+      ],
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.pand147.nl/",
+      "opening_quality": "Officiële website",
+      "opening_checked_on": "2026-11-22"
     },
     {
       "id": "brasserie-bij-erve-erve-hulsbeek-oldenzaal",
