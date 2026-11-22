@@ -39666,10 +39666,21 @@
       },
       "closing_quality": "Eigen website",
       "closing_source": "https://cafedetagrijn.com/",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-23",
       "closing_notes": "Openingstijden rechtstreeks van eigen website; geen afgeleide laatste toegang. Feestdagen kunnen afwijken.",
       "website": "https://cafedetagrijn.com/",
-      "other_sources": []
+      "other_sources": [],
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://cafedetagrijn.com/",
+      "opening_quality": "Eigen website"
     },
     {
       "id": "cafe-persee-deventer",
@@ -40626,7 +40637,7 @@
       "address": "Vismarkt 56",
       "city": "Groningen",
       "region": "groningen",
-      "website": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+      "website": "https://www.stadscafepronk.nl/",
       "opening": {
         "ma": "11:00",
         "di": "10:30",
@@ -40645,17 +40656,19 @@
         "za": "23:00",
         "zo": "22:00"
       },
-      "alcohol": "Publiek café/borrelgelegenheid volgens regionale toeristische bron; specifiek assortiment niet onafhankelijk gecontroleerd",
-      "closing_source": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
-      "closing_quality": "Regionale toeristische bron; tijden niet op eigen website geverifieerd",
+      "alcohol": "Publieke borrelgelegenheid volgens eigen stadscaféwebsite; specifieke alcoholkaart niet apart gecontroleerd.",
+      "closing_source": "https://www.stadscafepronk.nl/contact/",
+      "closing_quality": "Eigen website",
       "country": "Nederland",
       "access": "Publiek toegankelijke horeca volgens regionale toeristische bron",
       "selection": "Voorlopig",
-      "checked_on": "2026-11-19",
-      "opening_source": "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+      "checked_on": "2026-11-23",
+      "opening_source": "https://www.stadscafepronk.nl/contact/",
       "other_sources": [
-        "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk"
-      ]
+        "https://www.visitgroningen.nl/nl/locaties/323802447/stadscafe-pronk",
+        "https://www.stadscafepronk.nl/contact/"
+      ],
+      "opening_quality": "Eigen website"
     },
     {
       "id": "news-cafe-groningen-20261119",
@@ -45487,6 +45500,88 @@
       "closing_checked_on": "2026-11-22",
       "closing_notes": "Gepubliceerde weekuren; laatste toegang onbekend. Afwijkingen bij evenementen/feestdagen mogelijk.",
       "other_sources": []
+    },
+    {
+      "id": "lekker-zwols-zwolle-20261123",
+      "name": "Lekker Zwols",
+      "type": "Eetcafé / borrel",
+      "address": "Oude Vismarkt 31",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk eetcafé met borrelfunctie volgens eigen website.",
+      "alcohol": "Eigen drankenkaart: bier van de tap, flesbier, wijn en gedistilleerd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "?",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "10:30",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "18:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://lekkerzwols.nl/",
+      "closing_source": "https://lekkerzwols.nl/",
+      "opening_quality": "Eigen website; dinsdag conflicteert met eigen reserveringspagina",
+      "closing_quality": "Eigen website; dinsdag conflicteert met eigen reserveringspagina",
+      "website": "https://lekkerzwols.nl/",
+      "other_sources": [
+        "https://lekkerzwols.nl/dranken/",
+        "https://lekkerzwols.nl/reserveren/"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Dinsdag op eigen homepage geopend maar op eigen reserveringspagina gesloten: beide tijden onbekend gehouden. Keukentijden niet als caféuren gebruikt.",
+      "original_status": "Eigen website actueel bereikbaar; niet live gegarandeerd."
+    },
+    {
+      "id": "hessels-cafe-zwolle-20261123",
+      "name": "Hessel's Café",
+      "type": "Bruin café",
+      "address": "Korte Kamperstraat 26",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek bruin café volgens eigen site en Gastvrij Zwolle.",
+      "alcohol": "Pilsje drinken bevestigd door Gastvrij Zwolle.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "13:30",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "20:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://hesselscafe.nl/",
+      "closing_source": "https://hesselscafe.nl/",
+      "opening_quality": "Eigen website; maandag niet genoemd, regionale bron bevestigt gesloten",
+      "closing_quality": "Eigen website; maandag gesloten volgens Gastvrij Zwolle",
+      "website": "https://hesselscafe.nl/",
+      "other_sources": [
+        "https://gastvrijzwolle.nl/deelnemers/hessels-cafe"
+      ],
+      "checked_on": "2026-11-23",
+      "original_status": "Eigen website actueel bereikbaar; niet live gegarandeerd."
     }
   ],
   "admission_policies": [
