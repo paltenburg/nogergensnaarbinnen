@@ -39195,11 +39195,11 @@
         "zo": "11:00"
       },
       "opening_source": "https://www.lils.nl/",
-      "opening_checked_on": "2026-11-19",
+      "opening_checked_on": "2026-11-22",
       "opening_quality": "Eigen homepage; menukaart vermeldt zondag 10:00 in plaats van 11:00.",
-      "website_checked_on": "2026-11-19",
+      "website_checked_on": "2026-11-22",
       "website_provenance": "Eigen website gecontroleerd 19-11-2026; publiek aanbod, pilsjes, adres en openingsdagen bevestigd.",
-      "checked_on": "2026-11-21"
+      "checked_on": "2026-11-22"
     },
     {
       "id": "cafe-de-koffer-groningen",
@@ -44524,6 +44524,88 @@
       "website": "https://dekarre.nl/",
       "other_sources": [],
       "original_status": "Café en bieraanbod op eigen site bevestigd; standaarduren expliciet gepubliceerd."
+    },
+    {
+      "id": "huis-de-beurs-groningen-20261122",
+      "name": "Huis de Beurs",
+      "type": "Café-restaurant",
+      "address": "A-Kerkhof Zuid Zijde 4",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café-restaurant; eigen site nodigt uit voor koffie, lunch en borrel.",
+      "alcohol": "Eigen menukaart vermeldt Stella Artois, Leffe, Tripel Karmeliet en andere alcoholhoudende bieren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "18:00"
+      },
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "website": "https://www.huisdebeurs.nl/",
+      "opening_source": "https://www.huisdebeurs.nl/",
+      "closing_source": "https://www.huisdebeurs.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2237916401/huis-de-beurs"
+      ],
+      "checked_on": "2026-11-22",
+      "opening_checked_on": "2026-11-22",
+      "closing_notes": "Eigen site publiceert afzonderlijke keukentijden; hier café-openingstijden gebruikt."
+    },
+    {
+      "id": "wadapartja-zuiderdiep-groningen-20261122",
+      "name": "Wadapartja Zuiderdiep",
+      "type": "Café / restaurant / borrel",
+      "address": "Gedempte Zuiderdiep 39-41",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café met inloop en terras.",
+      "alcohol": "Eigen site noemt Baxbier, Eggens en Martinus en wijn bij borrels.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:30",
+        "di": "11:30",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "17:30",
+        "di": "17:30",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "website": "https://wadapartja.nl/",
+      "opening_source": "https://wadapartja.nl/",
+      "closing_source": "https://wadapartja.nl/",
+      "other_sources": [
+        "https://wadapartja.nl/over-ons/"
+      ],
+      "checked_on": "2026-11-22",
+      "opening_checked_on": "2026-11-22",
+      "closing_notes": "Eigen website publiceert reguliere openingstijden; besloten feesten kunnen afwijken."
     }
   ],
   "admission_policies": [
