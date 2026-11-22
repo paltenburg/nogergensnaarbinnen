@@ -45244,6 +45244,89 @@
       "closing_checked_on": "2026-11-22",
       "closing_notes": "Winter november–maart: woensdag gesloten, ma–vr vanaf 11:00; bron geeft voor andere dagen reguliere uren. Laatste toegang onbekend.",
       "other_sources": []
+    },
+    {
+      "id": "zus-bar-kitchen-deventer-20261122",
+      "name": "ZUS. Bar - Kitchen",
+      "type": "Café-restaurant / borrelcafé",
+      "address": "Brink 37",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website: publiek toegankelijk, geen reservering nodig; borrel vanaf 12:00.",
+      "alcohol": "Eigen website heeft wijnkaart met wit, rood, rosé en bubbels.",
+      "selection": "Geverifieerd",
+      "website": "https://zusbarkitchen.nl/",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://zusbarkitchen.nl/",
+      "closing_source": "https://zusbarkitchen.nl/",
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Weekuren rechtstreeks van eigen website. Laatste toegang onbekend; feestdagen kunnen afwijken.",
+      "other_sources": [
+        "https://zusbarkitchen.nl/menukaart/"
+      ],
+      "original_status": "Eigen website met actuele openingstijden, wijnkaart en publiek toegankelijk borrelconcept."
+    },
+    {
+      "id": "cafe-de-beestenmarkt-deventer-20261122",
+      "name": "Café De Beestenmarkt",
+      "type": "Bruin café / biljartcafé",
+      "address": "Rozengaarderweg 2A",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website verwelkomt publiek voor cafébezoek, darten en biljarten; zaalverhuur daarnaast apart.",
+      "alcohol": "Eigen website vermeldt bier, wijn en gedestilleerd in arrangementen; bar en borrelgelegenheid aanwezig.",
+      "selection": "Geverifieerd",
+      "website": "https://cafedebeestenmarkt.nl/",
+      "opening": {
+        "ma": "18:30",
+        "di": "18:30",
+        "wo": "18:30",
+        "do": "18:30",
+        "vr": "18:30",
+        "za": "13:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "20:00",
+        "zo": "?"
+      },
+      "opening_source": "https://cafedebeestenmarkt.nl/openingstijden/",
+      "closing_source": "https://cafedebeestenmarkt.nl/openingstijden/",
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Ma–vr 18:30–01:00; za 13:00–20:00. Zondag niet vermeld: onbekend, niet automatisch gesloten. Laatste toegang onbekend. Gids Cylex wijkt af; eigen site gevolgd.",
+      "other_sources": [
+        "https://cafedebeestenmarkt.nl/zaalverhuur/",
+        "https://zoek.officielebekendmakingen.nl/gmb-2025-533703.html"
+      ],
+      "original_status": "Actieve eigen site; gemeentelijke Alcoholwet-aanvraag 2025 is slechts aanvraag, geen verleende vergunning."
     }
   ],
   "admission_policies": [
