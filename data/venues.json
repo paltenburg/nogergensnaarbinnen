@@ -44709,6 +44709,70 @@
       ],
       "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
       "geo": null
+    },
+    {
+      "id": "borrelcafe-oblomov-groningen",
+      "name": "Borrelcafé Oblomov",
+      "type": "Biercafé/pub",
+      "address": "Poelestraat 11",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Speciaalbier/bier bevestigd op eigen website",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:30",
+        "do": "03:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://oblomov-by-jk.nl/",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen website: ma/di 19:30, wo 19:30, do 19:30, vr/za 16:00, zo 19:30.",
+      "features": "Bier; borrel",
+      "website": "https://oblomov-by-jk.nl/",
+      "other_sources": [
+        "https://oblomov-by-jk.nl/"
+      ],
+      "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
+      "geo": null
+    },
+    {
+      "id": "chaplins-pub-groningen",
+      "name": "Chaplin's Pub",
+      "type": "Biercafé/pub",
+      "address": "Gedempte Zuiderdiep 73",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Speciaalbier/bier bevestigd op eigen website",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.chaplinspub.nl/",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen site bevestigt adres en bier, maar geen sluituren; externe gidsen spreken elkaar tegen over zondag en andere sluituren.",
+      "features": "Bier; borrel",
+      "website": "https://www.chaplinspub.nl/",
+      "other_sources": [
+        "https://www.chaplinspub.nl/"
+      ],
+      "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
+      "geo": null
     }
   ],
   "admission_policies": [
