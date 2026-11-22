@@ -39879,15 +39879,15 @@
         "ma": "23:00",
         "di": "23:00",
         "wo": "23:00",
-        "do": "23:30",
+        "do": "23:00",
         "vr": "00:30",
         "za": "00:30",
         "zo": "22:00"
       },
-      "closing_quality": "Eigen website, gepubliceerd weekrooster",
-      "closing_source": "https://uurwerker.nl/uurwerker.html",
-      "checked_on": "2026-11-21",
-      "closing_notes": "21-11-2026: eigen exploitantwebsite geeft afwijkende tijden t.o.v. Discover Groningen; eigen weekrooster leidend. Geen laatste toegang afgeleid.",
+      "closing_quality": "Regionale toeristische organisatie",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Visit Groningen vermeldt andere tijden dan eerdere master en Cylex; exploitant zelf nog controleren.",
       "website": "https://uurwerker.nl/",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
@@ -39898,15 +39898,15 @@
       "alcohol_source": "https://discovergroningen.com/locatie/de-uurwerker/",
       "opening": {
         "ma": "12:00",
-        "di": "12:00",
-        "wo": "12:00",
-        "do": "12:00",
-        "vr": "11:00",
-        "za": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "12:00",
         "zo": "12:00"
       },
-      "opening_source": "https://uurwerker.nl/uurwerker.html",
-      "opening_quality": "Eigen website, gepubliceerd weekrooster"
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/127446590/de-uurwerker",
+      "opening_quality": "Regionale toeristische organisatie"
     },
     {
       "id": "ons-cafe-assen",
@@ -44772,6 +44772,48 @@
         "https://www.chaplinspub.nl/"
       ],
       "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
+      "geo": null
+    },
+    {
+      "id": "cafe-t-beugeltje-zwolle-20261122",
+      "name": "Café 't Beugeltje",
+      "type": "Café",
+      "address": "Krabbestraat 63",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek café volgens Gastvrij Zwolle en VisitZwolle",
+      "alcohol": "Café/kroeg; expliciete actuele drankenkaart nog controleren",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://hesz.nl/deelnemers/cafe-t-beugeltje",
+      "closing_source": "https://hesz.nl/deelnemers/cafe-t-beugeltje",
+      "opening_quality": "Lokale horecaorganisatie",
+      "closing_quality": "Lokale horecaorganisatie",
+      "closing_notes": "Cylex vermeldt afwijkende uren; horecaorganisatie als bron. Laatste toegang onbekend.",
+      "website": "",
+      "other_sources": [
+        "https://hesz.nl/deelnemers/cafe-t-beugeltje",
+        "https://www.visitzwolle.com/wat-te-doen/uitgaan/28239-cafe-t-beugeltje/"
+      ],
+      "checked_on": "2026-11-22",
       "geo": null
     }
   ],
