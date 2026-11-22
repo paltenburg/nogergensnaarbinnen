@@ -44984,6 +44984,48 @@
         "https://stadscafebijzon.nl/reserveren/"
       ],
       "original_status": "Broncontrole 22-11-2026; geen live-garantie."
+    },
+    {
+      "id": "restaurant-de-westerburcht-westerbork-20261122",
+      "name": "Restaurant de Westerburcht",
+      "type": "Hotelrestaurant / borrel",
+      "address": "Hoofdstraat 7",
+      "city": "Westerbork",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk restaurant en terras volgens Drenthe.nl.",
+      "alcohol": "Wijn, speciaalbier, high wine en high beer volgens Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "07:00",
+        "di": "07:00",
+        "wo": "07:00",
+        "do": "07:00",
+        "vr": "07:00",
+        "za": "08:00",
+        "zo": "08:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/3089220406/restaurant-abdij-de-westerburcht",
+      "opening_quality": "Provinciale toeristische organisatie",
+      "opening_checked_on": "2026-11-22",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend; restaurant- en keukentijden niet als café-sluituur gebruiken",
+      "closing_source": "https://www.drenthe.nl/locaties/3089220406/restaurant-abdij-de-westerburcht",
+      "closing_notes": "Drenthe.nl noemt borrelen tot 23:00 afhankelijk van drukte; gepubliceerde restauranttijden en keukentijden wijken af. Geen vast sluituur afleidbaar.",
+      "website": "https://www.westerburcht.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/3089220406/restaurant-abdij-de-westerburcht"
+      ],
+      "checked_on": "2026-11-22",
+      "original_status": "Broncontrole 22-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
