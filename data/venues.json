@@ -39698,7 +39698,18 @@
       "website": "https://www.persee.nl/",
       "other_sources": [],
       "closing_checked_on": "2026-11-21",
-      "opening_checked_on": "2026-11-21"
+      "opening_checked_on": "2026-11-22",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "14:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://www.persee.nl/contact/",
+      "opening_quality": "Eigen website"
     },
     {
       "id": "bierencafe-de-heks-deventer",
@@ -39725,7 +39736,19 @@
       "checked_on": "2026-11-19",
       "closing_notes": "Sluituren eigen contactpagina; laatste toegang onbekend.",
       "website": "https://www.deheks.nl/",
-      "other_sources": []
+      "other_sources": [],
+      "opening": {
+        "ma": "14:00",
+        "di": "14:00",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "13:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.deheks.nl/contact/",
+      "opening_quality": "Eigen website",
+      "opening_checked_on": "2026-11-22"
     },
     {
       "id": "eetcafe-de-witterbrug-assen",
@@ -40928,7 +40951,19 @@
       "other_sources": [
         "https://cafedesigaar.nl/over-ons/"
       ],
-      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd",
+      "opening": {
+        "ma": "08:00",
+        "di": "08:00",
+        "wo": "08:00",
+        "do": "08:00",
+        "vr": "08:00",
+        "za": "09:00",
+        "zo": "09:00"
+      },
+      "opening_source": "https://cafedesigaar.nl/contact/",
+      "opening_quality": "Eigen website",
+      "opening_checked_on": "2026-11-22"
     },
     {
       "id": "cafe-de-oude-wacht-groningen",
@@ -45169,6 +45204,46 @@
       ],
       "original_status": "Eigen website actief en beschrijft lopende evenementen; actuele exploitatie bevestigd",
       "geo": null
+    },
+    {
+      "id": "cafe-vrienden-van-vroeger-deventer-20261122",
+      "name": "Café Vrienden van Vroeger",
+      "type": "Café",
+      "address": "Grote Kerkhof 23",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens Deventer toeristische stadsgids",
+      "alcohol": "Bier en borrel volgens Deventer toeristische stadsgids",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "?",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "?",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "18:00"
+      },
+      "opening_quality": "Toeristische stadsgids; winteruren",
+      "closing_quality": "Toeristische stadsgids; winteruren",
+      "opening_source": "https://www.deventer.info/horeca/borrelen-uitgaan/37226-cafe-vrienden-van-vroeger/",
+      "closing_source": "https://www.deventer.info/horeca/borrelen-uitgaan/37226-cafe-vrienden-van-vroeger/",
+      "website": "https://www.deventer.info/horeca/borrelen-uitgaan/37226-cafe-vrienden-van-vroeger/",
+      "checked_on": "2026-11-22",
+      "opening_checked_on": "2026-11-22",
+      "closing_checked_on": "2026-11-22",
+      "closing_notes": "Winter november–maart: woensdag gesloten, ma–vr vanaf 11:00; bron geeft voor andere dagen reguliere uren. Laatste toegang onbekend.",
+      "other_sources": []
     }
   ],
   "admission_policies": [
