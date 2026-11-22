@@ -44224,6 +44224,84 @@
       ],
       "checked_on": "2026-11-21",
       "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "proeflokaal-mout-groningen-20261122",
+      "name": "Proeflokaal MOUT",
+      "type": "Speciaalbiercafé",
+      "address": "Gedempte Zuiderdiep 43",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk proeflokaal; eigen website vermeldt dat reserveren niet mogelijk is.",
+      "alcohol": "Nederlandse speciaalbieren bevestigd op eigen website en tapbierkaart.",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "closing_quality": "Eigen website, zondag tegenstrijdig",
+      "closing_source": "https://www.proeflokaalmout.nl/about/",
+      "closing_notes": "Eigen about-pagina: zondag 20:00; eigen contact- en Engelstalige homepage: zondag 01:00. Onbekend gehouden. Ma–wo gesloten.",
+      "website": "https://www.proeflokaalmout.nl/",
+      "other_sources": [
+        "https://www.proeflokaalmout.nl/en/contact/",
+        "https://www.proeflokaalmout.nl/about/"
+      ],
+      "checked_on": "2026-11-22"
+    },
+    {
+      "id": "kroeg-van-klaas-groningen-20261122",
+      "name": "Kroeg van Klaas",
+      "type": "Bruin café",
+      "address": "Oosterweg 26",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek buurtcafé, liveoptredens en evenementen volgens eigen site.",
+      "alcohol": "Tap pils en wijn bevestigd op online menukaart (gelezen oktober 2026).",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "Event"
+      },
+      "opening": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "20:00",
+        "zo": "Event"
+      },
+      "closing_quality": "Eigen website noemt alleen beginuren",
+      "closing_source": "https://www.kroegvanklaas.nl/contact.html",
+      "closing_notes": "Zondag alleen bij evenementen; online gidsen melden uiteenlopende sluituren, daarom niet overgenomen.",
+      "website": "https://www.kroegvanklaas.nl/",
+      "other_sources": [
+        "https://menunu.nl/groningen/kroeg-van-klaas",
+        "https://www.visitgroningen.nl/nl/blogs/terrassen-uit-de-buurt"
+      ],
+      "checked_on": "2026-11-22"
     }
   ],
   "admission_policies": [
