@@ -22965,15 +22965,16 @@
       "closing_notes": "30-10-2026: https://www.fire-cafe.nl/ bevestigt Nieuwestad 47 en dagelijks vanaf 08:30, geen einduren. Eigen menukaart https://www.fire-cafe.nl/wp-content/uploads/2025/01/menukaart-Fire-Cafe-Restaurant.pdf bevat wijn. https://www.restauplant.com/en/restaurant/fire-cafe noemt ma–wo/zo 23:00 en do–za 01:00, https://www.allebiz.nl/fire-cafe-058-213-9900 noemt 01:00/03:00, https://menukaart.menu/restaurants/leeuwarden-1/fire-cafe-2 noemt 00:00; onderling tegenstrijdig, dus geen vaste einduren. Laatste toegang onbekend.",
       "features": "D0 Leeuwarden; historische brandweerkazerne, borrel en restaurant; sluiting onbekend",
       "website": "https://www.fire-cafe.nl/",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "website_checked_on": "2026-11-22",
+      "checked_on": "2026-11-22",
       "opening_source": "https://www.fire-cafe.nl/",
-      "opening_checked_on": "2026-10-30",
+      "opening_checked_on": "2026-11-22",
       "other_sources": [
         "https://www.visitleeuwarden.com/locaties/2240478421/fire-cafe-restaurant",
         "https://www.fire-cafe.nl/wp-content/uploads/2025/01/menukaart-Fire-Cafe-Restaurant.pdf",
         "https://untappd.com/v/fire-cafe/614452/beers",
-        "https://www.restauplant.com/en/restaurant/fire-cafe"
+        "https://www.restauplant.com/en/restaurant/fire-cafe",
+        "https://www.fire-cafe.nl/menukaarten/"
       ],
       "original_status": "Exploitant en lokale gids bevestigen actuele publieke borrel; alcohol eigen menukaart; geen betrouwbare actuele sluiting.",
       "geo": {
@@ -44302,6 +44303,135 @@
         "https://www.visitgroningen.nl/nl/blogs/terrassen-uit-de-buurt"
       ],
       "checked_on": "2026-11-22"
+    },
+    {
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Afzonderlijk benoemde publiek toegankelijke bar binnen horecacomplex De Drie Gezusters; geen aparte toegangscontrole uitgevoerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "opening_checked_on": "2026-11-22",
+      "website_checked_on": "2026-11-22",
+      "checked_on": "2026-11-22",
+      "opening_quality": "Officiële website",
+      "closing_quality": "Officiële website",
+      "closing_notes": "Rooster op eigen conceptpagina; laatste toegang onbekend. Zelfde horecacomplex als De Drie Gezusters, maar afzonderlijk benoemde bar.",
+      "original_status": "Eigen conceptpagina gecontroleerd 2026-11-22; niet live gegarandeerd.",
+      "id": "cafe-hoppe-groningen",
+      "name": "Café Hoppe",
+      "type": "Borrelcafé",
+      "address": "Grote Markt 37",
+      "alcohol": "Eigen conceptpagina bevestigt tapbier en cocktails.",
+      "website": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/cafe-hoppe",
+      "opening_source": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/cafe-hoppe",
+      "closing_source": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/cafe-hoppe",
+      "other_sources": [
+        "https://www.dedriegezusters.nl/nl/over-ons/de-stiefzusjes"
+      ]
+    },
+    {
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Afzonderlijk benoemde publiek toegankelijke bar binnen horecacomplex De Drie Gezusters; geen aparte toegangscontrole uitgevoerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "01:00"
+      },
+      "opening_checked_on": "2026-11-22",
+      "website_checked_on": "2026-11-22",
+      "checked_on": "2026-11-22",
+      "opening_quality": "Officiële website",
+      "closing_quality": "Officiële website",
+      "closing_notes": "Rooster op eigen conceptpagina; laatste toegang onbekend. Zelfde horecacomplex als De Drie Gezusters, maar afzonderlijk benoemde bar.",
+      "original_status": "Eigen conceptpagina gecontroleerd 2026-11-22; niet live gegarandeerd.",
+      "id": "sportsbar-de-groote-griet-groningen",
+      "name": "Sports Bar De Groote Griet",
+      "type": "Sportsbar",
+      "address": "Grote Markt 37",
+      "alcohol": "Eigen exploitant bevestigt speciaalbier en publiek borrelen.",
+      "website": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/sports-bar-de-groote-griet",
+      "opening_source": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/sports-bar-de-groote-griet",
+      "closing_source": "https://www.dedriegezusters.nl/nl/bij-de-drie-gezusters/sports-bar-de-groote-griet",
+      "other_sources": [
+        "https://www.dedriegezusters.nl/nl/over-ons/de-stiefzusjes"
+      ]
+    },
+    {
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Afzonderlijk benoemde publiek toegankelijke bar binnen horecacomplex De Drie Gezusters; geen aparte toegangscontrole uitgevoerd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "22:00",
+        "za": "21:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "—",
+        "vr": "?",
+        "za": "?",
+        "zo": "—"
+      },
+      "opening_checked_on": "2026-11-22",
+      "website_checked_on": "2026-11-22",
+      "checked_on": "2026-11-22",
+      "opening_quality": "Officiële website",
+      "closing_quality": "Niet gepubliceerd",
+      "closing_notes": "Exploitant vermeldt alleen vrijdag vanaf 22:00 en zaterdag vanaf 21:00; geen sluituur of laatste toegang.",
+      "original_status": "Eigen conceptpagina gecontroleerd 2026-11-22; niet live gegarandeerd.",
+      "id": "de-draaibar-groningen",
+      "name": "De Draaibar",
+      "type": "Dansbar",
+      "address": "Grote Markt 39",
+      "alcohol": "Exploitant beschrijft dansbar met bartender; alcoholhoudende dranken niet afzonderlijk gespecificeerd.",
+      "opening_source": "https://www.dedriegezusters.nl/nl/over-ons",
+      "closing_source": "",
+      "website": "https://www.dedriegezusters.nl/nl/over-ons",
+      "other_sources": [
+        "https://www.dedriegezusters.nl/nl/over-ons/de-stiefzusjes"
+      ]
     }
   ],
   "admission_policies": [
