@@ -43962,31 +43962,32 @@
       "opening": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
         "zo": "?"
       },
-      "opening_source": "https://www.cafedesleutel.nl/",
-      "opening_quality": "Officiële website",
+      "opening_source": "https://www.cafedesleutel.nl/en/",
+      "opening_quality": "Eigen website (Engelse pagina), 22-11-2026",
       "closing": {
         "ma": "?",
         "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
         "zo": "?"
       },
-      "closing_source": "https://www.cafedesleutel.nl/",
-      "closing_quality": "Onbekend",
-      "closing_notes": "Geen vaste sluituren bevestigd op geraadpleegde eigen homepage.",
+      "closing_source": "https://www.cafedesleutel.nl/en/",
+      "closing_quality": "Eigen website (Engelse pagina), 22-11-2026",
+      "closing_notes": "Eigen site vermeldt wo–za 16:00–middernacht. Andere gidsen spreken dit tegen; eigen site leidend. Ma/di/zo niet expliciet als gesloten bevestigd, dus onbekend.",
       "website": "https://www.cafedesleutel.nl/",
       "other_sources": [
-        "https://www.cafedesleutel.nl/"
+        "https://www.cafedesleutel.nl/",
+        "https://www.cafedesleutel.nl/en/"
       ],
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "original_status": "Broncontrole 21-11-2026; geen live-openstatus bevestigd."
     },
     {
