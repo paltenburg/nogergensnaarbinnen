@@ -44942,6 +44942,47 @@
         "https://www.cylex.nl/bedrijf/caf%C3%A9-de-kale-jonker-12152935.html"
       ],
       "original_status": "Broncontrole 22-11-2026; geen live-garantie."
+    },
+    {
+      "id": "stadscafe-bij-zon-assen",
+      "name": "Stadscafé Bij Zon",
+      "type": "Stadscafé",
+      "address": "Markt 18",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horeca volgens eigen website.",
+      "alcohol": "High wine op eigen website; actuele alcoholverstrekking bij gewone inloop niet afzonderlijk bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "09:30",
+        "di": "09:30",
+        "wo": "09:30",
+        "do": "09:30",
+        "vr": "09:30",
+        "za": "09:30",
+        "zo": "09:30"
+      },
+      "opening_quality": "Eigen website",
+      "opening_source": "https://stadscafebijzon.nl/reserveren/",
+      "opening_checked_on": "2026-11-22",
+      "closing": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "?",
+        "za": "?",
+        "zo": "17:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://stadscafebijzon.nl/reserveren/",
+      "closing_notes": "Vrijdag/zaterdag tafelgrill na 17:00, geen expliciet einduur; sluituur onbekend.",
+      "checked_on": "2026-11-22",
+      "other_sources": [
+        "https://stadscafebijzon.nl/reserveren/"
+      ],
+      "original_status": "Broncontrole 22-11-2026; geen live-garantie."
     }
   ],
   "admission_policies": [
