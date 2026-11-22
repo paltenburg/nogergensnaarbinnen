@@ -39774,16 +39774,26 @@
         "do": "03:00",
         "vr": "03:00",
         "za": "03:00",
-        "zo": "00:00"
+        "zo": "01:00"
       },
-      "closing_quality": "Regionale toeristische bron",
-      "closing_source": "https://www.visitgroningen.nl/nl/locaties/450393950/cafe-bistro-kult",
-      "checked_on": "2026-11-19",
-      "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
-      "website": "",
+      "closing_quality": "Eigen website",
+      "closing_source": "https://cafekult.nl/info",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen site zo tot circa 01:00, di–za circa 03:00; soms afwijkingen volgens agenda.",
+      "website": "https://cafekult.nl/",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/450393950/cafe-bistro-kult"
-      ]
+      ],
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://cafekult.nl/info"
     },
     {
       "id": "cafe-salud-groningen",
@@ -44475,6 +44485,44 @@
       "other_sources": [
         "https://stadscafededriepaardjes.com/over-ons/"
       ]
+    },
+    {
+      "id": "cafe-de-karre-tuk-20261122",
+      "name": "Café De Karre",
+      "type": "Café",
+      "address": "Tukseweg 186",
+      "city": "Tuk",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website bevestigt publiek café, activiteiten en vrije inloop; voor sommige evenementen tickets.",
+      "alcohol": "Bockbierwandeltocht met vijf bockbieren en speciaalbieractiviteiten op eigen site.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "10:30",
+        "di": "10:30",
+        "wo": "10:30",
+        "do": "10:30",
+        "vr": "10:30",
+        "za": "10:30",
+        "zo": "10:30"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://dekarre.nl/",
+      "opening_source": "https://dekarre.nl/",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen site noemt café dagelijks 10:30–00:00; evenementavonden kunnen afwijken. Cafetaria en terras hebben afzonderlijke uren.",
+      "website": "https://dekarre.nl/",
+      "other_sources": [],
+      "original_status": "Café en bieraanbod op eigen site bevestigd; standaarduren expliciet gepubliceerd."
     }
   ],
   "admission_policies": [
