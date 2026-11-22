@@ -44645,6 +44645,70 @@
       "checked_on": "2026-11-22",
       "opening_checked_on": "2026-11-22",
       "closing_notes": "Reguliere weekuren volgens eigen website; evenementafwijkingen mogelijk."
+    },
+    {
+      "id": "grand-cafe-lubeck-zwolle",
+      "name": "Grand Café Lübeck",
+      "type": "Grand café",
+      "address": "Lübeckplein 14",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bier en wijn bevestigd op eigen website",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "15:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "—",
+        "zo": "—"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.lubeck.nl/menukaart/",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Weekend uitsluitend op reservering voor feesten/partijen; vakantieuren kunnen afwijken.",
+      "features": "Borrel",
+      "website": "https://www.lubeck.nl/",
+      "other_sources": [
+        "https://www.lubeck.nl/"
+      ],
+      "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
+      "geo": null
+    },
+    {
+      "id": "cafe-cours-assen",
+      "name": "Café Cours",
+      "type": "Wielercafé/eetcafé",
+      "address": "Nieuwehuizen 15",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website",
+      "alcohol": "Bier en wijn bevestigd op eigen website",
+      "selection": "Geverifieerd",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "—"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafecours.nl/menu/drankenkaart/bieren/gulpener-ipa",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen menu vermeldt di-vr 16:00, za 15:00, zondag seizoensgebonden; sluituren niet gepubliceerd. Andere eigen pagina toont alle dagen gesloten, daarom voorzichtig.",
+      "features": "Borrel",
+      "website": "https://www.cafecours.nl/",
+      "other_sources": [
+        "https://www.cafecours.nl/"
+      ],
+      "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
+      "geo": null
     }
   ],
   "admission_policies": [
