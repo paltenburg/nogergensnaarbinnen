@@ -44815,6 +44815,133 @@
       ],
       "checked_on": "2026-11-22",
       "geo": null
+    },
+    {
+      "id": "cafe-der-witz-groningen",
+      "name": "Café Der Witz",
+      "type": "Biercafé",
+      "address": "Grote Markt 47",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek café volgens regionale horecagids.",
+      "alcohol": "Tien tapbieren en flesbieren volgens Horeca Groningen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "09:00",
+        "zo": "12:00"
+      },
+      "opening_quality": "Regionale horecagids",
+      "opening_source": "https://discovergroningen.com/locatie/cafe-der-witz/",
+      "opening_checked_on": "2026-11-22",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale gidsen; conflicten als onbekend",
+      "closing_source": "https://discovergroningen.com/locatie/cafe-der-witz/",
+      "closing_notes": "Sluituren in gidsen onderling tegenstrijdig; niet overgenomen.",
+      "checked_on": "2026-11-22",
+      "other_sources": [
+        "https://discovergroningen.com/locatie/cafe-der-witz/",
+        "https://horecagroningen.nl/gelegenheid/cafe-der-witz/"
+      ],
+      "original_status": "Broncontrole 22-11-2026; geen live-garantie."
+    },
+    {
+      "id": "cafe-de-singelier-groningen",
+      "name": "Café de Singelier",
+      "type": "Bruin café",
+      "address": "Coendersweg 44",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek café volgens regionale horecagids.",
+      "alcohol": "Sterke drank en uitgebreid drankassortiment volgens Discover Groningen; jenevercafé.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_quality": "Regionale horecagids",
+      "opening_source": "https://discovergroningen.com/en/location/cafe-de-singelier/",
+      "opening_checked_on": "2026-11-22",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Regionale gidsen; conflicten als onbekend",
+      "closing_source": "https://discovergroningen.com/en/location/cafe-de-singelier/",
+      "closing_notes": "Tijden bevestigd door twee gidsen, niet door eigen website.",
+      "checked_on": "2026-11-22",
+      "other_sources": [
+        "https://discovergroningen.com/en/location/cafe-de-singelier/",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-singelier-10733842.html"
+      ],
+      "original_status": "Broncontrole 22-11-2026; geen live-garantie."
+    },
+    {
+      "id": "cafe-de-kale-jonker-groningen",
+      "name": "Café De Kale Jonker",
+      "type": "Bruin café",
+      "address": "Gedempte Zuiderdiep 148",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek café volgens regionale horecagids.",
+      "alcohol": "Bier, wijn en sterke drank; menukaart op menunu.nl gelezen op 1 oktober 2026.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "14:00"
+      },
+      "opening_quality": "Regionale horecagids",
+      "opening_source": "https://www.visitgroningen.nl/nl/blogs/10-x-bruine-kroegen",
+      "opening_checked_on": "2026-11-22",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Regionale gidsen; conflicten als onbekend",
+      "closing_source": "https://www.visitgroningen.nl/nl/blogs/10-x-bruine-kroegen",
+      "closing_notes": "Sluituren en zondagopenstelling conflicteren tussen gidsen; onbekend gehouden.",
+      "checked_on": "2026-11-22",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/blogs/10-x-bruine-kroegen",
+        "https://menunu.nl/groningen/de-kale-jonker",
+        "https://www.cylex.nl/bedrijf/caf%C3%A9-de-kale-jonker-12152935.html"
+      ],
+      "original_status": "Broncontrole 22-11-2026; geen live-garantie."
     }
   ],
   "admission_policies": [
