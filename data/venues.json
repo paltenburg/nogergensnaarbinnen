@@ -39935,7 +39935,19 @@
       "website": "",
       "other_sources": [
         "https://www.ditisassen.nl/nl/locaties/81855761/ons-cafe"
-      ]
+      ],
+      "opening": {
+        "ma": "19:00",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.ditisassen.nl/nl/locaties/81855761/ons-cafe",
+      "opening_checked_on": "2026-11-22",
+      "opening_quality": "Regionale toeristische organisatie Dit is Assen"
     },
     {
       "id": "de-witte-bal-assen",
@@ -39993,7 +40005,19 @@
       "website": "",
       "other_sources": [
         "https://www.ditisassen.nl/nl/locaties/1292844536/rock-cafe-metropolis"
-      ]
+      ],
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "19:00"
+      },
+      "opening_source": "https://www.ditisassen.nl/nl/locaties/1292844536/rock-cafe-metropolis",
+      "opening_checked_on": "2026-11-22",
+      "opening_quality": "Regionale toeristische organisatie Dit is Assen"
     },
     {
       "id": "restaurant-grand-cafe-liff-assen",
@@ -40022,7 +40046,19 @@
       "website": "",
       "other_sources": [
         "https://www.ditisassen.nl/en/locations/715485188/restaurant-grandcafe-liff"
-      ]
+      ],
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://www.ditisassen.nl/nl/locaties/715485188/restaurant-grandcafe-liff",
+      "opening_checked_on": "2026-11-22",
+      "opening_quality": "Regionale toeristische organisatie Dit is Assen"
     },
     {
       "id": "bloopers-zwolle",
@@ -45090,6 +45126,49 @@
       ],
       "checked_on": "2026-11-22",
       "original_status": "Publieke horeca bevestigd door lokale locatiegids; actuele live-openstatus niet afzonderlijk vastgesteld."
+    },
+    {
+      "id": "new-cafe-image-assen-20261122",
+      "name": "New Café Image",
+      "type": "Feestcafé",
+      "address": "Rolderstraat 8A",
+      "city": "Assen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website noemt publiek feestcafé met livemuziek en DJ's; reguliere inloop op openingsavonden.",
+      "alcohol": "Bierconsumptie bevestigd in bezoekerservaringen; feestcafé met bar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "—"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "03:00",
+        "vr": "05:00",
+        "za": "05:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.newcafeimage.nl/",
+      "closing_source": "https://www.newcafeimage.nl/",
+      "closing_quality": "Eigen website",
+      "opening_quality": "Eigen website",
+      "checked_on": "2026-11-22",
+      "closing_notes": "Eigen website do 22–03, vr/za 22–05. Toeristische gids noemt ook di/wo; niet overgenomen wegens conflict met eigen rooster. Laatste toegang onbekend.",
+      "website": "https://www.newcafeimage.nl/",
+      "other_sources": [
+        "https://www.ditisassen.nl/nl/locaties/940371873/new-image-cafe",
+        "https://fr.restaurantguru.com/New-Cafe-Image-Assen"
+      ],
+      "original_status": "Eigen website actief en beschrijft lopende evenementen; actuele exploitatie bevestigd",
+      "geo": null
     }
   ],
   "admission_policies": [
