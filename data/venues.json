@@ -44432,6 +44432,49 @@
       "other_sources": [
         "https://www.dedriegezusters.nl/nl/over-ons/de-stiefzusjes"
       ]
+    },
+    {
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "access": "Publiek toegankelijk café volgens eigen website.",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "09:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_checked_on": "2026-11-22",
+      "website_checked_on": "2026-11-22",
+      "checked_on": "2026-11-22",
+      "opening_quality": "Officiële website",
+      "closing_quality": "Niet gepubliceerd",
+      "closing_notes": "Eigen contactpagina publiceert alleen beginuren; sluituren en laatste toegang onbekend.",
+      "original_status": "Eigen website gecontroleerd 2026-11-22; niet live gegarandeerd.",
+      "id": "stadscafe-de-drie-paardjes-emmen",
+      "name": "Stadscafé De Drie Paardjes",
+      "type": "Stadscafé",
+      "address": "Hoofdstraat 55a",
+      "alcohol": "Eigen website bevestigt bier, High Wine en High Beer.",
+      "website": "https://stadscafededriepaardjes.com/",
+      "opening_source": "https://stadscafededriepaardjes.com/contact/",
+      "closing_source": "",
+      "other_sources": [
+        "https://stadscafededriepaardjes.com/over-ons/"
+      ]
     }
   ],
   "admission_policies": [
