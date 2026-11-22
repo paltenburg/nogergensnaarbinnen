@@ -44606,6 +44606,45 @@
       "checked_on": "2026-11-22",
       "opening_checked_on": "2026-11-22",
       "closing_notes": "Eigen website publiceert reguliere openingstijden; besloten feesten kunnen afwijken."
+    },
+    {
+      "id": "bar-hop-1-6-emmen-20261122",
+      "name": "Bar Hop 1.6",
+      "type": "Bruin café",
+      "address": "Matissepassage 16",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website: publiek toegankelijk bruin café, iedereen welkom.",
+      "alcohol": "Eigen bierkaart noemt La Chouffe, Duvel, Westmalle en andere alcoholhoudende speciaalbieren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "17:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen website",
+      "closing_quality": "Eigen website",
+      "website": "https://www.barhop1punt6.nl/",
+      "opening_source": "https://www.barhop1punt6.nl/",
+      "closing_source": "https://www.barhop1punt6.nl/",
+      "other_sources": [],
+      "checked_on": "2026-11-22",
+      "opening_checked_on": "2026-11-22",
+      "closing_notes": "Reguliere weekuren volgens eigen website; evenementafwijkingen mogelijk."
     }
   ],
   "admission_policies": [
