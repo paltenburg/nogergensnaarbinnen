@@ -43466,24 +43466,25 @@
         "zo": "16:00"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "02:00"
       },
       "website": "https://pintelier.nl/",
       "opening_source": "https://pintelier.nl/",
       "opening_quality": "Officiële website",
-      "closing_quality": "Onbekend: toeristische gids vermeldt 02:00/03:00, maar eigen website bevestigt alleen beginuren en wijkt daarvan af.",
-      "closing_source": "https://www.visitgroningen.nl/nl/doen/eten-en-drinken/restaurants-en-cafes-in-groningen/175210561/belgisch-cafe-de-pintelier",
+      "closing_quality": "Visit Groningen en Discover Groningen; eigen website noemt geen sluituren",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/175210561/belgisch-cafe-de-pintelier",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/doen/eten-en-drinken/restaurants-en-cafes-in-groningen/175210561/belgisch-cafe-de-pintelier"
       ],
-      "checked_on": "2026-11-21",
-      "closing_notes": "Toeristische gids noemt ma–wo/zo 02:00, do–za 03:00, maar heeft verouderde beginuren (15:00 dagelijks). Niet als bevestigd sluituur overgenomen."
+      "checked_on": "2026-11-22",
+      "closing_notes": "Externe gidsen eensluidend over sluituren. Beginuren uit eigen site: ma–do/zo 16:00, vr–za 15:00; gidsen noemen dagelijks 15:00. Eigen site leidend.",
+      "closing_checked_on": "2026-11-22"
     },
     {
       "id": "cafe-de-pimpelaar-enschede-20261121",
