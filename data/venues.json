@@ -41226,7 +41226,7 @@
       "region": "drenthe",
       "country": "Nederland",
       "access": "Eigen website beschrijft publieke caféfunctie; actuele toegang niet live gecontroleerd.",
-      "alcohol": "Eigen website bevestigt publiek toegankelijke borrel zonder reservering; specifiek alcoholassortiment niet afzonderlijk geverifieerd.",
+      "alcohol": "Cocktails en high beer expliciet bevestigd door Drenthe.nl.",
       "selection": "Voorlopig",
       "opening": {
         "ma": "11:00",
@@ -41252,9 +41252,11 @@
       "closing_notes": "Gecontroleerd 20-11-2026; geen live opening of laatste toegang bevestigd.",
       "website": "https://grandcafemarron.nl/reserveren/",
       "other_sources": [
-        "https://grandcafemarron.nl/reserveren/"
+        "https://grandcafemarron.nl/reserveren/",
+        "https://www.drenthe.nl/locaties/1803319721/grandcafe-marron",
+        "https://www.drenthe.nl/blogs/5x-lekker-loeren"
       ],
-      "checked_on": "2026-11-20"
+      "checked_on": "2026-11-23"
     },
     {
       "id": "grand-cafe-de-rechtbank-appingedam",
@@ -45582,6 +45584,47 @@
       ],
       "checked_on": "2026-11-23",
       "original_status": "Eigen website actueel bereikbaar; niet live gegarandeerd."
+    },
+    {
+      "id": "t-schippershuus-hoogeveen-20261123",
+      "name": "'t Schippershuus",
+      "type": "Café / eetcafé",
+      "address": "Hoofdstraat 254",
+      "city": "Hoogeveen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café met lunch, maaltijden en drank volgens Drenthe.nl.",
+      "alcohol": "Wijnen en bieren expliciet vermeld door Drenthe.nl.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "20:00",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://www.drenthe.nl/locaties/1914536473/t-olde-schippershuus",
+      "closing_source": "https://www.drenthe.nl/locaties/1914536473/t-olde-schippershuus",
+      "opening_quality": "Drenthe.nl toeristische locatiepagina; vrijdag koopavond kan tot 21:00 duren.",
+      "closing_quality": "Drenthe.nl publiceert dagelijks 20:00, met vrijdag koopavond tot 21:00; standaardrooster vastgelegd.",
+      "website": "https://schippershuus.nl/",
+      "other_sources": [
+        "https://www.drenthe.nl/locaties/1914536473/t-olde-schippershuus"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Laatste toegang onbekend. Vrijdag koopavond kan volgens bron tot 21:00 duren; geen gegarandeerd vast sluituur voor die uitzondering.",
+      "original_status": "Drenthe.nl noemt actuele exploitatie; niet live gegarandeerd."
     }
   ],
   "admission_policies": [
