@@ -46160,6 +46160,44 @@
       "checked_on": "2026-11-23",
       "opening_checked_on": "2026-11-23",
       "original_status": "Officiële website vermeldt actuele reguliere café-exploitatie; niet fysiek gecontroleerd."
+    },
+    {
+      "id": "davo-bieren-proeflokaal-deventer-20261123",
+      "name": "DAVO Bieren Proeflokaal",
+      "type": "Bierproeflokaal / stadsbrouwerij",
+      "address": "Sluisstraat 6",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Officiële website: openbaar proeflokaal; vrije inloop voor kleine groepen en terras.",
+      "alcohol": "Officiële website: eigen alcoholhoudende bieren van de tap.",
+      "selection": "Geverifieerd",
+      "website": "https://davobieren.nl/proeflokalen/deventer",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "opening_source": "https://davobieren.nl/proeflokalen/deventer",
+      "closing_source": "https://davobieren.nl/proeflokalen/deventer",
+      "opening_quality": "Officiële DAVO website",
+      "closing_quality": "Officiële DAVO website; laatste toegang onbekend",
+      "checked_on": "2026-11-23",
+      "opening_checked_on": "2026-11-23",
+      "original_status": "Actuele exploitatie volgens officiële proeflokaalpagina; niet fysiek gecontroleerd."
     }
   ],
   "admission_policies": [
