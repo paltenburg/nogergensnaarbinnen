@@ -45802,6 +45802,48 @@
       "checked_on": "2026-11-23",
       "closing_notes": "Laatste toegang onbekend.",
       "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd."
+    },
+    {
+      "id": "de-zwetser-emmen-20261123",
+      "name": "De Zwetser Eten & Drinken",
+      "type": "Eetcafé/borrelrestaurant",
+      "address": "Marktplein 1",
+      "city": "Emmen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café/restaurant met terras volgens eigen website",
+      "alcohol": "Wijn en alcoholhoudende cocktails expliciet op eigen website",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "?",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_quality": "Eigen website; conflicterende pagina's",
+      "closing_quality": "Onbekend wegens tegenstrijdige eigen pagina's",
+      "website": "https://dezwetser.nl/",
+      "opening_source": "https://dezwetser.nl/",
+      "closing_source": "https://dezwetser.nl/contact/",
+      "alcohol_source": "https://dezwetser.nl/dranken/",
+      "other_sources": [
+        "https://dezwetser.nl/over-ons/",
+        "https://dezwetser.nl/contact/"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Contactpagina publiceert sluituren maar andere pagina's geven afwijkende begintijden en alleen 'vanaf'; daarom sluituren voorlopig onbekend. Ma, di en vr beginnen tegenstrijdig op eigen pagina's."
     }
   ],
   "admission_policies": [
