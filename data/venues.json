@@ -46023,6 +46023,49 @@
       "opening_checked_on": "2026-11-23",
       "closing_checked_on": "2026-11-23",
       "original_status": "Actuele vermelding met adres, publiek café, bier en weekuren in stadsgids; live exploitatie niet onafhankelijk gecontroleerd."
+    },
+    {
+      "id": "eetcafe-lambik-groningen-20261123",
+      "name": "Eetcafé Lambik",
+      "type": "Eetcafé / borrel",
+      "address": "Grote Kruisstraat 73",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website verwelkomt ook spontane gasten voor borrel aan bar of tafel; reserveren niet verplicht.",
+      "alcohol": "Speciaalbier van de tap genoemd door Stay in Groningen; actuele eigen website noemt borrel, alcoholsoort niet expliciet.",
+      "selection": "Voorlopig",
+      "website": "https://www.eetcafe-lambik.nl/",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.eetcafe-lambik.nl/",
+      "opening_quality": "Officiële website: dagelijks vanaf 11:00, expliciet ook borrel",
+      "closing_quality": "Onbekend: officiële site noemt geen sluituren; externe gidsen spreken elkaar tegen",
+      "closing_notes": "Visit Groningen en Horeca Groningen publiceren verschillende weekuren; sluituren daarom onbekend. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/1091917070/eetcafe-lambik",
+        "https://horecagroningen.nl/gelegenheid/eetcafe-lambik/",
+        "https://stayingroningen.com/nl/locations/lambik"
+      ],
+      "checked_on": "2026-11-23",
+      "opening_checked_on": "2026-11-23",
+      "original_status": "Officiële website actief en lokale horeca-/toeristische gidsen vermelden exploitatie; niet fysiek gecontroleerd."
     }
   ],
   "admission_policies": [
