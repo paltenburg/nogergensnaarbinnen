@@ -46593,6 +46593,48 @@
       "checked_on": "2026-11-23",
       "opening_checked_on": "2026-11-23",
       "closing_notes": "Weekuren volgens toeristische stadsgids; officiële website niet als actuele urenbron geverifieerd."
+    },
+    {
+      "id": "stanislaus-brewskovitch-brewpub-enschede-20261123",
+      "name": "Stanislaus Brewskovitch Brewpub",
+      "type": "Brewpub / speciaalbiercafé",
+      "address": "Stadsgravenstraat 59",
+      "city": "Enschede",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft publiek toegankelijke brewpub met bar, terras, eten en drank; reserveren is mogelijk, niet als verplicht vermeld.",
+      "alcohol": "Eigen brewpubwebsite bevestigt speciaalbier van tap en fles; eigen vacaturepagina bevestigt bier en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://www.stanislausbrewskovitch.nl/brewpub/",
+      "opening_quality": "Officiële website",
+      "closing": {
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "closing_source": "https://www.stanislausbrewskovitch.nl/brewpub/",
+      "closing_quality": "Officiële website",
+      "closing_notes": "Reguliere weekuren op eigen brewpubpagina; laatste toegang onbekend. Geen live-openstatus.",
+      "website": "https://www.stanislausbrewskovitch.nl/brewpub/",
+      "other_sources": [
+        "https://www.stanislausbrewskovitch.nl/vacatures/",
+        "https://www.stanislausbrewskovitch.nl/reservation/"
+      ],
+      "checked_on": "2026-11-23",
+      "original_status": "Actuele eigen brewpubpagina en vacaturepagina geraadpleegd 23-11-2026; geen live-openstatus bevestigd."
     }
   ],
   "admission_policies": [
