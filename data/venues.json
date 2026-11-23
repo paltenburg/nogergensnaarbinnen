@@ -10644,45 +10644,6 @@
       "website_provenance": "Actuele informatiepagina van Z Leeuwarden / locatiebeheerder; geen bewijs van vrije publieke caféopening."
     },
     {
-      "id": "cafe-de-zaak-leeuwarden-cc89001",
-      "name": "Café De Zaak",
-      "type": "Privécafé / besloten evenementen",
-      "address": "Bagijnestraat 63",
-      "city": "Leeuwarden",
-      "region": "friesland",
-      "country": "Nederland",
-      "access": "Uitsluitend besloten evenementen op reservering; geen publieke vrije inloop volgens eigen website.",
-      "alcohol": "Eigen site biedt arrangementen met bier, wijn en gedistilleerd voor besloten groepen.",
-      "selection": "Nee",
-      "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
-      },
-      "closing_quality": "Geen publiek weekrooster; alleen op reservering",
-      "closing_source": "https://dezaak.cafe/",
-      "closing_notes": "Eigen site noemt expliciet privé-café en 'altijd open op reservering'. Daarom uitgesloten van publieke inloopresultaten; dit betekent niet dat de onderneming gesloten is. Geen standaard sluiting of laatste toegang.",
-      "features": "Friesland; eerste provinciale inventarisatie",
-      "website": "https://dezaak.cafe/",
-      "other_sources": [
-        "https://uitgaanskaart.nl/cafe/leeuwarden"
-      ],
-      "original_status": "Actieve besloten evenementenlocatie volgens eigen site op 30-10-2026; niet geschikt voor spontane publieke horeca-inloop.",
-      "geo": {
-        "lat": 53.201703,
-        "lon": 5.7943669,
-        "method": "PDOK BAG-adres",
-        "matched_address": "Bagijnestraat 63, 8911DN Leeuwarden"
-      },
-      "website_provenance": "Eigen site bevestigt De Zaak, Bagijnestraat 63; uitsluitend privé-evenementen op reservering.",
-      "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30"
-    },
-    {
       "id": "cafe-de-twin-leeuwarden-0003bb5",
       "name": "Café De Twin",
       "type": "Kroeg",
@@ -39588,7 +39549,18 @@
       "website": "https://www.cafedetoeter.nl/contact/",
       "other_sources": [],
       "closing_checked_on": "2026-11-21",
-      "opening_checked_on": "2026-11-21"
+      "opening_checked_on": "2026-11-23",
+      "opening": {
+        "ma": "19:00",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.cafedetoeter.nl/contact/",
+      "opening_quality": "Eigen website, gecontroleerd 23-11-2026"
     },
     {
       "id": "eetcafe-zusjes-de-boer-assen",
@@ -41006,7 +40978,19 @@
       "other_sources": [
         "https://oudewacht.nl/"
       ],
-      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://oudewacht.nl/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Eigen website, gecontroleerd 23-11-2026"
     },
     {
       "id": "cafe-bar-de-buurman-hardenberg",
@@ -41036,7 +41020,19 @@
       "other_sources": [
         "https://www.cafebardebuurman.nl/"
       ],
-      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafebardebuurman.nl/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Eigen website, gecontroleerd 23-11-2026"
     },
     {
       "id": "grand-cafe-den-herdenbergher-hardenberg",
@@ -42360,7 +42356,20 @@
       "other_sources": [
         "https://ontdekmeppel.nl/ontdek-meppel/eten-drinken/cafes/bistrobar-t-leeuwtje/709/"
       ],
-      "original_status": "Adres en alcohol en publieke toegang bevestigd op eigen site; vrijdag/zaterdag sluituur 02:00 volgens eigen site."
+      "original_status": "Adres en alcohol en publieke toegang bevestigd op eigen site; vrijdag/zaterdag sluituur 02:00 volgens eigen site.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "?"
+      },
+      "opening_source": "https://leeuwtje-meppel.nl/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Eigen website, gecontroleerd 23-11-2026",
+      "opening_notes": "Zondag tegenstrijdig: homepage zegt dagelijks vanaf 11:00, weekrooster zondag 10:00; onbekend gehouden."
     },
     {
       "id": "cafe-de-hare-majesteit-hoogeveen-20261120",
@@ -43125,7 +43134,19 @@
       "other_sources": [
         "https://www.belgischekeizer.nl/contact/",
         "https://hesz.nl/deelnemers/de-belgische-keizer"
-      ]
+      ],
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.belgischekeizer.nl/contact/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Eigen website, gecontroleerd 23-11-2026"
     },
     {
       "id": "moeke-vaatstra-zuidwolde-groningen",
