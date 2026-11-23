@@ -39502,25 +39502,28 @@
       "opening_checked_on": "2026-11-19",
       "opening_quality": "Officiële website",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
       },
-      "closing_quality": "Niet op officiële website vermeld",
-      "closing_notes": "Eigen site vermeldt begintijden maar geen sluituren. Laatste toegang niet bevestigd.",
+      "closing_quality": "Lokale stadsgids, ondersteund door Google-uren gepubliceerd 18-10-2026; niet bevestigd op eigen website",
+      "closing_notes": "Gastvrij Zwolle vermeldt zeven dagen sluiting 02:00; Google-uren (18-10-2026) komen overeen. Cylex toont afwijkende, onderling inconsistente tijden (25-08-2026); eigen website noemt alleen begintijden. Laatste toegang onbekend.",
       "website": "https://www.cafedegezelligheid.nl/",
       "other_sources": [
         "https://www.cafedegezelligheid.nl/",
-        "https://www.cafedegezelligheid.nl/contact"
+        "https://www.cafedegezelligheid.nl/contact",
+        "https://straatfestivalzwolle.nl/deelnemers/cafe-de-gezelligheid",
+        "https://www.allebedrijveninzwolle.nl/bedrijf/cafe-de-gezelligheid-zwolle/"
       ],
       "website_checked_on": "2026-11-19",
       "website_provenance": "Eigen website gecontroleerd op 2026-11-19; aanbod, locatie en uren waar vermeld.",
       "original_status": "Actuele eigen site geraadpleegd 2026-11-19; niet live gegarandeerd.",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-23",
+      "closing_source": "https://straatfestivalzwolle.nl/deelnemers/cafe-de-gezelligheid"
     },
     {
       "id": "cafe-de-toeter-groningen",
