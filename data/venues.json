@@ -39584,10 +39584,22 @@
       },
       "closing_quality": "Eigen website",
       "closing_source": "https://www.zusjesdeboer.nl/contact/",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-23",
       "closing_notes": "Openingstijden rechtstreeks van eigen website; geen afgeleide laatste toegang. Feestdagen kunnen afwijken.",
       "website": "https://www.zusjesdeboer.nl/contact/",
-      "other_sources": []
+      "other_sources": [],
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.zusjesdeboer.nl/contact/",
+      "opening_quality": "Officiële contactpagina; maandag en dinsdag niet vermeld",
+      "opening_checked_on": "2026-11-23"
     },
     {
       "id": "stadscafe-blij-zwolle",
@@ -39755,12 +39767,24 @@
       },
       "closing_quality": "Eigen website (openingsdagen), sluituren onbekend",
       "closing_source": "https://www.witterbrug.nl/contact",
-      "checked_on": "2026-11-20",
+      "checked_on": "2026-11-23",
       "closing_notes": "Wo–zo vanaf 16:30; keuken tot 21:00 maar bar langer open. Sluituur onbekend.",
       "website": "https://www.witterbrug.nl/",
       "other_sources": [
         "https://www.witterbrug.nl/menu"
-      ]
+      ],
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:30",
+        "do": "16:30",
+        "vr": "16:30",
+        "za": "16:30",
+        "zo": "16:30"
+      },
+      "opening_source": "https://www.witterbrug.nl/contact",
+      "opening_quality": "Officiële contactpagina",
+      "opening_checked_on": "2026-11-23"
     },
     {
       "id": "cafe-bistro-kult-groningen",
@@ -44844,7 +44868,7 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.cafecours.nl/menu/drankenkaart/bieren/gulpener-ipa",
-      "checked_on": "2026-11-22",
+      "checked_on": "2026-11-23",
       "closing_notes": "Eigen menu vermeldt di-vr 16:00, za 15:00, zondag seizoensgebonden; sluituren niet gepubliceerd. Andere eigen pagina toont alle dagen gesloten, daarom voorzichtig.",
       "features": "Borrel",
       "website": "https://www.cafecours.nl/",
@@ -44852,7 +44876,19 @@
         "https://www.cafecours.nl/"
       ],
       "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
-      "geo": null
+      "geo": null,
+      "opening": {
+        "ma": "?",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "15:00",
+        "zo": "?"
+      },
+      "opening_source": "https://www.cafecours.nl/menu",
+      "opening_quality": "Eigen menupagina; maandag op aanvraag en zondag seizoensgebonden",
+      "opening_checked_on": "2026-11-23"
     },
     {
       "id": "borrelcafe-oblomov-groningen",
