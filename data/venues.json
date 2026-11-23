@@ -45746,16 +45746,16 @@
       "region": "groningen",
       "country": "Nederland",
       "access": "Publiek café met twee bars en livemuziek; Visit Groningen bevestigt reguliere exploitatie.",
-      "alcohol": "Twee bars; caféfunctie. Alcoholverstrekking aanvullend te verifiëren bij eigen bron.",
-      "selection": "Voorlopig",
+      "alcohol": "Eigen website bevestigt getapt bier, speciaalbier en cocktails.",
+      "selection": "Geverifieerd",
       "opening": {
         "ma": "16:00",
         "di": "16:00",
-        "wo": "16:00",
-        "do": "14:00",
+        "wo": "15:00",
+        "do": "15:00",
         "vr": "14:00",
         "za": "14:00",
-        "zo": "15:00"
+        "zo": "14:00"
       },
       "closing": {
         "ma": "02:00",
@@ -45766,17 +45766,18 @@
         "za": "03:00",
         "zo": "02:00"
       },
-      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe",
+      "opening_source": "https://buckshotcafe.nl/",
       "closing_source": "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe",
-      "opening_quality": "Visit-organisatie; niet live gegarandeerd",
+      "opening_quality": "Eigen website (afwijkend van Visit Groningen op wo, zo)",
       "closing_quality": "Visit-organisatie; onbekend waar niet gepubliceerd",
       "website": "https://www.buckshotcafe.nl/",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe"
       ],
       "checked_on": "2026-11-23",
-      "closing_notes": "Laatste toegang onbekend.",
-      "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd."
+      "closing_notes": "Begintijden eigen website leidend; sluituren afkomstig van Visit Groningen, eigen site vermeldt geen sluituren. Laatste toegang onbekend.",
+      "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd.",
+      "alcohol_source": "https://buckshotcafe.nl/"
     },
     {
       "id": "rabenhaupt-groningen-20261123",
