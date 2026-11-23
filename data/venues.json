@@ -45981,6 +45981,48 @@
       "closing_source": "https://grandcafedemajesteit.nl/",
       "closing_notes": "Eigen website vermeldt uitsluitend begintijden, geen café-sluituren; keukenuren niet overgenomen. Laatste toegang onbekend.",
       "checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-het-glas-in-lood-deventer-20261123",
+      "name": "Café Het Glas in Lood",
+      "type": "Café / spellencafé",
+      "address": "Nieuwe Markt 4",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk huiskamer- en spellencafé volgens toeristische stadsgids Deventer.",
+      "alcohol": "Tapbier en Gulpener bier expliciet genoemd door stadsgids en eigenaar.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "19:00",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "—",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "opening_source": "https://www.deventer.info/binnenstadskwartieren/lebu%C3%AFnuskwartierdeventer/37228-cafe-het-glas-in-lood/",
+      "closing_source": "https://www.deventer.info/binnenstadskwartieren/lebu%C3%AFnuskwartierdeventer/37228-cafe-het-glas-in-lood/",
+      "opening_quality": "Toeristische stadsgids Deventer",
+      "closing_quality": "Toeristische stadsgids Deventer; laatste toegang onbekend",
+      "website": "https://cafehetglasinlood.nl/",
+      "other_sources": [
+        "https://www.deventer.info/binnenstadskwartieren/lebu%C3%AFnuskwartierdeventer/37228-cafe-het-glas-in-lood/"
+      ],
+      "checked_on": "2026-11-23",
+      "opening_checked_on": "2026-11-23",
+      "closing_checked_on": "2026-11-23",
+      "original_status": "Actuele vermelding met adres, publiek café, bier en weekuren in stadsgids; live exploitatie niet onafhankelijk gecontroleerd."
     }
   ],
   "admission_policies": [
