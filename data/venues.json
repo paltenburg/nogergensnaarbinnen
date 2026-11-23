@@ -45679,6 +45679,129 @@
       "checked_on": "2026-11-23",
       "closing_notes": "Zondag alleen op aanvraag; reguliere opening en laatste toegang onbekend.",
       "original_status": "Eigen website actueel bereikbaar; niet live gegarandeerd."
+    },
+    {
+      "id": "buckshot-cafe-groningen-20261123",
+      "name": "Buckshot Café",
+      "type": "Muziekcafé",
+      "address": "Gedempte Zuiderdiep 58",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek café met twee bars en livemuziek; Visit Groningen bevestigt reguliere exploitatie.",
+      "alcohol": "Twee bars; caféfunctie. Alcoholverstrekking aanvullend te verifiëren bij eigen bron.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "15:00"
+      },
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "03:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "02:00"
+      },
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe",
+      "opening_quality": "Visit-organisatie; niet live gegarandeerd",
+      "closing_quality": "Visit-organisatie; onbekend waar niet gepubliceerd",
+      "website": "https://www.buckshotcafe.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/2550355976/buckshot-cafe"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Laatste toegang onbekend.",
+      "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd."
+    },
+    {
+      "id": "rabenhaupt-groningen-20261123",
+      "name": "Rabenhaupt",
+      "type": "Bistro / café",
+      "address": "Gedempte Zuiderdiep 7",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publieke bistro en bar, zonder reserveringsplicht vermeld; Visit Groningen bevestigt exploitatie.",
+      "alcohol": "Koud bier en borrel expliciet bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "20:00"
+      },
+      "opening_source": "https://www.visitgroningen.nl/nl/locaties/3056732415/taveerne-rabenhaupt",
+      "closing_source": "https://www.visitgroningen.nl/nl/locaties/3056732415/taveerne-rabenhaupt",
+      "opening_quality": "Visit-organisatie; niet live gegarandeerd",
+      "closing_quality": "Visit-organisatie; onbekend waar niet gepubliceerd",
+      "website": "https://rabenhauptgroningen.nl/",
+      "other_sources": [
+        "https://www.visitgroningen.nl/nl/locaties/3056732415/taveerne-rabenhaupt"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Laatste toegang onbekend.",
+      "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd."
+    },
+    {
+      "id": "t-swolsch-cafe-zwolle-20261123",
+      "name": "'t Swolsch Café",
+      "type": "Café / nachtleven",
+      "address": "Melkmarkt 37",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek café, vrijdag en zaterdag ook uitgaansgelegenheid volgens VisitZwolle.",
+      "alcohol": "Speciaalbieren van de tap en bierverstrekking expliciet bevestigd.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.visitzwolle.com/eten-drinken/45216-t-swolsch-cafe/",
+      "closing_source": "https://www.visitzwolle.com/eten-drinken/45216-t-swolsch-cafe/",
+      "opening_quality": "Visit-organisatie; niet live gegarandeerd",
+      "closing_quality": "Visit-organisatie; onbekend waar niet gepubliceerd",
+      "website": "https://www.swolschcafe.nl/",
+      "other_sources": [
+        "https://www.visitzwolle.com/eten-drinken/45216-t-swolsch-cafe/"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Laatste toegang onbekend.",
+      "original_status": "Toeristische bron geraadpleegd; actuele opening niet live gegarandeerd."
     }
   ],
   "admission_policies": [
