@@ -40010,12 +40010,24 @@
       },
       "closing_quality": "Regionale toeristische bron",
       "closing_source": "https://www.ditisassen.nl/nl/locaties/1356541085/de-witte-bal",
-      "checked_on": "2026-11-19",
+      "checked_on": "2026-11-23",
       "closing_notes": "Weeksluituren uit toeristische bron; ? = onbekend. Afwijkende feestdagen niet geverifieerd. Geen laatste toegang afgeleid.",
       "website": "",
       "other_sources": [
         "https://www.ditisassen.nl/nl/locaties/1356541085/de-witte-bal"
-      ]
+      ],
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "14:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.ditisassen.nl/nl/locaties/1356541085/de-witte-bal",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Regionale toeristische bron"
     },
     {
       "id": "rock-cafe-metropolis-assen",
@@ -41089,13 +41101,25 @@
       },
       "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
       "closing_source": "https://denherdenbergher.nl/contact/",
-      "checked_on": "2026-11-20",
-      "closing_notes": "Eigen site geeft maandag 17:00 of 20:30; onbekend gehouden.",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Maandag sluituur tegenstrijdig op eigen site (17:00 versus 20:30); blijft onbekend. Overige sluituren volgens eigen website; laatste toegang onbekend.",
       "website": "https://denherdenbergher.nl/contact/",
       "other_sources": [
         "https://denherdenbergher.nl/high-arrangementen/"
       ],
-      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "—"
+      },
+      "opening_source": "https://denherdenbergher.nl/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Officiële website"
     },
     {
       "id": "eetcafe-j-a-winsum",
@@ -41119,13 +41143,25 @@
       },
       "closing_quality": "Eigen website; eventuele conflicten als onbekend gelaten",
       "closing_source": "https://www.cafejena.nl/contact/",
-      "checked_on": "2026-11-20",
+      "checked_on": "2026-11-23",
       "closing_notes": "Openingstijden op eigen site gecontroleerd 20-11-2026; geen afzonderlijke laatste-toegangstijd.",
       "website": "https://www.cafejena.nl/contact/",
       "other_sources": [
         "https://www.cafejena.nl/eetcafe/"
       ],
-      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd"
+      "original_status": "Eigen website actief; actuele dagstatus niet live gecontroleerd",
+      "opening": {
+        "ma": "10:00",
+        "di": "—",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.cafejena.nl/contact/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Officiële website"
     },
     {
       "id": "cafe-de-klikspaan-groningen",
@@ -42326,12 +42362,24 @@
       },
       "closing_quality": "Eigen website 20-11-2026; Visit Groningen noemt zaterdag 23:00, conflict: eigen site leidend.",
       "closing_source": "https://goudenkarper.nl/",
-      "checked_on": "2026-11-20",
+      "checked_on": "2026-11-23",
       "website": "https://goudenkarper.nl/",
       "other_sources": [
         "https://www.visitgroningen.nl/nl/locaties/2982487697/herberg-de-gouden-karper"
       ],
-      "original_status": "Publiek café en alcohol bevestigd; zaterdag sluituur verschilt tussen bronnen."
+      "original_status": "Publiek café en alcohol bevestigd; zaterdag sluituur verschilt tussen bronnen.",
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "—"
+      },
+      "opening_source": "https://goudenkarper.nl/",
+      "opening_checked_on": "2026-11-23",
+      "opening_quality": "Officiële website"
     },
     {
       "id": "cafe-de-amer-amen-20261120",
