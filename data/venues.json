@@ -45844,6 +45844,76 @@
       ],
       "checked_on": "2026-11-23",
       "closing_notes": "Contactpagina publiceert sluituren maar andere pagina's geven afwijkende begintijden en alleen 'vanaf'; daarom sluituren voorlopig onbekend. Ma, di en vr beginnen tegenstrijdig op eigen pagina's."
+    },
+    {
+      "id": "cafe-the-corner-kampen-20261123",
+      "name": "Café The Corner",
+      "type": "Muziekcafé",
+      "address": "Buiten Nieuwstraat 3–5",
+      "city": "Kampen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt nieuwe en vaste gasten uit voor publiek café, pool, darts en live muziek.",
+      "alcohol": "Eigen website toont tap, flessen en bar; koud drankje genoemd, alcoholhoudend bier niet expliciet gespecificeerd.",
+      "selection": "Voorlopig",
+      "website": "https://www.cafethecorner.nl/",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "16:00",
+        "zo": "19:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "00:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.cafethecorner.nl/",
+      "closing_notes": "Eigen website vermeldt do–zo uren, ma–wo niet vermeld; geen sluiting verondersteld. Alcoholhoudend aanbod nog expliciet te bevestigen; laatste toegang onbekend.",
+      "checked_on": "2026-11-23"
+    },
+    {
+      "id": "grand-eetcafe-de-majesteit-kampen-20261123",
+      "name": "Grand-Eetcafé de Majesteit",
+      "type": "Grand-eetcafé / borrel",
+      "address": "Hofstraat 124/126",
+      "city": "Kampen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website verwelkomt iedereen voor borrel, lunch en diner.",
+      "alcohol": "Eigen website bevestigt meer dan 50 speciaalbieren, wijn en cocktails.",
+      "selection": "Geverifieerd",
+      "website": "https://grandcafedemajesteit.nl/",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Officiële website: alleen begintijden",
+      "closing_source": "https://grandcafedemajesteit.nl/",
+      "closing_notes": "Eigen website vermeldt uitsluitend begintijden, geen café-sluituren; keukenuren niet overgenomen. Laatste toegang onbekend.",
+      "checked_on": "2026-11-23"
     }
   ],
   "admission_policies": [
