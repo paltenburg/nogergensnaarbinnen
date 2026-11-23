@@ -44779,15 +44779,27 @@
       },
       "closing_quality": "Officiële website",
       "closing_source": "https://www.lubeck.nl/menukaart/",
-      "checked_on": "2026-11-22",
+      "checked_on": "2026-11-23",
       "closing_notes": "Weekend uitsluitend op reservering voor feesten/partijen; vakantieuren kunnen afwijken.",
       "features": "Borrel",
       "website": "https://www.lubeck.nl/",
       "other_sources": [
-        "https://www.lubeck.nl/"
+        "https://www.lubeck.nl/",
+        "https://www.lubeck.nl/reserveren/"
       ],
       "original_status": "Actuele website gecontroleerd; geen live beschikbaarheid",
-      "geo": null
+      "geo": null,
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "—",
+        "zo": "—"
+      },
+      "opening_source": "https://www.lubeck.nl/",
+      "opening_quality": "Eigen website; weekend alleen voor feesten op reservering, vakantieafwijkingen mogelijk"
     },
     {
       "id": "cafe-cours-assen",
@@ -45625,6 +45637,48 @@
       "checked_on": "2026-11-23",
       "closing_notes": "Laatste toegang onbekend. Vrijdag koopavond kan volgens bron tot 21:00 duren; geen gegarandeerd vast sluituur voor die uitzondering.",
       "original_status": "Drenthe.nl noemt actuele exploitatie; niet live gegarandeerd."
+    },
+    {
+      "id": "brasserie-dunnik-zwolle-20261123",
+      "name": "Brasserie Dunnik",
+      "type": "Brasserie / borrel",
+      "address": "Broerenstraat 4-10",
+      "city": "Zwolle",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt individuele gasten uit voor borrel, lunch en diner; terras publiek toegankelijk.",
+      "alcohol": "Eigen website bevestigt tapbier, speciaalbier, wijn en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "20:00",
+        "di": "21:00",
+        "wo": "21:00",
+        "do": "22:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "?"
+      },
+      "opening_source": "https://www.brasseriedunnik.nl/contact/",
+      "closing_source": "https://www.brasseriedunnik.nl/contact/",
+      "opening_quality": "Eigen website; zondag op aanvraag, geen vaste publieke opening bevestigd",
+      "closing_quality": "Eigen website; zondag op aanvraag, geen vaste sluiting bevestigd",
+      "website": "https://www.brasseriedunnik.nl/",
+      "other_sources": [
+        "https://www.brasseriedunnik.nl/borrelen-zwolle/",
+        "https://www.brasseriedunnik.nl/all-you-can-drink-zwolle/"
+      ],
+      "checked_on": "2026-11-23",
+      "closing_notes": "Zondag alleen op aanvraag; reguliere opening en laatste toegang onbekend.",
+      "original_status": "Eigen website actueel bereikbaar; niet live gegarandeerd."
     }
   ],
   "admission_policies": [
