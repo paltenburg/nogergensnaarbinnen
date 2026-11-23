@@ -46249,6 +46249,45 @@
       ],
       "original_status": "VisitZwolle actuele locatievermelding gecontroleerd 2026-11-23; live exploitatie niet afzonderlijk bevestigd.",
       "checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-lou-deventer-20261123",
+      "name": "Café LOU",
+      "type": "Café/lunch en borrel",
+      "address": "Kleine Overstraat 9",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Deventer stadsgids bevestigt openbaar café voor ontbijt, lunch en borrel.",
+      "alcohol": "Deventer stadsgids bevestigt bier en wijn.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://www.deventer.info/horeca/lunchen/38437-cafe-lou/",
+      "closing_source": "https://www.deventer.info/horeca/lunchen/38437-cafe-lou/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Regulier rooster; koopzondag tot 16:30 volgens stadsgids. Laatste toegang onbekend.",
+      "website": "https://www.cafelou.nl/",
+      "other_sources": [
+        "https://www.deventer.info/horeca/lunchen/38437-cafe-lou/"
+      ],
+      "original_status": "Actueel vermeld in toeristische stadsgids."
     }
   ],
   "admission_policies": [
