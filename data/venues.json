@@ -47,6 +47,15 @@
         6.17
       ],
       "zoom": 9
+    },
+    {
+      "id": "gelderland",
+      "name": "Gelderland",
+      "center": [
+        52,
+        5.9
+      ],
+      "zoom": 9
     }
   ],
   "places": [
@@ -46635,6 +46644,123 @@
       ],
       "checked_on": "2026-11-23",
       "original_status": "Actuele eigen brewpubpagina en vacaturepagina geraadpleegd 23-11-2026; geen live-openstatus bevestigd."
+    },
+    {
+      "id": "arnhem-cafe-eijck-20261123",
+      "name": "Café Eijck",
+      "type": "Café/borrelcafé",
+      "address": "Bovenbeekstraat 28",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt gasten uit voor borrel en diner; geen verplichte reservering vermeld.",
+      "alcohol": "Eigen website noemt getapte bieren en wijnen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "16:00",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "00:00",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "opening_quality": "Eigen website",
+      "opening_source": "https://www.cafeeijckarnhem.nl/",
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafeeijckarnhem.nl/",
+      "closing_notes": "Reguliere weekuren volgens eigen website; laatste toegang niet bevestigd. Geen coördinaten zonder geverifieerd BAG-adres en publieksingang.",
+      "website": "https://www.cafeeijckarnhem.nl/",
+      "other_sources": [],
+      "original_status": "Eigen actuele website toont exploitatie en reguliere weekuren.",
+      "checked_on": "2026-11-23"
+    },
+    {
+      "id": "arnhem-cafe-t-moortgat-20261123",
+      "name": "Café 't Moortgat",
+      "type": "Speciaalbiercafé",
+      "address": "Ruiterstraat 35",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek café met gepubliceerde weekuren en bierkaart volgens eigen website.",
+      "alcohol": "Eigen website vermeldt 15 tapbieren en meer dan 100 flesbieren.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "15:00",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "12:00",
+        "zo": "14:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "opening_quality": "Eigen website",
+      "opening_source": "https://www.moortgat.nl/",
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.moortgat.nl/",
+      "closing_notes": "Reguliere weekuren volgens eigen website; laatste toegang niet bevestigd. Geen coördinaten zonder geverifieerd BAG-adres en publieksingang.",
+      "website": "https://www.moortgat.nl/",
+      "other_sources": [],
+      "original_status": "Eigen actuele website toont exploitatie en reguliere weekuren.",
+      "checked_on": "2026-11-23"
+    },
+    {
+      "id": "arnhem-cafe-vrijdag-20261123",
+      "name": "Café Vrijdag",
+      "type": "Café",
+      "address": "Velperbuitensingel 21-A",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Eigen website nodigt gasten uit voor koffie, lunch, borrel en diner.",
+      "alcohol": "Eigen website vermeldt bier, wijn en cocktails.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "opening_quality": "Eigen website",
+      "opening_source": "https://cafevrijdag.nl/",
+      "closing_quality": "Eigen website",
+      "closing_source": "https://cafevrijdag.nl/",
+      "closing_notes": "Reguliere weekuren volgens eigen website; laatste toegang niet bevestigd. Geen coördinaten zonder geverifieerd BAG-adres en publieksingang.",
+      "website": "https://cafevrijdag.nl/",
+      "other_sources": [],
+      "original_status": "Eigen actuele website toont exploitatie en reguliere weekuren.",
+      "checked_on": "2026-11-23"
     }
   ],
   "admission_policies": [
