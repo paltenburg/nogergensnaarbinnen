@@ -46066,6 +46066,49 @@
       "checked_on": "2026-11-23",
       "opening_checked_on": "2026-11-23",
       "original_status": "Officiële website actief en lokale horeca-/toeristische gidsen vermelden exploitatie; niet fysiek gecontroleerd."
+    },
+    {
+      "id": "mimik-eten-en-drinken-deventer-20261123",
+      "name": "MIMIK Eten & Drinken",
+      "type": "Cultureel café / restaurant / borrel",
+      "address": "Achter de Muren Vispoort 8-10",
+      "city": "Deventer",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website: café dagelijks open voor bezoekers zonder filmkaartje; spontaan langskomen toegestaan.",
+      "alcohol": "Eigen cafépagina biedt Nederlandse wijnkaart en drankenkaart aan; alcoholarme MIMIK Soda wordt afzonderlijk genoemd.",
+      "selection": "Geverifieerd",
+      "website": "https://www.mimik.nl/cafe",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.mimik.nl/contact",
+      "opening_quality": "Officiële website: café dagelijks vanaf 10:00; keukenuren niet overgenomen.",
+      "closing_source": "https://www.mimik.nl/cafe",
+      "closing_quality": "Onbekend: officiële site noemt geen café-sluituren.",
+      "closing_notes": "Geen sluituren of laatste toegang gepubliceerd; filmkassa- en keukentijden zijn geen café-sluituren.",
+      "other_sources": [
+        "https://www.mimik.nl/contact/bereikbaarheid",
+        "https://www.mimik.nl/cache/mimik-jaarplan-2025.18641/mimik-jaarplan-2025.pdf"
+      ],
+      "checked_on": "2026-11-23",
+      "opening_checked_on": "2026-11-23",
+      "original_status": "Officiële website vermeldt actuele reguliere café-exploitatie; niet fysiek gecontroleerd."
     }
   ],
   "admission_policies": [
