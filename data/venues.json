@@ -46288,6 +46288,103 @@
         "https://www.deventer.info/horeca/lunchen/38437-cafe-lou/"
       ],
       "original_status": "Actueel vermeld in toeristische stadsgids."
+    },
+    {
+      "id": "smaaq-groningen-20261123",
+      "name": "Smaaq",
+      "type": "Daghoreca / wijnbar / borrel",
+      "address": "Astraat 13",
+      "city": "Groningen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk voor koffie, lunch en borrel volgens Discover Groningen.",
+      "alcohol": "Wijnkaart expliciet beschreven door Discover Groningen.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "09:00",
+        "di": "09:00",
+        "wo": "09:00",
+        "do": "09:00",
+        "vr": "09:00",
+        "za": "09:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "18:00",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "17:30"
+      },
+      "last_entry": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website": "",
+      "opening_source": "https://discovergroningen.com/locatie/smaaq/",
+      "closing_source": "https://discovergroningen.com/locatie/smaaq/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Weekuren uit actuele lokale stadsgids; laatste toegang niet gepubliceerd.",
+      "original_status": "Als nieuw concept op bestaande locatie vermeld door Discover Groningen; geen aparte exploitatieverificatie.",
+      "other_sources": [
+        "https://discovergroningen.com/locatie/smaaq/"
+      ]
+    },
+    {
+      "id": "de-heren-van-de-rechter-steenwijk-20261123",
+      "name": "De Heren van de Rechter",
+      "type": "Grand café / restaurant / borrel",
+      "address": "Markt 72",
+      "city": "Steenwijk",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek grand café met terras; eigen website nodigt gasten uit voor koffie, lunch en diner.",
+      "alcohol": "Eigen website heeft drank- en cocktailaanbod, waaronder champagne en gin-tonic.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "12:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "last_entry": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website": "https://www.deherenvanderechter.nl/",
+      "opening_source": "https://www.deherenvanderechter.nl/contact/",
+      "closing_source": "https://www.deherenvanderechter.nl/contact/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Eigen website vermeldt zaterdag 01:00; toeristische gids zaterdag 02:00. Eigen bron aangehouden, conflict vermeld. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://www.deherenvanderechter.nl/portfolio_category/drink-cocktail/",
+        "https://www.visitweerribbenwieden.com/wat-te-doen/uit-eten/restaurants/36847-de-heren-van-de-rechter/"
+      ],
+      "original_status": "Actuele exploitatie ondersteund door officiële website."
     }
   ],
   "admission_policies": [
