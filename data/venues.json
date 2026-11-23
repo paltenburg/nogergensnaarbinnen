@@ -46761,6 +46761,258 @@
       "other_sources": [],
       "original_status": "Eigen actuele website toont exploitatie en reguliere weekuren.",
       "checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-de-schoof-arnhem",
+      "name": "Café de Schoof",
+      "type": "Café / borrelbar",
+      "address": "Korenmarkt 37",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Bier en wijn expliciet genoemd door Korenkwartier: https://www.korenkwartier.nl/deschoof",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/cafe-de-schoof/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Actuele IntoArnhem-gids vermeldt alleen do-zo 16:00-02:00; oudere Korenkwartier-gids vermeldt ook di/wo en za tot 03:00. Niet overgenomen wegens conflict. Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/cafe-de-schoof/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/cafe-de-schoof/",
+      "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-arnhem-arnhem",
+      "name": "Café Arnhem",
+      "type": "Café / borrelbar",
+      "address": "Korenmarkt 18",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Wijn, speciaalbier en cocktails expliciet vermeld door IntoArnhem.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "01:00",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/cafe-arnhem/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/cafe-arnhem/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/cafe-arnhem/",
+      "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-stout-arnhem",
+      "name": "Café Stout",
+      "type": "Café / borrelbar",
+      "address": "Korenmarkt 10",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Wijn, whisky en rum expliciet genoemd in exploitantbeschrijving op IntoArnhem.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "?",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "03:00",
+        "za": "03:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/cafe-stout/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Dinsdag niet genoemd in weekrooster: onbekend, niet als gesloten geïnterpreteerd. Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/cafe-stout/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "19:00",
+        "di": "?",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/cafe-stout/",
+      "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "davo-proeflokaal-arnhem-arnhem",
+      "name": "DAVO Proeflokaal Arnhem",
+      "type": "Café / borrelbar",
+      "address": "Rijnkade 41",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Eigen gebrouwen bier en 15 taps expliciet bevestigd door IntoArnhem.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "23:30",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/davo-proeflokaal/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Ma-wo niet vermeld in bron, daarom onbekend. Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/davo-proeflokaal/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "15:00",
+        "zo": "15:00"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/davo-proeflokaal/",
+      "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "shooters-arnhem-arnhem",
+      "name": "Shooters Arnhem",
+      "type": "Café / borrelbar",
+      "address": "Korenmarkt 39",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Cocktails expliciet genoemd door IntoArnhem.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "01:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "?"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/shooters/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Ma-wo en zo niet vermeld; onbekend. Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/shooters/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "?"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/shooters/",
+      "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "bar-favourite-arnhem",
+      "name": "Bar Favourite",
+      "type": "Café / borrelbar",
+      "address": "Korenmarkt 14",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijke horecalocatie volgens actuele Arnhemse stadsgids IntoArnhem.",
+      "alcohol": "Ambachtelijke bieren en cocktails expliciet genoemd door IntoArnhem.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "01:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Actuele Arnhemse stadsgids IntoArnhem; niet bedrijfseigen rooster",
+      "closing_source": "https://intoarnhem.nl/locatie/favourite/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Ma/di niet vermeld; onbekend. Laatste toegang onbekend.",
+      "features": "Borrel / café",
+      "website": "",
+      "other_sources": [
+        "https://intoarnhem.nl/locatie/favourite/"
+      ],
+      "original_status": "Actueel vermeld als publiek toegankelijke horecazaak in stadsgids; fysieke exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "20:00",
+        "do": "18:00",
+        "vr": "18:00",
+        "za": "18:00",
+        "zo": "18:00"
+      },
+      "opening_source": "https://intoarnhem.nl/locatie/favourite/",
+      "opening_checked_on": "2026-11-23"
     }
   ],
   "admission_policies": [
