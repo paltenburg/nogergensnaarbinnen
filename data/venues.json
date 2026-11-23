@@ -47013,6 +47013,300 @@
       },
       "opening_source": "https://intoarnhem.nl/locatie/favourite/",
       "opening_checked_on": "2026-11-23"
+    },
+    {
+      "id": "cafe-piet-huisman-nijmegen",
+      "name": "Café Piet Huisman",
+      "type": "Café / borrelbar",
+      "address": "Sint Jacobslaan 30",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Speciaalbier, wijn en cocktails expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.piethuisman.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://www.piethuisman.nl/",
+      "other_sources": [
+        "https://www.piethuisman.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "17:00",
+        "di": "17:00",
+        "wo": "17:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "—"
+      },
+      "opening_source": "https://www.piethuisman.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-deut-nijmegen",
+      "name": "Café De Deut",
+      "type": "Café / borrelbar",
+      "address": "Koningstraat 36",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "15 tapbieren en 90 bieren op fles of blik expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:30"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafededeut.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://www.cafededeut.nl/",
+      "other_sources": [
+        "https://www.cafededeut.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://www.cafededeut.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-samson-nijmegen",
+      "name": "Café Samson",
+      "type": "Café / borrelbar",
+      "address": "Houtstraat 4",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Meer dan honderd speciaalbieren, wijn en jenever expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "02:00"
+      },
+      "closing_quality": "Lokale stadsgids IntoNijmegen",
+      "closing_source": "https://www.intonijmegen.com/locaties/2776692657/cafe-samson",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "",
+      "other_sources": [
+        "https://www.intonijmegen.com/locaties/2776692657/cafe-samson"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.intonijmegen.com/locaties/2776692657/cafe-samson",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-van-ouds-nijmegen",
+      "name": "Café Van Ouds",
+      "type": "Café / borrelbar",
+      "address": "Augustijnenstraat 33",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Speciaalbier; besloten groepen buiten reguliere uren expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "?"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://cafevanoudsnijmegen.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://cafevanoudsnijmegen.nl/",
+      "other_sources": [
+        "https://cafevanoudsnijmegen.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "—",
+        "di": "18:00",
+        "wo": "18:00",
+        "do": "18:00",
+        "vr": "16:00",
+        "za": "14:00",
+        "zo": "?"
+      },
+      "opening_source": "https://cafevanoudsnijmegen.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-van-rijn-nijmegen",
+      "name": "Café van Rijn",
+      "type": "Café / borrelbar",
+      "address": "Molenstraat 103A",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Speciaalbier van tap en fles expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "04:00",
+        "wo": "04:30",
+        "do": "04:30",
+        "vr": "04:30",
+        "za": "04:30",
+        "zo": "—"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://cafe-vanrijn.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://cafe-vanrijn.nl/",
+      "other_sources": [
+        "https://cafe-vanrijn.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "18:00",
+        "di": "16:00",
+        "wo": "16:00",
+        "do": "18:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "—"
+      },
+      "opening_source": "https://cafe-vanrijn.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-atlanta-arnhem",
+      "name": "Café Atlanta",
+      "type": "Café / borrelbar",
+      "address": "Staringplein 40",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Acht tapbieren; livemuziek expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "01:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafe-atlanta.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://www.cafe-atlanta.nl/",
+      "other_sources": [
+        "https://www.cafe-atlanta.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "opening_source": "https://www.cafe-atlanta.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-classen-arnhem",
+      "name": "Café Classen",
+      "type": "Café / borrelbar",
+      "address": "Beekstraat 25",
+      "city": "Arnhem",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café volgens actuele website of lokale stadsgids.",
+      "alcohol": "Muziekcafé met borrels en liveoptredens expliciet vermeld door bron.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "22:00",
+        "di": "01:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafeclassen.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Reguliere weekuren; afwijkingen mogelijk. Laatste toegang onbekend. ? betekent niet bevestigd.",
+      "features": "Café / borrel",
+      "website": "https://www.cafeclassen.nl/",
+      "other_sources": [
+        "https://www.cafeclassen.nl/"
+      ],
+      "original_status": "Actuele online vermelding en weekuren; exploitatie niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "14:00",
+        "di": "13:00",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafeclassen.nl/",
+      "opening_checked_on": "2026-11-24"
     }
   ],
   "admission_policies": [
