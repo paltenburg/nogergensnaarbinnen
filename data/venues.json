@@ -46385,6 +46385,56 @@
         "https://www.visitweerribbenwieden.com/wat-te-doen/uit-eten/restaurants/36847-de-heren-van-de-rechter/"
       ],
       "original_status": "Actuele exploitatie ondersteund door officiële website."
+    },
+    {
+      "id": "restaurant-wielens-noord-sleen-20261123",
+      "name": "Restaurant Wielens",
+      "type": "Restaurant / café / borrel",
+      "address": "Dorpsstraat 19",
+      "city": "Noord-Sleen",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website biedt openbare tafelreserveringen voor koffie, lunch, borrel en diner; geen besloten toegang vereist.",
+      "alcohol": "Eigen website noemt expliciet een koud biertje bij bezoek aan restaurant/terras.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "—",
+        "wo": "—",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing": {
+        "ma": "22:00",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "last_entry": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "website": "https://zalencentrumwielens.nl/",
+      "opening_source": "https://zalencentrumwielens.nl/restaurant/openingstijden/",
+      "closing_source": "https://zalencentrumwielens.nl/restaurant/openingstijden/",
+      "checked_on": "2026-11-23",
+      "closing_notes": "Eigen website: maandag en donderdag t/m zondag 11:00–22:00; dinsdag/woensdag niet als reguliere openingsdagen vermeld. Keukentijd 12:00–19:00 nadrukkelijk niet als café-sluituur gebruikt. Laatste toegang onbekend.",
+      "other_sources": [
+        "https://zalencentrumwielens.nl/trailcenter/",
+        "https://zalencentrumwielens.nl/direct-reserveren/",
+        "https://zalencentrumwielens.nl/contact/"
+      ],
+      "original_status": "Actuele eigen website publiceert reserveringen en openingstijden."
     }
   ],
   "admission_policies": [
