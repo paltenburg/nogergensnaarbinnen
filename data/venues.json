@@ -39612,6 +39612,15 @@
       "access": "Publiek toegankelijk volgens eigen website",
       "alcohol": "Alcoholhoudende dranken volgens eigen website / caféaanbod",
       "selection": "Voorlopig",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
       "closing": {
         "ma": "23:00",
         "di": "23:00",
