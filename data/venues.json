@@ -47811,6 +47811,88 @@
       "checked_on": "2026-11-24",
       "opening_checked_on": "2026-11-24",
       "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd."
+    },
+    {
+      "id": "grand-cafe-t-raadhuys-stadskanaal",
+      "name": "Grand Café ’t Raadhuys",
+      "address": "Raadhuisplein 30",
+      "city": "Stadskanaal",
+      "region": "groningen",
+      "country": "Nederland",
+      "type": "Eetcafé / grand café",
+      "website": "https://grandcaferaadhuys.com/",
+      "opening": {
+        "ma": "06:30",
+        "di": "06:30",
+        "wo": "06:30",
+        "do": "06:30",
+        "vr": "06:30",
+        "za": "08:00",
+        "zo": "08:00"
+      },
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "23:00"
+      },
+      "access": "Eigen website nodigt reguliere bezoekers uit; publieke horeca.",
+      "alcohol": "Eigen drankenkaart vermeldt bier en cocktails.",
+      "selection": "Voorlopig",
+      "closing_source": "https://grandcaferaadhuys.com/",
+      "opening_source": "https://grandcaferaadhuys.com/",
+      "closing_quality": "Eigen website",
+      "closing_notes": "Regulier gepubliceerd weekrooster; laatste toegang onbekend.",
+      "checked_on": "2026-11-25",
+      "opening_checked_on": "2026-11-25",
+      "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd.",
+      "other_sources": [
+        "https://grandcaferaadhuys.com/drankenkaart/",
+        "https://grandcaferaadhuys.com/raadhuys/",
+        "https://www.diner-cadeau.nl/dinerbon-restaurants/grand-cafe-t-raadhuys/"
+      ]
+    },
+    {
+      "id": "de-rustende-jager-oldeholtpade",
+      "name": "De Rustende Jager",
+      "address": "Hoofdweg 162",
+      "city": "Oldeholtpade",
+      "region": "friesland",
+      "country": "Nederland",
+      "type": "Eetcafé / grand café",
+      "website": "https://rustendejager.nl/",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "01:00",
+        "zo": "22:00"
+      },
+      "access": "Eigen website nodigt reguliere bezoekers uit; publieke horeca.",
+      "alcohol": "Eigen website beschrijft historische dorpskroeg en borrelgelegenheid; specifieke drankenkaart niet gecontroleerd.",
+      "selection": "Voorlopig",
+      "closing_source": "https://rustendejager.nl/",
+      "opening_source": "https://rustendejager.nl/",
+      "closing_quality": "Eigen website",
+      "closing_notes": "Regulier gepubliceerd weekrooster; laatste toegang onbekend.",
+      "checked_on": "2026-11-25",
+      "opening_checked_on": "2026-11-25",
+      "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd.",
+      "other_sources": []
     }
   ],
   "admission_policies": [
