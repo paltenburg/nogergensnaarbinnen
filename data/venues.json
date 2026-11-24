@@ -47642,6 +47642,91 @@
       },
       "opening_source": "https://www.intonijmegen.com/locaties/392286047/cafe-maxim",
       "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-mug-nijmegen",
+      "name": "Café De Mug",
+      "address": "Pauwelstraat 9",
+      "type": "Biercafé",
+      "opening": {
+        "ma": "—",
+        "di": "13:00",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "20:00"
+      },
+      "website": "",
+      "closing_source": "https://www.intonijmegen.com/locaties/1375128479/cafe-de-mug",
+      "closing_quality": "Officiële stadsgids",
+      "closing_notes": "Stadsgids geeft volledig rooster; Cylex wijkt woensdag en zaterdag af, stadsgids heeft voorrang. Laatste toegang onbekend.",
+      "access": "Stadsgids nodigt publiek uit binnen te lopen.",
+      "alcohol": "Stadsgids bevestigt tapbier, wijn en whisky.",
+      "other_sources": [
+        "https://www.cylex.nl/bedrijf/mug-caf%C3%A9-de-10859202.html"
+      ],
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-24",
+      "opening_source": "https://www.intonijmegen.com/locaties/1375128479/cafe-de-mug",
+      "opening_checked_on": "2026-11-24",
+      "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
+      "features": "Centrum"
+    },
+    {
+      "id": "cafe-de-fuik-nijmegen",
+      "name": "Café De Fuik",
+      "address": "Eerste Walstraat 6",
+      "type": "Feestcafé",
+      "opening": {
+        "ma": "19:00",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "19:00"
+      },
+      "closing": {
+        "ma": "Varieert",
+        "di": "Varieert",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
+      },
+      "website": "https://www.cafedefuik.nl/",
+      "closing_source": "https://www.cafedefuik.nl/contact/",
+      "closing_quality": "Eigen website",
+      "closing_notes": "Eigen contactpagina vermeldt dagelijks vanaf 19:00 tot laatste gast; geen vast sluituur of laatste toegang.",
+      "access": "Eigen site nodigt bezoekers uit binnen te lopen.",
+      "alcohol": "Eigen homepage bevestigt bier en drankacties.",
+      "other_sources": [
+        "https://www.cafedefuik.nl/",
+        "https://www.intonijmegen.com/locaties/2821282535/cafe-de-fuik-1"
+      ],
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "selection": "Voorlopig",
+      "checked_on": "2026-11-24",
+      "opening_source": "https://www.cafedefuik.nl/contact/",
+      "opening_checked_on": "2026-11-24",
+      "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
+      "features": "Centrum"
     }
   ],
   "admission_policies": [
