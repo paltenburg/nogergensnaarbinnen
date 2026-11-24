@@ -47307,6 +47307,132 @@
       },
       "opening_source": "https://www.cafeclassen.nl/",
       "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-plak-nijmegen",
+      "name": "Café de Plak",
+      "type": "Café / borrel",
+      "address": "Bloemerstraat 90",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website en locatieomschrijving.",
+      "alcohol": "Alcoholische dranken expliciet vermeld.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "23:00",
+        "di": "23:00",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafedeplak.nl/contact",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Regulier weekrooster; laatste toegang onbekend. ",
+      "features": "Café / borrel",
+      "website": "https://www.cafedeplak.nl/contact",
+      "other_sources": [
+        "https://www.cafedeplak.nl/"
+      ],
+      "original_status": "Actuele eigen website met weekrooster; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://www.cafedeplak.nl/contact",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "de-hemel-nijmegen",
+      "name": "De Hemel",
+      "type": "Café / borrel",
+      "address": "Franseplaats 1",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website en locatieomschrijving.",
+      "alcohol": "Huisgebrouwen bier en distillaten.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://restaurantdehemel.nl/en/opening-hours/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Regulier weekrooster; laatste toegang onbekend. ",
+      "features": "Café / borrel",
+      "website": "https://restaurantdehemel.nl/en/opening-hours/",
+      "other_sources": [
+        "https://www.visitnijmegen.com/locaties/4160421158/de-hemel-de-kracht-van-ambacht"
+      ],
+      "original_status": "Actuele eigen website met weekrooster; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "12:00",
+        "di": "12:00",
+        "wo": "12:00",
+        "do": "12:00",
+        "vr": "12:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://restaurantdehemel.nl/en/opening-hours/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-herberg-ommen",
+      "name": "Café De Herberg",
+      "type": "Café / borrel",
+      "address": "Brugstraat 27",
+      "city": "Ommen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website en locatieomschrijving.",
+      "alcohol": "Bier expliciet vermeld in Uitagenda.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "00:00",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "00:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://deherbergommen.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Regulier weekrooster; laatste toegang onbekend. Natuurlijk Ommen vermeldt ruimere tijden; eigen website gevolgd.",
+      "features": "Café / borrel",
+      "website": "https://deherbergommen.nl/",
+      "other_sources": [
+        "https://www.uitagenda.nl/locaties/cafe-de-herberg"
+      ],
+      "original_status": "Actuele eigen website met weekrooster; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "13:00",
+        "di": "13:00",
+        "wo": "13:00",
+        "do": "13:00",
+        "vr": "13:00",
+        "za": "13:00",
+        "zo": "13:00"
+      },
+      "opening_source": "https://deherbergommen.nl/",
+      "opening_checked_on": "2026-11-24"
     }
   ],
   "admission_policies": [
