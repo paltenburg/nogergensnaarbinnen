@@ -47517,6 +47517,131 @@
       },
       "opening_source": "https://cafedeopera.nl/contact/",
       "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-jos-nijmegen",
+      "name": "Café Jos Meesterschenkerij",
+      "type": "Café / borrel",
+      "address": "Daalseweg 309",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café; borrel zonder maaltijd.",
+      "alcohol": "Bier, wijn en whisky",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "01:00",
+        "wo": "01:00",
+        "do": "01:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "20:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.cafejos.nl/contact",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Laatste toegang onbekend.",
+      "features": "Café / borrel",
+      "website": "https://www.cafejos.nl/",
+      "other_sources": [],
+      "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "—",
+        "di": "15:00",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "14:00"
+      },
+      "opening_source": "https://www.cafejos.nl/contact",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-faber-nijmegen",
+      "name": "Café Faber",
+      "type": "Café / borrel",
+      "address": "Van Broeckhuysenstraat 12-14",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café; borrel zonder maaltijd.",
+      "alcohol": "Speciaalbier, wijn en gin-tonic",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.intonijmegen.com/locaties/630363978/cafe-faber-1",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Eigen website vermeldt alleen 'sluit'; stadsgids noemt 02:00, andere gids afwijkende uren. Laatste toegang onbekend.",
+      "features": "Café / borrel",
+      "website": "https://cafefaber.nl/",
+      "other_sources": [
+        "https://cafefaber.nl/contact/",
+        "https://nijmegen-nieuws.nl/adressen/cafe-faber-van-broeckhuysenstraat/"
+      ],
+      "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "11:00",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://cafefaber.nl/contact/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-maxim-nijmegen",
+      "name": "Café Maxim",
+      "type": "Café / borrel",
+      "address": "Burghardt van den Berghstraat 87-89",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk café; borrel zonder maaltijd.",
+      "alcohol": "Bier",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "closing_quality": "Onbekend",
+      "closing_source": "https://www.intonijmegen.com/locaties/392286047/cafe-maxim",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Stadsgids en Tablova publiceren afwijkende weekuren; eigen rooster niet bevestigd. Laatste toegang onbekend.",
+      "features": "Café / borrel",
+      "website": "https://cafemaxim.nl/",
+      "other_sources": [
+        "https://tablova.nl/zaak/nijmegen/cafe-maxim-n2847308996"
+      ],
+      "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening_source": "https://www.intonijmegen.com/locaties/392286047/cafe-maxim",
+      "opening_checked_on": "2026-11-24"
     }
   ],
   "admission_policies": [
