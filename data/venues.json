@@ -47727,6 +47727,90 @@
       "opening_checked_on": "2026-11-24",
       "original_status": "Actuele online bron; niet ter plaatse gecontroleerd.",
       "features": "Centrum"
+    },
+    {
+      "id": "cafe-de-bank-veendam",
+      "name": "Café De Bank",
+      "address": "Beneden Oosterdiep 25",
+      "website": "https://cafedebankveendam.nl/",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "?"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "00:00",
+        "do": "00:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "?"
+      },
+      "alcohol": "Eigen arrangementenpagina bevestigt bier, wijn en cocktails.",
+      "other_sources": [
+        "https://cafedebankveendam.nl/index.php/feestenenpartijen/",
+        "https://cafedebankveendam.nl/index.php/diner/"
+      ],
+      "closing_notes": "Eigen site geeft zondag uitsluitend verwijzing naar Facebook; uren en laatste toegang onbekend.",
+      "type": "Eetcafé / grand café",
+      "city": "Veendam",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt reguliere bezoekers uit voor horeca; besloten partijen zijn niet de enige activiteit.",
+      "selection": "Voorlopig",
+      "closing_source": "https://cafedebankveendam.nl/",
+      "opening_source": "https://cafedebankveendam.nl/",
+      "closing_quality": "Eigen website",
+      "checked_on": "2026-11-24",
+      "opening_checked_on": "2026-11-24",
+      "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd."
+    },
+    {
+      "id": "grand-cafe-java-veendam",
+      "name": "Grand Café Java",
+      "address": "Prins Hendrikplein 7",
+      "website": "https://www.grandcafejavaveendam.nl/",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "23:00"
+      },
+      "alcohol": "Eigen site biedt borrels; externe horecabron classificeert als café/kroeg.",
+      "other_sources": [
+        "https://www.cylex.nl/bedrijf/restaurant---grand-caf%C3%A9-java-13802033.html",
+        "https://www.hfsfreelancers.nl/locaties/veendam/restaurants/bij-java"
+      ],
+      "closing_notes": "Eigen weekrooster heeft voorrang op afwijkende gidsuren. Laatste toegang onbekend.",
+      "type": "Eetcafé / grand café",
+      "city": "Veendam",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt reguliere bezoekers uit voor horeca; besloten partijen zijn niet de enige activiteit.",
+      "selection": "Voorlopig",
+      "closing_source": "https://www.grandcafejavaveendam.nl/",
+      "opening_source": "https://www.grandcafejavaveendam.nl/",
+      "closing_quality": "Eigen website",
+      "checked_on": "2026-11-24",
+      "opening_checked_on": "2026-11-24",
+      "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd."
     }
   ],
   "admission_policies": [
