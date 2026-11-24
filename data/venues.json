@@ -47433,6 +47433,90 @@
       },
       "opening_source": "https://deherbergommen.nl/",
       "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-blonde-pater-nijmegen",
+      "name": "Café de Blonde Pater",
+      "type": "Café / borrel",
+      "address": "Houtstraat 62",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website; borrel zonder maaltijd.",
+      "alcohol": "Wijn en speciaalbier",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "19:00",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "19:00",
+        "za": "19:00",
+        "zo": "19:00"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://blondepater.nl/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Eigen website gevolgd; stadsgids vermeldt kortere uren op ma–do. Laatste toegang onbekend.",
+      "features": "Café / borrel",
+      "website": "https://blondepater.nl/",
+      "other_sources": [
+        "https://www.intonijmegen.com/locaties/3372194341/cafe-de-blonde-pater-1"
+      ],
+      "original_status": "Actuele eigen website; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "08:30",
+        "di": "08:30",
+        "wo": "08:30",
+        "do": "08:30",
+        "vr": "08:30",
+        "za": "08:30",
+        "zo": "09:30"
+      },
+      "opening_source": "https://blondepater.nl/",
+      "opening_checked_on": "2026-11-24"
+    },
+    {
+      "id": "cafe-de-opera-nijmegen",
+      "name": "Café de Opera",
+      "type": "Café / borrel",
+      "address": "Koningstraat 34",
+      "city": "Nijmegen",
+      "region": "gelderland",
+      "country": "Nederland",
+      "access": "Publiek toegankelijk volgens eigen website; borrel zonder maaltijd.",
+      "alcohol": "Speciaalbier, wijn en cocktails",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "02:00",
+        "di": "02:00",
+        "wo": "02:00",
+        "do": "02:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "01:30"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://cafedeopera.nl/contact/",
+      "checked_on": "2026-11-24",
+      "closing_notes": "Eigen homepage en contactpagina stemmen overeen; stadsgids wijkt af. Laatste toegang onbekend.",
+      "features": "Café / borrel",
+      "website": "https://cafedeopera.nl/",
+      "other_sources": [
+        "https://www.intonijmegen.com/locaties/3438359167/cafe-de-opera"
+      ],
+      "original_status": "Actuele eigen website; niet ter plaatse gecontroleerd.",
+      "opening": {
+        "ma": "10:00",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "11:00"
+      },
+      "opening_source": "https://cafedeopera.nl/contact/",
+      "opening_checked_on": "2026-11-24"
     }
   ],
   "admission_policies": [
