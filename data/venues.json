@@ -22183,8 +22183,8 @@
       "website": "https://www.eetcafehetwapen.nl/",
       "website_checked_on": "2026-10-30",
       "checked_on": "2026-10-30",
-      "opening_source": "https://www.eetcafehetwapen.nl/",
-      "opening_checked_on": "2026-10-30",
+      "opening_source": "https://www.eetcafehetwapen.nl/contact/",
+      "opening_checked_on": "2026-11-25",
       "other_sources": [
         "https://www.eetcafehetwapen.nl/menukaart/",
         "https://www.eetcafehetwapen.nl/contact/",
@@ -47893,6 +47893,47 @@
       "opening_checked_on": "2026-11-25",
       "original_status": "Actuele eigen website met regulier weekrooster; niet ter plaatse gecontroleerd.",
       "other_sources": []
+    },
+    {
+      "id": "grand-cafe-carambole-winschoten",
+      "name": "Grand Café Carambole",
+      "type": "Biercafé / grand café",
+      "address": "Blijhamsterstraat 2",
+      "city": "Winschoten",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt reguliere bezoekers uit aan de bar; sommige evenementen hebben entree.",
+      "alcohol": "Eigen bierpagina bevestigt speciaalbier en pils; homepage noemt ook wijn en gedistilleerd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "01:00",
+        "vr": "02:00",
+        "za": "02:00",
+        "zo": "Event"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "19:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "Event"
+      },
+      "closing_quality": "Eigen website",
+      "closing_source": "https://www.carambole-winschoten.nl/contact/",
+      "opening_source": "https://www.carambole-winschoten.nl/contact/",
+      "checked_on": "2026-11-25",
+      "opening_checked_on": "2026-11-25",
+      "closing_notes": "Zondag uitsluitend bij bluesmiddagen en quizavonden; besloten feesten op andere dagen mogelijk. Laatste toegang onbekend.",
+      "website": "https://www.carambole-winschoten.nl/",
+      "other_sources": [
+        "https://www.carambole-winschoten.nl/meer-dan-honderd-soorten-speciale-bieren/"
+      ],
+      "original_status": "Eigen website publiceert regulier weekrooster en evenementen; niet ter plaatse gecontroleerd."
     }
   ],
   "admission_policies": [
