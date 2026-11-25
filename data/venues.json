@@ -42141,40 +42141,45 @@
     },
     {
       "country": "Nederland",
-      "access": "Publiek toegankelijk volgens Drenthe.nl",
+      "access": "Eigen website nodigt publiek uit voor borrel, diner en live muziek; ook los bier aan de bar.",
       "selection": "Voorlopig",
-      "checked_on": "2026-11-20",
-      "opening_checked_on": "2026-11-20",
-      "closing_quality": "Regionale toeristische bron; geen garantie op actuele sluiting",
-      "original_status": "Actueel vermeld in toeristische gids",
+      "checked_on": "2026-11-26",
+      "opening_checked_on": "2026-11-26",
+      "closing_quality": "Eigen website; zondag tegenstrijdig, onbekend gelaten.",
+      "original_status": "Eigen actieve website met agenda en menukaarten.",
       "id": "grand-cafe-zuidlaren",
       "name": "Grand Café Zuidlaren",
       "type": "Grand café",
       "address": "De Millystraat 8",
       "city": "Zuidlaren",
       "region": "drenthe",
-      "alcohol": "Borrelen aan de bar; specifiek alcoholassortiment nog afzonderlijk verifiëren",
+      "alcohol": "Eigen menupagina vermeldt bierkaart, borrelkaart en High Wine.",
       "opening": {
-        "ma": "14:00",
-        "di": "14:00",
-        "wo": "14:00",
-        "do": "14:00",
-        "vr": "14:00",
-        "za": "14:00",
-        "zo": "14:00"
+        "ma": "15:00",
+        "di": "—",
+        "wo": "15:00",
+        "do": "15:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "15:00"
       },
       "closing": {
         "ma": "23:00",
-        "di": "23:00",
+        "di": "—",
         "wo": "23:00",
         "do": "23:00",
         "vr": "23:00",
         "za": "23:00",
-        "zo": "23:00"
+        "zo": "?"
       },
-      "website": "https://www.drenthe.nl/locaties/3247361973/grand-cafe-zuidlaren",
-      "opening_source": "https://www.drenthe.nl/locaties/3247361973/grand-cafe-zuidlaren",
-      "closing_source": "https://www.drenthe.nl/locaties/3247361973/grand-cafe-zuidlaren"
+      "website": "https://grandcafezuidlaren.nl/",
+      "opening_source": "https://grandcafezuidlaren.nl/",
+      "closing_source": "https://grandcafezuidlaren.nl/",
+      "closing_notes": "Dinsdag gesloten; zondag homepage en menupagina 21:00, contactpagina 23:00. Overige dagen 23:00.",
+      "other_sources": [
+        "https://grandcafezuidlaren.nl/contact-grand-cafe-zuidlaren/",
+        "https://grandcafezuidlaren.nl/grand-cafe/menukaart/"
+      ]
     },
     {
       "country": "Nederland",
@@ -47934,6 +47939,47 @@
         "https://www.carambole-winschoten.nl/meer-dan-honderd-soorten-speciale-bieren/"
       ],
       "original_status": "Eigen website publiceert regulier weekrooster en evenementen; niet ter plaatse gecontroleerd."
+    },
+    {
+      "id": "cafe-rickys-uithuizen",
+      "name": "Restaurant Café Ricky’s",
+      "type": "Restaurant / nachtcafé",
+      "address": "Hoofdstraat-Oost 27",
+      "city": "Uithuizen",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor diner, borrel en dansen.",
+      "alcohol": "Bier bevestigd in bezoekersrecensies; eigen website vermeldt borrels.",
+      "selection": "Voorlopig",
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "17:00",
+        "vr": "17:00",
+        "za": "17:00",
+        "zo": "18:00"
+      },
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "23:00",
+        "vr": "02:00",
+        "za": "04:00",
+        "zo": "23:00"
+      },
+      "website": "https://www.caferickys.nl/",
+      "opening_source": "https://www.caferickys.nl/",
+      "closing_source": "https://www.caferickys.nl/",
+      "closing_quality": "Eigen website publiceert weekrooster.",
+      "checked_on": "2026-11-26",
+      "opening_checked_on": "2026-11-26",
+      "original_status": "Eigen website actief; adres volgens externe horecagids.",
+      "other_sources": [
+        "https://www.hfsfreelancers.nl/locaties/uithuizen/bars/cafe-rickys",
+        "https://nl.restaurantguru.com/Cafe-Rickys-Uithuizen"
+      ]
     }
   ],
   "admission_policies": [
