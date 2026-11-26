@@ -47980,6 +47980,50 @@
         "https://www.hfsfreelancers.nl/locaties/uithuizen/bars/cafe-rickys",
         "https://nl.restaurantguru.com/Cafe-Rickys-Uithuizen"
       ]
+    },
+    {
+      "id": "grand-cafe-jipp-ommen",
+      "name": "Grand Café Jipp",
+      "type": "Grand café",
+      "address": "Kerkplein 3",
+      "city": "Ommen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor koffie, borrel, lunch en diner.",
+      "alcohol": "Eigen website vermeldt bier en wijn.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "?",
+        "vr": "00:00",
+        "za": "00:00",
+        "zo": "22:00"
+      },
+      "closing_quality": "Officiële website; donderdag tegenstrijdig",
+      "closing_source": "https://grandcafejipp.nl/",
+      "checked_on": "2026-11-26",
+      "closing_notes": "Homepage noemt donderdag 22:00, contactpagina 23:00; onbekend. Laatste toegang onbekend.",
+      "features": "Borrel, terras",
+      "website": "https://grandcafejipp.nl/",
+      "other_sources": [
+        "https://grandcafejipp.nl/contact/"
+      ],
+      "original_status": "Actuele eigen website met kerstaanbod en vacature.",
+      "geo": null,
+      "opening": {
+        "ma": "—",
+        "di": "10:00",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "12:00"
+      },
+      "opening_source": "https://grandcafejipp.nl/",
+      "opening_checked_on": "2026-11-26",
+      "opening_quality": "Officiële website"
     }
   ],
   "admission_policies": [
