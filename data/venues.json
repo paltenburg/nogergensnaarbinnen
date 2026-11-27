@@ -23179,21 +23179,21 @@
         "zo": "?"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
+        "ma": "—",
+        "di": "—",
         "wo": "21:00",
         "do": "21:00",
         "vr": "21:00",
         "za": "21:00",
         "zo": "21:00"
       },
-      "closing_quality": "Officiële footer geeft restaurant wo–zo tot 21:00; FAQ noemt woensdag vanaf 16:00 en do–zo vanaf 11:30 terwijl footer wo–zo vanaf 11:00 zegt. Openingen door conflict onbekend. Ticketfeesten kunnen na 21:00 doorgaan; niet als reguliere sluiting beschouwd.",
+      "closing_quality": "Officiële website en VVV",
       "closing_source": "https://www.bergsmaeasterein.nl/",
-      "closing_notes": "30-10-2026: officiële https://www.bergsmaeasterein.nl/ bevestigt Sibadawei 2, publieke restaurant/café-functie, bier/wijn en wo–zo restaurant-einduur 21:00. Beginuren binnen dezelfde site inconsistent (FAQ wo 16:00/do–zo 11:30, footer wo–zo 11:00), dus beginuren onbekend. Ma/di alleen op afspraak. Eventagenda toont afzonderlijke ticketfeesten tot 02:00/03:00, zoals https://www.bergsmaeasterein.nl/feesten/seizoensopening-bergsma; deze einduren gelden NIET voor normale café-inloop. Laatste toegang niet bevestigd.",
+      "closing_notes": "Regulier restaurant sluit wo–zo 21:00; ma–di uitsluitend op afspraak. Evenementen hebben afzonderlijke tijden; laatste toegang onbekend.",
       "features": "D0 Súdwest-Fryslân / Easterein; restaurant, dorpscafé, eventnachten",
       "website": "https://www.bergsmaeasterein.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-27",
       "opening_source": "",
       "other_sources": [
         "https://www.bergsmaeasterein.nl/feesten/seizoensopening-bergsma",
@@ -48065,6 +48065,48 @@
       "original_status": "Eigen website met regulier weekrooster en café-aanbod.",
       "geo": null,
       "opening_source": "https://www.pompstee.nl/contact/",
+      "opening_checked_on": "2026-11-27"
+    },
+    {
+      "id": "foodcafe-burgers-en-zo-roden",
+      "name": "Foodcafé Burgers En Zo",
+      "type": "Foodcafé",
+      "address": "Heerestraat 8",
+      "city": "Roden",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Lokale bezoekerssite nodigt publiek uit voor lunch, diner en borrel.",
+      "alcohol": "Roden.nl vermeldt expliciet speciaalbier.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "21:30",
+        "di": "—",
+        "wo": "21:30",
+        "do": "21:30",
+        "vr": "21:30",
+        "za": "21:30",
+        "zo": "21:30"
+      },
+      "opening": {
+        "ma": "11:00",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Lokale bezoekerssite; niet eigen website",
+      "closing_source": "https://roden.nl/foodcafe-burgers-en-zo/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Weekrooster volgens Roden.nl; laatste toegang onbekend.",
+      "website": "https://www.burgersenzo.com/",
+      "other_sources": [
+        "https://roden.nl/foodcafe-burgers-en-zo/"
+      ],
+      "original_status": "Actuele vermelding op lokale bezoekerssite.",
+      "geo": null,
+      "opening_source": "https://roden.nl/foodcafe-burgers-en-zo/",
       "opening_checked_on": "2026-11-27"
     }
   ],
