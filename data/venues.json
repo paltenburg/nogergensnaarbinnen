@@ -48273,6 +48273,90 @@
       "geo": null,
       "opening_source": "https://restaurantpuik.nl/",
       "opening_checked_on": "2026-11-27"
+    },
+    {
+      "id": "t-mingelmous-stadskanaal",
+      "name": "Café ’t Mingelmous",
+      "type": "Café",
+      "address": "Menistenplein 10",
+      "city": "Stadskanaal",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen contactpagina nodigt bezoekers uit om binnen te lopen.",
+      "alcohol": "Eigen cocktailpagina vermeldt Jack Daniel’s in maandcocktail.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "00:00",
+        "wo": "00:00",
+        "do": "01:00",
+        "vr": "?",
+        "za": "?",
+        "zo": "00:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "19:00",
+        "wo": "19:00",
+        "do": "19:00",
+        "vr": "15:00",
+        "za": "14:00",
+        "zo": "16:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.mingelmous.cafe/contact",
+      "checked_on": "2026-11-28",
+      "closing_notes": "Vrijdag en zaterdag alleen begintijd gepubliceerd. Laatste toegang onbekend.",
+      "website": "https://www.mingelmous.cafe/",
+      "other_sources": [
+        "https://www.mingelmous.cafe/cocktails-by-isaak"
+      ],
+      "original_status": "Actieve eigen website met actueel aanbod in 2026.",
+      "geo": null,
+      "opening_source": "https://www.mingelmous.cafe/contact",
+      "opening_checked_on": "2026-11-28"
+    },
+    {
+      "id": "t-ponkje-woudsend",
+      "name": "Kerkrestaurant ’t Ponkje",
+      "type": "Restaurant/borrelgelegenheid",
+      "address": "Fermaningsteech 1",
+      "city": "Woudsend",
+      "region": "friesland",
+      "country": "Nederland",
+      "access": "Eigen website biedt lunch, diner en borrel; maandag en dinsdag uitsluitend op reservering.",
+      "alcohol": "Lunchkaart 2026 vermeldt wijn, bier en gedistilleerd.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "?",
+        "di": "?",
+        "wo": "—",
+        "do": "—",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening": {
+        "ma": "?",
+        "di": "?",
+        "wo": "—",
+        "do": "—",
+        "vr": "12:00",
+        "za": "12:00",
+        "zo": "12:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.ponkje.nl/",
+      "checked_on": "2026-11-28",
+      "closing_notes": "Ma/di uitsluitend op reservering, geen vaste uren; wo/do gesloten behoudens groepen op afspraak. Actuele homepage gebruikt dit rooster, oudere subpagina’s wijken af. Laatste toegang onbekend.",
+      "website": "https://www.ponkje.nl/",
+      "other_sources": [
+        "https://www.ponkje.nl/wp-content/uploads/2026/04/Ponkje-Lunch-310326.pdf"
+      ],
+      "original_status": "Actieve eigen website met actueel aanbod in 2026.",
+      "geo": null,
+      "opening_source": "https://www.ponkje.nl/",
+      "opening_checked_on": "2026-11-28"
     }
   ],
   "admission_policies": [
