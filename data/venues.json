@@ -48024,6 +48024,48 @@
       "opening_source": "https://grandcafejipp.nl/",
       "opening_checked_on": "2026-11-26",
       "opening_quality": "Officiële website"
+    },
+    {
+      "id": "de-pompstee-roden",
+      "name": "De Pompstee",
+      "type": "Café-restaurant",
+      "address": "Brink 25",
+      "city": "Roden",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Eigen website beschrijft laagdrempelig publiek café-restaurant.",
+      "alcohol": "Eigen website verwijst naar speciaalbieren en tapbieren.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "01:00",
+        "za": "02:00",
+        "zo": "22:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "11:00",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "11:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.pompstee.nl/contact/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Regulier weekrooster; laatste toegang onbekend.",
+      "website": "https://www.pompstee.nl/",
+      "other_sources": [
+        "https://www.pompstee.nl/cafe-restaurant/"
+      ],
+      "original_status": "Eigen website met regulier weekrooster en café-aanbod.",
+      "geo": null,
+      "opening_source": "https://www.pompstee.nl/contact/",
+      "opening_checked_on": "2026-11-27"
     }
   ],
   "admission_policies": [
