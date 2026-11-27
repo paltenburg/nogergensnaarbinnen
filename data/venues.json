@@ -48193,6 +48193,86 @@
         "https://www.zuidwestdrenthe.nl/nl/locaties/720929482/t-keernpunt"
       ],
       "original_status": "Actieve eigen restaurantwebsite met reserveringsmogelijkheid"
+    },
+    {
+      "id": "charlies-pub-ommen",
+      "name": "Charlie's Pub",
+      "type": "Pub",
+      "address": "Bermerstraat 13",
+      "city": "Ommen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit.",
+      "alcohol": "Eigen website vermeldt Guinness, speciaalbier en whisky.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "22:00",
+        "vr": "01:00",
+        "za": "01:00",
+        "zo": "—"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "18:00",
+        "vr": "15:00",
+        "za": "15:00",
+        "zo": "—"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://charliespub.nl/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Laatste toegang onbekend.",
+      "website": "https://charliespub.nl/",
+      "other_sources": [],
+      "original_status": "Actieve eigen website.",
+      "geo": null,
+      "opening_source": "https://charliespub.nl/",
+      "opening_checked_on": "2026-11-27"
+    },
+    {
+      "id": "restaurant-puik-ommen",
+      "name": "Restaurant Puik",
+      "type": "Restaurant",
+      "address": "Markt 48",
+      "city": "Ommen",
+      "region": "overijssel",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit.",
+      "alcohol": "Eigen website biedt high beer, high wine en cocktails aan.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "?",
+        "wo": "?",
+        "do": "?",
+        "vr": "?",
+        "za": "?",
+        "zo": "?"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "09:30",
+        "wo": "10:00",
+        "do": "10:00",
+        "vr": "10:00",
+        "za": "10:00",
+        "zo": "10:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://restaurantpuik.nl/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Laatste toegang onbekend.",
+      "website": "https://restaurantpuik.nl/",
+      "other_sources": [],
+      "original_status": "Actieve eigen website.",
+      "geo": null,
+      "opening_source": "https://restaurantpuik.nl/",
+      "opening_checked_on": "2026-11-27"
     }
   ],
   "admission_policies": [
