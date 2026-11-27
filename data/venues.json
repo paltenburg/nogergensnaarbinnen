@@ -22497,12 +22497,12 @@
         "zo": "?"
       },
       "closing_quality": "Nieuwe exploitantwebsite meldt dagelijks welkom vanaf 10:00, geen einduren; keuken vanaf 12:00, reserveren tot 19:30 is geen cafésluiting. In november–maart aangepaste uren mogelijk.",
-      "closing_source": "",
-      "closing_notes": "30-10-2026: https://www.brasseriedehildenberg.nl/ en https://brasseriedehildenberg.nl/index.php/reserveren tonen actuele Brasserie de Hildenberg op Gruun 3, dagelijks vanaf 10:00, keuken vanaf 12:00, reserveren tot 19:30, naseizoen afwijkend. Niet verwarren met oude Grand Café De Hildenberg op Gruun 5: https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha beschrijft voormalig eigenaar Johan Herder die nu catering doet. Zonder expliciete actuele alcoholkaart of sluituur blijft dit record 'Nog te controleren'; geen oude gidsuren overgenomen. 31-10-2026 aanvullende veiligheidscontrole: vanaf november is seizoensafwijking expliciet mogelijk; vaste 10:00 dagstarts uit weekvelden verwijderd totdat winterrooster bevestigd is.",
+      "closing_source": "https://www.brasseriedehildenberg.nl/",
+      "closing_notes": "30-10-2026: https://www.brasseriedehildenberg.nl/ en https://brasseriedehildenberg.nl/index.php/reserveren tonen actuele Brasserie de Hildenberg op Gruun 3, dagelijks vanaf 10:00, keuken vanaf 12:00, reserveren tot 19:30, naseizoen afwijkend. Niet verwarren met oude Grand Café De Hildenberg op Gruun 5: https://menukaart.menu/restaurants/appelscha-1/grand-cafe-de-hildenberg-appelscha beschrijft voormalig eigenaar Johan Herder die nu catering doet. Zonder expliciete actuele alcoholkaart of sluituur blijft dit record 'Nog te controleren'; geen oude gidsuren overgenomen. 31-10-2026 aanvullende veiligheidscontrole: vanaf november is seizoensafwijking expliciet mogelijk; vaste 10:00 dagstarts uit weekvelden verwijderd totdat winterrooster bevestigd is. | 27-11-2026: eigen website bevestigt regulier dagelijks vanaf 10:00, winteruren kunnen afwijken; 19:30 is laatste dinerreservering, geen sluituur.",
       "features": "D0 Ooststellingwerf / Appelscha; nieuwe brasserie Gruun 3, opvolging oude Grand Café",
       "website": "https://www.brasseriedehildenberg.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-31",
+      "checked_on": "2026-11-27",
       "opening_source": "https://www.brasseriedehildenberg.nl/",
       "opening_checked_on": "2026-10-31",
       "other_sources": [
@@ -48154,6 +48154,45 @@
       "geo": null,
       "opening_source": "https://www.eetcafedeopstal.nl/",
       "opening_checked_on": "2026-11-27"
+    },
+    {
+      "id": "t-keernpunt-diever",
+      "name": "’t Keernpunt",
+      "type": "Restaurant/terras",
+      "address": "Hoofdstraat 48",
+      "city": "Diever",
+      "region": "drenthe",
+      "country": "Nederland",
+      "access": "Publiek restaurant en terras volgens eigen website.",
+      "alcohol": "Speciaalbieren van de tap volgens regionale toeristische gids.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "20:00",
+        "do": "20:00",
+        "vr": "20:00",
+        "za": "20:00",
+        "zo": "20:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "11:00",
+        "do": "11:00",
+        "vr": "11:00",
+        "za": "11:00",
+        "zo": "13:00"
+      },
+      "closing_quality": "Eigen website, winterrooster",
+      "closing_source": "https://keernpunt.nl/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Winterrooster september–eind april; zomer dagelijks 11–20. Laatste toegang onbekend.",
+      "website": "https://keernpunt.nl/",
+      "other_sources": [
+        "https://www.zuidwestdrenthe.nl/nl/locaties/720929482/t-keernpunt"
+      ],
+      "original_status": "Actieve eigen restaurantwebsite met reserveringsmogelijkheid"
     }
   ],
   "admission_policies": [
