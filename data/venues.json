@@ -21447,46 +21447,49 @@
       "city": "Oosterwolde",
       "region": "friesland",
       "country": "Nederland",
-      "access": "Officiële website bevestigt vrije inloop voor een drankje en muziekavonden, zonder verplichte maaltijd of zaalhuur.",
-      "alcohol": "Eigen site noemt Hertog Jan, Jupiler, speciaalbier, borrel en wijn.",
+      "access": "Eigen website nodigt publiek uit voor eten, drinken en muziek.",
+      "alcohol": "Eigen homepage vermeldt bier, speciaalbier, wijn en borrels.",
       "selection": "Voorlopig",
       "opening": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "14:00",
+        "vr": "14:00",
+        "za": "14:00",
+        "zo": "14:00"
       },
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "—",
+        "di": "—",
+        "wo": "—",
+        "do": "01:00",
+        "vr": "04:00",
+        "za": "04:00",
+        "zo": "22:00"
       },
-      "closing_quality": "Eigen site bevestigt café en muziek maar geen actueel vast weekrooster. Externe gidsen hebben tegenstrijdige openings- en sluitingstijden.",
-      "closing_source": "",
-      "closing_notes": "30-10-2026: eigen https://stationsplein2.nl/ bevestigt publiek café, bier/wijn, maandelijkse live muziek, Stationsplein 2. https://www.goudengids.nl/nl/bedrijf/Oosterwolde/L111417965/Stationsplein%2B2%2BGrand%2BCaf%C3%A9/ noemt wo–za 11–23:45, terwijl https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde wo gesloten en vr/za tot 04 noemt. Geen gidsuren overgenomen. Laatste toegang onbekend.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://stationsplein2.nl/openingstijden/",
+      "closing_notes": "Ma–wo uitsluitend beschikbaar voor besloten feesten en bijeenkomsten; reguliere publieke uren do–zo. Laatste toegang onbekend.",
       "features": "D0 Ooststellingwerf / Oosterwolde; muziek en borrel",
       "website": "https://stationsplein2.nl/",
       "website_checked_on": "2026-10-30",
-      "checked_on": "2026-10-30",
+      "checked_on": "2026-11-27",
       "other_sources": [
         "https://www.uitagenda.nl/locaties/grand-cafe-stationsplein-2",
         "https://restaurantguru.com/Stationsplein-2-Oosterwolde-Fr-Oosterwolde",
         "https://stationsplein2.nl/"
       ],
-      "original_status": "Exploitant bevestigt vrije borrel en bier/wijn; vaste actuele sluiting niet geverifieerd.",
+      "original_status": "Eigen website publiceert regulier weekrooster.",
       "geo": {
         "lat": 52.9891665,
         "lon": 6.2934188,
         "method": "PDOK BAG-adres",
         "matched_address": "Stationsplein 2, 8431EZ Oosterwolde"
-      }
+      },
+      "opening_source": "https://stationsplein2.nl/openingstijden/",
+      "opening_checked_on": "2026-11-27",
+      "opening_quality": "Officiële website"
     },
     {
       "id": "cafe-de-brege-nij-beets-20261030",
@@ -42864,13 +42867,13 @@
       "alcohol": "Bier, wijn en cocktails op eigen menukaart",
       "selection": "Voorlopig",
       "closing": {
-        "ma": "?",
-        "di": "?",
-        "wo": "?",
-        "do": "?",
-        "vr": "?",
-        "za": "?",
-        "zo": "?"
+        "ma": "Varieert",
+        "di": "Varieert",
+        "wo": "Varieert",
+        "do": "Varieert",
+        "vr": "Varieert",
+        "za": "Varieert",
+        "zo": "Varieert"
       },
       "opening": {
         "ma": "11:00",
@@ -42881,10 +42884,10 @@
         "za": "11:00",
         "zo": "11:00"
       },
-      "closing_quality": "Eigen website",
-      "closing_source": "https://hotelonderdelinden.nl/gastrobar-roden/menukaart/",
-      "checked_on": "2026-11-20",
-      "closing_notes": "Eigen website vermeldt dagelijks 11:00 tot 'open einde'; geen exact sluituur.",
+      "closing_quality": "Officiële website",
+      "closing_source": "https://hotelonderdelinden.nl/gastrobar-roden/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Dagelijks vanaf 11:00 met open einde; keuken sluit 21:00. Laatste toegang onbekend.",
       "website": "https://hotelonderdelinden.nl/",
       "other_sources": [
         "https://hotelonderdelinden.nl/gastrobar-roden/borrelen/",
@@ -48107,6 +48110,49 @@
       "original_status": "Actuele vermelding op lokale bezoekerssite.",
       "geo": null,
       "opening_source": "https://roden.nl/foodcafe-burgers-en-zo/",
+      "opening_checked_on": "2026-11-27"
+    },
+    {
+      "id": "de-opstal-zuidhorn",
+      "name": "De Opstal",
+      "type": "Eetcafé",
+      "address": "Kerkstraat 4",
+      "city": "Zuidhorn",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Eigen website nodigt publiek uit voor diner; telefonisch reserveren mogelijk.",
+      "alcohol": "Tripadvisor vermeldt volledige bar, bier en wijn.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "—",
+        "wo": "23:00",
+        "do": "23:00",
+        "vr": "23:00",
+        "za": "23:00",
+        "zo": "23:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "—",
+        "wo": "16:00",
+        "do": "16:00",
+        "vr": "16:00",
+        "za": "16:00",
+        "zo": "16:00"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://www.eetcafedeopstal.nl/",
+      "checked_on": "2026-11-27",
+      "closing_notes": "Eigen FAQ geeft regulier weekrooster; lunch op voorafgaande reservering. Externe gidsen geven afwijkende uren; eigen website heeft voorrang. Laatste toegang onbekend.",
+      "website": "https://www.eetcafedeopstal.nl/",
+      "other_sources": [
+        "https://horecagroningen.nl/gelegenheid/de-opstal/",
+        "https://www.tripadvisor.nl/Restaurant_Review-g3981760-d15510286-Reviews-De_Opstal-Zuidhorn.html"
+      ],
+      "original_status": "Actieve eigen website met menu en weekrooster.",
+      "geo": null,
+      "opening_source": "https://www.eetcafedeopstal.nl/",
       "opening_checked_on": "2026-11-27"
     }
   ],
