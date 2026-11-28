@@ -48357,6 +48357,48 @@
       "geo": null,
       "opening_source": "https://www.ponkje.nl/",
       "opening_checked_on": "2026-11-28"
+    },
+    {
+      "id": "wokky-wokky-musselkanaal",
+      "name": "Restaurant Wokky Wokky",
+      "type": "Restaurant",
+      "address": "Marktstraat 102",
+      "city": "Musselkanaal",
+      "region": "groningen",
+      "country": "Nederland",
+      "access": "Publiek restaurant met all-you-can-eatformule van 2,5 uur; losse borrel niet bevestigd.",
+      "alcohol": "Eigen website bevestigt bier en extra alcoholische dranken.",
+      "selection": "Voorlopig",
+      "closing": {
+        "ma": "—",
+        "di": "22:00",
+        "wo": "22:00",
+        "do": "22:00",
+        "vr": "22:00",
+        "za": "22:00",
+        "zo": "22:00"
+      },
+      "opening": {
+        "ma": "—",
+        "di": "16:30",
+        "wo": "16:30",
+        "do": "16:30",
+        "vr": "16:30",
+        "za": "16:30",
+        "zo": "16:30"
+      },
+      "closing_quality": "Officiële website",
+      "closing_source": "https://wokkywokky.nl/contact/",
+      "checked_on": "2026-11-28",
+      "closing_notes": "Maandag gesloten behalve mogelijke feestdagen. Laatste toegang onbekend.",
+      "website": "https://wokkywokky.nl/",
+      "other_sources": [
+        "https://wokkywokky.nl/reserveren/"
+      ],
+      "original_status": "Actieve eigen website met reserveringsformulier en aanbod 2026.",
+      "geo": null,
+      "opening_source": "https://wokkywokky.nl/contact/",
+      "opening_checked_on": "2026-11-28"
     }
   ],
   "admission_policies": [
